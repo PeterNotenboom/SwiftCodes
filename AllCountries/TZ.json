@@ -1,1 +1,407 @@
-{"country":"Tanzania","country_code":"TZ","list":[["1","ACCESSBANK TANZANIA LTD","DAR ES SALAAM","ACTZTZTZ"],["2","ADVANS BANK TANZANIA","DAR ES SALAAM","ADVBTZTZ"],["3","AFRICAN BANKING CORPORATION TANZANIA LIMITED","DAR ES SALAAM","FMBZTZTX"],["4","AKIBA COMMERCIAL BANK PLC","DAR ES SALAAM","AKCOTZTZ"],["5","AMANA BANK LIMITED","DAR ES SALAAM","AMNNTZTZ"],["6","AZANIA BANCORP","DAR ES SALAAM","AZANTZTZ"],["7","BANK M TANZANIA LIMITED","DAR ES SALAAM","BNKMTZTZ"],["8","BANK OF BARODA (TANZANIA) LTD","DAR ES SALAAM","BARBTZTZ"],["9","BANK OF INDIA (TANZANIA) LIMITED","DAR ES SALAAM","BKIDTZTZ"],["10","BANK OF TANZANIA","DAR ES SALAAM","TANZTZTX"],["11","BARCLAYS BANK TANZANIA LTD","DAR ES SALAAM","BARCTZTZ"],["12","BOA BANK TANZANIA","DAR ES SALAAM","EUAFTZTZ"],["13","CITIBANK TANZANIA LTD","DAR ES SALAAM","CITITZTZ"],["14","COMMERCIAL BANK OF AFRICA (TANZANIA) LTD","DAR ES SALAAM","CBAFTZTZ"],["15","COVENANT BANK FOR WOMEN (TANZANIA) LIMITED","DAR ES SALAAM","CBFWTZTZ"],["16","CRDB BANK LIMITED","DAR ES SALAAM","CORUTZTZ"],["17","DAR ES SALAAM COMMUNITY BANK LTD","DAR ES SALAAM","DASUTZTZ"],["18","DAR ES SALAAM STOCK EXCHANGE","DAR ES SALAAM","DSTXTZTZ"],["19","DIAMOND TRUST BANK TANZANIA LTD","DAR ES SALAAM","DTKETZTZ"],["20","ECOBANK TANZANIA LIMITED","DAR ES SALAAM","ECOCTZTZ"],["21","EFATHA BANK LIMITED","DAR ES SALAAM","EFABTZTZ"],["22","EQUITY BANK TANZANIA LIMITED","DAR ES SALAAM","EQBLTZTZ"],["23","EXIMBANK (TANZANIA) LTD","DAR ES SALAAM","EXTNTZTZ"],["24","FBME BANK LTD","DAR ES SALAAM","FBMETZTZ"],["25","FIRST NATIONAL BANK OF TANZANIA","DAR ES SALAAM","FIRNTZTX"],["26","HABIB AFRICAN BANK","DAR ES SALAAM","HABLTZTZ"],["27","I AND M BANK (T) LIMITED","DAR ES SALAAM","IMBLTZTZ"],["28","INTERNATIONAL COMMERCIAL BANK (TANZANIA) LIMITED","DAR ES SALAAM","BKMYTZTZ"],["29","KCB BANK TANZANIA LIMITED","DAR ES SALAAM","KCBLTZTZ"],["30","KILIMANJARO CO-OPERATIVE BANK LTD","MOSHI","KLMJTZTZ"],["31","MAENDELEO BANK LTD","DAR ES SALAAM","MBTLTZTZ"],["32","MERU COMMUNITY BANK LTD","ARUSHA","MCBNTZTZ"],["33","MKOMBOZI COMMERCIAL BANK LTD","DAR ES SALAAM","MKCBTZTZ"],["34","MWANGA COMMUNITY BANK LTD","MOSHI","MWCBTZTZ"],["35","NATIONAL BANK OF COMMERCE, THE","ARUSHA","(ARUSHA BRANCH)","NLCBTZTX0T4"],["36","NATIONAL BANK OF COMMERCE, THE","DAR ES SALAAM","(CORPORATE BRANCH)","NLCBTZTX0T3"],["37","NATIONAL BANK OF COMMERCE, THE","DAR ES SALAAM","(FINANCIAL DEPARTMENT-NBC HOUSE)","NLCBTZTXFIN"],["38","NATIONAL BANK OF COMMERCE, THE","DAR ES SALAAM","(HEADOFFICE)","NLCBTZTX"],["39","NATIONAL BANK OF COMMERCE, THE","DAR ES SALAAM","(INDUSTRIAL BRANCH)","NLCBTZTXIND"],["40","NATIONAL BANK OF COMMERCE, THE","DAR ES SALAAM","(KICHWELE BRANCH)","NLCBTZTXKIC"],["41","NATIONAL BANK OF COMMERCE, THE","DAR ES SALAAM","(MNAZI MMOJA BRANCH)","NLCBTZTXMNA"],["42","NATIONAL BANK OF COMMERCE, THE","DAR ES SALAAM","(SAMORA BRANCH)","NLCBTZTX0T8"],["43","NATIONAL BANK OF COMMERCE, THE","MBEYA","(MBEYA BRANCH)","NLCBTZTXMBE"],["44","NATIONAL BANK OF COMMERCE, THE","MOROGORO","(MOROGORO BRANCH)","NLCBTZTXMOR"],["45","NATIONAL BANK OF COMMERCE, THE","MOSHI","(MOSHI BRANCH)","NLCBTZTX0TM"],["46","NATIONAL BANK OF COMMERCE, THE","MWANZA","(MWANZA BRANCH)","NLCBTZTX0T5"],["47","NATIONAL BANK OF COMMERCE, THE","TANGA","(TANGA BRANCH)","NLCBTZTXTAN"],["48","NATIONAL BANK OF COMMERCE, THE","ZANZIBAR","(ZANZIBAR BRANCH-UNGUJA)","NLCBTZTXZAN"],["49","NATIONAL MICROFINANCE BANK LIMITED","DAR ES SALAAM","NMIBTZTZ"],["50","NIC BANK (TANZANIA) LIMITED","DAR ES SALAAM","SFICTZTZ"],["51","PEOPLE'S BANK OF ZANZIBAR, THE","ZANZIBAR","(CHAKE CHAKE BRANCH)","PBZATZTZCHK"],["52","PEOPLE'S BANK OF ZANZIBAR, THE","ZANZIBAR","(MWANAKWEREKWE BRANCH)","PBZATZTZNWK"],["53","PEOPLE'S BANK OF ZANZIBAR, THE","ZANZIBAR","PBZATZTZ"],["54","STANBIC BANK TANZANIA LTD.","DAR ES SALAAM","SBICTZTX"],["55","STANDARD CHARTERED BANK TANZANIA LTD","DAR ES SALAAM","(SECURITIES SERVICES UNIT)","SCBLTZTXSSU"],["56","STANDARD CHARTERED BANK TANZANIA LTD","DAR ES SALAAM","SCBLTZTX"],["57","TANZANIA POSTAL BANK","DAR ES SALAAM","TAPBTZTZ"],["58","TANZANIA REVENUE AUTHORITY","DAR ES SALAAM","TARATZTZ"],["59","TANZANIA WOMEN'S BANK LTD","DAR ES SALAAM","TWBLTZTZ"],["60","TIB DEVELOPMENT BANK LIMITED","DAR ES SALAAM","TAINTZTZ"],["61","TWIGA BANCORP LIMITED","DAR ES SALAAM","TWIGTZTZ"],["62","UBL BANK (TANZANIA) LIMITED","DAR ES SALAAM","UNILTZTZ"],["63","UCHUMI COMMERCIAL BANK LTD","MOSHI","UCCTTZTZ"],["64","UNITED BANK FOR AFRICA (TANZANIA) LIMITED","DAR ES SALAAM","UNAFTZTZ"]]}
+{
+    "country": "Tanzania",
+    "country_code": "TZ",
+    "list": [
+        [
+            "1",
+            "ACCESSBANK TANZANIA LTD",
+            "DAR ES SALAAM",
+            "ACTZTZTZ"
+        ],
+        [
+            "2",
+            "ADVANS BANK TANZANIA",
+            "DAR ES SALAAM",
+            "ADVBTZTZ"
+        ],
+        [
+            "3",
+            "AFRICAN BANKING CORPORATION TANZANIA LIMITED",
+            "DAR ES SALAAM",
+            "FMBZTZTX"
+        ],
+        [
+            "4",
+            "AKIBA COMMERCIAL BANK PLC",
+            "DAR ES SALAAM",
+            "AKCOTZTZ"
+        ],
+        [
+            "5",
+            "AMANA BANK LIMITED",
+            "DAR ES SALAAM",
+            "AMNNTZTZ"
+        ],
+        [
+            "6",
+            "AZANIA BANCORP",
+            "DAR ES SALAAM",
+            "AZANTZTZ"
+        ],
+        [
+            "7",
+            "BANK M TANZANIA LIMITED",
+            "DAR ES SALAAM",
+            "BNKMTZTZ"
+        ],
+        [
+            "8",
+            "BANK OF BARODA (TANZANIA) LTD",
+            "DAR ES SALAAM",
+            "BARBTZTZ"
+        ],
+        [
+            "9",
+            "BANK OF INDIA (TANZANIA) LIMITED",
+            "DAR ES SALAAM",
+            "BKIDTZTZ"
+        ],
+        [
+            "10",
+            "BANK OF TANZANIA",
+            "DAR ES SALAAM",
+            "TANZTZTX"
+        ],
+        [
+            "11",
+            "BARCLAYS BANK TANZANIA LTD",
+            "DAR ES SALAAM",
+            "BARCTZTZ"
+        ],
+        [
+            "12",
+            "BOA BANK TANZANIA",
+            "DAR ES SALAAM",
+            "EUAFTZTZ"
+        ],
+        [
+            "13",
+            "CITIBANK TANZANIA LTD",
+            "DAR ES SALAAM",
+            "CITITZTZ"
+        ],
+        [
+            "14",
+            "COMMERCIAL BANK OF AFRICA (TANZANIA) LTD",
+            "DAR ES SALAAM",
+            "CBAFTZTZ"
+        ],
+        [
+            "15",
+            "COVENANT BANK FOR WOMEN (TANZANIA) LIMITED",
+            "DAR ES SALAAM",
+            "CBFWTZTZ"
+        ],
+        [
+            "16",
+            "CRDB BANK LIMITED",
+            "DAR ES SALAAM",
+            "CORUTZTZ"
+        ],
+        [
+            "17",
+            "DAR ES SALAAM COMMUNITY BANK LTD",
+            "DAR ES SALAAM",
+            "DASUTZTZ"
+        ],
+        [
+            "18",
+            "DAR ES SALAAM STOCK EXCHANGE",
+            "DAR ES SALAAM",
+            "DSTXTZTZ"
+        ],
+        [
+            "19",
+            "DIAMOND TRUST BANK TANZANIA LTD",
+            "DAR ES SALAAM",
+            "DTKETZTZ"
+        ],
+        [
+            "20",
+            "ECOBANK TANZANIA LIMITED",
+            "DAR ES SALAAM",
+            "ECOCTZTZ"
+        ],
+        [
+            "21",
+            "EFATHA BANK LIMITED",
+            "DAR ES SALAAM",
+            "EFABTZTZ"
+        ],
+        [
+            "22",
+            "EQUITY BANK TANZANIA LIMITED",
+            "DAR ES SALAAM",
+            "EQBLTZTZ"
+        ],
+        [
+            "23",
+            "EXIMBANK (TANZANIA) LTD",
+            "DAR ES SALAAM",
+            "EXTNTZTZ"
+        ],
+        [
+            "24",
+            "FBME BANK LTD",
+            "DAR ES SALAAM",
+            "FBMETZTZ"
+        ],
+        [
+            "25",
+            "FIRST NATIONAL BANK OF TANZANIA",
+            "DAR ES SALAAM",
+            "FIRNTZTX"
+        ],
+        [
+            "26",
+            "HABIB AFRICAN BANK",
+            "DAR ES SALAAM",
+            "HABLTZTZ"
+        ],
+        [
+            "27",
+            "I AND M BANK (T) LIMITED",
+            "DAR ES SALAAM",
+            "IMBLTZTZ"
+        ],
+        [
+            "28",
+            "INTERNATIONAL COMMERCIAL BANK (TANZANIA) LIMITED",
+            "DAR ES SALAAM",
+            "BKMYTZTZ"
+        ],
+        [
+            "29",
+            "KCB BANK TANZANIA LIMITED",
+            "DAR ES SALAAM",
+            "KCBLTZTZ"
+        ],
+        [
+            "30",
+            "KILIMANJARO CO-OPERATIVE BANK LTD",
+            "MOSHI",
+            "KLMJTZTZ"
+        ],
+        [
+            "31",
+            "MAENDELEO BANK LTD",
+            "DAR ES SALAAM",
+            "MBTLTZTZ"
+        ],
+        [
+            "32",
+            "MERU COMMUNITY BANK LTD",
+            "ARUSHA",
+            "MCBNTZTZ"
+        ],
+        [
+            "33",
+            "MKOMBOZI COMMERCIAL BANK LTD",
+            "DAR ES SALAAM",
+            "MKCBTZTZ"
+        ],
+        [
+            "34",
+            "MWANGA COMMUNITY BANK LTD",
+            "MOSHI",
+            "MWCBTZTZ"
+        ],
+        [
+            "35",
+            "NATIONAL BANK OF COMMERCE, THE",
+            "ARUSHA",
+            "(ARUSHA BRANCH)",
+            "NLCBTZTX0T4"
+        ],
+        [
+            "36",
+            "NATIONAL BANK OF COMMERCE, THE",
+            "DAR ES SALAAM",
+            "(CORPORATE BRANCH)",
+            "NLCBTZTX0T3"
+        ],
+        [
+            "37",
+            "NATIONAL BANK OF COMMERCE, THE",
+            "DAR ES SALAAM",
+            "(FINANCIAL DEPARTMENT-NBC HOUSE)",
+            "NLCBTZTXFIN"
+        ],
+        [
+            "38",
+            "NATIONAL BANK OF COMMERCE, THE",
+            "DAR ES SALAAM",
+            "(HEADOFFICE)",
+            "NLCBTZTX"
+        ],
+        [
+            "39",
+            "NATIONAL BANK OF COMMERCE, THE",
+            "DAR ES SALAAM",
+            "(INDUSTRIAL BRANCH)",
+            "NLCBTZTXIND"
+        ],
+        [
+            "40",
+            "NATIONAL BANK OF COMMERCE, THE",
+            "DAR ES SALAAM",
+            "(KICHWELE BRANCH)",
+            "NLCBTZTXKIC"
+        ],
+        [
+            "41",
+            "NATIONAL BANK OF COMMERCE, THE",
+            "DAR ES SALAAM",
+            "(MNAZI MMOJA BRANCH)",
+            "NLCBTZTXMNA"
+        ],
+        [
+            "42",
+            "NATIONAL BANK OF COMMERCE, THE",
+            "DAR ES SALAAM",
+            "(SAMORA BRANCH)",
+            "NLCBTZTX0T8"
+        ],
+        [
+            "43",
+            "NATIONAL BANK OF COMMERCE, THE",
+            "MBEYA",
+            "(MBEYA BRANCH)",
+            "NLCBTZTXMBE"
+        ],
+        [
+            "44",
+            "NATIONAL BANK OF COMMERCE, THE",
+            "MOROGORO",
+            "(MOROGORO BRANCH)",
+            "NLCBTZTXMOR"
+        ],
+        [
+            "45",
+            "NATIONAL BANK OF COMMERCE, THE",
+            "MOSHI",
+            "(MOSHI BRANCH)",
+            "NLCBTZTX0TM"
+        ],
+        [
+            "46",
+            "NATIONAL BANK OF COMMERCE, THE",
+            "MWANZA",
+            "(MWANZA BRANCH)",
+            "NLCBTZTX0T5"
+        ],
+        [
+            "47",
+            "NATIONAL BANK OF COMMERCE, THE",
+            "TANGA",
+            "(TANGA BRANCH)",
+            "NLCBTZTXTAN"
+        ],
+        [
+            "48",
+            "NATIONAL BANK OF COMMERCE, THE",
+            "ZANZIBAR",
+            "(ZANZIBAR BRANCH-UNGUJA)",
+            "NLCBTZTXZAN"
+        ],
+        [
+            "49",
+            "NATIONAL MICROFINANCE BANK LIMITED",
+            "DAR ES SALAAM",
+            "NMIBTZTZ"
+        ],
+        [
+            "50",
+            "NIC BANK (TANZANIA) LIMITED",
+            "DAR ES SALAAM",
+            "SFICTZTZ"
+        ],
+        [
+            "51",
+            "PEOPLE'S BANK OF ZANZIBAR, THE",
+            "ZANZIBAR",
+            "(CHAKE CHAKE BRANCH)",
+            "PBZATZTZCHK"
+        ],
+        [
+            "52",
+            "PEOPLE'S BANK OF ZANZIBAR, THE",
+            "ZANZIBAR",
+            "(MWANAKWEREKWE BRANCH)",
+            "PBZATZTZNWK"
+        ],
+        [
+            "53",
+            "PEOPLE'S BANK OF ZANZIBAR, THE",
+            "ZANZIBAR",
+            "PBZATZTZ"
+        ],
+        [
+            "54",
+            "STANBIC BANK TANZANIA LTD.",
+            "DAR ES SALAAM",
+            "SBICTZTX"
+        ],
+        [
+            "55",
+            "STANDARD CHARTERED BANK TANZANIA LTD",
+            "DAR ES SALAAM",
+            "(SECURITIES SERVICES UNIT)",
+            "SCBLTZTXSSU"
+        ],
+        [
+            "56",
+            "STANDARD CHARTERED BANK TANZANIA LTD",
+            "DAR ES SALAAM",
+            "SCBLTZTX"
+        ],
+        [
+            "57",
+            "TANZANIA POSTAL BANK",
+            "DAR ES SALAAM",
+            "TAPBTZTZ"
+        ],
+        [
+            "58",
+            "TANZANIA REVENUE AUTHORITY",
+            "DAR ES SALAAM",
+            "TARATZTZ"
+        ],
+        [
+            "59",
+            "TANZANIA WOMEN'S BANK LTD",
+            "DAR ES SALAAM",
+            "TWBLTZTZ"
+        ],
+        [
+            "60",
+            "TIB DEVELOPMENT BANK LIMITED",
+            "DAR ES SALAAM",
+            "TAINTZTZ"
+        ],
+        [
+            "61",
+            "TWIGA BANCORP LIMITED",
+            "DAR ES SALAAM",
+            "TWIGTZTZ"
+        ],
+        [
+            "62",
+            "UBL BANK (TANZANIA) LIMITED",
+            "DAR ES SALAAM",
+            "UNILTZTZ"
+        ],
+        [
+            "63",
+            "UCHUMI COMMERCIAL BANK LTD",
+            "MOSHI",
+            "UCCTTZTZ"
+        ],
+        [
+            "64",
+            "UNITED BANK FOR AFRICA (TANZANIA) LIMITED",
+            "DAR ES SALAAM",
+            "UNAFTZTZ"
+        ]
+    ]
+}

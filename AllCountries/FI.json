@@ -1,1 +1,373 @@
-{"country":"Finland","country_code":"FI","list":[["1","AKTIA BANK P.L.C.","HELSINKI","HELSFIHH"],["2","BANK OF ALAND PLC","MARIEHAMN","(TREASURY DEPARTMENT)","AABAFI22TMS"],["3","BANK OF ALAND PLC","MARIEHAMN","AABAFI22"],["4","BONUM BANK LTD","ESPOO","POPFFI22"],["5","CARGOTEC OYJ","HELSINKI","CTECFIHH"],["6","CENTRAL BANK OF SAVINGS BANKS FINLAND LTD","ESPOO","ITELFIHH"],["7","CITIBANK INTERNATIONAL LIMITED FINLAND BRANCH","HELSINKI","CITIFIHX"],["8","CREDIT AGRICOLE CIB","HELSINKI","BSUIFIHH"],["9","DANSKE BANK","HELSINKI","DABAFIHX"],["10","DANSKE BANK PLC","HELSINKI","(CLS SERVICES)","DABAFIHHCLS"],["11","DANSKE BANK PLC","HELSINKI","(DANSKE CAPITAL)","DABAFIHHCAP"],["12","DANSKE BANK PLC","HELSINKI","DABAFIHH"],["13","DNB BANK ASA, FILIAL FINLAND","HELSINKI","DNBAFIHX"],["14","EUFEX LTD","ESPOO","EUFXFIHH"],["15","EUROCLEAR FINLAND LTD","HELSINKI","(CSD COMMUNITY)","APKEFIHHCLP"],["16","EUROCLEAR FINLAND LTD","HELSINKI","(MONEY MARKET SYSTEM)","APKEFIHHATP"],["17","EUROCLEAR FINLAND LTD","HELSINKI","APKEFIHH"],["18","EVLI BANK PLC","HELSINKI","(INVESTMENT FUNDS)","EVSEFIHHFND"],["19","EVLI BANK PLC","HELSINKI","EVSEFIHH"],["20","FIM BANK LTD","HELSINKI","FISEFIHH"],["21","JPMORGAN EUROPE LIMITED, HELSINKI BRANCH","HELSINKI","CHASFIHH"],["22","LOCALTAPIOLA ASSET MANAGEMENT LTD","ESPOO","LTAPFI22"],["23","METSA GROUP FINANCIAL SERVICES","ESPOO","MGRPFI22"],["24","METSO CORPORATION","HELSINKI","MTSOFIHH"],["25","MUNICIPALITY FINANCE PLC","HELSINKI","MUFIFIHH"],["26","NORDEA BANK FINLAND PLC","HELSINKI","(MARKETS CLIENTS)","NDEAFIHHNFC"],["27","NORDEA BANK FINLAND PLC","HELSINKI","(MARKETS EQUITIES)","NDEAFIHH030"],["28","NORDEA BANK FINLAND PLC","HELSINKI","(MARKETS HOUSE)","NDEAFIHHNFH"],["29","NORDEA BANK FINLAND PLC","HELSINKI","NDEAFIHH"],["30","NORDEA BANK FINLAND PLC","HELSINKI","NDEAFIHHISA"],["31","NORDEA BANK FINLAND PLC","HELSINKI","NDEAFIHHNCL"],["32","NORDEA BANK FINLAND PLC","HELSINKI","NDEAFIHHTRI"],["33","NORDIC INVESTMENT BANK","HELSINKI","NOINFIHH"],["34","OPUSCAPITA GROUP OY","ESPOO","OPUSFI2H"],["35","POHJOLA PANKKI OYJ (POHJOLA BANK PLC)","HELSINKI","OKOYFIHH"],["36","RAMIRENT PLC","VANTAA","RMRTFI22"],["37","SANOMAWSOY CORPORATION","HELSINKI","SAWSFIHH"],["38","S-BANK LTD","HELSINKI","SBANFIHH"],["39","S-BANK LTD (FORMERLY LOCALTAPIOLA BANK PLC)","ESPOO","TAPIFI22"],["40","SKANDINAVISKA ENSKILDA BANKEN","HELSINKI","ESSEFIHX"],["41","STATE TREASURY","HELSINKI","VKSKFIHH"],["42","SUOMEN PANKKI - FINLANDS BANK","HELSINKI","(COLLATERAL MANAGEMENT)","SPFBFIHHCMS"],["43","SUOMEN PANKKI - FINLANDS BANK","HELSINKI","(ECB OPERATIONS)","SPFBFIHHECB"],["44","SUOMEN PANKKI - FINLANDS BANK","HELSINKI","(TARGET2 NCB\/ECB INTERNAL)","SPFBFIHHEUX"],["45","SUOMEN PANKKI - FINLANDS BANK","HELSINKI","(TARGET2 PMJ-AS DTS)","SPFBFIHH1A1"],["46","SUOMEN PANKKI - FINLANDS BANK","HELSINKI","(TARGET2 PMJ-AS NTS)","SPFBFIHHASI"],["47","SUOMEN PANKKI - FINLANDS BANK","HELSINKI","(TARGET2 RAHAHUOLTO)","SPFBFIHH1A2"],["48","SUOMEN PANKKI - FINLANDS BANK","HELSINKI","(TARGET2 RMA INTERNAL)","SPFBFIHHRMA"],["49","SUOMEN PANKKI - FINLANDS BANK","HELSINKI","(TARGET2 SFA INTERNAL)","SPFBFIHHSFA"],["50","SUOMEN PANKKI - FINLANDS BANK","HELSINKI","(TARGET2 SFM INTERNAL)","SPFBFIHHSFM"],["51","SUOMEN PANKKI - FINLANDS BANK","HELSINKI","SPFBFIHH"],["52","SUOMEN PANKKI - FINLANDS BANK","HELSINKI","SPFBFIHHCON"],["53","SVENSKA HANDELSBANKEN","HELSINKI","(NORDIC CUSTODY SERVICES)","HANDFIHHCUS"],["54","SVENSKA HANDELSBANKEN","HELSINKI","HANDFIHH"],["55","SWEDBANK AB","HELSINKI","SWEDFIHH"],["56","TIETO OYJ","HELSINKI","TICOFIHH"],["57","UPM-KYMMENE CORPORATION","HELSINKI","UPMKFIHH"],["58","VALMET CORPORATION","ESPOO","VLMTFIHH"]]}
+{
+    "country": "Finland",
+    "country_code": "FI",
+    "list": [
+        [
+            "1",
+            "AKTIA BANK P.L.C.",
+            "HELSINKI",
+            "HELSFIHH"
+        ],
+        [
+            "2",
+            "BANK OF ALAND PLC",
+            "MARIEHAMN",
+            "(TREASURY DEPARTMENT)",
+            "AABAFI22TMS"
+        ],
+        [
+            "3",
+            "BANK OF ALAND PLC",
+            "MARIEHAMN",
+            "AABAFI22"
+        ],
+        [
+            "4",
+            "BONUM BANK LTD",
+            "ESPOO",
+            "POPFFI22"
+        ],
+        [
+            "5",
+            "CARGOTEC OYJ",
+            "HELSINKI",
+            "CTECFIHH"
+        ],
+        [
+            "6",
+            "CENTRAL BANK OF SAVINGS BANKS FINLAND LTD",
+            "ESPOO",
+            "ITELFIHH"
+        ],
+        [
+            "7",
+            "CITIBANK INTERNATIONAL LIMITED FINLAND BRANCH",
+            "HELSINKI",
+            "CITIFIHX"
+        ],
+        [
+            "8",
+            "CREDIT AGRICOLE CIB",
+            "HELSINKI",
+            "BSUIFIHH"
+        ],
+        [
+            "9",
+            "DANSKE BANK",
+            "HELSINKI",
+            "DABAFIHX"
+        ],
+        [
+            "10",
+            "DANSKE BANK PLC",
+            "HELSINKI",
+            "(CLS SERVICES)",
+            "DABAFIHHCLS"
+        ],
+        [
+            "11",
+            "DANSKE BANK PLC",
+            "HELSINKI",
+            "(DANSKE CAPITAL)",
+            "DABAFIHHCAP"
+        ],
+        [
+            "12",
+            "DANSKE BANK PLC",
+            "HELSINKI",
+            "DABAFIHH"
+        ],
+        [
+            "13",
+            "DNB BANK ASA, FILIAL FINLAND",
+            "HELSINKI",
+            "DNBAFIHX"
+        ],
+        [
+            "14",
+            "EUFEX LTD",
+            "ESPOO",
+            "EUFXFIHH"
+        ],
+        [
+            "15",
+            "EUROCLEAR FINLAND LTD",
+            "HELSINKI",
+            "(CSD COMMUNITY)",
+            "APKEFIHHCLP"
+        ],
+        [
+            "16",
+            "EUROCLEAR FINLAND LTD",
+            "HELSINKI",
+            "(MONEY MARKET SYSTEM)",
+            "APKEFIHHATP"
+        ],
+        [
+            "17",
+            "EUROCLEAR FINLAND LTD",
+            "HELSINKI",
+            "APKEFIHH"
+        ],
+        [
+            "18",
+            "EVLI BANK PLC",
+            "HELSINKI",
+            "(INVESTMENT FUNDS)",
+            "EVSEFIHHFND"
+        ],
+        [
+            "19",
+            "EVLI BANK PLC",
+            "HELSINKI",
+            "EVSEFIHH"
+        ],
+        [
+            "20",
+            "FIM BANK LTD",
+            "HELSINKI",
+            "FISEFIHH"
+        ],
+        [
+            "21",
+            "JPMORGAN EUROPE LIMITED, HELSINKI BRANCH",
+            "HELSINKI",
+            "CHASFIHH"
+        ],
+        [
+            "22",
+            "LOCALTAPIOLA ASSET MANAGEMENT LTD",
+            "ESPOO",
+            "LTAPFI22"
+        ],
+        [
+            "23",
+            "METSA GROUP FINANCIAL SERVICES",
+            "ESPOO",
+            "MGRPFI22"
+        ],
+        [
+            "24",
+            "METSO CORPORATION",
+            "HELSINKI",
+            "MTSOFIHH"
+        ],
+        [
+            "25",
+            "MUNICIPALITY FINANCE PLC",
+            "HELSINKI",
+            "MUFIFIHH"
+        ],
+        [
+            "26",
+            "NORDEA BANK FINLAND PLC",
+            "HELSINKI",
+            "(MARKETS CLIENTS)",
+            "NDEAFIHHNFC"
+        ],
+        [
+            "27",
+            "NORDEA BANK FINLAND PLC",
+            "HELSINKI",
+            "(MARKETS EQUITIES)",
+            "NDEAFIHH030"
+        ],
+        [
+            "28",
+            "NORDEA BANK FINLAND PLC",
+            "HELSINKI",
+            "(MARKETS HOUSE)",
+            "NDEAFIHHNFH"
+        ],
+        [
+            "29",
+            "NORDEA BANK FINLAND PLC",
+            "HELSINKI",
+            "NDEAFIHH"
+        ],
+        [
+            "30",
+            "NORDEA BANK FINLAND PLC",
+            "HELSINKI",
+            "NDEAFIHHISA"
+        ],
+        [
+            "31",
+            "NORDEA BANK FINLAND PLC",
+            "HELSINKI",
+            "NDEAFIHHNCL"
+        ],
+        [
+            "32",
+            "NORDEA BANK FINLAND PLC",
+            "HELSINKI",
+            "NDEAFIHHTRI"
+        ],
+        [
+            "33",
+            "NORDIC INVESTMENT BANK",
+            "HELSINKI",
+            "NOINFIHH"
+        ],
+        [
+            "34",
+            "OPUSCAPITA GROUP OY",
+            "ESPOO",
+            "OPUSFI2H"
+        ],
+        [
+            "35",
+            "POHJOLA PANKKI OYJ (POHJOLA BANK PLC)",
+            "HELSINKI",
+            "OKOYFIHH"
+        ],
+        [
+            "36",
+            "RAMIRENT PLC",
+            "VANTAA",
+            "RMRTFI22"
+        ],
+        [
+            "37",
+            "SANOMAWSOY CORPORATION",
+            "HELSINKI",
+            "SAWSFIHH"
+        ],
+        [
+            "38",
+            "S-BANK LTD",
+            "HELSINKI",
+            "SBANFIHH"
+        ],
+        [
+            "39",
+            "S-BANK LTD (FORMERLY LOCALTAPIOLA BANK PLC)",
+            "ESPOO",
+            "TAPIFI22"
+        ],
+        [
+            "40",
+            "SKANDINAVISKA ENSKILDA BANKEN",
+            "HELSINKI",
+            "ESSEFIHX"
+        ],
+        [
+            "41",
+            "STATE TREASURY",
+            "HELSINKI",
+            "VKSKFIHH"
+        ],
+        [
+            "42",
+            "SUOMEN PANKKI - FINLANDS BANK",
+            "HELSINKI",
+            "(COLLATERAL MANAGEMENT)",
+            "SPFBFIHHCMS"
+        ],
+        [
+            "43",
+            "SUOMEN PANKKI - FINLANDS BANK",
+            "HELSINKI",
+            "(ECB OPERATIONS)",
+            "SPFBFIHHECB"
+        ],
+        [
+            "44",
+            "SUOMEN PANKKI - FINLANDS BANK",
+            "HELSINKI",
+            "(TARGET2 NCB\/ECB INTERNAL)",
+            "SPFBFIHHEUX"
+        ],
+        [
+            "45",
+            "SUOMEN PANKKI - FINLANDS BANK",
+            "HELSINKI",
+            "(TARGET2 PMJ-AS DTS)",
+            "SPFBFIHH1A1"
+        ],
+        [
+            "46",
+            "SUOMEN PANKKI - FINLANDS BANK",
+            "HELSINKI",
+            "(TARGET2 PMJ-AS NTS)",
+            "SPFBFIHHASI"
+        ],
+        [
+            "47",
+            "SUOMEN PANKKI - FINLANDS BANK",
+            "HELSINKI",
+            "(TARGET2 RAHAHUOLTO)",
+            "SPFBFIHH1A2"
+        ],
+        [
+            "48",
+            "SUOMEN PANKKI - FINLANDS BANK",
+            "HELSINKI",
+            "(TARGET2 RMA INTERNAL)",
+            "SPFBFIHHRMA"
+        ],
+        [
+            "49",
+            "SUOMEN PANKKI - FINLANDS BANK",
+            "HELSINKI",
+            "(TARGET2 SFA INTERNAL)",
+            "SPFBFIHHSFA"
+        ],
+        [
+            "50",
+            "SUOMEN PANKKI - FINLANDS BANK",
+            "HELSINKI",
+            "(TARGET2 SFM INTERNAL)",
+            "SPFBFIHHSFM"
+        ],
+        [
+            "51",
+            "SUOMEN PANKKI - FINLANDS BANK",
+            "HELSINKI",
+            "SPFBFIHH"
+        ],
+        [
+            "52",
+            "SUOMEN PANKKI - FINLANDS BANK",
+            "HELSINKI",
+            "SPFBFIHHCON"
+        ],
+        [
+            "53",
+            "SVENSKA HANDELSBANKEN",
+            "HELSINKI",
+            "(NORDIC CUSTODY SERVICES)",
+            "HANDFIHHCUS"
+        ],
+        [
+            "54",
+            "SVENSKA HANDELSBANKEN",
+            "HELSINKI",
+            "HANDFIHH"
+        ],
+        [
+            "55",
+            "SWEDBANK AB",
+            "HELSINKI",
+            "SWEDFIHH"
+        ],
+        [
+            "56",
+            "TIETO OYJ",
+            "HELSINKI",
+            "TICOFIHH"
+        ],
+        [
+            "57",
+            "UPM-KYMMENE CORPORATION",
+            "HELSINKI",
+            "UPMKFIHH"
+        ],
+        [
+            "58",
+            "VALMET CORPORATION",
+            "ESPOO",
+            "VLMTFIHH"
+        ]
+    ]
+}

@@ -1,1 +1,165 @@
-{"country":"Paraguay","country_code":"PY","list":[["1","BANCO AMAMBAY S.A.","ASUNCION","AMAMPYPA"],["2","BANCO ATLAS S.A.","ASUNCION","BNITPYPA"],["3","BANCO BILBAO VIZCAYA ARGENTARIA PARAGUAY S.A.","ASUNCION","BBVAPYPA"],["4","BANCO CENTRAL DEL PARAGUAY","ASUNCION","(AIM\/POMS SERVICE)","BCPAPYPB"],["5","BANCO CENTRAL DEL PARAGUAY","ASUNCION","(OPERACIONES NACIONALES - DPTO. DE CREDITO Y CTAS. CTES.)","BCPAPYPXGON"],["6","BANCO CENTRAL DEL PARAGUAY","ASUNCION","BCPAPYPD"],["7","BANCO CENTRAL DEL PARAGUAY","ASUNCION","BCPAPYPR"],["8","BANCO CENTRAL DEL PARAGUAY","ASUNCION","BCPAPYPX"],["9","BANCO CONTINENTAL SAECA","ASUNCION","BCNAPYPA"],["10","BANCO DE LA NACION ARGENTINA","ASUNCION","(SUCURSAL ASUNCION)","NACNPYPA"],["11","BANCO DE LA NACION ARGENTINA","CONCEPCION","NACNPYPA0PC"],["12","BANCO DE LA NACION ARGENTINA","ENCARNACION","NACNPYPA0PE"],["13","BANCO DE LA NACION ARGENTINA","VILLARRICA","NACNPYPA0P3"],["14","BANCO DO BRASIL S.A.","ASUNCION","BRASPYPX"],["15","BANCO FAMILIAR S.A.E.C.A.","ASUNCION","FAMIPYPA"],["16","BANCO GNB PARAGUAY S.A.","ASUNCION","BGNBPYPX"],["17","BANCO ITAPUA SAECA","ENCARNACION","BISAPYPE"],["18","BANCO ITAU PARAGUAY S.A.","ASUNCION","UBBRPYPX"],["19","BANCO NACIONAL DE FOMENTO","ASUNCION","BNFAPYPA"],["20","BANCO PARA LA COMERCIALIZACION Y LA PRODUCCION SOCIEDAD ANONIMA (BANCOP S.A.)","ASUNCION","BCOPPYPA"],["21","BANCO REGIONAL S.A.E.C.A.","ENCARNACION","RGSAPYPE"],["22","CRISOL Y ENCARNACIN FINANCIERA S.A.","ENCARNACION","CIEFPYPE"],["23","FINANCIERA PARAGUAYO JAPONESA SAECA","ASUNCION","FPJSPYPA"],["24","FONPLATA - FONDO FINANCIERO PARA EL DESAROLLO DE LA CUENCA DEL PLATA","ASUNCION","FOPLPYPA"],["25","SUDAMERIS BANK S.A.E.C.A.","ASUNCION","BSUDPYPX"],["26","VISION BANCO S.A.E.C.A.","ASUNCION","VISCPYPA"]]}
+{
+    "country": "Paraguay",
+    "country_code": "PY",
+    "list": [
+        [
+            "1",
+            "BANCO AMAMBAY S.A.",
+            "ASUNCION",
+            "AMAMPYPA"
+        ],
+        [
+            "2",
+            "BANCO ATLAS S.A.",
+            "ASUNCION",
+            "BNITPYPA"
+        ],
+        [
+            "3",
+            "BANCO BILBAO VIZCAYA ARGENTARIA PARAGUAY S.A.",
+            "ASUNCION",
+            "BBVAPYPA"
+        ],
+        [
+            "4",
+            "BANCO CENTRAL DEL PARAGUAY",
+            "ASUNCION",
+            "(AIM\/POMS SERVICE)",
+            "BCPAPYPB"
+        ],
+        [
+            "5",
+            "BANCO CENTRAL DEL PARAGUAY",
+            "ASUNCION",
+            "(OPERACIONES NACIONALES - DPTO. DE CREDITO Y CTAS. CTES.)",
+            "BCPAPYPXGON"
+        ],
+        [
+            "6",
+            "BANCO CENTRAL DEL PARAGUAY",
+            "ASUNCION",
+            "BCPAPYPD"
+        ],
+        [
+            "7",
+            "BANCO CENTRAL DEL PARAGUAY",
+            "ASUNCION",
+            "BCPAPYPR"
+        ],
+        [
+            "8",
+            "BANCO CENTRAL DEL PARAGUAY",
+            "ASUNCION",
+            "BCPAPYPX"
+        ],
+        [
+            "9",
+            "BANCO CONTINENTAL SAECA",
+            "ASUNCION",
+            "BCNAPYPA"
+        ],
+        [
+            "10",
+            "BANCO DE LA NACION ARGENTINA",
+            "ASUNCION",
+            "(SUCURSAL ASUNCION)",
+            "NACNPYPA"
+        ],
+        [
+            "11",
+            "BANCO DE LA NACION ARGENTINA",
+            "CONCEPCION",
+            "NACNPYPA0PC"
+        ],
+        [
+            "12",
+            "BANCO DE LA NACION ARGENTINA",
+            "ENCARNACION",
+            "NACNPYPA0PE"
+        ],
+        [
+            "13",
+            "BANCO DE LA NACION ARGENTINA",
+            "VILLARRICA",
+            "NACNPYPA0P3"
+        ],
+        [
+            "14",
+            "BANCO DO BRASIL S.A.",
+            "ASUNCION",
+            "BRASPYPX"
+        ],
+        [
+            "15",
+            "BANCO FAMILIAR S.A.E.C.A.",
+            "ASUNCION",
+            "FAMIPYPA"
+        ],
+        [
+            "16",
+            "BANCO GNB PARAGUAY S.A.",
+            "ASUNCION",
+            "BGNBPYPX"
+        ],
+        [
+            "17",
+            "BANCO ITAPUA SAECA",
+            "ENCARNACION",
+            "BISAPYPE"
+        ],
+        [
+            "18",
+            "BANCO ITAU PARAGUAY S.A.",
+            "ASUNCION",
+            "UBBRPYPX"
+        ],
+        [
+            "19",
+            "BANCO NACIONAL DE FOMENTO",
+            "ASUNCION",
+            "BNFAPYPA"
+        ],
+        [
+            "20",
+            "BANCO PARA LA COMERCIALIZACION Y LA PRODUCCION SOCIEDAD ANONIMA (BANCOP S.A.)",
+            "ASUNCION",
+            "BCOPPYPA"
+        ],
+        [
+            "21",
+            "BANCO REGIONAL S.A.E.C.A.",
+            "ENCARNACION",
+            "RGSAPYPE"
+        ],
+        [
+            "22",
+            "CRISOL Y ENCARNACIN FINANCIERA S.A.",
+            "ENCARNACION",
+            "CIEFPYPE"
+        ],
+        [
+            "23",
+            "FINANCIERA PARAGUAYO JAPONESA SAECA",
+            "ASUNCION",
+            "FPJSPYPA"
+        ],
+        [
+            "24",
+            "FONPLATA - FONDO FINANCIERO PARA EL DESAROLLO DE LA CUENCA DEL PLATA",
+            "ASUNCION",
+            "FOPLPYPA"
+        ],
+        [
+            "25",
+            "SUDAMERIS BANK S.A.E.C.A.",
+            "ASUNCION",
+            "BSUDPYPX"
+        ],
+        [
+            "26",
+            "VISION BANCO S.A.E.C.A.",
+            "ASUNCION",
+            "VISCPYPA"
+        ]
+    ]
+}

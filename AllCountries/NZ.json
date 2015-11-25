@@ -1,1 +1,377 @@
-{"country":"New Zealand","country_code":"NZ","list":[["1","ANZ BANK NEW ZEALAND LIMITED","AUCKLAND","(AUCKLAND CENTRAL)","ANZBNZ22102"],["2","ANZ BANK NEW ZEALAND LIMITED","CHRISTCHURCH","ANZBNZ22797"],["3","ANZ BANK NEW ZEALAND LIMITED","WELLINGTON","ANZBNZ22"],["4","ANZ BANK NEW ZEALAND LIMITED","WELLINGTON","ANZBNZ22058"],["5","ASB BANK LIMITED","AUCKLAND","(ASB GROUP INVESTMENTS)","ASBBNZ2AGRI"],["6","ASB BANK LIMITED","AUCKLAND","(CLS PAYMENTS ONLY)","ASBBNZ2ACLS"],["7","ASB BANK LIMITED","AUCKLAND","(FOREIGN EXCHANGE)","ASBBNZ2AFXD"],["8","ASB BANK LIMITED","AUCKLAND","(INTERNATIONAL TRADE SERVICES)","ASBBNZ2AITS"],["9","ASB BANK LIMITED","AUCKLAND","(MONEY MARKET)","ASBBNZ2AMMD"],["10","ASB BANK LIMITED","AUCKLAND","(SECURITIES)","ASBBNZ2ASEC"],["11","ASB BANK LIMITED","AUCKLAND","ASBBNZ2A"],["12","BANK OF BARODA (NEW ZELAND) LTD","AUCKLAND","BARBNZ2A"],["13","BANK OF INDIA (NEW ZEALAND) LIMITED","AUCKLAND","BKIDNZ2A"],["14","BANK OF NEW ZEALAND","AUCKLAND","BKNZNZ22100"],["15","BANK OF NEW ZEALAND","CHRISTCHURCH","BKNZNZ22800"],["16","BANK OF NEW ZEALAND","DUNEDIN","BKNZNZ22900"],["17","BANK OF NEW ZEALAND","WELLINGTON","(BRANCH)","BKNZNZ22500"],["18","BANK OF NEW ZEALAND","WELLINGTON","(HEAD OFFICE)","BKNZNZ22985"],["19","BANK OF NEW ZEALAND","WELLINGTON","BKNZNZ22"],["20","CHINA CONSTRUCTION BANK LTD","AUCKLAND","PCBCNZ22"],["21","CITIBANK NA NEW ZEALAND BRANCH","AUCKLAND","(CO-OP)","CITINZ2XCOP"],["22","CITIBANK NA NEW ZEALAND BRANCH","AUCKLAND","CITINZ2X"],["23","DEUTSCHE BANK AG, NEW ZEALAND BRANCH","AUCKLAND","(CUSTODIAN SERVICES)","DEUTNZ2ANOM"],["24","DEUTSCHE BANK AG, NEW ZEALAND BRANCH","AUCKLAND","(FUNDS MANAGEMENT)","DEUTNZ2ACFM"],["25","DEUTSCHE BANK AG, NEW ZEALAND BRANCH","AUCKLAND","DEUTNZ2A"],["26","FISHER AND PAYKEL APPLIANCES LIMITED","AUCKLAND","FPNZNZ2A"],["27","FONTERRA CO-OPERATIVE GROUP LIMITED","AUCKLAND","FONTNZ2A"],["28","GENERAL EQUITY","AUCKLAND","GEBSNZ2A"],["29","GUARDIANS OF NEW ZEALAND SUPERANNUATION","AUCKLAND","GNZSNZ2A"],["30","HIFX LTD","AUCKLAND","HIFXNZ2A"],["31","HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE","AUCKLAND","(CONTINUOUS LINK SETTELMENT DEPARTMENT)","HSBCNZ2ACLS"],["32","HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE","AUCKLAND","HSBCNZ2A"],["33","HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE","CHRISTCHURCH","(CHRISTCHURCH BRANCH)","HSBCNZ2ACHC"],["34","HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE","WELLINGTON","(WELLINGTON BRANCH)","HSBCNZ2AWLT"],["35","INDUSTRIAL AND COMMERCIAL BANK OF CHINA (NEW ZEALAND) LIMITED","AUCKLAND","ICBKNZ2A"],["36","JPMORGAN CHASE BANK, N.A.","AUCKLAND","(WSS LOCAL CUSTODIAN SERVICES)","CHASNZ2ACCS"],["37","JPMORGAN CHASE BANK, N.A.","AUCKLAND","CHASNZ2A"],["38","KIWIBANK LIMITED","WELLINGTON","KIWINZ22"],["39","KIWIRAIL HOLDINGS LIMITED","WELLINGTON","NZRCNZ2W"],["40","KOOKMIN BANK, AUCKLAND BRANCH","AUCKLAND","CZNBNZ2A"],["41","MERCEDES-BENZ FINANCIAL SERVICES NEW ZEALAND LTD.","AUCKLAND","DCFSNZ2A"],["42","MERCEDES-BENZ NEW ZEALAND LTD.","AUCKLAND","DABENZ2A"],["43","NATIONAL NOMINEES LIMITED","AUCKLAND","NATANZ22"],["44","NEW ZEALAND EXCHANGE LIMITED","WELLINGTON","NZXCNZ2W"],["45","NEW ZEALAND TREASURY","WELLINGTON","NZTRNZ2W"],["46","RABOBANK NEW ZEALAND BRANCH","WELLINGTON","RABONZ2W"],["47","RABOBANK NEW ZEALAND LIMITED","WELLINGTON","RABONZ22"],["48","RBS (NEW ZEALAND) LIMITED","AUCKLAND","ABNANZ2X"],["49","RESERVE BANK OF NEW ZEALAND","WELLINGTON","RBNZNZ22"],["50","RESERVE BANK OF NEW ZEALAND","WELLINGTON","RBNZNZ2S"],["51","RESERVE BANK OF NEW ZEALAND","WELLINGTON","RBNZNZ2W"],["52","RESERVE BANK OF NEW ZEALAND","WELLINGTON","RBNZNZ2WACC"],["53","RESERVE BANK OF NEW ZEALAND","WELLINGTON","RBNZNZ2WCCY"],["54","SAFE AND SOUND BUILDING SOCIETY","AUCKLAND","SSBTNZ2A"],["55","TRADE AND MERCHANT TRUST COMPANY LIMITED","AUCKLAND","TMTCNZ2A"],["56","TSB BANK LIMITED","NEW PLYMOUTH","TSBANZ22"],["57","WESTERN UNION BUSINESS SOLUTIONS (AUSTRALIA) PTY LTD-NZ BRANCH","AUCKLAND","COOKNZ2A"],["58","WESTERN UNION BUSINESS SOLUTIONS (NEW ZEALAND)","WELLINGTON","CHFXNZ22"],["59","WESTPAC NEW ZEALAND LIMITED, A WHOLLY OWNED SUBSIDIARY OF WESTPAC BANKING CORPORATION","AUCKLAND","(FOR ALL NEW ZEALAND BRANCHES)","WPACNZ2W"]]}
+{
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "list": [
+        [
+            "1",
+            "ANZ BANK NEW ZEALAND LIMITED",
+            "AUCKLAND",
+            "(AUCKLAND CENTRAL)",
+            "ANZBNZ22102"
+        ],
+        [
+            "2",
+            "ANZ BANK NEW ZEALAND LIMITED",
+            "CHRISTCHURCH",
+            "ANZBNZ22797"
+        ],
+        [
+            "3",
+            "ANZ BANK NEW ZEALAND LIMITED",
+            "WELLINGTON",
+            "ANZBNZ22"
+        ],
+        [
+            "4",
+            "ANZ BANK NEW ZEALAND LIMITED",
+            "WELLINGTON",
+            "ANZBNZ22058"
+        ],
+        [
+            "5",
+            "ASB BANK LIMITED",
+            "AUCKLAND",
+            "(ASB GROUP INVESTMENTS)",
+            "ASBBNZ2AGRI"
+        ],
+        [
+            "6",
+            "ASB BANK LIMITED",
+            "AUCKLAND",
+            "(CLS PAYMENTS ONLY)",
+            "ASBBNZ2ACLS"
+        ],
+        [
+            "7",
+            "ASB BANK LIMITED",
+            "AUCKLAND",
+            "(FOREIGN EXCHANGE)",
+            "ASBBNZ2AFXD"
+        ],
+        [
+            "8",
+            "ASB BANK LIMITED",
+            "AUCKLAND",
+            "(INTERNATIONAL TRADE SERVICES)",
+            "ASBBNZ2AITS"
+        ],
+        [
+            "9",
+            "ASB BANK LIMITED",
+            "AUCKLAND",
+            "(MONEY MARKET)",
+            "ASBBNZ2AMMD"
+        ],
+        [
+            "10",
+            "ASB BANK LIMITED",
+            "AUCKLAND",
+            "(SECURITIES)",
+            "ASBBNZ2ASEC"
+        ],
+        [
+            "11",
+            "ASB BANK LIMITED",
+            "AUCKLAND",
+            "ASBBNZ2A"
+        ],
+        [
+            "12",
+            "BANK OF BARODA (NEW ZELAND) LTD",
+            "AUCKLAND",
+            "BARBNZ2A"
+        ],
+        [
+            "13",
+            "BANK OF INDIA (NEW ZEALAND) LIMITED",
+            "AUCKLAND",
+            "BKIDNZ2A"
+        ],
+        [
+            "14",
+            "BANK OF NEW ZEALAND",
+            "AUCKLAND",
+            "BKNZNZ22100"
+        ],
+        [
+            "15",
+            "BANK OF NEW ZEALAND",
+            "CHRISTCHURCH",
+            "BKNZNZ22800"
+        ],
+        [
+            "16",
+            "BANK OF NEW ZEALAND",
+            "DUNEDIN",
+            "BKNZNZ22900"
+        ],
+        [
+            "17",
+            "BANK OF NEW ZEALAND",
+            "WELLINGTON",
+            "(BRANCH)",
+            "BKNZNZ22500"
+        ],
+        [
+            "18",
+            "BANK OF NEW ZEALAND",
+            "WELLINGTON",
+            "(HEAD OFFICE)",
+            "BKNZNZ22985"
+        ],
+        [
+            "19",
+            "BANK OF NEW ZEALAND",
+            "WELLINGTON",
+            "BKNZNZ22"
+        ],
+        [
+            "20",
+            "CHINA CONSTRUCTION BANK LTD",
+            "AUCKLAND",
+            "PCBCNZ22"
+        ],
+        [
+            "21",
+            "CITIBANK NA NEW ZEALAND BRANCH",
+            "AUCKLAND",
+            "(CO-OP)",
+            "CITINZ2XCOP"
+        ],
+        [
+            "22",
+            "CITIBANK NA NEW ZEALAND BRANCH",
+            "AUCKLAND",
+            "CITINZ2X"
+        ],
+        [
+            "23",
+            "DEUTSCHE BANK AG, NEW ZEALAND BRANCH",
+            "AUCKLAND",
+            "(CUSTODIAN SERVICES)",
+            "DEUTNZ2ANOM"
+        ],
+        [
+            "24",
+            "DEUTSCHE BANK AG, NEW ZEALAND BRANCH",
+            "AUCKLAND",
+            "(FUNDS MANAGEMENT)",
+            "DEUTNZ2ACFM"
+        ],
+        [
+            "25",
+            "DEUTSCHE BANK AG, NEW ZEALAND BRANCH",
+            "AUCKLAND",
+            "DEUTNZ2A"
+        ],
+        [
+            "26",
+            "FISHER AND PAYKEL APPLIANCES LIMITED",
+            "AUCKLAND",
+            "FPNZNZ2A"
+        ],
+        [
+            "27",
+            "FONTERRA CO-OPERATIVE GROUP LIMITED",
+            "AUCKLAND",
+            "FONTNZ2A"
+        ],
+        [
+            "28",
+            "GENERAL EQUITY",
+            "AUCKLAND",
+            "GEBSNZ2A"
+        ],
+        [
+            "29",
+            "GUARDIANS OF NEW ZEALAND SUPERANNUATION",
+            "AUCKLAND",
+            "GNZSNZ2A"
+        ],
+        [
+            "30",
+            "HIFX LTD",
+            "AUCKLAND",
+            "HIFXNZ2A"
+        ],
+        [
+            "31",
+            "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "AUCKLAND",
+            "(CONTINUOUS LINK SETTELMENT DEPARTMENT)",
+            "HSBCNZ2ACLS"
+        ],
+        [
+            "32",
+            "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "AUCKLAND",
+            "HSBCNZ2A"
+        ],
+        [
+            "33",
+            "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "CHRISTCHURCH",
+            "(CHRISTCHURCH BRANCH)",
+            "HSBCNZ2ACHC"
+        ],
+        [
+            "34",
+            "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "WELLINGTON",
+            "(WELLINGTON BRANCH)",
+            "HSBCNZ2AWLT"
+        ],
+        [
+            "35",
+            "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (NEW ZEALAND) LIMITED",
+            "AUCKLAND",
+            "ICBKNZ2A"
+        ],
+        [
+            "36",
+            "JPMORGAN CHASE BANK, N.A.",
+            "AUCKLAND",
+            "(WSS LOCAL CUSTODIAN SERVICES)",
+            "CHASNZ2ACCS"
+        ],
+        [
+            "37",
+            "JPMORGAN CHASE BANK, N.A.",
+            "AUCKLAND",
+            "CHASNZ2A"
+        ],
+        [
+            "38",
+            "KIWIBANK LIMITED",
+            "WELLINGTON",
+            "KIWINZ22"
+        ],
+        [
+            "39",
+            "KIWIRAIL HOLDINGS LIMITED",
+            "WELLINGTON",
+            "NZRCNZ2W"
+        ],
+        [
+            "40",
+            "KOOKMIN BANK, AUCKLAND BRANCH",
+            "AUCKLAND",
+            "CZNBNZ2A"
+        ],
+        [
+            "41",
+            "MERCEDES-BENZ FINANCIAL SERVICES NEW ZEALAND LTD.",
+            "AUCKLAND",
+            "DCFSNZ2A"
+        ],
+        [
+            "42",
+            "MERCEDES-BENZ NEW ZEALAND LTD.",
+            "AUCKLAND",
+            "DABENZ2A"
+        ],
+        [
+            "43",
+            "NATIONAL NOMINEES LIMITED",
+            "AUCKLAND",
+            "NATANZ22"
+        ],
+        [
+            "44",
+            "NEW ZEALAND EXCHANGE LIMITED",
+            "WELLINGTON",
+            "NZXCNZ2W"
+        ],
+        [
+            "45",
+            "NEW ZEALAND TREASURY",
+            "WELLINGTON",
+            "NZTRNZ2W"
+        ],
+        [
+            "46",
+            "RABOBANK NEW ZEALAND BRANCH",
+            "WELLINGTON",
+            "RABONZ2W"
+        ],
+        [
+            "47",
+            "RABOBANK NEW ZEALAND LIMITED",
+            "WELLINGTON",
+            "RABONZ22"
+        ],
+        [
+            "48",
+            "RBS (NEW ZEALAND) LIMITED",
+            "AUCKLAND",
+            "ABNANZ2X"
+        ],
+        [
+            "49",
+            "RESERVE BANK OF NEW ZEALAND",
+            "WELLINGTON",
+            "RBNZNZ22"
+        ],
+        [
+            "50",
+            "RESERVE BANK OF NEW ZEALAND",
+            "WELLINGTON",
+            "RBNZNZ2S"
+        ],
+        [
+            "51",
+            "RESERVE BANK OF NEW ZEALAND",
+            "WELLINGTON",
+            "RBNZNZ2W"
+        ],
+        [
+            "52",
+            "RESERVE BANK OF NEW ZEALAND",
+            "WELLINGTON",
+            "RBNZNZ2WACC"
+        ],
+        [
+            "53",
+            "RESERVE BANK OF NEW ZEALAND",
+            "WELLINGTON",
+            "RBNZNZ2WCCY"
+        ],
+        [
+            "54",
+            "SAFE AND SOUND BUILDING SOCIETY",
+            "AUCKLAND",
+            "SSBTNZ2A"
+        ],
+        [
+            "55",
+            "TRADE AND MERCHANT TRUST COMPANY LIMITED",
+            "AUCKLAND",
+            "TMTCNZ2A"
+        ],
+        [
+            "56",
+            "TSB BANK LIMITED",
+            "NEW PLYMOUTH",
+            "TSBANZ22"
+        ],
+        [
+            "57",
+            "WESTERN UNION BUSINESS SOLUTIONS (AUSTRALIA) PTY LTD-NZ BRANCH",
+            "AUCKLAND",
+            "COOKNZ2A"
+        ],
+        [
+            "58",
+            "WESTERN UNION BUSINESS SOLUTIONS (NEW ZEALAND)",
+            "WELLINGTON",
+            "CHFXNZ22"
+        ],
+        [
+            "59",
+            "WESTPAC NEW ZEALAND LIMITED, A WHOLLY OWNED SUBSIDIARY OF WESTPAC BANKING CORPORATION",
+            "AUCKLAND",
+            "(FOR ALL NEW ZEALAND BRANCHES)",
+            "WPACNZ2W"
+        ]
+    ]
+}

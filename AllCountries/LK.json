@@ -1,1 +1,364 @@
-{"country":"Sri Lanka","country_code":"LK","list":[["1","ACUITY SECURITIES LIMITED","COLOMBO","HNBSLKLX"],["2","AMANA BANK PLC","COLOMBO","AMNALKLX"],["3","AXIS BANK LTD.","COLOMBO","AXISLKLX"],["4","BANK OF CEYLON","COLOMBO","(CENTRAL BUS STAND BRANCH)","BCEYLKLX573"],["5","BANK OF CEYLON","COLOMBO","(FOREIGN CURRENCY BANKING UNIT)","BCEYLKLX131"],["6","BANK OF CEYLON","COLOMBO","(METROPOLITAN BRANCH)","BCEYLKLX618"],["7","BANK OF CEYLON","COLOMBO","(NON RESIDENT FOREIGN CURRENCY UNIT)","BCEYLKLX125"],["8","BANK OF CEYLON","COLOMBO","(PRIMARY DEALER UNIT)","BCEYLKLXPRI"],["9","BANK OF CEYLON","COLOMBO","BCEYLKLX"],["10","BANK OF CEYLON","KANDY","(SUPER GRADE BRANCH)","BCEYLKLX002"],["11","BANK OF CEYLON","PETTAH","BCEYLKLX004"],["12","CAPITAL ALLIANCE LIMITED","COLOMBO","CALDLKLX"],["13","CARGILLS BANK LIMITED","COLOMBO","CGRBLKLX"],["14","CENTRAL BANK OF SRI LANKA","COLOMBO","(EMPLOYEES' PROVIDENT FUND - CBSL)","CBCELKLXEPF"],["15","CENTRAL BANK OF SRI LANKA","COLOMBO","CBCELKLS"],["16","CENTRAL BANK OF SRI LANKA","COLOMBO","CBCELKLX"],["17","CENTRAL DEPOSITORY SYSTEMS (PVT) LTD","COLOMBO","CDSPLKLC"],["18","CEYLINCO SHRIRAM SECURITIES LTD.","COLOMBO","CSSLLKLX"],["19","CITIBANK N.A. SRI LANKA","COLOMBO","CITILKLX"],["20","COMMERCIAL BANK OF CEYLON PLC","COLOMBO","CCEYLKLX"],["21","DEUTSCHE BANK AG, COLOMBO BRANCH","COLOMBO","(COLOMBO BRANCH)","DEUTLKLX001"],["22","DEUTSCHE BANK AG, COLOMBO BRANCH","COLOMBO","DEUTLKLX"],["23","DEUTSCHE BANK AG, COLOMBO BRANCH","COLOMBO","DEUTLKLXGMO"],["24","DFCC VARDHANA BANK PLC","COLOMBO","DFCCLKLX"],["25","FIRST CAPITAL TREASURIES LIMITED","COLOMBO","FCTLLKLX"],["26","HABIB BANK LTD.","COLOMBO","HABBLKLC"],["27","HATTON NATIONAL BANK PLC","COLOMBO","(FOREIGN CURRENCY BANKING UNIT)","HBLILKLX001"],["28","HATTON NATIONAL BANK PLC","COLOMBO","HBLILKLX"],["29","HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE","COLOMBO","HSBCLKLX"],["30","ICICI BANK LTD","COLOMBO","ICICLKLX"],["31","INDIAN BANK","COLOMBO","IDIBLKLC"],["32","INDIAN OVERSEAS BANK","COLOMBO","IOBALKLC"],["33","LANKA ORIX FINANCE COMPANY LTD","COLOMBO","LOFCLKLC"],["34","MCB BANK LTD.","COLOMBO","MUCBLKLC"],["35","NAT WEALTH SECURITIES LIMITED","COLOMBO","NWSLLKLX"],["36","NATIONAL DEVELOPMENT BANK PLC.","COLOMBO","NDBSLKLX"],["37","NATIONAL SAVINGS BANK","COLOMBO","NSBALKLX"],["38","NATIONS TRUST BANK PLC","COLOMBO","NTBCLKLX"],["39","NSB FUND MANAGEMENT COMPANY LIMITED","COLOMBO","NSBFLKLX"],["40","PAN ASIA BANKING CORPORATION PLC","COLOMBO","PABSLKLX"],["41","PEOPLE'S BANK","COLOMBO","(HEAD OFFICE)","PSBKLKLX"],["42","PEOPLE'S BANK","COLOMBO","(INTERNATIONAL DEPARTMENT)","PSBKLKLX022"],["43","PEOPLE'S BANK","COLOMBO","(OVERSEAS DEPARTMENT)","PSBKLKLX023"],["44","PERPETUAL TREASURIES LIMITED","COLOMBO","PPTLLKLX"],["45","PUBLIC BANK BERHAD","COLOMBO","PBBELKLX"],["46","SAMPATH BANK PLC-COMPANY NO. PQ 144","COLOMBO","BSAMLKLX"],["47","SENKADAGALA FINANCE PLC","COLOMBO","SENFLKLX"],["48","SEYLAN BANK PLC","COLOMBO","(TREASURY DIVISION)","SEYBLKLXTRY"],["49","SEYLAN BANK PLC","COLOMBO","SEYBLKLX"],["50","STANDARD CHARTERED BANK","COLOMBO","SCBLLKLX"],["51","STANDARD CHARTERED BANK","COLOMBO","SCBLLKLXEQI"],["52","STATE BANK OF INDIA","COLOMBO","(FOREIGN CURRENCY BANKING UNIT)","SBINLKLXFCB"],["53","STATE BANK OF INDIA","COLOMBO","SBINLKLX"],["54","STATE BANK OF INDIA","JAFFNA","(JAFFNA BRANCH)","SBINLKLXJFN"],["55","STATE BANK OF INDIA","KANDY","(KANDY BRANCH)","SBINLKLXKDY"],["56","UNION BANK OF COLOMBO PLC","COLOMBO","UBCLLKLC"],["57","WEALTHTRUST SECURITIES LTD","COLOMBO","WTEYLKLX"]]}
+{
+    "country": "Sri Lanka",
+    "country_code": "LK",
+    "list": [
+        [
+            "1",
+            "ACUITY SECURITIES LIMITED",
+            "COLOMBO",
+            "HNBSLKLX"
+        ],
+        [
+            "2",
+            "AMANA BANK PLC",
+            "COLOMBO",
+            "AMNALKLX"
+        ],
+        [
+            "3",
+            "AXIS BANK LTD.",
+            "COLOMBO",
+            "AXISLKLX"
+        ],
+        [
+            "4",
+            "BANK OF CEYLON",
+            "COLOMBO",
+            "(CENTRAL BUS STAND BRANCH)",
+            "BCEYLKLX573"
+        ],
+        [
+            "5",
+            "BANK OF CEYLON",
+            "COLOMBO",
+            "(FOREIGN CURRENCY BANKING UNIT)",
+            "BCEYLKLX131"
+        ],
+        [
+            "6",
+            "BANK OF CEYLON",
+            "COLOMBO",
+            "(METROPOLITAN BRANCH)",
+            "BCEYLKLX618"
+        ],
+        [
+            "7",
+            "BANK OF CEYLON",
+            "COLOMBO",
+            "(NON RESIDENT FOREIGN CURRENCY UNIT)",
+            "BCEYLKLX125"
+        ],
+        [
+            "8",
+            "BANK OF CEYLON",
+            "COLOMBO",
+            "(PRIMARY DEALER UNIT)",
+            "BCEYLKLXPRI"
+        ],
+        [
+            "9",
+            "BANK OF CEYLON",
+            "COLOMBO",
+            "BCEYLKLX"
+        ],
+        [
+            "10",
+            "BANK OF CEYLON",
+            "KANDY",
+            "(SUPER GRADE BRANCH)",
+            "BCEYLKLX002"
+        ],
+        [
+            "11",
+            "BANK OF CEYLON",
+            "PETTAH",
+            "BCEYLKLX004"
+        ],
+        [
+            "12",
+            "CAPITAL ALLIANCE LIMITED",
+            "COLOMBO",
+            "CALDLKLX"
+        ],
+        [
+            "13",
+            "CARGILLS BANK LIMITED",
+            "COLOMBO",
+            "CGRBLKLX"
+        ],
+        [
+            "14",
+            "CENTRAL BANK OF SRI LANKA",
+            "COLOMBO",
+            "(EMPLOYEES' PROVIDENT FUND - CBSL)",
+            "CBCELKLXEPF"
+        ],
+        [
+            "15",
+            "CENTRAL BANK OF SRI LANKA",
+            "COLOMBO",
+            "CBCELKLS"
+        ],
+        [
+            "16",
+            "CENTRAL BANK OF SRI LANKA",
+            "COLOMBO",
+            "CBCELKLX"
+        ],
+        [
+            "17",
+            "CENTRAL DEPOSITORY SYSTEMS (PVT) LTD",
+            "COLOMBO",
+            "CDSPLKLC"
+        ],
+        [
+            "18",
+            "CEYLINCO SHRIRAM SECURITIES LTD.",
+            "COLOMBO",
+            "CSSLLKLX"
+        ],
+        [
+            "19",
+            "CITIBANK N.A. SRI LANKA",
+            "COLOMBO",
+            "CITILKLX"
+        ],
+        [
+            "20",
+            "COMMERCIAL BANK OF CEYLON PLC",
+            "COLOMBO",
+            "CCEYLKLX"
+        ],
+        [
+            "21",
+            "DEUTSCHE BANK AG, COLOMBO BRANCH",
+            "COLOMBO",
+            "(COLOMBO BRANCH)",
+            "DEUTLKLX001"
+        ],
+        [
+            "22",
+            "DEUTSCHE BANK AG, COLOMBO BRANCH",
+            "COLOMBO",
+            "DEUTLKLX"
+        ],
+        [
+            "23",
+            "DEUTSCHE BANK AG, COLOMBO BRANCH",
+            "COLOMBO",
+            "DEUTLKLXGMO"
+        ],
+        [
+            "24",
+            "DFCC VARDHANA BANK PLC",
+            "COLOMBO",
+            "DFCCLKLX"
+        ],
+        [
+            "25",
+            "FIRST CAPITAL TREASURIES LIMITED",
+            "COLOMBO",
+            "FCTLLKLX"
+        ],
+        [
+            "26",
+            "HABIB BANK LTD.",
+            "COLOMBO",
+            "HABBLKLC"
+        ],
+        [
+            "27",
+            "HATTON NATIONAL BANK PLC",
+            "COLOMBO",
+            "(FOREIGN CURRENCY BANKING UNIT)",
+            "HBLILKLX001"
+        ],
+        [
+            "28",
+            "HATTON NATIONAL BANK PLC",
+            "COLOMBO",
+            "HBLILKLX"
+        ],
+        [
+            "29",
+            "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "COLOMBO",
+            "HSBCLKLX"
+        ],
+        [
+            "30",
+            "ICICI BANK LTD",
+            "COLOMBO",
+            "ICICLKLX"
+        ],
+        [
+            "31",
+            "INDIAN BANK",
+            "COLOMBO",
+            "IDIBLKLC"
+        ],
+        [
+            "32",
+            "INDIAN OVERSEAS BANK",
+            "COLOMBO",
+            "IOBALKLC"
+        ],
+        [
+            "33",
+            "LANKA ORIX FINANCE COMPANY LTD",
+            "COLOMBO",
+            "LOFCLKLC"
+        ],
+        [
+            "34",
+            "MCB BANK LTD.",
+            "COLOMBO",
+            "MUCBLKLC"
+        ],
+        [
+            "35",
+            "NAT WEALTH SECURITIES LIMITED",
+            "COLOMBO",
+            "NWSLLKLX"
+        ],
+        [
+            "36",
+            "NATIONAL DEVELOPMENT BANK PLC.",
+            "COLOMBO",
+            "NDBSLKLX"
+        ],
+        [
+            "37",
+            "NATIONAL SAVINGS BANK",
+            "COLOMBO",
+            "NSBALKLX"
+        ],
+        [
+            "38",
+            "NATIONS TRUST BANK PLC",
+            "COLOMBO",
+            "NTBCLKLX"
+        ],
+        [
+            "39",
+            "NSB FUND MANAGEMENT COMPANY LIMITED",
+            "COLOMBO",
+            "NSBFLKLX"
+        ],
+        [
+            "40",
+            "PAN ASIA BANKING CORPORATION PLC",
+            "COLOMBO",
+            "PABSLKLX"
+        ],
+        [
+            "41",
+            "PEOPLE'S BANK",
+            "COLOMBO",
+            "(HEAD OFFICE)",
+            "PSBKLKLX"
+        ],
+        [
+            "42",
+            "PEOPLE'S BANK",
+            "COLOMBO",
+            "(INTERNATIONAL DEPARTMENT)",
+            "PSBKLKLX022"
+        ],
+        [
+            "43",
+            "PEOPLE'S BANK",
+            "COLOMBO",
+            "(OVERSEAS DEPARTMENT)",
+            "PSBKLKLX023"
+        ],
+        [
+            "44",
+            "PERPETUAL TREASURIES LIMITED",
+            "COLOMBO",
+            "PPTLLKLX"
+        ],
+        [
+            "45",
+            "PUBLIC BANK BERHAD",
+            "COLOMBO",
+            "PBBELKLX"
+        ],
+        [
+            "46",
+            "SAMPATH BANK PLC-COMPANY NO. PQ 144",
+            "COLOMBO",
+            "BSAMLKLX"
+        ],
+        [
+            "47",
+            "SENKADAGALA FINANCE PLC",
+            "COLOMBO",
+            "SENFLKLX"
+        ],
+        [
+            "48",
+            "SEYLAN BANK PLC",
+            "COLOMBO",
+            "(TREASURY DIVISION)",
+            "SEYBLKLXTRY"
+        ],
+        [
+            "49",
+            "SEYLAN BANK PLC",
+            "COLOMBO",
+            "SEYBLKLX"
+        ],
+        [
+            "50",
+            "STANDARD CHARTERED BANK",
+            "COLOMBO",
+            "SCBLLKLX"
+        ],
+        [
+            "51",
+            "STANDARD CHARTERED BANK",
+            "COLOMBO",
+            "SCBLLKLXEQI"
+        ],
+        [
+            "52",
+            "STATE BANK OF INDIA",
+            "COLOMBO",
+            "(FOREIGN CURRENCY BANKING UNIT)",
+            "SBINLKLXFCB"
+        ],
+        [
+            "53",
+            "STATE BANK OF INDIA",
+            "COLOMBO",
+            "SBINLKLX"
+        ],
+        [
+            "54",
+            "STATE BANK OF INDIA",
+            "JAFFNA",
+            "(JAFFNA BRANCH)",
+            "SBINLKLXJFN"
+        ],
+        [
+            "55",
+            "STATE BANK OF INDIA",
+            "KANDY",
+            "(KANDY BRANCH)",
+            "SBINLKLXKDY"
+        ],
+        [
+            "56",
+            "UNION BANK OF COLOMBO PLC",
+            "COLOMBO",
+            "UBCLLKLC"
+        ],
+        [
+            "57",
+            "WEALTHTRUST SECURITIES LTD",
+            "COLOMBO",
+            "WTEYLKLX"
+        ]
+    ]
+}

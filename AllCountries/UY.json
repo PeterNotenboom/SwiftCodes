@@ -1,1 +1,218 @@
-{"country":"Uruguay","country_code":"UY","list":[["1","ALMAR S.A.","MONTEVIDEO","LMARUYMT"],["2","AVENIDA S.A EMPRESA DE SERVICIOS FINANCIEROS","MONTEVIDEO","AVESUYMM"],["3","BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY S.A.","MONTEVIDEO","BBVAUYMM"],["4","BANCO CENTRAL DEL URUGUAY","MONTEVIDEO","CBCUUYMD"],["5","BANCO CENTRAL DEL URUGUAY","MONTEVIDEO","CBCUUYMF"],["6","BANCO CENTRAL DEL URUGUAY","MONTEVIDEO","CBCUUYMM"],["7","BANCO CENTRAL DEL URUGUAY","MONTEVIDEO","CBCUUYMMFGD"],["8","BANCO DE LA NACION ARGENTINA","MONTEVIDEO","NACNUYMM"],["9","BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY","MONTEVIDEO","BROUUYMM"],["10","BANCO GALICIA URUGUAY S.A.","MONTEVIDEO","GABAUYMM"],["11","BANCO ITAU","MONTEVIDEO","ITAUUYMM"],["12","BANCO PATAGONIA (URUGUAY) S.A.I.F.E.","PUNTA DEL ESTE","BPATUYMM"],["13","BANCO SANTANDER","MONTEVIDEO","BSCHUYMM"],["14","BANDES URUGUAY S.A.","MONTEVIDEO","CFACUYMM"],["15","BANQUE HERITAGE (URUGUAY) S.A. (FORMERLY BANCO SURINVEST S.A.)","MONTEVIDEO","SURIUYMM"],["16","BAPRO URUGUAY","MONTEVIDEO","PRBAUYMM"],["17","CENTRO SUDAMERICANO S.A. (DELTA SERVICIOS FINANCIEROS)","MONTEVIDEO","CSDRUYMM"],["18","CITIBANK N.A. URUGUAY","COLONIA","CITIUYMMCOL"],["19","CITIBANK N.A. URUGUAY","MONTEVIDEO","CITIUYMM"],["20","CITIBANK N.A. URUGUAY","PUNTA DEL ESTE","CITIUYMMPDE"],["21","COLUMBUSNET S.A.","MONTEVIDEO","COLUUYMM"],["22","DISCOUNT BANK (LATIN AMERICA)","MONTEVIDEO","DBLAUYMM"],["23","EUROCAM SA","MONTEVIDEO","CBEUUYMM"],["24","EXPRINTER (URUGUAY) S.A.","MONTEVIDEO","ECBUUYMM"],["25","GALES SERVICIOS FINANCIEROS S.A.","MONTEVIDEO","GSEFUYMM"],["26","HAPOALIM LATIN AMERICA S.A.","MONTEVIDEO","POALUYMM"],["27","HAPOALIM LATIN AMERICA S.A.","MONTEVIDEO","POALUYMM001"],["28","HAPOALIM LATIN AMERICA S.A.","PUNTA DEL ESTE","POALUYMM002"],["29","HSBC BANK (URUGUAY) S.A. (FORMERLY REPUBLIC NATIONAL BANK OF NEW YORK (URUGUAY) S.A.)","MONTEVIDEO","BLICUYMM"],["30","LEUMI (LATIN AMERICA) S.A.","MONTEVIDEO","LUMIUYMM"],["31","LUNDIN SA - MONEX EMPRESA DE SERVICIOS FINANCIEROS","MONTEVIDEO","LUNDUYMT"],["32","MONEY SUR S.A.","MONTEVIDEO","MSURUYMM"],["33","NIXUS S.A.","MONTEVIDEO","NIXSUYMM"],["34","SCOTIABANK URUGUAY S.A.","MONTEVIDEO","(HEAD OFFICE)","COMEUYMM"],["35","SCOTIABANK URUGUAY S.A.","MONTEVIDEO","(HEAD OFFICE)","COMEUYMMALL"]]}
+{
+    "country": "Uruguay",
+    "country_code": "UY",
+    "list": [
+        [
+            "1",
+            "ALMAR S.A.",
+            "MONTEVIDEO",
+            "LMARUYMT"
+        ],
+        [
+            "2",
+            "AVENIDA S.A EMPRESA DE SERVICIOS FINANCIEROS",
+            "MONTEVIDEO",
+            "AVESUYMM"
+        ],
+        [
+            "3",
+            "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY S.A.",
+            "MONTEVIDEO",
+            "BBVAUYMM"
+        ],
+        [
+            "4",
+            "BANCO CENTRAL DEL URUGUAY",
+            "MONTEVIDEO",
+            "CBCUUYMD"
+        ],
+        [
+            "5",
+            "BANCO CENTRAL DEL URUGUAY",
+            "MONTEVIDEO",
+            "CBCUUYMF"
+        ],
+        [
+            "6",
+            "BANCO CENTRAL DEL URUGUAY",
+            "MONTEVIDEO",
+            "CBCUUYMM"
+        ],
+        [
+            "7",
+            "BANCO CENTRAL DEL URUGUAY",
+            "MONTEVIDEO",
+            "CBCUUYMMFGD"
+        ],
+        [
+            "8",
+            "BANCO DE LA NACION ARGENTINA",
+            "MONTEVIDEO",
+            "NACNUYMM"
+        ],
+        [
+            "9",
+            "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+            "MONTEVIDEO",
+            "BROUUYMM"
+        ],
+        [
+            "10",
+            "BANCO GALICIA URUGUAY S.A.",
+            "MONTEVIDEO",
+            "GABAUYMM"
+        ],
+        [
+            "11",
+            "BANCO ITAU",
+            "MONTEVIDEO",
+            "ITAUUYMM"
+        ],
+        [
+            "12",
+            "BANCO PATAGONIA (URUGUAY) S.A.I.F.E.",
+            "PUNTA DEL ESTE",
+            "BPATUYMM"
+        ],
+        [
+            "13",
+            "BANCO SANTANDER",
+            "MONTEVIDEO",
+            "BSCHUYMM"
+        ],
+        [
+            "14",
+            "BANDES URUGUAY S.A.",
+            "MONTEVIDEO",
+            "CFACUYMM"
+        ],
+        [
+            "15",
+            "BANQUE HERITAGE (URUGUAY) S.A. (FORMERLY BANCO SURINVEST S.A.)",
+            "MONTEVIDEO",
+            "SURIUYMM"
+        ],
+        [
+            "16",
+            "BAPRO URUGUAY",
+            "MONTEVIDEO",
+            "PRBAUYMM"
+        ],
+        [
+            "17",
+            "CENTRO SUDAMERICANO S.A. (DELTA SERVICIOS FINANCIEROS)",
+            "MONTEVIDEO",
+            "CSDRUYMM"
+        ],
+        [
+            "18",
+            "CITIBANK N.A. URUGUAY",
+            "COLONIA",
+            "CITIUYMMCOL"
+        ],
+        [
+            "19",
+            "CITIBANK N.A. URUGUAY",
+            "MONTEVIDEO",
+            "CITIUYMM"
+        ],
+        [
+            "20",
+            "CITIBANK N.A. URUGUAY",
+            "PUNTA DEL ESTE",
+            "CITIUYMMPDE"
+        ],
+        [
+            "21",
+            "COLUMBUSNET S.A.",
+            "MONTEVIDEO",
+            "COLUUYMM"
+        ],
+        [
+            "22",
+            "DISCOUNT BANK (LATIN AMERICA)",
+            "MONTEVIDEO",
+            "DBLAUYMM"
+        ],
+        [
+            "23",
+            "EUROCAM SA",
+            "MONTEVIDEO",
+            "CBEUUYMM"
+        ],
+        [
+            "24",
+            "EXPRINTER (URUGUAY) S.A.",
+            "MONTEVIDEO",
+            "ECBUUYMM"
+        ],
+        [
+            "25",
+            "GALES SERVICIOS FINANCIEROS S.A.",
+            "MONTEVIDEO",
+            "GSEFUYMM"
+        ],
+        [
+            "26",
+            "HAPOALIM LATIN AMERICA S.A.",
+            "MONTEVIDEO",
+            "POALUYMM"
+        ],
+        [
+            "27",
+            "HAPOALIM LATIN AMERICA S.A.",
+            "MONTEVIDEO",
+            "POALUYMM001"
+        ],
+        [
+            "28",
+            "HAPOALIM LATIN AMERICA S.A.",
+            "PUNTA DEL ESTE",
+            "POALUYMM002"
+        ],
+        [
+            "29",
+            "HSBC BANK (URUGUAY) S.A. (FORMERLY REPUBLIC NATIONAL BANK OF NEW YORK (URUGUAY) S.A.)",
+            "MONTEVIDEO",
+            "BLICUYMM"
+        ],
+        [
+            "30",
+            "LEUMI (LATIN AMERICA) S.A.",
+            "MONTEVIDEO",
+            "LUMIUYMM"
+        ],
+        [
+            "31",
+            "LUNDIN SA - MONEX EMPRESA DE SERVICIOS FINANCIEROS",
+            "MONTEVIDEO",
+            "LUNDUYMT"
+        ],
+        [
+            "32",
+            "MONEY SUR S.A.",
+            "MONTEVIDEO",
+            "MSURUYMM"
+        ],
+        [
+            "33",
+            "NIXUS S.A.",
+            "MONTEVIDEO",
+            "NIXSUYMM"
+        ],
+        [
+            "34",
+            "SCOTIABANK URUGUAY S.A.",
+            "MONTEVIDEO",
+            "(HEAD OFFICE)",
+            "COMEUYMM"
+        ],
+        [
+            "35",
+            "SCOTIABANK URUGUAY S.A.",
+            "MONTEVIDEO",
+            "(HEAD OFFICE)",
+            "COMEUYMMALL"
+        ]
+    ]
+}

@@ -1,1 +1,205 @@
-{"country":"Malta","country_code":"MT","list":[["1","AGRIBANK PLC","LUQA","AGRKMTMT"],["2","AKBANK T.A.S. (MALTA BRANCH)","ST. JULIAN'S","AKBKMTMT"],["3","APS BANK LTD.","BIRKIRKARA","APSBMTMT"],["4","BANIF BANK (MALTA) PLC","GZIRA","BNIFMTMT"],["5","BANK OF VALLETTA P.L.C.","ST. VENERA","VALLMTMT"],["6","BAWAG MALTA BANK LTD","SLIEMA","BAWAMTM3"],["7","CENTRAL BANK OF MALTA","VALLETTA","(EUREX BRANCH ACCOUNT)","MALTMTMTGCP"],["8","CENTRAL BANK OF MALTA","VALLETTA","MALTMTMT"],["9","CITCO CUSTODY LIMITED","VALLETTA","CITCMTMT"],["10","CREDIT EUROPE BANK N.V. MALTA BRANCH","SLIEMA","FBHLMTMT"],["11","CREDORAX (MALTA) LIMITED","VALLETTA","CRXBMTMT"],["12","ECCM BANK PLC","SLIEMA","ECMBMTMT"],["13","EFT GLOBAL LIMITED","VALLETTA","EFTGMTM2"],["14","ESS-DATABRIDGE EXCHANGE LIMITED","VALLETTA","ESSDMTMT"],["15","FCM BANK LIMITED","VALLETTA","FCMFMTMT"],["16","FIMBANK PLC","ST. JULIAN'S","FIMBMTM3"],["17","GARANTI BANK, MALTA BRANCH","SLIEMA","TGBAMTMT"],["18","HSBC BANK MALTA P.L.C.","VALLETTA","MMEBMTMT"],["19","IIG BANK (MALTA) LTD","ST. JULIAN'S","IIGBMTMT"],["20","IZOLA BANK LIMITED","VALLETTA","IZOLMTMT"],["21","LOMBARD BANK MALTA PLC","VALLETTA","LBMAMTMT"],["22","MALTA STOCK EXCHANGE","VALLETTA","XMALMTMT"],["23","MEDITERRANEAN BANK PLC","VALLETTA","MBWMMTMT"],["24","MEDITERRANEAN CORPORATE BANK","SLIEMA","VBMAMTM3"],["25","NBG BANK MALTA LIMITED","SLIEMA","FNNBMTMT"],["26","NEMEA BANK","ST. JULIAN'S","NMEAMTMT"],["27","NOVUM BANK LTD","TA'XBIEX","VOCBMTMT"],["28","PAYMIX LIMITED","SAN GWANN","PYMXMTMT"],["29","PILATUS BANK LTD","GZIRA","PLTSMTMT"],["30","SATABANK P.L.C.","ST. JULIAN'S","STBAMTMT"],["31","W AND J COPPINI AND CO","SLIEMA","COPXMTMT"],["32","WESTERN UNION BUSINESS SOLUTIONS (MALTA) LTD","SLIEMA","TGBPMTMT"],["33","YAPI KREDI MALTA LTD.","SLIEMA","YAPIMTMT"]]}
+{
+    "country": "Malta",
+    "country_code": "MT",
+    "list": [
+        [
+            "1",
+            "AGRIBANK PLC",
+            "LUQA",
+            "AGRKMTMT"
+        ],
+        [
+            "2",
+            "AKBANK T.A.S. (MALTA BRANCH)",
+            "ST. JULIAN'S",
+            "AKBKMTMT"
+        ],
+        [
+            "3",
+            "APS BANK LTD.",
+            "BIRKIRKARA",
+            "APSBMTMT"
+        ],
+        [
+            "4",
+            "BANIF BANK (MALTA) PLC",
+            "GZIRA",
+            "BNIFMTMT"
+        ],
+        [
+            "5",
+            "BANK OF VALLETTA P.L.C.",
+            "ST. VENERA",
+            "VALLMTMT"
+        ],
+        [
+            "6",
+            "BAWAG MALTA BANK LTD",
+            "SLIEMA",
+            "BAWAMTM3"
+        ],
+        [
+            "7",
+            "CENTRAL BANK OF MALTA",
+            "VALLETTA",
+            "(EUREX BRANCH ACCOUNT)",
+            "MALTMTMTGCP"
+        ],
+        [
+            "8",
+            "CENTRAL BANK OF MALTA",
+            "VALLETTA",
+            "MALTMTMT"
+        ],
+        [
+            "9",
+            "CITCO CUSTODY LIMITED",
+            "VALLETTA",
+            "CITCMTMT"
+        ],
+        [
+            "10",
+            "CREDIT EUROPE BANK N.V. MALTA BRANCH",
+            "SLIEMA",
+            "FBHLMTMT"
+        ],
+        [
+            "11",
+            "CREDORAX (MALTA) LIMITED",
+            "VALLETTA",
+            "CRXBMTMT"
+        ],
+        [
+            "12",
+            "ECCM BANK PLC",
+            "SLIEMA",
+            "ECMBMTMT"
+        ],
+        [
+            "13",
+            "EFT GLOBAL LIMITED",
+            "VALLETTA",
+            "EFTGMTM2"
+        ],
+        [
+            "14",
+            "ESS-DATABRIDGE EXCHANGE LIMITED",
+            "VALLETTA",
+            "ESSDMTMT"
+        ],
+        [
+            "15",
+            "FCM BANK LIMITED",
+            "VALLETTA",
+            "FCMFMTMT"
+        ],
+        [
+            "16",
+            "FIMBANK PLC",
+            "ST. JULIAN'S",
+            "FIMBMTM3"
+        ],
+        [
+            "17",
+            "GARANTI BANK, MALTA BRANCH",
+            "SLIEMA",
+            "TGBAMTMT"
+        ],
+        [
+            "18",
+            "HSBC BANK MALTA P.L.C.",
+            "VALLETTA",
+            "MMEBMTMT"
+        ],
+        [
+            "19",
+            "IIG BANK (MALTA) LTD",
+            "ST. JULIAN'S",
+            "IIGBMTMT"
+        ],
+        [
+            "20",
+            "IZOLA BANK LIMITED",
+            "VALLETTA",
+            "IZOLMTMT"
+        ],
+        [
+            "21",
+            "LOMBARD BANK MALTA PLC",
+            "VALLETTA",
+            "LBMAMTMT"
+        ],
+        [
+            "22",
+            "MALTA STOCK EXCHANGE",
+            "VALLETTA",
+            "XMALMTMT"
+        ],
+        [
+            "23",
+            "MEDITERRANEAN BANK PLC",
+            "VALLETTA",
+            "MBWMMTMT"
+        ],
+        [
+            "24",
+            "MEDITERRANEAN CORPORATE BANK",
+            "SLIEMA",
+            "VBMAMTM3"
+        ],
+        [
+            "25",
+            "NBG BANK MALTA LIMITED",
+            "SLIEMA",
+            "FNNBMTMT"
+        ],
+        [
+            "26",
+            "NEMEA BANK",
+            "ST. JULIAN'S",
+            "NMEAMTMT"
+        ],
+        [
+            "27",
+            "NOVUM BANK LTD",
+            "TA'XBIEX",
+            "VOCBMTMT"
+        ],
+        [
+            "28",
+            "PAYMIX LIMITED",
+            "SAN GWANN",
+            "PYMXMTMT"
+        ],
+        [
+            "29",
+            "PILATUS BANK LTD",
+            "GZIRA",
+            "PLTSMTMT"
+        ],
+        [
+            "30",
+            "SATABANK P.L.C.",
+            "ST. JULIAN'S",
+            "STBAMTMT"
+        ],
+        [
+            "31",
+            "W AND J COPPINI AND CO",
+            "SLIEMA",
+            "COPXMTMT"
+        ],
+        [
+            "32",
+            "WESTERN UNION BUSINESS SOLUTIONS (MALTA) LTD",
+            "SLIEMA",
+            "TGBPMTMT"
+        ],
+        [
+            "33",
+            "YAPI KREDI MALTA LTD.",
+            "SLIEMA",
+            "YAPIMTMT"
+        ]
+    ]
+}

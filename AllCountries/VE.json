@@ -1,1 +1,266 @@
-{"country":"Venezuela","country_code":"VE","list":[["1","BANCAMIGA BANCO MICROFINANCIERO","CARACAS","BMIGVECA"],["2","BANCO ACTIVO, C.A. BANCO UNIVERSAL","CARACAS","ACTIVECA"],["3","BANCO AGRICOLA DE VENEZUELA, C.A. BANCO UNIVERSAL","CARACAS","BAVEVECA"],["4","BANCO BICENTENARIO BANCO UNIVERSAL, C.A.","CARACAS","CONDVECP"],["5","BANCO CARONI, C.A. BANCO UNIVERSAL","CARACAS","CAROVECA"],["6","BANCO CARONI, C.A. BANCO UNIVERSAL","PUERTO ORDAZ","CAROVECA022"],["7","BANCO CENTRAL DE VENEZUELA","CARACAS","BCVEVECA"],["8","BANCO DE COMERCIO EXTERIOR","CARACAS","BCEVVECA"],["9","BANCO DE DESARROLLO ECONOMICO Y SOCIAL DE VENEZUELA","CARACAS","FIVVVECA"],["10","BANCO DE EXPORTACION Y COMERCIO C.A.","CARACAS","BECUVECA"],["11","BANCO DE LA FUERZA ARMADA NACIONAL BOLIVARIANA, BANCO UNIVERSAL, C.A. (BANFANB)","CARACAS","BFANVECA"],["12","BANCO DE VENEZUELA, S.A. BANCO UNIVERSAL","CARACAS","VZLAVECA"],["13","BANCO DEL ALBA","CARACAS","LLBAVECA"],["14","BANCO DEL CARIBE S.A.C.A.","CARACAS","CARBVECA"],["15","BANCO DEL PUEBLO SOBERANO, C.A.","CARACAS","PBLOVECA"],["16","BANCO DEL TESORO, C.A. BANCO UNIVERSAL","CARACAS","BDTEVECA"],["17","BANCO ESPIRITO SANTO S.A. SUCURSAL VENEZUELA, BANCO UNIVERSAL","CARACAS","BESCVECA"],["18","BANCO EXTERIOR, C.A. BANCO UNIVERSAL","CARACAS","BEXTVECA"],["19","BANCO INDUSTRIAL DE VENEZUELA, C.A.","CARACAS","INDSVECA"],["20","BANCO NACIONAL DE AHORRO Y PRESTAMO","CARACAS","BNAPVECA"],["21","BANCO NACIONAL DE CREDITO, C.A.","CARACAS","(SUCURSAL 001)","NCRTVECA001"],["22","BANCO NACIONAL DE CREDITO, C.A.","CARACAS","NCRTVECA"],["23","BANCO OCCIDENTAL DE DESCUENTO (FORMERLY CORP BANCA C.A. VENEZUELA)","CARACAS","CONSVECA"],["24","BANCO OCCIDENTAL DE DESCUENTO (FORMERLY CORP BANCA C.A. VENEZUELA)","CARACAS","CONSVECABON"],["25","BANCO OCCIDENTAL DE DESCUENTO BU C.A.","CARACAS","(SUCURSAL CARACAS)","BODEVE2MCCS"],["26","BANCO OCCIDENTAL DE DESCUENTO BU C.A.","MARACAIBO","BODEVE2M"],["27","BANCO PLAZA","CARACAS","PLZAVECA"],["28","BANCO PROVINCIAL S.A.","CARACAS","BPROVECASUC"],["29","BANCO PROVINCIAL S.A. BANCO UNIVERSAL","CARACAS","BPROVECA"],["30","BANCO PROVINCIAL S.A. BANCO UNIVERSAL","MARACAIBO","BPROVECAMAR"],["31","BANCO PROVINCIAL S.A. BANCO UNIVERSAL","PUERTO ORDAZ","BPROVECAPZO"],["32","BANCO SOFITASA","SAN CRISTOBAL","SFTAVE22"],["33","BANCRECER S.A. BANCO DE DESARROLLO","CARACAS","CCERVECA"],["34","BANESCO BANCO UNIVERSAL","CARACAS","UNIOVECA"],["35","BANPLUS BANCO UNIVERSAL, C.A.","CARACAS","BEHRVECA"],["36","BFC BANCO FONDO COMUN, C.A. BANCO UNIVERSAL","CARACAS","REPBVECA"],["37","CITIBANK N.A. SUCURSAL VENEZUELA","CARACAS","CITIVECA"],["38","CORPORACION ANDINA DE FOMENTO","CARACAS","CAFCVECA"],["39","DEL SUR BANCO UNIVERSAL, C.A.","PUERTO ORDAZ","DSURVECP"],["40","ITALCAMBIO, C.A.","CARACAS","ITALVECA"],["41","MERCANTIL C.A. BANCO UNIVERSAL","CARACAS","BAMRVECA"],["42","MERCANTIL MERINVEST CASA DE BOLSA","CARACAS","MMCBVECA"],["43","VENEZOLANO DE CREDITO, S.A. BANCO UNIVERSAL","CARACAS","VZCRVECA"]]}
+{
+    "country": "Venezuela",
+    "country_code": "VE",
+    "list": [
+        [
+            "1",
+            "BANCAMIGA BANCO MICROFINANCIERO",
+            "CARACAS",
+            "BMIGVECA"
+        ],
+        [
+            "2",
+            "BANCO ACTIVO, C.A. BANCO UNIVERSAL",
+            "CARACAS",
+            "ACTIVECA"
+        ],
+        [
+            "3",
+            "BANCO AGRICOLA DE VENEZUELA, C.A. BANCO UNIVERSAL",
+            "CARACAS",
+            "BAVEVECA"
+        ],
+        [
+            "4",
+            "BANCO BICENTENARIO BANCO UNIVERSAL, C.A.",
+            "CARACAS",
+            "CONDVECP"
+        ],
+        [
+            "5",
+            "BANCO CARONI, C.A. BANCO UNIVERSAL",
+            "CARACAS",
+            "CAROVECA"
+        ],
+        [
+            "6",
+            "BANCO CARONI, C.A. BANCO UNIVERSAL",
+            "PUERTO ORDAZ",
+            "CAROVECA022"
+        ],
+        [
+            "7",
+            "BANCO CENTRAL DE VENEZUELA",
+            "CARACAS",
+            "BCVEVECA"
+        ],
+        [
+            "8",
+            "BANCO DE COMERCIO EXTERIOR",
+            "CARACAS",
+            "BCEVVECA"
+        ],
+        [
+            "9",
+            "BANCO DE DESARROLLO ECONOMICO Y SOCIAL DE VENEZUELA",
+            "CARACAS",
+            "FIVVVECA"
+        ],
+        [
+            "10",
+            "BANCO DE EXPORTACION Y COMERCIO C.A.",
+            "CARACAS",
+            "BECUVECA"
+        ],
+        [
+            "11",
+            "BANCO DE LA FUERZA ARMADA NACIONAL BOLIVARIANA, BANCO UNIVERSAL, C.A. (BANFANB)",
+            "CARACAS",
+            "BFANVECA"
+        ],
+        [
+            "12",
+            "BANCO DE VENEZUELA, S.A. BANCO UNIVERSAL",
+            "CARACAS",
+            "VZLAVECA"
+        ],
+        [
+            "13",
+            "BANCO DEL ALBA",
+            "CARACAS",
+            "LLBAVECA"
+        ],
+        [
+            "14",
+            "BANCO DEL CARIBE S.A.C.A.",
+            "CARACAS",
+            "CARBVECA"
+        ],
+        [
+            "15",
+            "BANCO DEL PUEBLO SOBERANO, C.A.",
+            "CARACAS",
+            "PBLOVECA"
+        ],
+        [
+            "16",
+            "BANCO DEL TESORO, C.A. BANCO UNIVERSAL",
+            "CARACAS",
+            "BDTEVECA"
+        ],
+        [
+            "17",
+            "BANCO ESPIRITO SANTO S.A. SUCURSAL VENEZUELA, BANCO UNIVERSAL",
+            "CARACAS",
+            "BESCVECA"
+        ],
+        [
+            "18",
+            "BANCO EXTERIOR, C.A. BANCO UNIVERSAL",
+            "CARACAS",
+            "BEXTVECA"
+        ],
+        [
+            "19",
+            "BANCO INDUSTRIAL DE VENEZUELA, C.A.",
+            "CARACAS",
+            "INDSVECA"
+        ],
+        [
+            "20",
+            "BANCO NACIONAL DE AHORRO Y PRESTAMO",
+            "CARACAS",
+            "BNAPVECA"
+        ],
+        [
+            "21",
+            "BANCO NACIONAL DE CREDITO, C.A.",
+            "CARACAS",
+            "(SUCURSAL 001)",
+            "NCRTVECA001"
+        ],
+        [
+            "22",
+            "BANCO NACIONAL DE CREDITO, C.A.",
+            "CARACAS",
+            "NCRTVECA"
+        ],
+        [
+            "23",
+            "BANCO OCCIDENTAL DE DESCUENTO (FORMERLY CORP BANCA C.A. VENEZUELA)",
+            "CARACAS",
+            "CONSVECA"
+        ],
+        [
+            "24",
+            "BANCO OCCIDENTAL DE DESCUENTO (FORMERLY CORP BANCA C.A. VENEZUELA)",
+            "CARACAS",
+            "CONSVECABON"
+        ],
+        [
+            "25",
+            "BANCO OCCIDENTAL DE DESCUENTO BU C.A.",
+            "CARACAS",
+            "(SUCURSAL CARACAS)",
+            "BODEVE2MCCS"
+        ],
+        [
+            "26",
+            "BANCO OCCIDENTAL DE DESCUENTO BU C.A.",
+            "MARACAIBO",
+            "BODEVE2M"
+        ],
+        [
+            "27",
+            "BANCO PLAZA",
+            "CARACAS",
+            "PLZAVECA"
+        ],
+        [
+            "28",
+            "BANCO PROVINCIAL S.A.",
+            "CARACAS",
+            "BPROVECASUC"
+        ],
+        [
+            "29",
+            "BANCO PROVINCIAL S.A. BANCO UNIVERSAL",
+            "CARACAS",
+            "BPROVECA"
+        ],
+        [
+            "30",
+            "BANCO PROVINCIAL S.A. BANCO UNIVERSAL",
+            "MARACAIBO",
+            "BPROVECAMAR"
+        ],
+        [
+            "31",
+            "BANCO PROVINCIAL S.A. BANCO UNIVERSAL",
+            "PUERTO ORDAZ",
+            "BPROVECAPZO"
+        ],
+        [
+            "32",
+            "BANCO SOFITASA",
+            "SAN CRISTOBAL",
+            "SFTAVE22"
+        ],
+        [
+            "33",
+            "BANCRECER S.A. BANCO DE DESARROLLO",
+            "CARACAS",
+            "CCERVECA"
+        ],
+        [
+            "34",
+            "BANESCO BANCO UNIVERSAL",
+            "CARACAS",
+            "UNIOVECA"
+        ],
+        [
+            "35",
+            "BANPLUS BANCO UNIVERSAL, C.A.",
+            "CARACAS",
+            "BEHRVECA"
+        ],
+        [
+            "36",
+            "BFC BANCO FONDO COMUN, C.A. BANCO UNIVERSAL",
+            "CARACAS",
+            "REPBVECA"
+        ],
+        [
+            "37",
+            "CITIBANK N.A. SUCURSAL VENEZUELA",
+            "CARACAS",
+            "CITIVECA"
+        ],
+        [
+            "38",
+            "CORPORACION ANDINA DE FOMENTO",
+            "CARACAS",
+            "CAFCVECA"
+        ],
+        [
+            "39",
+            "DEL SUR BANCO UNIVERSAL, C.A.",
+            "PUERTO ORDAZ",
+            "DSURVECP"
+        ],
+        [
+            "40",
+            "ITALCAMBIO, C.A.",
+            "CARACAS",
+            "ITALVECA"
+        ],
+        [
+            "41",
+            "MERCANTIL C.A. BANCO UNIVERSAL",
+            "CARACAS",
+            "BAMRVECA"
+        ],
+        [
+            "42",
+            "MERCANTIL MERINVEST CASA DE BOLSA",
+            "CARACAS",
+            "MMCBVECA"
+        ],
+        [
+            "43",
+            "VENEZOLANO DE CREDITO, S.A. BANCO UNIVERSAL",
+            "CARACAS",
+            "VZCRVECA"
+        ]
+    ]
+}

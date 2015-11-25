@@ -1,1 +1,439 @@
-{"country":"Panama","country_code":"PA","list":[["1","ALLBANK CORP.","PANAMA","ALLKPAPA"],["2","ANDBANC (PANAMA), S.A.","PANAMA","BACAPAPA"],["3","AUSTROBANK (OVERSEAS) PANAMA S.A.","PANAMA","AUBAPAPA"],["4","AUTORIDAD DEL CANAL DE PANAMA","PANAMA","ACPMPAPA"],["5","BAC INTERNATIONAL BANK, INC.","PANAMA","BCINPAPA"],["6","BALBOA BANK AND TRUST CORP","PANAMA","BTACPAPA"],["7","BANCA PRIVADA D'ANDORRA (PANAMA) SA","PANAMA","BPANPAPA"],["8","BANCO ALIADO, S.A.","PANAMA","BAALPAPA"],["9","BANCO AZTECA (PANAMA), S.A.","PANAMA","AZTKPAPA"],["10","BANCO CITIBANK (PANAMA), S.A.","PANAMA","(PANAMA BRANCH)","BACUPAPANOS"],["11","BANCO CITIBANK (PANAMA), S.A.","PANAMA","BACUPAPA"],["12","BANCO COLPATRIA PANAMA","PANAMA","COLPPAPA"],["13","BANCO DAVIVIENDA (PANAMA), S.A.","COLON","(SUCURSAL ZONA LIBRE)","CAFEPAPAZLC"],["14","BANCO DAVIVIENDA (PANAMA), S.A.","PANAMA","CAFEPAPA"],["15","BANCO DE BOGOTA (PANAMA), S.A.","PANAMA","BBOGPAPA"],["16","BANCO DE BOGOTA S.A","PANAMA","BBOGPAPB"],["17","BANCO DE LA NACION ARGENTINA","PANAMA","NACNPAPA"],["18","BANCO DE OCCIDENTE (PANAMA), S.A.","PANAMA","OCCIPAPA"],["19","BANCO DEL PACIFICO (PANAMA) S.A.","PANAMA","PACIPAPX"],["20","BANCO DELTA, S.A.","PANAMA","BDSAPAPA"],["21","BANCO FICOHSA (PANAMA), S.A.","PANAMA","FCOHPAPA"],["22","BANCO GENERAL S A","PANAMA","BAGEPAPA"],["23","BANCO INTERNACIONAL DE COSTA RICA S.A.","PANAMA","COSRPAPA"],["24","BANCO LAFISE PANAMA","PANAMA","BCCEPAPA"],["25","BANCO LATINOAMERICANO DE COMERCIO EXTERIOR, S.A. (BLADEX)","PANAMA CITY","BLAEPAPA"],["26","BANCO NACIONAL DE PANAMA","PANAMA","NAPAPAPA"],["27","BANCO PANAMA S.A.","PANAMA","BPTYPAPA"],["28","BANCO PANAMENO DE LA VIVIENDA","PANAMA","BPVVPAPA"],["29","BANCO PICHINCHA PANAMA","PANAMA","PICHPAPA"],["30","BANCO UNIVERSAL S.A.","DAVID","BUNVPAPA"],["31","BANCOLOMBIA PANAMA S.A.","PANAMA","COLOPAPA"],["32","BANCOLOMBIA SUCURSAL PANAMA","PANAMA","COLOPAPS"],["33","BANESCO S.A.","PANAMA","BANSPAPA"],["34","BANISI, S.A.","PANAMA","GUAYPAPA"],["35","BANISTMO S.A","COLON","(COLON BRANCH)","MIDLPAPACLN"],["36","BANISTMO S.A","PANAMA","(PANAMA BRANCH)","MIDLPAPA"],["37","BANISTMO S.A","PANAMA","(SECURITIES)","MIDLPAPA001"],["38","BANK LEUMI LE ISRAEL B.M.","PANAMA","LUMIPAPA"],["39","BANK OF CHINA, PANAMA BRANCH","PANAMA","BKCHPAPA"],["40","BANK OF NOVA SCOTIA, THE","PANAMA","NOSCPAPA"],["41","BBP BANK, S.A.","PANAMA","BBOLPAPA"],["42","BCT BANK INTERNATIONAL, S.A.","PANAMA","BCTBPAPA"],["43","BHD INTERNATIONAL BANK (PANAMA), S.A.","PANAMA","BHINPAPA"],["44","BSI BANK (PANAMA)","PANAMA","BSILPAPA"],["45","CAJA DE AHORROS","PANAMA","CAHRPAPA"],["46","CAPITAL BANK INC.","PANAMA","CAPBPAPA"],["47","CENTRAL LATINOAMERICANA DE VALORES","PANAMA","LPTYPAPA"],["48","CITIBANK N.A. SUCURSAL PANAMA","PANAMA","(SECURITY SERVICES PANAMA)","CITIPAPASFE"],["49","CITIBANK N.A. SUCURSAL PANAMA","PANAMA","CITIPAPA"],["50","CREDICORP BANK S.A","PANAMA","CRLDPAPA"],["51","CREDIT ANDORRA PANAMA","PANAMA","CRDAPAPA"],["52","FIRST CENTRAL INTERNATIONAL BANK INC.","PANAMA","FCINPAPA"],["53","FPB BANK INC.","PANAMA","FPBIPAPA"],["54","GLOBAL BANK CORPORATION","PANAMA","GLBLPAPA"],["55","GNB SUDAMERIS BANK S.A.","PANAMA","GNBKPAPA"],["56","HELM BANK (PANAMA) S.A.","PANAMA","BCTOPAPA"],["57","INTELIGO BANK LTD","PANAMA","IBNKPAPA"],["58","INTERNATIONAL UNION BANK S.A.","PANAMA","IUBKPAPA"],["59","KEEN HOLDING S.A, (BANCO PRIVAL S.A.)","PANAMA","KEHPPAPA"],["60","KOREA EXCHANGE BANK","PANAMA","KOEXPAPA"],["61","MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.","PANAMA","(COLON FREE ZONE BRANCH)","ICBCPAPAZLC"],["62","MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.","PANAMA","ICBCPAPA"],["63","MERCANTIL BANK (PANAMA) S.A.","PANAMA","MPANPAPA"],["64","METROBANK S.A.","PANAMA","METOPAPA"],["65","MMG BANK CORPORATION","PANAMA","MMGBPAPA"],["66","MULTIBANK INC.","PANAMA","MCTBPAPA"],["67","POPULAR BANK LTD. INC.","PANAMA","BPDOPAPA"],["68","PRODUBANK PANAMA S.A.","PANAMA","PRODPAPA"],["69","ST. GEORGES BANK","PANAMA","STGBPAPA"],["70","TOWERBANK INTERNATIONAL, INC.","PANAMA","TOWEPAPA"],["71","UNIBANK, S.A.","PANAMA","UNIBPAPA"]]}
+{
+    "country": "Panama",
+    "country_code": "PA",
+    "list": [
+        [
+            "1",
+            "ALLBANK CORP.",
+            "PANAMA",
+            "ALLKPAPA"
+        ],
+        [
+            "2",
+            "ANDBANC (PANAMA), S.A.",
+            "PANAMA",
+            "BACAPAPA"
+        ],
+        [
+            "3",
+            "AUSTROBANK (OVERSEAS) PANAMA S.A.",
+            "PANAMA",
+            "AUBAPAPA"
+        ],
+        [
+            "4",
+            "AUTORIDAD DEL CANAL DE PANAMA",
+            "PANAMA",
+            "ACPMPAPA"
+        ],
+        [
+            "5",
+            "BAC INTERNATIONAL BANK, INC.",
+            "PANAMA",
+            "BCINPAPA"
+        ],
+        [
+            "6",
+            "BALBOA BANK AND TRUST CORP",
+            "PANAMA",
+            "BTACPAPA"
+        ],
+        [
+            "7",
+            "BANCA PRIVADA D'ANDORRA (PANAMA) SA",
+            "PANAMA",
+            "BPANPAPA"
+        ],
+        [
+            "8",
+            "BANCO ALIADO, S.A.",
+            "PANAMA",
+            "BAALPAPA"
+        ],
+        [
+            "9",
+            "BANCO AZTECA (PANAMA), S.A.",
+            "PANAMA",
+            "AZTKPAPA"
+        ],
+        [
+            "10",
+            "BANCO CITIBANK (PANAMA), S.A.",
+            "PANAMA",
+            "(PANAMA BRANCH)",
+            "BACUPAPANOS"
+        ],
+        [
+            "11",
+            "BANCO CITIBANK (PANAMA), S.A.",
+            "PANAMA",
+            "BACUPAPA"
+        ],
+        [
+            "12",
+            "BANCO COLPATRIA PANAMA",
+            "PANAMA",
+            "COLPPAPA"
+        ],
+        [
+            "13",
+            "BANCO DAVIVIENDA (PANAMA), S.A.",
+            "COLON",
+            "(SUCURSAL ZONA LIBRE)",
+            "CAFEPAPAZLC"
+        ],
+        [
+            "14",
+            "BANCO DAVIVIENDA (PANAMA), S.A.",
+            "PANAMA",
+            "CAFEPAPA"
+        ],
+        [
+            "15",
+            "BANCO DE BOGOTA (PANAMA), S.A.",
+            "PANAMA",
+            "BBOGPAPA"
+        ],
+        [
+            "16",
+            "BANCO DE BOGOTA S.A",
+            "PANAMA",
+            "BBOGPAPB"
+        ],
+        [
+            "17",
+            "BANCO DE LA NACION ARGENTINA",
+            "PANAMA",
+            "NACNPAPA"
+        ],
+        [
+            "18",
+            "BANCO DE OCCIDENTE (PANAMA), S.A.",
+            "PANAMA",
+            "OCCIPAPA"
+        ],
+        [
+            "19",
+            "BANCO DEL PACIFICO (PANAMA) S.A.",
+            "PANAMA",
+            "PACIPAPX"
+        ],
+        [
+            "20",
+            "BANCO DELTA, S.A.",
+            "PANAMA",
+            "BDSAPAPA"
+        ],
+        [
+            "21",
+            "BANCO FICOHSA (PANAMA), S.A.",
+            "PANAMA",
+            "FCOHPAPA"
+        ],
+        [
+            "22",
+            "BANCO GENERAL S A",
+            "PANAMA",
+            "BAGEPAPA"
+        ],
+        [
+            "23",
+            "BANCO INTERNACIONAL DE COSTA RICA S.A.",
+            "PANAMA",
+            "COSRPAPA"
+        ],
+        [
+            "24",
+            "BANCO LAFISE PANAMA",
+            "PANAMA",
+            "BCCEPAPA"
+        ],
+        [
+            "25",
+            "BANCO LATINOAMERICANO DE COMERCIO EXTERIOR, S.A. (BLADEX)",
+            "PANAMA CITY",
+            "BLAEPAPA"
+        ],
+        [
+            "26",
+            "BANCO NACIONAL DE PANAMA",
+            "PANAMA",
+            "NAPAPAPA"
+        ],
+        [
+            "27",
+            "BANCO PANAMA S.A.",
+            "PANAMA",
+            "BPTYPAPA"
+        ],
+        [
+            "28",
+            "BANCO PANAMENO DE LA VIVIENDA",
+            "PANAMA",
+            "BPVVPAPA"
+        ],
+        [
+            "29",
+            "BANCO PICHINCHA PANAMA",
+            "PANAMA",
+            "PICHPAPA"
+        ],
+        [
+            "30",
+            "BANCO UNIVERSAL S.A.",
+            "DAVID",
+            "BUNVPAPA"
+        ],
+        [
+            "31",
+            "BANCOLOMBIA PANAMA S.A.",
+            "PANAMA",
+            "COLOPAPA"
+        ],
+        [
+            "32",
+            "BANCOLOMBIA SUCURSAL PANAMA",
+            "PANAMA",
+            "COLOPAPS"
+        ],
+        [
+            "33",
+            "BANESCO S.A.",
+            "PANAMA",
+            "BANSPAPA"
+        ],
+        [
+            "34",
+            "BANISI, S.A.",
+            "PANAMA",
+            "GUAYPAPA"
+        ],
+        [
+            "35",
+            "BANISTMO S.A",
+            "COLON",
+            "(COLON BRANCH)",
+            "MIDLPAPACLN"
+        ],
+        [
+            "36",
+            "BANISTMO S.A",
+            "PANAMA",
+            "(PANAMA BRANCH)",
+            "MIDLPAPA"
+        ],
+        [
+            "37",
+            "BANISTMO S.A",
+            "PANAMA",
+            "(SECURITIES)",
+            "MIDLPAPA001"
+        ],
+        [
+            "38",
+            "BANK LEUMI LE ISRAEL B.M.",
+            "PANAMA",
+            "LUMIPAPA"
+        ],
+        [
+            "39",
+            "BANK OF CHINA, PANAMA BRANCH",
+            "PANAMA",
+            "BKCHPAPA"
+        ],
+        [
+            "40",
+            "BANK OF NOVA SCOTIA, THE",
+            "PANAMA",
+            "NOSCPAPA"
+        ],
+        [
+            "41",
+            "BBP BANK, S.A.",
+            "PANAMA",
+            "BBOLPAPA"
+        ],
+        [
+            "42",
+            "BCT BANK INTERNATIONAL, S.A.",
+            "PANAMA",
+            "BCTBPAPA"
+        ],
+        [
+            "43",
+            "BHD INTERNATIONAL BANK (PANAMA), S.A.",
+            "PANAMA",
+            "BHINPAPA"
+        ],
+        [
+            "44",
+            "BSI BANK (PANAMA)",
+            "PANAMA",
+            "BSILPAPA"
+        ],
+        [
+            "45",
+            "CAJA DE AHORROS",
+            "PANAMA",
+            "CAHRPAPA"
+        ],
+        [
+            "46",
+            "CAPITAL BANK INC.",
+            "PANAMA",
+            "CAPBPAPA"
+        ],
+        [
+            "47",
+            "CENTRAL LATINOAMERICANA DE VALORES",
+            "PANAMA",
+            "LPTYPAPA"
+        ],
+        [
+            "48",
+            "CITIBANK N.A. SUCURSAL PANAMA",
+            "PANAMA",
+            "(SECURITY SERVICES PANAMA)",
+            "CITIPAPASFE"
+        ],
+        [
+            "49",
+            "CITIBANK N.A. SUCURSAL PANAMA",
+            "PANAMA",
+            "CITIPAPA"
+        ],
+        [
+            "50",
+            "CREDICORP BANK S.A",
+            "PANAMA",
+            "CRLDPAPA"
+        ],
+        [
+            "51",
+            "CREDIT ANDORRA PANAMA",
+            "PANAMA",
+            "CRDAPAPA"
+        ],
+        [
+            "52",
+            "FIRST CENTRAL INTERNATIONAL BANK INC.",
+            "PANAMA",
+            "FCINPAPA"
+        ],
+        [
+            "53",
+            "FPB BANK INC.",
+            "PANAMA",
+            "FPBIPAPA"
+        ],
+        [
+            "54",
+            "GLOBAL BANK CORPORATION",
+            "PANAMA",
+            "GLBLPAPA"
+        ],
+        [
+            "55",
+            "GNB SUDAMERIS BANK S.A.",
+            "PANAMA",
+            "GNBKPAPA"
+        ],
+        [
+            "56",
+            "HELM BANK (PANAMA) S.A.",
+            "PANAMA",
+            "BCTOPAPA"
+        ],
+        [
+            "57",
+            "INTELIGO BANK LTD",
+            "PANAMA",
+            "IBNKPAPA"
+        ],
+        [
+            "58",
+            "INTERNATIONAL UNION BANK S.A.",
+            "PANAMA",
+            "IUBKPAPA"
+        ],
+        [
+            "59",
+            "KEEN HOLDING S.A, (BANCO PRIVAL S.A.)",
+            "PANAMA",
+            "KEHPPAPA"
+        ],
+        [
+            "60",
+            "KOREA EXCHANGE BANK",
+            "PANAMA",
+            "KOEXPAPA"
+        ],
+        [
+            "61",
+            "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
+            "PANAMA",
+            "(COLON FREE ZONE BRANCH)",
+            "ICBCPAPAZLC"
+        ],
+        [
+            "62",
+            "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
+            "PANAMA",
+            "ICBCPAPA"
+        ],
+        [
+            "63",
+            "MERCANTIL BANK (PANAMA) S.A.",
+            "PANAMA",
+            "MPANPAPA"
+        ],
+        [
+            "64",
+            "METROBANK S.A.",
+            "PANAMA",
+            "METOPAPA"
+        ],
+        [
+            "65",
+            "MMG BANK CORPORATION",
+            "PANAMA",
+            "MMGBPAPA"
+        ],
+        [
+            "66",
+            "MULTIBANK INC.",
+            "PANAMA",
+            "MCTBPAPA"
+        ],
+        [
+            "67",
+            "POPULAR BANK LTD. INC.",
+            "PANAMA",
+            "BPDOPAPA"
+        ],
+        [
+            "68",
+            "PRODUBANK PANAMA S.A.",
+            "PANAMA",
+            "PRODPAPA"
+        ],
+        [
+            "69",
+            "ST. GEORGES BANK",
+            "PANAMA",
+            "STGBPAPA"
+        ],
+        [
+            "70",
+            "TOWERBANK INTERNATIONAL, INC.",
+            "PANAMA",
+            "TOWEPAPA"
+        ],
+        [
+            "71",
+            "UNIBANK, S.A.",
+            "PANAMA",
+            "UNIBPAPA"
+        ]
+    ]
+}

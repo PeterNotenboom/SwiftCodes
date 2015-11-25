@@ -1,1 +1,233 @@
-{"country":"Slovenia","country_code":"SI","list":[["1","ABANKA VIPA D.D.","LJUBLJANA","ABANSI2X"],["2","BANK OF SLOVENIA","LJUBLJANA","(CCBM)","BSLJSI2XCCB"],["3","BANK OF SLOVENIA","LJUBLJANA","(PORAVNAVA SEPA CT)","BSLJSI2XSCT"],["4","BANK OF SLOVENIA","LJUBLJANA","(PORAVNAVA STEP2 MPEDD - STORITEV B2B)","BSLJSI2XB2B"],["5","BANK OF SLOVENIA","LJUBLJANA","(PORAVNAVA STEP2 MPEDD - STORITEV CORE)","BSLJSI2XCOR"],["6","BANK OF SLOVENIA","LJUBLJANA","(TARGET)","BSLJSI2XEUX"],["7","BANK OF SLOVENIA","LJUBLJANA","BSLJSI2X"],["8","BANK OF SLOVENIA","LJUBLJANA","BSLJSI2XIND"],["9","BANKA CELJE D.D.","CELJE","SBCESI2X"],["10","BANKA KOPER D.D.","KOPER","(IBOS CODE)","BAKOSI2XIBO"],["11","BANKA KOPER D.D.","KOPER","BAKOSI2X"],["12","BANKA SPARKASSE D.D.","LJUBLJANA","KSPKSI22"],["13","BKS BANK AG, BANCNA PODRUZNICA","LJUBLJANA","BFKKSI22"],["14","CENTRAL SECURITIES CLEARING CORPORATION - KDD","LJUBLJANA","KDDSSI22"],["15","DELAVSKA HRANILNICA D.D. LJUBLJANA","LJUBLJANA","HDELSI22"],["16","DEZELNA BANKA SLOVENIJE D.D.","LJUBLJANA","SZKBSI2X"],["17","FACTOR BANKA D.D.","LJUBLJANA","FCTBSI2X"],["18","GORENJSKA BANKA D.D., KRANJ","KRANJ","GORESI2X"],["19","HRANILNICA LON D.D.","KRANJ","HLONSI22"],["20","HRANILNICA VIPAVA D.D.","VIPAVA","HKVISI22"],["21","HYPO ALPE-ADRIA-BANK D.D.","LJUBLJANA","HAABSI22"],["22","NOVA KREDITNA BANKA MARIBOR D.D.","MARIBOR","KBMASI2X"],["23","NOVA LJUBLJANSKA BANKA D.D.","LJUBLJANA","LJBASI2X"],["24","POSTNA BANKA SLOVENIJE D.D.","MARIBOR","PBSLSI22"],["25","PROBANKA D.D. MARIBOR","CELJE","(BRANCH CELJE)","PROBSI2XCEL"],["26","PROBANKA D.D. MARIBOR","KOPER","(KOPER BRANCH)","PROBSI2XKOP"],["27","PROBANKA D.D. MARIBOR","KRANJ","(BRANCH KRANJ)","PROBSI2XKRA"],["28","PROBANKA D.D. MARIBOR","LJUBLJANA","(LJUBLJANA BRANCH)","PROBSI2XLJU"],["29","PROBANKA D.D. MARIBOR","MARIBOR","PROBSI2X"],["30","PROBANKA D.D. MARIBOR","SLOVENJ GRADEC","(SLOVENJ GRADEC BRANCH)","PROBSI2XSLG"],["31","RAIFFEISEN BANKA D.D.","MARIBOR","KREKSI22"],["32","SBERBANK BANKA D.D.","LJUBLJANA","SABRSI2X"],["33","SID-SLOVENSKA IZVOZNA IN RAZVOJNA BANKA, D.D., LJUBLJANA","LJUBLJANA","SIDRSI22"],["34","SKB BANKA D.D.","LJUBLJANA","SKBASI2X"],["35","UNICREDIT BANKA SLOVENIJA D.D.","LJUBLJANA","BACXSI22"],["36","ZVEZA BANK R.Z.Z O.J. PODRUZNICA LJUBLJANA","LJUBLJANA","VSGKSI22"]]}
+{
+    "country": "Slovenia",
+    "country_code": "SI",
+    "list": [
+        [
+            "1",
+            "ABANKA VIPA D.D.",
+            "LJUBLJANA",
+            "ABANSI2X"
+        ],
+        [
+            "2",
+            "BANK OF SLOVENIA",
+            "LJUBLJANA",
+            "(CCBM)",
+            "BSLJSI2XCCB"
+        ],
+        [
+            "3",
+            "BANK OF SLOVENIA",
+            "LJUBLJANA",
+            "(PORAVNAVA SEPA CT)",
+            "BSLJSI2XSCT"
+        ],
+        [
+            "4",
+            "BANK OF SLOVENIA",
+            "LJUBLJANA",
+            "(PORAVNAVA STEP2 MPEDD - STORITEV B2B)",
+            "BSLJSI2XB2B"
+        ],
+        [
+            "5",
+            "BANK OF SLOVENIA",
+            "LJUBLJANA",
+            "(PORAVNAVA STEP2 MPEDD - STORITEV CORE)",
+            "BSLJSI2XCOR"
+        ],
+        [
+            "6",
+            "BANK OF SLOVENIA",
+            "LJUBLJANA",
+            "(TARGET)",
+            "BSLJSI2XEUX"
+        ],
+        [
+            "7",
+            "BANK OF SLOVENIA",
+            "LJUBLJANA",
+            "BSLJSI2X"
+        ],
+        [
+            "8",
+            "BANK OF SLOVENIA",
+            "LJUBLJANA",
+            "BSLJSI2XIND"
+        ],
+        [
+            "9",
+            "BANKA CELJE D.D.",
+            "CELJE",
+            "SBCESI2X"
+        ],
+        [
+            "10",
+            "BANKA KOPER D.D.",
+            "KOPER",
+            "(IBOS CODE)",
+            "BAKOSI2XIBO"
+        ],
+        [
+            "11",
+            "BANKA KOPER D.D.",
+            "KOPER",
+            "BAKOSI2X"
+        ],
+        [
+            "12",
+            "BANKA SPARKASSE D.D.",
+            "LJUBLJANA",
+            "KSPKSI22"
+        ],
+        [
+            "13",
+            "BKS BANK AG, BANCNA PODRUZNICA",
+            "LJUBLJANA",
+            "BFKKSI22"
+        ],
+        [
+            "14",
+            "CENTRAL SECURITIES CLEARING CORPORATION - KDD",
+            "LJUBLJANA",
+            "KDDSSI22"
+        ],
+        [
+            "15",
+            "DELAVSKA HRANILNICA D.D. LJUBLJANA",
+            "LJUBLJANA",
+            "HDELSI22"
+        ],
+        [
+            "16",
+            "DEZELNA BANKA SLOVENIJE D.D.",
+            "LJUBLJANA",
+            "SZKBSI2X"
+        ],
+        [
+            "17",
+            "FACTOR BANKA D.D.",
+            "LJUBLJANA",
+            "FCTBSI2X"
+        ],
+        [
+            "18",
+            "GORENJSKA BANKA D.D., KRANJ",
+            "KRANJ",
+            "GORESI2X"
+        ],
+        [
+            "19",
+            "HRANILNICA LON D.D.",
+            "KRANJ",
+            "HLONSI22"
+        ],
+        [
+            "20",
+            "HRANILNICA VIPAVA D.D.",
+            "VIPAVA",
+            "HKVISI22"
+        ],
+        [
+            "21",
+            "HYPO ALPE-ADRIA-BANK D.D.",
+            "LJUBLJANA",
+            "HAABSI22"
+        ],
+        [
+            "22",
+            "NOVA KREDITNA BANKA MARIBOR D.D.",
+            "MARIBOR",
+            "KBMASI2X"
+        ],
+        [
+            "23",
+            "NOVA LJUBLJANSKA BANKA D.D.",
+            "LJUBLJANA",
+            "LJBASI2X"
+        ],
+        [
+            "24",
+            "POSTNA BANKA SLOVENIJE D.D.",
+            "MARIBOR",
+            "PBSLSI22"
+        ],
+        [
+            "25",
+            "PROBANKA D.D. MARIBOR",
+            "CELJE",
+            "(BRANCH CELJE)",
+            "PROBSI2XCEL"
+        ],
+        [
+            "26",
+            "PROBANKA D.D. MARIBOR",
+            "KOPER",
+            "(KOPER BRANCH)",
+            "PROBSI2XKOP"
+        ],
+        [
+            "27",
+            "PROBANKA D.D. MARIBOR",
+            "KRANJ",
+            "(BRANCH KRANJ)",
+            "PROBSI2XKRA"
+        ],
+        [
+            "28",
+            "PROBANKA D.D. MARIBOR",
+            "LJUBLJANA",
+            "(LJUBLJANA BRANCH)",
+            "PROBSI2XLJU"
+        ],
+        [
+            "29",
+            "PROBANKA D.D. MARIBOR",
+            "MARIBOR",
+            "PROBSI2X"
+        ],
+        [
+            "30",
+            "PROBANKA D.D. MARIBOR",
+            "SLOVENJ GRADEC",
+            "(SLOVENJ GRADEC BRANCH)",
+            "PROBSI2XSLG"
+        ],
+        [
+            "31",
+            "RAIFFEISEN BANKA D.D.",
+            "MARIBOR",
+            "KREKSI22"
+        ],
+        [
+            "32",
+            "SBERBANK BANKA D.D.",
+            "LJUBLJANA",
+            "SABRSI2X"
+        ],
+        [
+            "33",
+            "SID-SLOVENSKA IZVOZNA IN RAZVOJNA BANKA, D.D., LJUBLJANA",
+            "LJUBLJANA",
+            "SIDRSI22"
+        ],
+        [
+            "34",
+            "SKB BANKA D.D.",
+            "LJUBLJANA",
+            "SKBASI2X"
+        ],
+        [
+            "35",
+            "UNICREDIT BANKA SLOVENIJA D.D.",
+            "LJUBLJANA",
+            "BACXSI22"
+        ],
+        [
+            "36",
+            "ZVEZA BANK R.Z.Z O.J. PODRUZNICA LJUBLJANA",
+            "LJUBLJANA",
+            "VSGKSI22"
+        ]
+    ]
+}

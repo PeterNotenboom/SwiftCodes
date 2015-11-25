@@ -1,1 +1,339 @@
-{"country":"Ghana","country_code":"GH","list":[["1","ACCESS BANK (GHANA) LIMITED","ACCRA","ABNGGHAC"],["2","AGRICULTURAL DEVELOPMENT BANK","ACCRA","ADNTGHAC"],["3","ARB APEX BANK LIMITED","ACCRA","AREXGHAC"],["4","BANK OF AFRICA - GHANA LIMITED","ACCRA","AMMAGHAC"],["5","BANK OF BARODA (GHANA) LIMITED","ACCRA","BARBGHAC"],["6","BANK OF GHANA","ACCRA","BAGHGHA4"],["7","BANK OF GHANA","ACCRA","BAGHGHA5"],["8","BANK OF GHANA","ACCRA","BAGHGHAC"],["9","BARCLAYS BANK OF GHANA LTD.","ACCRA","(ALL BRANCHES IN GHANA)","BARCGHAC"],["10","BARCLAYS BANK OF GHANA LTD.","ACCRA","(OFFSHORE BANKING UNIT)","BARCGHACOBU"],["11","BSIC GHANA LTD","ACCRA","BSAHGHAC"],["12","CAL BANK LIMITED","ACCRA","(CAL BANK CUSTODY SERVICES)","ACCCGHACCBS"],["13","CAL BANK LIMITED","ACCRA","ACCCGHAC"],["14","CONTROLLER AND ACCOUNTANT-GENERAL'S DEPARTMENT","ACCRA","CODGGHAC"],["15","ECOBANK GHANA","ACCRA","ECOCGHAC"],["16","ECOBANK GHANA","ACCRA","ECOCGHACCUS"],["17","ECOBANK GHANA","KUMASI","(KUMASI BRANCH)","ECOCGHACKSI"],["18","ECOBANK GHANA","TAKORADI","(TAKORADI BRANCH)","ECOCGHACTDI"],["19","ECOBANK GHANA","TEMA","(TEMA BRANCH)","ECOCGHACTMA"],["20","ENERGY BANK GHANA LIMITED","ACCRA","ENRBGHAC"],["21","FIDELITY BANK LIMITED","ACCRA","FBLIGHAC"],["22","FIRST ATLANTIC BANK LIMITED","ACCRA","FAMCGHAC"],["23","FIRST CAPITAL PLUS BANK LIMITED","ACCRA","FCPBGHAC"],["24","GCB BANK LIMITED","ACCRA","GHCBGHAC"],["25","GCB BANK LIMITED","KUMASI","GHCBGHACKSI"],["26","GCB BANK LIMITED","TAKORADI","GHCBGHACTDI"],["27","GCB BANK LIMITED","TEMA","GHCBGHACTMA"],["28","GHANA REVENUE AUTHORITY","ACCRA","GHRAGHAC"],["29","GUARANTY TRUST BANK (GHANA) LTD","ACCRA","GTBIGHAC"],["30","HFC BANK (GHANA) LTD","ACCRA","(CUSTODY SERVICES)","HFCAGHACCSD"],["31","HFC BANK (GHANA) LTD","ACCRA","HFCAGHAC"],["32","INTERNATIONAL COMMERCIAL BANK LTD.","ACCRA","INCEGHAC"],["33","NATIONAL INVESTMENT BANK","ACCRA","NIBGGHAC"],["34","PRUDENTIAL BANK LIMITED","ACCRA","PUBKGHAC"],["35","SOCIAL SECURITY AND NATIONAL INSURANCE TRUST","ACCRA","SSNTGHAC"],["36","SOCIETE GENERALE GHANA LIMITED","ACCRA","SSEBGHAC"],["37","SOCIETE GENERALE GHANA LIMITED","KUMASI","SSEBGHACKSI"],["38","SOCIETE GENERALE GHANA LIMITED","TAMALE","SSEBGHACTAM"],["39","STANBIC BANK GHANA LIMITED","ACCRA","SBICGHAC"],["40","STANDARD CHARTERED BANK GHANA LIMITED","ACCRA","(HEAD OFFICE)","SCBLGHAC"],["41","STANDARD CHARTERED BANK GHANA LIMITED","ACCRA","(SECURITIES SERVICES UNIT)","SCBLGHACSSU"],["42","STANDARD CHARTERED BANK GHANA LIMITED","KUMASI","SCBLGHACKSI"],["43","STANDARD CHARTERED BANK GHANA LIMITED","TAKORADI","SCBLGHACTDI"],["44","STANDARD CHARTERED BANK GHANA LIMITED","TEMA","SCBLGHACTMA"],["45","THE ROYAL BANK","ACCRA","TRBGGHAC"],["46","TRUST BANK LTD, THE","ACCRA","TRBLGHAC"],["47","UNIBANK GHANA LIMITED","ACCRA","UBGHGHAC"],["48","UNITED BANK FOR AFRICA (GHANA) LTD","ACCRA","STBGGHAC"],["49","UNIVERSAL MERCHANT BANK LIMITED","ACCRA","MBGHGHAC"],["50","UNIVERSAL MERCHANT BANK LIMITED","KUMASI","MBGHGHACKSI"],["51","UNIVERSAL MERCHANT BANK LIMITED","TAKORADI","MBGHGHACTDI"],["52","UNIVERSAL MERCHANT BANK LIMITED","TEMA","MBGHGHACTMA"],["53","UT BANK LTD","ACCRA","UTBKGHAC"],["54","ZENITH BANK (GHANA) LIMITED","ACCRA","ZEBLGHAC"]]}
+{
+    "country": "Ghana",
+    "country_code": "GH",
+    "list": [
+        [
+            "1",
+            "ACCESS BANK (GHANA) LIMITED",
+            "ACCRA",
+            "ABNGGHAC"
+        ],
+        [
+            "2",
+            "AGRICULTURAL DEVELOPMENT BANK",
+            "ACCRA",
+            "ADNTGHAC"
+        ],
+        [
+            "3",
+            "ARB APEX BANK LIMITED",
+            "ACCRA",
+            "AREXGHAC"
+        ],
+        [
+            "4",
+            "BANK OF AFRICA - GHANA LIMITED",
+            "ACCRA",
+            "AMMAGHAC"
+        ],
+        [
+            "5",
+            "BANK OF BARODA (GHANA) LIMITED",
+            "ACCRA",
+            "BARBGHAC"
+        ],
+        [
+            "6",
+            "BANK OF GHANA",
+            "ACCRA",
+            "BAGHGHA4"
+        ],
+        [
+            "7",
+            "BANK OF GHANA",
+            "ACCRA",
+            "BAGHGHA5"
+        ],
+        [
+            "8",
+            "BANK OF GHANA",
+            "ACCRA",
+            "BAGHGHAC"
+        ],
+        [
+            "9",
+            "BARCLAYS BANK OF GHANA LTD.",
+            "ACCRA",
+            "(ALL BRANCHES IN GHANA)",
+            "BARCGHAC"
+        ],
+        [
+            "10",
+            "BARCLAYS BANK OF GHANA LTD.",
+            "ACCRA",
+            "(OFFSHORE BANKING UNIT)",
+            "BARCGHACOBU"
+        ],
+        [
+            "11",
+            "BSIC GHANA LTD",
+            "ACCRA",
+            "BSAHGHAC"
+        ],
+        [
+            "12",
+            "CAL BANK LIMITED",
+            "ACCRA",
+            "(CAL BANK CUSTODY SERVICES)",
+            "ACCCGHACCBS"
+        ],
+        [
+            "13",
+            "CAL BANK LIMITED",
+            "ACCRA",
+            "ACCCGHAC"
+        ],
+        [
+            "14",
+            "CONTROLLER AND ACCOUNTANT-GENERAL'S DEPARTMENT",
+            "ACCRA",
+            "CODGGHAC"
+        ],
+        [
+            "15",
+            "ECOBANK GHANA",
+            "ACCRA",
+            "ECOCGHAC"
+        ],
+        [
+            "16",
+            "ECOBANK GHANA",
+            "ACCRA",
+            "ECOCGHACCUS"
+        ],
+        [
+            "17",
+            "ECOBANK GHANA",
+            "KUMASI",
+            "(KUMASI BRANCH)",
+            "ECOCGHACKSI"
+        ],
+        [
+            "18",
+            "ECOBANK GHANA",
+            "TAKORADI",
+            "(TAKORADI BRANCH)",
+            "ECOCGHACTDI"
+        ],
+        [
+            "19",
+            "ECOBANK GHANA",
+            "TEMA",
+            "(TEMA BRANCH)",
+            "ECOCGHACTMA"
+        ],
+        [
+            "20",
+            "ENERGY BANK GHANA LIMITED",
+            "ACCRA",
+            "ENRBGHAC"
+        ],
+        [
+            "21",
+            "FIDELITY BANK LIMITED",
+            "ACCRA",
+            "FBLIGHAC"
+        ],
+        [
+            "22",
+            "FIRST ATLANTIC BANK LIMITED",
+            "ACCRA",
+            "FAMCGHAC"
+        ],
+        [
+            "23",
+            "FIRST CAPITAL PLUS BANK LIMITED",
+            "ACCRA",
+            "FCPBGHAC"
+        ],
+        [
+            "24",
+            "GCB BANK LIMITED",
+            "ACCRA",
+            "GHCBGHAC"
+        ],
+        [
+            "25",
+            "GCB BANK LIMITED",
+            "KUMASI",
+            "GHCBGHACKSI"
+        ],
+        [
+            "26",
+            "GCB BANK LIMITED",
+            "TAKORADI",
+            "GHCBGHACTDI"
+        ],
+        [
+            "27",
+            "GCB BANK LIMITED",
+            "TEMA",
+            "GHCBGHACTMA"
+        ],
+        [
+            "28",
+            "GHANA REVENUE AUTHORITY",
+            "ACCRA",
+            "GHRAGHAC"
+        ],
+        [
+            "29",
+            "GUARANTY TRUST BANK (GHANA) LTD",
+            "ACCRA",
+            "GTBIGHAC"
+        ],
+        [
+            "30",
+            "HFC BANK (GHANA) LTD",
+            "ACCRA",
+            "(CUSTODY SERVICES)",
+            "HFCAGHACCSD"
+        ],
+        [
+            "31",
+            "HFC BANK (GHANA) LTD",
+            "ACCRA",
+            "HFCAGHAC"
+        ],
+        [
+            "32",
+            "INTERNATIONAL COMMERCIAL BANK LTD.",
+            "ACCRA",
+            "INCEGHAC"
+        ],
+        [
+            "33",
+            "NATIONAL INVESTMENT BANK",
+            "ACCRA",
+            "NIBGGHAC"
+        ],
+        [
+            "34",
+            "PRUDENTIAL BANK LIMITED",
+            "ACCRA",
+            "PUBKGHAC"
+        ],
+        [
+            "35",
+            "SOCIAL SECURITY AND NATIONAL INSURANCE TRUST",
+            "ACCRA",
+            "SSNTGHAC"
+        ],
+        [
+            "36",
+            "SOCIETE GENERALE GHANA LIMITED",
+            "ACCRA",
+            "SSEBGHAC"
+        ],
+        [
+            "37",
+            "SOCIETE GENERALE GHANA LIMITED",
+            "KUMASI",
+            "SSEBGHACKSI"
+        ],
+        [
+            "38",
+            "SOCIETE GENERALE GHANA LIMITED",
+            "TAMALE",
+            "SSEBGHACTAM"
+        ],
+        [
+            "39",
+            "STANBIC BANK GHANA LIMITED",
+            "ACCRA",
+            "SBICGHAC"
+        ],
+        [
+            "40",
+            "STANDARD CHARTERED BANK GHANA LIMITED",
+            "ACCRA",
+            "(HEAD OFFICE)",
+            "SCBLGHAC"
+        ],
+        [
+            "41",
+            "STANDARD CHARTERED BANK GHANA LIMITED",
+            "ACCRA",
+            "(SECURITIES SERVICES UNIT)",
+            "SCBLGHACSSU"
+        ],
+        [
+            "42",
+            "STANDARD CHARTERED BANK GHANA LIMITED",
+            "KUMASI",
+            "SCBLGHACKSI"
+        ],
+        [
+            "43",
+            "STANDARD CHARTERED BANK GHANA LIMITED",
+            "TAKORADI",
+            "SCBLGHACTDI"
+        ],
+        [
+            "44",
+            "STANDARD CHARTERED BANK GHANA LIMITED",
+            "TEMA",
+            "SCBLGHACTMA"
+        ],
+        [
+            "45",
+            "THE ROYAL BANK",
+            "ACCRA",
+            "TRBGGHAC"
+        ],
+        [
+            "46",
+            "TRUST BANK LTD, THE",
+            "ACCRA",
+            "TRBLGHAC"
+        ],
+        [
+            "47",
+            "UNIBANK GHANA LIMITED",
+            "ACCRA",
+            "UBGHGHAC"
+        ],
+        [
+            "48",
+            "UNITED BANK FOR AFRICA (GHANA) LTD",
+            "ACCRA",
+            "STBGGHAC"
+        ],
+        [
+            "49",
+            "UNIVERSAL MERCHANT BANK LIMITED",
+            "ACCRA",
+            "MBGHGHAC"
+        ],
+        [
+            "50",
+            "UNIVERSAL MERCHANT BANK LIMITED",
+            "KUMASI",
+            "MBGHGHACKSI"
+        ],
+        [
+            "51",
+            "UNIVERSAL MERCHANT BANK LIMITED",
+            "TAKORADI",
+            "MBGHGHACTDI"
+        ],
+        [
+            "52",
+            "UNIVERSAL MERCHANT BANK LIMITED",
+            "TEMA",
+            "MBGHGHACTMA"
+        ],
+        [
+            "53",
+            "UT BANK LTD",
+            "ACCRA",
+            "UTBKGHAC"
+        ],
+        [
+            "54",
+            "ZENITH BANK (GHANA) LIMITED",
+            "ACCRA",
+            "ZEBLGHAC"
+        ]
+    ]
+}

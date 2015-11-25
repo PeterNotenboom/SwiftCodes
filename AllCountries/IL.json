@@ -1,1 +1,343 @@
-{"country":"Israel","country_code":"IL","list":[["1","BANK HAPOALIM B.M.","TEL-AVIV","(CLS)","POALILITCLS"],["2","BANK HAPOALIM B.M.","TEL-AVIV","(FOREIGN CURRENCY FOR ALL BRANCHES IN ISRAEL)","POALILITFMT"],["3","BANK HAPOALIM B.M.","TEL-AVIV","(FOREIGN TRADE FOR ALL BRANCHES IN ISRAEL)","POALILITFTD"],["4","BANK HAPOALIM B.M.","TEL-AVIV","(FOREX AND MONEY MARKET CONFIRMATIONS)","POALILITBKR"],["5","BANK HAPOALIM B.M.","TEL-AVIV","(FOREX AND MONEY MARKET PAYMENTS)","POALILITDLR"],["6","BANK HAPOALIM B.M.","TEL-AVIV","(SECURITIES)","POALILITCBS"],["7","BANK HAPOALIM B.M.","TEL-AVIV","POALILIT"],["8","BANK LEUMI LE ISRAEL B.M.","HAIFA","(HAIFA BRANCH)","LUMIILITHAI"],["9","BANK LEUMI LE ISRAEL B.M.","JERUSALEM","(JERUSALEM BRANCH)","LUMIILITJLM"],["10","BANK LEUMI LE ISRAEL B.M.","TEL-AVIV","(BANKING SERVICES CENTER)","LUMIILITBSC"],["11","BANK LEUMI LE ISRAEL B.M.","TEL-AVIV","(CLS OPERATIONS)","LUMIILITCLS"],["12","BANK LEUMI LE ISRAEL B.M.","TEL-AVIV","(TEL-AVIV MAIN BRANCH)","LUMIILIT"],["13","BANK LEUMI LE ISRAEL B.M.","TEL-AVIV","(TEL-AVIV MAIN BRANCH)","LUMIILITTLV"],["14","BANK MASSAD LTD.","TEL-AVIV","MASBILIT"],["15","BANK OF ISRAEL","JERUSALEM","BOICILIJ"],["16","BANK OF ISRAEL","JERUSALEM","ISRAILIJ"],["17","BANK OF ISRAEL","JERUSALEM","ISRAILIR"],["18","BANK OF JERUSALEM LTD. TEL-AVIV","AIRPORT CITY - LOD","JERSILIT"],["19","BANK OTSAR HA-HAYAL LTD.","RAMAT-GAN","OTSHILIT"],["20","BANK POALEY AGUDAT ISRAEL LTD.","TEL-AVIV","PAGIILIT"],["21","CITIBANK N.A.","TEL-AVIV","(TRADE SERVICES DEPT)","CITIILITTRD"],["22","CITIBANK N.A.","TEL-AVIV","CITIILIT"],["23","DEXIA ISRAEL BANK LTD","TEL-AVIV","OTHHILIT"],["24","FIRST INTERNATIONAL BANK OF ISRAEL LTD.,THE","RAMAT-GAN","(DIAMOND EXCHANGE BRANCH)","FIRBILITDEX"],["25","FIRST INTERNATIONAL BANK OF ISRAEL LTD.,THE","TEL-AVIV","FIRBILIT"],["26","FIRST INTERNATIONAL BANK OF ISRAEL LTD.,THE","TEL-AVIV","FIRBILITCBR"],["27","HSBC BANK PLC, TEL AVIV","TEL-AVIV","HSBCILIT"],["28","ISRAEL DISCOUNT BANK LTD.","HAIFA","IDBLILITHAI"],["29","ISRAEL DISCOUNT BANK LTD.","JERUSALEM","IDBLILITJLM"],["30","ISRAEL DISCOUNT BANK LTD.","RAMAT-GAN","(DIAMOND EXCHANGE)","IDBLILITDMD"],["31","ISRAEL DISCOUNT BANK LTD.","TEL-AVIV","(HEAD OFFICE)","IDBLILIT"],["32","ISRAEL POSTAL BANK","JERUSALEM","IPOAILIJ"],["33","MERCANTILE DISCOUNT BANK LTD.","TEL-AVIV","(HEAD OFFICE)","BARDILIT"],["34","MIZRAHI TEFAHOT BANK LTD.","BEER-SHEVA","(BEER-SHEVA MAIN BRANCH)","MIZBILITBSV"],["35","MIZRAHI TEFAHOT BANK LTD.","HAIFA","(HAIFA MAIN BRANCH)","MIZBILITHAI"],["36","MIZRAHI TEFAHOT BANK LTD.","JERUSALEM","(JERUSALEM MAIN BRANCH)","MIZBILITJLM"],["37","MIZRAHI TEFAHOT BANK LTD.","RAMAT-GAN","(DIAMOND EXCHANGE BRANCH)","MIZBILITDMD"],["38","MIZRAHI TEFAHOT BANK LTD.","TEL-AVIV","(TEL-AVIV MAIN BRANCH)","MIZBILITTLV"],["39","MIZRAHI TEFAHOT BANK LTD.","TEL-AVIV","MIZBILIT"],["40","STATE BANK OF INDIA","RAMAT-GAN","SBINILIT"],["41","TEL AVIV STOCK EXCHANGE","TEL-AVIV","XTAEILIB"],["42","TEL AVIV STOCK EXCHANGE","TEL-AVIV","XTAEILIC"],["43","TEL AVIV STOCK EXCHANGE","TEL-AVIV","XTAEILIM"],["44","TEL-AVIV STOCK EXCHANGE CLEARING HOUSE","TEL-AVIV","XTAEILIT"],["45","TEVA PHARMACEUTICAL INDUSTRIES LTD","PETACH TIKVA","TEVPILIT"],["46","UBANK LTD.","TEL-AVIV","IGBTILIT"],["47","UNION BANK OF ISRAEL LTD","HAIFA","UNBKILITHAI"],["48","UNION BANK OF ISRAEL LTD","JERUSALEM","UNBKILITJLM"],["49","UNION BANK OF ISRAEL LTD","RAMAT-GAN","(DIAMOND BRANCH)","UNBKILITDMD"],["50","UNION BANK OF ISRAEL LTD","TEL-AVIV","(INTERNATIONAL BRANCH)","UNBKILITINT"],["51","UNION BANK OF ISRAEL LTD","TEL-AVIV","(TEL-AVIV HEAD OFFICE)","UNBKILITTLV"],["52","UNION BANK OF ISRAEL LTD","TEL-AVIV","UNBKILIT"]]}
+{
+    "country": "Israel",
+    "country_code": "IL",
+    "list": [
+        [
+            "1",
+            "BANK HAPOALIM B.M.",
+            "TEL-AVIV",
+            "(CLS)",
+            "POALILITCLS"
+        ],
+        [
+            "2",
+            "BANK HAPOALIM B.M.",
+            "TEL-AVIV",
+            "(FOREIGN CURRENCY FOR ALL BRANCHES IN ISRAEL)",
+            "POALILITFMT"
+        ],
+        [
+            "3",
+            "BANK HAPOALIM B.M.",
+            "TEL-AVIV",
+            "(FOREIGN TRADE FOR ALL BRANCHES IN ISRAEL)",
+            "POALILITFTD"
+        ],
+        [
+            "4",
+            "BANK HAPOALIM B.M.",
+            "TEL-AVIV",
+            "(FOREX AND MONEY MARKET CONFIRMATIONS)",
+            "POALILITBKR"
+        ],
+        [
+            "5",
+            "BANK HAPOALIM B.M.",
+            "TEL-AVIV",
+            "(FOREX AND MONEY MARKET PAYMENTS)",
+            "POALILITDLR"
+        ],
+        [
+            "6",
+            "BANK HAPOALIM B.M.",
+            "TEL-AVIV",
+            "(SECURITIES)",
+            "POALILITCBS"
+        ],
+        [
+            "7",
+            "BANK HAPOALIM B.M.",
+            "TEL-AVIV",
+            "POALILIT"
+        ],
+        [
+            "8",
+            "BANK LEUMI LE ISRAEL B.M.",
+            "HAIFA",
+            "(HAIFA BRANCH)",
+            "LUMIILITHAI"
+        ],
+        [
+            "9",
+            "BANK LEUMI LE ISRAEL B.M.",
+            "JERUSALEM",
+            "(JERUSALEM BRANCH)",
+            "LUMIILITJLM"
+        ],
+        [
+            "10",
+            "BANK LEUMI LE ISRAEL B.M.",
+            "TEL-AVIV",
+            "(BANKING SERVICES CENTER)",
+            "LUMIILITBSC"
+        ],
+        [
+            "11",
+            "BANK LEUMI LE ISRAEL B.M.",
+            "TEL-AVIV",
+            "(CLS OPERATIONS)",
+            "LUMIILITCLS"
+        ],
+        [
+            "12",
+            "BANK LEUMI LE ISRAEL B.M.",
+            "TEL-AVIV",
+            "(TEL-AVIV MAIN BRANCH)",
+            "LUMIILIT"
+        ],
+        [
+            "13",
+            "BANK LEUMI LE ISRAEL B.M.",
+            "TEL-AVIV",
+            "(TEL-AVIV MAIN BRANCH)",
+            "LUMIILITTLV"
+        ],
+        [
+            "14",
+            "BANK MASSAD LTD.",
+            "TEL-AVIV",
+            "MASBILIT"
+        ],
+        [
+            "15",
+            "BANK OF ISRAEL",
+            "JERUSALEM",
+            "BOICILIJ"
+        ],
+        [
+            "16",
+            "BANK OF ISRAEL",
+            "JERUSALEM",
+            "ISRAILIJ"
+        ],
+        [
+            "17",
+            "BANK OF ISRAEL",
+            "JERUSALEM",
+            "ISRAILIR"
+        ],
+        [
+            "18",
+            "BANK OF JERUSALEM LTD. TEL-AVIV",
+            "AIRPORT CITY - LOD",
+            "JERSILIT"
+        ],
+        [
+            "19",
+            "BANK OTSAR HA-HAYAL LTD.",
+            "RAMAT-GAN",
+            "OTSHILIT"
+        ],
+        [
+            "20",
+            "BANK POALEY AGUDAT ISRAEL LTD.",
+            "TEL-AVIV",
+            "PAGIILIT"
+        ],
+        [
+            "21",
+            "CITIBANK N.A.",
+            "TEL-AVIV",
+            "(TRADE SERVICES DEPT)",
+            "CITIILITTRD"
+        ],
+        [
+            "22",
+            "CITIBANK N.A.",
+            "TEL-AVIV",
+            "CITIILIT"
+        ],
+        [
+            "23",
+            "DEXIA ISRAEL BANK LTD",
+            "TEL-AVIV",
+            "OTHHILIT"
+        ],
+        [
+            "24",
+            "FIRST INTERNATIONAL BANK OF ISRAEL LTD.,THE",
+            "RAMAT-GAN",
+            "(DIAMOND EXCHANGE BRANCH)",
+            "FIRBILITDEX"
+        ],
+        [
+            "25",
+            "FIRST INTERNATIONAL BANK OF ISRAEL LTD.,THE",
+            "TEL-AVIV",
+            "FIRBILIT"
+        ],
+        [
+            "26",
+            "FIRST INTERNATIONAL BANK OF ISRAEL LTD.,THE",
+            "TEL-AVIV",
+            "FIRBILITCBR"
+        ],
+        [
+            "27",
+            "HSBC BANK PLC, TEL AVIV",
+            "TEL-AVIV",
+            "HSBCILIT"
+        ],
+        [
+            "28",
+            "ISRAEL DISCOUNT BANK LTD.",
+            "HAIFA",
+            "IDBLILITHAI"
+        ],
+        [
+            "29",
+            "ISRAEL DISCOUNT BANK LTD.",
+            "JERUSALEM",
+            "IDBLILITJLM"
+        ],
+        [
+            "30",
+            "ISRAEL DISCOUNT BANK LTD.",
+            "RAMAT-GAN",
+            "(DIAMOND EXCHANGE)",
+            "IDBLILITDMD"
+        ],
+        [
+            "31",
+            "ISRAEL DISCOUNT BANK LTD.",
+            "TEL-AVIV",
+            "(HEAD OFFICE)",
+            "IDBLILIT"
+        ],
+        [
+            "32",
+            "ISRAEL POSTAL BANK",
+            "JERUSALEM",
+            "IPOAILIJ"
+        ],
+        [
+            "33",
+            "MERCANTILE DISCOUNT BANK LTD.",
+            "TEL-AVIV",
+            "(HEAD OFFICE)",
+            "BARDILIT"
+        ],
+        [
+            "34",
+            "MIZRAHI TEFAHOT BANK LTD.",
+            "BEER-SHEVA",
+            "(BEER-SHEVA MAIN BRANCH)",
+            "MIZBILITBSV"
+        ],
+        [
+            "35",
+            "MIZRAHI TEFAHOT BANK LTD.",
+            "HAIFA",
+            "(HAIFA MAIN BRANCH)",
+            "MIZBILITHAI"
+        ],
+        [
+            "36",
+            "MIZRAHI TEFAHOT BANK LTD.",
+            "JERUSALEM",
+            "(JERUSALEM MAIN BRANCH)",
+            "MIZBILITJLM"
+        ],
+        [
+            "37",
+            "MIZRAHI TEFAHOT BANK LTD.",
+            "RAMAT-GAN",
+            "(DIAMOND EXCHANGE BRANCH)",
+            "MIZBILITDMD"
+        ],
+        [
+            "38",
+            "MIZRAHI TEFAHOT BANK LTD.",
+            "TEL-AVIV",
+            "(TEL-AVIV MAIN BRANCH)",
+            "MIZBILITTLV"
+        ],
+        [
+            "39",
+            "MIZRAHI TEFAHOT BANK LTD.",
+            "TEL-AVIV",
+            "MIZBILIT"
+        ],
+        [
+            "40",
+            "STATE BANK OF INDIA",
+            "RAMAT-GAN",
+            "SBINILIT"
+        ],
+        [
+            "41",
+            "TEL AVIV STOCK EXCHANGE",
+            "TEL-AVIV",
+            "XTAEILIB"
+        ],
+        [
+            "42",
+            "TEL AVIV STOCK EXCHANGE",
+            "TEL-AVIV",
+            "XTAEILIC"
+        ],
+        [
+            "43",
+            "TEL AVIV STOCK EXCHANGE",
+            "TEL-AVIV",
+            "XTAEILIM"
+        ],
+        [
+            "44",
+            "TEL-AVIV STOCK EXCHANGE CLEARING HOUSE",
+            "TEL-AVIV",
+            "XTAEILIT"
+        ],
+        [
+            "45",
+            "TEVA PHARMACEUTICAL INDUSTRIES LTD",
+            "PETACH TIKVA",
+            "TEVPILIT"
+        ],
+        [
+            "46",
+            "UBANK LTD.",
+            "TEL-AVIV",
+            "IGBTILIT"
+        ],
+        [
+            "47",
+            "UNION BANK OF ISRAEL LTD",
+            "HAIFA",
+            "UNBKILITHAI"
+        ],
+        [
+            "48",
+            "UNION BANK OF ISRAEL LTD",
+            "JERUSALEM",
+            "UNBKILITJLM"
+        ],
+        [
+            "49",
+            "UNION BANK OF ISRAEL LTD",
+            "RAMAT-GAN",
+            "(DIAMOND BRANCH)",
+            "UNBKILITDMD"
+        ],
+        [
+            "50",
+            "UNION BANK OF ISRAEL LTD",
+            "TEL-AVIV",
+            "(INTERNATIONAL BRANCH)",
+            "UNBKILITINT"
+        ],
+        [
+            "51",
+            "UNION BANK OF ISRAEL LTD",
+            "TEL-AVIV",
+            "(TEL-AVIV HEAD OFFICE)",
+            "UNBKILITTLV"
+        ],
+        [
+            "52",
+            "UNION BANK OF ISRAEL LTD",
+            "TEL-AVIV",
+            "UNBKILIT"
+        ]
+    ]
+}

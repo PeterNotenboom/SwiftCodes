@@ -1,1 +1,390 @@
-{"country":"Philippines","country_code":"PH","list":[["1","ASIA UNITED BANK CORPORATION","PASIG CITY","AUBKPHMM"],["2","ASIAN DEVELOPMENT BANK","MANILA","ASDBPHMM"],["3","AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED","MANILA","ANZBPHMX"],["4","BANGKO SENTRAL NG PILIPINAS","MANILA","PHCBPHMC"],["5","BANGKO SENTRAL NG PILIPINAS","MANILA","PHCBPHMD"],["6","BANGKO SENTRAL NG PILIPINAS","MANILA","PHCBPHMM"],["7","BANGKOK BANK PUBLIC COMPANY LIMITED, MANILA BRANCH","MANILA","BKKBPHMM"],["8","BANK OF AMERICA, N.A. MANILA","MANILA","BOFAPH2X"],["9","BANK OF CHINA, MANILA BRANCH","MANILA","BKCHPHMM"],["10","BANK OF COMMERCE","MANILA","PABIPHMM"],["11","BANK OF THE PHILIPPINE ISLANDS","MANILA","(TREASURY GROUP)","BOPIPHMMTRY"],["12","BANK OF THE PHILIPPINE ISLANDS","MANILA","BOPIPHMM"],["13","BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE","MANILA","(MANILA BRANCH)","BOTKPHMM"],["14","BDO PRIVATE BANK INC.","MANILA","BOPBPHMM"],["15","BDO UNIBANK, INC.","MANILA","BNORPHMM"],["16","BNP PARIBAS, MANILA OFFSHORE BRANCH","MANILA","BNPAPHMM"],["17","CHINA BANKING CORPORATION","MANILA","CHBKPHMM"],["18","CITIBANK,N.A., MANILA BRANCH","CEBU","CITIPHMXCBU"],["19","CITIBANK,N.A., MANILA BRANCH","MANILA","(HEAD OFFICE)","CITIPHMX"],["20","CITIBANK,N.A., MANILA BRANCH","MANILA","(IBG-TREASURY SERVICES UNIT)","CITIPHMXTSU"],["21","COASTAL RENEWABLE ENERGY TECHNOLOGY INC.","PASIG CITY","CRRYPHMM"],["22","CTBC BANK (PHILIPPINES) CORP.","TAGUIG CITY","CTCBPHMM"],["23","DEUTSCHE BANK AG","MANILA","DEUTPHMM"],["24","DEUTSCHE BANK AG","MANILA","DEUTPHMMGMO"],["25","DEVELOPMENT BANK OF THE PHILIPPINES","MANILA","DBPHPHMM"],["26","EAST WEST BANKING CORPORATION","MANILA","EWBCPHMM"],["27","FIRST CONSOLIDATED BANK INC.","TAGBILARAN","FIOOPHMM"],["28","HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE","CEBU","(CEBU BRANCH)","HSBCPHMMCEB"],["29","HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE","MANILA","(CUSTODY AND CLEARING)","HSBCPHMMSEC"],["30","HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE","MANILA","(MNL TREASURY DEPARTMENT)","HSBCPHMMTRY"],["31","HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE","TAGUIG CITY","HSBCPHMM"],["32","HSBC SAVINGS BANK (PHILIPINES) INC.","MANILA","HBPHPHMM"],["33","ING BANK N.V.","MANILA","INGBPHMM"],["34","JPMORGAN CHASE BANK, N.A., MANILA BRANCH","MANILA","(OFFHORE BANKING UNIT)","CHASPHMMOBU"],["35","JPMORGAN CHASE BANK, N.A., MANILA BRANCH","MANILA","(TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES)","CHASPHMMENQ"],["36","JPMORGAN CHASE BANK, N.A., MANILA BRANCH","MANILA","(TEST KEY AND BKE ADMINISTRATION)","CHASPHMMKEY"],["37","JPMORGAN CHASE BANK, N.A., MANILA BRANCH","MANILA","CHASPHMM"],["38","KOREA EXCHANGE BANK","MAKATI CITY","KOEXPHMM"],["39","LAND BANK OF THE PHILIPPINES","MANILA","TLBPPHMM"],["40","MAYBANK PHILIPPINES, INC","MANILA","MBBEPHMM"],["41","MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD., MANILA BRANCH","MANILA","ICBCPHMM"],["42","METROPOLITAN BANK AND TRUST CO.","MANILA","MBTCPHMM"],["43","MIZUHO BANK, LTD., MANILA BRANCH","MAKATI","MHCBPHMM"],["44","NESTLE BUSINESS SERVICES AOA INC","MANILA","NESNPHMN"],["45","PHILIPPINE BANK OF COMMUNICATIONS","MANILA","CPHIPHMM"],["46","PHILIPPINE BUSINESS BANK","CALOOCAN CITY","PPBUPHMM"],["47","PHILIPPINE NATIONAL BANK","MANILA","(TREASURY OPERATIONS DIVISION)","PNBMPHMMTOD"],["48","PHILIPPINE NATIONAL BANK","MANILA","PNBMPHMM"],["49","PHILIPPINE SAVINGS BANK","MANILA","PHSBPHMM"],["50","PHILIPPINE VETERANS BANK","MANILA","PHVBPHMM"],["51","PHILTRUST BANK (PHILIPPINE TRUST COMPANY)","MANILA","PHTBPHMM"],["52","RIZAL COMMERCIAL BANKING CORPORATION","MANILA","RCBCPHMM"],["53","ROBINSONS BANK CORPORATION","QUEZON CITY","ROBPPHMQ"],["54","SECURITY BANK CORPORATION","MANILA","SETCPHMM"],["55","STANDARD CHARTERED BANK","MANILA","(CUSTODIAL DEPARTMENT)","SCBLPHMMEQI"],["56","STANDARD CHARTERED BANK","MANILA","SCBLPHMM"],["57","TAIWAN COOPERATIVE BANK MANILA OFFSHORE BANKING BRANCH","MANILA","TACBPHMM"],["58","THE PHILIPPINE AMERICAN LIFE AND GENERAL INSURANCECOMPANY","TAGUIG","AIACPHMM"],["59","TONG YANG SAVINGS BANK INC.","MANILA","TYBKPHMM"],["60","UNION BANK OF THE PHILIPPINES","PASIG CITY","UBPHPHMM"],["61","UNITED COCONUT PLANTERS BANK","MANILA","UCPBPHMM"],["62","UNITED OVERSEAS BANK PHILIPPINES","MANILA","UOVBPHMM"]]}
+{
+    "country": "Philippines",
+    "country_code": "PH",
+    "list": [
+        [
+            "1",
+            "ASIA UNITED BANK CORPORATION",
+            "PASIG CITY",
+            "AUBKPHMM"
+        ],
+        [
+            "2",
+            "ASIAN DEVELOPMENT BANK",
+            "MANILA",
+            "ASDBPHMM"
+        ],
+        [
+            "3",
+            "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
+            "MANILA",
+            "ANZBPHMX"
+        ],
+        [
+            "4",
+            "BANGKO SENTRAL NG PILIPINAS",
+            "MANILA",
+            "PHCBPHMC"
+        ],
+        [
+            "5",
+            "BANGKO SENTRAL NG PILIPINAS",
+            "MANILA",
+            "PHCBPHMD"
+        ],
+        [
+            "6",
+            "BANGKO SENTRAL NG PILIPINAS",
+            "MANILA",
+            "PHCBPHMM"
+        ],
+        [
+            "7",
+            "BANGKOK BANK PUBLIC COMPANY LIMITED, MANILA BRANCH",
+            "MANILA",
+            "BKKBPHMM"
+        ],
+        [
+            "8",
+            "BANK OF AMERICA, N.A. MANILA",
+            "MANILA",
+            "BOFAPH2X"
+        ],
+        [
+            "9",
+            "BANK OF CHINA, MANILA BRANCH",
+            "MANILA",
+            "BKCHPHMM"
+        ],
+        [
+            "10",
+            "BANK OF COMMERCE",
+            "MANILA",
+            "PABIPHMM"
+        ],
+        [
+            "11",
+            "BANK OF THE PHILIPPINE ISLANDS",
+            "MANILA",
+            "(TREASURY GROUP)",
+            "BOPIPHMMTRY"
+        ],
+        [
+            "12",
+            "BANK OF THE PHILIPPINE ISLANDS",
+            "MANILA",
+            "BOPIPHMM"
+        ],
+        [
+            "13",
+            "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
+            "MANILA",
+            "(MANILA BRANCH)",
+            "BOTKPHMM"
+        ],
+        [
+            "14",
+            "BDO PRIVATE BANK INC.",
+            "MANILA",
+            "BOPBPHMM"
+        ],
+        [
+            "15",
+            "BDO UNIBANK, INC.",
+            "MANILA",
+            "BNORPHMM"
+        ],
+        [
+            "16",
+            "BNP PARIBAS, MANILA OFFSHORE BRANCH",
+            "MANILA",
+            "BNPAPHMM"
+        ],
+        [
+            "17",
+            "CHINA BANKING CORPORATION",
+            "MANILA",
+            "CHBKPHMM"
+        ],
+        [
+            "18",
+            "CITIBANK,N.A., MANILA BRANCH",
+            "CEBU",
+            "CITIPHMXCBU"
+        ],
+        [
+            "19",
+            "CITIBANK,N.A., MANILA BRANCH",
+            "MANILA",
+            "(HEAD OFFICE)",
+            "CITIPHMX"
+        ],
+        [
+            "20",
+            "CITIBANK,N.A., MANILA BRANCH",
+            "MANILA",
+            "(IBG-TREASURY SERVICES UNIT)",
+            "CITIPHMXTSU"
+        ],
+        [
+            "21",
+            "COASTAL RENEWABLE ENERGY TECHNOLOGY INC.",
+            "PASIG CITY",
+            "CRRYPHMM"
+        ],
+        [
+            "22",
+            "CTBC BANK (PHILIPPINES) CORP.",
+            "TAGUIG CITY",
+            "CTCBPHMM"
+        ],
+        [
+            "23",
+            "DEUTSCHE BANK AG",
+            "MANILA",
+            "DEUTPHMM"
+        ],
+        [
+            "24",
+            "DEUTSCHE BANK AG",
+            "MANILA",
+            "DEUTPHMMGMO"
+        ],
+        [
+            "25",
+            "DEVELOPMENT BANK OF THE PHILIPPINES",
+            "MANILA",
+            "DBPHPHMM"
+        ],
+        [
+            "26",
+            "EAST WEST BANKING CORPORATION",
+            "MANILA",
+            "EWBCPHMM"
+        ],
+        [
+            "27",
+            "FIRST CONSOLIDATED BANK INC.",
+            "TAGBILARAN",
+            "FIOOPHMM"
+        ],
+        [
+            "28",
+            "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "CEBU",
+            "(CEBU BRANCH)",
+            "HSBCPHMMCEB"
+        ],
+        [
+            "29",
+            "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "MANILA",
+            "(CUSTODY AND CLEARING)",
+            "HSBCPHMMSEC"
+        ],
+        [
+            "30",
+            "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "MANILA",
+            "(MNL TREASURY DEPARTMENT)",
+            "HSBCPHMMTRY"
+        ],
+        [
+            "31",
+            "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "TAGUIG CITY",
+            "HSBCPHMM"
+        ],
+        [
+            "32",
+            "HSBC SAVINGS BANK (PHILIPINES) INC.",
+            "MANILA",
+            "HBPHPHMM"
+        ],
+        [
+            "33",
+            "ING BANK N.V.",
+            "MANILA",
+            "INGBPHMM"
+        ],
+        [
+            "34",
+            "JPMORGAN CHASE BANK, N.A., MANILA BRANCH",
+            "MANILA",
+            "(OFFHORE BANKING UNIT)",
+            "CHASPHMMOBU"
+        ],
+        [
+            "35",
+            "JPMORGAN CHASE BANK, N.A., MANILA BRANCH",
+            "MANILA",
+            "(TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES)",
+            "CHASPHMMENQ"
+        ],
+        [
+            "36",
+            "JPMORGAN CHASE BANK, N.A., MANILA BRANCH",
+            "MANILA",
+            "(TEST KEY AND BKE ADMINISTRATION)",
+            "CHASPHMMKEY"
+        ],
+        [
+            "37",
+            "JPMORGAN CHASE BANK, N.A., MANILA BRANCH",
+            "MANILA",
+            "CHASPHMM"
+        ],
+        [
+            "38",
+            "KOREA EXCHANGE BANK",
+            "MAKATI CITY",
+            "KOEXPHMM"
+        ],
+        [
+            "39",
+            "LAND BANK OF THE PHILIPPINES",
+            "MANILA",
+            "TLBPPHMM"
+        ],
+        [
+            "40",
+            "MAYBANK PHILIPPINES, INC",
+            "MANILA",
+            "MBBEPHMM"
+        ],
+        [
+            "41",
+            "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD., MANILA BRANCH",
+            "MANILA",
+            "ICBCPHMM"
+        ],
+        [
+            "42",
+            "METROPOLITAN BANK AND TRUST CO.",
+            "MANILA",
+            "MBTCPHMM"
+        ],
+        [
+            "43",
+            "MIZUHO BANK, LTD., MANILA BRANCH",
+            "MAKATI",
+            "MHCBPHMM"
+        ],
+        [
+            "44",
+            "NESTLE BUSINESS SERVICES AOA INC",
+            "MANILA",
+            "NESNPHMN"
+        ],
+        [
+            "45",
+            "PHILIPPINE BANK OF COMMUNICATIONS",
+            "MANILA",
+            "CPHIPHMM"
+        ],
+        [
+            "46",
+            "PHILIPPINE BUSINESS BANK",
+            "CALOOCAN CITY",
+            "PPBUPHMM"
+        ],
+        [
+            "47",
+            "PHILIPPINE NATIONAL BANK",
+            "MANILA",
+            "(TREASURY OPERATIONS DIVISION)",
+            "PNBMPHMMTOD"
+        ],
+        [
+            "48",
+            "PHILIPPINE NATIONAL BANK",
+            "MANILA",
+            "PNBMPHMM"
+        ],
+        [
+            "49",
+            "PHILIPPINE SAVINGS BANK",
+            "MANILA",
+            "PHSBPHMM"
+        ],
+        [
+            "50",
+            "PHILIPPINE VETERANS BANK",
+            "MANILA",
+            "PHVBPHMM"
+        ],
+        [
+            "51",
+            "PHILTRUST BANK (PHILIPPINE TRUST COMPANY)",
+            "MANILA",
+            "PHTBPHMM"
+        ],
+        [
+            "52",
+            "RIZAL COMMERCIAL BANKING CORPORATION",
+            "MANILA",
+            "RCBCPHMM"
+        ],
+        [
+            "53",
+            "ROBINSONS BANK CORPORATION",
+            "QUEZON CITY",
+            "ROBPPHMQ"
+        ],
+        [
+            "54",
+            "SECURITY BANK CORPORATION",
+            "MANILA",
+            "SETCPHMM"
+        ],
+        [
+            "55",
+            "STANDARD CHARTERED BANK",
+            "MANILA",
+            "(CUSTODIAL DEPARTMENT)",
+            "SCBLPHMMEQI"
+        ],
+        [
+            "56",
+            "STANDARD CHARTERED BANK",
+            "MANILA",
+            "SCBLPHMM"
+        ],
+        [
+            "57",
+            "TAIWAN COOPERATIVE BANK MANILA OFFSHORE BANKING BRANCH",
+            "MANILA",
+            "TACBPHMM"
+        ],
+        [
+            "58",
+            "THE PHILIPPINE AMERICAN LIFE AND GENERAL INSURANCECOMPANY",
+            "TAGUIG",
+            "AIACPHMM"
+        ],
+        [
+            "59",
+            "TONG YANG SAVINGS BANK INC.",
+            "MANILA",
+            "TYBKPHMM"
+        ],
+        [
+            "60",
+            "UNION BANK OF THE PHILIPPINES",
+            "PASIG CITY",
+            "UBPHPHMM"
+        ],
+        [
+            "61",
+            "UNITED COCONUT PLANTERS BANK",
+            "MANILA",
+            "UCPBPHMM"
+        ],
+        [
+            "62",
+            "UNITED OVERSEAS BANK PHILIPPINES",
+            "MANILA",
+            "UOVBPHMM"
+        ]
+    ]
+}

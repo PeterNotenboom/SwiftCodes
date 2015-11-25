@@ -1,1 +1,221 @@
-{"country":"Kosovo","country_code":"XK","list":[["1","BANKA EKONOMIKE SH.A","PRISTINA","EKOMXKPR"],["2","BANKA KOMBETARE TREGTARE SH.A","PRISTINA","NCBAXKPR"],["3","BANKA PER BIZNES SH.A.","PRISTINA","BPBXXKPR"],["4","CENTRAL BANK OF THE REPUBLIC OF KOSOVO","PRISTINA","CBRKXKPR"],["5","NLB PRISHTINA SH.A.","PRISTINA","NLPRXKPR"],["6","PROCREDIT BANK KOSOVO (FORMERLY MICRO ENTERPRISE BANK, PRISTINA, KOSOVO)","PRISTINA","MBKOXKPR"],["7","RAIFFEISEN BANK KOSOVO","PRISTINA","RBKOXKPR"],["8","TEB SHA","KLINA","(KLINA)","TEBKXKPR030"],["9","TEB SHA","PRISTINA","(DARDANIA)","TEBKXKPR020"],["10","TEB SHA","PRISTINA","(DRENAS)","TEBKXKPR024"],["11","TEB SHA","PRISTINA","(FERIZAJ)","TEBKXKPR013"],["12","TEB SHA","PRISTINA","(FUSHE KOSOVA)","TEBKXKPR014"],["13","TEB SHA","PRISTINA","(GJAKOVA)","TEBKXKPR018"],["14","TEB SHA","PRISTINA","(GJILAN)","TEBKXKPR017"],["15","TEB SHA","PRISTINA","(HANI ELEZIT)","TEBKXKPR029"],["16","TEB SHA","PRISTINA","(LYPJAN)","TEBKXKPR026"],["17","TEB SHA","PRISTINA","(MAIN)","TEBKXKPR011"],["18","TEB SHA","PRISTINA","(MALISHEVA)","TEBKXKPR023"],["19","TEB SHA","PRISTINA","(MITROVICA)","TEBKXKPR027"],["20","TEB SHA","PRISTINA","(PEJA CITY OFFICE)","TEBKXKPR031"],["21","TEB SHA","PRISTINA","(PEJA)","TEBKXKPR015"],["22","TEB SHA","PRISTINA","(PRISTINA QENDRA)","TEBKXKPR034"],["23","TEB SHA","PRISTINA","(PRIZREN MAIN)","TEBKXKPR028"],["24","TEB SHA","PRISTINA","(QAFA CITY OFFICE)","TEBKXKPR033"],["25","TEB SHA","PRISTINA","(RAHOVEC)","TEBKXKPR019"],["26","TEB SHA","PRISTINA","(SHADERVAN)","TEBKXKPR012"],["27","TEB SHA","PRISTINA","(SKENDERAJ)","TEBKXKPR022"],["28","TEB SHA","PRISTINA","(THERANDA)","TEBKXKPR025"],["29","TEB SHA","PRISTINA","(ULPIANA)","TEBKXKPR021"],["30","TEB SHA","PRISTINA","(VUSHTRRI)","TEBKXKPR016"],["31","TEB SHA","PRISTINA","TEBKXKPR"],["32","TURKIYE IS BANKASI A.S. ALL KOSOVO BRANCHES","PRISTINA","ISBKXKPR"]]}
+{
+    "country": "Kosovo",
+    "country_code": "XK",
+    "list": [
+        [
+            "1",
+            "BANKA EKONOMIKE SH.A",
+            "PRISTINA",
+            "EKOMXKPR"
+        ],
+        [
+            "2",
+            "BANKA KOMBETARE TREGTARE SH.A",
+            "PRISTINA",
+            "NCBAXKPR"
+        ],
+        [
+            "3",
+            "BANKA PER BIZNES SH.A.",
+            "PRISTINA",
+            "BPBXXKPR"
+        ],
+        [
+            "4",
+            "CENTRAL BANK OF THE REPUBLIC OF KOSOVO",
+            "PRISTINA",
+            "CBRKXKPR"
+        ],
+        [
+            "5",
+            "NLB PRISHTINA SH.A.",
+            "PRISTINA",
+            "NLPRXKPR"
+        ],
+        [
+            "6",
+            "PROCREDIT BANK KOSOVO (FORMERLY MICRO ENTERPRISE BANK, PRISTINA, KOSOVO)",
+            "PRISTINA",
+            "MBKOXKPR"
+        ],
+        [
+            "7",
+            "RAIFFEISEN BANK KOSOVO",
+            "PRISTINA",
+            "RBKOXKPR"
+        ],
+        [
+            "8",
+            "TEB SHA",
+            "KLINA",
+            "(KLINA)",
+            "TEBKXKPR030"
+        ],
+        [
+            "9",
+            "TEB SHA",
+            "PRISTINA",
+            "(DARDANIA)",
+            "TEBKXKPR020"
+        ],
+        [
+            "10",
+            "TEB SHA",
+            "PRISTINA",
+            "(DRENAS)",
+            "TEBKXKPR024"
+        ],
+        [
+            "11",
+            "TEB SHA",
+            "PRISTINA",
+            "(FERIZAJ)",
+            "TEBKXKPR013"
+        ],
+        [
+            "12",
+            "TEB SHA",
+            "PRISTINA",
+            "(FUSHE KOSOVA)",
+            "TEBKXKPR014"
+        ],
+        [
+            "13",
+            "TEB SHA",
+            "PRISTINA",
+            "(GJAKOVA)",
+            "TEBKXKPR018"
+        ],
+        [
+            "14",
+            "TEB SHA",
+            "PRISTINA",
+            "(GJILAN)",
+            "TEBKXKPR017"
+        ],
+        [
+            "15",
+            "TEB SHA",
+            "PRISTINA",
+            "(HANI ELEZIT)",
+            "TEBKXKPR029"
+        ],
+        [
+            "16",
+            "TEB SHA",
+            "PRISTINA",
+            "(LYPJAN)",
+            "TEBKXKPR026"
+        ],
+        [
+            "17",
+            "TEB SHA",
+            "PRISTINA",
+            "(MAIN)",
+            "TEBKXKPR011"
+        ],
+        [
+            "18",
+            "TEB SHA",
+            "PRISTINA",
+            "(MALISHEVA)",
+            "TEBKXKPR023"
+        ],
+        [
+            "19",
+            "TEB SHA",
+            "PRISTINA",
+            "(MITROVICA)",
+            "TEBKXKPR027"
+        ],
+        [
+            "20",
+            "TEB SHA",
+            "PRISTINA",
+            "(PEJA CITY OFFICE)",
+            "TEBKXKPR031"
+        ],
+        [
+            "21",
+            "TEB SHA",
+            "PRISTINA",
+            "(PEJA)",
+            "TEBKXKPR015"
+        ],
+        [
+            "22",
+            "TEB SHA",
+            "PRISTINA",
+            "(PRISTINA QENDRA)",
+            "TEBKXKPR034"
+        ],
+        [
+            "23",
+            "TEB SHA",
+            "PRISTINA",
+            "(PRIZREN MAIN)",
+            "TEBKXKPR028"
+        ],
+        [
+            "24",
+            "TEB SHA",
+            "PRISTINA",
+            "(QAFA CITY OFFICE)",
+            "TEBKXKPR033"
+        ],
+        [
+            "25",
+            "TEB SHA",
+            "PRISTINA",
+            "(RAHOVEC)",
+            "TEBKXKPR019"
+        ],
+        [
+            "26",
+            "TEB SHA",
+            "PRISTINA",
+            "(SHADERVAN)",
+            "TEBKXKPR012"
+        ],
+        [
+            "27",
+            "TEB SHA",
+            "PRISTINA",
+            "(SKENDERAJ)",
+            "TEBKXKPR022"
+        ],
+        [
+            "28",
+            "TEB SHA",
+            "PRISTINA",
+            "(THERANDA)",
+            "TEBKXKPR025"
+        ],
+        [
+            "29",
+            "TEB SHA",
+            "PRISTINA",
+            "(ULPIANA)",
+            "TEBKXKPR021"
+        ],
+        [
+            "30",
+            "TEB SHA",
+            "PRISTINA",
+            "(VUSHTRRI)",
+            "TEBKXKPR016"
+        ],
+        [
+            "31",
+            "TEB SHA",
+            "PRISTINA",
+            "TEBKXKPR"
+        ],
+        [
+            "32",
+            "TURKIYE IS BANKASI A.S. ALL KOSOVO BRANCHES",
+            "PRISTINA",
+            "ISBKXKPR"
+        ]
+    ]
+}

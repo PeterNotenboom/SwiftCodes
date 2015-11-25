@@ -1,1 +1,312 @@
-{"country":"Serbia","country_code":"RS","list":[["1","AIK BANKA AD","NIS","AIKBRS22"],["2","ALPHA BANK SRBIJA AD","BEOGRAD","JUBARSBG"],["3","BANCA INTESA AD, BEOGRAD","BEOGRAD","DBDBRSBG"],["4","CACANSKA BANKA A.D.","CACAK","CABARS22"],["5","CREDIT AGRICOLE SRBIJA AD NOVI SAD","NOVI SAD","MEBARS22"],["6","DUNAV BANKA A.D. BEOGRAD","BEOGRAD","KMEBRS2Z"],["7","ERSTE BANK A.D. NOVI SAD","NOVI SAD","GIBARS22"],["8","EUROBANK AD","BEOGRAD","(CUSTODY UNIT)","ERBKRSBGSEC"],["9","EUROBANK AD","BEOGRAD","ERBKRSBG"],["10","FINDOMESTIC BANKA AD","BEOGRAD","FIDMRSBG"],["11","JUBMES BANKA A.D. BEOGRAD","BEOGRAD","JMBNRSBG"],["12","KBM BANKA AD KRAGUJEVAC","KRAGUJEVAC","KRAGRS22"],["13","KOMERCIJALNA BANKA A.D. BEOGRAD","BEOGRAD","(MAIN BRANCH)","KOBBRSBGGFB"],["14","KOMERCIJALNA BANKA A.D. BEOGRAD","BEOGRAD","KOBBRSBG"],["15","KOMERCIJALNA BANKA A.D. BEOGRAD","CACAK","(BRANCH CACAK)","KOBBRSBGFCA"],["16","KOMERCIJALNA BANKA A.D. BEOGRAD","JAGODINA","(BRANCH JAGODINA)","KOBBRSBGFJA"],["17","KOMERCIJALNA BANKA A.D. BEOGRAD","KRAGUJEVAC","(KRAGUJEVAC BRANCH)","KOBBRSBGFKG"],["18","KOMERCIJALNA BANKA A.D. BEOGRAD","KRALJEVO","(BRANCH KRALJEVO)","KOBBRSBGFKV"],["19","KOMERCIJALNA BANKA A.D. BEOGRAD","KRUSEVAC","KOBBRSBGKRS"],["20","KOMERCIJALNA BANKA A.D. BEOGRAD","NIS","(MAIN BRANCH NIS)","KOBBRSBGGFN"],["21","KOMERCIJALNA BANKA A.D. BEOGRAD","NOVI PAZAR","(NOVI PAZAR BRANCH)","KOBBRSBGFNP"],["22","KOMERCIJALNA BANKA A.D. BEOGRAD","NOVI SAD","(NOVI SAD BRANCH)","KOBBRSBGFNS"],["23","KOMERCIJALNA BANKA A.D. BEOGRAD","POZAREVAC","(BRANCH POZAREVAC)","KOBBRSBGFPO"],["24","KOMERCIJALNA BANKA A.D. BEOGRAD","SABAC","(SABAC BRANCH)","KOBBRSBGFSA"],["25","KOMERCIJALNA BANKA A.D. BEOGRAD","SOMBOR","(BRANCH SOMBOR)","KOBBRSBGFSO"],["26","KOMERCIJALNA BANKA A.D. BEOGRAD","SREMSKA MITROVICA","(BRANCH SREMSKA MITROVICA)","KOBBRSBGFSM"],["27","KOMERCIJALNA BANKA A.D. BEOGRAD","SUBOTICA","(SUBOTICA BRANCH)","KOBBRSBGFSU"],["28","KOMERCIJALNA BANKA A.D. BEOGRAD","UZICE","(BRANCH UZICE)","KOBBRSBGFUE"],["29","KOMERCIJALNA BANKA A.D. BEOGRAD","VALJEVO","(VLAJEVO BRANCH)","KOBBRSBGFVA"],["30","KOMERCIJALNA BANKA A.D. BEOGRAD","ZRENJANIN","(BRANCH ZRENJANIN)","KOBBRSBGFZR"],["31","MARFIN BANK A.D. BEOGRAD","BEOGRAD","LIKIRSBG"],["32","NARODNA BANKA SRBIJE (NATIONAL BANK OF SERBIA - NBS)","BEOGRAD","NBSRRSBD"],["33","NARODNA BANKA SRBIJE (NATIONAL BANK OF SERBIA - NBS)","BEOGRAD","NBSRRSBG"],["34","NLB BANKA A.D. BEOGRAD","NOVI BEOGRAD","CONARS22"],["35","OPPORTUNITY BANKA A.D. NOVI SAD","NOVI SAD","OPPBRS22"],["36","OTP BANKA SRBIJA A.D. NOVI SAD","NOVI SAD","OTPVRS22"],["37","PIRAEUS BANK AD BEOGRAD","BEOGRAD","PIRBRSBG"],["38","POSTAL SAVINGS BANK JSC","BEOGRAD","(CORPORATE CUSTOMERS)","SBPORSBG100"],["39","POSTAL SAVINGS BANK JSC","BEOGRAD","SBPORSBG"],["40","PROCREDIT BANK A.D. BELGRADE","BEOGRAD","PRCBRSBG"],["41","RAIFFEISEN BANKA A.D.","BEOGRAD","RZBSRSBG"],["42","SBERBANK SRBIJA A.D.","BEOGRAD","SABRRSBG"],["43","SOCIETE GENERALE BANKA SRBIJA AD BEOGRAD","BEOGRAD","SOGYRSBG"],["44","SRPSKA BANKA A.D.","BEOGRAD","SRBNRSBG"],["45","TELENOR BANKA AD","BEOGRAD","AAAARSBG"],["46","UNICREDIT BANK SRBIJA A.D.","BEOGRAD","BACXRSBG"],["47","VOJVODJANSKA BANKA D.D.","NOVI SAD","VBUBRS22"],["48","VTB BANKA AD BEOGRAD","BEOGRAD","MBBGRSBG"]]}
+{
+    "country": "Serbia",
+    "country_code": "RS",
+    "list": [
+        [
+            "1",
+            "AIK BANKA AD",
+            "NIS",
+            "AIKBRS22"
+        ],
+        [
+            "2",
+            "ALPHA BANK SRBIJA AD",
+            "BEOGRAD",
+            "JUBARSBG"
+        ],
+        [
+            "3",
+            "BANCA INTESA AD, BEOGRAD",
+            "BEOGRAD",
+            "DBDBRSBG"
+        ],
+        [
+            "4",
+            "CACANSKA BANKA A.D.",
+            "CACAK",
+            "CABARS22"
+        ],
+        [
+            "5",
+            "CREDIT AGRICOLE SRBIJA AD NOVI SAD",
+            "NOVI SAD",
+            "MEBARS22"
+        ],
+        [
+            "6",
+            "DUNAV BANKA A.D. BEOGRAD",
+            "BEOGRAD",
+            "KMEBRS2Z"
+        ],
+        [
+            "7",
+            "ERSTE BANK A.D. NOVI SAD",
+            "NOVI SAD",
+            "GIBARS22"
+        ],
+        [
+            "8",
+            "EUROBANK AD",
+            "BEOGRAD",
+            "(CUSTODY UNIT)",
+            "ERBKRSBGSEC"
+        ],
+        [
+            "9",
+            "EUROBANK AD",
+            "BEOGRAD",
+            "ERBKRSBG"
+        ],
+        [
+            "10",
+            "FINDOMESTIC BANKA AD",
+            "BEOGRAD",
+            "FIDMRSBG"
+        ],
+        [
+            "11",
+            "JUBMES BANKA A.D. BEOGRAD",
+            "BEOGRAD",
+            "JMBNRSBG"
+        ],
+        [
+            "12",
+            "KBM BANKA AD KRAGUJEVAC",
+            "KRAGUJEVAC",
+            "KRAGRS22"
+        ],
+        [
+            "13",
+            "KOMERCIJALNA BANKA A.D. BEOGRAD",
+            "BEOGRAD",
+            "(MAIN BRANCH)",
+            "KOBBRSBGGFB"
+        ],
+        [
+            "14",
+            "KOMERCIJALNA BANKA A.D. BEOGRAD",
+            "BEOGRAD",
+            "KOBBRSBG"
+        ],
+        [
+            "15",
+            "KOMERCIJALNA BANKA A.D. BEOGRAD",
+            "CACAK",
+            "(BRANCH CACAK)",
+            "KOBBRSBGFCA"
+        ],
+        [
+            "16",
+            "KOMERCIJALNA BANKA A.D. BEOGRAD",
+            "JAGODINA",
+            "(BRANCH JAGODINA)",
+            "KOBBRSBGFJA"
+        ],
+        [
+            "17",
+            "KOMERCIJALNA BANKA A.D. BEOGRAD",
+            "KRAGUJEVAC",
+            "(KRAGUJEVAC BRANCH)",
+            "KOBBRSBGFKG"
+        ],
+        [
+            "18",
+            "KOMERCIJALNA BANKA A.D. BEOGRAD",
+            "KRALJEVO",
+            "(BRANCH KRALJEVO)",
+            "KOBBRSBGFKV"
+        ],
+        [
+            "19",
+            "KOMERCIJALNA BANKA A.D. BEOGRAD",
+            "KRUSEVAC",
+            "KOBBRSBGKRS"
+        ],
+        [
+            "20",
+            "KOMERCIJALNA BANKA A.D. BEOGRAD",
+            "NIS",
+            "(MAIN BRANCH NIS)",
+            "KOBBRSBGGFN"
+        ],
+        [
+            "21",
+            "KOMERCIJALNA BANKA A.D. BEOGRAD",
+            "NOVI PAZAR",
+            "(NOVI PAZAR BRANCH)",
+            "KOBBRSBGFNP"
+        ],
+        [
+            "22",
+            "KOMERCIJALNA BANKA A.D. BEOGRAD",
+            "NOVI SAD",
+            "(NOVI SAD BRANCH)",
+            "KOBBRSBGFNS"
+        ],
+        [
+            "23",
+            "KOMERCIJALNA BANKA A.D. BEOGRAD",
+            "POZAREVAC",
+            "(BRANCH POZAREVAC)",
+            "KOBBRSBGFPO"
+        ],
+        [
+            "24",
+            "KOMERCIJALNA BANKA A.D. BEOGRAD",
+            "SABAC",
+            "(SABAC BRANCH)",
+            "KOBBRSBGFSA"
+        ],
+        [
+            "25",
+            "KOMERCIJALNA BANKA A.D. BEOGRAD",
+            "SOMBOR",
+            "(BRANCH SOMBOR)",
+            "KOBBRSBGFSO"
+        ],
+        [
+            "26",
+            "KOMERCIJALNA BANKA A.D. BEOGRAD",
+            "SREMSKA MITROVICA",
+            "(BRANCH SREMSKA MITROVICA)",
+            "KOBBRSBGFSM"
+        ],
+        [
+            "27",
+            "KOMERCIJALNA BANKA A.D. BEOGRAD",
+            "SUBOTICA",
+            "(SUBOTICA BRANCH)",
+            "KOBBRSBGFSU"
+        ],
+        [
+            "28",
+            "KOMERCIJALNA BANKA A.D. BEOGRAD",
+            "UZICE",
+            "(BRANCH UZICE)",
+            "KOBBRSBGFUE"
+        ],
+        [
+            "29",
+            "KOMERCIJALNA BANKA A.D. BEOGRAD",
+            "VALJEVO",
+            "(VLAJEVO BRANCH)",
+            "KOBBRSBGFVA"
+        ],
+        [
+            "30",
+            "KOMERCIJALNA BANKA A.D. BEOGRAD",
+            "ZRENJANIN",
+            "(BRANCH ZRENJANIN)",
+            "KOBBRSBGFZR"
+        ],
+        [
+            "31",
+            "MARFIN BANK A.D. BEOGRAD",
+            "BEOGRAD",
+            "LIKIRSBG"
+        ],
+        [
+            "32",
+            "NARODNA BANKA SRBIJE (NATIONAL BANK OF SERBIA - NBS)",
+            "BEOGRAD",
+            "NBSRRSBD"
+        ],
+        [
+            "33",
+            "NARODNA BANKA SRBIJE (NATIONAL BANK OF SERBIA - NBS)",
+            "BEOGRAD",
+            "NBSRRSBG"
+        ],
+        [
+            "34",
+            "NLB BANKA A.D. BEOGRAD",
+            "NOVI BEOGRAD",
+            "CONARS22"
+        ],
+        [
+            "35",
+            "OPPORTUNITY BANKA A.D. NOVI SAD",
+            "NOVI SAD",
+            "OPPBRS22"
+        ],
+        [
+            "36",
+            "OTP BANKA SRBIJA A.D. NOVI SAD",
+            "NOVI SAD",
+            "OTPVRS22"
+        ],
+        [
+            "37",
+            "PIRAEUS BANK AD BEOGRAD",
+            "BEOGRAD",
+            "PIRBRSBG"
+        ],
+        [
+            "38",
+            "POSTAL SAVINGS BANK JSC",
+            "BEOGRAD",
+            "(CORPORATE CUSTOMERS)",
+            "SBPORSBG100"
+        ],
+        [
+            "39",
+            "POSTAL SAVINGS BANK JSC",
+            "BEOGRAD",
+            "SBPORSBG"
+        ],
+        [
+            "40",
+            "PROCREDIT BANK A.D. BELGRADE",
+            "BEOGRAD",
+            "PRCBRSBG"
+        ],
+        [
+            "41",
+            "RAIFFEISEN BANKA A.D.",
+            "BEOGRAD",
+            "RZBSRSBG"
+        ],
+        [
+            "42",
+            "SBERBANK SRBIJA A.D.",
+            "BEOGRAD",
+            "SABRRSBG"
+        ],
+        [
+            "43",
+            "SOCIETE GENERALE BANKA SRBIJA AD BEOGRAD",
+            "BEOGRAD",
+            "SOGYRSBG"
+        ],
+        [
+            "44",
+            "SRPSKA BANKA A.D.",
+            "BEOGRAD",
+            "SRBNRSBG"
+        ],
+        [
+            "45",
+            "TELENOR BANKA AD",
+            "BEOGRAD",
+            "AAAARSBG"
+        ],
+        [
+            "46",
+            "UNICREDIT BANK SRBIJA A.D.",
+            "BEOGRAD",
+            "BACXRSBG"
+        ],
+        [
+            "47",
+            "VOJVODJANSKA BANKA D.D.",
+            "NOVI SAD",
+            "VBUBRS22"
+        ],
+        [
+            "48",
+            "VTB BANKA AD BEOGRAD",
+            "BEOGRAD",
+            "MBBGRSBG"
+        ]
+    ]
+}

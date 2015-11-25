@@ -1,1 +1,387 @@
-{"country":"Greece","country_code":"GR","list":[["1","AEGEAN BALTIC BANK S.A.","ATHENS","AEBAGRAA"],["2","ALPHA BANK AE","ATHENS","CRBAGRAA"],["3","ATTICA BANK SA","ATHENS","ATTIGRAA"],["4","BANK OF AMERICA, N.A. ATHENS","ATHENS","BOFAGR2X"],["5","BANK OF GREECE","ATHENS","(ACCOUNTING CONTROL SECTION)","BNGRGRAA030"],["6","BANK OF GREECE","ATHENS","(ATHENS CLEARING OFFICE)","BNGRGRAAACO"],["7","BANK OF GREECE","ATHENS","(BOOK ENTRY SECURITIES MANAGEMENT SECTION)","BNGRGRAASSS"],["8","BANK OF GREECE","ATHENS","(BOOK ENTRY SECURITIES MANAGEMT SECTION-CORR.CENTRAL BK MODEL SYST)","BNGRGRAACCB"],["9","BANK OF GREECE","ATHENS","(CASH PROCESSING SECTION)","BNGRGRAA053"],["10","BANK OF GREECE","ATHENS","(DATA CONTROL SECTION)","BNGRGRAA059"],["11","BANK OF GREECE","ATHENS","(DEPOSIT ACCOUNTS SECTION)","BNGRGRAA042"],["12","BANK OF GREECE","ATHENS","(DIAS-CH)","BNGRGRAADIA"],["13","BANK OF GREECE","ATHENS","(DOCUMENTARY CREDITS SECTION)","BNGRGRAA017"],["14","BANK OF GREECE","ATHENS","(ECB ACCOUNT FOR BANK OF GREECE)","BNGRGRAAEUX"],["15","BANK OF GREECE","ATHENS","(FOREIGN EXCHANGE TRANSCACTIONS SECTION)","BNGRGRAA013"],["16","BANK OF GREECE","ATHENS","(GOVERNMENT SECURITIES CUSTODY AND MANAGEMENT SECTION)","BNGRGRAA027"],["17","BANK OF GREECE","ATHENS","(HERMES RTGS SYSTEM)","BNGRGRAAHRM"],["18","BANK OF GREECE","ATHENS","(LARGE-VALUE PAYMENTS SYSTEM MANAGEMENT SECTION)","BNGRGRAACON"],["19","BANK OF GREECE","ATHENS","(MONETARY POLICY IMPLEMENTATION SUPPORT SECTION)","BNGRGRAA072"],["20","BANK OF GREECE","ATHENS","(MONEY MARKETS SECTION)","BNGRGRAA094"],["21","BANK OF GREECE","ATHENS","(PAYMENTS OF BOOK ENTRY SECURITIES SECTION)","BNGRGRAAPBS"],["22","BANK OF GREECE","ATHENS","(RESERVES MANAGEMENT BACKUP SECTION)","BNGRGRAA012"],["23","BANK OF GREECE","ATHENS","(SEPA CREDIT TRANSFER)","BNGRGRAASCT"],["24","BANK OF GREECE","ATHENS","(TGT2 ACCOUNT27, INDIRECT MEMBER))","BNGRGRAABR8"],["25","BANK OF GREECE","ATHENS","(TGT2 SAD.BANK (INDIRECT MEMBER))","BNGRGRAABR4"],["26","BANK OF GREECE","ATHENS","(TREASURY OPERATIONS SUPPORT SECTION)","BNGRGRAAFXD"],["27","BANK OF GREECE","ATHENS","BNGRGRAA"],["28","BANK OF GREECE","ATHENS","BNGRGRAAST2"],["29","BANK OF GREECE","THESSALONIKI","(THESSALONIKI BRANCH)","BNGRGRAA121"],["30","BLACK SEA TRADE AND DEVELOPMENT BANK","THESSALONIKI","BSTDGR2T"],["31","BNP PARIBAS SECURITIES SERVICES, GREECE","ATHENS","PARBGRAX"],["32","CITIBANK INTERNATIONAL LIMITED GREECE BRANCH","ATHENS","(RESTRICTED USE CITIBANK ATHENS TARGET 2)","CITIGRAASEC"],["33","CITIBANK INTERNATIONAL LIMITED GREECE BRANCH","ATHENS","CITIGRAA"],["34","CITIBANK INTERNATIONAL LIMITED GREECE BRANCH","ATHENS","CITIGRAA731"],["35","CITIBANK INTERNATIONAL LIMITED GREECE BRANCH","PIRAEUS","CITIGRAA732"],["36","CITIBANK INTERNATIONAL LIMITED GREECE BRANCH","THESSALONIKI","CITIGRAA733"],["37","EUROBANK ERGASIAS S.A.","ATHENS","(CUSTODY FOREIGN INSTITUTIONAL INVESTORS DEPT.)","ERBKGRAASEC"],["38","EUROBANK ERGASIAS S.A.","ATHENS","ERBKGRAA"],["39","GREEK BRANCH OF KEDR OJSC CB","ATHENS","KEDRGRAA"],["40","HELLENIC EXCHANGES S.A.","ATHENS","(HELEX ANCILLARY SYSTEM)","HCSDGRAAASI"],["41","HELLENIC EXCHANGES S.A.","ATHENS","HCSDGRAA"],["42","HSBC BANK PLC","ATHENS","(ALL GREEK BRANCHES)","MIDLGRAA"],["43","HSBC BANK PLC","ATHENS","(SEPA DIRECT DEBITS)","MIDLGRAASDD"],["44","HSBC BANK PLC","ATHENS","MIDLGRAATRS"],["45","HSBC BANK PLC","PIRAEUS","(SECURITIES SERVICES)","MIDLGRAAGSS"],["46","INVESTMENT BANK OF GREECE S.A.","ATHENS","IBOGGRAA"],["47","MINISTRY OF ECONOMY AND FINANCE, GENERAL ACCOUNTING OFFICE","ATHENS","MFGAGRAA"],["48","NATIONAL BANK OF GREECE S.A.","ATHENS","(CUSTODIAN FOR FOREIGN INST. INVESTORS)","ETHNGRAACUS"],["49","NATIONAL BANK OF GREECE S.A.","ATHENS","(CUSTODIAN FOR GREEK INST. INVESTORS)","ETHNGRAAGRI"],["50","NATIONAL BANK OF GREECE S.A.","ATHENS","ETHNGRAA"],["51","OLAYAN INVESTMENTS COMPANY ESTABLISHMENT","GLYFADA","OLAYGR22"],["52","PANELLINIA BANK S.A.","ATHENS","PNELGRAA"],["53","PIRAEUS BANK SA","ATHENS","(SECURITIES SERVICES)","PIRBGRAASEC"],["54","PIRAEUS BANK SA","ATHENS","PIRBGRAA"],["55","ROYAL BANK OF SCOTLAND PLC","PIRAEUS","RBOSGRAA"],["56","T.C. ZIRAAT BANKASI ATHENS CENTRAL BRANCH","ATHENS","TCZBGRAT"],["57","UNICREDIT BANK AG (HYPOVEREINSBANK) ATHENS","ATHENS","(TARGET2)","HYVEGRAATRS"],["58","UNICREDIT BANK AG (HYPOVEREINSBANK) ATHENS","ATHENS","HYVEGRAA"]]}
+{
+    "country": "Greece",
+    "country_code": "GR",
+    "list": [
+        [
+            "1",
+            "AEGEAN BALTIC BANK S.A.",
+            "ATHENS",
+            "AEBAGRAA"
+        ],
+        [
+            "2",
+            "ALPHA BANK AE",
+            "ATHENS",
+            "CRBAGRAA"
+        ],
+        [
+            "3",
+            "ATTICA BANK SA",
+            "ATHENS",
+            "ATTIGRAA"
+        ],
+        [
+            "4",
+            "BANK OF AMERICA, N.A. ATHENS",
+            "ATHENS",
+            "BOFAGR2X"
+        ],
+        [
+            "5",
+            "BANK OF GREECE",
+            "ATHENS",
+            "(ACCOUNTING CONTROL SECTION)",
+            "BNGRGRAA030"
+        ],
+        [
+            "6",
+            "BANK OF GREECE",
+            "ATHENS",
+            "(ATHENS CLEARING OFFICE)",
+            "BNGRGRAAACO"
+        ],
+        [
+            "7",
+            "BANK OF GREECE",
+            "ATHENS",
+            "(BOOK ENTRY SECURITIES MANAGEMENT SECTION)",
+            "BNGRGRAASSS"
+        ],
+        [
+            "8",
+            "BANK OF GREECE",
+            "ATHENS",
+            "(BOOK ENTRY SECURITIES MANAGEMT SECTION-CORR.CENTRAL BK MODEL SYST)",
+            "BNGRGRAACCB"
+        ],
+        [
+            "9",
+            "BANK OF GREECE",
+            "ATHENS",
+            "(CASH PROCESSING SECTION)",
+            "BNGRGRAA053"
+        ],
+        [
+            "10",
+            "BANK OF GREECE",
+            "ATHENS",
+            "(DATA CONTROL SECTION)",
+            "BNGRGRAA059"
+        ],
+        [
+            "11",
+            "BANK OF GREECE",
+            "ATHENS",
+            "(DEPOSIT ACCOUNTS SECTION)",
+            "BNGRGRAA042"
+        ],
+        [
+            "12",
+            "BANK OF GREECE",
+            "ATHENS",
+            "(DIAS-CH)",
+            "BNGRGRAADIA"
+        ],
+        [
+            "13",
+            "BANK OF GREECE",
+            "ATHENS",
+            "(DOCUMENTARY CREDITS SECTION)",
+            "BNGRGRAA017"
+        ],
+        [
+            "14",
+            "BANK OF GREECE",
+            "ATHENS",
+            "(ECB ACCOUNT FOR BANK OF GREECE)",
+            "BNGRGRAAEUX"
+        ],
+        [
+            "15",
+            "BANK OF GREECE",
+            "ATHENS",
+            "(FOREIGN EXCHANGE TRANSCACTIONS SECTION)",
+            "BNGRGRAA013"
+        ],
+        [
+            "16",
+            "BANK OF GREECE",
+            "ATHENS",
+            "(GOVERNMENT SECURITIES CUSTODY AND MANAGEMENT SECTION)",
+            "BNGRGRAA027"
+        ],
+        [
+            "17",
+            "BANK OF GREECE",
+            "ATHENS",
+            "(HERMES RTGS SYSTEM)",
+            "BNGRGRAAHRM"
+        ],
+        [
+            "18",
+            "BANK OF GREECE",
+            "ATHENS",
+            "(LARGE-VALUE PAYMENTS SYSTEM MANAGEMENT SECTION)",
+            "BNGRGRAACON"
+        ],
+        [
+            "19",
+            "BANK OF GREECE",
+            "ATHENS",
+            "(MONETARY POLICY IMPLEMENTATION SUPPORT SECTION)",
+            "BNGRGRAA072"
+        ],
+        [
+            "20",
+            "BANK OF GREECE",
+            "ATHENS",
+            "(MONEY MARKETS SECTION)",
+            "BNGRGRAA094"
+        ],
+        [
+            "21",
+            "BANK OF GREECE",
+            "ATHENS",
+            "(PAYMENTS OF BOOK ENTRY SECURITIES SECTION)",
+            "BNGRGRAAPBS"
+        ],
+        [
+            "22",
+            "BANK OF GREECE",
+            "ATHENS",
+            "(RESERVES MANAGEMENT BACKUP SECTION)",
+            "BNGRGRAA012"
+        ],
+        [
+            "23",
+            "BANK OF GREECE",
+            "ATHENS",
+            "(SEPA CREDIT TRANSFER)",
+            "BNGRGRAASCT"
+        ],
+        [
+            "24",
+            "BANK OF GREECE",
+            "ATHENS",
+            "(TGT2 ACCOUNT27, INDIRECT MEMBER))",
+            "BNGRGRAABR8"
+        ],
+        [
+            "25",
+            "BANK OF GREECE",
+            "ATHENS",
+            "(TGT2 SAD.BANK (INDIRECT MEMBER))",
+            "BNGRGRAABR4"
+        ],
+        [
+            "26",
+            "BANK OF GREECE",
+            "ATHENS",
+            "(TREASURY OPERATIONS SUPPORT SECTION)",
+            "BNGRGRAAFXD"
+        ],
+        [
+            "27",
+            "BANK OF GREECE",
+            "ATHENS",
+            "BNGRGRAA"
+        ],
+        [
+            "28",
+            "BANK OF GREECE",
+            "ATHENS",
+            "BNGRGRAAST2"
+        ],
+        [
+            "29",
+            "BANK OF GREECE",
+            "THESSALONIKI",
+            "(THESSALONIKI BRANCH)",
+            "BNGRGRAA121"
+        ],
+        [
+            "30",
+            "BLACK SEA TRADE AND DEVELOPMENT BANK",
+            "THESSALONIKI",
+            "BSTDGR2T"
+        ],
+        [
+            "31",
+            "BNP PARIBAS SECURITIES SERVICES, GREECE",
+            "ATHENS",
+            "PARBGRAX"
+        ],
+        [
+            "32",
+            "CITIBANK INTERNATIONAL LIMITED GREECE BRANCH",
+            "ATHENS",
+            "(RESTRICTED USE CITIBANK ATHENS TARGET 2)",
+            "CITIGRAASEC"
+        ],
+        [
+            "33",
+            "CITIBANK INTERNATIONAL LIMITED GREECE BRANCH",
+            "ATHENS",
+            "CITIGRAA"
+        ],
+        [
+            "34",
+            "CITIBANK INTERNATIONAL LIMITED GREECE BRANCH",
+            "ATHENS",
+            "CITIGRAA731"
+        ],
+        [
+            "35",
+            "CITIBANK INTERNATIONAL LIMITED GREECE BRANCH",
+            "PIRAEUS",
+            "CITIGRAA732"
+        ],
+        [
+            "36",
+            "CITIBANK INTERNATIONAL LIMITED GREECE BRANCH",
+            "THESSALONIKI",
+            "CITIGRAA733"
+        ],
+        [
+            "37",
+            "EUROBANK ERGASIAS S.A.",
+            "ATHENS",
+            "(CUSTODY FOREIGN INSTITUTIONAL INVESTORS DEPT.)",
+            "ERBKGRAASEC"
+        ],
+        [
+            "38",
+            "EUROBANK ERGASIAS S.A.",
+            "ATHENS",
+            "ERBKGRAA"
+        ],
+        [
+            "39",
+            "GREEK BRANCH OF KEDR OJSC CB",
+            "ATHENS",
+            "KEDRGRAA"
+        ],
+        [
+            "40",
+            "HELLENIC EXCHANGES S.A.",
+            "ATHENS",
+            "(HELEX ANCILLARY SYSTEM)",
+            "HCSDGRAAASI"
+        ],
+        [
+            "41",
+            "HELLENIC EXCHANGES S.A.",
+            "ATHENS",
+            "HCSDGRAA"
+        ],
+        [
+            "42",
+            "HSBC BANK PLC",
+            "ATHENS",
+            "(ALL GREEK BRANCHES)",
+            "MIDLGRAA"
+        ],
+        [
+            "43",
+            "HSBC BANK PLC",
+            "ATHENS",
+            "(SEPA DIRECT DEBITS)",
+            "MIDLGRAASDD"
+        ],
+        [
+            "44",
+            "HSBC BANK PLC",
+            "ATHENS",
+            "MIDLGRAATRS"
+        ],
+        [
+            "45",
+            "HSBC BANK PLC",
+            "PIRAEUS",
+            "(SECURITIES SERVICES)",
+            "MIDLGRAAGSS"
+        ],
+        [
+            "46",
+            "INVESTMENT BANK OF GREECE S.A.",
+            "ATHENS",
+            "IBOGGRAA"
+        ],
+        [
+            "47",
+            "MINISTRY OF ECONOMY AND FINANCE, GENERAL ACCOUNTING OFFICE",
+            "ATHENS",
+            "MFGAGRAA"
+        ],
+        [
+            "48",
+            "NATIONAL BANK OF GREECE S.A.",
+            "ATHENS",
+            "(CUSTODIAN FOR FOREIGN INST. INVESTORS)",
+            "ETHNGRAACUS"
+        ],
+        [
+            "49",
+            "NATIONAL BANK OF GREECE S.A.",
+            "ATHENS",
+            "(CUSTODIAN FOR GREEK INST. INVESTORS)",
+            "ETHNGRAAGRI"
+        ],
+        [
+            "50",
+            "NATIONAL BANK OF GREECE S.A.",
+            "ATHENS",
+            "ETHNGRAA"
+        ],
+        [
+            "51",
+            "OLAYAN INVESTMENTS COMPANY ESTABLISHMENT",
+            "GLYFADA",
+            "OLAYGR22"
+        ],
+        [
+            "52",
+            "PANELLINIA BANK S.A.",
+            "ATHENS",
+            "PNELGRAA"
+        ],
+        [
+            "53",
+            "PIRAEUS BANK SA",
+            "ATHENS",
+            "(SECURITIES SERVICES)",
+            "PIRBGRAASEC"
+        ],
+        [
+            "54",
+            "PIRAEUS BANK SA",
+            "ATHENS",
+            "PIRBGRAA"
+        ],
+        [
+            "55",
+            "ROYAL BANK OF SCOTLAND PLC",
+            "PIRAEUS",
+            "RBOSGRAA"
+        ],
+        [
+            "56",
+            "T.C. ZIRAAT BANKASI ATHENS CENTRAL BRANCH",
+            "ATHENS",
+            "TCZBGRAT"
+        ],
+        [
+            "57",
+            "UNICREDIT BANK AG (HYPOVEREINSBANK) ATHENS",
+            "ATHENS",
+            "(TARGET2)",
+            "HYVEGRAATRS"
+        ],
+        [
+            "58",
+            "UNICREDIT BANK AG (HYPOVEREINSBANK) ATHENS",
+            "ATHENS",
+            "HYVEGRAA"
+        ]
+    ]
+}

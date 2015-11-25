@@ -1,1 +1,316 @@
-{"country":"Hungary","country_code":"HU","list":[["1","ALLAMADOSSAG KEZELO KOZPONT RT.","BUDAPEST","AKKHHUHB"],["2","BANK OF CHINA (HUNGARY) LTD","BUDAPEST","BKCHHUHB"],["3","BANK OF CHINA LIMITED HUNGARIAN BRANCH","BUDAPEST","BKCHHUHH"],["4","BNP PARIBAS SECURITIES HUNGARY BRANCH","BUDAPEST","PARBHUHX"],["5","BNP PARIBAS, HUNGARY BRANCH","BUDAPEST","BNPAHUHX"],["6","BUDAPEST BANK RT.","BUDAPEST","BUDAHUHB"],["7","CIB BANK LTD. (FORMERLY CENTRAL-EUROPEAN INT.BANK LTD.)","BUDAPEST","CIBHHUHB"],["8","CITIBANK EUROPE PLC HUNGARIAN BRANCH","BUDAPEST","(CUSTODY DEPARTMENT)","CITIHUHXCUS"],["9","CITIBANK EUROPE PLC HUNGARIAN BRANCH","BUDAPEST","(TRADE SERVICES DEPT.)","CITIHUHXTRD"],["10","CITIBANK EUROPE PLC HUNGARIAN BRANCH","BUDAPEST","CITIHUHX"],["11","COMMERZBANK (BUDAPEST) RT.","BUDAPEST","COBAHUHX"],["12","CREDIGEN BANK ZRT","BUDAPEST","CRDGHUHB"],["13","DEL-DUNANTULI REGIONALIS BANK ZRT. (SIKLOS ES VIDEKE TAKAREKSZOVETKEZET)","SIKLOS","SIKLHUHH"],["14","DEUTSCHE BANK AG HUNGARY BRANCH","BUDAPEST","DEUTHU2B"],["15","DUNA TAKAREK BANK ZRT.","GYOR","DTBAHUHB"],["16","ERSTE BANK HUNGARY ZRT","BUDAPEST","GIBAHUHB"],["17","EVOBANK CO. LTD.","BUDAPEST","KULBHUHB"],["18","FHB KERESKEDELMI BANK ZRT","BUDAPEST","FHKBHUHB"],["19","FOLDHITEL ES JELZALOGBANK RT","BUDAPEST","FHJBHUHB"],["20","FUNDAMENTA-LAKASKASSZA LAKASTAKAREKPENZTAR RT","BUDAPEST","FLTPHUHB"],["21","GIRO ZRT.","BUDAPEST","GHUNHUHB"],["22","GIRO ZRT.","BUDAPEST","GHUNHUHBGIR"],["23","GRANIT BANK ZRT.","BUDAPEST","GNBAHUHB"],["24","HUNGARIAN BRANCH OFFICE OF AXA BANK EUROPE SA.","BUDAPEST","EUDIHUHB"],["25","HUNGARIAN DEVELOPMENT BANK PLC","BUDAPEST","HBIDHUHB"],["26","HUNGARIAN STATE TREASURY","BUDAPEST","HUSTHUHB"],["27","ING BANK N.V. HUNGARY BRANCH","BUDAPEST","INGBHUHB"],["28","K AND H BANK ZRT.(FORMERLY KERESKEDELMI ES HITELBANK RT)","BUDAPEST","OKHBHUHB"],["29","KDB BANK EUROPE LTD.","BUDAPEST","KODBHUHB"],["30","KOZPONTI ELSZAMOLOHAZ ES ERTEKTAR (BUDAPEST), ZRT.","BUDAPEST","(VIBER DEPARTMENT)","KELRHUHBABC"],["31","KOZPONTI ELSZAMOLOHAZ ES ERTEKTAR (BUDAPEST), ZRT.","BUDAPEST","KELRHUHB"],["32","MAGNET BANK ZRT.","BUDAPEST","HBWEHUHB"],["33","MAGYAR CETELEM BANK ZRT.","BUDAPEST","MCBHHUHB"],["34","MAGYAR EXPORT IMPORT BANK ZRT.","BUDAPEST","HEXIHUHB"],["35","MAGYAR NEMZETI BANK","BUDAPEST","(DOMESTIC PAYMENT SYSTEM)","MANEHUHH"],["36","MAGYAR NEMZETI BANK","BUDAPEST","MANEHUHB"],["37","MAGYAR POSTA ZRT","BUDAPEST","HUPOHUHB"],["38","MAGYAR TAKAREKSZOVETKEZETI BANK RT.","BUDAPEST","TAKBHUHB"],["39","MERKANTIL VALTO ES VAGYONBEFEKTETO BANK RT.","BUDAPEST","MRKBHUHB"],["40","MKB BANK ZRT (FORMERLY MAGYAR KULKERESKEDELMI BANK RT.)","BUDAPEST","MKKBHUHB"],["41","O.F.SZ. ORSZAGOS FIZETESI SZOLGALTATO ZARTKORUEN MUKODO RESZVENYTARSASAG","BUDAPEST","OFSZHUHB"],["42","OBERBANK AG","BUDAPEST","OBKLHUHB"],["43","OTP BANK PLC.","BUDAPEST","OTPVHUHB"],["44","OTP MORTGAGEBANK LTD","BUDAPEST","OTPJHUHB"],["45","POLGARI BANK ZRT","POLGAR","POLBHU22"],["46","PORSCHE BANK HUNGARIA ZRT","BUDAPEST","POHZHUHB"],["47","RAIFFEISEN BANK ZRT.","BUDAPEST","UBRTHUHB"],["48","SBERBANK MAGYARORSZAG ZRT","BUDAPEST","MAVOHUHB"],["49","SOPRON BANK BURGENLAND ZRT.","SOPRON","EHBBHUHS"],["50","SZECHENYI KERESKEDELMI BANK ZRT.","BUDAPEST","SPEUHUHB"],["51","UNICREDIT BANK HUNGARY ZRT.","BUDAPEST","BACXHUHB"]]}
+{
+    "country": "Hungary",
+    "country_code": "HU",
+    "list": [
+        [
+            "1",
+            "ALLAMADOSSAG KEZELO KOZPONT RT.",
+            "BUDAPEST",
+            "AKKHHUHB"
+        ],
+        [
+            "2",
+            "BANK OF CHINA (HUNGARY) LTD",
+            "BUDAPEST",
+            "BKCHHUHB"
+        ],
+        [
+            "3",
+            "BANK OF CHINA LIMITED HUNGARIAN BRANCH",
+            "BUDAPEST",
+            "BKCHHUHH"
+        ],
+        [
+            "4",
+            "BNP PARIBAS SECURITIES HUNGARY BRANCH",
+            "BUDAPEST",
+            "PARBHUHX"
+        ],
+        [
+            "5",
+            "BNP PARIBAS, HUNGARY BRANCH",
+            "BUDAPEST",
+            "BNPAHUHX"
+        ],
+        [
+            "6",
+            "BUDAPEST BANK RT.",
+            "BUDAPEST",
+            "BUDAHUHB"
+        ],
+        [
+            "7",
+            "CIB BANK LTD. (FORMERLY CENTRAL-EUROPEAN INT.BANK LTD.)",
+            "BUDAPEST",
+            "CIBHHUHB"
+        ],
+        [
+            "8",
+            "CITIBANK EUROPE PLC HUNGARIAN BRANCH",
+            "BUDAPEST",
+            "(CUSTODY DEPARTMENT)",
+            "CITIHUHXCUS"
+        ],
+        [
+            "9",
+            "CITIBANK EUROPE PLC HUNGARIAN BRANCH",
+            "BUDAPEST",
+            "(TRADE SERVICES DEPT.)",
+            "CITIHUHXTRD"
+        ],
+        [
+            "10",
+            "CITIBANK EUROPE PLC HUNGARIAN BRANCH",
+            "BUDAPEST",
+            "CITIHUHX"
+        ],
+        [
+            "11",
+            "COMMERZBANK (BUDAPEST) RT.",
+            "BUDAPEST",
+            "COBAHUHX"
+        ],
+        [
+            "12",
+            "CREDIGEN BANK ZRT",
+            "BUDAPEST",
+            "CRDGHUHB"
+        ],
+        [
+            "13",
+            "DEL-DUNANTULI REGIONALIS BANK ZRT. (SIKLOS ES VIDEKE TAKAREKSZOVETKEZET)",
+            "SIKLOS",
+            "SIKLHUHH"
+        ],
+        [
+            "14",
+            "DEUTSCHE BANK AG HUNGARY BRANCH",
+            "BUDAPEST",
+            "DEUTHU2B"
+        ],
+        [
+            "15",
+            "DUNA TAKAREK BANK ZRT.",
+            "GYOR",
+            "DTBAHUHB"
+        ],
+        [
+            "16",
+            "ERSTE BANK HUNGARY ZRT",
+            "BUDAPEST",
+            "GIBAHUHB"
+        ],
+        [
+            "17",
+            "EVOBANK CO. LTD.",
+            "BUDAPEST",
+            "KULBHUHB"
+        ],
+        [
+            "18",
+            "FHB KERESKEDELMI BANK ZRT",
+            "BUDAPEST",
+            "FHKBHUHB"
+        ],
+        [
+            "19",
+            "FOLDHITEL ES JELZALOGBANK RT",
+            "BUDAPEST",
+            "FHJBHUHB"
+        ],
+        [
+            "20",
+            "FUNDAMENTA-LAKASKASSZA LAKASTAKAREKPENZTAR RT",
+            "BUDAPEST",
+            "FLTPHUHB"
+        ],
+        [
+            "21",
+            "GIRO ZRT.",
+            "BUDAPEST",
+            "GHUNHUHB"
+        ],
+        [
+            "22",
+            "GIRO ZRT.",
+            "BUDAPEST",
+            "GHUNHUHBGIR"
+        ],
+        [
+            "23",
+            "GRANIT BANK ZRT.",
+            "BUDAPEST",
+            "GNBAHUHB"
+        ],
+        [
+            "24",
+            "HUNGARIAN BRANCH OFFICE OF AXA BANK EUROPE SA.",
+            "BUDAPEST",
+            "EUDIHUHB"
+        ],
+        [
+            "25",
+            "HUNGARIAN DEVELOPMENT BANK PLC",
+            "BUDAPEST",
+            "HBIDHUHB"
+        ],
+        [
+            "26",
+            "HUNGARIAN STATE TREASURY",
+            "BUDAPEST",
+            "HUSTHUHB"
+        ],
+        [
+            "27",
+            "ING BANK N.V. HUNGARY BRANCH",
+            "BUDAPEST",
+            "INGBHUHB"
+        ],
+        [
+            "28",
+            "K AND H BANK ZRT.(FORMERLY KERESKEDELMI ES HITELBANK RT)",
+            "BUDAPEST",
+            "OKHBHUHB"
+        ],
+        [
+            "29",
+            "KDB BANK EUROPE LTD.",
+            "BUDAPEST",
+            "KODBHUHB"
+        ],
+        [
+            "30",
+            "KOZPONTI ELSZAMOLOHAZ ES ERTEKTAR (BUDAPEST), ZRT.",
+            "BUDAPEST",
+            "(VIBER DEPARTMENT)",
+            "KELRHUHBABC"
+        ],
+        [
+            "31",
+            "KOZPONTI ELSZAMOLOHAZ ES ERTEKTAR (BUDAPEST), ZRT.",
+            "BUDAPEST",
+            "KELRHUHB"
+        ],
+        [
+            "32",
+            "MAGNET BANK ZRT.",
+            "BUDAPEST",
+            "HBWEHUHB"
+        ],
+        [
+            "33",
+            "MAGYAR CETELEM BANK ZRT.",
+            "BUDAPEST",
+            "MCBHHUHB"
+        ],
+        [
+            "34",
+            "MAGYAR EXPORT IMPORT BANK ZRT.",
+            "BUDAPEST",
+            "HEXIHUHB"
+        ],
+        [
+            "35",
+            "MAGYAR NEMZETI BANK",
+            "BUDAPEST",
+            "(DOMESTIC PAYMENT SYSTEM)",
+            "MANEHUHH"
+        ],
+        [
+            "36",
+            "MAGYAR NEMZETI BANK",
+            "BUDAPEST",
+            "MANEHUHB"
+        ],
+        [
+            "37",
+            "MAGYAR POSTA ZRT",
+            "BUDAPEST",
+            "HUPOHUHB"
+        ],
+        [
+            "38",
+            "MAGYAR TAKAREKSZOVETKEZETI BANK RT.",
+            "BUDAPEST",
+            "TAKBHUHB"
+        ],
+        [
+            "39",
+            "MERKANTIL VALTO ES VAGYONBEFEKTETO BANK RT.",
+            "BUDAPEST",
+            "MRKBHUHB"
+        ],
+        [
+            "40",
+            "MKB BANK ZRT (FORMERLY MAGYAR KULKERESKEDELMI BANK RT.)",
+            "BUDAPEST",
+            "MKKBHUHB"
+        ],
+        [
+            "41",
+            "O.F.SZ. ORSZAGOS FIZETESI SZOLGALTATO ZARTKORUEN MUKODO RESZVENYTARSASAG",
+            "BUDAPEST",
+            "OFSZHUHB"
+        ],
+        [
+            "42",
+            "OBERBANK AG",
+            "BUDAPEST",
+            "OBKLHUHB"
+        ],
+        [
+            "43",
+            "OTP BANK PLC.",
+            "BUDAPEST",
+            "OTPVHUHB"
+        ],
+        [
+            "44",
+            "OTP MORTGAGEBANK LTD",
+            "BUDAPEST",
+            "OTPJHUHB"
+        ],
+        [
+            "45",
+            "POLGARI BANK ZRT",
+            "POLGAR",
+            "POLBHU22"
+        ],
+        [
+            "46",
+            "PORSCHE BANK HUNGARIA ZRT",
+            "BUDAPEST",
+            "POHZHUHB"
+        ],
+        [
+            "47",
+            "RAIFFEISEN BANK ZRT.",
+            "BUDAPEST",
+            "UBRTHUHB"
+        ],
+        [
+            "48",
+            "SBERBANK MAGYARORSZAG ZRT",
+            "BUDAPEST",
+            "MAVOHUHB"
+        ],
+        [
+            "49",
+            "SOPRON BANK BURGENLAND ZRT.",
+            "SOPRON",
+            "EHBBHUHS"
+        ],
+        [
+            "50",
+            "SZECHENYI KERESKEDELMI BANK ZRT.",
+            "BUDAPEST",
+            "SPEUHUHB"
+        ],
+        [
+            "51",
+            "UNICREDIT BANK HUNGARY ZRT.",
+            "BUDAPEST",
+            "BACXHUHB"
+        ]
+    ]
+}
