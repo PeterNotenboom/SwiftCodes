@@ -2,84 +2,96 @@
     "country": "Gibraltar",
     "country_code": "GI",
     "list": [
-        [
-            "1",
-            "BANK J. SAFRA SARASIN (GIBRALTAR) LTD",
-            "GIBRALTAR",
-            "BJSBGIGX"
-        ],
-        [
-            "2",
-            "BARCLAYS BANK PLC",
-            "GIBRALTAR",
-            "BARCGIGI"
-        ],
-        [
-            "3",
-            "CREDIT SUISSE (GIBRALTAR) LTD",
-            "GIBRALTAR",
-            "CRESGIGI"
-        ],
-        [
-            "4",
-            "JYSKE BANK (GIBRALTAR) LTD.",
-            "GIBRALTAR",
-            "JYBAGIGI"
-        ],
-        [
-            "5",
-            "LLOYDS BANK (GIBRALTAR) LIMITED",
-            "GIBRALTAR",
-            "LOYDGIGI"
-        ],
-        [
-            "6",
-            "LLOYDS TSB BANK PLC",
-            "GIBRALTAR",
-            "LOYDGIGX"
-        ],
-        [
-            "7",
-            "LOMBARD ODIER AND CIE (GIBRALTAR) LTD",
-            "GIBRALTAR",
-            "LOCYGIGI"
-        ],
-        [
-            "8",
-            "LOMBARD ODIER AND CIE (GIBRALTAR) LTD",
-            "GIBRALTAR",
-            "(NDP DEPT)",
-            "LOCYGIGINDP"
-        ],
-        [
-            "9",
-            "NATWEST-GIBRALTAR",
-            "GIBRALTAR",
-            "RBOSGIGI"
-        ],
-        [
-            "10",
-            "NOVISTA INSURANCE LTD",
-            "GIBRALTAR",
-            "NOVRGIGI"
-        ],
-        [
-            "11",
-            "SG HAMBROS BANK (GIBRALTAR) LIMITED",
-            "GIBRALTAR",
-            "HAMBGIGI"
-        ],
-        [
-            "12",
-            "TURICUM PRIVATE BANK LIMITED",
-            "GIBRALTAR",
-            "TURCGIGI"
-        ],
-        [
-            "13",
-            "UNION BANCAIRE PRIVEE (EUROPE) SA",
-            "GIBRALTAR",
-            "UBPGGIGX"
-        ]
+        {
+            "id": "1",
+            "bank": "BANK J. SAFRA SARASIN (GIBRALTAR) LTD",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "BJSBGIGX"
+        },
+        {
+            "id": "2",
+            "bank": "BARCLAYS BANK PLC",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "BARCGIGI"
+        },
+        {
+            "id": "3",
+            "bank": "CREDIT SUISSE (GIBRALTAR) LTD",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "CRESGIGI"
+        },
+        {
+            "id": "4",
+            "bank": "JYSKE BANK (GIBRALTAR) LTD.",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "JYBAGIGI"
+        },
+        {
+            "id": "5",
+            "bank": "LLOYDS BANK (GIBRALTAR) LIMITED",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "LOYDGIGI"
+        },
+        {
+            "id": "6",
+            "bank": "LLOYDS TSB BANK PLC",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "LOYDGIGX"
+        },
+        {
+            "id": "7",
+            "bank": "LOMBARD ODIER AND CIE (GIBRALTAR) LTD",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "LOCYGIGI"
+        },
+        {
+            "id": "8",
+            "bank": "LOMBARD ODIER AND CIE (GIBRALTAR) LTD",
+            "city": "GIBRALTAR",
+            "branch": "(NDP DEPT)",
+            "swift_code": "LOCYGIGINDP"
+        },
+        {
+            "id": "9",
+            "bank": "NATWEST-GIBRALTAR",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "RBOSGIGI"
+        },
+        {
+            "id": "10",
+            "bank": "NOVISTA INSURANCE LTD",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "NOVRGIGI"
+        },
+        {
+            "id": "11",
+            "bank": "SG HAMBROS BANK (GIBRALTAR) LIMITED",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "HAMBGIGI"
+        },
+        {
+            "id": "12",
+            "bank": "TURICUM PRIVATE BANK LIMITED",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "TURCGIGI"
+        },
+        {
+            "id": "13",
+            "bank": "UNION BANCAIRE PRIVEE (EUROPE) SA",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "UBPGGIGX"
+        }
     ]
 }

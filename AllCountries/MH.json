@@ -2,11 +2,12 @@
     "country": "Marshall Islands",
     "country_code": "MH",
     "list": [
-        [
-            "1",
-            "BANK OF MARSHALL ISLANDS",
-            "MAJURO",
-            "BOMDMH22"
-        ]
+        {
+            "id": "1",
+            "bank": "BANK OF MARSHALL ISLANDS",
+            "city": "MAJURO",
+            "branch": null,
+            "swift_code": "BOMDMH22"
+        }
     ]
 }

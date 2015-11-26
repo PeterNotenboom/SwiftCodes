@@ -2,164 +2,187 @@
     "country": "Paraguay",
     "country_code": "PY",
     "list": [
-        [
-            "1",
-            "BANCO AMAMBAY S.A.",
-            "ASUNCION",
-            "AMAMPYPA"
-        ],
-        [
-            "2",
-            "BANCO ATLAS S.A.",
-            "ASUNCION",
-            "BNITPYPA"
-        ],
-        [
-            "3",
-            "BANCO BILBAO VIZCAYA ARGENTARIA PARAGUAY S.A.",
-            "ASUNCION",
-            "BBVAPYPA"
-        ],
-        [
-            "4",
-            "BANCO CENTRAL DEL PARAGUAY",
-            "ASUNCION",
-            "(AIM\/POMS SERVICE)",
-            "BCPAPYPB"
-        ],
-        [
-            "5",
-            "BANCO CENTRAL DEL PARAGUAY",
-            "ASUNCION",
-            "(OPERACIONES NACIONALES - DPTO. DE CREDITO Y CTAS. CTES.)",
-            "BCPAPYPXGON"
-        ],
-        [
-            "6",
-            "BANCO CENTRAL DEL PARAGUAY",
-            "ASUNCION",
-            "BCPAPYPD"
-        ],
-        [
-            "7",
-            "BANCO CENTRAL DEL PARAGUAY",
-            "ASUNCION",
-            "BCPAPYPR"
-        ],
-        [
-            "8",
-            "BANCO CENTRAL DEL PARAGUAY",
-            "ASUNCION",
-            "BCPAPYPX"
-        ],
-        [
-            "9",
-            "BANCO CONTINENTAL SAECA",
-            "ASUNCION",
-            "BCNAPYPA"
-        ],
-        [
-            "10",
-            "BANCO DE LA NACION ARGENTINA",
-            "ASUNCION",
-            "(SUCURSAL ASUNCION)",
-            "NACNPYPA"
-        ],
-        [
-            "11",
-            "BANCO DE LA NACION ARGENTINA",
-            "CONCEPCION",
-            "NACNPYPA0PC"
-        ],
-        [
-            "12",
-            "BANCO DE LA NACION ARGENTINA",
-            "ENCARNACION",
-            "NACNPYPA0PE"
-        ],
-        [
-            "13",
-            "BANCO DE LA NACION ARGENTINA",
-            "VILLARRICA",
-            "NACNPYPA0P3"
-        ],
-        [
-            "14",
-            "BANCO DO BRASIL S.A.",
-            "ASUNCION",
-            "BRASPYPX"
-        ],
-        [
-            "15",
-            "BANCO FAMILIAR S.A.E.C.A.",
-            "ASUNCION",
-            "FAMIPYPA"
-        ],
-        [
-            "16",
-            "BANCO GNB PARAGUAY S.A.",
-            "ASUNCION",
-            "BGNBPYPX"
-        ],
-        [
-            "17",
-            "BANCO ITAPUA SAECA",
-            "ENCARNACION",
-            "BISAPYPE"
-        ],
-        [
-            "18",
-            "BANCO ITAU PARAGUAY S.A.",
-            "ASUNCION",
-            "UBBRPYPX"
-        ],
-        [
-            "19",
-            "BANCO NACIONAL DE FOMENTO",
-            "ASUNCION",
-            "BNFAPYPA"
-        ],
-        [
-            "20",
-            "BANCO PARA LA COMERCIALIZACION Y LA PRODUCCION SOCIEDAD ANONIMA (BANCOP S.A.)",
-            "ASUNCION",
-            "BCOPPYPA"
-        ],
-        [
-            "21",
-            "BANCO REGIONAL S.A.E.C.A.",
-            "ENCARNACION",
-            "RGSAPYPE"
-        ],
-        [
-            "22",
-            "CRISOL Y ENCARNACIN FINANCIERA S.A.",
-            "ENCARNACION",
-            "CIEFPYPE"
-        ],
-        [
-            "23",
-            "FINANCIERA PARAGUAYO JAPONESA SAECA",
-            "ASUNCION",
-            "FPJSPYPA"
-        ],
-        [
-            "24",
-            "FONPLATA - FONDO FINANCIERO PARA EL DESAROLLO DE LA CUENCA DEL PLATA",
-            "ASUNCION",
-            "FOPLPYPA"
-        ],
-        [
-            "25",
-            "SUDAMERIS BANK S.A.E.C.A.",
-            "ASUNCION",
-            "BSUDPYPX"
-        ],
-        [
-            "26",
-            "VISION BANCO S.A.E.C.A.",
-            "ASUNCION",
-            "VISCPYPA"
-        ]
+        {
+            "id": "1",
+            "bank": "BANCO AMAMBAY S.A.",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "AMAMPYPA"
+        },
+        {
+            "id": "2",
+            "bank": "BANCO ATLAS S.A.",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "BNITPYPA"
+        },
+        {
+            "id": "3",
+            "bank": "BANCO BILBAO VIZCAYA ARGENTARIA PARAGUAY S.A.",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "BBVAPYPA"
+        },
+        {
+            "id": "4",
+            "bank": "BANCO CENTRAL DEL PARAGUAY",
+            "city": "ASUNCION",
+            "branch": "(AIM\/POMS SERVICE)",
+            "swift_code": "BCPAPYPB"
+        },
+        {
+            "id": "5",
+            "bank": "BANCO CENTRAL DEL PARAGUAY",
+            "city": "ASUNCION",
+            "branch": "(OPERACIONES NACIONALES - DPTO. DE CREDITO Y CTAS. CTES.)",
+            "swift_code": "BCPAPYPXGON"
+        },
+        {
+            "id": "6",
+            "bank": "BANCO CENTRAL DEL PARAGUAY",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "BCPAPYPD"
+        },
+        {
+            "id": "7",
+            "bank": "BANCO CENTRAL DEL PARAGUAY",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "BCPAPYPR"
+        },
+        {
+            "id": "8",
+            "bank": "BANCO CENTRAL DEL PARAGUAY",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "BCPAPYPX"
+        },
+        {
+            "id": "9",
+            "bank": "BANCO CONTINENTAL SAECA",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "BCNAPYPA"
+        },
+        {
+            "id": "10",
+            "bank": "BANCO DE LA NACION ARGENTINA",
+            "city": "ASUNCION",
+            "branch": "(SUCURSAL ASUNCION)",
+            "swift_code": "NACNPYPA"
+        },
+        {
+            "id": "11",
+            "bank": "BANCO DE LA NACION ARGENTINA",
+            "city": "CONCEPCION",
+            "branch": null,
+            "swift_code": "NACNPYPA0PC"
+        },
+        {
+            "id": "12",
+            "bank": "BANCO DE LA NACION ARGENTINA",
+            "city": "ENCARNACION",
+            "branch": null,
+            "swift_code": "NACNPYPA0PE"
+        },
+        {
+            "id": "13",
+            "bank": "BANCO DE LA NACION ARGENTINA",
+            "city": "VILLARRICA",
+            "branch": null,
+            "swift_code": "NACNPYPA0P3"
+        },
+        {
+            "id": "14",
+            "bank": "BANCO DO BRASIL S.A.",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "BRASPYPX"
+        },
+        {
+            "id": "15",
+            "bank": "BANCO FAMILIAR S.A.E.C.A.",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "FAMIPYPA"
+        },
+        {
+            "id": "16",
+            "bank": "BANCO GNB PARAGUAY S.A.",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "BGNBPYPX"
+        },
+        {
+            "id": "17",
+            "bank": "BANCO ITAPUA SAECA",
+            "city": "ENCARNACION",
+            "branch": null,
+            "swift_code": "BISAPYPE"
+        },
+        {
+            "id": "18",
+            "bank": "BANCO ITAU PARAGUAY S.A.",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "UBBRPYPX"
+        },
+        {
+            "id": "19",
+            "bank": "BANCO NACIONAL DE FOMENTO",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "BNFAPYPA"
+        },
+        {
+            "id": "20",
+            "bank": "BANCO PARA LA COMERCIALIZACION Y LA PRODUCCION SOCIEDAD ANONIMA (BANCOP S.A.)",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "BCOPPYPA"
+        },
+        {
+            "id": "21",
+            "bank": "BANCO REGIONAL S.A.E.C.A.",
+            "city": "ENCARNACION",
+            "branch": null,
+            "swift_code": "RGSAPYPE"
+        },
+        {
+            "id": "22",
+            "bank": "CRISOL Y ENCARNACIN FINANCIERA S.A.",
+            "city": "ENCARNACION",
+            "branch": null,
+            "swift_code": "CIEFPYPE"
+        },
+        {
+            "id": "23",
+            "bank": "FINANCIERA PARAGUAYO JAPONESA SAECA",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "FPJSPYPA"
+        },
+        {
+            "id": "24",
+            "bank": "FONPLATA - FONDO FINANCIERO PARA EL DESAROLLO DE LA CUENCA DEL PLATA",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "FOPLPYPA"
+        },
+        {
+            "id": "25",
+            "bank": "SUDAMERIS BANK S.A.E.C.A.",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "BSUDPYPX"
+        },
+        {
+            "id": "26",
+            "bank": "VISION BANCO S.A.E.C.A.",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "VISCPYPA"
+        }
     ]
 }

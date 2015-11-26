@@ -2,139 +2,159 @@
     "country": "Bermuda",
     "country_code": "BM",
     "list": [
-        [
-            "1",
-            "ALTREE FINANCIAL LTD.",
-            "HAMILTON",
-            "ALCUBMHH"
-        ],
-        [
-            "2",
-            "BANK OF N.T. BUTTERFIELD AND SON LIMITED, THE",
-            "HAMILTON",
-            "BNTBBMHM"
-        ],
-        [
-            "3",
-            "BERMUDA COMMERCIAL BANK LIMITED",
-            "HAMILTON",
-            "BPBKBMHM"
-        ],
-        [
-            "4",
-            "BERMUDA MONETARY AUTHORITY",
-            "HAMILTON",
-            "BEMABMHM"
-        ],
-        [
-            "5",
-            "BLOOMBERG TRADEBOOK (BERMUDA) LTD.",
-            "HAMILTON",
-            "TBASBMHM"
-        ],
-        [
-            "6",
-            "BOSTON RE LTD",
-            "HAMILTON",
-            "BOSRBMHM"
-        ],
-        [
-            "7",
-            "BUTTERFIELD TRUST (BERMUDA) LIMITED",
-            "HAMILTON",
-            "BNTBBMHS"
-        ],
-        [
-            "8",
-            "CLARIEN BANK LIMITED",
-            "HAMILTON",
-            "CAGPBMHM"
-        ],
-        [
-            "9",
-            "HSBC BANK BERMUDA",
-            "HAMILTON",
-            "(CORPORATE TRUST SERVICES)",
-            "BBDABMHMCTS"
-        ],
-        [
-            "10",
-            "HSBC BANK BERMUDA",
-            "HAMILTON",
-            "(INVESTMENT DEPT)",
-            "BBDABMHMINV"
-        ],
-        [
-            "11",
-            "HSBC BANK BERMUDA",
-            "HAMILTON",
-            "BBDABMHM"
-        ],
-        [
-            "12",
-            "HSBC BANK BERMUDA",
-            "HAMILTON",
-            "BBDABMHP"
-        ],
-        [
-            "13",
-            "INVESCO LTD",
-            "HAMILTON",
-            "IVZLBMHH"
-        ],
-        [
-            "14",
-            "MERRILL LYNCH REINSURANCE SOLUTIONS",
-            "HAMILTON",
-            "MLRIBMHM"
-        ],
-        [
-            "15",
-            "NEPHILA CAPITAL LTD.",
-            "HAMILTON",
-            "NEPHBMHM"
-        ],
-        [
-            "16",
-            "NOVARTIS SECURITIES INVESTMENT LTD",
-            "HAMILTON",
-            "NOVRBMHM"
-        ],
-        [
-            "17",
-            "NOVARTIS SECURITIES INVESTMENT LTD",
-            "HAMILTON",
-            "NOVRBMHM012"
-        ],
-        [
-            "18",
-            "NOVARTIS SECURITIES INVESTMENT LTD",
-            "HAMILTON",
-            "NOVRBMHM028"
-        ],
-        [
-            "19",
-            "ROCHE FINANCIAL INVESTMENTS LTD",
-            "HAMILTON",
-            "ROCHBMHM"
-        ],
-        [
-            "20",
-            "ROCHE INTERTRADE LIMITED",
-            "HAMILTON",
-            "ROCHBMHA"
-        ],
-        [
-            "21",
-            "TCC MARKETS LIMITED",
-            "HAMILTON",
-            "TCCMBMHM"
-        ],
-        [
-            "22",
-            "THE BERMUDA SECURITIES DEPOSITORY",
-            "HAMILTON",
-            "BMSDBMHM"
-        ]
+        {
+            "id": "1",
+            "bank": "ALTREE FINANCIAL LTD.",
+            "city": "HAMILTON",
+            "branch": null,
+            "swift_code": "ALCUBMHH"
+        },
+        {
+            "id": "2",
+            "bank": "BANK OF N.T. BUTTERFIELD AND SON LIMITED, THE",
+            "city": "HAMILTON",
+            "branch": null,
+            "swift_code": "BNTBBMHM"
+        },
+        {
+            "id": "3",
+            "bank": "BERMUDA COMMERCIAL BANK LIMITED",
+            "city": "HAMILTON",
+            "branch": null,
+            "swift_code": "BPBKBMHM"
+        },
+        {
+            "id": "4",
+            "bank": "BERMUDA MONETARY AUTHORITY",
+            "city": "HAMILTON",
+            "branch": null,
+            "swift_code": "BEMABMHM"
+        },
+        {
+            "id": "5",
+            "bank": "BLOOMBERG TRADEBOOK (BERMUDA) LTD.",
+            "city": "HAMILTON",
+            "branch": null,
+            "swift_code": "TBASBMHM"
+        },
+        {
+            "id": "6",
+            "bank": "BOSTON RE LTD",
+            "city": "HAMILTON",
+            "branch": null,
+            "swift_code": "BOSRBMHM"
+        },
+        {
+            "id": "7",
+            "bank": "BUTTERFIELD TRUST (BERMUDA) LIMITED",
+            "city": "HAMILTON",
+            "branch": null,
+            "swift_code": "BNTBBMHS"
+        },
+        {
+            "id": "8",
+            "bank": "CLARIEN BANK LIMITED",
+            "city": "HAMILTON",
+            "branch": null,
+            "swift_code": "CAGPBMHM"
+        },
+        {
+            "id": "9",
+            "bank": "HSBC BANK BERMUDA",
+            "city": "HAMILTON",
+            "branch": "(CORPORATE TRUST SERVICES)",
+            "swift_code": "BBDABMHMCTS"
+        },
+        {
+            "id": "10",
+            "bank": "HSBC BANK BERMUDA",
+            "city": "HAMILTON",
+            "branch": "(INVESTMENT DEPT)",
+            "swift_code": "BBDABMHMINV"
+        },
+        {
+            "id": "11",
+            "bank": "HSBC BANK BERMUDA",
+            "city": "HAMILTON",
+            "branch": null,
+            "swift_code": "BBDABMHM"
+        },
+        {
+            "id": "12",
+            "bank": "HSBC BANK BERMUDA",
+            "city": "HAMILTON",
+            "branch": null,
+            "swift_code": "BBDABMHP"
+        },
+        {
+            "id": "13",
+            "bank": "INVESCO LTD",
+            "city": "HAMILTON",
+            "branch": null,
+            "swift_code": "IVZLBMHH"
+        },
+        {
+            "id": "14",
+            "bank": "MERRILL LYNCH REINSURANCE SOLUTIONS",
+            "city": "HAMILTON",
+            "branch": null,
+            "swift_code": "MLRIBMHM"
+        },
+        {
+            "id": "15",
+            "bank": "NEPHILA CAPITAL LTD.",
+            "city": "HAMILTON",
+            "branch": null,
+            "swift_code": "NEPHBMHM"
+        },
+        {
+            "id": "16",
+            "bank": "NOVARTIS SECURITIES INVESTMENT LTD",
+            "city": "HAMILTON",
+            "branch": null,
+            "swift_code": "NOVRBMHM"
+        },
+        {
+            "id": "17",
+            "bank": "NOVARTIS SECURITIES INVESTMENT LTD",
+            "city": "HAMILTON",
+            "branch": null,
+            "swift_code": "NOVRBMHM012"
+        },
+        {
+            "id": "18",
+            "bank": "NOVARTIS SECURITIES INVESTMENT LTD",
+            "city": "HAMILTON",
+            "branch": null,
+            "swift_code": "NOVRBMHM028"
+        },
+        {
+            "id": "19",
+            "bank": "ROCHE FINANCIAL INVESTMENTS LTD",
+            "city": "HAMILTON",
+            "branch": null,
+            "swift_code": "ROCHBMHM"
+        },
+        {
+            "id": "20",
+            "bank": "ROCHE INTERTRADE LIMITED",
+            "city": "HAMILTON",
+            "branch": null,
+            "swift_code": "ROCHBMHA"
+        },
+        {
+            "id": "21",
+            "bank": "TCC MARKETS LIMITED",
+            "city": "HAMILTON",
+            "branch": null,
+            "swift_code": "TCCMBMHM"
+        },
+        {
+            "id": "22",
+            "bank": "THE BERMUDA SECURITIES DEPOSITORY",
+            "city": "HAMILTON",
+            "branch": null,
+            "swift_code": "BMSDBMHM"
+        }
     ]
 }

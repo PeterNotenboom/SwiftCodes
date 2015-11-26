@@ -2,91 +2,103 @@
     "country": "Niger",
     "country_code": "NE",
     "list": [
-        [
-            "1",
-            "BANK OF AFRICA NIGER",
-            "NIAMEY",
-            "AFRINENI"
-        ],
-        [
-            "2",
-            "BANQUE AGRICOLE DU NIGER",
-            "NIAMEY",
-            "BANENENI"
-        ],
-        [
-            "3",
-            "BANQUE ATLANTIQUE NIGER",
-            "NIAMEY",
-            "ATNENENI"
-        ],
-        [
-            "4",
-            "BANQUE CENTRALE DES ETATS DE L'AFRIQUE ET DE L'OUEST",
-            "MARADI",
-            "(MARADI BRANCH)",
-            "BCAONENIMAR"
-        ],
-        [
-            "5",
-            "BANQUE CENTRALE DES ETATS DE L'AFRIQUE ET DE L'OUEST",
-            "NIAMEY",
-            "BCAONENI"
-        ],
-        [
-            "6",
-            "BANQUE CENTRALE DES ETATS DE L'AFRIQUE ET DE L'OUEST",
-            "ZINDER",
-            "(ZINDER BRANCH)",
-            "BCAONENIZIN"
-        ],
-        [
-            "7",
-            "BANQUE COMMERCIALE DU NIGER",
-            "NIAMEY",
-            "BCDNNENI"
-        ],
-        [
-            "8",
-            "BANQUE INTERNATIONALE POUR L'AFRIQUE AU NIGER",
-            "NIAMEY",
-            "BIANNENI"
-        ],
-        [
-            "9",
-            "BANQUE ISLAMIQUE DU NIGER POUR LE COMMERCE ET L'INVESTISSEMENT",
-            "NIAMEY",
-            "BICVNENI"
-        ],
-        [
-            "10",
-            "BANQUE SAHELO-SAHARIENNE POUR L'INVESTISSEMENT ET LE COMMERCE (NIGER) S.A.",
-            "NIAMEY",
-            "BSAHNENI"
-        ],
-        [
-            "11",
-            "CBAO GROUPE ATTIJARIWAFA BANK",
-            "NIAMEY",
-            "CBAONENI"
-        ],
-        [
-            "12",
-            "ECOBANK NIGER ECN",
-            "NIAMEY",
-            "ECOCNENI"
-        ],
-        [
-            "13",
-            "ORABANK NIGER",
-            "NIAMEY",
-            "ORBKNENI"
-        ],
-        [
-            "14",
-            "SOCIETE NIGERIENNE DE BANQUE",
-            "NIAMEY",
-            "SOCNNENI"
-        ]
+        {
+            "id": "1",
+            "bank": "BANK OF AFRICA NIGER",
+            "city": "NIAMEY",
+            "branch": null,
+            "swift_code": "AFRINENI"
+        },
+        {
+            "id": "2",
+            "bank": "BANQUE AGRICOLE DU NIGER",
+            "city": "NIAMEY",
+            "branch": null,
+            "swift_code": "BANENENI"
+        },
+        {
+            "id": "3",
+            "bank": "BANQUE ATLANTIQUE NIGER",
+            "city": "NIAMEY",
+            "branch": null,
+            "swift_code": "ATNENENI"
+        },
+        {
+            "id": "4",
+            "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE ET DE L'OUEST",
+            "city": "MARADI",
+            "branch": "(MARADI BRANCH)",
+            "swift_code": "BCAONENIMAR"
+        },
+        {
+            "id": "5",
+            "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE ET DE L'OUEST",
+            "city": "NIAMEY",
+            "branch": null,
+            "swift_code": "BCAONENI"
+        },
+        {
+            "id": "6",
+            "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE ET DE L'OUEST",
+            "city": "ZINDER",
+            "branch": "(ZINDER BRANCH)",
+            "swift_code": "BCAONENIZIN"
+        },
+        {
+            "id": "7",
+            "bank": "BANQUE COMMERCIALE DU NIGER",
+            "city": "NIAMEY",
+            "branch": null,
+            "swift_code": "BCDNNENI"
+        },
+        {
+            "id": "8",
+            "bank": "BANQUE INTERNATIONALE POUR L'AFRIQUE AU NIGER",
+            "city": "NIAMEY",
+            "branch": null,
+            "swift_code": "BIANNENI"
+        },
+        {
+            "id": "9",
+            "bank": "BANQUE ISLAMIQUE DU NIGER POUR LE COMMERCE ET L'INVESTISSEMENT",
+            "city": "NIAMEY",
+            "branch": null,
+            "swift_code": "BICVNENI"
+        },
+        {
+            "id": "10",
+            "bank": "BANQUE SAHELO-SAHARIENNE POUR L'INVESTISSEMENT ET LE COMMERCE (NIGER) S.A.",
+            "city": "NIAMEY",
+            "branch": null,
+            "swift_code": "BSAHNENI"
+        },
+        {
+            "id": "11",
+            "bank": "CBAO GROUPE ATTIJARIWAFA BANK",
+            "city": "NIAMEY",
+            "branch": null,
+            "swift_code": "CBAONENI"
+        },
+        {
+            "id": "12",
+            "bank": "ECOBANK NIGER ECN",
+            "city": "NIAMEY",
+            "branch": null,
+            "swift_code": "ECOCNENI"
+        },
+        {
+            "id": "13",
+            "bank": "ORABANK NIGER",
+            "city": "NIAMEY",
+            "branch": null,
+            "swift_code": "ORBKNENI"
+        },
+        {
+            "id": "14",
+            "bank": "SOCIETE NIGERIENNE DE BANQUE",
+            "city": "NIAMEY",
+            "branch": null,
+            "swift_code": "SOCNNENI"
+        }
     ]
 }

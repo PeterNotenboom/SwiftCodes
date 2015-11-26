@@ -2,54 +2,61 @@
     "country": "Guyana",
     "country_code": "GY",
     "list": [
-        [
-            "1",
-            "BANK OF BARODA (GUYANA) INC.",
-            "GEORGETOWN",
-            "BARBGYGE"
-        ],
-        [
-            "2",
-            "BANK OF GUYANA",
-            "GEORGETOWN",
-            "GUBAGYGG"
-        ],
-        [
-            "3",
-            "BANK OF NOVA SCOTIA,THE",
-            "GEORGETOWN",
-            "NOSCGYGE"
-        ],
-        [
-            "4",
-            "CITIZENS BANK GUYANA INC",
-            "GEORGETOWN",
-            "CBGIGYGG"
-        ],
-        [
-            "5",
-            "DEMERARA BANK LIMITED",
-            "GEORGETOWN",
-            "DMBKGYGT"
-        ],
-        [
-            "6",
-            "EXCEL CAPITAL INC.",
-            "GEORGETOWN",
-            "EXCAGYGT"
-        ],
-        [
-            "7",
-            "GUYANA BANK FOR TRADE AND INDUSTRY LTD.",
-            "GEORGETOWN",
-            "(MAIN BRANCH)",
-            "GUTIGYGE"
-        ],
-        [
-            "8",
-            "REPUBLIC BANK (GUYANA) LIMITED",
-            "GEORGETOWN",
-            "RBGLGYGG"
-        ]
+        {
+            "id": "1",
+            "bank": "BANK OF BARODA (GUYANA) INC.",
+            "city": "GEORGETOWN",
+            "branch": null,
+            "swift_code": "BARBGYGE"
+        },
+        {
+            "id": "2",
+            "bank": "BANK OF GUYANA",
+            "city": "GEORGETOWN",
+            "branch": null,
+            "swift_code": "GUBAGYGG"
+        },
+        {
+            "id": "3",
+            "bank": "BANK OF NOVA SCOTIA,THE",
+            "city": "GEORGETOWN",
+            "branch": null,
+            "swift_code": "NOSCGYGE"
+        },
+        {
+            "id": "4",
+            "bank": "CITIZENS BANK GUYANA INC",
+            "city": "GEORGETOWN",
+            "branch": null,
+            "swift_code": "CBGIGYGG"
+        },
+        {
+            "id": "5",
+            "bank": "DEMERARA BANK LIMITED",
+            "city": "GEORGETOWN",
+            "branch": null,
+            "swift_code": "DMBKGYGT"
+        },
+        {
+            "id": "6",
+            "bank": "EXCEL CAPITAL INC.",
+            "city": "GEORGETOWN",
+            "branch": null,
+            "swift_code": "EXCAGYGT"
+        },
+        {
+            "id": "7",
+            "bank": "GUYANA BANK FOR TRADE AND INDUSTRY LTD.",
+            "city": "GEORGETOWN",
+            "branch": "(MAIN BRANCH)",
+            "swift_code": "GUTIGYGE"
+        },
+        {
+            "id": "8",
+            "bank": "REPUBLIC BANK (GUYANA) LIMITED",
+            "city": "GEORGETOWN",
+            "branch": null,
+            "swift_code": "RBGLGYGG"
+        }
     ]
 }

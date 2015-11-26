@@ -2,1918 +2,2098 @@
     "country": "Ukraine",
     "country_code": "UA",
     "list": [
-        [
-            "1",
-            "ACCORDBANK COMMERCIAL BANK",
-            "KIEV",
-            "ACDCUAUK"
-        ],
-        [
-            "2",
-            "AGRARIAN COMMERCIAL BANK OJSC",
-            "KIEV",
-            "AGCBUAUK"
-        ],
-        [
-            "3",
-            "APEKS-BANK",
-            "KIEV",
-            "APKSUAUK"
-        ],
-        [
-            "4",
-            "ARCADA JSCB",
-            "KIEV",
-            "ARJSUAUK"
-        ],
-        [
-            "5",
-            "ARTEM-BANK",
-            "KIEV",
-            "ARTLUAUK"
-        ],
-        [
-            "6",
-            "ASTRABANK",
-            "KIEV",
-            "ASTRUAUK"
-        ],
-        [
-            "7",
-            "AVANT-BANK PJSC",
-            "KIEV",
-            "AVSCUAUK"
-        ],
-        [
-            "8",
-            "BANK 3\/4",
-            "KIEV",
-            "BKVKUAUK"
-        ],
-        [
-            "9",
-            "BANK CAMBIO PJSC",
-            "KIEV",
-            "CAULUAUK"
-        ],
-        [
-            "10",
-            "BANK FOR INVESTMENTS AND SAVINGS",
-            "KIEV",
-            "BFISUAUK"
-        ],
-        [
-            "11",
-            "BANK KYIV JS",
-            "KIEV",
-            "JKIEUAUK"
-        ],
-        [
-            "12",
-            "BANK NATIONAL CREDIT, PUBLIC JOINT-STOCK COMPANY",
-            "KIEV",
-            "NCRBUAUK"
-        ],
-        [
-            "13",
-            "BANK PIVDENNYI",
-            "ODESA",
-            "PIVDUA22"
-        ],
-        [
-            "14",
-            "BANK SICH",
-            "KIEV",
-            "SICHUAUK"
-        ],
-        [
-            "15",
-            "BANK VELES JSC",
-            "KIEV",
-            "VELSUAUK"
-        ],
-        [
-            "16",
-            "BM BANK, PJSC",
-            "KIEV",
-            "BMLTUAUK"
-        ],
-        [
-            "17",
-            "BOHUSLAV BANK",
-            "KIEV",
-            "BOHUUAUK"
-        ],
-        [
-            "18",
-            "CAPITAL PJSC JSC CB",
-            "DONETSK",
-            "CAPOUA2X"
-        ],
-        [
-            "19",
-            "CB 'FINANCIAL INITIATIVE' LLC",
-            "KIEV",
-            "CBFNUAUK"
-        ],
-        [
-            "20",
-            "CENTER COMMERCIAL BANK",
-            "KIEV",
-            "CENTUAUK"
-        ],
-        [
-            "21",
-            "CHERNOMORSKIY BANK OF DEVELOPMENT AND RECONSTRUCTION",
-            "SIMFEROPOL",
-            "CHRRUA22"
-        ],
-        [
-            "22",
-            "CITY COMMERCE BANK, PJSC",
-            "KIEV",
-            "PATKUAUK"
-        ],
-        [
-            "23",
-            "CLASSICBANK",
-            "DNIPROPETROVSK",
-            "CLBKUA2N"
-        ],
-        [
-            "24",
-            "CREDIT AGRICOLE BANK PJSC",
-            "KIEV",
-            "AGRIUAUK"
-        ],
-        [
-            "25",
-            "CREDIT AGRICOLE BANK PJSC",
-            "KYIV",
-            "(CIB BRANCH)",
-            "AGRIUAUKCIB"
-        ],
-        [
-            "26",
-            "CREDIT EUROPE BANK PJSC",
-            "KIEV",
-            "FBHLUAUK"
-        ],
-        [
-            "27",
-            "DELTABANK",
-            "KIEV",
-            "DELKUAUK"
-        ],
-        [
-            "28",
-            "DEMARK BANK JS",
-            "CHERNIHIV",
-            "DEMKUA22"
-        ],
-        [
-            "29",
-            "DV BANK PJSC",
-            "KIEV",
-            "DVBKUAUK"
-        ],
-        [
-            "30",
-            "ENERGOBANK",
-            "KIEV",
-            "ENERUAUX"
-        ],
-        [
-            "31",
-            "EUROBANK PJSC CB",
-            "KIEV",
-            "EUBNUAUK"
-        ],
-        [
-            "32",
-            "FIDOBANK (FORMERLY SEB BANK)",
-            "KIEV",
-            "FDBKUAUX"
-        ],
-        [
-            "33",
-            "FINBANK",
-            "ODESA",
-            "FNBKUA22"
-        ],
-        [
-            "34",
-            "FINEXBANK",
-            "KIEV",
-            "FINXUAUK"
-        ],
-        [
-            "35",
-            "FIRST INVESTMENT BANK",
-            "KIEV",
-            "FIBXUAUK"
-        ],
-        [
-            "36",
-            "FIRST UKRAINIAN INTERNATIONAL BANK",
-            "DNIPROPETROVSK",
-            "(COMMERCIAL BRANCH)",
-            "FUIBUA2XDNI"
-        ],
-        [
-            "37",
-            "FIRST UKRAINIAN INTERNATIONAL BANK",
-            "DONETSK",
-            "(COMMERCIAL BRANCH)",
-            "FUIBUA2XDON"
-        ],
-        [
-            "38",
-            "FIRST UKRAINIAN INTERNATIONAL BANK",
-            "DONETSK",
-            "(HEAD OFFICE)",
-            "FUIBUA2X"
-        ],
-        [
-            "39",
-            "FIRST UKRAINIAN INTERNATIONAL BANK",
-            "GORLOVKA CITY",
-            "(COMMERCIAL BRANCH)",
-            "FUIBUA2XGRV"
-        ],
-        [
-            "40",
-            "FIRST UKRAINIAN INTERNATIONAL BANK",
-            "KHARKIV",
-            "(COMMERCIAL BRANCH)",
-            "FUIBUA2XKHA"
-        ],
-        [
-            "41",
-            "FIRST UKRAINIAN INTERNATIONAL BANK",
-            "KIEV",
-            "(MAIN COMMERCIAL BRANCH)",
-            "FUIBUA2XKIE"
-        ],
-        [
-            "42",
-            "FIRST UKRAINIAN INTERNATIONAL BANK",
-            "LUHANSK",
-            "(COMMERCIAL BRANCH)",
-            "FUIBUA2XLUG"
-        ],
-        [
-            "43",
-            "FIRST UKRAINIAN INTERNATIONAL BANK",
-            "LVIV",
-            "(COMMERCIAL BRANCH)",
-            "FUIBUA2XLVO"
-        ],
-        [
-            "44",
-            "FIRST UKRAINIAN INTERNATIONAL BANK",
-            "MARIUPOL",
-            "(COMMERCIAL BRANCH)",
-            "FUIBUA2XMPL"
-        ],
-        [
-            "45",
-            "FIRST UKRAINIAN INTERNATIONAL BANK",
-            "MYKOLAIV",
-            "(COMMERCIAL BRANCH)",
-            "FUIBUA2XNIC"
-        ],
-        [
-            "46",
-            "FIRST UKRAINIAN INTERNATIONAL BANK",
-            "ODESA",
-            "(COMMERCIAL BRANCH)",
-            "FUIBUA2XODE"
-        ],
-        [
-            "47",
-            "FIRST UKRAINIAN INTERNATIONAL BANK",
-            "SEVASTOPOL",
-            "(SEVASTOPOL BRANCH)",
-            "FUIBUA2XSEL"
-        ],
-        [
-            "48",
-            "FIRST UKRAINIAN INTERNATIONAL BANK",
-            "SOLEDAR",
-            "(COMMERCIAL BRANCH)",
-            "FUIBUA2XSOL"
-        ],
-        [
-            "49",
-            "FIRST UKRAINIAN INTERNATIONAL BANK",
-            "ZAPOROZHYE",
-            "(ZAPOROZHYE BRANCH)",
-            "FUIBUA2XZAP"
-        ],
-        [
-            "50",
-            "FORTUNA BANK LTD",
-            "KIEV",
-            "FTNAUAUK"
-        ],
-        [
-            "51",
-            "GLOBUS BANK",
-            "KIEV",
-            "GLIBUA22"
-        ],
-        [
-            "52",
-            "GRANT BANK",
-            "KHARKIV",
-            "(1ST SUBSIDIARY)",
-            "GRBKUA2X011"
-        ],
-        [
-            "53",
-            "GRANT BANK",
-            "KHARKIV",
-            "(2ND SUBSIDIARY)",
-            "GRBKUA2X012"
-        ],
-        [
-            "54",
-            "GRANT BANK",
-            "KHARKIV",
-            "GRBKUA2X"
-        ],
-        [
-            "55",
-            "GRANT BANK",
-            "KIEV",
-            "GRBKUA2XKIE"
-        ],
-        [
-            "56",
-            "IMEXBANK JSCB",
-            "DNIPROPETROVSK",
-            "(BRANCH IN DNIPROPETROVSK)",
-            "IMEXUA2XDNP"
-        ],
-        [
-            "57",
-            "IMEXBANK JSCB",
-            "KIEV",
-            "(BRANCH IN KIEV)",
-            "IMEXUA2XKIE"
-        ],
-        [
-            "58",
-            "IMEXBANK JSCB",
-            "MYKOLAIV",
-            "(BRANCH IN MYKOLAIV)",
-            "IMEXUA2XMYK"
-        ],
-        [
-            "59",
-            "IMEXBANK JSCB",
-            "ODESA",
-            "IMEXUA2X"
-        ],
-        [
-            "60",
-            "IMEXBANK JSCB",
-            "RIVNE",
-            "(BRANCH IN RIVNE)",
-            "IMEXUA2XRIV"
-        ],
-        [
-            "61",
-            "IMEXBANK JSCB",
-            "ZAPOROZHYE",
-            "(BRANCH IN ZAPOROZHYE)",
-            "IMEXUA2XZAP"
-        ],
-        [
-            "62",
-            "INDUSTRIAL FINANCIAL BANK",
-            "KREMENCHUG",
-            "INFLUAUK"
-        ],
-        [
-            "63",
-            "ING BANK UKRAINE",
-            "KIEV",
-            "INGBUAUK"
-        ],
-        [
-            "64",
-            "INTEGRAL JOINT STOCK COMMERCIAL BANK",
-            "KIEV",
-            "ITGRUAUK"
-        ],
-        [
-            "65",
-            "INTERNATIONAL INVESTMENT BANK",
-            "KIEV",
-            "IINBUAUK"
-        ],
-        [
-            "66",
-            "JOINT STOCK COMPANY 'ACCENT-BANK'",
-            "DNIPROPETROVSK",
-            "UKCBUAUK"
-        ],
-        [
-            "67",
-            "JOINT-STOCK BANK 'MORSKOY'",
-            "SEVASTOPOL",
-            "MORKUAUK"
-        ],
-        [
-            "68",
-            "JOINT-STOCK COMPANY 'EXPOBANK'",
-            "KIEV",
-            "EXPOUAUX"
-        ],
-        [
-            "69",
-            "JSB 'CLEARING HOUSE'",
-            "KIEV",
-            "CLHSUAUX"
-        ],
-        [
-            "70",
-            "JSB 'PORTO-FRANCO'",
-            "ODESA",
-            "POFCUA2D"
-        ],
-        [
-            "71",
-            "JSB'COMMERCIAL INDUSTRIAL BANK'",
-            "KIEV",
-            "CIBFUAUK"
-        ],
-        [
-            "72",
-            "JSC 'BANK 'FINANCE AND CREDIT'",
-            "KIEV",
-            "FBACUAUX"
-        ],
-        [
-            "73",
-            "JSC 'COMINVESTBANK' (FORMERLY KOOPINVESTBANK LTD COMMERCIAL BANK)",
-            "UZHHOROD",
-            "KOOPUAUX"
-        ],
-        [
-            "74",
-            "JSC 'FINROSTBANK'",
-            "ODESSA",
-            "JFRBUA2D"
-        ],
-        [
-            "75",
-            "JSC KREDOBANK (FORMERLY JSC KREDYT BANK(UKRAINA))",
-            "LVIV",
-            "WUCBUA2X"
-        ],
-        [
-            "76",
-            "JSC SETTLEMENT CENTER",
-            "KIEV",
-            "IRSUUAUK"
-        ],
-        [
-            "77",
-            "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
-            "CHERKASY",
-            "(CHERKASY BRANCH)",
-            "EXBSUAUXCHK"
-        ],
-        [
-            "78",
-            "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
-            "CHERNIHIV",
-            "(CHERNIGIV BRANCH)",
-            "EXBSUAUXCHH"
-        ],
-        [
-            "79",
-            "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
-            "CHERNIVTSI",
-            "(CHERNIVTSI BRANCH)",
-            "EXBSUAUXCHV"
-        ],
-        [
-            "80",
-            "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
-            "DNIPROPETROVSK",
-            "(DNIPROPETROVSK BRANCH)",
-            "EXBSUAUXDNI"
-        ],
-        [
-            "81",
-            "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
-            "DONETSK",
-            "(DONETSK BRANCH)",
-            "EXBSUAUXDON"
-        ],
-        [
-            "82",
-            "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
-            "IVANO-FRANKIVSK",
-            "(IVANO-FRANKIVSK BRANCH)",
-            "EXBSUAUXIVF"
-        ],
-        [
-            "83",
-            "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
-            "IZMAIL",
-            "(IZMAIL BRANCH)",
-            "EXBSUAUXIZM"
-        ],
-        [
-            "84",
-            "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
-            "KHARKIV",
-            "(KHARKIV BRANCH)",
-            "EXBSUAUXKHA"
-        ],
-        [
-            "85",
-            "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
-            "KHERSON",
-            "(KHERSON BRANCH)",
-            "EXBSUAUXKHE"
-        ],
-        [
-            "86",
-            "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
-            "KHMELNYTSKY",
-            "(KHMELNYTSKY BRANCH)",
-            "EXBSUAUXKHM"
-        ],
-        [
-            "87",
-            "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
-            "KIEV",
-            "(KYIV BRANCH)",
-            "EXBSUAUXKIV"
-        ],
-        [
-            "88",
-            "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
-            "KIEV",
-            "EXBSUAUX"
-        ],
-        [
-            "89",
-            "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
-            "KIROVOHRAD",
-            "(KIROVOGRAD BRANCH)",
-            "EXBSUAUXKIR"
-        ],
-        [
-            "90",
-            "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
-            "KRYVY RIH",
-            "(KRYVY RIH BRANCH)",
-            "EXBSUAUXKRH"
-        ],
-        [
-            "91",
-            "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
-            "LUHANSK",
-            "(LUGANSK BRANCH)",
-            "EXBSUAUXLUH"
-        ],
-        [
-            "92",
-            "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
-            "LUTSK",
-            "(LUTSK BRANCH)",
-            "EXBSUAUXLUT"
-        ],
-        [
-            "93",
-            "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
-            "LVIV",
-            "(LVIV BRANCH)",
-            "EXBSUAUXLVI"
-        ],
-        [
-            "94",
-            "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
-            "MARIUPOL",
-            "(MARIUPOL BRANCH)",
-            "EXBSUAUXMAR"
-        ],
-        [
-            "95",
-            "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
-            "MYKOLAIV",
-            "(MYKOLAIV BRANCH)",
-            "EXBSUAUXMYK"
-        ],
-        [
-            "96",
-            "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
-            "ODESA",
-            "(ODESA BRANCH)",
-            "EXBSUAUXODE"
-        ],
-        [
-            "97",
-            "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
-            "POLTAVA",
-            "(POLTAVA BRANCH)",
-            "EXBSUAUXPOL"
-        ],
-        [
-            "98",
-            "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
-            "RIVNE",
-            "(RIVNE BRANCH)",
-            "EXBSUAUXRIV"
-        ],
-        [
-            "99",
-            "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
-            "SEVASTOPOL",
-            "(SEVASTOPOL BRANCH)",
-            "EXBSUAUXSEV"
-        ],
-        [
-            "100",
-            "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
-            "SUMY",
-            "(SUMY BRANCH)",
-            "EXBSUAUXSUM"
-        ],
-        [
-            "101",
-            "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
-            "TERNOPIL",
-            "(TERNOPIL BRANCH)",
-            "EXBSUAUXTER"
-        ],
-        [
-            "102",
-            "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
-            "UZHHOROD",
-            "(UZHGOROD BRANCH)",
-            "EXBSUAUXUZH"
-        ],
-        [
-            "103",
-            "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
-            "VINNYTSIA",
-            "(VINNITSA BRANCH)",
-            "EXBSUAUXVIN"
-        ],
-        [
-            "104",
-            "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
-            "ZAPORIZHZHYA",
-            "(ZAPORIZHIA BRANCH)",
-            "EXBSUAUXZAP"
-        ],
-        [
-            "105",
-            "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
-            "ZHYTOMYR",
-            "(ZHYTOMYR BRANCH)",
-            "EXBSUAUXZHY"
-        ],
-        [
-            "106",
-            "KHRESCHATYK COMMERCIAL BANK",
-            "KIEV",
-            "KHRCUAUK"
-        ],
-        [
-            "107",
-            "KREDITPROMBANK (PUBLIC JOINT STOCK COMPANY)",
-            "KIEV",
-            "KPRBUAUK"
-        ],
-        [
-            "108",
-            "KSG BANK JOIN-STOCK COMPANY",
-            "KIEV",
-            "DONCUA2X"
-        ],
-        [
-            "109",
-            "LVIV BANK",
-            "LVIV",
-            "LVIVUA2X"
-        ],
-        [
-            "110",
-            "MARFIN BANK",
-            "ILICHEVSK",
-            "(ILICHEVSK BRANCH)",
-            "MTBAUA2DILK"
-        ],
-        [
-            "111",
-            "MARFIN BANK",
-            "ODESA",
-            "(ODESA CENTRAL BRANCH)",
-            "MTBAUA2DODE"
-        ],
-        [
-            "112",
-            "MARFIN BANK",
-            "ODESA",
-            "MTBAUA2D"
-        ],
-        [
-            "113",
-            "MARFIN BANK",
-            "SIMFEROPOL",
-            "(SIMFEROPOL BRANCH)",
-            "MTBAUA2DSYM"
-        ],
-        [
-            "114",
-            "MEGABANK PJSC",
-            "CHERKASY",
-            "DBBKUA2KCHK"
-        ],
-        [
-            "115",
-            "MEGABANK PJSC",
-            "CHERNIHIV",
-            "DBBKUA2KCHE"
-        ],
-        [
-            "116",
-            "MEGABANK PJSC",
-            "DONETSK",
-            "DBBKUA2KDON"
-        ],
-        [
-            "117",
-            "MEGABANK PJSC",
-            "KHARKIV",
-            "DBBKUA2K"
-        ],
-        [
-            "118",
-            "MEGABANK PJSC",
-            "KHERSON",
-            "DBBKUA2KKHE"
-        ],
-        [
-            "119",
-            "MEGABANK PJSC",
-            "KIEV",
-            "DBBKUA2KKIE"
-        ],
-        [
-            "120",
-            "MEGABANK PJSC",
-            "KIROVOHRAD",
-            "DBBKUA2KKIR"
-        ],
-        [
-            "121",
-            "MEGABANK PJSC",
-            "LVIV",
-            "DBBKUA2KLVI"
-        ],
-        [
-            "122",
-            "MEGABANK PJSC",
-            "MYKOLAIV",
-            "DBBKUA2KMYK"
-        ],
-        [
-            "123",
-            "MEGABANK PJSC",
-            "POLTAVA",
-            "DBBKUA2KPOL"
-        ],
-        [
-            "124",
-            "MEGABANK PJSC",
-            "VINNYTSIA",
-            "DBBKUA2KVIN"
-        ],
-        [
-            "125",
-            "MEGABANK PJSC",
-            "ZHYTOMYR",
-            "DBBKUA2KZHY"
-        ],
-        [
-            "126",
-            "MISTO BANK",
-            "ODESA",
-            "MIBKUA2D"
-        ],
-        [
-            "127",
-            "NADRA BANK",
-            "KIEV",
-            "NADRUAUX"
-        ],
-        [
-            "128",
-            "NATIONAL BANK OF UKRAINE",
-            "KIEV",
-            "NBUAUAUX"
-        ],
-        [
-            "129",
-            "NATIONAL DEPOSITORY OF UKRAINE",
-            "KIEV",
-            "NADUUAUK"
-        ],
-        [
-            "130",
-            "NATIONAL INVESTMENTS JOINT STOCK BANK",
-            "KIEV",
-            "JSBNUAUK"
-        ],
-        [
-            "131",
-            "NEOS BANK",
-            "KIEV",
-            "AVTOUA22"
-        ],
-        [
-            "132",
-            "OKCI BANK",
-            "LVIV",
-            "OKCIUA2X"
-        ],
-        [
-            "133",
-            "OPEN JOINT STOCK COMPANY COMMERCIAL BANK'STANDART'",
-            "KIEV",
-            "STRTUAUK"
-        ],
-        [
-            "134",
-            "PETROCOMMERCE-UKRAINE BANK JSC",
-            "KIEV",
-            "PECOUAUK"
-        ],
-        [
-            "135",
-            "PIRAEUS BANK ICB, JSC",
-            "KIEV",
-            "ICBIUAUK"
-        ],
-        [
-            "136",
-            "PIVDENCOMBANK",
-            "DONETSK",
-            "PCBDUA2X"
-        ],
-        [
-            "137",
-            "PJSC AKTABANK",
-            "DNIPROPETROVSK",
-            "AKTAUA2N"
-        ],
-        [
-            "138",
-            "PJSC ALFA-BANK",
-            "KIEV",
-            "ALFAUAUK"
-        ],
-        [
-            "139",
-            "PJSC 'ALPARI BANK'",
-            "KIEV",
-            "ALPAUAUK"
-        ],
-        [
-            "140",
-            "PJSC BANK AVANGARD",
-            "KIEV",
-            "AVGDUAUK"
-        ],
-        [
-            "141",
-            "PJSC 'BANK CREDIT DNEPR'",
-            "DNIPROPETROVSK",
-            "CRDEUA2N"
-        ],
-        [
-            "142",
-            "PJSC BANK FORWARD",
-            "KIEV",
-            "BRSUUAUK"
-        ],
-        [
-            "143",
-            "PJSC BANK KYIVSKA RUS",
-            "KIEV",
-            "KVSKUAUK"
-        ],
-        [
-            "144",
-            "PJSC BANK TRUST",
-            "KIEV",
-            "REUSUAUK"
-        ],
-        [
-            "145",
-            "PJSC 'BANK VOSTOK'",
-            "DNIPROPETROVSK",
-            "ACJCUA2N"
-        ],
-        [
-            "146",
-            "PJSC BG BANK",
-            "KIEV",
-            "UDPOUAUK"
-        ],
-        [
-            "147",
-            "PJSC BTA BANK",
-            "KIEV",
-            "UCTBUAUK"
-        ],
-        [
-            "148",
-            "PJSC CB 'ACTIVE-BANK'",
-            "KIEV",
-            "ALOMUAUK"
-        ],
-        [
-            "149",
-            "PJSC 'CB 'FINANCIAL PARTNER'",
-            "KIEV",
-            "FNPRUAUK"
-        ],
-        [
-            "150",
-            "PJSC 'CB 'UFW'",
-            "DONETSK",
-            "UFWLUA2X"
-        ],
-        [
-            "151",
-            "PJSC 'CITIBANK'",
-            "KIEV",
-            "CITIUAUK"
-        ],
-        [
-            "152",
-            "PJSC CREDITWEST BANK",
-            "KIEV",
-            "CREWUAUK"
-        ],
-        [
-            "153",
-            "PJSC DEUTSCHE BANK DBU",
-            "KIEV",
-            "DEUTUAUK"
-        ],
-        [
-            "154",
-            "PJSC 'EUROINDUSTRIBANK'",
-            "DONETSK",
-            "EUOMUA2X"
-        ],
-        [
-            "155",
-            "PJSC 'EXPRESS-BANK'",
-            "DONETSK",
-            "(DONETSK BRANCH)",
-            "EXPBUAUKDON"
-        ],
-        [
-            "156",
-            "PJSC 'EXPRESS-BANK'",
-            "KHARKIV",
-            "(KHARKIV BRANCH)",
-            "EXPBUAUKKHA"
-        ],
-        [
-            "157",
-            "PJSC 'EXPRESS-BANK'",
-            "KIEV",
-            "EXPBUAUK"
-        ],
-        [
-            "158",
-            "PJSC 'EXPRESS-BANK'",
-            "KONOTOP",
-            "(KONOTOP BRANCH)",
-            "EXPBUAUKKON"
-        ],
-        [
-            "159",
-            "PJSC 'EXPRESS-BANK'",
-            "LVIV",
-            "(LVIV BRANCH)",
-            "EXPBUAUKLVI"
-        ],
-        [
-            "160",
-            "PJSC 'EXPRESS-BANK'",
-            "ODESA",
-            "(ODESA BRANCH)",
-            "EXPBUAUKODE"
-        ],
-        [
-            "161",
-            "PJSC 'EXPRESS-BANK'",
-            "SIMFEROPOL",
-            "(SIMFEROPOL BRANCH)",
-            "EXPBUAUKSIM"
-        ],
-        [
-            "162",
-            "PJSC 'FINANCE BANK'",
-            "KIEV",
-            "FINBUAUK"
-        ],
-        [
-            "163",
-            "PJSC IDEA BANK",
-            "LVIV",
-            "IDBAUAUK"
-        ],
-        [
-            "164",
-            "PJSC JSC BANK TRUST-CAPITAL",
-            "KIEV",
-            "TCBNUAUK"
-        ],
-        [
-            "165",
-            "PJSC 'MOTOR-BANK'",
-            "ZAPORIZHZHYA",
-            "MOOJUA2Z"
-        ],
-        [
-            "166",
-            "PJSC OMEGA BANK (FORMELY SWEDBANK, UA)",
-            "KIEV",
-            "KPRVUAUK"
-        ],
-        [
-            "167",
-            "PJSC 'RADICAL BANK'",
-            "PETROPAVLIVSKA BORSCHAGIVKA",
-            "RADLUA2P"
-        ],
-        [
-            "168",
-            "PJSC SEB CORPORATE BANK",
-            "KIEV",
-            "ESSEUAUK"
-        ],
-        [
-            "169",
-            "PJSC 'SMARTBANK'",
-            "KIEV",
-            "BRTSUAUK"
-        ],
-        [
-            "170",
-            "PJSC UKRAINIAN CONSTRUCTION INVESTMENT BANK",
-            "KYIV",
-            "UCIBUAUK"
-        ],
-        [
-            "171",
-            "PJSC UNICOMBANK",
-            "KIEV",
-            "PERAUA2X"
-        ],
-        [
-            "172",
-            "PJSC VECTOR BANK",
-            "KYIV",
-            "VCTRUAUK"
-        ],
-        [
-            "173",
-            "PJSC VS BANK",
-            "LVIV",
-            "ELECUA2X"
-        ],
-        [
-            "174",
-            "PJSC 'VTB BANK'",
-            "KIEV",
-            "VTBRUAUK"
-        ],
-        [
-            "175",
-            "POLICOMBANK JSCB",
-            "CHERNIHIV",
-            "PLICUA22"
-        ],
-        [
-            "176",
-            "POLTAVA-BANK POLTAVA JOINT STOCK BANK",
-            "POLTAVA",
-            "POLTUA2X"
-        ],
-        [
-            "177",
-            "PREMIUM BANK",
-            "KIEV",
-            "PREIUAUK"
-        ],
-        [
-            "178",
-            "PRIME-BANK",
-            "KIEV",
-            "PRMBUAUK"
-        ],
-        [
-            "179",
-            "PRIVATBANK",
-            "ARTEMOVSK",
-            "(BRANCH 1)",
-            "PBANUA2XGA1"
-        ],
-        [
-            "180",
-            "PRIVATBANK",
-            "ARTEMOVSK",
-            "(BRANCH 2)",
-            "PBANUA2XGA2"
-        ],
-        [
-            "181",
-            "PRIVATBANK",
-            "CHERKASY",
-            "PBANUA2XCHK"
-        ],
-        [
-            "182",
-            "PRIVATBANK",
-            "CHERNIHIV",
-            "(CHERNIHIV REGIONAL BRANCH)",
-            "PBANUA2XCHR"
-        ],
-        [
-            "183",
-            "PRIVATBANK",
-            "CHERNIVTSI",
-            "(CHERNIVTSI BRANCH)",
-            "PBANUA2XCVF"
-        ],
-        [
-            "184",
-            "PRIVATBANK",
-            "CHERVONOGRAD",
-            "(CHERVONOGRAD BRANCH)",
-            "PBANUA2XCGF"
-        ],
-        [
-            "185",
-            "PRIVATBANK",
-            "DNIPRODZERJINSK",
-            "(DNIPRODZERJINSK BRANCH)",
-            "PBANUA2XDZF"
-        ],
-        [
-            "186",
-            "PRIVATBANK",
-            "DNIPROPETROVSK",
-            "PBANUA2X"
-        ],
-        [
-            "187",
-            "PRIVATBANK",
-            "DONETSK",
-            "PBANUA2XDON"
-        ],
-        [
-            "188",
-            "PRIVATBANK",
-            "EVPATORIA",
-            "(EVPATORIA BRANCH)",
-            "PBANUA2XEVF"
-        ],
-        [
-            "189",
-            "PRIVATBANK",
-            "FEODOSIYA",
-            "(FEODOSIYA BRANCH)",
-            "PBANUA2XFEF"
-        ],
-        [
-            "190",
-            "PRIVATBANK",
-            "GORLOVKA CITY",
-            "(CENTRAL BRANCH)",
-            "PBANUA2XGR1"
-        ],
-        [
-            "191",
-            "PRIVATBANK",
-            "GORLOVKA CITY",
-            "(GORLOVKA MAIN BRANCH)",
-            "PBANUA2XGRL"
-        ],
-        [
-            "192",
-            "PRIVATBANK",
-            "IVANO-FRANKIVSK",
-            "(IVANO-FRANKIVSK BRANCH)",
-            "PBANUA2XIFF"
-        ],
-        [
-            "193",
-            "PRIVATBANK",
-            "KERCH",
-            "(KERCH BRANCH)",
-            "PBANUA2XKHF"
-        ],
-        [
-            "194",
-            "PRIVATBANK",
-            "KHARKIV",
-            "(KHARKIV BRANCH)",
-            "PBANUA2XHAF"
-        ],
-        [
-            "195",
-            "PRIVATBANK",
-            "KHARTSIZSK",
-            "PBANUA2XGKH"
-        ],
-        [
-            "196",
-            "PRIVATBANK",
-            "KHERSON",
-            "PBANUA2XHRN"
-        ],
-        [
-            "197",
-            "PRIVATBANK",
-            "KHMELNYTSKY",
-            "(KHMELNYTSKY BRANCH)",
-            "PBANUA2XHMF"
-        ],
-        [
-            "198",
-            "PRIVATBANK",
-            "KIEV",
-            "(BRANCH NO 1)",
-            "PBANUA2XKIE"
-        ],
-        [
-            "199",
-            "PRIVATBANK",
-            "KIEV",
-            "(PECHERSKY BRANCH (BRANCH NO 3))",
-            "PBANUA2XK3F"
-        ],
-        [
-            "200",
-            "PRIVATBANK",
-            "KIEV",
-            "(RASCHETNY CENTR (BRANCH NO 2))",
-            "PBANUA2XK2F"
-        ],
-        [
-            "201",
-            "PRIVATBANK",
-            "KIROVOHRAD",
-            "(KIROVOHRAD BRANCH)",
-            "PBANUA2XKGF"
-        ],
-        [
-            "202",
-            "PRIVATBANK",
-            "KOVEL",
-            "(KOVEL BRANCH)",
-            "PBANUA2XKOF"
-        ],
-        [
-            "203",
-            "PRIVATBANK",
-            "KRAMATORSK",
-            "(KRAMATORSK BRANCH)",
-            "PBANUA2XKTF"
-        ],
-        [
-            "204",
-            "PRIVATBANK",
-            "KREMENCHUG",
-            "(KREMENCHUG BRANCH)",
-            "PBANUA2XKMF"
-        ],
-        [
-            "205",
-            "PRIVATBANK",
-            "KRYVY RIH",
-            "PBANUA2XKRI"
-        ],
-        [
-            "206",
-            "PRIVATBANK",
-            "LUHANSK",
-            "(LUHANSK BRANCH)",
-            "PBANUA2XLGF"
-        ],
-        [
-            "207",
-            "PRIVATBANK",
-            "LUTSK",
-            "PBANUA2XLUT"
-        ],
-        [
-            "208",
-            "PRIVATBANK",
-            "LVIV",
-            "PBANUA2XLVI"
-        ],
-        [
-            "209",
-            "PRIVATBANK",
-            "MARIUPOL",
-            "(MARIUPOL BRANCH)",
-            "PBANUA2XMRF"
-        ],
-        [
-            "210",
-            "PRIVATBANK",
-            "MUKACHEVO",
-            "(ZAKARPATIAN REGIONAL BRANCH)",
-            "PBANUA2XMKR"
-        ],
-        [
-            "211",
-            "PRIVATBANK",
-            "MYKOLAIV",
-            "PBANUA2XMYK"
-        ],
-        [
-            "212",
-            "PRIVATBANK",
-            "NIKOPOL",
-            "(NIKOPOL BRANCH)",
-            "PBANUA2XNIF"
-        ],
-        [
-            "213",
-            "PRIVATBANK",
-            "NOVOVOLINSK",
-            "(NOVOVOLINSK BRANCH)",
-            "PBANUA2XNVF"
-        ],
-        [
-            "214",
-            "PRIVATBANK",
-            "ODESA",
-            "(ODESA BRANCH)",
-            "PBANUA2XODF"
-        ],
-        [
-            "215",
-            "PRIVATBANK",
-            "PAVLOGRAD",
-            "PBANUA2XPAV"
-        ],
-        [
-            "216",
-            "PRIVATBANK",
-            "POLTAVA",
-            "PBANUA2XPOL"
-        ],
-        [
-            "217",
-            "PRIVATBANK",
-            "RIVNE",
-            "PBANUA2XRIV"
-        ],
-        [
-            "218",
-            "PRIVATBANK",
-            "SEVASTOPOL",
-            "PBANUA2XSEV"
-        ],
-        [
-            "219",
-            "PRIVATBANK",
-            "SIMFEROPOL",
-            "(CRIMEAN REGIONAL BRANCH)",
-            "PBANUA2XSIR"
-        ],
-        [
-            "220",
-            "PRIVATBANK",
-            "STARA VIZHVA",
-            "PBANUA2XVIZ"
-        ],
-        [
-            "221",
-            "PRIVATBANK",
-            "SUMY",
-            "(SUMY BRANCH)",
-            "PBANUA2XSUF"
-        ],
-        [
-            "222",
-            "PRIVATBANK",
-            "TERNOPIL",
-            "(TERNOPIL BRANCH)",
-            "PBANUA2XTEF"
-        ],
-        [
-            "223",
-            "PRIVATBANK",
-            "VINNYTSIA",
-            "(VINNITSIA BRANCH)",
-            "PBANUA2XVIF"
-        ],
-        [
-            "224",
-            "PRIVATBANK",
-            "YALTA",
-            "(YALTA BRANCH)",
-            "PBANUA2XYLF"
-        ],
-        [
-            "225",
-            "PRIVATBANK",
-            "ZAPOROZHYE",
-            "PBANUA2XZAP"
-        ],
-        [
-            "226",
-            "PRIVATBANK",
-            "ZHOVTI VODY",
-            "PBANUA2XZHO"
-        ],
-        [
-            "227",
-            "PRIVATBANK",
-            "ZHYTOMYR",
-            "(ZHYTOMYR BRANCH)",
-            "PBANUA2XZHF"
-        ],
-        [
-            "228",
-            "PRIVATBANK",
-            "ZHYTOMYR",
-            "(ZHYTOMYR REGIONAL BRANCH)",
-            "PBANUA2XZRR"
-        ],
-        [
-            "229",
-            "PROCREDIT BANK, PUBLIC JOINT STOCK COMPANY",
-            "KIEV",
-            "MIFCUAUK"
-        ],
-        [
-            "230",
-            "PROFIN BANK, PJSC",
-            "DONETSK",
-            "PFBAUA2X"
-        ],
-        [
-            "231",
-            "PROMINVESTBANK",
-            "KIEV",
-            "(THIRD PARTY STATEMENTS)",
-            "UPIBUAUXKIE"
-        ],
-        [
-            "232",
-            "PROMINVESTBANK",
-            "KIEV",
-            "UPIBUAUX"
-        ],
-        [
-            "233",
-            "PUBLIC JOIN-STOCK COMPANY 'BANK 'SOFIYSKIY'",
-            "KIEV",
-            "SFBNUAUK"
-        ],
-        [
-            "234",
-            "PUBLIC JOINT STOCK COMPANY BANK ALLIANCE",
-            "KIEV",
-            "ALJSUAUK"
-        ],
-        [
-            "235",
-            "PUBLIC JOINT STOCK COMPANY 'BANK FAMILNY'",
-            "KIEV",
-            "DOBYUA2T"
-        ],
-        [
-            "236",
-            "PUBLIC JOINT STOCK COMPANY DIAMANTBANK",
-            "KIEV",
-            "DMBAUAUK"
-        ],
-        [
-            "237",
-            "PUBLIC JOINT STOCK COMPANY GREEN BANK",
-            "KIEV",
-            "GRNBUAUK"
-        ],
-        [
-            "238",
-            "PUBLIC JOINT STOCK COMPANY 'INTERCREDITBANK'",
-            "DNIPROPETROVSK",
-            "ICBNUA2N"
-        ],
-        [
-            "239",
-            "PUBLIC JOINT STOCK COMPANY 'JOINT STOCK COMMERCIAL BANK 'NOVIY'",
-            "DNIPROPETROVSK",
-            "NJSOUA2N"
-        ],
-        [
-            "240",
-            "PUBLIC JOINT STOCK COMPANY 'LEGBANK'",
-            "KIEV",
-            "LEGBUAUX"
-        ],
-        [
-            "241",
-            "PUBLIC JOINT STOCK COMPANY 'METABANK'",
-            "ZAPOROZHYE",
-            "MTLGUA2N"
-        ],
-        [
-            "242",
-            "PUBLIC JOINT STOCK COMPANY 'PLATINUM BANK'",
-            "KIEV",
-            "INMCUAUK"
-        ],
-        [
-            "243",
-            "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
-            "CHERKASY",
-            "(CHERKASY REGIONAL BRANCH)",
-            "COSBUAUKCHK"
-        ],
-        [
-            "244",
-            "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
-            "CHERNIHIV",
-            "(CHERNIHIV REGIONAL BRANCH)",
-            "COSBUAUKCHG"
-        ],
-        [
-            "245",
-            "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
-            "CHERNIVTSI",
-            "(CHERNIVTSI REGIONAL BRANCH)",
-            "COSBUAUKCHV"
-        ],
-        [
-            "246",
-            "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
-            "DNIPROPETROVSK",
-            "(DNIPROPETROVSK REGIONAL BRANCH)",
-            "COSBUAUKDNI"
-        ],
-        [
-            "247",
-            "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
-            "DONETSK",
-            "(DONETSK REGIONAL BRANCH)",
-            "COSBUAUKDON"
-        ],
-        [
-            "248",
-            "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
-            "IVANO-FRANKIVSK",
-            "(IVANO-FRANKIVSK REGIONAL BRANCH)",
-            "COSBUAUKIVF"
-        ],
-        [
-            "249",
-            "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
-            "KHARKIV",
-            "(KHARKIV REGIONAL BRANCH)",
-            "COSBUAUKKHA"
-        ],
-        [
-            "250",
-            "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
-            "KHERSON",
-            "(KHERSON REGIONAL BRANCH)",
-            "COSBUAUKKHE"
-        ],
-        [
-            "251",
-            "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
-            "KHMELNYTSKY",
-            "(KHMELNYTSKY REGIONAL BRANCH)",
-            "COSBUAUKKHM"
-        ],
-        [
-            "252",
-            "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
-            "KIEV",
-            "(KYIV REGIONAL BRANCH)",
-            "COSBUAUKKIE"
-        ],
-        [
-            "253",
-            "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
-            "KIEV",
-            "COSBUAUK"
-        ],
-        [
-            "254",
-            "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
-            "KIROVOHRAD",
-            "(KIROVOHRAD REGIONAL BRANCH)",
-            "COSBUAUKKIR"
-        ],
-        [
-            "255",
-            "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
-            "LUHANSK",
-            "(LUHANSK REGIONAL BRANCH)",
-            "COSBUAUKLUH"
-        ],
-        [
-            "256",
-            "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
-            "LUTSK",
-            "(VOLYN REGIONAL BRANCH)",
-            "COSBUAUKVOL"
-        ],
-        [
-            "257",
-            "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
-            "LVIV",
-            "(LVIV REGIONAL BRANCH)",
-            "COSBUAUKLVI"
-        ],
-        [
-            "258",
-            "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
-            "MYKOLAIV",
-            "(MYKOLAIV REGIONAL BRANCH)",
-            "COSBUAUKMYK"
-        ],
-        [
-            "259",
-            "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
-            "ODESA",
-            "(ODESA REGIONAL BRANCH)",
-            "COSBUAUKODE"
-        ],
-        [
-            "260",
-            "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
-            "POLTAVA",
-            "(POLTAVA REGIONAL BRANCH)",
-            "COSBUAUKPOL"
-        ],
-        [
-            "261",
-            "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
-            "RIVNE",
-            "(RIVNE REGIONAL BRANCH)",
-            "COSBUAUKRIV"
-        ],
-        [
-            "262",
-            "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
-            "SIMFEROPOL",
-            "(CRIMEA REGIONAL BRANCH)",
-            "COSBUAUKCRI"
-        ],
-        [
-            "263",
-            "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
-            "SUMY",
-            "(SUMY REGIONAL BRANCH)",
-            "COSBUAUKSUM"
-        ],
-        [
-            "264",
-            "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
-            "TERNOPIL",
-            "(TERNOPIL REGIONAL BRANCH)",
-            "COSBUAUKTER"
-        ],
-        [
-            "265",
-            "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
-            "UZHHOROD",
-            "(ZAKARPATTYA REGIONAL BRANCH)",
-            "COSBUAUKZAK"
-        ],
-        [
-            "266",
-            "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
-            "VINNYTSIA",
-            "(VINNITSIA REGIONAL BRANCH)",
-            "COSBUAUKVIN"
-        ],
-        [
-            "267",
-            "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
-            "ZAPOROZHYE",
-            "(ZAPOROZHYE REGIONAL BRANCH)",
-            "COSBUAUKZAP"
-        ],
-        [
-            "268",
-            "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
-            "ZHYTOMYR",
-            "(ZHYTOMYR REGIONAL BRANCH)",
-            "COSBUAUKZHI"
-        ],
-        [
-            "269",
-            "PUBLIC JOINT STOCK COMPANY SUBSIDIARY BANK SBERBANK OF RUSSIA",
-            "KIEV",
-            "SABRUAUK"
-        ],
-        [
-            "270",
-            "PUBLIC JOINT STOCK COMPANY UNEX BANK",
-            "KIEV",
-            "UNJTUAUK"
-        ],
-        [
-            "271",
-            "PUBLIC JOINT STOCK COMPANY 'ZAKHIDINKOMBANK'",
-            "LUTSK",
-            "ZAKIUA22"
-        ],
-        [
-            "272",
-            "PUBLIC JOINT-STOCK COMPANY BANK MIKHAYLIVSKIY",
-            "KYIV",
-            "MIKHUAUK"
-        ],
-        [
-            "273",
-            "PUBLIC JOINT-STOCK COMPANY 'BANK' 'UNISON'",
-            "KIEV",
-            "UNSBUAUK"
-        ],
-        [
-            "274",
-            "PUBLIC JOINT-STOCK COMPANY 'COMMERCIAL BANK 'AXIOM'",
-            "DNIPROPETROVSK",
-            "AXBNUA2N"
-        ],
-        [
-            "275",
-            "PUBLIC JOINT-STOCK COMPANY COMMERCIAL BANK 'PRAVEX-BANK'",
-            "KIEV",
-            "PRAVUAUK"
-        ],
-        [
-            "276",
-            "PUBLIC JOINT-STOCK COMPANY 'MELIOR BANK'",
-            "DNIPROPETROVSK",
-            "MLRBUA22"
-        ],
-        [
-            "277",
-            "PUBLIC JOINT-STOCK COMPANY OTP BANK",
-            "KIEV",
-            "OTPVUAUK"
-        ],
-        [
-            "278",
-            "PUBLIC JOINT-STOCK COMPANY UKRAINIAN PROFESSIONAL BANK",
-            "KIEV",
-            "UKPBUAUK"
-        ],
-        [
-            "279",
-            "PUBLIC JOINT-STOCK COMPANY UNION STANDARD BANK",
-            "ODESA",
-            "FSBUUA2N"
-        ],
-        [
-            "280",
-            "PUBLIC JOINT-STOCK COMPANY VERNUM BANK",
-            "KIEV",
-            "VERNUAUK"
-        ],
-        [
-            "281",
-            "REGION BANK, JOINT STOCK COMMERCIAL REGIONAL BANK",
-            "KHARKIV",
-            "REGBUA2K"
-        ],
-        [
-            "282",
-            "RENAISSANCE CAPITAL BANK",
-            "KIEV",
-            "RECLUAUK"
-        ],
-        [
-            "283",
-            "RODOVID BANK",
-            "KIEV",
-            "PERCUAUX"
-        ],
-        [
-            "284",
-            "TASCOMBANK JSC (FORMERLY BANK BUSINESS STANDARD)",
-            "KIEV",
-            "MUNIUA22"
-        ],
-        [
-            "285",
-            "TERRA BANK",
-            "KIEV",
-            "TRBCUAUK"
-        ],
-        [
-            "286",
-            "TF BANK KONTRAKT INC",
-            "KIEV",
-            "ANTAUAUK"
-        ],
-        [
-            "287",
-            "UKRAINIAN BANK OF DEVELOPMENT PJSC",
-            "KIEV",
-            "VBRBUAUK"
-        ],
-        [
-            "288",
-            "UKRAINIAN BANK OF RECONSTRUCTION AND DEVELOPMENT",
-            "KIEV",
-            "UKRDUAUK"
-        ],
-        [
-            "289",
-            "UKRAINIAN BUSINESS BANK JOINT STOCK BANK",
-            "DONETSK",
-            "DJSBUA2X"
-        ],
-        [
-            "290",
-            "UKRAINIAN CAPITAL BANK",
-            "KIEV",
-            "UKCAUAUK"
-        ],
-        [
-            "291",
-            "UKRAINSKIY KOMUNALNIY BANK, JSB",
-            "LUHANSK",
-            "UKMBUA22"
-        ],
-        [
-            "292",
-            "UKRGASBANK JSB",
-            "KIEV",
-            "UGASUAUK"
-        ],
-        [
-            "293",
-            "UKRINBANK",
-            "KIEV",
-            "UKRBUAUX"
-        ],
-        [
-            "294",
-            "UKRSIBBANK",
-            "KHARKIV",
-            "KHABUA2K"
-        ],
-        [
-            "295",
-            "UKRSOTSBANK",
-            "KIEV",
-            "UKRSUAUX"
-        ],
-        [
-            "296",
-            "UNION",
-            "KIEV",
-            "SOUZUAUK"
-        ],
-        [
-            "297",
-            "UNIVERSAL BANK OJSC",
-            "KIEV",
-            "UNJSUAUK"
-        ],
-        [
-            "298",
-            "VAB BANK",
-            "KIEV",
-            "VABAUAUK"
-        ],
-        [
-            "299",
-            "ZLATOBANK",
-            "KIEV",
-            "ZLTTUAUK"
-        ]
+        {
+            "id": "1",
+            "bank": "ACCORDBANK COMMERCIAL BANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "ACDCUAUK"
+        },
+        {
+            "id": "2",
+            "bank": "AGRARIAN COMMERCIAL BANK OJSC",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "AGCBUAUK"
+        },
+        {
+            "id": "3",
+            "bank": "APEKS-BANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "APKSUAUK"
+        },
+        {
+            "id": "4",
+            "bank": "ARCADA JSCB",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "ARJSUAUK"
+        },
+        {
+            "id": "5",
+            "bank": "ARTEM-BANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "ARTLUAUK"
+        },
+        {
+            "id": "6",
+            "bank": "ASTRABANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "ASTRUAUK"
+        },
+        {
+            "id": "7",
+            "bank": "AVANT-BANK PJSC",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "AVSCUAUK"
+        },
+        {
+            "id": "8",
+            "bank": "BANK 3\/4",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "BKVKUAUK"
+        },
+        {
+            "id": "9",
+            "bank": "BANK CAMBIO PJSC",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "CAULUAUK"
+        },
+        {
+            "id": "10",
+            "bank": "BANK FOR INVESTMENTS AND SAVINGS",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "BFISUAUK"
+        },
+        {
+            "id": "11",
+            "bank": "BANK KYIV JS",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "JKIEUAUK"
+        },
+        {
+            "id": "12",
+            "bank": "BANK NATIONAL CREDIT, PUBLIC JOINT-STOCK COMPANY",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "NCRBUAUK"
+        },
+        {
+            "id": "13",
+            "bank": "BANK PIVDENNYI",
+            "city": "ODESA",
+            "branch": null,
+            "swift_code": "PIVDUA22"
+        },
+        {
+            "id": "14",
+            "bank": "BANK SICH",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "SICHUAUK"
+        },
+        {
+            "id": "15",
+            "bank": "BANK VELES JSC",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "VELSUAUK"
+        },
+        {
+            "id": "16",
+            "bank": "BM BANK, PJSC",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "BMLTUAUK"
+        },
+        {
+            "id": "17",
+            "bank": "BOHUSLAV BANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "BOHUUAUK"
+        },
+        {
+            "id": "18",
+            "bank": "CAPITAL PJSC JSC CB",
+            "city": "DONETSK",
+            "branch": null,
+            "swift_code": "CAPOUA2X"
+        },
+        {
+            "id": "19",
+            "bank": "CB 'FINANCIAL INITIATIVE' LLC",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "CBFNUAUK"
+        },
+        {
+            "id": "20",
+            "bank": "CENTER COMMERCIAL BANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "CENTUAUK"
+        },
+        {
+            "id": "21",
+            "bank": "CHERNOMORSKIY BANK OF DEVELOPMENT AND RECONSTRUCTION",
+            "city": "SIMFEROPOL",
+            "branch": null,
+            "swift_code": "CHRRUA22"
+        },
+        {
+            "id": "22",
+            "bank": "CITY COMMERCE BANK, PJSC",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "PATKUAUK"
+        },
+        {
+            "id": "23",
+            "bank": "CLASSICBANK",
+            "city": "DNIPROPETROVSK",
+            "branch": null,
+            "swift_code": "CLBKUA2N"
+        },
+        {
+            "id": "24",
+            "bank": "CREDIT AGRICOLE BANK PJSC",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "AGRIUAUK"
+        },
+        {
+            "id": "25",
+            "bank": "CREDIT AGRICOLE BANK PJSC",
+            "city": "KYIV",
+            "branch": "(CIB BRANCH)",
+            "swift_code": "AGRIUAUKCIB"
+        },
+        {
+            "id": "26",
+            "bank": "CREDIT EUROPE BANK PJSC",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "FBHLUAUK"
+        },
+        {
+            "id": "27",
+            "bank": "DELTABANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "DELKUAUK"
+        },
+        {
+            "id": "28",
+            "bank": "DEMARK BANK JS",
+            "city": "CHERNIHIV",
+            "branch": null,
+            "swift_code": "DEMKUA22"
+        },
+        {
+            "id": "29",
+            "bank": "DV BANK PJSC",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "DVBKUAUK"
+        },
+        {
+            "id": "30",
+            "bank": "ENERGOBANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "ENERUAUX"
+        },
+        {
+            "id": "31",
+            "bank": "EUROBANK PJSC CB",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "EUBNUAUK"
+        },
+        {
+            "id": "32",
+            "bank": "FIDOBANK (FORMERLY SEB BANK)",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "FDBKUAUX"
+        },
+        {
+            "id": "33",
+            "bank": "FINBANK",
+            "city": "ODESA",
+            "branch": null,
+            "swift_code": "FNBKUA22"
+        },
+        {
+            "id": "34",
+            "bank": "FINEXBANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "FINXUAUK"
+        },
+        {
+            "id": "35",
+            "bank": "FIRST INVESTMENT BANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "FIBXUAUK"
+        },
+        {
+            "id": "36",
+            "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+            "city": "DNIPROPETROVSK",
+            "branch": "(COMMERCIAL BRANCH)",
+            "swift_code": "FUIBUA2XDNI"
+        },
+        {
+            "id": "37",
+            "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+            "city": "DONETSK",
+            "branch": "(COMMERCIAL BRANCH)",
+            "swift_code": "FUIBUA2XDON"
+        },
+        {
+            "id": "38",
+            "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+            "city": "DONETSK",
+            "branch": "(HEAD OFFICE)",
+            "swift_code": "FUIBUA2X"
+        },
+        {
+            "id": "39",
+            "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+            "city": "GORLOVKA CITY",
+            "branch": "(COMMERCIAL BRANCH)",
+            "swift_code": "FUIBUA2XGRV"
+        },
+        {
+            "id": "40",
+            "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+            "city": "KHARKIV",
+            "branch": "(COMMERCIAL BRANCH)",
+            "swift_code": "FUIBUA2XKHA"
+        },
+        {
+            "id": "41",
+            "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+            "city": "KIEV",
+            "branch": "(MAIN COMMERCIAL BRANCH)",
+            "swift_code": "FUIBUA2XKIE"
+        },
+        {
+            "id": "42",
+            "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+            "city": "LUHANSK",
+            "branch": "(COMMERCIAL BRANCH)",
+            "swift_code": "FUIBUA2XLUG"
+        },
+        {
+            "id": "43",
+            "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+            "city": "LVIV",
+            "branch": "(COMMERCIAL BRANCH)",
+            "swift_code": "FUIBUA2XLVO"
+        },
+        {
+            "id": "44",
+            "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+            "city": "MARIUPOL",
+            "branch": "(COMMERCIAL BRANCH)",
+            "swift_code": "FUIBUA2XMPL"
+        },
+        {
+            "id": "45",
+            "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+            "city": "MYKOLAIV",
+            "branch": "(COMMERCIAL BRANCH)",
+            "swift_code": "FUIBUA2XNIC"
+        },
+        {
+            "id": "46",
+            "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+            "city": "ODESA",
+            "branch": "(COMMERCIAL BRANCH)",
+            "swift_code": "FUIBUA2XODE"
+        },
+        {
+            "id": "47",
+            "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+            "city": "SEVASTOPOL",
+            "branch": "(SEVASTOPOL BRANCH)",
+            "swift_code": "FUIBUA2XSEL"
+        },
+        {
+            "id": "48",
+            "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+            "city": "SOLEDAR",
+            "branch": "(COMMERCIAL BRANCH)",
+            "swift_code": "FUIBUA2XSOL"
+        },
+        {
+            "id": "49",
+            "bank": "FIRST UKRAINIAN INTERNATIONAL BANK",
+            "city": "ZAPOROZHYE",
+            "branch": "(ZAPOROZHYE BRANCH)",
+            "swift_code": "FUIBUA2XZAP"
+        },
+        {
+            "id": "50",
+            "bank": "FORTUNA BANK LTD",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "FTNAUAUK"
+        },
+        {
+            "id": "51",
+            "bank": "GLOBUS BANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "GLIBUA22"
+        },
+        {
+            "id": "52",
+            "bank": "GRANT BANK",
+            "city": "KHARKIV",
+            "branch": "(1ST SUBSIDIARY)",
+            "swift_code": "GRBKUA2X011"
+        },
+        {
+            "id": "53",
+            "bank": "GRANT BANK",
+            "city": "KHARKIV",
+            "branch": "(2ND SUBSIDIARY)",
+            "swift_code": "GRBKUA2X012"
+        },
+        {
+            "id": "54",
+            "bank": "GRANT BANK",
+            "city": "KHARKIV",
+            "branch": null,
+            "swift_code": "GRBKUA2X"
+        },
+        {
+            "id": "55",
+            "bank": "GRANT BANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "GRBKUA2XKIE"
+        },
+        {
+            "id": "56",
+            "bank": "IMEXBANK JSCB",
+            "city": "DNIPROPETROVSK",
+            "branch": "(BRANCH IN DNIPROPETROVSK)",
+            "swift_code": "IMEXUA2XDNP"
+        },
+        {
+            "id": "57",
+            "bank": "IMEXBANK JSCB",
+            "city": "KIEV",
+            "branch": "(BRANCH IN KIEV)",
+            "swift_code": "IMEXUA2XKIE"
+        },
+        {
+            "id": "58",
+            "bank": "IMEXBANK JSCB",
+            "city": "MYKOLAIV",
+            "branch": "(BRANCH IN MYKOLAIV)",
+            "swift_code": "IMEXUA2XMYK"
+        },
+        {
+            "id": "59",
+            "bank": "IMEXBANK JSCB",
+            "city": "ODESA",
+            "branch": null,
+            "swift_code": "IMEXUA2X"
+        },
+        {
+            "id": "60",
+            "bank": "IMEXBANK JSCB",
+            "city": "RIVNE",
+            "branch": "(BRANCH IN RIVNE)",
+            "swift_code": "IMEXUA2XRIV"
+        },
+        {
+            "id": "61",
+            "bank": "IMEXBANK JSCB",
+            "city": "ZAPOROZHYE",
+            "branch": "(BRANCH IN ZAPOROZHYE)",
+            "swift_code": "IMEXUA2XZAP"
+        },
+        {
+            "id": "62",
+            "bank": "INDUSTRIAL FINANCIAL BANK",
+            "city": "KREMENCHUG",
+            "branch": null,
+            "swift_code": "INFLUAUK"
+        },
+        {
+            "id": "63",
+            "bank": "ING BANK UKRAINE",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "INGBUAUK"
+        },
+        {
+            "id": "64",
+            "bank": "INTEGRAL JOINT STOCK COMMERCIAL BANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "ITGRUAUK"
+        },
+        {
+            "id": "65",
+            "bank": "INTERNATIONAL INVESTMENT BANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "IINBUAUK"
+        },
+        {
+            "id": "66",
+            "bank": "JOINT STOCK COMPANY 'ACCENT-BANK'",
+            "city": "DNIPROPETROVSK",
+            "branch": null,
+            "swift_code": "UKCBUAUK"
+        },
+        {
+            "id": "67",
+            "bank": "JOINT-STOCK BANK 'MORSKOY'",
+            "city": "SEVASTOPOL",
+            "branch": null,
+            "swift_code": "MORKUAUK"
+        },
+        {
+            "id": "68",
+            "bank": "JOINT-STOCK COMPANY 'EXPOBANK'",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "EXPOUAUX"
+        },
+        {
+            "id": "69",
+            "bank": "JSB 'CLEARING HOUSE'",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "CLHSUAUX"
+        },
+        {
+            "id": "70",
+            "bank": "JSB 'PORTO-FRANCO'",
+            "city": "ODESA",
+            "branch": null,
+            "swift_code": "POFCUA2D"
+        },
+        {
+            "id": "71",
+            "bank": "JSB'COMMERCIAL INDUSTRIAL BANK'",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "CIBFUAUK"
+        },
+        {
+            "id": "72",
+            "bank": "JSC 'BANK 'FINANCE AND CREDIT'",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "FBACUAUX"
+        },
+        {
+            "id": "73",
+            "bank": "JSC 'COMINVESTBANK' (FORMERLY KOOPINVESTBANK LTD COMMERCIAL BANK)",
+            "city": "UZHHOROD",
+            "branch": null,
+            "swift_code": "KOOPUAUX"
+        },
+        {
+            "id": "74",
+            "bank": "JSC 'FINROSTBANK'",
+            "city": "ODESSA",
+            "branch": null,
+            "swift_code": "JFRBUA2D"
+        },
+        {
+            "id": "75",
+            "bank": "JSC KREDOBANK (FORMERLY JSC KREDYT BANK(UKRAINA))",
+            "city": "LVIV",
+            "branch": null,
+            "swift_code": "WUCBUA2X"
+        },
+        {
+            "id": "76",
+            "bank": "JSC SETTLEMENT CENTER",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "IRSUUAUK"
+        },
+        {
+            "id": "77",
+            "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+            "city": "CHERKASY",
+            "branch": "(CHERKASY BRANCH)",
+            "swift_code": "EXBSUAUXCHK"
+        },
+        {
+            "id": "78",
+            "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+            "city": "CHERNIHIV",
+            "branch": "(CHERNIGIV BRANCH)",
+            "swift_code": "EXBSUAUXCHH"
+        },
+        {
+            "id": "79",
+            "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+            "city": "CHERNIVTSI",
+            "branch": "(CHERNIVTSI BRANCH)",
+            "swift_code": "EXBSUAUXCHV"
+        },
+        {
+            "id": "80",
+            "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+            "city": "DNIPROPETROVSK",
+            "branch": "(DNIPROPETROVSK BRANCH)",
+            "swift_code": "EXBSUAUXDNI"
+        },
+        {
+            "id": "81",
+            "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+            "city": "DONETSK",
+            "branch": "(DONETSK BRANCH)",
+            "swift_code": "EXBSUAUXDON"
+        },
+        {
+            "id": "82",
+            "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+            "city": "IVANO-FRANKIVSK",
+            "branch": "(IVANO-FRANKIVSK BRANCH)",
+            "swift_code": "EXBSUAUXIVF"
+        },
+        {
+            "id": "83",
+            "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+            "city": "IZMAIL",
+            "branch": "(IZMAIL BRANCH)",
+            "swift_code": "EXBSUAUXIZM"
+        },
+        {
+            "id": "84",
+            "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+            "city": "KHARKIV",
+            "branch": "(KHARKIV BRANCH)",
+            "swift_code": "EXBSUAUXKHA"
+        },
+        {
+            "id": "85",
+            "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+            "city": "KHERSON",
+            "branch": "(KHERSON BRANCH)",
+            "swift_code": "EXBSUAUXKHE"
+        },
+        {
+            "id": "86",
+            "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+            "city": "KHMELNYTSKY",
+            "branch": "(KHMELNYTSKY BRANCH)",
+            "swift_code": "EXBSUAUXKHM"
+        },
+        {
+            "id": "87",
+            "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+            "city": "KIEV",
+            "branch": "(KYIV BRANCH)",
+            "swift_code": "EXBSUAUXKIV"
+        },
+        {
+            "id": "88",
+            "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "EXBSUAUX"
+        },
+        {
+            "id": "89",
+            "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+            "city": "KIROVOHRAD",
+            "branch": "(KIROVOGRAD BRANCH)",
+            "swift_code": "EXBSUAUXKIR"
+        },
+        {
+            "id": "90",
+            "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+            "city": "KRYVY RIH",
+            "branch": "(KRYVY RIH BRANCH)",
+            "swift_code": "EXBSUAUXKRH"
+        },
+        {
+            "id": "91",
+            "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+            "city": "LUHANSK",
+            "branch": "(LUGANSK BRANCH)",
+            "swift_code": "EXBSUAUXLUH"
+        },
+        {
+            "id": "92",
+            "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+            "city": "LUTSK",
+            "branch": "(LUTSK BRANCH)",
+            "swift_code": "EXBSUAUXLUT"
+        },
+        {
+            "id": "93",
+            "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+            "city": "LVIV",
+            "branch": "(LVIV BRANCH)",
+            "swift_code": "EXBSUAUXLVI"
+        },
+        {
+            "id": "94",
+            "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+            "city": "MARIUPOL",
+            "branch": "(MARIUPOL BRANCH)",
+            "swift_code": "EXBSUAUXMAR"
+        },
+        {
+            "id": "95",
+            "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+            "city": "MYKOLAIV",
+            "branch": "(MYKOLAIV BRANCH)",
+            "swift_code": "EXBSUAUXMYK"
+        },
+        {
+            "id": "96",
+            "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+            "city": "ODESA",
+            "branch": "(ODESA BRANCH)",
+            "swift_code": "EXBSUAUXODE"
+        },
+        {
+            "id": "97",
+            "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+            "city": "POLTAVA",
+            "branch": "(POLTAVA BRANCH)",
+            "swift_code": "EXBSUAUXPOL"
+        },
+        {
+            "id": "98",
+            "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+            "city": "RIVNE",
+            "branch": "(RIVNE BRANCH)",
+            "swift_code": "EXBSUAUXRIV"
+        },
+        {
+            "id": "99",
+            "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+            "city": "SEVASTOPOL",
+            "branch": "(SEVASTOPOL BRANCH)",
+            "swift_code": "EXBSUAUXSEV"
+        },
+        {
+            "id": "100",
+            "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+            "city": "SUMY",
+            "branch": "(SUMY BRANCH)",
+            "swift_code": "EXBSUAUXSUM"
+        },
+        {
+            "id": "101",
+            "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+            "city": "TERNOPIL",
+            "branch": "(TERNOPIL BRANCH)",
+            "swift_code": "EXBSUAUXTER"
+        },
+        {
+            "id": "102",
+            "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+            "city": "UZHHOROD",
+            "branch": "(UZHGOROD BRANCH)",
+            "swift_code": "EXBSUAUXUZH"
+        },
+        {
+            "id": "103",
+            "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+            "city": "VINNYTSIA",
+            "branch": "(VINNITSA BRANCH)",
+            "swift_code": "EXBSUAUXVIN"
+        },
+        {
+            "id": "104",
+            "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+            "city": "ZAPORIZHZHYA",
+            "branch": "(ZAPORIZHIA BRANCH)",
+            "swift_code": "EXBSUAUXZAP"
+        },
+        {
+            "id": "105",
+            "bank": "JSC THE STATE EXPORT-IMPORT BANK OF UKRAINE",
+            "city": "ZHYTOMYR",
+            "branch": "(ZHYTOMYR BRANCH)",
+            "swift_code": "EXBSUAUXZHY"
+        },
+        {
+            "id": "106",
+            "bank": "KHRESCHATYK COMMERCIAL BANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "KHRCUAUK"
+        },
+        {
+            "id": "107",
+            "bank": "KREDITPROMBANK (PUBLIC JOINT STOCK COMPANY)",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "KPRBUAUK"
+        },
+        {
+            "id": "108",
+            "bank": "KSG BANK JOIN-STOCK COMPANY",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "DONCUA2X"
+        },
+        {
+            "id": "109",
+            "bank": "LVIV BANK",
+            "city": "LVIV",
+            "branch": null,
+            "swift_code": "LVIVUA2X"
+        },
+        {
+            "id": "110",
+            "bank": "MARFIN BANK",
+            "city": "ILICHEVSK",
+            "branch": "(ILICHEVSK BRANCH)",
+            "swift_code": "MTBAUA2DILK"
+        },
+        {
+            "id": "111",
+            "bank": "MARFIN BANK",
+            "city": "ODESA",
+            "branch": "(ODESA CENTRAL BRANCH)",
+            "swift_code": "MTBAUA2DODE"
+        },
+        {
+            "id": "112",
+            "bank": "MARFIN BANK",
+            "city": "ODESA",
+            "branch": null,
+            "swift_code": "MTBAUA2D"
+        },
+        {
+            "id": "113",
+            "bank": "MARFIN BANK",
+            "city": "SIMFEROPOL",
+            "branch": "(SIMFEROPOL BRANCH)",
+            "swift_code": "MTBAUA2DSYM"
+        },
+        {
+            "id": "114",
+            "bank": "MEGABANK PJSC",
+            "city": "CHERKASY",
+            "branch": null,
+            "swift_code": "DBBKUA2KCHK"
+        },
+        {
+            "id": "115",
+            "bank": "MEGABANK PJSC",
+            "city": "CHERNIHIV",
+            "branch": null,
+            "swift_code": "DBBKUA2KCHE"
+        },
+        {
+            "id": "116",
+            "bank": "MEGABANK PJSC",
+            "city": "DONETSK",
+            "branch": null,
+            "swift_code": "DBBKUA2KDON"
+        },
+        {
+            "id": "117",
+            "bank": "MEGABANK PJSC",
+            "city": "KHARKIV",
+            "branch": null,
+            "swift_code": "DBBKUA2K"
+        },
+        {
+            "id": "118",
+            "bank": "MEGABANK PJSC",
+            "city": "KHERSON",
+            "branch": null,
+            "swift_code": "DBBKUA2KKHE"
+        },
+        {
+            "id": "119",
+            "bank": "MEGABANK PJSC",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "DBBKUA2KKIE"
+        },
+        {
+            "id": "120",
+            "bank": "MEGABANK PJSC",
+            "city": "KIROVOHRAD",
+            "branch": null,
+            "swift_code": "DBBKUA2KKIR"
+        },
+        {
+            "id": "121",
+            "bank": "MEGABANK PJSC",
+            "city": "LVIV",
+            "branch": null,
+            "swift_code": "DBBKUA2KLVI"
+        },
+        {
+            "id": "122",
+            "bank": "MEGABANK PJSC",
+            "city": "MYKOLAIV",
+            "branch": null,
+            "swift_code": "DBBKUA2KMYK"
+        },
+        {
+            "id": "123",
+            "bank": "MEGABANK PJSC",
+            "city": "POLTAVA",
+            "branch": null,
+            "swift_code": "DBBKUA2KPOL"
+        },
+        {
+            "id": "124",
+            "bank": "MEGABANK PJSC",
+            "city": "VINNYTSIA",
+            "branch": null,
+            "swift_code": "DBBKUA2KVIN"
+        },
+        {
+            "id": "125",
+            "bank": "MEGABANK PJSC",
+            "city": "ZHYTOMYR",
+            "branch": null,
+            "swift_code": "DBBKUA2KZHY"
+        },
+        {
+            "id": "126",
+            "bank": "MISTO BANK",
+            "city": "ODESA",
+            "branch": null,
+            "swift_code": "MIBKUA2D"
+        },
+        {
+            "id": "127",
+            "bank": "NADRA BANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "NADRUAUX"
+        },
+        {
+            "id": "128",
+            "bank": "NATIONAL BANK OF UKRAINE",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "NBUAUAUX"
+        },
+        {
+            "id": "129",
+            "bank": "NATIONAL DEPOSITORY OF UKRAINE",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "NADUUAUK"
+        },
+        {
+            "id": "130",
+            "bank": "NATIONAL INVESTMENTS JOINT STOCK BANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "JSBNUAUK"
+        },
+        {
+            "id": "131",
+            "bank": "NEOS BANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "AVTOUA22"
+        },
+        {
+            "id": "132",
+            "bank": "OKCI BANK",
+            "city": "LVIV",
+            "branch": null,
+            "swift_code": "OKCIUA2X"
+        },
+        {
+            "id": "133",
+            "bank": "OPEN JOINT STOCK COMPANY COMMERCIAL BANK'STANDART'",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "STRTUAUK"
+        },
+        {
+            "id": "134",
+            "bank": "PETROCOMMERCE-UKRAINE BANK JSC",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "PECOUAUK"
+        },
+        {
+            "id": "135",
+            "bank": "PIRAEUS BANK ICB, JSC",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "ICBIUAUK"
+        },
+        {
+            "id": "136",
+            "bank": "PIVDENCOMBANK",
+            "city": "DONETSK",
+            "branch": null,
+            "swift_code": "PCBDUA2X"
+        },
+        {
+            "id": "137",
+            "bank": "PJSC AKTABANK",
+            "city": "DNIPROPETROVSK",
+            "branch": null,
+            "swift_code": "AKTAUA2N"
+        },
+        {
+            "id": "138",
+            "bank": "PJSC ALFA-BANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "ALFAUAUK"
+        },
+        {
+            "id": "139",
+            "bank": "PJSC 'ALPARI BANK'",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "ALPAUAUK"
+        },
+        {
+            "id": "140",
+            "bank": "PJSC BANK AVANGARD",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "AVGDUAUK"
+        },
+        {
+            "id": "141",
+            "bank": "PJSC 'BANK CREDIT DNEPR'",
+            "city": "DNIPROPETROVSK",
+            "branch": null,
+            "swift_code": "CRDEUA2N"
+        },
+        {
+            "id": "142",
+            "bank": "PJSC BANK FORWARD",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "BRSUUAUK"
+        },
+        {
+            "id": "143",
+            "bank": "PJSC BANK KYIVSKA RUS",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "KVSKUAUK"
+        },
+        {
+            "id": "144",
+            "bank": "PJSC BANK TRUST",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "REUSUAUK"
+        },
+        {
+            "id": "145",
+            "bank": "PJSC 'BANK VOSTOK'",
+            "city": "DNIPROPETROVSK",
+            "branch": null,
+            "swift_code": "ACJCUA2N"
+        },
+        {
+            "id": "146",
+            "bank": "PJSC BG BANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "UDPOUAUK"
+        },
+        {
+            "id": "147",
+            "bank": "PJSC BTA BANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "UCTBUAUK"
+        },
+        {
+            "id": "148",
+            "bank": "PJSC CB 'ACTIVE-BANK'",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "ALOMUAUK"
+        },
+        {
+            "id": "149",
+            "bank": "PJSC 'CB 'FINANCIAL PARTNER'",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "FNPRUAUK"
+        },
+        {
+            "id": "150",
+            "bank": "PJSC 'CB 'UFW'",
+            "city": "DONETSK",
+            "branch": null,
+            "swift_code": "UFWLUA2X"
+        },
+        {
+            "id": "151",
+            "bank": "PJSC 'CITIBANK'",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "CITIUAUK"
+        },
+        {
+            "id": "152",
+            "bank": "PJSC CREDITWEST BANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "CREWUAUK"
+        },
+        {
+            "id": "153",
+            "bank": "PJSC DEUTSCHE BANK DBU",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "DEUTUAUK"
+        },
+        {
+            "id": "154",
+            "bank": "PJSC 'EUROINDUSTRIBANK'",
+            "city": "DONETSK",
+            "branch": null,
+            "swift_code": "EUOMUA2X"
+        },
+        {
+            "id": "155",
+            "bank": "PJSC 'EXPRESS-BANK'",
+            "city": "DONETSK",
+            "branch": "(DONETSK BRANCH)",
+            "swift_code": "EXPBUAUKDON"
+        },
+        {
+            "id": "156",
+            "bank": "PJSC 'EXPRESS-BANK'",
+            "city": "KHARKIV",
+            "branch": "(KHARKIV BRANCH)",
+            "swift_code": "EXPBUAUKKHA"
+        },
+        {
+            "id": "157",
+            "bank": "PJSC 'EXPRESS-BANK'",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "EXPBUAUK"
+        },
+        {
+            "id": "158",
+            "bank": "PJSC 'EXPRESS-BANK'",
+            "city": "KONOTOP",
+            "branch": "(KONOTOP BRANCH)",
+            "swift_code": "EXPBUAUKKON"
+        },
+        {
+            "id": "159",
+            "bank": "PJSC 'EXPRESS-BANK'",
+            "city": "LVIV",
+            "branch": "(LVIV BRANCH)",
+            "swift_code": "EXPBUAUKLVI"
+        },
+        {
+            "id": "160",
+            "bank": "PJSC 'EXPRESS-BANK'",
+            "city": "ODESA",
+            "branch": "(ODESA BRANCH)",
+            "swift_code": "EXPBUAUKODE"
+        },
+        {
+            "id": "161",
+            "bank": "PJSC 'EXPRESS-BANK'",
+            "city": "SIMFEROPOL",
+            "branch": "(SIMFEROPOL BRANCH)",
+            "swift_code": "EXPBUAUKSIM"
+        },
+        {
+            "id": "162",
+            "bank": "PJSC 'FINANCE BANK'",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "FINBUAUK"
+        },
+        {
+            "id": "163",
+            "bank": "PJSC IDEA BANK",
+            "city": "LVIV",
+            "branch": null,
+            "swift_code": "IDBAUAUK"
+        },
+        {
+            "id": "164",
+            "bank": "PJSC JSC BANK TRUST-CAPITAL",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "TCBNUAUK"
+        },
+        {
+            "id": "165",
+            "bank": "PJSC 'MOTOR-BANK'",
+            "city": "ZAPORIZHZHYA",
+            "branch": null,
+            "swift_code": "MOOJUA2Z"
+        },
+        {
+            "id": "166",
+            "bank": "PJSC OMEGA BANK (FORMELY SWEDBANK, UA)",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "KPRVUAUK"
+        },
+        {
+            "id": "167",
+            "bank": "PJSC 'RADICAL BANK'",
+            "city": "PETROPAVLIVSKA BORSCHAGIVKA",
+            "branch": null,
+            "swift_code": "RADLUA2P"
+        },
+        {
+            "id": "168",
+            "bank": "PJSC SEB CORPORATE BANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "ESSEUAUK"
+        },
+        {
+            "id": "169",
+            "bank": "PJSC 'SMARTBANK'",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "BRTSUAUK"
+        },
+        {
+            "id": "170",
+            "bank": "PJSC UKRAINIAN CONSTRUCTION INVESTMENT BANK",
+            "city": "KYIV",
+            "branch": null,
+            "swift_code": "UCIBUAUK"
+        },
+        {
+            "id": "171",
+            "bank": "PJSC UNICOMBANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "PERAUA2X"
+        },
+        {
+            "id": "172",
+            "bank": "PJSC VECTOR BANK",
+            "city": "KYIV",
+            "branch": null,
+            "swift_code": "VCTRUAUK"
+        },
+        {
+            "id": "173",
+            "bank": "PJSC VS BANK",
+            "city": "LVIV",
+            "branch": null,
+            "swift_code": "ELECUA2X"
+        },
+        {
+            "id": "174",
+            "bank": "PJSC 'VTB BANK'",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "VTBRUAUK"
+        },
+        {
+            "id": "175",
+            "bank": "POLICOMBANK JSCB",
+            "city": "CHERNIHIV",
+            "branch": null,
+            "swift_code": "PLICUA22"
+        },
+        {
+            "id": "176",
+            "bank": "POLTAVA-BANK POLTAVA JOINT STOCK BANK",
+            "city": "POLTAVA",
+            "branch": null,
+            "swift_code": "POLTUA2X"
+        },
+        {
+            "id": "177",
+            "bank": "PREMIUM BANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "PREIUAUK"
+        },
+        {
+            "id": "178",
+            "bank": "PRIME-BANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "PRMBUAUK"
+        },
+        {
+            "id": "179",
+            "bank": "PRIVATBANK",
+            "city": "ARTEMOVSK",
+            "branch": "(BRANCH 1)",
+            "swift_code": "PBANUA2XGA1"
+        },
+        {
+            "id": "180",
+            "bank": "PRIVATBANK",
+            "city": "ARTEMOVSK",
+            "branch": "(BRANCH 2)",
+            "swift_code": "PBANUA2XGA2"
+        },
+        {
+            "id": "181",
+            "bank": "PRIVATBANK",
+            "city": "CHERKASY",
+            "branch": null,
+            "swift_code": "PBANUA2XCHK"
+        },
+        {
+            "id": "182",
+            "bank": "PRIVATBANK",
+            "city": "CHERNIHIV",
+            "branch": "(CHERNIHIV REGIONAL BRANCH)",
+            "swift_code": "PBANUA2XCHR"
+        },
+        {
+            "id": "183",
+            "bank": "PRIVATBANK",
+            "city": "CHERNIVTSI",
+            "branch": "(CHERNIVTSI BRANCH)",
+            "swift_code": "PBANUA2XCVF"
+        },
+        {
+            "id": "184",
+            "bank": "PRIVATBANK",
+            "city": "CHERVONOGRAD",
+            "branch": "(CHERVONOGRAD BRANCH)",
+            "swift_code": "PBANUA2XCGF"
+        },
+        {
+            "id": "185",
+            "bank": "PRIVATBANK",
+            "city": "DNIPRODZERJINSK",
+            "branch": "(DNIPRODZERJINSK BRANCH)",
+            "swift_code": "PBANUA2XDZF"
+        },
+        {
+            "id": "186",
+            "bank": "PRIVATBANK",
+            "city": "DNIPROPETROVSK",
+            "branch": null,
+            "swift_code": "PBANUA2X"
+        },
+        {
+            "id": "187",
+            "bank": "PRIVATBANK",
+            "city": "DONETSK",
+            "branch": null,
+            "swift_code": "PBANUA2XDON"
+        },
+        {
+            "id": "188",
+            "bank": "PRIVATBANK",
+            "city": "EVPATORIA",
+            "branch": "(EVPATORIA BRANCH)",
+            "swift_code": "PBANUA2XEVF"
+        },
+        {
+            "id": "189",
+            "bank": "PRIVATBANK",
+            "city": "FEODOSIYA",
+            "branch": "(FEODOSIYA BRANCH)",
+            "swift_code": "PBANUA2XFEF"
+        },
+        {
+            "id": "190",
+            "bank": "PRIVATBANK",
+            "city": "GORLOVKA CITY",
+            "branch": "(CENTRAL BRANCH)",
+            "swift_code": "PBANUA2XGR1"
+        },
+        {
+            "id": "191",
+            "bank": "PRIVATBANK",
+            "city": "GORLOVKA CITY",
+            "branch": "(GORLOVKA MAIN BRANCH)",
+            "swift_code": "PBANUA2XGRL"
+        },
+        {
+            "id": "192",
+            "bank": "PRIVATBANK",
+            "city": "IVANO-FRANKIVSK",
+            "branch": "(IVANO-FRANKIVSK BRANCH)",
+            "swift_code": "PBANUA2XIFF"
+        },
+        {
+            "id": "193",
+            "bank": "PRIVATBANK",
+            "city": "KERCH",
+            "branch": "(KERCH BRANCH)",
+            "swift_code": "PBANUA2XKHF"
+        },
+        {
+            "id": "194",
+            "bank": "PRIVATBANK",
+            "city": "KHARKIV",
+            "branch": "(KHARKIV BRANCH)",
+            "swift_code": "PBANUA2XHAF"
+        },
+        {
+            "id": "195",
+            "bank": "PRIVATBANK",
+            "city": "KHARTSIZSK",
+            "branch": null,
+            "swift_code": "PBANUA2XGKH"
+        },
+        {
+            "id": "196",
+            "bank": "PRIVATBANK",
+            "city": "KHERSON",
+            "branch": null,
+            "swift_code": "PBANUA2XHRN"
+        },
+        {
+            "id": "197",
+            "bank": "PRIVATBANK",
+            "city": "KHMELNYTSKY",
+            "branch": "(KHMELNYTSKY BRANCH)",
+            "swift_code": "PBANUA2XHMF"
+        },
+        {
+            "id": "198",
+            "bank": "PRIVATBANK",
+            "city": "KIEV",
+            "branch": "(BRANCH NO 1)",
+            "swift_code": "PBANUA2XKIE"
+        },
+        {
+            "id": "199",
+            "bank": "PRIVATBANK",
+            "city": "KIEV",
+            "branch": "(PECHERSKY BRANCH (BRANCH NO 3))",
+            "swift_code": "PBANUA2XK3F"
+        },
+        {
+            "id": "200",
+            "bank": "PRIVATBANK",
+            "city": "KIEV",
+            "branch": "(RASCHETNY CENTR (BRANCH NO 2))",
+            "swift_code": "PBANUA2XK2F"
+        },
+        {
+            "id": "201",
+            "bank": "PRIVATBANK",
+            "city": "KIROVOHRAD",
+            "branch": "(KIROVOHRAD BRANCH)",
+            "swift_code": "PBANUA2XKGF"
+        },
+        {
+            "id": "202",
+            "bank": "PRIVATBANK",
+            "city": "KOVEL",
+            "branch": "(KOVEL BRANCH)",
+            "swift_code": "PBANUA2XKOF"
+        },
+        {
+            "id": "203",
+            "bank": "PRIVATBANK",
+            "city": "KRAMATORSK",
+            "branch": "(KRAMATORSK BRANCH)",
+            "swift_code": "PBANUA2XKTF"
+        },
+        {
+            "id": "204",
+            "bank": "PRIVATBANK",
+            "city": "KREMENCHUG",
+            "branch": "(KREMENCHUG BRANCH)",
+            "swift_code": "PBANUA2XKMF"
+        },
+        {
+            "id": "205",
+            "bank": "PRIVATBANK",
+            "city": "KRYVY RIH",
+            "branch": null,
+            "swift_code": "PBANUA2XKRI"
+        },
+        {
+            "id": "206",
+            "bank": "PRIVATBANK",
+            "city": "LUHANSK",
+            "branch": "(LUHANSK BRANCH)",
+            "swift_code": "PBANUA2XLGF"
+        },
+        {
+            "id": "207",
+            "bank": "PRIVATBANK",
+            "city": "LUTSK",
+            "branch": null,
+            "swift_code": "PBANUA2XLUT"
+        },
+        {
+            "id": "208",
+            "bank": "PRIVATBANK",
+            "city": "LVIV",
+            "branch": null,
+            "swift_code": "PBANUA2XLVI"
+        },
+        {
+            "id": "209",
+            "bank": "PRIVATBANK",
+            "city": "MARIUPOL",
+            "branch": "(MARIUPOL BRANCH)",
+            "swift_code": "PBANUA2XMRF"
+        },
+        {
+            "id": "210",
+            "bank": "PRIVATBANK",
+            "city": "MUKACHEVO",
+            "branch": "(ZAKARPATIAN REGIONAL BRANCH)",
+            "swift_code": "PBANUA2XMKR"
+        },
+        {
+            "id": "211",
+            "bank": "PRIVATBANK",
+            "city": "MYKOLAIV",
+            "branch": null,
+            "swift_code": "PBANUA2XMYK"
+        },
+        {
+            "id": "212",
+            "bank": "PRIVATBANK",
+            "city": "NIKOPOL",
+            "branch": "(NIKOPOL BRANCH)",
+            "swift_code": "PBANUA2XNIF"
+        },
+        {
+            "id": "213",
+            "bank": "PRIVATBANK",
+            "city": "NOVOVOLINSK",
+            "branch": "(NOVOVOLINSK BRANCH)",
+            "swift_code": "PBANUA2XNVF"
+        },
+        {
+            "id": "214",
+            "bank": "PRIVATBANK",
+            "city": "ODESA",
+            "branch": "(ODESA BRANCH)",
+            "swift_code": "PBANUA2XODF"
+        },
+        {
+            "id": "215",
+            "bank": "PRIVATBANK",
+            "city": "PAVLOGRAD",
+            "branch": null,
+            "swift_code": "PBANUA2XPAV"
+        },
+        {
+            "id": "216",
+            "bank": "PRIVATBANK",
+            "city": "POLTAVA",
+            "branch": null,
+            "swift_code": "PBANUA2XPOL"
+        },
+        {
+            "id": "217",
+            "bank": "PRIVATBANK",
+            "city": "RIVNE",
+            "branch": null,
+            "swift_code": "PBANUA2XRIV"
+        },
+        {
+            "id": "218",
+            "bank": "PRIVATBANK",
+            "city": "SEVASTOPOL",
+            "branch": null,
+            "swift_code": "PBANUA2XSEV"
+        },
+        {
+            "id": "219",
+            "bank": "PRIVATBANK",
+            "city": "SIMFEROPOL",
+            "branch": "(CRIMEAN REGIONAL BRANCH)",
+            "swift_code": "PBANUA2XSIR"
+        },
+        {
+            "id": "220",
+            "bank": "PRIVATBANK",
+            "city": "STARA VIZHVA",
+            "branch": null,
+            "swift_code": "PBANUA2XVIZ"
+        },
+        {
+            "id": "221",
+            "bank": "PRIVATBANK",
+            "city": "SUMY",
+            "branch": "(SUMY BRANCH)",
+            "swift_code": "PBANUA2XSUF"
+        },
+        {
+            "id": "222",
+            "bank": "PRIVATBANK",
+            "city": "TERNOPIL",
+            "branch": "(TERNOPIL BRANCH)",
+            "swift_code": "PBANUA2XTEF"
+        },
+        {
+            "id": "223",
+            "bank": "PRIVATBANK",
+            "city": "VINNYTSIA",
+            "branch": "(VINNITSIA BRANCH)",
+            "swift_code": "PBANUA2XVIF"
+        },
+        {
+            "id": "224",
+            "bank": "PRIVATBANK",
+            "city": "YALTA",
+            "branch": "(YALTA BRANCH)",
+            "swift_code": "PBANUA2XYLF"
+        },
+        {
+            "id": "225",
+            "bank": "PRIVATBANK",
+            "city": "ZAPOROZHYE",
+            "branch": null,
+            "swift_code": "PBANUA2XZAP"
+        },
+        {
+            "id": "226",
+            "bank": "PRIVATBANK",
+            "city": "ZHOVTI VODY",
+            "branch": null,
+            "swift_code": "PBANUA2XZHO"
+        },
+        {
+            "id": "227",
+            "bank": "PRIVATBANK",
+            "city": "ZHYTOMYR",
+            "branch": "(ZHYTOMYR BRANCH)",
+            "swift_code": "PBANUA2XZHF"
+        },
+        {
+            "id": "228",
+            "bank": "PRIVATBANK",
+            "city": "ZHYTOMYR",
+            "branch": "(ZHYTOMYR REGIONAL BRANCH)",
+            "swift_code": "PBANUA2XZRR"
+        },
+        {
+            "id": "229",
+            "bank": "PROCREDIT BANK, PUBLIC JOINT STOCK COMPANY",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "MIFCUAUK"
+        },
+        {
+            "id": "230",
+            "bank": "PROFIN BANK, PJSC",
+            "city": "DONETSK",
+            "branch": null,
+            "swift_code": "PFBAUA2X"
+        },
+        {
+            "id": "231",
+            "bank": "PROMINVESTBANK",
+            "city": "KIEV",
+            "branch": "(THIRD PARTY STATEMENTS)",
+            "swift_code": "UPIBUAUXKIE"
+        },
+        {
+            "id": "232",
+            "bank": "PROMINVESTBANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "UPIBUAUX"
+        },
+        {
+            "id": "233",
+            "bank": "PUBLIC JOIN-STOCK COMPANY 'BANK 'SOFIYSKIY'",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "SFBNUAUK"
+        },
+        {
+            "id": "234",
+            "bank": "PUBLIC JOINT STOCK COMPANY BANK ALLIANCE",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "ALJSUAUK"
+        },
+        {
+            "id": "235",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'BANK FAMILNY'",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "DOBYUA2T"
+        },
+        {
+            "id": "236",
+            "bank": "PUBLIC JOINT STOCK COMPANY DIAMANTBANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "DMBAUAUK"
+        },
+        {
+            "id": "237",
+            "bank": "PUBLIC JOINT STOCK COMPANY GREEN BANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "GRNBUAUK"
+        },
+        {
+            "id": "238",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'INTERCREDITBANK'",
+            "city": "DNIPROPETROVSK",
+            "branch": null,
+            "swift_code": "ICBNUA2N"
+        },
+        {
+            "id": "239",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'JOINT STOCK COMMERCIAL BANK 'NOVIY'",
+            "city": "DNIPROPETROVSK",
+            "branch": null,
+            "swift_code": "NJSOUA2N"
+        },
+        {
+            "id": "240",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'LEGBANK'",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "LEGBUAUX"
+        },
+        {
+            "id": "241",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'METABANK'",
+            "city": "ZAPOROZHYE",
+            "branch": null,
+            "swift_code": "MTLGUA2N"
+        },
+        {
+            "id": "242",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'PLATINUM BANK'",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "INMCUAUK"
+        },
+        {
+            "id": "243",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+            "city": "CHERKASY",
+            "branch": "(CHERKASY REGIONAL BRANCH)",
+            "swift_code": "COSBUAUKCHK"
+        },
+        {
+            "id": "244",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+            "city": "CHERNIHIV",
+            "branch": "(CHERNIHIV REGIONAL BRANCH)",
+            "swift_code": "COSBUAUKCHG"
+        },
+        {
+            "id": "245",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+            "city": "CHERNIVTSI",
+            "branch": "(CHERNIVTSI REGIONAL BRANCH)",
+            "swift_code": "COSBUAUKCHV"
+        },
+        {
+            "id": "246",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+            "city": "DNIPROPETROVSK",
+            "branch": "(DNIPROPETROVSK REGIONAL BRANCH)",
+            "swift_code": "COSBUAUKDNI"
+        },
+        {
+            "id": "247",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+            "city": "DONETSK",
+            "branch": "(DONETSK REGIONAL BRANCH)",
+            "swift_code": "COSBUAUKDON"
+        },
+        {
+            "id": "248",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+            "city": "IVANO-FRANKIVSK",
+            "branch": "(IVANO-FRANKIVSK REGIONAL BRANCH)",
+            "swift_code": "COSBUAUKIVF"
+        },
+        {
+            "id": "249",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+            "city": "KHARKIV",
+            "branch": "(KHARKIV REGIONAL BRANCH)",
+            "swift_code": "COSBUAUKKHA"
+        },
+        {
+            "id": "250",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+            "city": "KHERSON",
+            "branch": "(KHERSON REGIONAL BRANCH)",
+            "swift_code": "COSBUAUKKHE"
+        },
+        {
+            "id": "251",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+            "city": "KHMELNYTSKY",
+            "branch": "(KHMELNYTSKY REGIONAL BRANCH)",
+            "swift_code": "COSBUAUKKHM"
+        },
+        {
+            "id": "252",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+            "city": "KIEV",
+            "branch": "(KYIV REGIONAL BRANCH)",
+            "swift_code": "COSBUAUKKIE"
+        },
+        {
+            "id": "253",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "COSBUAUK"
+        },
+        {
+            "id": "254",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+            "city": "KIROVOHRAD",
+            "branch": "(KIROVOHRAD REGIONAL BRANCH)",
+            "swift_code": "COSBUAUKKIR"
+        },
+        {
+            "id": "255",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+            "city": "LUHANSK",
+            "branch": "(LUHANSK REGIONAL BRANCH)",
+            "swift_code": "COSBUAUKLUH"
+        },
+        {
+            "id": "256",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+            "city": "LUTSK",
+            "branch": "(VOLYN REGIONAL BRANCH)",
+            "swift_code": "COSBUAUKVOL"
+        },
+        {
+            "id": "257",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+            "city": "LVIV",
+            "branch": "(LVIV REGIONAL BRANCH)",
+            "swift_code": "COSBUAUKLVI"
+        },
+        {
+            "id": "258",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+            "city": "MYKOLAIV",
+            "branch": "(MYKOLAIV REGIONAL BRANCH)",
+            "swift_code": "COSBUAUKMYK"
+        },
+        {
+            "id": "259",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+            "city": "ODESA",
+            "branch": "(ODESA REGIONAL BRANCH)",
+            "swift_code": "COSBUAUKODE"
+        },
+        {
+            "id": "260",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+            "city": "POLTAVA",
+            "branch": "(POLTAVA REGIONAL BRANCH)",
+            "swift_code": "COSBUAUKPOL"
+        },
+        {
+            "id": "261",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+            "city": "RIVNE",
+            "branch": "(RIVNE REGIONAL BRANCH)",
+            "swift_code": "COSBUAUKRIV"
+        },
+        {
+            "id": "262",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+            "city": "SIMFEROPOL",
+            "branch": "(CRIMEA REGIONAL BRANCH)",
+            "swift_code": "COSBUAUKCRI"
+        },
+        {
+            "id": "263",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+            "city": "SUMY",
+            "branch": "(SUMY REGIONAL BRANCH)",
+            "swift_code": "COSBUAUKSUM"
+        },
+        {
+            "id": "264",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+            "city": "TERNOPIL",
+            "branch": "(TERNOPIL REGIONAL BRANCH)",
+            "swift_code": "COSBUAUKTER"
+        },
+        {
+            "id": "265",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+            "city": "UZHHOROD",
+            "branch": "(ZAKARPATTYA REGIONAL BRANCH)",
+            "swift_code": "COSBUAUKZAK"
+        },
+        {
+            "id": "266",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+            "city": "VINNYTSIA",
+            "branch": "(VINNITSIA REGIONAL BRANCH)",
+            "swift_code": "COSBUAUKVIN"
+        },
+        {
+            "id": "267",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+            "city": "ZAPOROZHYE",
+            "branch": "(ZAPOROZHYE REGIONAL BRANCH)",
+            "swift_code": "COSBUAUKZAP"
+        },
+        {
+            "id": "268",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'STATE SAVINGS BANK OF UKRAINE'",
+            "city": "ZHYTOMYR",
+            "branch": "(ZHYTOMYR REGIONAL BRANCH)",
+            "swift_code": "COSBUAUKZHI"
+        },
+        {
+            "id": "269",
+            "bank": "PUBLIC JOINT STOCK COMPANY SUBSIDIARY BANK SBERBANK OF RUSSIA",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "SABRUAUK"
+        },
+        {
+            "id": "270",
+            "bank": "PUBLIC JOINT STOCK COMPANY UNEX BANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "UNJTUAUK"
+        },
+        {
+            "id": "271",
+            "bank": "PUBLIC JOINT STOCK COMPANY 'ZAKHIDINKOMBANK'",
+            "city": "LUTSK",
+            "branch": null,
+            "swift_code": "ZAKIUA22"
+        },
+        {
+            "id": "272",
+            "bank": "PUBLIC JOINT-STOCK COMPANY BANK MIKHAYLIVSKIY",
+            "city": "KYIV",
+            "branch": null,
+            "swift_code": "MIKHUAUK"
+        },
+        {
+            "id": "273",
+            "bank": "PUBLIC JOINT-STOCK COMPANY 'BANK' 'UNISON'",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "UNSBUAUK"
+        },
+        {
+            "id": "274",
+            "bank": "PUBLIC JOINT-STOCK COMPANY 'COMMERCIAL BANK 'AXIOM'",
+            "city": "DNIPROPETROVSK",
+            "branch": null,
+            "swift_code": "AXBNUA2N"
+        },
+        {
+            "id": "275",
+            "bank": "PUBLIC JOINT-STOCK COMPANY COMMERCIAL BANK 'PRAVEX-BANK'",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "PRAVUAUK"
+        },
+        {
+            "id": "276",
+            "bank": "PUBLIC JOINT-STOCK COMPANY 'MELIOR BANK'",
+            "city": "DNIPROPETROVSK",
+            "branch": null,
+            "swift_code": "MLRBUA22"
+        },
+        {
+            "id": "277",
+            "bank": "PUBLIC JOINT-STOCK COMPANY OTP BANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "OTPVUAUK"
+        },
+        {
+            "id": "278",
+            "bank": "PUBLIC JOINT-STOCK COMPANY UKRAINIAN PROFESSIONAL BANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "UKPBUAUK"
+        },
+        {
+            "id": "279",
+            "bank": "PUBLIC JOINT-STOCK COMPANY UNION STANDARD BANK",
+            "city": "ODESA",
+            "branch": null,
+            "swift_code": "FSBUUA2N"
+        },
+        {
+            "id": "280",
+            "bank": "PUBLIC JOINT-STOCK COMPANY VERNUM BANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "VERNUAUK"
+        },
+        {
+            "id": "281",
+            "bank": "REGION BANK, JOINT STOCK COMMERCIAL REGIONAL BANK",
+            "city": "KHARKIV",
+            "branch": null,
+            "swift_code": "REGBUA2K"
+        },
+        {
+            "id": "282",
+            "bank": "RENAISSANCE CAPITAL BANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "RECLUAUK"
+        },
+        {
+            "id": "283",
+            "bank": "RODOVID BANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "PERCUAUX"
+        },
+        {
+            "id": "284",
+            "bank": "TASCOMBANK JSC (FORMERLY BANK BUSINESS STANDARD)",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "MUNIUA22"
+        },
+        {
+            "id": "285",
+            "bank": "TERRA BANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "TRBCUAUK"
+        },
+        {
+            "id": "286",
+            "bank": "TF BANK KONTRAKT INC",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "ANTAUAUK"
+        },
+        {
+            "id": "287",
+            "bank": "UKRAINIAN BANK OF DEVELOPMENT PJSC",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "VBRBUAUK"
+        },
+        {
+            "id": "288",
+            "bank": "UKRAINIAN BANK OF RECONSTRUCTION AND DEVELOPMENT",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "UKRDUAUK"
+        },
+        {
+            "id": "289",
+            "bank": "UKRAINIAN BUSINESS BANK JOINT STOCK BANK",
+            "city": "DONETSK",
+            "branch": null,
+            "swift_code": "DJSBUA2X"
+        },
+        {
+            "id": "290",
+            "bank": "UKRAINIAN CAPITAL BANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "UKCAUAUK"
+        },
+        {
+            "id": "291",
+            "bank": "UKRAINSKIY KOMUNALNIY BANK, JSB",
+            "city": "LUHANSK",
+            "branch": null,
+            "swift_code": "UKMBUA22"
+        },
+        {
+            "id": "292",
+            "bank": "UKRGASBANK JSB",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "UGASUAUK"
+        },
+        {
+            "id": "293",
+            "bank": "UKRINBANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "UKRBUAUX"
+        },
+        {
+            "id": "294",
+            "bank": "UKRSIBBANK",
+            "city": "KHARKIV",
+            "branch": null,
+            "swift_code": "KHABUA2K"
+        },
+        {
+            "id": "295",
+            "bank": "UKRSOTSBANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "UKRSUAUX"
+        },
+        {
+            "id": "296",
+            "bank": "UNION",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "SOUZUAUK"
+        },
+        {
+            "id": "297",
+            "bank": "UNIVERSAL BANK OJSC",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "UNJSUAUK"
+        },
+        {
+            "id": "298",
+            "bank": "VAB BANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "VABAUAUK"
+        },
+        {
+            "id": "299",
+            "bank": "ZLATOBANK",
+            "city": "KIEV",
+            "branch": null,
+            "swift_code": "ZLTTUAUK"
+        }
     ]
 }

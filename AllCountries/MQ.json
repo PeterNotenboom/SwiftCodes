@@ -2,23 +2,26 @@
     "country": "Martinique",
     "country_code": "MQ",
     "list": [
-        [
-            "1",
-            "BANQUE NATIONALE DE PARIS SUCCURSALE DE FORT DE FRANCE",
-            "FORT DE FRANCE",
-            "BNPAMQMX"
-        ],
-        [
-            "2",
-            "CREDIT AGRICOLE",
-            "FORT DE FRANCE",
-            "AGRIMQMX"
-        ],
-        [
-            "3",
-            "CREDIT AGRICOLE",
-            "LE LAMENTIN",
-            "AGRIMQMXLEL"
-        ]
+        {
+            "id": "1",
+            "bank": "BANQUE NATIONALE DE PARIS SUCCURSALE DE FORT DE FRANCE",
+            "city": "FORT DE FRANCE",
+            "branch": null,
+            "swift_code": "BNPAMQMX"
+        },
+        {
+            "id": "2",
+            "bank": "CREDIT AGRICOLE",
+            "city": "FORT DE FRANCE",
+            "branch": null,
+            "swift_code": "AGRIMQMX"
+        },
+        {
+            "id": "3",
+            "bank": "CREDIT AGRICOLE",
+            "city": "LE LAMENTIN",
+            "branch": null,
+            "swift_code": "AGRIMQMXLEL"
+        }
     ]
 }

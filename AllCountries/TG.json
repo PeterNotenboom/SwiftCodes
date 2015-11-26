@@ -2,159 +2,180 @@
     "country": "Togo",
     "country_code": "TG",
     "list": [
-        [
-            "1",
-            "BANK OF AFRICA TOGO",
-            "LOME",
-            "AFRITGTG"
-        ],
-        [
-            "2",
-            "BANQUE ATLANTIQUE TOGO",
-            "LOME",
-            "ATTGTGTG"
-        ],
-        [
-            "3",
-            "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
-            "KARA",
-            "(KARA BRANCH)",
-            "BCAOTGTGKAR"
-        ],
-        [
-            "4",
-            "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
-            "LOME",
-            "BCAOTGTG"
-        ],
-        [
-            "5",
-            "BANQUE INTERNATIONALE POUR L'AFRIQUE AU TOGO",
-            "LOME",
-            "BILTTGTG"
-        ],
-        [
-            "6",
-            "BANQUE OUEST AFRICAINE DE DEVELOPPEMENT (BOAD)",
-            "LOME",
-            "BOADTGTG"
-        ],
-        [
-            "7",
-            "BANQUE POPULAIRE POUR L'EPARGNE ET LE CREDIT (FORMERLY CAISSE D'EPARGNE DU TOGO)",
-            "LOME",
-            "BPECTGTG"
-        ],
-        [
-            "8",
-            "BANQUE REGIONALE DE SOLIDARITE - TOGO",
-            "LOME",
-            "BRSWTGTG"
-        ],
-        [
-            "9",
-            "BANQUE TOGOLAISE DE DEVELOPPEMENT",
-            "LOME",
-            "BTDETGTG"
-        ],
-        [
-            "10",
-            "BANQUE TOGOLAISE POUR LE COMMERCE ET L'INDUSTRIE",
-            "LOME",
-            "BTCITGTG"
-        ],
-        [
-            "11",
-            "BSIC TOGO SA",
-            "LOME",
-            "BSAHTGTG"
-        ],
-        [
-            "12",
-            "DIAMONDBANK TOGO",
-            "LOME",
-            "DBLNTGTG"
-        ],
-        [
-            "13",
-            "ECOBANK TOGO",
-            "LOME",
-            "(EPROCESS INT.)",
-            "ECOCTGTGEPI"
-        ],
-        [
-            "14",
-            "ECOBANK TOGO",
-            "LOME",
-            "(ETI DEPARTMENT)",
-            "ECOCTGTGETI"
-        ],
-        [
-            "15",
-            "ECOBANK TOGO",
-            "LOME",
-            "(SOAPI\/WAIPS)",
-            "ECOCTGTGWPS"
-        ],
-        [
-            "16",
-            "ECOBANK TOGO",
-            "LOME",
-            "ECOCTGTA"
-        ],
-        [
-            "17",
-            "ECOBANK TOGO",
-            "LOME",
-            "ECOCTGTG"
-        ],
-        [
-            "18",
-            "ECOBANK TOGO",
-            "LOME",
-            "ECOCTGTGBID"
-        ],
-        [
-            "19",
-            "ECOBANK TOGO",
-            "LOME",
-            "ECOCTGTS"
-        ],
-        [
-            "20",
-            "ECOBANK TOGO",
-            "LOME",
-            "ECOCTGTU"
-        ],
-        [
-            "21",
-            "ECOBANK TOGO",
-            "LOME",
-            "ECOCTGTX"
-        ],
-        [
-            "22",
-            "ECOWAS BANK FOR INVESTMENT AND DEVELOPMENT",
-            "LOME",
-            "EBIDTGTG"
-        ],
-        [
-            "23",
-            "ORABANK TOGO",
-            "LOME",
-            "ORBKTGTG"
-        ],
-        [
-            "24",
-            "SOCIETE INTER-AFRICAINE DE BANQUE",
-            "LOME",
-            "SIABTGTG"
-        ],
-        [
-            "25",
-            "UNION TOGOLAISE DE BANQUE",
-            "LOME",
-            "UNTBTGTG"
-        ]
+        {
+            "id": "1",
+            "bank": "BANK OF AFRICA TOGO",
+            "city": "LOME",
+            "branch": null,
+            "swift_code": "AFRITGTG"
+        },
+        {
+            "id": "2",
+            "bank": "BANQUE ATLANTIQUE TOGO",
+            "city": "LOME",
+            "branch": null,
+            "swift_code": "ATTGTGTG"
+        },
+        {
+            "id": "3",
+            "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
+            "city": "KARA",
+            "branch": "(KARA BRANCH)",
+            "swift_code": "BCAOTGTGKAR"
+        },
+        {
+            "id": "4",
+            "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
+            "city": "LOME",
+            "branch": null,
+            "swift_code": "BCAOTGTG"
+        },
+        {
+            "id": "5",
+            "bank": "BANQUE INTERNATIONALE POUR L'AFRIQUE AU TOGO",
+            "city": "LOME",
+            "branch": null,
+            "swift_code": "BILTTGTG"
+        },
+        {
+            "id": "6",
+            "bank": "BANQUE OUEST AFRICAINE DE DEVELOPPEMENT (BOAD)",
+            "city": "LOME",
+            "branch": null,
+            "swift_code": "BOADTGTG"
+        },
+        {
+            "id": "7",
+            "bank": "BANQUE POPULAIRE POUR L'EPARGNE ET LE CREDIT (FORMERLY CAISSE D'EPARGNE DU TOGO)",
+            "city": "LOME",
+            "branch": null,
+            "swift_code": "BPECTGTG"
+        },
+        {
+            "id": "8",
+            "bank": "BANQUE REGIONALE DE SOLIDARITE - TOGO",
+            "city": "LOME",
+            "branch": null,
+            "swift_code": "BRSWTGTG"
+        },
+        {
+            "id": "9",
+            "bank": "BANQUE TOGOLAISE DE DEVELOPPEMENT",
+            "city": "LOME",
+            "branch": null,
+            "swift_code": "BTDETGTG"
+        },
+        {
+            "id": "10",
+            "bank": "BANQUE TOGOLAISE POUR LE COMMERCE ET L'INDUSTRIE",
+            "city": "LOME",
+            "branch": null,
+            "swift_code": "BTCITGTG"
+        },
+        {
+            "id": "11",
+            "bank": "BSIC TOGO SA",
+            "city": "LOME",
+            "branch": null,
+            "swift_code": "BSAHTGTG"
+        },
+        {
+            "id": "12",
+            "bank": "DIAMONDBANK TOGO",
+            "city": "LOME",
+            "branch": null,
+            "swift_code": "DBLNTGTG"
+        },
+        {
+            "id": "13",
+            "bank": "ECOBANK TOGO",
+            "city": "LOME",
+            "branch": "(EPROCESS INT.)",
+            "swift_code": "ECOCTGTGEPI"
+        },
+        {
+            "id": "14",
+            "bank": "ECOBANK TOGO",
+            "city": "LOME",
+            "branch": "(ETI DEPARTMENT)",
+            "swift_code": "ECOCTGTGETI"
+        },
+        {
+            "id": "15",
+            "bank": "ECOBANK TOGO",
+            "city": "LOME",
+            "branch": "(SOAPI\/WAIPS)",
+            "swift_code": "ECOCTGTGWPS"
+        },
+        {
+            "id": "16",
+            "bank": "ECOBANK TOGO",
+            "city": "LOME",
+            "branch": null,
+            "swift_code": "ECOCTGTA"
+        },
+        {
+            "id": "17",
+            "bank": "ECOBANK TOGO",
+            "city": "LOME",
+            "branch": null,
+            "swift_code": "ECOCTGTG"
+        },
+        {
+            "id": "18",
+            "bank": "ECOBANK TOGO",
+            "city": "LOME",
+            "branch": null,
+            "swift_code": "ECOCTGTGBID"
+        },
+        {
+            "id": "19",
+            "bank": "ECOBANK TOGO",
+            "city": "LOME",
+            "branch": null,
+            "swift_code": "ECOCTGTS"
+        },
+        {
+            "id": "20",
+            "bank": "ECOBANK TOGO",
+            "city": "LOME",
+            "branch": null,
+            "swift_code": "ECOCTGTU"
+        },
+        {
+            "id": "21",
+            "bank": "ECOBANK TOGO",
+            "city": "LOME",
+            "branch": null,
+            "swift_code": "ECOCTGTX"
+        },
+        {
+            "id": "22",
+            "bank": "ECOWAS BANK FOR INVESTMENT AND DEVELOPMENT",
+            "city": "LOME",
+            "branch": null,
+            "swift_code": "EBIDTGTG"
+        },
+        {
+            "id": "23",
+            "bank": "ORABANK TOGO",
+            "city": "LOME",
+            "branch": null,
+            "swift_code": "ORBKTGTG"
+        },
+        {
+            "id": "24",
+            "bank": "SOCIETE INTER-AFRICAINE DE BANQUE",
+            "city": "LOME",
+            "branch": null,
+            "swift_code": "SIABTGTG"
+        },
+        {
+            "id": "25",
+            "bank": "UNION TOGOLAISE DE BANQUE",
+            "city": "LOME",
+            "branch": null,
+            "swift_code": "UNTBTGTG"
+        }
     ]
 }

@@ -2,131 +2,152 @@
     "country": "Uzbekistan",
     "country_code": "UZ",
     "list": [
-        [
-            "1",
-            "ALOKABANK JOINT STOCK COMMERCIAL BANK",
-            "TASHKENT",
-            "JSCLUZ22"
-        ],
-        [
-            "2",
-            "ASIA ALLIANCE BANK",
-            "TASHKENT",
-            "ASACUZ22"
-        ],
-        [
-            "3",
-            "CENTRAL BANK OF THE REPUBLIC UZBEKISTAN",
-            "TASHKENT",
-            "CBUZUZ22"
-        ],
-        [
-            "4",
-            "INFINBANK",
-            "TASHKENT",
-            "INFBUZ2X"
-        ],
-        [
-            "5",
-            "IPOTEKA-BANK",
-            "TASHKENT",
-            "UZHOUZ22"
-        ],
-        [
-            "6",
-            "JOINT STOCK COMMERCIAL BANK 'AGROBANK'",
-            "TASHKENT",
-            "PAKHUZ22"
-        ],
-        [
-            "7",
-            "JOINT STOCK COMMERCIAL BANK SAVDOGAR",
-            "TASHKENT",
-            "JSCSUZ22"
-        ],
-        [
-            "8",
-            "JOINT-STOCK COMMERCIAL BANK TURONBANK",
-            "TASHKENT",
-            "TUROUZ22"
-        ],
-        [
-            "9",
-            "JSIC BANK IPAK YULI",
-            "TASHKENT",
-            "INIPUZ22"
-        ],
-        [
-            "10",
-            "KAPITALBANK, JSCB",
-            "TASHKENT",
-            "KACHUZ22"
-        ],
-        [
-            "11",
-            "KDB BANK UZBEKISTAN CJSC",
-            "TASHKENT",
-            "KODBUZ22"
-        ],
-        [
-            "12",
-            "KHAMKORBANK AKB",
-            "ANDIZHAN",
-            "KHKKUZ22"
-        ],
-        [
-            "13",
-            "MICROCREDITBANK",
-            "TASHKENT",
-            "MICDUZ22"
-        ],
-        [
-            "14",
-            "NATIONAL BANK FOR FOREIGN ECONOMIC ACTIVITY OF THE REPUBLIC OF UZBEKISTAN",
-            "TASHKENT",
-            "NBFAUZ2X"
-        ],
-        [
-            "15",
-            "ORIENT FINANS BANK",
-            "TASHKENT",
-            "ORFBUZ22"
-        ],
-        [
-            "16",
-            "PRIVATE BANK 'DAVR BANK'",
-            "TASHKENT",
-            "DVRBUZ22"
-        ],
-        [
-            "17",
-            "RAVNAQ BANK",
-            "TASHKENT",
-            "RVBKUZ22"
-        ],
-        [
-            "18",
-            "STATE COMMERCIAL PEOPLE-BANK OF THE REPUBLIC OF UZBEKISTAN",
-            "TASHKENT",
-            "SCPEUZ22"
-        ],
-        [
-            "19",
-            "STATE JOINT-STOCK COMMERCIAL BANK ASAKA",
-            "TASHKENT",
-            "ASBKUZ22"
-        ],
-        [
-            "20",
-            "TRUSTBANK, PRIVATE JOINT STOCK-EXCHANGE BANK",
-            "TASHKENT",
-            "TRSAUZ22"
-        ],
-        [
-            "21",
-            "UT-BANK",
-            "TASHKENT",
-            "UZTUUZ22"
-        ]
+        {
+            "id": "1",
+            "bank": "ALOKABANK JOINT STOCK COMMERCIAL BANK",
+            "city": "TASHKENT",
+            "branch": null,
+            "swift_code": "JSCLUZ22"
+        },
+        {
+            "id": "2",
+            "bank": "ASIA ALLIANCE BANK",
+            "city": "TASHKENT",
+            "branch": null,
+            "swift_code": "ASACUZ22"
+        },
+        {
+            "id": "3",
+            "bank": "CENTRAL BANK OF THE REPUBLIC UZBEKISTAN",
+            "city": "TASHKENT",
+            "branch": null,
+            "swift_code": "CBUZUZ22"
+        },
+        {
+            "id": "4",
+            "bank": "INFINBANK",
+            "city": "TASHKENT",
+            "branch": null,
+            "swift_code": "INFBUZ2X"
+        },
+        {
+            "id": "5",
+            "bank": "IPOTEKA-BANK",
+            "city": "TASHKENT",
+            "branch": null,
+            "swift_code": "UZHOUZ22"
+        },
+        {
+            "id": "6",
+            "bank": "JOINT STOCK COMMERCIAL BANK 'AGROBANK'",
+            "city": "TASHKENT",
+            "branch": null,
+            "swift_code": "PAKHUZ22"
+        },
+        {
+            "id": "7",
+            "bank": "JOINT STOCK COMMERCIAL BANK SAVDOGAR",
+            "city": "TASHKENT",
+            "branch": null,
+            "swift_code": "JSCSUZ22"
+        },
+        {
+            "id": "8",
+            "bank": "JOINT-STOCK COMMERCIAL BANK TURONBANK",
+            "city": "TASHKENT",
+            "branch": null,
+            "swift_code": "TUROUZ22"
+        },
+        {
+            "id": "9",
+            "bank": "JSIC BANK IPAK YULI",
+            "city": "TASHKENT",
+            "branch": null,
+            "swift_code": "INIPUZ22"
+        },
+        {
+            "id": "10",
+            "bank": "KAPITALBANK, JSCB",
+            "city": "TASHKENT",
+            "branch": null,
+            "swift_code": "KACHUZ22"
+        },
+        {
+            "id": "11",
+            "bank": "KDB BANK UZBEKISTAN CJSC",
+            "city": "TASHKENT",
+            "branch": null,
+            "swift_code": "KODBUZ22"
+        },
+        {
+            "id": "12",
+            "bank": "KHAMKORBANK AKB",
+            "city": "ANDIZHAN",
+            "branch": null,
+            "swift_code": "KHKKUZ22"
+        },
+        {
+            "id": "13",
+            "bank": "MICROCREDITBANK",
+            "city": "TASHKENT",
+            "branch": null,
+            "swift_code": "MICDUZ22"
+        },
+        {
+            "id": "14",
+            "bank": "NATIONAL BANK FOR FOREIGN ECONOMIC ACTIVITY OF THE REPUBLIC OF UZBEKISTAN",
+            "city": "TASHKENT",
+            "branch": null,
+            "swift_code": "NBFAUZ2X"
+        },
+        {
+            "id": "15",
+            "bank": "ORIENT FINANS BANK",
+            "city": "TASHKENT",
+            "branch": null,
+            "swift_code": "ORFBUZ22"
+        },
+        {
+            "id": "16",
+            "bank": "PRIVATE BANK 'DAVR BANK'",
+            "city": "TASHKENT",
+            "branch": null,
+            "swift_code": "DVRBUZ22"
+        },
+        {
+            "id": "17",
+            "bank": "RAVNAQ BANK",
+            "city": "TASHKENT",
+            "branch": null,
+            "swift_code": "RVBKUZ22"
+        },
+        {
+            "id": "18",
+            "bank": "STATE COMMERCIAL PEOPLE-BANK OF THE REPUBLIC OF UZBEKISTAN",
+            "city": "TASHKENT",
+            "branch": null,
+            "swift_code": "SCPEUZ22"
+        },
+        {
+            "id": "19",
+            "bank": "STATE JOINT-STOCK COMMERCIAL BANK ASAKA",
+            "city": "TASHKENT",
+            "branch": null,
+            "swift_code": "ASBKUZ22"
+        },
+        {
+            "id": "20",
+            "bank": "TRUSTBANK, PRIVATE JOINT STOCK-EXCHANGE BANK",
+            "city": "TASHKENT",
+            "branch": null,
+            "swift_code": "TRSAUZ22"
+        },
+        {
+            "id": "21",
+            "bank": "UT-BANK",
+            "city": "TASHKENT",
+            "branch": null,
+            "swift_code": "UZTUUZ22"
+        }
     ]
 }

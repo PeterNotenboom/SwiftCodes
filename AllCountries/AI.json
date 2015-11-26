@@ -2,35 +2,40 @@
     "country": "Anguilla",
     "country_code": "AI",
     "list": [
-        [
-            "1",
-            "CARIBBEAN COMMERCIAL BANK (ANG) LTD.",
-            "THE VALLEY",
-            "CABNAIAI"
-        ],
-        [
-            "2",
-            "FIRSTCARIBBEAN INTERNATIONAL BANK",
-            "THE VALLEY",
-            "FCIBAIAI"
-        ],
-        [
-            "3",
-            "GOVERNMENT OF ANGUILLA",
-            "THE VALLEY",
-            "GVANAIAI"
-        ],
-        [
-            "4",
-            "NATIONAL BANK OF ANGUILLA LTD.",
-            "THE VALLEY",
-            "ANGUAIAI"
-        ],
-        [
-            "5",
-            "SCOTIABANK ANGUILLA LTD.",
-            "THE VALLEY",
-            "NOSCAIAI"
-        ]
+        {
+            "id": "1",
+            "bank": "CARIBBEAN COMMERCIAL BANK (ANG) LTD.",
+            "city": "THE VALLEY",
+            "branch": null,
+            "swift_code": "CABNAIAI"
+        },
+        {
+            "id": "2",
+            "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK",
+            "city": "THE VALLEY",
+            "branch": null,
+            "swift_code": "FCIBAIAI"
+        },
+        {
+            "id": "3",
+            "bank": "GOVERNMENT OF ANGUILLA",
+            "city": "THE VALLEY",
+            "branch": null,
+            "swift_code": "GVANAIAI"
+        },
+        {
+            "id": "4",
+            "bank": "NATIONAL BANK OF ANGUILLA LTD.",
+            "city": "THE VALLEY",
+            "branch": null,
+            "swift_code": "ANGUAIAI"
+        },
+        {
+            "id": "5",
+            "bank": "SCOTIABANK ANGUILLA LTD.",
+            "city": "THE VALLEY",
+            "branch": null,
+            "swift_code": "NOSCAIAI"
+        }
     ]
 }

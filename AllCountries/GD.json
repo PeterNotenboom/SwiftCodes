@@ -2,41 +2,47 @@
     "country": "Grenada",
     "country_code": "GD",
     "list": [
-        [
-            "1",
-            "BANK OF NOVA SCOTIA,THE",
-            "ST. GEORGE'S",
-            "NOSCGDGD"
-        ],
-        [
-            "2",
-            "FIRSTCARIBBEAN INTERNATIONAL BANK",
-            "ST. GEORGE'S",
-            "FCIBGDGD"
-        ],
-        [
-            "3",
-            "GOVERNMENT OF GRENADA",
-            "ST. GEORGE'S",
-            "GVGDGDGD"
-        ],
-        [
-            "4",
-            "GRENADA CO-OPERATIVE BANK LIMITED",
-            "ST. GEORGE'S",
-            "GROAGDGD"
-        ],
-        [
-            "5",
-            "RBTT BANK GRENADA LIMITED",
-            "ST. GEORGE'S",
-            "RBTTGDGD"
-        ],
-        [
-            "6",
-            "REPUBLIC BANK GRENADA LIMITED",
-            "ST. GEORGE'S",
-            "NCBGGDGD"
-        ]
+        {
+            "id": "1",
+            "bank": "BANK OF NOVA SCOTIA,THE",
+            "city": "ST. GEORGE'S",
+            "branch": null,
+            "swift_code": "NOSCGDGD"
+        },
+        {
+            "id": "2",
+            "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK",
+            "city": "ST. GEORGE'S",
+            "branch": null,
+            "swift_code": "FCIBGDGD"
+        },
+        {
+            "id": "3",
+            "bank": "GOVERNMENT OF GRENADA",
+            "city": "ST. GEORGE'S",
+            "branch": null,
+            "swift_code": "GVGDGDGD"
+        },
+        {
+            "id": "4",
+            "bank": "GRENADA CO-OPERATIVE BANK LIMITED",
+            "city": "ST. GEORGE'S",
+            "branch": null,
+            "swift_code": "GROAGDGD"
+        },
+        {
+            "id": "5",
+            "bank": "RBTT BANK GRENADA LIMITED",
+            "city": "ST. GEORGE'S",
+            "branch": null,
+            "swift_code": "RBTTGDGD"
+        },
+        {
+            "id": "6",
+            "bank": "REPUBLIC BANK GRENADA LIMITED",
+            "city": "ST. GEORGE'S",
+            "branch": null,
+            "swift_code": "NCBGGDGD"
+        }
     ]
 }

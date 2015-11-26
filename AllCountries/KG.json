@@ -2,155 +2,180 @@
     "country": "Kyrgyzstan",
     "country_code": "KG",
     "list": [
-        [
-            "1",
-            "AIYL BANK",
-            "BISHKEK",
-            "AIYLKG22"
-        ],
-        [
-            "2",
-            "AMANBANK (JOINT-STOCK RUSSIAN-KYRGYZ AMANBANK)",
-            "BISHKEK",
-            "AJRAKG22"
-        ],
-        [
-            "3",
-            "BAI-TUSHUM BANK CJSC",
-            "BISHKEK",
-            "BBTPKG22"
-        ],
-        [
-            "4",
-            "BAKAI BANK JOINT STOCK",
-            "BISHKEK",
-            "BAKAKG22"
-        ],
-        [
-            "5",
-            "BANK KYRGYZSTAN JSC",
-            "BISHKEK",
-            "KYRSKG22"
-        ],
-        [
-            "6",
-            "BANK OF ASIA CJSC",
-            "BISHKEK",
-            "ASCJKG22"
-        ],
-        [
-            "7",
-            "BTA BANK CJSC (FORMERLY INEXIMBANK CJSC), BISHKEK,KG",
-            "BISHKEK",
-            "EIMBKG22"
-        ],
-        [
-            "8",
-            "DEMIR KYRGYZ INTERNATIONAL BANK",
-            "BISHKEK",
-            "DEMIKG22"
-        ],
-        [
-            "9",
-            "DOS-CREDOBANK OJSC",
-            "BISHKEK",
-            "DOSSKG22"
-        ],
-        [
-            "10",
-            "FINANCECREDITBANK KAB",
-            "BISHKEK",
-            "FIKBKG22"
-        ],
-        [
-            "11",
-            "INVESTMENT BANK 'YSYK-KOL'",
-            "BISHKEK",
-            "INVYKG22"
-        ],
-        [
-            "12",
-            "JOINT-STOCK ECOISLAMICBANK",
-            "BISHKEK",
-            "ECBIKG22"
-        ],
-        [
-            "13",
-            "KYRGYZ INVESTMENT AND CREDIT BANK",
-            "BISHKEK",
-            "KICBKG22"
-        ],
-        [
-            "14",
-            "KYRGYZKREDIT BANK",
-            "BISHKEK",
-            "KYRGKG22"
-        ],
-        [
-            "15",
-            "KYRGYZ-SWISS BANK CJSC",
-            "BISHKEK",
-            "KSBCKG22"
-        ],
-        [
-            "16",
-            "MANAS BANK",
-            "BISHKEK",
-            "MNSBKG22"
-        ],
-        [
-            "17",
-            "NATIONAL BANK OF PAKISTAN BISHKEK BRANCH",
-            "BISHKEK",
-            "NBPAKG22"
-        ],
-        [
-            "18",
-            "NATIONAL BANK OF THE KYRGYZ REPUBLIC",
-            "BISHKEK",
-            "NBKIKG22"
-        ],
-        [
-            "19",
-            "OJSC HALYK BANK KYRGYZSTAN",
-            "BISHKEK",
-            "MAKAKG22"
-        ],
-        [
-            "20",
-            "OJSC KAZKOMMERTSBANK KYRGYZSTAN",
-            "BISHKEK",
-            "KAKYKG22"
-        ],
-        [
-            "21",
-            "OJSC RUSSIAN INVESTMENT BANK",
-            "BISHKEK",
-            "RINBKG22"
-        ],
-        [
-            "22",
-            "OPTIMA BANK OJSC",
-            "BISHKEK",
-            "ENEJKG22"
-        ],
-        [
-            "23",
-            "RSK BANK",
-            "BISHKEK",
-            "SESVKG22"
-        ],
-        [
-            "24",
-            "THE OPEN JOINT-STOCK COMPANY CAPITAL BANK",
-            "BISHKEK",
-            "AKILKG22"
-        ],
-        [
-            "25",
-            "TOLUBAY BANK - CLOSED JOINT STOCK COMPANY",
-            "BISHKEK",
-            "TOLUKG22"
-        ]
+        {
+            "id": "1",
+            "bank": "AIYL BANK",
+            "city": "BISHKEK",
+            "branch": null,
+            "swift_code": "AIYLKG22"
+        },
+        {
+            "id": "2",
+            "bank": "AMANBANK (JOINT-STOCK RUSSIAN-KYRGYZ AMANBANK)",
+            "city": "BISHKEK",
+            "branch": null,
+            "swift_code": "AJRAKG22"
+        },
+        {
+            "id": "3",
+            "bank": "BAI-TUSHUM BANK CJSC",
+            "city": "BISHKEK",
+            "branch": null,
+            "swift_code": "BBTPKG22"
+        },
+        {
+            "id": "4",
+            "bank": "BAKAI BANK JOINT STOCK",
+            "city": "BISHKEK",
+            "branch": null,
+            "swift_code": "BAKAKG22"
+        },
+        {
+            "id": "5",
+            "bank": "BANK KYRGYZSTAN JSC",
+            "city": "BISHKEK",
+            "branch": null,
+            "swift_code": "KYRSKG22"
+        },
+        {
+            "id": "6",
+            "bank": "BANK OF ASIA CJSC",
+            "city": "BISHKEK",
+            "branch": null,
+            "swift_code": "ASCJKG22"
+        },
+        {
+            "id": "7",
+            "bank": "BTA BANK CJSC (FORMERLY INEXIMBANK CJSC), BISHKEK,KG",
+            "city": "BISHKEK",
+            "branch": null,
+            "swift_code": "EIMBKG22"
+        },
+        {
+            "id": "8",
+            "bank": "DEMIR KYRGYZ INTERNATIONAL BANK",
+            "city": "BISHKEK",
+            "branch": null,
+            "swift_code": "DEMIKG22"
+        },
+        {
+            "id": "9",
+            "bank": "DOS-CREDOBANK OJSC",
+            "city": "BISHKEK",
+            "branch": null,
+            "swift_code": "DOSSKG22"
+        },
+        {
+            "id": "10",
+            "bank": "FINANCECREDITBANK KAB",
+            "city": "BISHKEK",
+            "branch": null,
+            "swift_code": "FIKBKG22"
+        },
+        {
+            "id": "11",
+            "bank": "INVESTMENT BANK 'YSYK-KOL'",
+            "city": "BISHKEK",
+            "branch": null,
+            "swift_code": "INVYKG22"
+        },
+        {
+            "id": "12",
+            "bank": "JOINT-STOCK ECOISLAMICBANK",
+            "city": "BISHKEK",
+            "branch": null,
+            "swift_code": "ECBIKG22"
+        },
+        {
+            "id": "13",
+            "bank": "KYRGYZ INVESTMENT AND CREDIT BANK",
+            "city": "BISHKEK",
+            "branch": null,
+            "swift_code": "KICBKG22"
+        },
+        {
+            "id": "14",
+            "bank": "KYRGYZKREDIT BANK",
+            "city": "BISHKEK",
+            "branch": null,
+            "swift_code": "KYRGKG22"
+        },
+        {
+            "id": "15",
+            "bank": "KYRGYZ-SWISS BANK CJSC",
+            "city": "BISHKEK",
+            "branch": null,
+            "swift_code": "KSBCKG22"
+        },
+        {
+            "id": "16",
+            "bank": "MANAS BANK",
+            "city": "BISHKEK",
+            "branch": null,
+            "swift_code": "MNSBKG22"
+        },
+        {
+            "id": "17",
+            "bank": "NATIONAL BANK OF PAKISTAN BISHKEK BRANCH",
+            "city": "BISHKEK",
+            "branch": null,
+            "swift_code": "NBPAKG22"
+        },
+        {
+            "id": "18",
+            "bank": "NATIONAL BANK OF THE KYRGYZ REPUBLIC",
+            "city": "BISHKEK",
+            "branch": null,
+            "swift_code": "NBKIKG22"
+        },
+        {
+            "id": "19",
+            "bank": "OJSC HALYK BANK KYRGYZSTAN",
+            "city": "BISHKEK",
+            "branch": null,
+            "swift_code": "MAKAKG22"
+        },
+        {
+            "id": "20",
+            "bank": "OJSC KAZKOMMERTSBANK KYRGYZSTAN",
+            "city": "BISHKEK",
+            "branch": null,
+            "swift_code": "KAKYKG22"
+        },
+        {
+            "id": "21",
+            "bank": "OJSC RUSSIAN INVESTMENT BANK",
+            "city": "BISHKEK",
+            "branch": null,
+            "swift_code": "RINBKG22"
+        },
+        {
+            "id": "22",
+            "bank": "OPTIMA BANK OJSC",
+            "city": "BISHKEK",
+            "branch": null,
+            "swift_code": "ENEJKG22"
+        },
+        {
+            "id": "23",
+            "bank": "RSK BANK",
+            "city": "BISHKEK",
+            "branch": null,
+            "swift_code": "SESVKG22"
+        },
+        {
+            "id": "24",
+            "bank": "THE OPEN JOINT-STOCK COMPANY CAPITAL BANK",
+            "city": "BISHKEK",
+            "branch": null,
+            "swift_code": "AKILKG22"
+        },
+        {
+            "id": "25",
+            "bank": "TOLUBAY BANK - CLOSED JOINT STOCK COMPANY",
+            "city": "BISHKEK",
+            "branch": null,
+            "swift_code": "TOLUKG22"
+        }
     ]
 }

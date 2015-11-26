@@ -2,131 +2,152 @@
     "country": "Puerto Rico",
     "country_code": "PR",
     "list": [
-        [
-            "1",
-            "ACTIVO INTERNATIONAL BANK",
-            "SAN JUAN",
-            "ACTTPRSJ"
-        ],
-        [
-            "2",
-            "ANDCAPITAL BANK INTERNATIONAL CORP",
-            "HATO REY",
-            "ACBIPR22"
-        ],
-        [
-            "3",
-            "ARCA INTERNATIONAL BANK, INC.",
-            "SAN JUAN",
-            "ARNRPRSJ"
-        ],
-        [
-            "4",
-            "BANCO POPULAR DE PUERTO RICO",
-            "SAN JUAN",
-            "BPPRPRSB"
-        ],
-        [
-            "5",
-            "BANCO POPULAR DE PUERTO RICO",
-            "SAN JUAN",
-            "BPPRPRSX"
-        ],
-        [
-            "6",
-            "BANCO SAN JUAN INTERNACIONAL INC",
-            "SAN JUAN",
-            "BSJIPRSJ"
-        ],
-        [
-            "7",
-            "BANCO SANTANDER PUERTO RICO",
-            "SAN JUAN",
-            "BSCHPRSX"
-        ],
-        [
-            "8",
-            "BANCO SANTANDER PUERTO RICO",
-            "SAN JUAN",
-            "BSCHPRSXSOV"
-        ],
-        [
-            "9",
-            "BANCOLOMBIA PUERTO RICO INTERNACIONAL INC.",
-            "SAN JUAN",
-            "CFSUPRSJ"
-        ],
-        [
-            "10",
-            "BANCREDITO INTERNATIONAL BANK CORP",
-            "SAN JUAN",
-            "BIBCPRSJ"
-        ],
-        [
-            "11",
-            "BBO INTERNATIONAL PRIVATE BANK INC",
-            "SAN JUAN",
-            "BBOIPRSJ"
-        ],
-        [
-            "12",
-            "BST INTERNATIONAL BANK, INC",
-            "HATO REY",
-            "TOTAPR22"
-        ],
-        [
-            "13",
-            "CARACAS INTERNATIONAL BANKING CORP.",
-            "SAN JUAN",
-            "CIBPPRSJ"
-        ],
-        [
-            "14",
-            "CITIBANK, NA PUERTO RICO",
-            "SAN JUAN",
-            "CITIPRSJ"
-        ],
-        [
-            "15",
-            "FACEBANK INTERNATIONAL CORPORATION",
-            "GUAYNABO",
-            "FILCPR22"
-        ],
-        [
-            "16",
-            "FIRSTBANK PUERTO RICO",
-            "SANTURCE",
-            "FBPRPRSJ"
-        ],
-        [
-            "17",
-            "ITALBANK INTERNATIONAL, INC",
-            "SAN JUAN",
-            "IBIIPRSJ"
-        ],
-        [
-            "18",
-            "NODUS INTERNATIONAL BANK",
-            "SAN JUAN",
-            "NDBKPRSJ"
-        ],
-        [
-            "19",
-            "ORIENTAL BANK",
-            "HATO REY",
-            "OBPRPRSJ"
-        ],
-        [
-            "20",
-            "SCOTIABANK DE PUERTO RICO",
-            "HATO REY",
-            "NOSCPR22"
-        ],
-        [
-            "21",
-            "SCOTIABANK DE PUERTO RICO",
-            "SAN JUAN",
-            "NOSCPR22MIA"
-        ]
+        {
+            "id": "1",
+            "bank": "ACTIVO INTERNATIONAL BANK",
+            "city": "SAN JUAN",
+            "branch": null,
+            "swift_code": "ACTTPRSJ"
+        },
+        {
+            "id": "2",
+            "bank": "ANDCAPITAL BANK INTERNATIONAL CORP",
+            "city": "HATO REY",
+            "branch": null,
+            "swift_code": "ACBIPR22"
+        },
+        {
+            "id": "3",
+            "bank": "ARCA INTERNATIONAL BANK, INC.",
+            "city": "SAN JUAN",
+            "branch": null,
+            "swift_code": "ARNRPRSJ"
+        },
+        {
+            "id": "4",
+            "bank": "BANCO POPULAR DE PUERTO RICO",
+            "city": "SAN JUAN",
+            "branch": null,
+            "swift_code": "BPPRPRSB"
+        },
+        {
+            "id": "5",
+            "bank": "BANCO POPULAR DE PUERTO RICO",
+            "city": "SAN JUAN",
+            "branch": null,
+            "swift_code": "BPPRPRSX"
+        },
+        {
+            "id": "6",
+            "bank": "BANCO SAN JUAN INTERNACIONAL INC",
+            "city": "SAN JUAN",
+            "branch": null,
+            "swift_code": "BSJIPRSJ"
+        },
+        {
+            "id": "7",
+            "bank": "BANCO SANTANDER PUERTO RICO",
+            "city": "SAN JUAN",
+            "branch": null,
+            "swift_code": "BSCHPRSX"
+        },
+        {
+            "id": "8",
+            "bank": "BANCO SANTANDER PUERTO RICO",
+            "city": "SAN JUAN",
+            "branch": null,
+            "swift_code": "BSCHPRSXSOV"
+        },
+        {
+            "id": "9",
+            "bank": "BANCOLOMBIA PUERTO RICO INTERNACIONAL INC.",
+            "city": "SAN JUAN",
+            "branch": null,
+            "swift_code": "CFSUPRSJ"
+        },
+        {
+            "id": "10",
+            "bank": "BANCREDITO INTERNATIONAL BANK CORP",
+            "city": "SAN JUAN",
+            "branch": null,
+            "swift_code": "BIBCPRSJ"
+        },
+        {
+            "id": "11",
+            "bank": "BBO INTERNATIONAL PRIVATE BANK INC",
+            "city": "SAN JUAN",
+            "branch": null,
+            "swift_code": "BBOIPRSJ"
+        },
+        {
+            "id": "12",
+            "bank": "BST INTERNATIONAL BANK, INC",
+            "city": "HATO REY",
+            "branch": null,
+            "swift_code": "TOTAPR22"
+        },
+        {
+            "id": "13",
+            "bank": "CARACAS INTERNATIONAL BANKING CORP.",
+            "city": "SAN JUAN",
+            "branch": null,
+            "swift_code": "CIBPPRSJ"
+        },
+        {
+            "id": "14",
+            "bank": "CITIBANK, NA PUERTO RICO",
+            "city": "SAN JUAN",
+            "branch": null,
+            "swift_code": "CITIPRSJ"
+        },
+        {
+            "id": "15",
+            "bank": "FACEBANK INTERNATIONAL CORPORATION",
+            "city": "GUAYNABO",
+            "branch": null,
+            "swift_code": "FILCPR22"
+        },
+        {
+            "id": "16",
+            "bank": "FIRSTBANK PUERTO RICO",
+            "city": "SANTURCE",
+            "branch": null,
+            "swift_code": "FBPRPRSJ"
+        },
+        {
+            "id": "17",
+            "bank": "ITALBANK INTERNATIONAL, INC",
+            "city": "SAN JUAN",
+            "branch": null,
+            "swift_code": "IBIIPRSJ"
+        },
+        {
+            "id": "18",
+            "bank": "NODUS INTERNATIONAL BANK",
+            "city": "SAN JUAN",
+            "branch": null,
+            "swift_code": "NDBKPRSJ"
+        },
+        {
+            "id": "19",
+            "bank": "ORIENTAL BANK",
+            "city": "HATO REY",
+            "branch": null,
+            "swift_code": "OBPRPRSJ"
+        },
+        {
+            "id": "20",
+            "bank": "SCOTIABANK DE PUERTO RICO",
+            "city": "HATO REY",
+            "branch": null,
+            "swift_code": "NOSCPR22"
+        },
+        {
+            "id": "21",
+            "bank": "SCOTIABANK DE PUERTO RICO",
+            "city": "SAN JUAN",
+            "branch": null,
+            "swift_code": "NOSCPR22MIA"
+        }
     ]
 }

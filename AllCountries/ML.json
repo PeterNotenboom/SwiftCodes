@@ -2,115 +2,131 @@
     "country": "Mali",
     "country_code": "ML",
     "list": [
-        [
-            "1",
-            "BANK OF AFRICA - MALI",
-            "BAMAKO",
-            "AFRIMLBA"
-        ],
-        [
-            "2",
-            "BANK OF AFRICA - MALI",
-            "BAMAKO",
-            "AFRIMLBA022"
-        ],
-        [
-            "3",
-            "BANQUE (MALI) CENTRALE DES ETATS DE L'AFRIQUE ET DE L'OUEST",
-            "MOPTI",
-            "(MOPTI BRANCH)",
-            "BCAOMLBAMOP"
-        ],
-        [
-            "4",
-            "BANQUE ATLANTIQUE MALI",
-            "BAMAKO",
-            "ATMLMLBA"
-        ],
-        [
-            "5",
-            "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
-            "BAMAKO",
-            "BCAOMLBA"
-        ],
-        [
-            "6",
-            "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
-            "SIKASSO",
-            "(SIKASSO BRANCH)",
-            "BCAOMLBASIK"
-        ],
-        [
-            "7",
-            "BANQUE COMMERCIALE DU SAHEL SA",
-            "BAMAKO",
-            "ALIMMLBA"
-        ],
-        [
-            "8",
-            "BANQUE DE DEVELOPPEMENT DU MALI - S.A.",
-            "BAMAKO",
-            "BDMAMLBA"
-        ],
-        [
-            "9",
-            "BANQUE DE L' HABITAT DU MALI",
-            "BAMAKO",
-            "BAHMMLBA"
-        ],
-        [
-            "10",
-            "BANQUE INTERNATIONALE POUR LE MALI SA.",
-            "BAMAKO",
-            "BIPMMLBA"
-        ],
-        [
-            "11",
-            "BANQUE MALIENNE DE SOLIDARITE",
-            "BAMAKO",
-            "BMSMMLBA"
-        ],
-        [
-            "12",
-            "BANQUE NATIONALE DE DEVELOPPEMENT AGRICOLE (BNDA)",
-            "BAMAKO",
-            "BNADMLBA"
-        ],
-        [
-            "13",
-            "BANQUE SAHELO-SAHARIENNE POUR L'INVESTISSEMENT ET LE COMMERCE (MALI) S.A.",
-            "BAMAKO",
-            "BSAHMLBA"
-        ],
-        [
-            "14",
-            "BCI-MALI",
-            "BAMAKO",
-            "COLIMLBA"
-        ],
-        [
-            "15",
-            "BICIM",
-            "BAMAKO",
-            "BICIMLBA"
-        ],
-        [
-            "16",
-            "CORIS BANK INTERNATIONAL",
-            "BAMAKO",
-            "CORIMLBA"
-        ],
-        [
-            "17",
-            "ECOBANK MALI",
-            "BAMAKO",
-            "ECOCMLBA"
-        ],
-        [
-            "18",
-            "ORABANK MALI",
-            "BAMAKO",
-            "ORBKMLBA"
-        ]
+        {
+            "id": "1",
+            "bank": "BANK OF AFRICA - MALI",
+            "city": "BAMAKO",
+            "branch": null,
+            "swift_code": "AFRIMLBA"
+        },
+        {
+            "id": "2",
+            "bank": "BANK OF AFRICA - MALI",
+            "city": "BAMAKO",
+            "branch": null,
+            "swift_code": "AFRIMLBA022"
+        },
+        {
+            "id": "3",
+            "bank": "BANQUE (MALI) CENTRALE DES ETATS DE L'AFRIQUE ET DE L'OUEST",
+            "city": "MOPTI",
+            "branch": "(MOPTI BRANCH)",
+            "swift_code": "BCAOMLBAMOP"
+        },
+        {
+            "id": "4",
+            "bank": "BANQUE ATLANTIQUE MALI",
+            "city": "BAMAKO",
+            "branch": null,
+            "swift_code": "ATMLMLBA"
+        },
+        {
+            "id": "5",
+            "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
+            "city": "BAMAKO",
+            "branch": null,
+            "swift_code": "BCAOMLBA"
+        },
+        {
+            "id": "6",
+            "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
+            "city": "SIKASSO",
+            "branch": "(SIKASSO BRANCH)",
+            "swift_code": "BCAOMLBASIK"
+        },
+        {
+            "id": "7",
+            "bank": "BANQUE COMMERCIALE DU SAHEL SA",
+            "city": "BAMAKO",
+            "branch": null,
+            "swift_code": "ALIMMLBA"
+        },
+        {
+            "id": "8",
+            "bank": "BANQUE DE DEVELOPPEMENT DU MALI - S.A.",
+            "city": "BAMAKO",
+            "branch": null,
+            "swift_code": "BDMAMLBA"
+        },
+        {
+            "id": "9",
+            "bank": "BANQUE DE L' HABITAT DU MALI",
+            "city": "BAMAKO",
+            "branch": null,
+            "swift_code": "BAHMMLBA"
+        },
+        {
+            "id": "10",
+            "bank": "BANQUE INTERNATIONALE POUR LE MALI SA.",
+            "city": "BAMAKO",
+            "branch": null,
+            "swift_code": "BIPMMLBA"
+        },
+        {
+            "id": "11",
+            "bank": "BANQUE MALIENNE DE SOLIDARITE",
+            "city": "BAMAKO",
+            "branch": null,
+            "swift_code": "BMSMMLBA"
+        },
+        {
+            "id": "12",
+            "bank": "BANQUE NATIONALE DE DEVELOPPEMENT AGRICOLE (BNDA)",
+            "city": "BAMAKO",
+            "branch": null,
+            "swift_code": "BNADMLBA"
+        },
+        {
+            "id": "13",
+            "bank": "BANQUE SAHELO-SAHARIENNE POUR L'INVESTISSEMENT ET LE COMMERCE (MALI) S.A.",
+            "city": "BAMAKO",
+            "branch": null,
+            "swift_code": "BSAHMLBA"
+        },
+        {
+            "id": "14",
+            "bank": "BCI-MALI",
+            "city": "BAMAKO",
+            "branch": null,
+            "swift_code": "COLIMLBA"
+        },
+        {
+            "id": "15",
+            "bank": "BICIM",
+            "city": "BAMAKO",
+            "branch": null,
+            "swift_code": "BICIMLBA"
+        },
+        {
+            "id": "16",
+            "bank": "CORIS BANK INTERNATIONAL",
+            "city": "BAMAKO",
+            "branch": null,
+            "swift_code": "CORIMLBA"
+        },
+        {
+            "id": "17",
+            "bank": "ECOBANK MALI",
+            "city": "BAMAKO",
+            "branch": null,
+            "swift_code": "ECOCMLBA"
+        },
+        {
+            "id": "18",
+            "bank": "ORABANK MALI",
+            "city": "BAMAKO",
+            "branch": null,
+            "swift_code": "ORBKMLBA"
+        }
     ]
 }

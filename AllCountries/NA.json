@@ -2,98 +2,110 @@
     "country": "Namibia",
     "country_code": "NA",
     "list": [
-        [
-            "1",
-            "BANK OF NAMIBIA",
-            "WINDHOEK",
-            "(CLEARING HOUSE)",
-            "CBKNNANAPCH"
-        ],
-        [
-            "2",
-            "BANK OF NAMIBIA",
-            "WINDHOEK",
-            "CBKNNANX"
-        ],
-        [
-            "3",
-            "BANK WINDHOEK LIMITED",
-            "WINDHOEK",
-            "(GLOBAL CUSTODY BRANCH)",
-            "BWLINANXCHM"
-        ],
-        [
-            "4",
-            "BANK WINDHOEK LIMITED",
-            "WINDHOEK",
-            "BWLINANX"
-        ],
-        [
-            "5",
-            "EBANK LTD",
-            "WINDHOEK",
-            "EBNKNANX"
-        ],
-        [
-            "6",
-            "FIRST NATIONAL BANK OF NAMIBIA LIMITED",
-            "WINDHOEK",
-            "FIRNNANX"
-        ],
-        [
-            "7",
-            "INVESTMENT HOUSE NAMIBIA (PTY) LTD",
-            "WINDHOEK",
-            "IHNANANX"
-        ],
-        [
-            "8",
-            "IRWIN, JACOBS, GREENE AND ASSOCIATES (PTY) LTD.",
-            "WINDHOEK",
-            "IJGLNANA"
-        ],
-        [
-            "9",
-            "NAMCLEAR (PTY) LIMITED",
-            "WINDHOEK",
-            "NAMCNANX"
-        ],
-        [
-            "10",
-            "NAMIBIA EQUITY BROKERS (PTY) LTD",
-            "WINDHOEK",
-            "NBOENANX"
-        ],
-        [
-            "11",
-            "NEDBANK NAMIBIA LIMITED",
-            "WINDHOEK",
-            "NEDSNANX"
-        ],
-        [
-            "12",
-            "SIMONIS STORM SECURITIES (PTY) LTD",
-            "WINDHOEK",
-            "FLMSNANX"
-        ],
-        [
-            "13",
-            "SMALL AND MEDIUM ENTERPRISES BANK",
-            "WINDHOEK",
-            "SMEBNANA"
-        ],
-        [
-            "14",
-            "STANDARD BANK NAMIBIA LIMITED",
-            "WINDHOEK",
-            "(STANLIB)",
-            "SBNMNANXLIB"
-        ],
-        [
-            "15",
-            "STANDARD BANK NAMIBIA LIMITED",
-            "WINDHOEK",
-            "SBNMNANX"
-        ]
+        {
+            "id": "1",
+            "bank": "BANK OF NAMIBIA",
+            "city": "WINDHOEK",
+            "branch": "(CLEARING HOUSE)",
+            "swift_code": "CBKNNANAPCH"
+        },
+        {
+            "id": "2",
+            "bank": "BANK OF NAMIBIA",
+            "city": "WINDHOEK",
+            "branch": null,
+            "swift_code": "CBKNNANX"
+        },
+        {
+            "id": "3",
+            "bank": "BANK WINDHOEK LIMITED",
+            "city": "WINDHOEK",
+            "branch": "(GLOBAL CUSTODY BRANCH)",
+            "swift_code": "BWLINANXCHM"
+        },
+        {
+            "id": "4",
+            "bank": "BANK WINDHOEK LIMITED",
+            "city": "WINDHOEK",
+            "branch": null,
+            "swift_code": "BWLINANX"
+        },
+        {
+            "id": "5",
+            "bank": "EBANK LTD",
+            "city": "WINDHOEK",
+            "branch": null,
+            "swift_code": "EBNKNANX"
+        },
+        {
+            "id": "6",
+            "bank": "FIRST NATIONAL BANK OF NAMIBIA LIMITED",
+            "city": "WINDHOEK",
+            "branch": null,
+            "swift_code": "FIRNNANX"
+        },
+        {
+            "id": "7",
+            "bank": "INVESTMENT HOUSE NAMIBIA (PTY) LTD",
+            "city": "WINDHOEK",
+            "branch": null,
+            "swift_code": "IHNANANX"
+        },
+        {
+            "id": "8",
+            "bank": "IRWIN, JACOBS, GREENE AND ASSOCIATES (PTY) LTD.",
+            "city": "WINDHOEK",
+            "branch": null,
+            "swift_code": "IJGLNANA"
+        },
+        {
+            "id": "9",
+            "bank": "NAMCLEAR (PTY) LIMITED",
+            "city": "WINDHOEK",
+            "branch": null,
+            "swift_code": "NAMCNANX"
+        },
+        {
+            "id": "10",
+            "bank": "NAMIBIA EQUITY BROKERS (PTY) LTD",
+            "city": "WINDHOEK",
+            "branch": null,
+            "swift_code": "NBOENANX"
+        },
+        {
+            "id": "11",
+            "bank": "NEDBANK NAMIBIA LIMITED",
+            "city": "WINDHOEK",
+            "branch": null,
+            "swift_code": "NEDSNANX"
+        },
+        {
+            "id": "12",
+            "bank": "SIMONIS STORM SECURITIES (PTY) LTD",
+            "city": "WINDHOEK",
+            "branch": null,
+            "swift_code": "FLMSNANX"
+        },
+        {
+            "id": "13",
+            "bank": "SMALL AND MEDIUM ENTERPRISES BANK",
+            "city": "WINDHOEK",
+            "branch": null,
+            "swift_code": "SMEBNANA"
+        },
+        {
+            "id": "14",
+            "bank": "STANDARD BANK NAMIBIA LIMITED",
+            "city": "WINDHOEK",
+            "branch": "(STANLIB)",
+            "swift_code": "SBNMNANXLIB"
+        },
+        {
+            "id": "15",
+            "bank": "STANDARD BANK NAMIBIA LIMITED",
+            "city": "WINDHOEK",
+            "branch": null,
+            "swift_code": "SBNMNANX"
+        }
     ]
 }

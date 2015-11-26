@@ -2,242 +2,278 @@
     "country": "Nepal",
     "country_code": "NP",
     "list": [
-        [
-            "1",
-            "ACE DEVELOPMENT BANK LIMITED",
-            "KATHMANDU",
-            "ACDENPKA"
-        ],
-        [
-            "2",
-            "AGRICULTURAL DEVELOPMENT BANK LTD",
-            "KATHMANDU",
-            "ADBLNPKA"
-        ],
-        [
-            "3",
-            "BANK OF KATHMANDU LIMITED",
-            "KATHMANDU",
-            "BOKLNPKA"
-        ],
-        [
-            "4",
-            "CENTURY COMMERCIAL BANK LIMITED",
-            "KATHMANDU",
-            "CCBNNPKA"
-        ],
-        [
-            "5",
-            "CITIZENS BANK INTERNATIONAL LIMITED",
-            "KATHMANDU",
-            "CTZNNPKA"
-        ],
-        [
-            "6",
-            "CIVIL BANK LIMITED",
-            "KATHMANDU",
-            "CIVLNPKA"
-        ],
-        [
-            "7",
-            "CLEAN ENERGY DEVELOPMENT BANK LIMITED",
-            "KATHMANDU",
-            "CEDBNPKA"
-        ],
-        [
-            "8",
-            "EVEREST BANK LTD.",
-            "KATHMANDU",
-            "EVBLNPKA"
-        ],
-        [
-            "9",
-            "GLOBAL IME BANK LIMITED",
-            "BIRGUNJ",
-            "GLBBNPKA"
-        ],
-        [
-            "10",
-            "GRAND BANK NEPAL LIMITED",
-            "KATHMANDU",
-            "DCBNNPKA"
-        ],
-        [
-            "11",
-            "HIMALAYAN BANK LTD.",
-            "KATHMANDU",
-            "HIMANPKA"
-        ],
-        [
-            "12",
-            "JANATA BANK NEPAL LIMITED",
-            "KATHMANDU",
-            "JBNLNPKA"
-        ],
-        [
-            "13",
-            "KASTHAMANDAP DEVELOPMENT BANK LTD",
-            "KATHMANDU",
-            "KDBLNPKA"
-        ],
-        [
-            "14",
-            "KIST BANK LIMITED",
-            "KATHMANDU",
-            "KISTNPKA"
-        ],
-        [
-            "15",
-            "KUMARI BANK LTD",
-            "KATHMANDU",
-            "KMBLNPKA"
-        ],
-        [
-            "16",
-            "LAXMI BANK LIMITED",
-            "KATHMANDU",
-            "LXBLNPKA"
-        ],
-        [
-            "17",
-            "LUMBINI BANK LIMITED",
-            "KATHMANDU",
-            "LUBLNPKA"
-        ],
-        [
-            "18",
-            "MACHHAPUCHCHHRE BANK LIMITED",
-            "KATHMANDU",
-            "MBLNNPKA"
-        ],
-        [
-            "19",
-            "MEGA BANK NEPAL LIMITED",
-            "KATHMANDU",
-            "MBNLNPKA"
-        ],
-        [
-            "20",
-            "NABIL BANK LIMITED",
-            "KATHMANDU",
-            "NARBNPKA"
-        ],
-        [
-            "21",
-            "NEPAL BANGLADESH BANK LIMITED",
-            "KATHMANDU",
-            "NPBBNPKA"
-        ],
-        [
-            "22",
-            "NEPAL BANK LIMITED",
-            "KATHMANDU",
-            "NEBLNPKA"
-        ],
-        [
-            "23",
-            "NEPAL CREDIT AND COMMERCE BANK LTD.",
-            "KATHMANDU",
-            "(NEW ROAD BRANCH)",
-            "NBOCNPKANRD"
-        ],
-        [
-            "24",
-            "NEPAL CREDIT AND COMMERCE BANK LTD.",
-            "KATHMANDU",
-            "NBOCNPKA"
-        ],
-        [
-            "25",
-            "NEPAL INVESTMENT BANK LTD.",
-            "KATHMANDU",
-            "NIBLNPKT"
-        ],
-        [
-            "26",
-            "NEPAL RASTRA BANK",
-            "KATHMANDU",
-            "(FOREIGN EXCHANGE DEPARTMENT)",
-            "NRBLNPKAFED"
-        ],
-        [
-            "27",
-            "NEPAL RASTRA BANK",
-            "KATHMANDU",
-            "NRBLNPKA"
-        ],
-        [
-            "28",
-            "NEPAL SBI BANK LTD., KATHMANDU",
-            "KATHMANDU",
-            "(BIRGUNJ BRANCH)",
-            "NSBINPKA001"
-        ],
-        [
-            "29",
-            "NEPAL SBI BANK LTD., KATHMANDU",
-            "KATHMANDU",
-            "NSBINPKA"
-        ],
-        [
-            "30",
-            "NIC ASIA BANK LIMITED",
-            "KATHMANDU",
-            "NICENPKA"
-        ],
-        [
-            "31",
-            "NMB BANK LTD",
-            "KATHMANDU",
-            "NMBBNPKA"
-        ],
-        [
-            "32",
-            "PRABHU BIKAS BANK LTD",
-            "KATHMANDU",
-            "PABUNPKA"
-        ],
-        [
-            "33",
-            "PRIME COMMERCIAL BANK LTD",
-            "KATHMANDU",
-            "PCBLNPKA"
-        ],
-        [
-            "34",
-            "RASTRIYA BANIJYA BANK",
-            "KATHMANDU",
-            "RBBANPKA"
-        ],
-        [
-            "35",
-            "SANIMA BANK LIMITED",
-            "KATHMANDU",
-            "SNMANPKA"
-        ],
-        [
-            "36",
-            "SIDDHARTHA BANK LIMITED",
-            "KATHMANDU",
-            "SIDDNPKA"
-        ],
-        [
-            "37",
-            "STANDARD CHARTERED BANK NEPAL LIMITED",
-            "KATHMANDU",
-            "SCBLNPKA"
-        ],
-        [
-            "38",
-            "SUNRISE BANK LIMITED",
-            "KATHMANDU",
-            "SRBLNPKA"
-        ],
-        [
-            "39",
-            "TOURISM DEVELOPMENT BANK LTD.",
-            "KATHMANDU",
-            "TDBLNPKA"
-        ]
+        {
+            "id": "1",
+            "bank": "ACE DEVELOPMENT BANK LIMITED",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "ACDENPKA"
+        },
+        {
+            "id": "2",
+            "bank": "AGRICULTURAL DEVELOPMENT BANK LTD",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "ADBLNPKA"
+        },
+        {
+            "id": "3",
+            "bank": "BANK OF KATHMANDU LIMITED",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "BOKLNPKA"
+        },
+        {
+            "id": "4",
+            "bank": "CENTURY COMMERCIAL BANK LIMITED",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "CCBNNPKA"
+        },
+        {
+            "id": "5",
+            "bank": "CITIZENS BANK INTERNATIONAL LIMITED",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "CTZNNPKA"
+        },
+        {
+            "id": "6",
+            "bank": "CIVIL BANK LIMITED",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "CIVLNPKA"
+        },
+        {
+            "id": "7",
+            "bank": "CLEAN ENERGY DEVELOPMENT BANK LIMITED",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "CEDBNPKA"
+        },
+        {
+            "id": "8",
+            "bank": "EVEREST BANK LTD.",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "EVBLNPKA"
+        },
+        {
+            "id": "9",
+            "bank": "GLOBAL IME BANK LIMITED",
+            "city": "BIRGUNJ",
+            "branch": null,
+            "swift_code": "GLBBNPKA"
+        },
+        {
+            "id": "10",
+            "bank": "GRAND BANK NEPAL LIMITED",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "DCBNNPKA"
+        },
+        {
+            "id": "11",
+            "bank": "HIMALAYAN BANK LTD.",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "HIMANPKA"
+        },
+        {
+            "id": "12",
+            "bank": "JANATA BANK NEPAL LIMITED",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "JBNLNPKA"
+        },
+        {
+            "id": "13",
+            "bank": "KASTHAMANDAP DEVELOPMENT BANK LTD",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "KDBLNPKA"
+        },
+        {
+            "id": "14",
+            "bank": "KIST BANK LIMITED",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "KISTNPKA"
+        },
+        {
+            "id": "15",
+            "bank": "KUMARI BANK LTD",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "KMBLNPKA"
+        },
+        {
+            "id": "16",
+            "bank": "LAXMI BANK LIMITED",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "LXBLNPKA"
+        },
+        {
+            "id": "17",
+            "bank": "LUMBINI BANK LIMITED",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "LUBLNPKA"
+        },
+        {
+            "id": "18",
+            "bank": "MACHHAPUCHCHHRE BANK LIMITED",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "MBLNNPKA"
+        },
+        {
+            "id": "19",
+            "bank": "MEGA BANK NEPAL LIMITED",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "MBNLNPKA"
+        },
+        {
+            "id": "20",
+            "bank": "NABIL BANK LIMITED",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "NARBNPKA"
+        },
+        {
+            "id": "21",
+            "bank": "NEPAL BANGLADESH BANK LIMITED",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "NPBBNPKA"
+        },
+        {
+            "id": "22",
+            "bank": "NEPAL BANK LIMITED",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "NEBLNPKA"
+        },
+        {
+            "id": "23",
+            "bank": "NEPAL CREDIT AND COMMERCE BANK LTD.",
+            "city": "KATHMANDU",
+            "branch": "(NEW ROAD BRANCH)",
+            "swift_code": "NBOCNPKANRD"
+        },
+        {
+            "id": "24",
+            "bank": "NEPAL CREDIT AND COMMERCE BANK LTD.",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "NBOCNPKA"
+        },
+        {
+            "id": "25",
+            "bank": "NEPAL INVESTMENT BANK LTD.",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "NIBLNPKT"
+        },
+        {
+            "id": "26",
+            "bank": "NEPAL RASTRA BANK",
+            "city": "KATHMANDU",
+            "branch": "(FOREIGN EXCHANGE DEPARTMENT)",
+            "swift_code": "NRBLNPKAFED"
+        },
+        {
+            "id": "27",
+            "bank": "NEPAL RASTRA BANK",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "NRBLNPKA"
+        },
+        {
+            "id": "28",
+            "bank": "NEPAL SBI BANK LTD., KATHMANDU",
+            "city": "KATHMANDU",
+            "branch": "(BIRGUNJ BRANCH)",
+            "swift_code": "NSBINPKA001"
+        },
+        {
+            "id": "29",
+            "bank": "NEPAL SBI BANK LTD., KATHMANDU",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "NSBINPKA"
+        },
+        {
+            "id": "30",
+            "bank": "NIC ASIA BANK LIMITED",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "NICENPKA"
+        },
+        {
+            "id": "31",
+            "bank": "NMB BANK LTD",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "NMBBNPKA"
+        },
+        {
+            "id": "32",
+            "bank": "PRABHU BIKAS BANK LTD",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "PABUNPKA"
+        },
+        {
+            "id": "33",
+            "bank": "PRIME COMMERCIAL BANK LTD",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "PCBLNPKA"
+        },
+        {
+            "id": "34",
+            "bank": "RASTRIYA BANIJYA BANK",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "RBBANPKA"
+        },
+        {
+            "id": "35",
+            "bank": "SANIMA BANK LIMITED",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "SNMANPKA"
+        },
+        {
+            "id": "36",
+            "bank": "SIDDHARTHA BANK LIMITED",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "SIDDNPKA"
+        },
+        {
+            "id": "37",
+            "bank": "STANDARD CHARTERED BANK NEPAL LIMITED",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "SCBLNPKA"
+        },
+        {
+            "id": "38",
+            "bank": "SUNRISE BANK LIMITED",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "SRBLNPKA"
+        },
+        {
+            "id": "39",
+            "bank": "TOURISM DEVELOPMENT BANK LTD.",
+            "city": "KATHMANDU",
+            "branch": null,
+            "swift_code": "TDBLNPKA"
+        }
     ]
 }

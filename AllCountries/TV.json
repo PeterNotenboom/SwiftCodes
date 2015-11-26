@@ -2,12 +2,12 @@
     "country": "Tuvalu",
     "country_code": "TV",
     "list": [
-        [
-            "1",
-            "NATIONAL BANK OF TUVALU",
-            "FUNAFUTI",
-            "TUVALU",
-            "NABTTVTV"
-        ]
+        {
+            "id": "1",
+            "bank": "NATIONAL BANK OF TUVALU",
+            "city": "FUNAFUTI",
+            "branch": "TUVALU",
+            "swift_code": "NABTTVTV"
+        }
     ]
 }

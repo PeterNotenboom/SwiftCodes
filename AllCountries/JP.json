@@ -2,2209 +2,2476 @@
     "country": "Japan",
     "country_code": "JP",
     "list": [
-        [
-            "1",
-            "AGRICULTURAL BANK OF CHINA TOKYO BRANCH",
-            "CHIYODA-KU",
-            "ABOCJPJT"
-        ],
-        [
-            "2",
-            "AICHI BANK, LTD., THE",
-            "NAGOYA",
-            "AICHJPJN"
-        ],
-        [
-            "3",
-            "AKITA BANK, LTD.,THE",
-            "AKITA",
-            "AKITJPJT"
-        ],
-        [
-            "4",
-            "AMAGASAKI SHINKIN BANK, THE",
-            "AMAGASAKI",
-            "AMASJPJZ"
-        ],
-        [
-            "5",
-            "AOMORI BANK LTD., THE",
-            "AOMORI",
-            "AOMBJPJT"
-        ],
-        [
-            "6",
-            "AOZORA BANK, LTD",
-            "TOKYO",
-            "NCBTJPJT"
-        ],
-        [
-            "7",
-            "ASAHI SHINKIN BANK, THE",
-            "TOKYO",
-            "ASKBJPJT"
-        ],
-        [
-            "8",
-            "ASHIKAGA BANK",
-            "UTSUNOMIYA",
-            "ASIKJPJT"
-        ],
-        [
-            "9",
-            "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
-            "TOKYO",
-            "ANZBJPJX"
-        ],
-        [
-            "10",
-            "AWA BANK, LTD., THE",
-            "TOKUSHIMA",
-            "AWABJPJT"
-        ],
-        [
-            "11",
-            "BANCO BILBAO VIZCAYA ARGENTARIA TOKYO BRANCH",
-            "TOKYO",
-            "BBVAJPJT"
-        ],
-        [
-            "12",
-            "BANCO DO BRASIL S.A.",
-            "TOKYO",
-            "BRASJPJT"
-        ],
-        [
-            "13",
-            "BANGKOK BANK PUBLIC COMPANY LTD.",
-            "OSAKA",
-            "BKKBJPJTOSA"
-        ],
-        [
-            "14",
-            "BANGKOK BANK PUBLIC COMPANY LTD.",
-            "TOKYO",
-            "BKKBJPJT"
-        ],
-        [
-            "15",
-            "BANK NEGARA INDONESIA (PERSERO), PT., TOKYO BRANCH",
-            "TOKYO",
-            "BNINJPJT"
-        ],
-        [
-            "16",
-            "BANK OF AMERICA, TOKYO",
-            "TOKYO",
-            "(TOKYO BRANCH)",
-            "BOFAJPJX"
-        ],
-        [
-            "17",
-            "BANK OF CHINA",
-            "KOBE",
-            "(KOBE BRANCH)",
-            "BKCHJPJTKOB"
-        ],
-        [
-            "18",
-            "BANK OF CHINA",
-            "NAGOYA",
-            "(NAGOYA BRANCH)",
-            "BKCHJPJTNGY"
-        ],
-        [
-            "19",
-            "BANK OF CHINA",
-            "OSAKA",
-            "(OSAKA BRANCH)",
-            "BKCHJPJTOSA"
-        ],
-        [
-            "20",
-            "BANK OF CHINA",
-            "TOKYO",
-            "(OTEMACHI BRANCH)",
-            "BKCHJPJTOTM"
-        ],
-        [
-            "21",
-            "BANK OF CHINA",
-            "TOKYO",
-            "(TOKYO BRANCH)",
-            "BKCHJPJT"
-        ],
-        [
-            "22",
-            "BANK OF CHINA",
-            "YOKOHAMA",
-            "(YOKOHAMA BRANCH)",
-            "BKCHJPJTYHA"
-        ],
-        [
-            "23",
-            "BANK OF COMMUNICATIONS, TOKYO BRANCH",
-            "TOKYO",
-            "COMMJPJT"
-        ],
-        [
-            "24",
-            "BANK OF FUKUOKA, LTD., THE",
-            "FUKUOKA",
-            "(HEAD OFFICE)",
-            "FKBKJPJT100"
-        ],
-        [
-            "25",
-            "BANK OF FUKUOKA, LTD., THE",
-            "TOKYO",
-            "FKBKJPJT"
-        ],
-        [
-            "26",
-            "BANK OF INDIA",
-            "OSAKA",
-            "(OSAKA BRANCH)",
-            "BKIDJPJTOSK"
-        ],
-        [
-            "27",
-            "BANK OF INDIA",
-            "TOKYO",
-            "(TOKYO BRANCH)",
-            "BKIDJPJT"
-        ],
-        [
-            "28",
-            "BANK OF IWATE LTD., THE",
-            "MORIOKA",
-            "BAIWJPJT"
-        ],
-        [
-            "29",
-            "BANK OF JAPAN",
-            "TOKYO",
-            "(FOR JAPAN'S RESERVES USE ONLY)",
-            "BOJPJPJTBJ1"
-        ],
-        [
-            "30",
-            "BANK OF JAPAN",
-            "TOKYO",
-            "(FOR JAPAN'S RESERVES USE ONLY)",
-            "BOJPJPJTMF1"
-        ],
-        [
-            "31",
-            "BANK OF JAPAN",
-            "TOKYO",
-            "BOJPJPJT"
-        ],
-        [
-            "32",
-            "BANK OF KYOTO,LTD.,THE",
-            "KYOTO",
-            "BOKFJPJZ"
-        ],
-        [
-            "33",
-            "BANK OF NAGOYA, LTD. , THE",
-            "NAGOYA",
-            "NAGOJPJN"
-        ],
-        [
-            "34",
-            "BANK OF OKINAWA, LTD., THE",
-            "NAHA",
-            "BOKIJPJZ"
-        ],
-        [
-            "35",
-            "BANK OF SAGA, LTD., THE",
-            "SAGA",
-            "BKSGJPJTSAG"
-        ],
-        [
-            "36",
-            "BANK OF SAGA, LTD., THE",
-            "TOKYO",
-            "BKSGJPJT"
-        ],
-        [
-            "37",
-            "BANK OF TAIWAN, TOKYO BRANCH",
-            "TOKYO",
-            "BKTWJPJT"
-        ],
-        [
-            "38",
-            "BANK OF THE RYUKYUS, LTD.",
-            "NAHA",
-            "RYUBJPJZ"
-        ],
-        [
-            "39",
-            "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
-            "FUKUOKA",
-            "BOTKJPJTFUK"
-        ],
-        [
-            "40",
-            "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
-            "HIROSHIMA",
-            "BOTKJPJTHIR"
-        ],
-        [
-            "41",
-            "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
-            "KITAKYUSYU",
-            "BOTKJPJTSMO"
-        ],
-        [
-            "42",
-            "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
-            "KOBE",
-            "BOTKJPJTKOB"
-        ],
-        [
-            "43",
-            "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
-            "NAGOYA",
-            "BOTKJPJTNGY"
-        ],
-        [
-            "44",
-            "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
-            "OSAKA",
-            "BOTKJPJTOSA"
-        ],
-        [
-            "45",
-            "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
-            "SAPPORO",
-            "BOTKJPJTSAP"
-        ],
-        [
-            "46",
-            "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
-            "TOKYO",
-            "(CLS CONTROL BRANCH-CONTROL DESK)",
-            "BOTKJPJTCLS"
-        ],
-        [
-            "47",
-            "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
-            "TOKYO",
-            "(FUNDS AND FOREIGN EXCHANGE DIVISION)",
-            "BOTKJPJTFGN"
-        ],
-        [
-            "48",
-            "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
-            "TOKYO",
-            "(HEAD OFFICE)",
-            "BOTKJPJT"
-        ],
-        [
-            "49",
-            "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
-            "TOKYO",
-            "(INVESTMENT FUND OPERATIONS UNIT)",
-            "BOTKJPJTFND"
-        ],
-        [
-            "50",
-            "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
-            "TOKYO",
-            "(SECURITIES SERVICES DIVISION)",
-            "BOTKJPJTSAD"
-        ],
-        [
-            "51",
-            "BANK OF TOKYO-MITSUBISHI UFJ, LTD.,THE",
-            "TOKYO",
-            "BOTKJPJ2"
-        ],
-        [
-            "52",
-            "BANK OF YOKOHAMA, LTD., THE",
-            "TOKYO",
-            "HAMAJPJT"
-        ],
-        [
-            "53",
-            "BARCLAYS BANK PLC",
-            "TOKYO",
-            "(MONEY MARKET AND FOREIGN EXCHANGE)",
-            "BARCJPJ2MFX"
-        ],
-        [
-            "54",
-            "BARCLAYS SECURITIES JAPAN LIMITED",
-            "TOKYO",
-            "BARCJPJ9"
-        ],
-        [
-            "55",
-            "BGC SHOKEN KAISHA LIMITED",
-            "MINATO-KU",
-            "CFILJPJT"
-        ],
-        [
-            "56",
-            "BLACKROCK JAPAN CO., LTD.",
-            "TOKYO",
-            "BGIAJPJT"
-        ],
-        [
-            "57",
-            "BNP PARIBAS S.A. - TOKYO BRANCH",
-            "TOKYO",
-            "BNPAJPJT"
-        ],
-        [
-            "58",
-            "BNP PARIBAS SECURITIES (JAPAN) LTD.",
-            "TOKYO",
-            "BNPAJPJ2"
-        ],
-        [
-            "59",
-            "BROWN BROTHERS HARRIMAN SECURITIES INVESTMENT MANAGEMENT (JAPAN) INC.",
-            "TOKYO",
-            "BBHCJPJT"
-        ],
-        [
-            "60",
-            "CENTRAL TANSHI CO., LTD.",
-            "TOKYO",
-            "CTRLJPJT"
-        ],
-        [
-            "61",
-            "CHANG HWA COMMERCIAL BANK LTD., TOKYO BRANCH",
-            "TOKYO",
-            "CCBCJPJT"
-        ],
-        [
-            "62",
-            "CHIBA BANK, LTD., THE",
-            "TOKYO",
-            "CHBAJPJT"
-        ],
-        [
-            "63",
-            "CHIBA KOGYO BANK, LTD., THE",
-            "TOKYO",
-            "CHIKJPJT"
-        ],
-        [
-            "64",
-            "CHINA CONSTRUCTION BANK CORPORATION TOKYO BRANCH",
-            "TOKYO",
-            "PCBCJPJT"
-        ],
-        [
-            "65",
-            "CHUGOKU BANK, LTD., THE",
-            "OKAYAMA",
-            "(HEAD OFFICE)",
-            "CHGKJPJZ"
-        ],
-        [
-            "66",
-            "CHUGOKU BANK, LTD., THE",
-            "TOKYO",
-            "CHGKJPJT"
-        ],
-        [
-            "67",
-            "CHUKYO BANK, LIMITED, THE",
-            "NAGOYA",
-            "CKBKJPJN"
-        ],
-        [
-            "68",
-            "CIBC WORLD MARKETS (JAPAN) INC.",
-            "TOKYO",
-            "CIWMJPJT"
-        ],
-        [
-            "69",
-            "CITIBANK JAPAN LTD.",
-            "TOKYO",
-            "CITIJPJT"
-        ],
-        [
-            "70",
-            "CITIGROUP GLOBAL MARKETS JAPAN INC.",
-            "TOKYO",
-            "NSBLJPJT"
-        ],
-        [
-            "71",
-            "COMMERZBANK AG TOKYO",
-            "TOKYO",
-            "(OFF-SHORE BUSINESS)",
-            "COBAJPJXTOM"
-        ],
-        [
-            "72",
-            "COMMERZBANK AG TOKYO",
-            "TOKYO",
-            "COBAJPJX"
-        ],
-        [
-            "73",
-            "COMMONWEALTH BANK OF AUSTRALIA",
-            "TOKYO",
-            "CTBAJPJT"
-        ],
-        [
-            "74",
-            "CREDIT AGRICOLE CIB TOKYO BRANCH",
-            "TOKYO",
-            "(COMMODITY)",
-            "BSUIJPJTCOM"
-        ],
-        [
-            "75",
-            "CREDIT AGRICOLE CIB TOKYO BRANCH",
-            "TOKYO",
-            "BSUIJPJT"
-        ],
-        [
-            "76",
-            "CREDIT AGRICOLE SECURITIES ASIA B.V.",
-            "TOKYO",
-            "CRLYJPJ9"
-        ],
-        [
-            "77",
-            "CREDIT SUISSE AG, TOKYO BRANCH",
-            "TOKYO",
-            "(TOKYO BRANCH)",
-            "CRESJPJT"
-        ],
-        [
-            "78",
-            "CREDIT SUISSE AG, TOKYO BRANCH",
-            "TOKYO",
-            "(TOKYO BRANCH)",
-            "CRESJPJTPBS"
-        ],
-        [
-            "79",
-            "CREDIT SUISSE SECURITIES (JAPAN) LTD.",
-            "TOKYO",
-            "(EQUITY SETTLEMENTS)",
-            "CSFBJPJXEQT"
-        ],
-        [
-            "80",
-            "CREDIT SUISSE SECURITIES (JAPAN) LTD.",
-            "TOKYO",
-            "(TOKYO BRANCH)",
-            "CSFBJPJXPBS"
-        ],
-        [
-            "81",
-            "CREDIT SUISSE SECURITIES (JAPAN) LTD.",
-            "TOKYO",
-            "CSFBJPJX"
-        ],
-        [
-            "82",
-            "CTBC BANK CO., LTD., TOKYO BRANCH",
-            "TOKYO",
-            "CTCBJPJT"
-        ],
-        [
-            "83",
-            "DAISAN BANK, LTD., THE",
-            "MATSUSAKA",
-            "DSBKJPJT"
-        ],
-        [
-            "84",
-            "DAISHI BANK LTD.,THE",
-            "TOKYO",
-            "DAISJPJT"
-        ],
-        [
-            "85",
-            "DAIWA ASSET MANAGEMENT CO. LTD",
-            "TOKYO",
-            "DAMLJPJT"
-        ],
-        [
-            "86",
-            "DAIWA NEXT BANK, LTD.",
-            "CHIYODA-KU",
-            "DNEXJPJT"
-        ],
-        [
-            "87",
-            "DAIWA SB INVESTMENTS LTD",
-            "TOKYO",
-            "DSBIJPJT"
-        ],
-        [
-            "88",
-            "DAIWA SECURITIES CO.LTD.",
-            "TOKYO",
-            "(JAPANESE SECURITIES SETTLEMENTS)",
-            "DWSCJPJTJSS"
-        ],
-        [
-            "89",
-            "DAIWA SECURITIES CO.LTD.",
-            "TOKYO",
-            "DWSCJPJT"
-        ],
-        [
-            "90",
-            "DAIWA SECURITIES CO.LTD. CO.LTD.",
-            "TOKYO",
-            "DWSCJPJ2"
-        ],
-        [
-            "91",
-            "DBS BANK LTD, TOKYO BRANCH",
-            "TOKYO",
-            "DBSSJPJT"
-        ],
-        [
-            "92",
-            "DEPFA BANK PLC",
-            "TOKYO",
-            "(TOKYO BRANCH)",
-            "DPFAJPJT"
-        ],
-        [
-            "93",
-            "DEUTSCHE ASSET MANAGEMENT(JAPAN)LTD",
-            "TOKYO",
-            "DEAMJPJT"
-        ],
-        [
-            "94",
-            "DEUTSCHE BANK AG",
-            "TOKYO",
-            "(TOKYO BRANCH)",
-            "DEUTJPJT"
-        ],
-        [
-            "95",
-            "DEUTSCHE SECURITIES INC.",
-            "TOKYO",
-            "(EQUITY DIVISION)",
-            "DEUTJPJ9EQT"
-        ],
-        [
-            "96",
-            "DEUTSCHE SECURITIES INC.",
-            "TOKYO",
-            "(FOREX DIVISION)",
-            "DEUTJPJ9FX1"
-        ],
-        [
-            "97",
-            "DEUTSCHE SECURITIES INC.",
-            "TOKYO",
-            "(JAPANESE EQUITY SETTLEMENT DEPARTMENT)",
-            "DEUTJPJ9DOM"
-        ],
-        [
-            "98",
-            "DEUTSCHE SECURITIES INC.",
-            "TOKYO",
-            "DEUTJPJ7"
-        ],
-        [
-            "99",
-            "DEUTSCHE SECURITIES INC.",
-            "TOKYO",
-            "DEUTJPJ9"
-        ],
-        [
-            "100",
-            "DIAM CO., LTD",
-            "CHIYODA-KU",
-            "DIAMJPJT"
-        ],
-        [
-            "101",
-            "EHIME BANK, LTD., THE",
-            "MATSUYAMA",
-            "HIMEJPJT"
-        ],
-        [
-            "102",
-            "EIGHTEENTH BANK,LIMITED,THE",
-            "NAGASAKI",
-            "EITNJPJT"
-        ],
-        [
-            "103",
-            "FAST RETAILING CO LTD",
-            "YAMAGUCHI",
-            "FRUQJPJ2"
-        ],
-        [
-            "104",
-            "FIRST COMMERCIAL BANK, TOKYO BRANCH",
-            "TOKYO",
-            "FCBKJPJT"
-        ],
-        [
-            "105",
-            "FUKUI BANK, LTD., THE",
-            "FUKUI",
-            "FKUIJPJT"
-        ],
-        [
-            "106",
-            "GIFU SHINKIN BANK, THE",
-            "GIFU",
-            "GFSBJPJZ"
-        ],
-        [
-            "107",
-            "GOLDMAN SACHS ASSET MANAGEMENT JAPAN LTD.",
-            "TOKYO",
-            "GSAMJPJT"
-        ],
-        [
-            "108",
-            "GOLDMAN SACHS JAPAN CO., LTD.",
-            "TOKYO",
-            "GOLDJPJX"
-        ],
-        [
-            "109",
-            "GUNMA BANK, LTD., THE",
-            "MAEBASHI",
-            "GUMAJPJT"
-        ],
-        [
-            "110",
-            "HACHIJUNI BANK, LTD., THE",
-            "TOKYO",
-            "HABKJPJT"
-        ],
-        [
-            "111",
-            "HANA BANK TOKYO BRANCH",
-            "TOKYO",
-            "HNBNJPJT"
-        ],
-        [
-            "112",
-            "HIGASHI-NIPPON BANK, LIMITED, THE",
-            "TOKYO",
-            "HNPBJPJT"
-        ],
-        [
-            "113",
-            "HIROSHIMA BANK, LTD., THE",
-            "TOKYO",
-            "HIROJPJT"
-        ],
-        [
-            "114",
-            "HOKKAIDO BANK, LTD., THE",
-            "SAPPORO",
-            "HKDBJPJT"
-        ],
-        [
-            "115",
-            "HOKKOKU BANK, LTD., THE",
-            "KANAZAWA",
-            "HKOKJPJT"
-        ],
-        [
-            "116",
-            "HOKUETSU BANK, LTD., THE",
-            "NAGAOKA",
-            "HETSJPJT"
-        ],
-        [
-            "117",
-            "HOKURIKU BANK, LTD.,THE",
-            "TOKYO",
-            "RIKBJPJT"
-        ],
-        [
-            "118",
-            "HOKUTO BANK, LTD., THE",
-            "AKITA",
-            "HOKBJPJT"
-        ],
-        [
-            "119",
-            "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED,THE",
-            "TOKYO",
-            "(CLS DIVISION)",
-            "HSBCJPJTCLS"
-        ],
-        [
-            "120",
-            "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED,THE",
-            "TOKYO",
-            "(TREASURY DEPARTMENT)",
-            "HSBCJPJTTRS"
-        ],
-        [
-            "121",
-            "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED,THE",
-            "TOKYO",
-            "HSBCJPJT"
-        ],
-        [
-            "122",
-            "HSBC SECURITIES (JAPAN) LIMITED",
-            "TOKYO",
-            "IBJPJPJT"
-        ],
-        [
-            "123",
-            "HYAKUGO BANK,LTD.,THE",
-            "TOKYO",
-            "HYKGJPJT"
-        ],
-        [
-            "124",
-            "HYAKUGO BANK,LTD.,THE",
-            "TSU",
-            "HYKGJPJTTSU"
-        ],
-        [
-            "125",
-            "HYAKUJUSHI BANK, LTD., THE",
-            "TOKYO",
-            "HYAKJPJT"
-        ],
-        [
-            "126",
-            "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, TOKYO BRANCH",
-            "TOKYO",
-            "ICBKJPJT"
-        ],
-        [
-            "127",
-            "INDUSTRIAL BANK OF KOREA, TOKYO BRANCH",
-            "TOKYO",
-            "IBKOJPJT"
-        ],
-        [
-            "128",
-            "ING BANK N.V.",
-            "TOKYO",
-            "(TOKYO BRANCH)",
-            "INGBJPJT"
-        ],
-        [
-            "129",
-            "INTESA SANPAOLO SPA TOKYO",
-            "TOKYO",
-            "BCITJPJT"
-        ],
-        [
-            "130",
-            "ITAU UNIBANCO S.A., TOKYO BRANCH",
-            "TOKYO",
-            "ITAUJPJT"
-        ],
-        [
-            "131",
-            "IWAICOSMO SECURITIES CO. LTD.",
-            "TOKYO",
-            "COSSJPJT"
-        ],
-        [
-            "132",
-            "IYO BANK, LTD., THE",
-            "TOKYO",
-            "IYOBJPJT"
-        ],
-        [
-            "133",
-            "JAPAN POST BANK, CO., LTD",
-            "TOKYO",
-            "JPPSJPJK"
-        ],
-        [
-            "134",
-            "JAPAN SECURITIES DEPOSITORY CENTER, INC",
-            "TOKYO",
-            "JJSDJPJT"
-        ],
-        [
-            "135",
-            "JAPAN TRUSTEE SERVICES BANK, LTD.",
-            "TOKYO",
-            "(AGENT ACCOUNT)",
-            "JTSBJPJTAGE"
-        ],
-        [
-            "136",
-            "JAPAN TRUSTEE SERVICES BANK, LTD.",
-            "TOKYO",
-            "JTSBJPJT"
-        ],
-        [
-            "137",
-            "JOHNAN SHINKIN BANK THE",
-            "TOKYO",
-            "JSBKJPJT"
-        ],
-        [
-            "138",
-            "JOHOKU SHINKIN BANK, THE",
-            "TOKYO",
-            "OJISJPJT"
-        ],
-        [
-            "139",
-            "JOYO BANK, LTD., THE",
-            "IBARAKI",
-            "JOYOJPJT"
-        ],
-        [
-            "140",
-            "JPMORGAN ASSET MANAGEMENT (JAPAN) LTD.",
-            "TOKYO",
-            "(TEST KEY AND BKE ADMINISTRATION)",
-            "CHASJPJZKEY"
-        ],
-        [
-            "141",
-            "JPMORGAN ASSET MANAGEMENT (JAPAN) LTD.",
-            "TOKYO",
-            "CHASJPJZ"
-        ],
-        [
-            "142",
-            "JPMORGAN CHASE BANK, N.A.",
-            "TOKYO",
-            "(NON-CASH RELATED, SPECIAL PURPOSE)",
-            "CHASJPJTWSS"
-        ],
-        [
-            "143",
-            "JPMORGAN CHASE BANK, N.A.",
-            "TOKYO",
-            "(TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES)",
-            "CHASJPJTENQ"
-        ],
-        [
-            "144",
-            "JPMORGAN CHASE BANK, N.A.",
-            "TOKYO",
-            "(TEST KEY AND BKE ADMINISTRATION)",
-            "CHASJPJTKEY"
-        ],
-        [
-            "145",
-            "JPMORGAN CHASE BANK, N.A.",
-            "TOKYO",
-            "(TOKYO BRANCH)",
-            "CHASJPJT"
-        ],
-        [
-            "146",
-            "JPMORGAN CHASE BANK, N.A.",
-            "TOKYO",
-            "(TRADE SERVICE DEPARTMENT)",
-            "CHASJPJTTSD"
-        ],
-        [
-            "147",
-            "JPMORGAN SECURITIES JAPAN CO., LTD.",
-            "TOKYO",
-            "(CASH EQUITY MIDDLE OFFICE)",
-            "CHASJPJ9CE1"
-        ],
-        [
-            "148",
-            "JPMORGAN SECURITIES JAPAN CO., LTD.",
-            "TOKYO",
-            "(EQUITY OPERATION)",
-            "CHASJPJ9EQT"
-        ],
-        [
-            "149",
-            "JPMORGAN SECURITIES JAPAN CO., LTD.",
-            "TOKYO",
-            "(TEST KEY AND BKE ADMINISTRATION)",
-            "CHASJPJ9KEY"
-        ],
-        [
-            "150",
-            "JPMORGAN SECURITIES JAPAN CO., LTD.",
-            "TOKYO",
-            "CHASJPJ9"
-        ],
-        [
-            "151",
-            "JUROKU BANK, LTD., THE",
-            "GIFU",
-            "JUROJPJT"
-        ],
-        [
-            "152",
-            "KAGAWA BANK LTD., THE",
-            "TAKAMATSU",
-            "KGWBJPJZ"
-        ],
-        [
-            "153",
-            "KAGOSHIMA BANK, LTD., THE",
-            "KAGOSHIMA",
-            "KAGOJPJT"
-        ],
-        [
-            "154",
-            "KANSAI URBAN BANKING CORPORATION",
-            "OSAKA",
-            "KSBJJPJS"
-        ],
-        [
-            "155",
-            "KEIYO BANK, LTD., THE",
-            "CHIBA",
-            "KEIBJPJT"
-        ],
-        [
-            "156",
-            "KINKI OSAKA BANK, LTD., THE",
-            "OSAKA",
-            "OSABJPJS"
-        ],
-        [
-            "157",
-            "KIRAYAKA BANK, LTD.",
-            "YAMAGATA",
-            "SHIAJPJT"
-        ],
-        [
-            "158",
-            "KITAKYUSHU BANK, LTD., THE(FORMERLY A PART OF THE YAMAGUCHI BANK,LTD.)",
-            "KITAKYUSYU",
-            "KITQJPJZ"
-        ],
-        [
-            "159",
-            "KITA-NIPPON BANK, LTD., THE",
-            "MORIOKA",
-            "KNPBJPJT"
-        ],
-        [
-            "160",
-            "KIYO BANK, LTD, THE",
-            "WAKAYAMA",
-            "KIYOJPJT"
-        ],
-        [
-            "161",
-            "KOKUSAI ASSET MANAGEMENT CO., LTD",
-            "TOKYO",
-            "(FUND ACCOUNTING DEPT)",
-            "KAMGJPJTFAD"
-        ],
-        [
-            "162",
-            "KOKUSAI ASSET MANAGEMENT CO., LTD",
-            "TOKYO",
-            "KAMGJPJT"
-        ],
-        [
-            "163",
-            "KOOKMIN BANK",
-            "OSAKA",
-            "(OSAKA BRANCH)",
-            "CZNBJPJTOSK"
-        ],
-        [
-            "164",
-            "KOOKMIN BANK",
-            "TOKYO",
-            "CZNBJPJT"
-        ],
-        [
-            "165",
-            "KOREA DEVELOPMENT BANK,THE,TOKYO BRANCH",
-            "TOKYO",
-            "KODBJPJT"
-        ],
-        [
-            "166",
-            "KOREA EXCHANGE BANK",
-            "OSAKA",
-            "(OSAKA BRANCH)",
-            "KOEXJPJTOSA"
-        ],
-        [
-            "167",
-            "KOREA EXCHANGE BANK",
-            "TOKYO",
-            "KOEXJPJT"
-        ],
-        [
-            "168",
-            "KUMAMOTO BANK, LTD., THE",
-            "KUMAMOTO",
-            "KUMAJPJZ"
-        ],
-        [
-            "169",
-            "KYOTO CHUO SHINKIN BANK, THE",
-            "KYOTO",
-            "KCHUJPJY"
-        ],
-        [
-            "170",
-            "KYOTO SHINKIN BANK,THE",
-            "KYOTO",
-            "KYSBJPJZ"
-        ],
-        [
-            "171",
-            "LOMBARD ODIER TRUST (JAPAN) LIMITED",
-            "TOKYO",
-            "(NDP DEPT)",
-            "LOCYJPJTNDP"
-        ],
-        [
-            "172",
-            "LOMBARD ODIER TRUST (JAPAN) LIMITED",
-            "TOKYO",
-            "LOCYJPJT"
-        ],
-        [
-            "173",
-            "MASTER TRUST BANK OF JAPAN LTD, THE",
-            "TOKYO",
-            "(INVESTOR SERVICES DIVISION)",
-            "MTBJJPJTAGT"
-        ],
-        [
-            "174",
-            "MASTER TRUST BANK OF JAPAN LTD, THE",
-            "TOKYO",
-            "MTBJJPJT"
-        ],
-        [
-            "175",
-            "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.,",
-            "OSAKA",
-            "ICBCJPJTOSA"
-        ],
-        [
-            "176",
-            "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.,",
-            "TOKYO",
-            "ICBCJPJT"
-        ],
-        [
-            "177",
-            "MELLON GLOBAL INVESTMENTS JAPAN CO LTD",
-            "TOKYO",
-            "MELNJPJT"
-        ],
-        [
-            "178",
-            "MERCEDES-BENZ JAPAN CO.LTD.",
-            "TOKYO",
-            "DAIXJPJT"
-        ],
-        [
-            "179",
-            "MERRILL LYNCH JAPAN SECURITIES CO. LTD",
-            "TOKYO",
-            "MLCOJPJX"
-        ],
-        [
-            "180",
-            "MERRILL LYNCH JAPAN SECURITIES CO., LTD",
-            "TOKYO",
-            "MLCOJPJD"
-        ],
-        [
-            "181",
-            "MERRILL LYNCH JAPAN SECURITIES CO., LTD.",
-            "TOKYO",
-            "(BOND SETTLEMENT)",
-            "MLCOJPJTJGB"
-        ],
-        [
-            "182",
-            "MERRILL LYNCH JAPAN SECURITIES CO., LTD.",
-            "TOKYO",
-            "(EQUITY SETTLEMENT)",
-            "MLCOJPJTJES"
-        ],
-        [
-            "183",
-            "MERRILL LYNCH JAPAN SECURITIES CO., LTD.",
-            "TOKYO",
-            "(STRATEGIC DEVELOPMENT INITIATIVE)",
-            "MLCOJPJTSDI"
-        ],
-        [
-            "184",
-            "MERRILL LYNCH JAPAN SECURITIES CO., LTD.",
-            "TOKYO",
-            "(TREASURY OPERATIONS)",
-            "MLCOJPJTTSY"
-        ],
-        [
-            "185",
-            "MERRILL LYNCH JAPAN SECURITIES CO., LTD.",
-            "TOKYO",
-            "MLCOJPJT"
-        ],
-        [
-            "186",
-            "METROPOLITAN BANK AND TRUST COMPANY, TOKYO BRANCH",
-            "TOKYO",
-            "MBTCJPJT"
-        ],
-        [
-            "187",
-            "MICHINOKU BANK, LTD., THE",
-            "AOMORI",
-            "MCHIJPJT"
-        ],
-        [
-            "188",
-            "MIE BANK LTD., THE",
-            "TOKYO",
-            "MIEBJPJT"
-        ],
-        [
-            "189",
-            "MINATO BANK,LTD,THE (FORMERLY THE HANSHIN BANK LTD)",
-            "KOBE",
-            "HSINJPJK"
-        ],
-        [
-            "190",
-            "MITSUBISHI UFJ ASSET MANAGEMENT CO.,LTD.",
-            "CHIYODA-KU",
-            "MUFJJPJT"
-        ],
-        [
-            "191",
-            "MITSUBISHI UFJ MORGAN STANLEY PB SECURITIES CO., LTD",
-            "CHIYODA-KU",
-            "MUMLJPJT"
-        ],
-        [
-            "192",
-            "MITSUBISHI UFJ MORGAN STANLEY SECURITIES CO., LTD.",
-            "TOKYO",
-            "KKSSJPJT"
-        ],
-        [
-            "193",
-            "MITSUBISHI UFJ TRUST AND BANKING CORPORATION",
-            "TOKYO",
-            "MTBCJPJT"
-        ],
-        [
-            "194",
-            "MIYAZAKI BANK, LTD., THE",
-            "MIYAZAKI",
-            "MIYAJPJT"
-        ],
-        [
-            "195",
-            "MIZUHO BANK, LTD.",
-            "TOKYO",
-            "(CLS CONTROL BRANCH)",
-            "MHCBJPJTCLS"
-        ],
-        [
-            "196",
-            "MIZUHO BANK, LTD.",
-            "TOKYO",
-            "MHCBJPJ5"
-        ],
-        [
-            "197",
-            "MIZUHO BANK, LTD.",
-            "TOKYO",
-            "MHCBJPJ6"
-        ],
-        [
-            "198",
-            "MIZUHO BANK, LTD.",
-            "TOKYO",
-            "MHCBJPJT"
-        ],
-        [
-            "199",
-            "MIZUHO BANK, LTD.(CUSTODY)",
-            "TOKYO",
-            "MHCBJPJ2"
-        ],
-        [
-            "200",
-            "MIZUHO CORPORATE BANK, LTD.",
-            "TOKYO",
-            "MHCBJPJ4"
-        ],
-        [
-            "201",
-            "MIZUHO SECURITIES CO., LTD.",
-            "TOKYO",
-            "MHSCJPJT"
-        ],
-        [
-            "202",
-            "MIZUHO SECURITIES CO.,LTD",
-            "CHUO-KU",
-            "MHSCJPJ3"
-        ],
-        [
-            "203",
-            "MIZUHO SECURITIES CO.,LTD",
-            "TOKYO",
-            "MHSCJPJ2"
-        ],
-        [
-            "204",
-            "MIZUHO TRUST AND BANKING CO., LTD.",
-            "TOKYO",
-            "YTBCJPJT"
-        ],
-        [
-            "205",
-            "MOMIJI BANK, LTD.",
-            "HIROSHIMA",
-            "HRSBJPJT"
-        ],
-        [
-            "206",
-            "MORGAN STANLEY MUFG SECURITIES CO., LTD.",
-            "TOKYO",
-            "(FOREIGN EXCHANGE OPERATIONS)",
-            "MSTKJPJXFXO"
-        ],
-        [
-            "207",
-            "MORGAN STANLEY MUFG SECURITIES CO., LTD.",
-            "TOKYO",
-            "MSTKJPJX"
-        ],
-        [
-            "208",
-            "MORGAN STANLEY MUFG SECURITIES CO., LTD.",
-            "TOKYO",
-            "MSTKJPJXCII"
-        ],
-        [
-            "209",
-            "MORGAN STANLEY MUFG SECURITIES CO., LTD.",
-            "TOKYO",
-            "MSTKJPJXCLS"
-        ],
-        [
-            "210",
-            "MUSASHINO BANK LTD., THE",
-            "SAITAMA",
-            "(TREASURY AND SECURITIES DIVISION)",
-            "MUBKJPJTTSD"
-        ],
-        [
-            "211",
-            "MUSASHINO BANK LTD., THE",
-            "SAITAMA",
-            "MUBKJPJT"
-        ],
-        [
-            "212",
-            "NAGANO BANK, LTD.",
-            "NAGANO",
-            "NAGAJPJZ"
-        ],
-        [
-            "213",
-            "NANTO BANK, LTD, THE",
-            "NARA",
-            "NANTJPJT"
-        ],
-        [
-            "214",
-            "NATIONAL AUSTRALIA BANK LIMITED",
-            "TOKYO",
-            "NATAJPJT"
-        ],
-        [
-            "215",
-            "NATIONAL BANK OF PAKISTAN",
-            "OSAKA",
-            "(OSAKA BRANCH)",
-            "NBPAJPJTOSK"
-        ],
-        [
-            "216",
-            "NATIONAL BANK OF PAKISTAN",
-            "TOKYO",
-            "(MAIN BRANCH)",
-            "NBPAJPJT"
-        ],
-        [
-            "217",
-            "NATIXIS JAPAN SECURITIES CO., LTD.",
-            "TOKYO",
-            "NATXJPJT"
-        ],
-        [
-            "218",
-            "NISSAY ASSET MANAGEMENT CORPORATION",
-            "TOKYO",
-            "NAMJJPJT"
-        ],
-        [
-            "219",
-            "NOMURA ASSET MANAGEMENT CO., LTD.",
-            "TOKYO",
-            "(ADVISORY DEPT.)",
-            "NAMKJPJTADV"
-        ],
-        [
-            "220",
-            "NOMURA ASSET MANAGEMENT CO., LTD.",
-            "TOKYO",
-            "(BOND AND FINANCIAL INSTRUMENT TRADING DEPT)",
-            "NAMKJPJTBFT"
-        ],
-        [
-            "221",
-            "NOMURA ASSET MANAGEMENT CO., LTD.",
-            "TOKYO",
-            "NAMKJPJT"
-        ],
-        [
-            "222",
-            "NOMURA ASSET MANAGEMENT CO., LTD.",
-            "TOKYO",
-            "NAMKJPJTFDV"
-        ],
-        [
-            "223",
-            "NOMURA FINANCIAL PRODUCTS AND SERVICES INC",
-            "TOKYO",
-            "NFPSJPJT"
-        ],
-        [
-            "224",
-            "NOMURA RESEARCH INSTITUTE, LTD.",
-            "TOKYO",
-            "NRIWJPJT"
-        ],
-        [
-            "225",
-            "NOMURA SECURITIES CO., LTD.",
-            "TOKYO",
-            "NMRSJPJT"
-        ],
-        [
-            "226",
-            "NORINCHUKIN BANK, THE",
-            "TOKYO",
-            "(TREASURY AND SECURITIES OPERATIONS DIVISION)",
-            "NOCUJPJTCLS"
-        ],
-        [
-            "227",
-            "NORINCHUKIN BANK, THE",
-            "TOKYO",
-            "NOCUJPJT"
-        ],
-        [
-            "228",
-            "NORTH PACIFIC BANK, LTD.",
-            "SAPPORO",
-            "NORPJPJP"
-        ],
-        [
-            "229",
-            "NTT DATA CORPORATION",
-            "KOTO-KU",
-            "NTTDJPJT"
-        ],
-        [
-            "230",
-            "NTT DATA GETRONICS CORPORATION",
-            "KAWASAKI-SHI",
-            "NTDGJPJT"
-        ],
-        [
-            "231",
-            "OGAKI KYORITSU BANK,LTD.,THE",
-            "OGAKI",
-            "OGAKJPJT"
-        ],
-        [
-            "232",
-            "OITA BANK, LTD., THE",
-            "OITA",
-            "OITAJPJT"
-        ],
-        [
-            "233",
-            "OKASAN SECURITIES CO., LTD.",
-            "TOKYO",
-            "OKASJPJT"
-        ],
-        [
-            "234",
-            "OKAZAKI SHINKIN BANK, THE",
-            "OKAZAKI",
-            "OKSBJPJZ"
-        ],
-        [
-            "235",
-            "OSAKA CITY SHINKIN BANK, THE",
-            "OSAKA",
-            "OSACJPJS"
-        ],
-        [
-            "236",
-            "OVERSEA-CHINESE BANKING CORPORATION LIMITED, TOKYO BRANCH",
-            "TOKYO",
-            "OCBCJPJT"
-        ],
-        [
-            "237",
-            "PANASONIC CORPORATION",
-            "OSAKA",
-            "PANAJPJS"
-        ],
-        [
-            "238",
-            "PHILIPPINE NATIONAL BANK TOKYO BRANCH",
-            "TOKYO",
-            "PNBMJPJT"
-        ],
-        [
-            "239",
-            "PICTET ASSET MANAGEMENT (JAPAN) LTD.",
-            "TOKYO",
-            "PICTJPJT"
-        ],
-        [
-            "240",
-            "RAKUTEN BANK, LTD.",
-            "TOKYO",
-            "RAKTJPJT"
-        ],
-        [
-            "241",
-            "RBC CAPITAL MARKETS (JAPAN) LTD., TOKYO",
-            "TOKYO",
-            "RBDSJPJT"
-        ],
-        [
-            "242",
-            "RBS SECURITIES JAPAN LIMITED, TOKYO BRANCH",
-            "TOKYO",
-            "NWSJJPJT"
-        ],
-        [
-            "243",
-            "RECRUIT HOLDINGS CO.,LTD.",
-            "CHUO-KU",
-            "RCRTJPJJ"
-        ],
-        [
-            "244",
-            "RESONA BANK, LTD., TOKYO",
-            "TOKYO",
-            "DIWAJPJT"
-        ],
-        [
-            "245",
-            "RESONA BANK, LTD., TRUST DEP.",
-            "TOKYO",
-            "DIWAJPJA"
-        ],
-        [
-            "246",
-            "ROLAND DG CORPORATION",
-            "SHIZUOKA",
-            "RODGJPJT"
-        ],
-        [
-            "247",
-            "ROYAL BANK OF CANADA",
-            "TOKYO",
-            "ROYCJPJT"
-        ],
-        [
-            "248",
-            "ROYAL BANK OF SCOTLAND PLC",
-            "TOKYO",
-            "(JAPAN OFFSHORE MARKET)",
-            "RBOSJPJXJOM"
-        ],
-        [
-            "249",
-            "ROYAL BANK OF SCOTLAND PLC",
-            "TOKYO",
-            "RBOSJPJX"
-        ],
-        [
-            "250",
-            "SAITAMA RESONA BANK, LIMITED",
-            "TOKYO",
-            "SAIBJPJT"
-        ],
-        [
-            "251",
-            "SAN-IN GODO BANK, LTD., THE",
-            "MATSUE",
-            "SGBKJPJT"
-        ],
-        [
-            "252",
-            "SAN-IN GODO BANK, LTD., THE",
-            "MATSUE",
-            "SGBKJPJTMAT"
-        ],
-        [
-            "253",
-            "SBI REMIT CO., LTD",
-            "TOKYO",
-            "SBIRJPJT"
-        ],
-        [
-            "254",
-            "SBI SUMISHIN NET BANK, LTD.",
-            "TOKYO",
-            "NTSSJPJT"
-        ],
-        [
-            "255",
-            "SCHRODER INVESTMENT MANAGEMENT (JAPAN) LIMITED",
-            "TOKYO",
-            "SIMJJPJ2"
-        ],
-        [
-            "256",
-            "SCHRODER INVESTMENT MANAGEMENT (JAPAN) LIMITED",
-            "TOKYO",
-            "SIMJJPJT"
-        ],
-        [
-            "257",
-            "SCSK CORPORATION",
-            "TOKYO",
-            "SCSJJPJT"
-        ],
-        [
-            "258",
-            "SETO SHINKIN BANK, THE",
-            "SETO",
-            "SSBKJPJZ"
-        ],
-        [
-            "259",
-            "SHIGA BANK, LTD., THE",
-            "OTSU",
-            "(HEAD OFFICE)",
-            "SIGAJPJT"
-        ],
-        [
-            "260",
-            "SHIKOKU BANK,LTD.,THE",
-            "KOCHI",
-            "SIKOJPJT"
-        ],
-        [
-            "261",
-            "SHIMIZU BANK LTD., THE",
-            "SHIZUOKA",
-            "SMZGJPJT"
-        ],
-        [
-            "262",
-            "SHINHAN BANK JAPAN",
-            "TOKYO",
-            "(HEAD OFFICE)",
-            "SHBKJPJX"
-        ],
-        [
-            "263",
-            "SHINKIN CENTRAL BANK",
-            "TOKYO",
-            "ZENBJPJ2"
-        ],
-        [
-            "264",
-            "SHINKIN CENTRAL BANK",
-            "TOKYO",
-            "ZENBJPJT"
-        ],
-        [
-            "265",
-            "SHINSEI BANK, LTD.",
-            "TOKYO",
-            "(HEAD OFFICE)",
-            "LTCBJPJTHED"
-        ],
-        [
-            "266",
-            "SHINSEI BANK, LTD.",
-            "TOKYO",
-            "LTCBJPJT"
-        ],
-        [
-            "267",
-            "SHINWA BANK, LTD. THE",
-            "SASEBO",
-            "SHWAJPJT"
-        ],
-        [
-            "268",
-            "SHIZUOKA BANK, LTD., THE",
-            "SHIZUOKA",
-            "SHIZJPJT"
-        ],
-        [
-            "269",
-            "SHOKO CHUKIN BANK, LTD., THE",
-            "TOKYO",
-            "SKCKJPJT"
-        ],
-        [
-            "270",
-            "SHONAI BANK, LTD., THE",
-            "TOKYO",
-            "SNAIJPJT"
-        ],
-        [
-            "271",
-            "SMBC FRIEND SECURITIES CO., LTD",
-            "TOKYO",
-            "YAMTJPJT"
-        ],
-        [
-            "272",
-            "SMBC NIKKO SECURITIES INC.",
-            "TOKYO",
-            "NKSCJPJT"
-        ],
-        [
-            "273",
-            "SMBC TRUST BANK LTD.",
-            "TOKYO",
-            "SGTBJPJT"
-        ],
-        [
-            "274",
-            "SOCIETE GENERALE",
-            "TOKYO",
-            "SOGEJPJT"
-        ],
-        [
-            "275",
-            "SOCIETE GENERALE SECURITIES (NORTH PACIFIC) LTD.",
-            "TOKYO",
-            "SGNPJPJT"
-        ],
-        [
-            "276",
-            "SONY BANK INC.",
-            "TOKYO",
-            "SNYBJPJT"
-        ],
-        [
-            "277",
-            "SPARX ASSET MANAGEMENT CO., LTD.",
-            "TOKYO",
-            "SPAXJPJT"
-        ],
-        [
-            "278",
-            "STANDARD CHARTERED BANK",
-            "TOKYO",
-            "SCBLJPJT"
-        ],
-        [
-            "279",
-            "STATE BANK OF INDIA",
-            "OSAKA",
-            "(OSAKA BRANCH)",
-            "SBINJPJTOSA"
-        ],
-        [
-            "280",
-            "STATE BANK OF INDIA",
-            "TOKYO",
-            "SBINJPJT"
-        ],
-        [
-            "281",
-            "STATE STREET BANK AND TRUST COMPANY",
-            "MINATO-KU",
-            "SBOSJPJX"
-        ],
-        [
-            "282",
-            "STATE STREET TRUST AND BANKING COMPANY LIMITED",
-            "MINATO-KU",
-            "SSTBJPJX"
-        ],
-        [
-            "283",
-            "STATE STREET TRUST AND BANKING COMPANY LIMITED",
-            "TOKYO",
-            "(INVESTMENT ADVISORY REPORTING)",
-            "SSTBJPJXIAR"
-        ],
-        [
-            "284",
-            "STATE STREET TRUST AND BANKING COMPANY LIMITED",
-            "TOKYO",
-            "(INVESTMENT MANAGER OUTSOURCING SERVICES)",
-            "SSTBJPJXIMS"
-        ],
-        [
-            "285",
-            "STATE STREET TRUST AND BANKING COMPANY LIMITED",
-            "TOKYO",
-            "(INVESTMENT TRUST MGMT PRICING AGENT OUTSOURCING)",
-            "SSTBJPJXITM"
-        ],
-        [
-            "286",
-            "STATE STREET TRUST AND BANKING COMPANY LIMITED",
-            "TOKYO",
-            "(MIDDLE OFFICE TRANSACTION PROCESSING)",
-            "SSTBJPJXMTP"
-        ],
-        [
-            "287",
-            "SUGAMO SHINKIN BANK, THE",
-            "TOKYO",
-            "SSHBJPJT"
-        ],
-        [
-            "288",
-            "SUMITOMO MITSUI BANKING CORPORATION",
-            "OSAKA",
-            "(OSAKA)",
-            "SMBCJPJTOSA"
-        ],
-        [
-            "289",
-            "SUMITOMO MITSUI BANKING CORPORATION",
-            "TOKYO",
-            "(CLS CONTROL BRANCH)",
-            "SMBCJPJTCLS"
-        ],
-        [
-            "290",
-            "SUMITOMO MITSUI BANKING CORPORATION",
-            "TOKYO",
-            "SMBCJPJT"
-        ],
-        [
-            "291",
-            "SUMITOMO MITSUI TRUST BANK,LIMITED",
-            "CHIYODA-KU",
-            "STBCJPJ2"
-        ],
-        [
-            "292",
-            "SUMITOMO MITSUI TRUST BANK,LIMITED",
-            "TOKYO",
-            "(CLS CONTROL BRANCH)",
-            "STBCJPJTCLS"
-        ],
-        [
-            "293",
-            "SUMITOMO MITSUI TRUST BANK,LIMITED",
-            "TOKYO",
-            "(SBS FUCHU)",
-            "STBCJPJTSBS"
-        ],
-        [
-            "294",
-            "SUMITOMO MITSUI TRUST BANK,LIMITED",
-            "TOKYO",
-            "(SECURITIES ADMINISTRATION DEPARTMENT)",
-            "STBCJPJTSAD"
-        ],
-        [
-            "295",
-            "SUMITOMO MITSUI TRUST BANK,LIMITED",
-            "TOKYO",
-            "(SECURITIES OPERATION DEPARTMENT)",
-            "STBCJPJTCUS"
-        ],
-        [
-            "296",
-            "SUMITOMO MITSUI TRUST BANK,LIMITED",
-            "TOKYO",
-            "STBCJPJT"
-        ],
-        [
-            "297",
-            "SURUGA BANK, LTD., THE",
-            "TOKYO",
-            "SRFXJPJT"
-        ],
-        [
-            "298",
-            "SWIFT CUSTOMER SERVICE CENTRE JAPAN",
-            "CUSTOMER SERVICE CENTRE JP",
-            "SWHQJPJT"
-        ],
-        [
-            "299",
-            "TAJIMA BANK, LTD, THE",
-            "HYOGO",
-            "TJMAJPJZ"
-        ],
-        [
-            "300",
-            "TAMA SHINKIN BANK, THE",
-            "TOKYO",
-            "TAMAJPJT"
-        ],
-        [
-            "301",
-            "THE 77 BANK,LTD.",
-            "SENDAI",
-            "BOSSJPJT"
-        ],
-        [
-            "302",
-            "THE BANK OF KOCHI, LIMITED",
-            "KOCHI",
-            "KOTIJPJZ"
-        ],
-        [
-            "303",
-            "THE BANK OF NEW YORK MELLON TRUST (JAPAN), LTD",
-            "TOKYO",
-            "IRVTJPJT"
-        ],
-        [
-            "304",
-            "THE BANK OF NEW YORK MELLON, TOKYO BRANCH",
-            "TOKYO",
-            "(TOKYO BRANCH, TRADE SERVICE)",
-            "IRVTJPJX848"
-        ],
-        [
-            "305",
-            "THE BANK OF NEW YORK MELLON, TOKYO BRANCH",
-            "TOKYO",
-            "IRVTJPJX"
-        ],
-        [
-            "306",
-            "THE CHIKUHO BANK LTD",
-            "FUKUOKA",
-            "CHIHJPJT"
-        ],
-        [
-            "307",
-            "THE HAMAMATSU SHINKIN BANK",
-            "SHIZUOKA",
-            "HMSKJPJT"
-        ],
-        [
-            "308",
-            "THE HIGO BANK LIMITED",
-            "KUMAMOTO",
-            "HIGOJPJT"
-        ],
-        [
-            "309",
-            "THE IMAMURA SECURITIES CO., LTD",
-            "KANAZAWA",
-            "IMAMJPJK"
-        ],
-        [
-            "310",
-            "THE NISHI-NIPPON CITY BANK, LTD",
-            "FUKUOKA",
-            "(INTERNATIONAL DEPT.)",
-            "NISIJPJTFKK"
-        ],
-        [
-            "311",
-            "THE NISHI-NIPPON CITY BANK, LTD",
-            "FUKUOKA",
-            "NISIJPJT"
-        ],
-        [
-            "312",
-            "THE NOMURA TRUST AND BANKING CO., LTD.",
-            "TOKYO",
-            "(TREASURY DEPARTMENT)",
-            "NMTBJPJTFXO"
-        ],
-        [
-            "313",
-            "THE NOMURA TRUST AND BANKING CO., LTD.",
-            "TOKYO",
-            "(TRUST DEPARTMENT)",
-            "NMTBJPJTTRU"
-        ],
-        [
-            "314",
-            "THE NOMURA TRUST AND BANKING CO., LTD.",
-            "TOKYO",
-            "NMTBJPJT"
-        ],
-        [
-            "315",
-            "THE NOMURA TRUST AND BANKING CO., LTD.",
-            "TOKYO",
-            "NMTBJPJTDAM"
-        ],
-        [
-            "316",
-            "THE NOMURA TRUST AND BANKING CO., LTD.",
-            "TOKYO",
-            "NMTBJPJTITA"
-        ],
-        [
-            "317",
-            "THE NOMURA TRUST AND BANKING CO., LTD.",
-            "TOKYO",
-            "NMTBJPJTTAD"
-        ],
-        [
-            "318",
-            "THE ROYAL BANK OF SCOTLAND PLC TOKYO",
-            "TOKYO",
-            "(GLOBAL TRANSACTION SERVICES, TOKYO BRANCH )",
-            "ABNAJPJT"
-        ],
-        [
-            "319",
-            "THE SENSHU IKEDA BANK, LTD.",
-            "OSAKA",
-            "BIKEJPJS"
-        ],
-        [
-            "320",
-            "THE TOCHIGI BANK LTD.",
-            "UTSUNOMIYA",
-            "TOCIJPJT"
-        ],
-        [
-            "321",
-            "THE TOKYO TANSHI CO., LTD.",
-            "TOKYO",
-            "TKTSJPJT"
-        ],
-        [
-            "322",
-            "TOHO BANK, LTD., THE",
-            "FUKUSHIMA",
-            "TOHOJPJT"
-        ],
-        [
-            "323",
-            "TOKAI TOKYO SECURITIES CO. LTD",
-            "TOKYO",
-            "TTSEJPJT"
-        ],
-        [
-            "324",
-            "TOKIO MARINE AND NICHIDO FIRE INSURANCE CO., LTD.",
-            "TOKYO",
-            "TMNFJPJT"
-        ],
-        [
-            "325",
-            "TOKIO MARINE ASSET MANAGEMENT CO., LTD.",
-            "TOKYO",
-            "TMAJJPJT"
-        ],
-        [
-            "326",
-            "TOKUSHIMA BANK LTD, THE",
-            "TOKUSHIMA",
-            "TKSBJPJZ"
-        ],
-        [
-            "327",
-            "TOKYO HIGASHI SHINKIN BANK,THE",
-            "TOKYO",
-            "CHSBJPJT"
-        ],
-        [
-            "328",
-            "TOKYO STAR BANK LIMITED, THE",
-            "TOKYO",
-            "TSBKJPJT"
-        ],
-        [
-            "329",
-            "TOKYO TOMIN BANK LIMITED, THE",
-            "TOKYO",
-            "TOMIJPJT"
-        ],
-        [
-            "330",
-            "TOMATO BANK LTD.",
-            "OKAYAMA",
-            "TOMAJPJZ"
-        ],
-        [
-            "331",
-            "TOSHIBA CORPORATION",
-            "MINATO-KU",
-            "TOSBJPJT"
-        ],
-        [
-            "332",
-            "TOTTORI BANK LTD., THE",
-            "TOTTORI",
-            "BIRDJPJZ"
-        ],
-        [
-            "333",
-            "TOWA BANK LTD., THE",
-            "GUNMA",
-            "TOWAJPJT"
-        ],
-        [
-            "334",
-            "TRUST AND CUSTODY SERVICES BANK, LTD.",
-            "TOKYO",
-            "TCSBJPJ2"
-        ],
-        [
-            "335",
-            "TRUST AND CUSTODY SERVICES BANK, LTD.",
-            "TOKYO",
-            "TCSBJPJT"
-        ],
-        [
-            "336",
-            "TSUKUBA BANK,LTD.",
-            "IBARAKI",
-            "KGBKJPJT"
-        ],
-        [
-            "337",
-            "U.B.A.F. - UNION DE BANQUES ARABES ET FRANCAISES TOKYO BRANCH",
-            "OSAKA",
-            "(OSAKA BRANCH)",
-            "UBAFJPJXOSA"
-        ],
-        [
-            "338",
-            "U.B.A.F. - UNION DE BANQUES ARABES ET FRANCAISES TOKYO BRANCH",
-            "TOKYO",
-            "UBAFJPJX"
-        ],
-        [
-            "339",
-            "UBS AG TOKYO BRANCH",
-            "TOKYO",
-            "(CLS BUSINESS ONLY)",
-            "UBSWJPJTCLS"
-        ],
-        [
-            "340",
-            "UBS AG TOKYO BRANCH",
-            "TOKYO",
-            "(TOKYO BRANCH)",
-            "UBSWJPJT"
-        ],
-        [
-            "341",
-            "UBS GLOBAL ASSET MANAGEMENT (JAPAN) LTD.",
-            "TOKYO",
-            "UBSAJPJT"
-        ],
-        [
-            "342",
-            "UBS SECURITIES JAPAN CO., LTD.",
-            "TOKYO",
-            "UBSWJPJ9"
-        ],
-        [
-            "343",
-            "UEDA YAGI TANSHI CO.,LTD",
-            "TOKYO",
-            "UYTCJPJT"
-        ],
-        [
-            "344",
-            "UNICREDIT BANK AG TOKYO BRANCH (HYPOVEREINSBANK TOKYO BRANCH)",
-            "TOKYO",
-            "BVBEJPJT"
-        ],
-        [
-            "345",
-            "UNITED OVERSEAS BANK LTD., TOKYO BRANCH",
-            "TOKYO",
-            "(BANKNOTES DEPARTMENT)",
-            "UOVBJPJTBNS"
-        ],
-        [
-            "346",
-            "UNITED OVERSEAS BANK LTD., TOKYO BRANCH",
-            "TOKYO",
-            "UOVBJPJT"
-        ],
-        [
-            "347",
-            "WELLS FARGO BANK, N.A., TOKYO BRANCH",
-            "TOKYO",
-            "PNBPJPJX"
-        ],
-        [
-            "348",
-            "WOORI BANK, TOKYO",
-            "TOKYO",
-            "HVBKJPJT"
-        ],
-        [
-            "349",
-            "YACHIYO BANK, LTD., THE",
-            "TOKYO",
-            "YACYJPJT"
-        ],
-        [
-            "350",
-            "YAMAGATA BANK, LTD., THE",
-            "YAMAGATA",
-            "YAMBJPJT"
-        ],
-        [
-            "351",
-            "YAMAGUCHI BANK, LTD., THE",
-            "SHIMONOSEKI",
-            "YMBKJPJT"
-        ],
-        [
-            "352",
-            "YAMANASHI CHUO BANK, LTD., THE",
-            "KOFU",
-            "YCHBJPJT"
-        ],
-        [
-            "353",
-            "YOKOHAMA SHINKIN BANK, THE",
-            "YOKOHAMA",
-            "(HEAD OFFICE)",
-            "YOKOJPJM"
-        ]
+        {
+            "id": "1",
+            "bank": "AGRICULTURAL BANK OF CHINA TOKYO BRANCH",
+            "city": "CHIYODA-KU",
+            "branch": null,
+            "swift_code": "ABOCJPJT"
+        },
+        {
+            "id": "2",
+            "bank": "AICHI BANK, LTD., THE",
+            "city": "NAGOYA",
+            "branch": null,
+            "swift_code": "AICHJPJN"
+        },
+        {
+            "id": "3",
+            "bank": "AKITA BANK, LTD.,THE",
+            "city": "AKITA",
+            "branch": null,
+            "swift_code": "AKITJPJT"
+        },
+        {
+            "id": "4",
+            "bank": "AMAGASAKI SHINKIN BANK, THE",
+            "city": "AMAGASAKI",
+            "branch": null,
+            "swift_code": "AMASJPJZ"
+        },
+        {
+            "id": "5",
+            "bank": "AOMORI BANK LTD., THE",
+            "city": "AOMORI",
+            "branch": null,
+            "swift_code": "AOMBJPJT"
+        },
+        {
+            "id": "6",
+            "bank": "AOZORA BANK, LTD",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "NCBTJPJT"
+        },
+        {
+            "id": "7",
+            "bank": "ASAHI SHINKIN BANK, THE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "ASKBJPJT"
+        },
+        {
+            "id": "8",
+            "bank": "ASHIKAGA BANK",
+            "city": "UTSUNOMIYA",
+            "branch": null,
+            "swift_code": "ASIKJPJT"
+        },
+        {
+            "id": "9",
+            "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "ANZBJPJX"
+        },
+        {
+            "id": "10",
+            "bank": "AWA BANK, LTD., THE",
+            "city": "TOKUSHIMA",
+            "branch": null,
+            "swift_code": "AWABJPJT"
+        },
+        {
+            "id": "11",
+            "bank": "BANCO BILBAO VIZCAYA ARGENTARIA TOKYO BRANCH",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "BBVAJPJT"
+        },
+        {
+            "id": "12",
+            "bank": "BANCO DO BRASIL S.A.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "BRASJPJT"
+        },
+        {
+            "id": "13",
+            "bank": "BANGKOK BANK PUBLIC COMPANY LTD.",
+            "city": "OSAKA",
+            "branch": null,
+            "swift_code": "BKKBJPJTOSA"
+        },
+        {
+            "id": "14",
+            "bank": "BANGKOK BANK PUBLIC COMPANY LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "BKKBJPJT"
+        },
+        {
+            "id": "15",
+            "bank": "BANK NEGARA INDONESIA (PERSERO), PT., TOKYO BRANCH",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "BNINJPJT"
+        },
+        {
+            "id": "16",
+            "bank": "BANK OF AMERICA, TOKYO",
+            "city": "TOKYO",
+            "branch": "(TOKYO BRANCH)",
+            "swift_code": "BOFAJPJX"
+        },
+        {
+            "id": "17",
+            "bank": "BANK OF CHINA",
+            "city": "KOBE",
+            "branch": "(KOBE BRANCH)",
+            "swift_code": "BKCHJPJTKOB"
+        },
+        {
+            "id": "18",
+            "bank": "BANK OF CHINA",
+            "city": "NAGOYA",
+            "branch": "(NAGOYA BRANCH)",
+            "swift_code": "BKCHJPJTNGY"
+        },
+        {
+            "id": "19",
+            "bank": "BANK OF CHINA",
+            "city": "OSAKA",
+            "branch": "(OSAKA BRANCH)",
+            "swift_code": "BKCHJPJTOSA"
+        },
+        {
+            "id": "20",
+            "bank": "BANK OF CHINA",
+            "city": "TOKYO",
+            "branch": "(OTEMACHI BRANCH)",
+            "swift_code": "BKCHJPJTOTM"
+        },
+        {
+            "id": "21",
+            "bank": "BANK OF CHINA",
+            "city": "TOKYO",
+            "branch": "(TOKYO BRANCH)",
+            "swift_code": "BKCHJPJT"
+        },
+        {
+            "id": "22",
+            "bank": "BANK OF CHINA",
+            "city": "YOKOHAMA",
+            "branch": "(YOKOHAMA BRANCH)",
+            "swift_code": "BKCHJPJTYHA"
+        },
+        {
+            "id": "23",
+            "bank": "BANK OF COMMUNICATIONS, TOKYO BRANCH",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "COMMJPJT"
+        },
+        {
+            "id": "24",
+            "bank": "BANK OF FUKUOKA, LTD., THE",
+            "city": "FUKUOKA",
+            "branch": "(HEAD OFFICE)",
+            "swift_code": "FKBKJPJT100"
+        },
+        {
+            "id": "25",
+            "bank": "BANK OF FUKUOKA, LTD., THE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "FKBKJPJT"
+        },
+        {
+            "id": "26",
+            "bank": "BANK OF INDIA",
+            "city": "OSAKA",
+            "branch": "(OSAKA BRANCH)",
+            "swift_code": "BKIDJPJTOSK"
+        },
+        {
+            "id": "27",
+            "bank": "BANK OF INDIA",
+            "city": "TOKYO",
+            "branch": "(TOKYO BRANCH)",
+            "swift_code": "BKIDJPJT"
+        },
+        {
+            "id": "28",
+            "bank": "BANK OF IWATE LTD., THE",
+            "city": "MORIOKA",
+            "branch": null,
+            "swift_code": "BAIWJPJT"
+        },
+        {
+            "id": "29",
+            "bank": "BANK OF JAPAN",
+            "city": "TOKYO",
+            "branch": "(FOR JAPAN'S RESERVES USE ONLY)",
+            "swift_code": "BOJPJPJTBJ1"
+        },
+        {
+            "id": "30",
+            "bank": "BANK OF JAPAN",
+            "city": "TOKYO",
+            "branch": "(FOR JAPAN'S RESERVES USE ONLY)",
+            "swift_code": "BOJPJPJTMF1"
+        },
+        {
+            "id": "31",
+            "bank": "BANK OF JAPAN",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "BOJPJPJT"
+        },
+        {
+            "id": "32",
+            "bank": "BANK OF KYOTO,LTD.,THE",
+            "city": "KYOTO",
+            "branch": null,
+            "swift_code": "BOKFJPJZ"
+        },
+        {
+            "id": "33",
+            "bank": "BANK OF NAGOYA, LTD. , THE",
+            "city": "NAGOYA",
+            "branch": null,
+            "swift_code": "NAGOJPJN"
+        },
+        {
+            "id": "34",
+            "bank": "BANK OF OKINAWA, LTD., THE",
+            "city": "NAHA",
+            "branch": null,
+            "swift_code": "BOKIJPJZ"
+        },
+        {
+            "id": "35",
+            "bank": "BANK OF SAGA, LTD., THE",
+            "city": "SAGA",
+            "branch": null,
+            "swift_code": "BKSGJPJTSAG"
+        },
+        {
+            "id": "36",
+            "bank": "BANK OF SAGA, LTD., THE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "BKSGJPJT"
+        },
+        {
+            "id": "37",
+            "bank": "BANK OF TAIWAN, TOKYO BRANCH",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "BKTWJPJT"
+        },
+        {
+            "id": "38",
+            "bank": "BANK OF THE RYUKYUS, LTD.",
+            "city": "NAHA",
+            "branch": null,
+            "swift_code": "RYUBJPJZ"
+        },
+        {
+            "id": "39",
+            "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
+            "city": "FUKUOKA",
+            "branch": null,
+            "swift_code": "BOTKJPJTFUK"
+        },
+        {
+            "id": "40",
+            "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
+            "city": "HIROSHIMA",
+            "branch": null,
+            "swift_code": "BOTKJPJTHIR"
+        },
+        {
+            "id": "41",
+            "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
+            "city": "KITAKYUSYU",
+            "branch": null,
+            "swift_code": "BOTKJPJTSMO"
+        },
+        {
+            "id": "42",
+            "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
+            "city": "KOBE",
+            "branch": null,
+            "swift_code": "BOTKJPJTKOB"
+        },
+        {
+            "id": "43",
+            "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
+            "city": "NAGOYA",
+            "branch": null,
+            "swift_code": "BOTKJPJTNGY"
+        },
+        {
+            "id": "44",
+            "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
+            "city": "OSAKA",
+            "branch": null,
+            "swift_code": "BOTKJPJTOSA"
+        },
+        {
+            "id": "45",
+            "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
+            "city": "SAPPORO",
+            "branch": null,
+            "swift_code": "BOTKJPJTSAP"
+        },
+        {
+            "id": "46",
+            "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
+            "city": "TOKYO",
+            "branch": "(CLS CONTROL BRANCH-CONTROL DESK)",
+            "swift_code": "BOTKJPJTCLS"
+        },
+        {
+            "id": "47",
+            "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
+            "city": "TOKYO",
+            "branch": "(FUNDS AND FOREIGN EXCHANGE DIVISION)",
+            "swift_code": "BOTKJPJTFGN"
+        },
+        {
+            "id": "48",
+            "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
+            "city": "TOKYO",
+            "branch": "(HEAD OFFICE)",
+            "swift_code": "BOTKJPJT"
+        },
+        {
+            "id": "49",
+            "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
+            "city": "TOKYO",
+            "branch": "(INVESTMENT FUND OPERATIONS UNIT)",
+            "swift_code": "BOTKJPJTFND"
+        },
+        {
+            "id": "50",
+            "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
+            "city": "TOKYO",
+            "branch": "(SECURITIES SERVICES DIVISION)",
+            "swift_code": "BOTKJPJTSAD"
+        },
+        {
+            "id": "51",
+            "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD.,THE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "BOTKJPJ2"
+        },
+        {
+            "id": "52",
+            "bank": "BANK OF YOKOHAMA, LTD., THE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "HAMAJPJT"
+        },
+        {
+            "id": "53",
+            "bank": "BARCLAYS BANK PLC",
+            "city": "TOKYO",
+            "branch": "(MONEY MARKET AND FOREIGN EXCHANGE)",
+            "swift_code": "BARCJPJ2MFX"
+        },
+        {
+            "id": "54",
+            "bank": "BARCLAYS SECURITIES JAPAN LIMITED",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "BARCJPJ9"
+        },
+        {
+            "id": "55",
+            "bank": "BGC SHOKEN KAISHA LIMITED",
+            "city": "MINATO-KU",
+            "branch": null,
+            "swift_code": "CFILJPJT"
+        },
+        {
+            "id": "56",
+            "bank": "BLACKROCK JAPAN CO., LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "BGIAJPJT"
+        },
+        {
+            "id": "57",
+            "bank": "BNP PARIBAS S.A. - TOKYO BRANCH",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "BNPAJPJT"
+        },
+        {
+            "id": "58",
+            "bank": "BNP PARIBAS SECURITIES (JAPAN) LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "BNPAJPJ2"
+        },
+        {
+            "id": "59",
+            "bank": "BROWN BROTHERS HARRIMAN SECURITIES INVESTMENT MANAGEMENT (JAPAN) INC.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "BBHCJPJT"
+        },
+        {
+            "id": "60",
+            "bank": "CENTRAL TANSHI CO., LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "CTRLJPJT"
+        },
+        {
+            "id": "61",
+            "bank": "CHANG HWA COMMERCIAL BANK LTD., TOKYO BRANCH",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "CCBCJPJT"
+        },
+        {
+            "id": "62",
+            "bank": "CHIBA BANK, LTD., THE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "CHBAJPJT"
+        },
+        {
+            "id": "63",
+            "bank": "CHIBA KOGYO BANK, LTD., THE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "CHIKJPJT"
+        },
+        {
+            "id": "64",
+            "bank": "CHINA CONSTRUCTION BANK CORPORATION TOKYO BRANCH",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "PCBCJPJT"
+        },
+        {
+            "id": "65",
+            "bank": "CHUGOKU BANK, LTD., THE",
+            "city": "OKAYAMA",
+            "branch": "(HEAD OFFICE)",
+            "swift_code": "CHGKJPJZ"
+        },
+        {
+            "id": "66",
+            "bank": "CHUGOKU BANK, LTD., THE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "CHGKJPJT"
+        },
+        {
+            "id": "67",
+            "bank": "CHUKYO BANK, LIMITED, THE",
+            "city": "NAGOYA",
+            "branch": null,
+            "swift_code": "CKBKJPJN"
+        },
+        {
+            "id": "68",
+            "bank": "CIBC WORLD MARKETS (JAPAN) INC.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "CIWMJPJT"
+        },
+        {
+            "id": "69",
+            "bank": "CITIBANK JAPAN LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "CITIJPJT"
+        },
+        {
+            "id": "70",
+            "bank": "CITIGROUP GLOBAL MARKETS JAPAN INC.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "NSBLJPJT"
+        },
+        {
+            "id": "71",
+            "bank": "COMMERZBANK AG TOKYO",
+            "city": "TOKYO",
+            "branch": "(OFF-SHORE BUSINESS)",
+            "swift_code": "COBAJPJXTOM"
+        },
+        {
+            "id": "72",
+            "bank": "COMMERZBANK AG TOKYO",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "COBAJPJX"
+        },
+        {
+            "id": "73",
+            "bank": "COMMONWEALTH BANK OF AUSTRALIA",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "CTBAJPJT"
+        },
+        {
+            "id": "74",
+            "bank": "CREDIT AGRICOLE CIB TOKYO BRANCH",
+            "city": "TOKYO",
+            "branch": "(COMMODITY)",
+            "swift_code": "BSUIJPJTCOM"
+        },
+        {
+            "id": "75",
+            "bank": "CREDIT AGRICOLE CIB TOKYO BRANCH",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "BSUIJPJT"
+        },
+        {
+            "id": "76",
+            "bank": "CREDIT AGRICOLE SECURITIES ASIA B.V.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "CRLYJPJ9"
+        },
+        {
+            "id": "77",
+            "bank": "CREDIT SUISSE AG, TOKYO BRANCH",
+            "city": "TOKYO",
+            "branch": "(TOKYO BRANCH)",
+            "swift_code": "CRESJPJT"
+        },
+        {
+            "id": "78",
+            "bank": "CREDIT SUISSE AG, TOKYO BRANCH",
+            "city": "TOKYO",
+            "branch": "(TOKYO BRANCH)",
+            "swift_code": "CRESJPJTPBS"
+        },
+        {
+            "id": "79",
+            "bank": "CREDIT SUISSE SECURITIES (JAPAN) LTD.",
+            "city": "TOKYO",
+            "branch": "(EQUITY SETTLEMENTS)",
+            "swift_code": "CSFBJPJXEQT"
+        },
+        {
+            "id": "80",
+            "bank": "CREDIT SUISSE SECURITIES (JAPAN) LTD.",
+            "city": "TOKYO",
+            "branch": "(TOKYO BRANCH)",
+            "swift_code": "CSFBJPJXPBS"
+        },
+        {
+            "id": "81",
+            "bank": "CREDIT SUISSE SECURITIES (JAPAN) LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "CSFBJPJX"
+        },
+        {
+            "id": "82",
+            "bank": "CTBC BANK CO., LTD., TOKYO BRANCH",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "CTCBJPJT"
+        },
+        {
+            "id": "83",
+            "bank": "DAISAN BANK, LTD., THE",
+            "city": "MATSUSAKA",
+            "branch": null,
+            "swift_code": "DSBKJPJT"
+        },
+        {
+            "id": "84",
+            "bank": "DAISHI BANK LTD.,THE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "DAISJPJT"
+        },
+        {
+            "id": "85",
+            "bank": "DAIWA ASSET MANAGEMENT CO. LTD",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "DAMLJPJT"
+        },
+        {
+            "id": "86",
+            "bank": "DAIWA NEXT BANK, LTD.",
+            "city": "CHIYODA-KU",
+            "branch": null,
+            "swift_code": "DNEXJPJT"
+        },
+        {
+            "id": "87",
+            "bank": "DAIWA SB INVESTMENTS LTD",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "DSBIJPJT"
+        },
+        {
+            "id": "88",
+            "bank": "DAIWA SECURITIES CO.LTD.",
+            "city": "TOKYO",
+            "branch": "(JAPANESE SECURITIES SETTLEMENTS)",
+            "swift_code": "DWSCJPJTJSS"
+        },
+        {
+            "id": "89",
+            "bank": "DAIWA SECURITIES CO.LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "DWSCJPJT"
+        },
+        {
+            "id": "90",
+            "bank": "DAIWA SECURITIES CO.LTD. CO.LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "DWSCJPJ2"
+        },
+        {
+            "id": "91",
+            "bank": "DBS BANK LTD, TOKYO BRANCH",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "DBSSJPJT"
+        },
+        {
+            "id": "92",
+            "bank": "DEPFA BANK PLC",
+            "city": "TOKYO",
+            "branch": "(TOKYO BRANCH)",
+            "swift_code": "DPFAJPJT"
+        },
+        {
+            "id": "93",
+            "bank": "DEUTSCHE ASSET MANAGEMENT(JAPAN)LTD",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "DEAMJPJT"
+        },
+        {
+            "id": "94",
+            "bank": "DEUTSCHE BANK AG",
+            "city": "TOKYO",
+            "branch": "(TOKYO BRANCH)",
+            "swift_code": "DEUTJPJT"
+        },
+        {
+            "id": "95",
+            "bank": "DEUTSCHE SECURITIES INC.",
+            "city": "TOKYO",
+            "branch": "(EQUITY DIVISION)",
+            "swift_code": "DEUTJPJ9EQT"
+        },
+        {
+            "id": "96",
+            "bank": "DEUTSCHE SECURITIES INC.",
+            "city": "TOKYO",
+            "branch": "(FOREX DIVISION)",
+            "swift_code": "DEUTJPJ9FX1"
+        },
+        {
+            "id": "97",
+            "bank": "DEUTSCHE SECURITIES INC.",
+            "city": "TOKYO",
+            "branch": "(JAPANESE EQUITY SETTLEMENT DEPARTMENT)",
+            "swift_code": "DEUTJPJ9DOM"
+        },
+        {
+            "id": "98",
+            "bank": "DEUTSCHE SECURITIES INC.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "DEUTJPJ7"
+        },
+        {
+            "id": "99",
+            "bank": "DEUTSCHE SECURITIES INC.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "DEUTJPJ9"
+        },
+        {
+            "id": "100",
+            "bank": "DIAM CO., LTD",
+            "city": "CHIYODA-KU",
+            "branch": null,
+            "swift_code": "DIAMJPJT"
+        },
+        {
+            "id": "101",
+            "bank": "EHIME BANK, LTD., THE",
+            "city": "MATSUYAMA",
+            "branch": null,
+            "swift_code": "HIMEJPJT"
+        },
+        {
+            "id": "102",
+            "bank": "EIGHTEENTH BANK,LIMITED,THE",
+            "city": "NAGASAKI",
+            "branch": null,
+            "swift_code": "EITNJPJT"
+        },
+        {
+            "id": "103",
+            "bank": "FAST RETAILING CO LTD",
+            "city": "YAMAGUCHI",
+            "branch": null,
+            "swift_code": "FRUQJPJ2"
+        },
+        {
+            "id": "104",
+            "bank": "FIRST COMMERCIAL BANK, TOKYO BRANCH",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "FCBKJPJT"
+        },
+        {
+            "id": "105",
+            "bank": "FUKUI BANK, LTD., THE",
+            "city": "FUKUI",
+            "branch": null,
+            "swift_code": "FKUIJPJT"
+        },
+        {
+            "id": "106",
+            "bank": "GIFU SHINKIN BANK, THE",
+            "city": "GIFU",
+            "branch": null,
+            "swift_code": "GFSBJPJZ"
+        },
+        {
+            "id": "107",
+            "bank": "GOLDMAN SACHS ASSET MANAGEMENT JAPAN LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "GSAMJPJT"
+        },
+        {
+            "id": "108",
+            "bank": "GOLDMAN SACHS JAPAN CO., LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "GOLDJPJX"
+        },
+        {
+            "id": "109",
+            "bank": "GUNMA BANK, LTD., THE",
+            "city": "MAEBASHI",
+            "branch": null,
+            "swift_code": "GUMAJPJT"
+        },
+        {
+            "id": "110",
+            "bank": "HACHIJUNI BANK, LTD., THE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "HABKJPJT"
+        },
+        {
+            "id": "111",
+            "bank": "HANA BANK TOKYO BRANCH",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "HNBNJPJT"
+        },
+        {
+            "id": "112",
+            "bank": "HIGASHI-NIPPON BANK, LIMITED, THE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "HNPBJPJT"
+        },
+        {
+            "id": "113",
+            "bank": "HIROSHIMA BANK, LTD., THE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "HIROJPJT"
+        },
+        {
+            "id": "114",
+            "bank": "HOKKAIDO BANK, LTD., THE",
+            "city": "SAPPORO",
+            "branch": null,
+            "swift_code": "HKDBJPJT"
+        },
+        {
+            "id": "115",
+            "bank": "HOKKOKU BANK, LTD., THE",
+            "city": "KANAZAWA",
+            "branch": null,
+            "swift_code": "HKOKJPJT"
+        },
+        {
+            "id": "116",
+            "bank": "HOKUETSU BANK, LTD., THE",
+            "city": "NAGAOKA",
+            "branch": null,
+            "swift_code": "HETSJPJT"
+        },
+        {
+            "id": "117",
+            "bank": "HOKURIKU BANK, LTD.,THE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "RIKBJPJT"
+        },
+        {
+            "id": "118",
+            "bank": "HOKUTO BANK, LTD., THE",
+            "city": "AKITA",
+            "branch": null,
+            "swift_code": "HOKBJPJT"
+        },
+        {
+            "id": "119",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED,THE",
+            "city": "TOKYO",
+            "branch": "(CLS DIVISION)",
+            "swift_code": "HSBCJPJTCLS"
+        },
+        {
+            "id": "120",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED,THE",
+            "city": "TOKYO",
+            "branch": "(TREASURY DEPARTMENT)",
+            "swift_code": "HSBCJPJTTRS"
+        },
+        {
+            "id": "121",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED,THE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "HSBCJPJT"
+        },
+        {
+            "id": "122",
+            "bank": "HSBC SECURITIES (JAPAN) LIMITED",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "IBJPJPJT"
+        },
+        {
+            "id": "123",
+            "bank": "HYAKUGO BANK,LTD.,THE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "HYKGJPJT"
+        },
+        {
+            "id": "124",
+            "bank": "HYAKUGO BANK,LTD.,THE",
+            "city": "TSU",
+            "branch": null,
+            "swift_code": "HYKGJPJTTSU"
+        },
+        {
+            "id": "125",
+            "bank": "HYAKUJUSHI BANK, LTD., THE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "HYAKJPJT"
+        },
+        {
+            "id": "126",
+            "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, TOKYO BRANCH",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "ICBKJPJT"
+        },
+        {
+            "id": "127",
+            "bank": "INDUSTRIAL BANK OF KOREA, TOKYO BRANCH",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "IBKOJPJT"
+        },
+        {
+            "id": "128",
+            "bank": "ING BANK N.V.",
+            "city": "TOKYO",
+            "branch": "(TOKYO BRANCH)",
+            "swift_code": "INGBJPJT"
+        },
+        {
+            "id": "129",
+            "bank": "INTESA SANPAOLO SPA TOKYO",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "BCITJPJT"
+        },
+        {
+            "id": "130",
+            "bank": "ITAU UNIBANCO S.A., TOKYO BRANCH",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "ITAUJPJT"
+        },
+        {
+            "id": "131",
+            "bank": "IWAICOSMO SECURITIES CO. LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "COSSJPJT"
+        },
+        {
+            "id": "132",
+            "bank": "IYO BANK, LTD., THE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "IYOBJPJT"
+        },
+        {
+            "id": "133",
+            "bank": "JAPAN POST BANK, CO., LTD",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "JPPSJPJK"
+        },
+        {
+            "id": "134",
+            "bank": "JAPAN SECURITIES DEPOSITORY CENTER, INC",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "JJSDJPJT"
+        },
+        {
+            "id": "135",
+            "bank": "JAPAN TRUSTEE SERVICES BANK, LTD.",
+            "city": "TOKYO",
+            "branch": "(AGENT ACCOUNT)",
+            "swift_code": "JTSBJPJTAGE"
+        },
+        {
+            "id": "136",
+            "bank": "JAPAN TRUSTEE SERVICES BANK, LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "JTSBJPJT"
+        },
+        {
+            "id": "137",
+            "bank": "JOHNAN SHINKIN BANK THE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "JSBKJPJT"
+        },
+        {
+            "id": "138",
+            "bank": "JOHOKU SHINKIN BANK, THE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "OJISJPJT"
+        },
+        {
+            "id": "139",
+            "bank": "JOYO BANK, LTD., THE",
+            "city": "IBARAKI",
+            "branch": null,
+            "swift_code": "JOYOJPJT"
+        },
+        {
+            "id": "140",
+            "bank": "JPMORGAN ASSET MANAGEMENT (JAPAN) LTD.",
+            "city": "TOKYO",
+            "branch": "(TEST KEY AND BKE ADMINISTRATION)",
+            "swift_code": "CHASJPJZKEY"
+        },
+        {
+            "id": "141",
+            "bank": "JPMORGAN ASSET MANAGEMENT (JAPAN) LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "CHASJPJZ"
+        },
+        {
+            "id": "142",
+            "bank": "JPMORGAN CHASE BANK, N.A.",
+            "city": "TOKYO",
+            "branch": "(NON-CASH RELATED, SPECIAL PURPOSE)",
+            "swift_code": "CHASJPJTWSS"
+        },
+        {
+            "id": "143",
+            "bank": "JPMORGAN CHASE BANK, N.A.",
+            "city": "TOKYO",
+            "branch": "(TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES)",
+            "swift_code": "CHASJPJTENQ"
+        },
+        {
+            "id": "144",
+            "bank": "JPMORGAN CHASE BANK, N.A.",
+            "city": "TOKYO",
+            "branch": "(TEST KEY AND BKE ADMINISTRATION)",
+            "swift_code": "CHASJPJTKEY"
+        },
+        {
+            "id": "145",
+            "bank": "JPMORGAN CHASE BANK, N.A.",
+            "city": "TOKYO",
+            "branch": "(TOKYO BRANCH)",
+            "swift_code": "CHASJPJT"
+        },
+        {
+            "id": "146",
+            "bank": "JPMORGAN CHASE BANK, N.A.",
+            "city": "TOKYO",
+            "branch": "(TRADE SERVICE DEPARTMENT)",
+            "swift_code": "CHASJPJTTSD"
+        },
+        {
+            "id": "147",
+            "bank": "JPMORGAN SECURITIES JAPAN CO., LTD.",
+            "city": "TOKYO",
+            "branch": "(CASH EQUITY MIDDLE OFFICE)",
+            "swift_code": "CHASJPJ9CE1"
+        },
+        {
+            "id": "148",
+            "bank": "JPMORGAN SECURITIES JAPAN CO., LTD.",
+            "city": "TOKYO",
+            "branch": "(EQUITY OPERATION)",
+            "swift_code": "CHASJPJ9EQT"
+        },
+        {
+            "id": "149",
+            "bank": "JPMORGAN SECURITIES JAPAN CO., LTD.",
+            "city": "TOKYO",
+            "branch": "(TEST KEY AND BKE ADMINISTRATION)",
+            "swift_code": "CHASJPJ9KEY"
+        },
+        {
+            "id": "150",
+            "bank": "JPMORGAN SECURITIES JAPAN CO., LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "CHASJPJ9"
+        },
+        {
+            "id": "151",
+            "bank": "JUROKU BANK, LTD., THE",
+            "city": "GIFU",
+            "branch": null,
+            "swift_code": "JUROJPJT"
+        },
+        {
+            "id": "152",
+            "bank": "KAGAWA BANK LTD., THE",
+            "city": "TAKAMATSU",
+            "branch": null,
+            "swift_code": "KGWBJPJZ"
+        },
+        {
+            "id": "153",
+            "bank": "KAGOSHIMA BANK, LTD., THE",
+            "city": "KAGOSHIMA",
+            "branch": null,
+            "swift_code": "KAGOJPJT"
+        },
+        {
+            "id": "154",
+            "bank": "KANSAI URBAN BANKING CORPORATION",
+            "city": "OSAKA",
+            "branch": null,
+            "swift_code": "KSBJJPJS"
+        },
+        {
+            "id": "155",
+            "bank": "KEIYO BANK, LTD., THE",
+            "city": "CHIBA",
+            "branch": null,
+            "swift_code": "KEIBJPJT"
+        },
+        {
+            "id": "156",
+            "bank": "KINKI OSAKA BANK, LTD., THE",
+            "city": "OSAKA",
+            "branch": null,
+            "swift_code": "OSABJPJS"
+        },
+        {
+            "id": "157",
+            "bank": "KIRAYAKA BANK, LTD.",
+            "city": "YAMAGATA",
+            "branch": null,
+            "swift_code": "SHIAJPJT"
+        },
+        {
+            "id": "158",
+            "bank": "KITAKYUSHU BANK, LTD., THE(FORMERLY A PART OF THE YAMAGUCHI BANK,LTD.)",
+            "city": "KITAKYUSYU",
+            "branch": null,
+            "swift_code": "KITQJPJZ"
+        },
+        {
+            "id": "159",
+            "bank": "KITA-NIPPON BANK, LTD., THE",
+            "city": "MORIOKA",
+            "branch": null,
+            "swift_code": "KNPBJPJT"
+        },
+        {
+            "id": "160",
+            "bank": "KIYO BANK, LTD, THE",
+            "city": "WAKAYAMA",
+            "branch": null,
+            "swift_code": "KIYOJPJT"
+        },
+        {
+            "id": "161",
+            "bank": "KOKUSAI ASSET MANAGEMENT CO., LTD",
+            "city": "TOKYO",
+            "branch": "(FUND ACCOUNTING DEPT)",
+            "swift_code": "KAMGJPJTFAD"
+        },
+        {
+            "id": "162",
+            "bank": "KOKUSAI ASSET MANAGEMENT CO., LTD",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "KAMGJPJT"
+        },
+        {
+            "id": "163",
+            "bank": "KOOKMIN BANK",
+            "city": "OSAKA",
+            "branch": "(OSAKA BRANCH)",
+            "swift_code": "CZNBJPJTOSK"
+        },
+        {
+            "id": "164",
+            "bank": "KOOKMIN BANK",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "CZNBJPJT"
+        },
+        {
+            "id": "165",
+            "bank": "KOREA DEVELOPMENT BANK,THE,TOKYO BRANCH",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "KODBJPJT"
+        },
+        {
+            "id": "166",
+            "bank": "KOREA EXCHANGE BANK",
+            "city": "OSAKA",
+            "branch": "(OSAKA BRANCH)",
+            "swift_code": "KOEXJPJTOSA"
+        },
+        {
+            "id": "167",
+            "bank": "KOREA EXCHANGE BANK",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "KOEXJPJT"
+        },
+        {
+            "id": "168",
+            "bank": "KUMAMOTO BANK, LTD., THE",
+            "city": "KUMAMOTO",
+            "branch": null,
+            "swift_code": "KUMAJPJZ"
+        },
+        {
+            "id": "169",
+            "bank": "KYOTO CHUO SHINKIN BANK, THE",
+            "city": "KYOTO",
+            "branch": null,
+            "swift_code": "KCHUJPJY"
+        },
+        {
+            "id": "170",
+            "bank": "KYOTO SHINKIN BANK,THE",
+            "city": "KYOTO",
+            "branch": null,
+            "swift_code": "KYSBJPJZ"
+        },
+        {
+            "id": "171",
+            "bank": "LOMBARD ODIER TRUST (JAPAN) LIMITED",
+            "city": "TOKYO",
+            "branch": "(NDP DEPT)",
+            "swift_code": "LOCYJPJTNDP"
+        },
+        {
+            "id": "172",
+            "bank": "LOMBARD ODIER TRUST (JAPAN) LIMITED",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "LOCYJPJT"
+        },
+        {
+            "id": "173",
+            "bank": "MASTER TRUST BANK OF JAPAN LTD, THE",
+            "city": "TOKYO",
+            "branch": "(INVESTOR SERVICES DIVISION)",
+            "swift_code": "MTBJJPJTAGT"
+        },
+        {
+            "id": "174",
+            "bank": "MASTER TRUST BANK OF JAPAN LTD, THE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "MTBJJPJT"
+        },
+        {
+            "id": "175",
+            "bank": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.,",
+            "city": "OSAKA",
+            "branch": null,
+            "swift_code": "ICBCJPJTOSA"
+        },
+        {
+            "id": "176",
+            "bank": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.,",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "ICBCJPJT"
+        },
+        {
+            "id": "177",
+            "bank": "MELLON GLOBAL INVESTMENTS JAPAN CO LTD",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "MELNJPJT"
+        },
+        {
+            "id": "178",
+            "bank": "MERCEDES-BENZ JAPAN CO.LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "DAIXJPJT"
+        },
+        {
+            "id": "179",
+            "bank": "MERRILL LYNCH JAPAN SECURITIES CO. LTD",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "MLCOJPJX"
+        },
+        {
+            "id": "180",
+            "bank": "MERRILL LYNCH JAPAN SECURITIES CO., LTD",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "MLCOJPJD"
+        },
+        {
+            "id": "181",
+            "bank": "MERRILL LYNCH JAPAN SECURITIES CO., LTD.",
+            "city": "TOKYO",
+            "branch": "(BOND SETTLEMENT)",
+            "swift_code": "MLCOJPJTJGB"
+        },
+        {
+            "id": "182",
+            "bank": "MERRILL LYNCH JAPAN SECURITIES CO., LTD.",
+            "city": "TOKYO",
+            "branch": "(EQUITY SETTLEMENT)",
+            "swift_code": "MLCOJPJTJES"
+        },
+        {
+            "id": "183",
+            "bank": "MERRILL LYNCH JAPAN SECURITIES CO., LTD.",
+            "city": "TOKYO",
+            "branch": "(STRATEGIC DEVELOPMENT INITIATIVE)",
+            "swift_code": "MLCOJPJTSDI"
+        },
+        {
+            "id": "184",
+            "bank": "MERRILL LYNCH JAPAN SECURITIES CO., LTD.",
+            "city": "TOKYO",
+            "branch": "(TREASURY OPERATIONS)",
+            "swift_code": "MLCOJPJTTSY"
+        },
+        {
+            "id": "185",
+            "bank": "MERRILL LYNCH JAPAN SECURITIES CO., LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "MLCOJPJT"
+        },
+        {
+            "id": "186",
+            "bank": "METROPOLITAN BANK AND TRUST COMPANY, TOKYO BRANCH",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "MBTCJPJT"
+        },
+        {
+            "id": "187",
+            "bank": "MICHINOKU BANK, LTD., THE",
+            "city": "AOMORI",
+            "branch": null,
+            "swift_code": "MCHIJPJT"
+        },
+        {
+            "id": "188",
+            "bank": "MIE BANK LTD., THE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "MIEBJPJT"
+        },
+        {
+            "id": "189",
+            "bank": "MINATO BANK,LTD,THE (FORMERLY THE HANSHIN BANK LTD)",
+            "city": "KOBE",
+            "branch": null,
+            "swift_code": "HSINJPJK"
+        },
+        {
+            "id": "190",
+            "bank": "MITSUBISHI UFJ ASSET MANAGEMENT CO.,LTD.",
+            "city": "CHIYODA-KU",
+            "branch": null,
+            "swift_code": "MUFJJPJT"
+        },
+        {
+            "id": "191",
+            "bank": "MITSUBISHI UFJ MORGAN STANLEY PB SECURITIES CO., LTD",
+            "city": "CHIYODA-KU",
+            "branch": null,
+            "swift_code": "MUMLJPJT"
+        },
+        {
+            "id": "192",
+            "bank": "MITSUBISHI UFJ MORGAN STANLEY SECURITIES CO., LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "KKSSJPJT"
+        },
+        {
+            "id": "193",
+            "bank": "MITSUBISHI UFJ TRUST AND BANKING CORPORATION",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "MTBCJPJT"
+        },
+        {
+            "id": "194",
+            "bank": "MIYAZAKI BANK, LTD., THE",
+            "city": "MIYAZAKI",
+            "branch": null,
+            "swift_code": "MIYAJPJT"
+        },
+        {
+            "id": "195",
+            "bank": "MIZUHO BANK, LTD.",
+            "city": "TOKYO",
+            "branch": "(CLS CONTROL BRANCH)",
+            "swift_code": "MHCBJPJTCLS"
+        },
+        {
+            "id": "196",
+            "bank": "MIZUHO BANK, LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "MHCBJPJ5"
+        },
+        {
+            "id": "197",
+            "bank": "MIZUHO BANK, LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "MHCBJPJ6"
+        },
+        {
+            "id": "198",
+            "bank": "MIZUHO BANK, LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "MHCBJPJT"
+        },
+        {
+            "id": "199",
+            "bank": "MIZUHO BANK, LTD.(CUSTODY)",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "MHCBJPJ2"
+        },
+        {
+            "id": "200",
+            "bank": "MIZUHO CORPORATE BANK, LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "MHCBJPJ4"
+        },
+        {
+            "id": "201",
+            "bank": "MIZUHO SECURITIES CO., LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "MHSCJPJT"
+        },
+        {
+            "id": "202",
+            "bank": "MIZUHO SECURITIES CO.,LTD",
+            "city": "CHUO-KU",
+            "branch": null,
+            "swift_code": "MHSCJPJ3"
+        },
+        {
+            "id": "203",
+            "bank": "MIZUHO SECURITIES CO.,LTD",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "MHSCJPJ2"
+        },
+        {
+            "id": "204",
+            "bank": "MIZUHO TRUST AND BANKING CO., LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "YTBCJPJT"
+        },
+        {
+            "id": "205",
+            "bank": "MOMIJI BANK, LTD.",
+            "city": "HIROSHIMA",
+            "branch": null,
+            "swift_code": "HRSBJPJT"
+        },
+        {
+            "id": "206",
+            "bank": "MORGAN STANLEY MUFG SECURITIES CO., LTD.",
+            "city": "TOKYO",
+            "branch": "(FOREIGN EXCHANGE OPERATIONS)",
+            "swift_code": "MSTKJPJXFXO"
+        },
+        {
+            "id": "207",
+            "bank": "MORGAN STANLEY MUFG SECURITIES CO., LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "MSTKJPJX"
+        },
+        {
+            "id": "208",
+            "bank": "MORGAN STANLEY MUFG SECURITIES CO., LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "MSTKJPJXCII"
+        },
+        {
+            "id": "209",
+            "bank": "MORGAN STANLEY MUFG SECURITIES CO., LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "MSTKJPJXCLS"
+        },
+        {
+            "id": "210",
+            "bank": "MUSASHINO BANK LTD., THE",
+            "city": "SAITAMA",
+            "branch": "(TREASURY AND SECURITIES DIVISION)",
+            "swift_code": "MUBKJPJTTSD"
+        },
+        {
+            "id": "211",
+            "bank": "MUSASHINO BANK LTD., THE",
+            "city": "SAITAMA",
+            "branch": null,
+            "swift_code": "MUBKJPJT"
+        },
+        {
+            "id": "212",
+            "bank": "NAGANO BANK, LTD.",
+            "city": "NAGANO",
+            "branch": null,
+            "swift_code": "NAGAJPJZ"
+        },
+        {
+            "id": "213",
+            "bank": "NANTO BANK, LTD, THE",
+            "city": "NARA",
+            "branch": null,
+            "swift_code": "NANTJPJT"
+        },
+        {
+            "id": "214",
+            "bank": "NATIONAL AUSTRALIA BANK LIMITED",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "NATAJPJT"
+        },
+        {
+            "id": "215",
+            "bank": "NATIONAL BANK OF PAKISTAN",
+            "city": "OSAKA",
+            "branch": "(OSAKA BRANCH)",
+            "swift_code": "NBPAJPJTOSK"
+        },
+        {
+            "id": "216",
+            "bank": "NATIONAL BANK OF PAKISTAN",
+            "city": "TOKYO",
+            "branch": "(MAIN BRANCH)",
+            "swift_code": "NBPAJPJT"
+        },
+        {
+            "id": "217",
+            "bank": "NATIXIS JAPAN SECURITIES CO., LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "NATXJPJT"
+        },
+        {
+            "id": "218",
+            "bank": "NISSAY ASSET MANAGEMENT CORPORATION",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "NAMJJPJT"
+        },
+        {
+            "id": "219",
+            "bank": "NOMURA ASSET MANAGEMENT CO., LTD.",
+            "city": "TOKYO",
+            "branch": "(ADVISORY DEPT.)",
+            "swift_code": "NAMKJPJTADV"
+        },
+        {
+            "id": "220",
+            "bank": "NOMURA ASSET MANAGEMENT CO., LTD.",
+            "city": "TOKYO",
+            "branch": "(BOND AND FINANCIAL INSTRUMENT TRADING DEPT)",
+            "swift_code": "NAMKJPJTBFT"
+        },
+        {
+            "id": "221",
+            "bank": "NOMURA ASSET MANAGEMENT CO., LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "NAMKJPJT"
+        },
+        {
+            "id": "222",
+            "bank": "NOMURA ASSET MANAGEMENT CO., LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "NAMKJPJTFDV"
+        },
+        {
+            "id": "223",
+            "bank": "NOMURA FINANCIAL PRODUCTS AND SERVICES INC",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "NFPSJPJT"
+        },
+        {
+            "id": "224",
+            "bank": "NOMURA RESEARCH INSTITUTE, LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "NRIWJPJT"
+        },
+        {
+            "id": "225",
+            "bank": "NOMURA SECURITIES CO., LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "NMRSJPJT"
+        },
+        {
+            "id": "226",
+            "bank": "NORINCHUKIN BANK, THE",
+            "city": "TOKYO",
+            "branch": "(TREASURY AND SECURITIES OPERATIONS DIVISION)",
+            "swift_code": "NOCUJPJTCLS"
+        },
+        {
+            "id": "227",
+            "bank": "NORINCHUKIN BANK, THE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "NOCUJPJT"
+        },
+        {
+            "id": "228",
+            "bank": "NORTH PACIFIC BANK, LTD.",
+            "city": "SAPPORO",
+            "branch": null,
+            "swift_code": "NORPJPJP"
+        },
+        {
+            "id": "229",
+            "bank": "NTT DATA CORPORATION",
+            "city": "KOTO-KU",
+            "branch": null,
+            "swift_code": "NTTDJPJT"
+        },
+        {
+            "id": "230",
+            "bank": "NTT DATA GETRONICS CORPORATION",
+            "city": "KAWASAKI-SHI",
+            "branch": null,
+            "swift_code": "NTDGJPJT"
+        },
+        {
+            "id": "231",
+            "bank": "OGAKI KYORITSU BANK,LTD.,THE",
+            "city": "OGAKI",
+            "branch": null,
+            "swift_code": "OGAKJPJT"
+        },
+        {
+            "id": "232",
+            "bank": "OITA BANK, LTD., THE",
+            "city": "OITA",
+            "branch": null,
+            "swift_code": "OITAJPJT"
+        },
+        {
+            "id": "233",
+            "bank": "OKASAN SECURITIES CO., LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "OKASJPJT"
+        },
+        {
+            "id": "234",
+            "bank": "OKAZAKI SHINKIN BANK, THE",
+            "city": "OKAZAKI",
+            "branch": null,
+            "swift_code": "OKSBJPJZ"
+        },
+        {
+            "id": "235",
+            "bank": "OSAKA CITY SHINKIN BANK, THE",
+            "city": "OSAKA",
+            "branch": null,
+            "swift_code": "OSACJPJS"
+        },
+        {
+            "id": "236",
+            "bank": "OVERSEA-CHINESE BANKING CORPORATION LIMITED, TOKYO BRANCH",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "OCBCJPJT"
+        },
+        {
+            "id": "237",
+            "bank": "PANASONIC CORPORATION",
+            "city": "OSAKA",
+            "branch": null,
+            "swift_code": "PANAJPJS"
+        },
+        {
+            "id": "238",
+            "bank": "PHILIPPINE NATIONAL BANK TOKYO BRANCH",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "PNBMJPJT"
+        },
+        {
+            "id": "239",
+            "bank": "PICTET ASSET MANAGEMENT (JAPAN) LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "PICTJPJT"
+        },
+        {
+            "id": "240",
+            "bank": "RAKUTEN BANK, LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "RAKTJPJT"
+        },
+        {
+            "id": "241",
+            "bank": "RBC CAPITAL MARKETS (JAPAN) LTD., TOKYO",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "RBDSJPJT"
+        },
+        {
+            "id": "242",
+            "bank": "RBS SECURITIES JAPAN LIMITED, TOKYO BRANCH",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "NWSJJPJT"
+        },
+        {
+            "id": "243",
+            "bank": "RECRUIT HOLDINGS CO.,LTD.",
+            "city": "CHUO-KU",
+            "branch": null,
+            "swift_code": "RCRTJPJJ"
+        },
+        {
+            "id": "244",
+            "bank": "RESONA BANK, LTD., TOKYO",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "DIWAJPJT"
+        },
+        {
+            "id": "245",
+            "bank": "RESONA BANK, LTD., TRUST DEP.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "DIWAJPJA"
+        },
+        {
+            "id": "246",
+            "bank": "ROLAND DG CORPORATION",
+            "city": "SHIZUOKA",
+            "branch": null,
+            "swift_code": "RODGJPJT"
+        },
+        {
+            "id": "247",
+            "bank": "ROYAL BANK OF CANADA",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "ROYCJPJT"
+        },
+        {
+            "id": "248",
+            "bank": "ROYAL BANK OF SCOTLAND PLC",
+            "city": "TOKYO",
+            "branch": "(JAPAN OFFSHORE MARKET)",
+            "swift_code": "RBOSJPJXJOM"
+        },
+        {
+            "id": "249",
+            "bank": "ROYAL BANK OF SCOTLAND PLC",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "RBOSJPJX"
+        },
+        {
+            "id": "250",
+            "bank": "SAITAMA RESONA BANK, LIMITED",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "SAIBJPJT"
+        },
+        {
+            "id": "251",
+            "bank": "SAN-IN GODO BANK, LTD., THE",
+            "city": "MATSUE",
+            "branch": null,
+            "swift_code": "SGBKJPJT"
+        },
+        {
+            "id": "252",
+            "bank": "SAN-IN GODO BANK, LTD., THE",
+            "city": "MATSUE",
+            "branch": null,
+            "swift_code": "SGBKJPJTMAT"
+        },
+        {
+            "id": "253",
+            "bank": "SBI REMIT CO., LTD",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "SBIRJPJT"
+        },
+        {
+            "id": "254",
+            "bank": "SBI SUMISHIN NET BANK, LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "NTSSJPJT"
+        },
+        {
+            "id": "255",
+            "bank": "SCHRODER INVESTMENT MANAGEMENT (JAPAN) LIMITED",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "SIMJJPJ2"
+        },
+        {
+            "id": "256",
+            "bank": "SCHRODER INVESTMENT MANAGEMENT (JAPAN) LIMITED",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "SIMJJPJT"
+        },
+        {
+            "id": "257",
+            "bank": "SCSK CORPORATION",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "SCSJJPJT"
+        },
+        {
+            "id": "258",
+            "bank": "SETO SHINKIN BANK, THE",
+            "city": "SETO",
+            "branch": null,
+            "swift_code": "SSBKJPJZ"
+        },
+        {
+            "id": "259",
+            "bank": "SHIGA BANK, LTD., THE",
+            "city": "OTSU",
+            "branch": "(HEAD OFFICE)",
+            "swift_code": "SIGAJPJT"
+        },
+        {
+            "id": "260",
+            "bank": "SHIKOKU BANK,LTD.,THE",
+            "city": "KOCHI",
+            "branch": null,
+            "swift_code": "SIKOJPJT"
+        },
+        {
+            "id": "261",
+            "bank": "SHIMIZU BANK LTD., THE",
+            "city": "SHIZUOKA",
+            "branch": null,
+            "swift_code": "SMZGJPJT"
+        },
+        {
+            "id": "262",
+            "bank": "SHINHAN BANK JAPAN",
+            "city": "TOKYO",
+            "branch": "(HEAD OFFICE)",
+            "swift_code": "SHBKJPJX"
+        },
+        {
+            "id": "263",
+            "bank": "SHINKIN CENTRAL BANK",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "ZENBJPJ2"
+        },
+        {
+            "id": "264",
+            "bank": "SHINKIN CENTRAL BANK",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "ZENBJPJT"
+        },
+        {
+            "id": "265",
+            "bank": "SHINSEI BANK, LTD.",
+            "city": "TOKYO",
+            "branch": "(HEAD OFFICE)",
+            "swift_code": "LTCBJPJTHED"
+        },
+        {
+            "id": "266",
+            "bank": "SHINSEI BANK, LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "LTCBJPJT"
+        },
+        {
+            "id": "267",
+            "bank": "SHINWA BANK, LTD. THE",
+            "city": "SASEBO",
+            "branch": null,
+            "swift_code": "SHWAJPJT"
+        },
+        {
+            "id": "268",
+            "bank": "SHIZUOKA BANK, LTD., THE",
+            "city": "SHIZUOKA",
+            "branch": null,
+            "swift_code": "SHIZJPJT"
+        },
+        {
+            "id": "269",
+            "bank": "SHOKO CHUKIN BANK, LTD., THE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "SKCKJPJT"
+        },
+        {
+            "id": "270",
+            "bank": "SHONAI BANK, LTD., THE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "SNAIJPJT"
+        },
+        {
+            "id": "271",
+            "bank": "SMBC FRIEND SECURITIES CO., LTD",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "YAMTJPJT"
+        },
+        {
+            "id": "272",
+            "bank": "SMBC NIKKO SECURITIES INC.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "NKSCJPJT"
+        },
+        {
+            "id": "273",
+            "bank": "SMBC TRUST BANK LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "SGTBJPJT"
+        },
+        {
+            "id": "274",
+            "bank": "SOCIETE GENERALE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "SOGEJPJT"
+        },
+        {
+            "id": "275",
+            "bank": "SOCIETE GENERALE SECURITIES (NORTH PACIFIC) LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "SGNPJPJT"
+        },
+        {
+            "id": "276",
+            "bank": "SONY BANK INC.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "SNYBJPJT"
+        },
+        {
+            "id": "277",
+            "bank": "SPARX ASSET MANAGEMENT CO., LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "SPAXJPJT"
+        },
+        {
+            "id": "278",
+            "bank": "STANDARD CHARTERED BANK",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "SCBLJPJT"
+        },
+        {
+            "id": "279",
+            "bank": "STATE BANK OF INDIA",
+            "city": "OSAKA",
+            "branch": "(OSAKA BRANCH)",
+            "swift_code": "SBINJPJTOSA"
+        },
+        {
+            "id": "280",
+            "bank": "STATE BANK OF INDIA",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "SBINJPJT"
+        },
+        {
+            "id": "281",
+            "bank": "STATE STREET BANK AND TRUST COMPANY",
+            "city": "MINATO-KU",
+            "branch": null,
+            "swift_code": "SBOSJPJX"
+        },
+        {
+            "id": "282",
+            "bank": "STATE STREET TRUST AND BANKING COMPANY LIMITED",
+            "city": "MINATO-KU",
+            "branch": null,
+            "swift_code": "SSTBJPJX"
+        },
+        {
+            "id": "283",
+            "bank": "STATE STREET TRUST AND BANKING COMPANY LIMITED",
+            "city": "TOKYO",
+            "branch": "(INVESTMENT ADVISORY REPORTING)",
+            "swift_code": "SSTBJPJXIAR"
+        },
+        {
+            "id": "284",
+            "bank": "STATE STREET TRUST AND BANKING COMPANY LIMITED",
+            "city": "TOKYO",
+            "branch": "(INVESTMENT MANAGER OUTSOURCING SERVICES)",
+            "swift_code": "SSTBJPJXIMS"
+        },
+        {
+            "id": "285",
+            "bank": "STATE STREET TRUST AND BANKING COMPANY LIMITED",
+            "city": "TOKYO",
+            "branch": "(INVESTMENT TRUST MGMT PRICING AGENT OUTSOURCING)",
+            "swift_code": "SSTBJPJXITM"
+        },
+        {
+            "id": "286",
+            "bank": "STATE STREET TRUST AND BANKING COMPANY LIMITED",
+            "city": "TOKYO",
+            "branch": "(MIDDLE OFFICE TRANSACTION PROCESSING)",
+            "swift_code": "SSTBJPJXMTP"
+        },
+        {
+            "id": "287",
+            "bank": "SUGAMO SHINKIN BANK, THE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "SSHBJPJT"
+        },
+        {
+            "id": "288",
+            "bank": "SUMITOMO MITSUI BANKING CORPORATION",
+            "city": "OSAKA",
+            "branch": "(OSAKA)",
+            "swift_code": "SMBCJPJTOSA"
+        },
+        {
+            "id": "289",
+            "bank": "SUMITOMO MITSUI BANKING CORPORATION",
+            "city": "TOKYO",
+            "branch": "(CLS CONTROL BRANCH)",
+            "swift_code": "SMBCJPJTCLS"
+        },
+        {
+            "id": "290",
+            "bank": "SUMITOMO MITSUI BANKING CORPORATION",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "SMBCJPJT"
+        },
+        {
+            "id": "291",
+            "bank": "SUMITOMO MITSUI TRUST BANK,LIMITED",
+            "city": "CHIYODA-KU",
+            "branch": null,
+            "swift_code": "STBCJPJ2"
+        },
+        {
+            "id": "292",
+            "bank": "SUMITOMO MITSUI TRUST BANK,LIMITED",
+            "city": "TOKYO",
+            "branch": "(CLS CONTROL BRANCH)",
+            "swift_code": "STBCJPJTCLS"
+        },
+        {
+            "id": "293",
+            "bank": "SUMITOMO MITSUI TRUST BANK,LIMITED",
+            "city": "TOKYO",
+            "branch": "(SBS FUCHU)",
+            "swift_code": "STBCJPJTSBS"
+        },
+        {
+            "id": "294",
+            "bank": "SUMITOMO MITSUI TRUST BANK,LIMITED",
+            "city": "TOKYO",
+            "branch": "(SECURITIES ADMINISTRATION DEPARTMENT)",
+            "swift_code": "STBCJPJTSAD"
+        },
+        {
+            "id": "295",
+            "bank": "SUMITOMO MITSUI TRUST BANK,LIMITED",
+            "city": "TOKYO",
+            "branch": "(SECURITIES OPERATION DEPARTMENT)",
+            "swift_code": "STBCJPJTCUS"
+        },
+        {
+            "id": "296",
+            "bank": "SUMITOMO MITSUI TRUST BANK,LIMITED",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "STBCJPJT"
+        },
+        {
+            "id": "297",
+            "bank": "SURUGA BANK, LTD., THE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "SRFXJPJT"
+        },
+        {
+            "id": "298",
+            "bank": "SWIFT CUSTOMER SERVICE CENTRE JAPAN",
+            "city": "CUSTOMER SERVICE CENTRE JP",
+            "branch": null,
+            "swift_code": "SWHQJPJT"
+        },
+        {
+            "id": "299",
+            "bank": "TAJIMA BANK, LTD, THE",
+            "city": "HYOGO",
+            "branch": null,
+            "swift_code": "TJMAJPJZ"
+        },
+        {
+            "id": "300",
+            "bank": "TAMA SHINKIN BANK, THE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "TAMAJPJT"
+        },
+        {
+            "id": "301",
+            "bank": "THE 77 BANK,LTD.",
+            "city": "SENDAI",
+            "branch": null,
+            "swift_code": "BOSSJPJT"
+        },
+        {
+            "id": "302",
+            "bank": "THE BANK OF KOCHI, LIMITED",
+            "city": "KOCHI",
+            "branch": null,
+            "swift_code": "KOTIJPJZ"
+        },
+        {
+            "id": "303",
+            "bank": "THE BANK OF NEW YORK MELLON TRUST (JAPAN), LTD",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "IRVTJPJT"
+        },
+        {
+            "id": "304",
+            "bank": "THE BANK OF NEW YORK MELLON, TOKYO BRANCH",
+            "city": "TOKYO",
+            "branch": "(TOKYO BRANCH, TRADE SERVICE)",
+            "swift_code": "IRVTJPJX848"
+        },
+        {
+            "id": "305",
+            "bank": "THE BANK OF NEW YORK MELLON, TOKYO BRANCH",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "IRVTJPJX"
+        },
+        {
+            "id": "306",
+            "bank": "THE CHIKUHO BANK LTD",
+            "city": "FUKUOKA",
+            "branch": null,
+            "swift_code": "CHIHJPJT"
+        },
+        {
+            "id": "307",
+            "bank": "THE HAMAMATSU SHINKIN BANK",
+            "city": "SHIZUOKA",
+            "branch": null,
+            "swift_code": "HMSKJPJT"
+        },
+        {
+            "id": "308",
+            "bank": "THE HIGO BANK LIMITED",
+            "city": "KUMAMOTO",
+            "branch": null,
+            "swift_code": "HIGOJPJT"
+        },
+        {
+            "id": "309",
+            "bank": "THE IMAMURA SECURITIES CO., LTD",
+            "city": "KANAZAWA",
+            "branch": null,
+            "swift_code": "IMAMJPJK"
+        },
+        {
+            "id": "310",
+            "bank": "THE NISHI-NIPPON CITY BANK, LTD",
+            "city": "FUKUOKA",
+            "branch": "(INTERNATIONAL DEPT.)",
+            "swift_code": "NISIJPJTFKK"
+        },
+        {
+            "id": "311",
+            "bank": "THE NISHI-NIPPON CITY BANK, LTD",
+            "city": "FUKUOKA",
+            "branch": null,
+            "swift_code": "NISIJPJT"
+        },
+        {
+            "id": "312",
+            "bank": "THE NOMURA TRUST AND BANKING CO., LTD.",
+            "city": "TOKYO",
+            "branch": "(TREASURY DEPARTMENT)",
+            "swift_code": "NMTBJPJTFXO"
+        },
+        {
+            "id": "313",
+            "bank": "THE NOMURA TRUST AND BANKING CO., LTD.",
+            "city": "TOKYO",
+            "branch": "(TRUST DEPARTMENT)",
+            "swift_code": "NMTBJPJTTRU"
+        },
+        {
+            "id": "314",
+            "bank": "THE NOMURA TRUST AND BANKING CO., LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "NMTBJPJT"
+        },
+        {
+            "id": "315",
+            "bank": "THE NOMURA TRUST AND BANKING CO., LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "NMTBJPJTDAM"
+        },
+        {
+            "id": "316",
+            "bank": "THE NOMURA TRUST AND BANKING CO., LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "NMTBJPJTITA"
+        },
+        {
+            "id": "317",
+            "bank": "THE NOMURA TRUST AND BANKING CO., LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "NMTBJPJTTAD"
+        },
+        {
+            "id": "318",
+            "bank": "THE ROYAL BANK OF SCOTLAND PLC TOKYO",
+            "city": "TOKYO",
+            "branch": "(GLOBAL TRANSACTION SERVICES, TOKYO BRANCH )",
+            "swift_code": "ABNAJPJT"
+        },
+        {
+            "id": "319",
+            "bank": "THE SENSHU IKEDA BANK, LTD.",
+            "city": "OSAKA",
+            "branch": null,
+            "swift_code": "BIKEJPJS"
+        },
+        {
+            "id": "320",
+            "bank": "THE TOCHIGI BANK LTD.",
+            "city": "UTSUNOMIYA",
+            "branch": null,
+            "swift_code": "TOCIJPJT"
+        },
+        {
+            "id": "321",
+            "bank": "THE TOKYO TANSHI CO., LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "TKTSJPJT"
+        },
+        {
+            "id": "322",
+            "bank": "TOHO BANK, LTD., THE",
+            "city": "FUKUSHIMA",
+            "branch": null,
+            "swift_code": "TOHOJPJT"
+        },
+        {
+            "id": "323",
+            "bank": "TOKAI TOKYO SECURITIES CO. LTD",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "TTSEJPJT"
+        },
+        {
+            "id": "324",
+            "bank": "TOKIO MARINE AND NICHIDO FIRE INSURANCE CO., LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "TMNFJPJT"
+        },
+        {
+            "id": "325",
+            "bank": "TOKIO MARINE ASSET MANAGEMENT CO., LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "TMAJJPJT"
+        },
+        {
+            "id": "326",
+            "bank": "TOKUSHIMA BANK LTD, THE",
+            "city": "TOKUSHIMA",
+            "branch": null,
+            "swift_code": "TKSBJPJZ"
+        },
+        {
+            "id": "327",
+            "bank": "TOKYO HIGASHI SHINKIN BANK,THE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "CHSBJPJT"
+        },
+        {
+            "id": "328",
+            "bank": "TOKYO STAR BANK LIMITED, THE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "TSBKJPJT"
+        },
+        {
+            "id": "329",
+            "bank": "TOKYO TOMIN BANK LIMITED, THE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "TOMIJPJT"
+        },
+        {
+            "id": "330",
+            "bank": "TOMATO BANK LTD.",
+            "city": "OKAYAMA",
+            "branch": null,
+            "swift_code": "TOMAJPJZ"
+        },
+        {
+            "id": "331",
+            "bank": "TOSHIBA CORPORATION",
+            "city": "MINATO-KU",
+            "branch": null,
+            "swift_code": "TOSBJPJT"
+        },
+        {
+            "id": "332",
+            "bank": "TOTTORI BANK LTD., THE",
+            "city": "TOTTORI",
+            "branch": null,
+            "swift_code": "BIRDJPJZ"
+        },
+        {
+            "id": "333",
+            "bank": "TOWA BANK LTD., THE",
+            "city": "GUNMA",
+            "branch": null,
+            "swift_code": "TOWAJPJT"
+        },
+        {
+            "id": "334",
+            "bank": "TRUST AND CUSTODY SERVICES BANK, LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "TCSBJPJ2"
+        },
+        {
+            "id": "335",
+            "bank": "TRUST AND CUSTODY SERVICES BANK, LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "TCSBJPJT"
+        },
+        {
+            "id": "336",
+            "bank": "TSUKUBA BANK,LTD.",
+            "city": "IBARAKI",
+            "branch": null,
+            "swift_code": "KGBKJPJT"
+        },
+        {
+            "id": "337",
+            "bank": "U.B.A.F. - UNION DE BANQUES ARABES ET FRANCAISES TOKYO BRANCH",
+            "city": "OSAKA",
+            "branch": "(OSAKA BRANCH)",
+            "swift_code": "UBAFJPJXOSA"
+        },
+        {
+            "id": "338",
+            "bank": "U.B.A.F. - UNION DE BANQUES ARABES ET FRANCAISES TOKYO BRANCH",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "UBAFJPJX"
+        },
+        {
+            "id": "339",
+            "bank": "UBS AG TOKYO BRANCH",
+            "city": "TOKYO",
+            "branch": "(CLS BUSINESS ONLY)",
+            "swift_code": "UBSWJPJTCLS"
+        },
+        {
+            "id": "340",
+            "bank": "UBS AG TOKYO BRANCH",
+            "city": "TOKYO",
+            "branch": "(TOKYO BRANCH)",
+            "swift_code": "UBSWJPJT"
+        },
+        {
+            "id": "341",
+            "bank": "UBS GLOBAL ASSET MANAGEMENT (JAPAN) LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "UBSAJPJT"
+        },
+        {
+            "id": "342",
+            "bank": "UBS SECURITIES JAPAN CO., LTD.",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "UBSWJPJ9"
+        },
+        {
+            "id": "343",
+            "bank": "UEDA YAGI TANSHI CO.,LTD",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "UYTCJPJT"
+        },
+        {
+            "id": "344",
+            "bank": "UNICREDIT BANK AG TOKYO BRANCH (HYPOVEREINSBANK TOKYO BRANCH)",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "BVBEJPJT"
+        },
+        {
+            "id": "345",
+            "bank": "UNITED OVERSEAS BANK LTD., TOKYO BRANCH",
+            "city": "TOKYO",
+            "branch": "(BANKNOTES DEPARTMENT)",
+            "swift_code": "UOVBJPJTBNS"
+        },
+        {
+            "id": "346",
+            "bank": "UNITED OVERSEAS BANK LTD., TOKYO BRANCH",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "UOVBJPJT"
+        },
+        {
+            "id": "347",
+            "bank": "WELLS FARGO BANK, N.A., TOKYO BRANCH",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "PNBPJPJX"
+        },
+        {
+            "id": "348",
+            "bank": "WOORI BANK, TOKYO",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "HVBKJPJT"
+        },
+        {
+            "id": "349",
+            "bank": "YACHIYO BANK, LTD., THE",
+            "city": "TOKYO",
+            "branch": null,
+            "swift_code": "YACYJPJT"
+        },
+        {
+            "id": "350",
+            "bank": "YAMAGATA BANK, LTD., THE",
+            "city": "YAMAGATA",
+            "branch": null,
+            "swift_code": "YAMBJPJT"
+        },
+        {
+            "id": "351",
+            "bank": "YAMAGUCHI BANK, LTD., THE",
+            "city": "SHIMONOSEKI",
+            "branch": null,
+            "swift_code": "YMBKJPJT"
+        },
+        {
+            "id": "352",
+            "bank": "YAMANASHI CHUO BANK, LTD., THE",
+            "city": "KOFU",
+            "branch": null,
+            "swift_code": "YCHBJPJT"
+        },
+        {
+            "id": "353",
+            "bank": "YOKOHAMA SHINKIN BANK, THE",
+            "city": "YOKOHAMA",
+            "branch": "(HEAD OFFICE)",
+            "swift_code": "YOKOJPJM"
+        }
     ]
 }

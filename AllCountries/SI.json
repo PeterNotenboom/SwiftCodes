@@ -2,232 +2,257 @@
     "country": "Slovenia",
     "country_code": "SI",
     "list": [
-        [
-            "1",
-            "ABANKA VIPA D.D.",
-            "LJUBLJANA",
-            "ABANSI2X"
-        ],
-        [
-            "2",
-            "BANK OF SLOVENIA",
-            "LJUBLJANA",
-            "(CCBM)",
-            "BSLJSI2XCCB"
-        ],
-        [
-            "3",
-            "BANK OF SLOVENIA",
-            "LJUBLJANA",
-            "(PORAVNAVA SEPA CT)",
-            "BSLJSI2XSCT"
-        ],
-        [
-            "4",
-            "BANK OF SLOVENIA",
-            "LJUBLJANA",
-            "(PORAVNAVA STEP2 MPEDD - STORITEV B2B)",
-            "BSLJSI2XB2B"
-        ],
-        [
-            "5",
-            "BANK OF SLOVENIA",
-            "LJUBLJANA",
-            "(PORAVNAVA STEP2 MPEDD - STORITEV CORE)",
-            "BSLJSI2XCOR"
-        ],
-        [
-            "6",
-            "BANK OF SLOVENIA",
-            "LJUBLJANA",
-            "(TARGET)",
-            "BSLJSI2XEUX"
-        ],
-        [
-            "7",
-            "BANK OF SLOVENIA",
-            "LJUBLJANA",
-            "BSLJSI2X"
-        ],
-        [
-            "8",
-            "BANK OF SLOVENIA",
-            "LJUBLJANA",
-            "BSLJSI2XIND"
-        ],
-        [
-            "9",
-            "BANKA CELJE D.D.",
-            "CELJE",
-            "SBCESI2X"
-        ],
-        [
-            "10",
-            "BANKA KOPER D.D.",
-            "KOPER",
-            "(IBOS CODE)",
-            "BAKOSI2XIBO"
-        ],
-        [
-            "11",
-            "BANKA KOPER D.D.",
-            "KOPER",
-            "BAKOSI2X"
-        ],
-        [
-            "12",
-            "BANKA SPARKASSE D.D.",
-            "LJUBLJANA",
-            "KSPKSI22"
-        ],
-        [
-            "13",
-            "BKS BANK AG, BANCNA PODRUZNICA",
-            "LJUBLJANA",
-            "BFKKSI22"
-        ],
-        [
-            "14",
-            "CENTRAL SECURITIES CLEARING CORPORATION - KDD",
-            "LJUBLJANA",
-            "KDDSSI22"
-        ],
-        [
-            "15",
-            "DELAVSKA HRANILNICA D.D. LJUBLJANA",
-            "LJUBLJANA",
-            "HDELSI22"
-        ],
-        [
-            "16",
-            "DEZELNA BANKA SLOVENIJE D.D.",
-            "LJUBLJANA",
-            "SZKBSI2X"
-        ],
-        [
-            "17",
-            "FACTOR BANKA D.D.",
-            "LJUBLJANA",
-            "FCTBSI2X"
-        ],
-        [
-            "18",
-            "GORENJSKA BANKA D.D., KRANJ",
-            "KRANJ",
-            "GORESI2X"
-        ],
-        [
-            "19",
-            "HRANILNICA LON D.D.",
-            "KRANJ",
-            "HLONSI22"
-        ],
-        [
-            "20",
-            "HRANILNICA VIPAVA D.D.",
-            "VIPAVA",
-            "HKVISI22"
-        ],
-        [
-            "21",
-            "HYPO ALPE-ADRIA-BANK D.D.",
-            "LJUBLJANA",
-            "HAABSI22"
-        ],
-        [
-            "22",
-            "NOVA KREDITNA BANKA MARIBOR D.D.",
-            "MARIBOR",
-            "KBMASI2X"
-        ],
-        [
-            "23",
-            "NOVA LJUBLJANSKA BANKA D.D.",
-            "LJUBLJANA",
-            "LJBASI2X"
-        ],
-        [
-            "24",
-            "POSTNA BANKA SLOVENIJE D.D.",
-            "MARIBOR",
-            "PBSLSI22"
-        ],
-        [
-            "25",
-            "PROBANKA D.D. MARIBOR",
-            "CELJE",
-            "(BRANCH CELJE)",
-            "PROBSI2XCEL"
-        ],
-        [
-            "26",
-            "PROBANKA D.D. MARIBOR",
-            "KOPER",
-            "(KOPER BRANCH)",
-            "PROBSI2XKOP"
-        ],
-        [
-            "27",
-            "PROBANKA D.D. MARIBOR",
-            "KRANJ",
-            "(BRANCH KRANJ)",
-            "PROBSI2XKRA"
-        ],
-        [
-            "28",
-            "PROBANKA D.D. MARIBOR",
-            "LJUBLJANA",
-            "(LJUBLJANA BRANCH)",
-            "PROBSI2XLJU"
-        ],
-        [
-            "29",
-            "PROBANKA D.D. MARIBOR",
-            "MARIBOR",
-            "PROBSI2X"
-        ],
-        [
-            "30",
-            "PROBANKA D.D. MARIBOR",
-            "SLOVENJ GRADEC",
-            "(SLOVENJ GRADEC BRANCH)",
-            "PROBSI2XSLG"
-        ],
-        [
-            "31",
-            "RAIFFEISEN BANKA D.D.",
-            "MARIBOR",
-            "KREKSI22"
-        ],
-        [
-            "32",
-            "SBERBANK BANKA D.D.",
-            "LJUBLJANA",
-            "SABRSI2X"
-        ],
-        [
-            "33",
-            "SID-SLOVENSKA IZVOZNA IN RAZVOJNA BANKA, D.D., LJUBLJANA",
-            "LJUBLJANA",
-            "SIDRSI22"
-        ],
-        [
-            "34",
-            "SKB BANKA D.D.",
-            "LJUBLJANA",
-            "SKBASI2X"
-        ],
-        [
-            "35",
-            "UNICREDIT BANKA SLOVENIJA D.D.",
-            "LJUBLJANA",
-            "BACXSI22"
-        ],
-        [
-            "36",
-            "ZVEZA BANK R.Z.Z O.J. PODRUZNICA LJUBLJANA",
-            "LJUBLJANA",
-            "VSGKSI22"
-        ]
+        {
+            "id": "1",
+            "bank": "ABANKA VIPA D.D.",
+            "city": "LJUBLJANA",
+            "branch": null,
+            "swift_code": "ABANSI2X"
+        },
+        {
+            "id": "2",
+            "bank": "BANK OF SLOVENIA",
+            "city": "LJUBLJANA",
+            "branch": "(CCBM)",
+            "swift_code": "BSLJSI2XCCB"
+        },
+        {
+            "id": "3",
+            "bank": "BANK OF SLOVENIA",
+            "city": "LJUBLJANA",
+            "branch": "(PORAVNAVA SEPA CT)",
+            "swift_code": "BSLJSI2XSCT"
+        },
+        {
+            "id": "4",
+            "bank": "BANK OF SLOVENIA",
+            "city": "LJUBLJANA",
+            "branch": "(PORAVNAVA STEP2 MPEDD - STORITEV B2B)",
+            "swift_code": "BSLJSI2XB2B"
+        },
+        {
+            "id": "5",
+            "bank": "BANK OF SLOVENIA",
+            "city": "LJUBLJANA",
+            "branch": "(PORAVNAVA STEP2 MPEDD - STORITEV CORE)",
+            "swift_code": "BSLJSI2XCOR"
+        },
+        {
+            "id": "6",
+            "bank": "BANK OF SLOVENIA",
+            "city": "LJUBLJANA",
+            "branch": "(TARGET)",
+            "swift_code": "BSLJSI2XEUX"
+        },
+        {
+            "id": "7",
+            "bank": "BANK OF SLOVENIA",
+            "city": "LJUBLJANA",
+            "branch": null,
+            "swift_code": "BSLJSI2X"
+        },
+        {
+            "id": "8",
+            "bank": "BANK OF SLOVENIA",
+            "city": "LJUBLJANA",
+            "branch": null,
+            "swift_code": "BSLJSI2XIND"
+        },
+        {
+            "id": "9",
+            "bank": "BANKA CELJE D.D.",
+            "city": "CELJE",
+            "branch": null,
+            "swift_code": "SBCESI2X"
+        },
+        {
+            "id": "10",
+            "bank": "BANKA KOPER D.D.",
+            "city": "KOPER",
+            "branch": "(IBOS CODE)",
+            "swift_code": "BAKOSI2XIBO"
+        },
+        {
+            "id": "11",
+            "bank": "BANKA KOPER D.D.",
+            "city": "KOPER",
+            "branch": null,
+            "swift_code": "BAKOSI2X"
+        },
+        {
+            "id": "12",
+            "bank": "BANKA SPARKASSE D.D.",
+            "city": "LJUBLJANA",
+            "branch": null,
+            "swift_code": "KSPKSI22"
+        },
+        {
+            "id": "13",
+            "bank": "BKS BANK AG, BANCNA PODRUZNICA",
+            "city": "LJUBLJANA",
+            "branch": null,
+            "swift_code": "BFKKSI22"
+        },
+        {
+            "id": "14",
+            "bank": "CENTRAL SECURITIES CLEARING CORPORATION - KDD",
+            "city": "LJUBLJANA",
+            "branch": null,
+            "swift_code": "KDDSSI22"
+        },
+        {
+            "id": "15",
+            "bank": "DELAVSKA HRANILNICA D.D. LJUBLJANA",
+            "city": "LJUBLJANA",
+            "branch": null,
+            "swift_code": "HDELSI22"
+        },
+        {
+            "id": "16",
+            "bank": "DEZELNA BANKA SLOVENIJE D.D.",
+            "city": "LJUBLJANA",
+            "branch": null,
+            "swift_code": "SZKBSI2X"
+        },
+        {
+            "id": "17",
+            "bank": "FACTOR BANKA D.D.",
+            "city": "LJUBLJANA",
+            "branch": null,
+            "swift_code": "FCTBSI2X"
+        },
+        {
+            "id": "18",
+            "bank": "GORENJSKA BANKA D.D., KRANJ",
+            "city": "KRANJ",
+            "branch": null,
+            "swift_code": "GORESI2X"
+        },
+        {
+            "id": "19",
+            "bank": "HRANILNICA LON D.D.",
+            "city": "KRANJ",
+            "branch": null,
+            "swift_code": "HLONSI22"
+        },
+        {
+            "id": "20",
+            "bank": "HRANILNICA VIPAVA D.D.",
+            "city": "VIPAVA",
+            "branch": null,
+            "swift_code": "HKVISI22"
+        },
+        {
+            "id": "21",
+            "bank": "HYPO ALPE-ADRIA-BANK D.D.",
+            "city": "LJUBLJANA",
+            "branch": null,
+            "swift_code": "HAABSI22"
+        },
+        {
+            "id": "22",
+            "bank": "NOVA KREDITNA BANKA MARIBOR D.D.",
+            "city": "MARIBOR",
+            "branch": null,
+            "swift_code": "KBMASI2X"
+        },
+        {
+            "id": "23",
+            "bank": "NOVA LJUBLJANSKA BANKA D.D.",
+            "city": "LJUBLJANA",
+            "branch": null,
+            "swift_code": "LJBASI2X"
+        },
+        {
+            "id": "24",
+            "bank": "POSTNA BANKA SLOVENIJE D.D.",
+            "city": "MARIBOR",
+            "branch": null,
+            "swift_code": "PBSLSI22"
+        },
+        {
+            "id": "25",
+            "bank": "PROBANKA D.D. MARIBOR",
+            "city": "CELJE",
+            "branch": "(BRANCH CELJE)",
+            "swift_code": "PROBSI2XCEL"
+        },
+        {
+            "id": "26",
+            "bank": "PROBANKA D.D. MARIBOR",
+            "city": "KOPER",
+            "branch": "(KOPER BRANCH)",
+            "swift_code": "PROBSI2XKOP"
+        },
+        {
+            "id": "27",
+            "bank": "PROBANKA D.D. MARIBOR",
+            "city": "KRANJ",
+            "branch": "(BRANCH KRANJ)",
+            "swift_code": "PROBSI2XKRA"
+        },
+        {
+            "id": "28",
+            "bank": "PROBANKA D.D. MARIBOR",
+            "city": "LJUBLJANA",
+            "branch": "(LJUBLJANA BRANCH)",
+            "swift_code": "PROBSI2XLJU"
+        },
+        {
+            "id": "29",
+            "bank": "PROBANKA D.D. MARIBOR",
+            "city": "MARIBOR",
+            "branch": null,
+            "swift_code": "PROBSI2X"
+        },
+        {
+            "id": "30",
+            "bank": "PROBANKA D.D. MARIBOR",
+            "city": "SLOVENJ GRADEC",
+            "branch": "(SLOVENJ GRADEC BRANCH)",
+            "swift_code": "PROBSI2XSLG"
+        },
+        {
+            "id": "31",
+            "bank": "RAIFFEISEN BANKA D.D.",
+            "city": "MARIBOR",
+            "branch": null,
+            "swift_code": "KREKSI22"
+        },
+        {
+            "id": "32",
+            "bank": "SBERBANK BANKA D.D.",
+            "city": "LJUBLJANA",
+            "branch": null,
+            "swift_code": "SABRSI2X"
+        },
+        {
+            "id": "33",
+            "bank": "SID-SLOVENSKA IZVOZNA IN RAZVOJNA BANKA, D.D., LJUBLJANA",
+            "city": "LJUBLJANA",
+            "branch": null,
+            "swift_code": "SIDRSI22"
+        },
+        {
+            "id": "34",
+            "bank": "SKB BANKA D.D.",
+            "city": "LJUBLJANA",
+            "branch": null,
+            "swift_code": "SKBASI2X"
+        },
+        {
+            "id": "35",
+            "bank": "UNICREDIT BANKA SLOVENIJA D.D.",
+            "city": "LJUBLJANA",
+            "branch": null,
+            "swift_code": "BACXSI22"
+        },
+        {
+            "id": "36",
+            "bank": "ZVEZA BANK R.Z.Z O.J. PODRUZNICA LJUBLJANA",
+            "city": "LJUBLJANA",
+            "branch": null,
+            "swift_code": "VSGKSI22"
+        }
     ]
 }

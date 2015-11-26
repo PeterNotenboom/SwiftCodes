@@ -2,148 +2,166 @@
     "country": "Zambia",
     "country_code": "ZM",
     "list": [
-        [
-            "1",
-            "AB BANK ZAMBIA LTD.",
-            "LUSAKA",
-            "ABBAZMLU"
-        ],
-        [
-            "2",
-            "ACCESS BANK ZAMBIA LIMITED",
-            "LUSAKA",
-            "AZAMZMLU"
-        ],
-        [
-            "3",
-            "AFRICAN BANKING CORPORATION ZAMBIA",
-            "LUSAKA",
-            "FMBZZMLX"
-        ],
-        [
-            "4",
-            "BANK OF CHINA (ZAMBIA) LTD",
-            "LUSAKA",
-            "BKCHZMLU"
-        ],
-        [
-            "5",
-            "BANK OF ZAMBIA",
-            "LUSAKA",
-            "(AUTHORISED SETTLEMENT AGENT)",
-            "BAZAZMLUASA"
-        ],
-        [
-            "6",
-            "BANK OF ZAMBIA",
-            "LUSAKA",
-            "BAZAZMLU"
-        ],
-        [
-            "7",
-            "BARCLAYS BANK PLC ZAMBIA",
-            "KITWE",
-            "(KITWE PROCESSING CENTRE)",
-            "BARCZMLXKPC"
-        ],
-        [
-            "8",
-            "BARCLAYS BANK PLC ZAMBIA",
-            "LUSAKA",
-            "(HEAD OFFICE)",
-            "BARCZMLX"
-        ],
-        [
-            "9",
-            "CAVMONT MERCHANT BANK LIMITED",
-            "LUSAKA",
-            "CVMTZMLU"
-        ],
-        [
-            "10",
-            "CITIBANK ZAMBIA LTD",
-            "LUSAKA",
-            "CITIZMLU"
-        ],
-        [
-            "11",
-            "ECOBANK ZAMBIA",
-            "LUSAKA",
-            "ECOCZMLU"
-        ],
-        [
-            "12",
-            "FINANCE BANK ZAMBIA LIMITED.",
-            "LUSAKA",
-            "ZFBAZMLU"
-        ],
-        [
-            "13",
-            "FIRST ALLIANCE BANK",
-            "LUSAKA",
-            "FALLZMLU"
-        ],
-        [
-            "14",
-            "FIRST CAPITAL BANK (Z) LTD (FORMERLY KNOWN AS INTERNATIONAL COMMERCIAL BANK ZAMBIA LIMITED)",
-            "LUSAKA",
-            "ICZAZMLU"
-        ],
-        [
-            "15",
-            "FIRST NATIONAL BANK ZAMBIA LIMITED",
-            "LUSAKA",
-            "FIRNZMLX"
-        ],
-        [
-            "16",
-            "INDO-ZAMBIA BANK",
-            "LUSAKA",
-            "INZAZMLX"
-        ],
-        [
-            "17",
-            "INTERMARKET BANKING CORPORATION LIMITED",
-            "LUSAKA",
-            "IDHZZMLU"
-        ],
-        [
-            "18",
-            "INVESTRUST BANK LTD",
-            "LUSAKA",
-            "VSTRZMLU"
-        ],
-        [
-            "19",
-            "STANBIC BANK ZAMBIA LTD.",
-            "LUSAKA",
-            "(LUSAKA BRANCH)",
-            "SBICZMLX"
-        ],
-        [
-            "20",
-            "STANDARD CHARTERED BANK ZAMBIA LTD",
-            "LUSAKA",
-            "(SECURITIES SERVICES UNIT)",
-            "SCBLZMLXSSU"
-        ],
-        [
-            "21",
-            "STANDARD CHARTERED BANK ZAMBIA LTD",
-            "LUSAKA",
-            "SCBLZMLX"
-        ],
-        [
-            "22",
-            "UNITED BANK FOR AFRICA ZAMBIA LIMITED",
-            "LUSAKA",
-            "UNAFZMLU"
-        ],
-        [
-            "23",
-            "ZAMBIA NATIONAL COMMERCIAL",
-            "LUSAKA",
-            "ZNCOZMLU"
-        ]
+        {
+            "id": "1",
+            "bank": "AB BANK ZAMBIA LTD.",
+            "city": "LUSAKA",
+            "branch": null,
+            "swift_code": "ABBAZMLU"
+        },
+        {
+            "id": "2",
+            "bank": "ACCESS BANK ZAMBIA LIMITED",
+            "city": "LUSAKA",
+            "branch": null,
+            "swift_code": "AZAMZMLU"
+        },
+        {
+            "id": "3",
+            "bank": "AFRICAN BANKING CORPORATION ZAMBIA",
+            "city": "LUSAKA",
+            "branch": null,
+            "swift_code": "FMBZZMLX"
+        },
+        {
+            "id": "4",
+            "bank": "BANK OF CHINA (ZAMBIA) LTD",
+            "city": "LUSAKA",
+            "branch": null,
+            "swift_code": "BKCHZMLU"
+        },
+        {
+            "id": "5",
+            "bank": "BANK OF ZAMBIA",
+            "city": "LUSAKA",
+            "branch": "(AUTHORISED SETTLEMENT AGENT)",
+            "swift_code": "BAZAZMLUASA"
+        },
+        {
+            "id": "6",
+            "bank": "BANK OF ZAMBIA",
+            "city": "LUSAKA",
+            "branch": null,
+            "swift_code": "BAZAZMLU"
+        },
+        {
+            "id": "7",
+            "bank": "BARCLAYS BANK PLC ZAMBIA",
+            "city": "KITWE",
+            "branch": "(KITWE PROCESSING CENTRE)",
+            "swift_code": "BARCZMLXKPC"
+        },
+        {
+            "id": "8",
+            "bank": "BARCLAYS BANK PLC ZAMBIA",
+            "city": "LUSAKA",
+            "branch": "(HEAD OFFICE)",
+            "swift_code": "BARCZMLX"
+        },
+        {
+            "id": "9",
+            "bank": "CAVMONT MERCHANT BANK LIMITED",
+            "city": "LUSAKA",
+            "branch": null,
+            "swift_code": "CVMTZMLU"
+        },
+        {
+            "id": "10",
+            "bank": "CITIBANK ZAMBIA LTD",
+            "city": "LUSAKA",
+            "branch": null,
+            "swift_code": "CITIZMLU"
+        },
+        {
+            "id": "11",
+            "bank": "ECOBANK ZAMBIA",
+            "city": "LUSAKA",
+            "branch": null,
+            "swift_code": "ECOCZMLU"
+        },
+        {
+            "id": "12",
+            "bank": "FINANCE BANK ZAMBIA LIMITED.",
+            "city": "LUSAKA",
+            "branch": null,
+            "swift_code": "ZFBAZMLU"
+        },
+        {
+            "id": "13",
+            "bank": "FIRST ALLIANCE BANK",
+            "city": "LUSAKA",
+            "branch": null,
+            "swift_code": "FALLZMLU"
+        },
+        {
+            "id": "14",
+            "bank": "FIRST CAPITAL BANK (Z) LTD (FORMERLY KNOWN AS INTERNATIONAL COMMERCIAL BANK ZAMBIA LIMITED)",
+            "city": "LUSAKA",
+            "branch": null,
+            "swift_code": "ICZAZMLU"
+        },
+        {
+            "id": "15",
+            "bank": "FIRST NATIONAL BANK ZAMBIA LIMITED",
+            "city": "LUSAKA",
+            "branch": null,
+            "swift_code": "FIRNZMLX"
+        },
+        {
+            "id": "16",
+            "bank": "INDO-ZAMBIA BANK",
+            "city": "LUSAKA",
+            "branch": null,
+            "swift_code": "INZAZMLX"
+        },
+        {
+            "id": "17",
+            "bank": "INTERMARKET BANKING CORPORATION LIMITED",
+            "city": "LUSAKA",
+            "branch": null,
+            "swift_code": "IDHZZMLU"
+        },
+        {
+            "id": "18",
+            "bank": "INVESTRUST BANK LTD",
+            "city": "LUSAKA",
+            "branch": null,
+            "swift_code": "VSTRZMLU"
+        },
+        {
+            "id": "19",
+            "bank": "STANBIC BANK ZAMBIA LTD.",
+            "city": "LUSAKA",
+            "branch": "(LUSAKA BRANCH)",
+            "swift_code": "SBICZMLX"
+        },
+        {
+            "id": "20",
+            "bank": "STANDARD CHARTERED BANK ZAMBIA LTD",
+            "city": "LUSAKA",
+            "branch": "(SECURITIES SERVICES UNIT)",
+            "swift_code": "SCBLZMLXSSU"
+        },
+        {
+            "id": "21",
+            "bank": "STANDARD CHARTERED BANK ZAMBIA LTD",
+            "city": "LUSAKA",
+            "branch": null,
+            "swift_code": "SCBLZMLX"
+        },
+        {
+            "id": "22",
+            "bank": "UNITED BANK FOR AFRICA ZAMBIA LIMITED",
+            "city": "LUSAKA",
+            "branch": null,
+            "swift_code": "UNAFZMLU"
+        },
+        {
+            "id": "23",
+            "bank": "ZAMBIA NATIONAL COMMERCIAL",
+            "city": "LUSAKA",
+            "branch": null,
+            "swift_code": "ZNCOZMLU"
+        }
     ]
 }

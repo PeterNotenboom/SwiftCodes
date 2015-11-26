@@ -2,131 +2,152 @@
     "country": "Armenia",
     "country_code": "AM",
     "list": [
-        [
-            "1",
-            "ACBA-CREDIT AGRICOLE BANK CJSC",
-            "YEREVAN",
-            "AGCAAM22"
-        ],
-        [
-            "2",
-            "AMERIABANK (FORMERLY ARMIMPEXBANK)",
-            "YEREVAN",
-            "ARMIAM22"
-        ],
-        [
-            "3",
-            "ANELIK BANK CJSC",
-            "YEREVAN",
-            "ANIKAM22"
-        ],
-        [
-            "4",
-            "ARARATBANK OJSC",
-            "YEREVAN",
-            "ARMCAM22"
-        ],
-        [
-            "5",
-            "ARDSHININVEST BANK CJSC",
-            "YEREVAN",
-            "ASHBAM22"
-        ],
-        [
-            "6",
-            "AREXIMBANK - GAZPROMBANK GROUP CLOSED JOINT-STOCK COMPANY",
-            "YEREVAN",
-            "RKASAM22"
-        ],
-        [
-            "7",
-            "ARMBUSINESSBANK",
-            "YEREVAN",
-            "ARMNAM22"
-        ],
-        [
-            "8",
-            "ARMECONOMBANK",
-            "YEREVAN",
-            "ARECAM22"
-        ],
-        [
-            "9",
-            "ARMENIAN DEVELOPMENT BANK",
-            "YEREVAN",
-            "ARDEAM22"
-        ],
-        [
-            "10",
-            "ARMSWISSBANK CJSC",
-            "YEREVAN",
-            "ARSJAM22"
-        ],
-        [
-            "11",
-            "ARTSAKHBANK CJSC",
-            "YEREVAN",
-            "ARTSAM22"
-        ],
-        [
-            "12",
-            "BTA BANK CJSC",
-            "YEREVAN",
-            "BTAIAM22"
-        ],
-        [
-            "13",
-            "BYBLOS BANK ARMENIA CJSC",
-            "YEREVAN",
-            "BYBAAM22"
-        ],
-        [
-            "14",
-            "CENTRAL BANK OF ARMENIA",
-            "YEREVAN",
-            "CBRAAM22"
-        ],
-        [
-            "15",
-            "CONVERSE BANK CJSC",
-            "YEREVAN",
-            "COVBAM22"
-        ],
-        [
-            "16",
-            "HSBC BANK ARMENIA (FORMERLY MIDLAND ARMENIA BANK)",
-            "YEREVAN",
-            "MIDLAM22"
-        ],
-        [
-            "17",
-            "INECO JOINT STOCK BANK",
-            "YEREVAN",
-            "INJSAM22"
-        ],
-        [
-            "18",
-            "PROCREDIT BANK",
-            "YEREVAN",
-            "PRCBAM22"
-        ],
-        [
-            "19",
-            "PROMETHEY BANK LLC",
-            "YEREVAN",
-            "PRMLAM22"
-        ],
-        [
-            "20",
-            "UNIBANK C.J.S.C",
-            "YEREVAN",
-            "UNIJAM22"
-        ],
-        [
-            "21",
-            "VTB BANK (ARMENIA) CJSC",
-            "YEREVAN",
-            "ARMJAM22"
-        ]
+        {
+            "id": "1",
+            "bank": "ACBA-CREDIT AGRICOLE BANK CJSC",
+            "city": "YEREVAN",
+            "branch": null,
+            "swift_code": "AGCAAM22"
+        },
+        {
+            "id": "2",
+            "bank": "AMERIABANK (FORMERLY ARMIMPEXBANK)",
+            "city": "YEREVAN",
+            "branch": null,
+            "swift_code": "ARMIAM22"
+        },
+        {
+            "id": "3",
+            "bank": "ANELIK BANK CJSC",
+            "city": "YEREVAN",
+            "branch": null,
+            "swift_code": "ANIKAM22"
+        },
+        {
+            "id": "4",
+            "bank": "ARARATBANK OJSC",
+            "city": "YEREVAN",
+            "branch": null,
+            "swift_code": "ARMCAM22"
+        },
+        {
+            "id": "5",
+            "bank": "ARDSHININVEST BANK CJSC",
+            "city": "YEREVAN",
+            "branch": null,
+            "swift_code": "ASHBAM22"
+        },
+        {
+            "id": "6",
+            "bank": "AREXIMBANK - GAZPROMBANK GROUP CLOSED JOINT-STOCK COMPANY",
+            "city": "YEREVAN",
+            "branch": null,
+            "swift_code": "RKASAM22"
+        },
+        {
+            "id": "7",
+            "bank": "ARMBUSINESSBANK",
+            "city": "YEREVAN",
+            "branch": null,
+            "swift_code": "ARMNAM22"
+        },
+        {
+            "id": "8",
+            "bank": "ARMECONOMBANK",
+            "city": "YEREVAN",
+            "branch": null,
+            "swift_code": "ARECAM22"
+        },
+        {
+            "id": "9",
+            "bank": "ARMENIAN DEVELOPMENT BANK",
+            "city": "YEREVAN",
+            "branch": null,
+            "swift_code": "ARDEAM22"
+        },
+        {
+            "id": "10",
+            "bank": "ARMSWISSBANK CJSC",
+            "city": "YEREVAN",
+            "branch": null,
+            "swift_code": "ARSJAM22"
+        },
+        {
+            "id": "11",
+            "bank": "ARTSAKHBANK CJSC",
+            "city": "YEREVAN",
+            "branch": null,
+            "swift_code": "ARTSAM22"
+        },
+        {
+            "id": "12",
+            "bank": "BTA BANK CJSC",
+            "city": "YEREVAN",
+            "branch": null,
+            "swift_code": "BTAIAM22"
+        },
+        {
+            "id": "13",
+            "bank": "BYBLOS BANK ARMENIA CJSC",
+            "city": "YEREVAN",
+            "branch": null,
+            "swift_code": "BYBAAM22"
+        },
+        {
+            "id": "14",
+            "bank": "CENTRAL BANK OF ARMENIA",
+            "city": "YEREVAN",
+            "branch": null,
+            "swift_code": "CBRAAM22"
+        },
+        {
+            "id": "15",
+            "bank": "CONVERSE BANK CJSC",
+            "city": "YEREVAN",
+            "branch": null,
+            "swift_code": "COVBAM22"
+        },
+        {
+            "id": "16",
+            "bank": "HSBC BANK ARMENIA (FORMERLY MIDLAND ARMENIA BANK)",
+            "city": "YEREVAN",
+            "branch": null,
+            "swift_code": "MIDLAM22"
+        },
+        {
+            "id": "17",
+            "bank": "INECO JOINT STOCK BANK",
+            "city": "YEREVAN",
+            "branch": null,
+            "swift_code": "INJSAM22"
+        },
+        {
+            "id": "18",
+            "bank": "PROCREDIT BANK",
+            "city": "YEREVAN",
+            "branch": null,
+            "swift_code": "PRCBAM22"
+        },
+        {
+            "id": "19",
+            "bank": "PROMETHEY BANK LLC",
+            "city": "YEREVAN",
+            "branch": null,
+            "swift_code": "PRMLAM22"
+        },
+        {
+            "id": "20",
+            "bank": "UNIBANK C.J.S.C",
+            "city": "YEREVAN",
+            "branch": null,
+            "swift_code": "UNIJAM22"
+        },
+        {
+            "id": "21",
+            "bank": "VTB BANK (ARMENIA) CJSC",
+            "city": "YEREVAN",
+            "branch": null,
+            "swift_code": "ARMJAM22"
+        }
     ]
 }

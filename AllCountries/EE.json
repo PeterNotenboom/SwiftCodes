@@ -2,142 +2,159 @@
     "country": "Estonia",
     "country_code": "EE",
     "list": [
-        [
-            "1",
-            "AS LHV PANK",
-            "TALLINN",
-            "LHVBEE22"
-        ],
-        [
-            "2",
-            "AS SEB PANK",
-            "TALLINN",
-            "EEUHEE2X"
-        ],
-        [
-            "3",
-            "BIGBANK AS",
-            "TALLINN",
-            "BIGKEE2B"
-        ],
-        [
-            "4",
-            "DANSKE BANK A\/S ESTONIA BRANCH",
-            "TALLINN",
-            "FOREEE2X"
-        ],
-        [
-            "5",
-            "DNB PANK",
-            "TALLINN",
-            "RIKOEE22"
-        ],
-        [
-            "6",
-            "EESTI PANK (BANK OF ESTONIA)",
-            "TALLINN",
-            "(CLEARING DEPARTMENT)",
-            "EPBEEE2XERT"
-        ],
-        [
-            "7",
-            "EESTI PANK (BANK OF ESTONIA)",
-            "TALLINN",
-            "(ESTA)",
-            "EPBEEE2XRPS"
-        ],
-        [
-            "8",
-            "EESTI PANK (BANK OF ESTONIA)",
-            "TALLINN",
-            "(MIRROR TECHNICAL ACCOUNT)",
-            "EPBEEE2XCSD"
-        ],
-        [
-            "9",
-            "EESTI PANK (BANK OF ESTONIA)",
-            "TALLINN",
-            "(TARGET 2)",
-            "EPBEEE2XTGT"
-        ],
-        [
-            "10",
-            "EESTI PANK (BANK OF ESTONIA)",
-            "TALLINN",
-            "EPBEEE2X"
-        ],
-        [
-            "11",
-            "EESTI PANK (BANK OF ESTONIA)",
-            "TALLINN",
-            "EPBEEE2XCCB"
-        ],
-        [
-            "12",
-            "ES CITADELE BANKA EESTI FILIAAL",
-            "TALLINN",
-            "PARXEE22"
-        ],
-        [
-            "13",
-            "ESTONIAN CREDIT BANK",
-            "TALLINN",
-            "EKRDEE22"
-        ],
-        [
-            "14",
-            "ESTONIAN CSD",
-            "TALLINN",
-            "ECSDEE2X"
-        ],
-        [
-            "15",
-            "GFC GOOD FINANCE COMPANY AS",
-            "TALLINN",
-            "GFCBEE22"
-        ],
-        [
-            "16",
-            "NORDEA BANK AB ESTONIA BRANCH (FORMERLY NORDEA BANK FINLAND ESTONIA BRANCH)",
-            "TALLINN",
-            "NDEAEE2X"
-        ],
-        [
-            "17",
-            "POHJOLA BANK PLC ESTONIAN BRANCH",
-            "TALLINN",
-            "OKOYEE2X"
-        ],
-        [
-            "18",
-            "SVENSKA HANDELSBANKEN AB ESTONIAN BRANCH",
-            "TALLINN",
-            "HANDEE22"
-        ],
-        [
-            "19",
-            "SWEDBANK AS",
-            "TALLINN",
-            "(HANSA ASSET MANAGMENT)",
-            "HABAEE2XHAM"
-        ],
-        [
-            "20",
-            "SWEDBANK AS",
-            "TALLINN",
-            "HABAEE2X"
-        ],
-        [
-            "21",
-            "TALLINN BUSINESS BANK LTD",
-            "TALLINN",
-            "TABUEE22"
-        ],
-        [
-            "22",
-            "VERSOBANK AS",
-            "TALLINN",
-            "SBMBEE22"
-        ]
+        {
+            "id": "1",
+            "bank": "AS LHV PANK",
+            "city": "TALLINN",
+            "branch": null,
+            "swift_code": "LHVBEE22"
+        },
+        {
+            "id": "2",
+            "bank": "AS SEB PANK",
+            "city": "TALLINN",
+            "branch": null,
+            "swift_code": "EEUHEE2X"
+        },
+        {
+            "id": "3",
+            "bank": "BIGBANK AS",
+            "city": "TALLINN",
+            "branch": null,
+            "swift_code": "BIGKEE2B"
+        },
+        {
+            "id": "4",
+            "bank": "DANSKE BANK A\/S ESTONIA BRANCH",
+            "city": "TALLINN",
+            "branch": null,
+            "swift_code": "FOREEE2X"
+        },
+        {
+            "id": "5",
+            "bank": "DNB PANK",
+            "city": "TALLINN",
+            "branch": null,
+            "swift_code": "RIKOEE22"
+        },
+        {
+            "id": "6",
+            "bank": "EESTI PANK (BANK OF ESTONIA)",
+            "city": "TALLINN",
+            "branch": "(CLEARING DEPARTMENT)",
+            "swift_code": "EPBEEE2XERT"
+        },
+        {
+            "id": "7",
+            "bank": "EESTI PANK (BANK OF ESTONIA)",
+            "city": "TALLINN",
+            "branch": "(ESTA)",
+            "swift_code": "EPBEEE2XRPS"
+        },
+        {
+            "id": "8",
+            "bank": "EESTI PANK (BANK OF ESTONIA)",
+            "city": "TALLINN",
+            "branch": "(MIRROR TECHNICAL ACCOUNT)",
+            "swift_code": "EPBEEE2XCSD"
+        },
+        {
+            "id": "9",
+            "bank": "EESTI PANK (BANK OF ESTONIA)",
+            "city": "TALLINN",
+            "branch": "(TARGET 2)",
+            "swift_code": "EPBEEE2XTGT"
+        },
+        {
+            "id": "10",
+            "bank": "EESTI PANK (BANK OF ESTONIA)",
+            "city": "TALLINN",
+            "branch": null,
+            "swift_code": "EPBEEE2X"
+        },
+        {
+            "id": "11",
+            "bank": "EESTI PANK (BANK OF ESTONIA)",
+            "city": "TALLINN",
+            "branch": null,
+            "swift_code": "EPBEEE2XCCB"
+        },
+        {
+            "id": "12",
+            "bank": "ES CITADELE BANKA EESTI FILIAAL",
+            "city": "TALLINN",
+            "branch": null,
+            "swift_code": "PARXEE22"
+        },
+        {
+            "id": "13",
+            "bank": "ESTONIAN CREDIT BANK",
+            "city": "TALLINN",
+            "branch": null,
+            "swift_code": "EKRDEE22"
+        },
+        {
+            "id": "14",
+            "bank": "ESTONIAN CSD",
+            "city": "TALLINN",
+            "branch": null,
+            "swift_code": "ECSDEE2X"
+        },
+        {
+            "id": "15",
+            "bank": "GFC GOOD FINANCE COMPANY AS",
+            "city": "TALLINN",
+            "branch": null,
+            "swift_code": "GFCBEE22"
+        },
+        {
+            "id": "16",
+            "bank": "NORDEA BANK AB ESTONIA BRANCH (FORMERLY NORDEA BANK FINLAND ESTONIA BRANCH)",
+            "city": "TALLINN",
+            "branch": null,
+            "swift_code": "NDEAEE2X"
+        },
+        {
+            "id": "17",
+            "bank": "POHJOLA BANK PLC ESTONIAN BRANCH",
+            "city": "TALLINN",
+            "branch": null,
+            "swift_code": "OKOYEE2X"
+        },
+        {
+            "id": "18",
+            "bank": "SVENSKA HANDELSBANKEN AB ESTONIAN BRANCH",
+            "city": "TALLINN",
+            "branch": null,
+            "swift_code": "HANDEE22"
+        },
+        {
+            "id": "19",
+            "bank": "SWEDBANK AS",
+            "city": "TALLINN",
+            "branch": "(HANSA ASSET MANAGMENT)",
+            "swift_code": "HABAEE2XHAM"
+        },
+        {
+            "id": "20",
+            "bank": "SWEDBANK AS",
+            "city": "TALLINN",
+            "branch": null,
+            "swift_code": "HABAEE2X"
+        },
+        {
+            "id": "21",
+            "bank": "TALLINN BUSINESS BANK LTD",
+            "city": "TALLINN",
+            "branch": null,
+            "swift_code": "TABUEE22"
+        },
+        {
+            "id": "22",
+            "bank": "VERSOBANK AS",
+            "city": "TALLINN",
+            "branch": null,
+            "swift_code": "SBMBEE22"
+        }
     ]
 }

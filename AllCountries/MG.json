@@ -2,72 +2,82 @@
     "country": "Madagascar",
     "country_code": "MG",
     "list": [
-        [
-            "1",
-            "ACCESBANQUE MADAGASCAR",
-            "ANTANANARIVO",
-            "ABMGMGMG"
-        ],
-        [
-            "2",
-            "BANK OF AFRICA MADAGASCAR",
-            "ANTANANARIVO",
-            "AFRIMGMG"
-        ],
-        [
-            "3",
-            "BANQUE CENTRALE DE MADAGASCAR",
-            "ANTANANARIVO",
-            "(RTGS BACKUP LINE)",
-            "REPUMGMGRTG"
-        ],
-        [
-            "4",
-            "BANQUE CENTRALE DE MADAGASCAR",
-            "ANTANANARIVO",
-            "REPUMGMG"
-        ],
-        [
-            "5",
-            "BANQUE MALGACHE DE L'OCEAN INDIEN",
-            "ANTANANARIVO",
-            "BMOIMGMG"
-        ],
-        [
-            "6",
-            "BANQUE SBM MADAGASCAR",
-            "ANTANANARIVO",
-            "BSBMMGMG"
-        ],
-        [
-            "7",
-            "BFV-SOCIETE GENERALE",
-            "ANTANANARIVO",
-            "BFAVMGMG"
-        ],
-        [
-            "8",
-            "BGFIBANK MADAGASCAR",
-            "ANTANANARIVO",
-            "BGFIMGMG"
-        ],
-        [
-            "9",
-            "BM MADAGASCAR S.A",
-            "ANTANANARIVO",
-            "BAIMMGMG"
-        ],
-        [
-            "10",
-            "BNI MADAGASCAR",
-            "ANTANANARIVO",
-            "CLMDMGMG"
-        ],
-        [
-            "11",
-            "THE MAURITIUS COMMERCIAL BANK (MADAGASCAR) SA",
-            "ANTANANARIVO",
-            "MCBLMGMG"
-        ]
+        {
+            "id": "1",
+            "bank": "ACCESBANQUE MADAGASCAR",
+            "city": "ANTANANARIVO",
+            "branch": null,
+            "swift_code": "ABMGMGMG"
+        },
+        {
+            "id": "2",
+            "bank": "BANK OF AFRICA MADAGASCAR",
+            "city": "ANTANANARIVO",
+            "branch": null,
+            "swift_code": "AFRIMGMG"
+        },
+        {
+            "id": "3",
+            "bank": "BANQUE CENTRALE DE MADAGASCAR",
+            "city": "ANTANANARIVO",
+            "branch": "(RTGS BACKUP LINE)",
+            "swift_code": "REPUMGMGRTG"
+        },
+        {
+            "id": "4",
+            "bank": "BANQUE CENTRALE DE MADAGASCAR",
+            "city": "ANTANANARIVO",
+            "branch": null,
+            "swift_code": "REPUMGMG"
+        },
+        {
+            "id": "5",
+            "bank": "BANQUE MALGACHE DE L'OCEAN INDIEN",
+            "city": "ANTANANARIVO",
+            "branch": null,
+            "swift_code": "BMOIMGMG"
+        },
+        {
+            "id": "6",
+            "bank": "BANQUE SBM MADAGASCAR",
+            "city": "ANTANANARIVO",
+            "branch": null,
+            "swift_code": "BSBMMGMG"
+        },
+        {
+            "id": "7",
+            "bank": "BFV-SOCIETE GENERALE",
+            "city": "ANTANANARIVO",
+            "branch": null,
+            "swift_code": "BFAVMGMG"
+        },
+        {
+            "id": "8",
+            "bank": "BGFIBANK MADAGASCAR",
+            "city": "ANTANANARIVO",
+            "branch": null,
+            "swift_code": "BGFIMGMG"
+        },
+        {
+            "id": "9",
+            "bank": "BM MADAGASCAR S.A",
+            "city": "ANTANANARIVO",
+            "branch": null,
+            "swift_code": "BAIMMGMG"
+        },
+        {
+            "id": "10",
+            "bank": "BNI MADAGASCAR",
+            "city": "ANTANANARIVO",
+            "branch": null,
+            "swift_code": "CLMDMGMG"
+        },
+        {
+            "id": "11",
+            "bank": "THE MAURITIUS COMMERCIAL BANK (MADAGASCAR) SA",
+            "city": "ANTANANARIVO",
+            "branch": null,
+            "swift_code": "MCBLMGMG"
+        }
     ]
 }

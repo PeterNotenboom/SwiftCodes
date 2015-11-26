@@ -2,11 +2,12 @@
     "country": "Falkland Islands",
     "country_code": "FK",
     "list": [
-        [
-            "1",
-            "STANDARD CHARTERED BANK",
-            "STANLEY",
-            "SCBLFKFK"
-        ]
+        {
+            "id": "1",
+            "bank": "STANDARD CHARTERED BANK",
+            "city": "STANLEY",
+            "branch": null,
+            "swift_code": "SCBLFKFK"
+        }
     ]
 }

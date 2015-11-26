@@ -2,11 +2,12 @@
     "country": "Virgin Islands (US)",
     "country_code": "VI",
     "list": [
-        [
-            "1",
-            "BANK OF NOVA SCOTIA,THE",
-            "ST. THOMAS",
-            "NOSCVIVI"
-        ]
+        {
+            "id": "1",
+            "bank": "BANK OF NOVA SCOTIA,THE",
+            "city": "ST. THOMAS",
+            "branch": null,
+            "swift_code": "NOSCVIVI"
+        }
     ]
 }

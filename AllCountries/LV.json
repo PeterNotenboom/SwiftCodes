@@ -2,180 +2,208 @@
     "country": "Latvia",
     "country_code": "LV",
     "list": [
-        [
-            "1",
-            "ABLV BANK, AS",
-            "RIGA",
-            "AIZKLV22"
-        ],
-        [
-            "2",
-            "AS DNB BANKA",
-            "RIGA",
-            "RIKOLV2X"
-        ],
-        [
-            "3",
-            "AS EXPOBANK (FORMERLY AS LTB BANK)",
-            "RIGA",
-            "LATCLV22"
-        ],
-        [
-            "4",
-            "AS MERIDIAN TRADE BANK",
-            "RIGA",
-            "MULTLV2X"
-        ],
-        [
-            "5",
-            "AS 'PRIVATBANK'",
-            "RIGA",
-            "PRTTLV22"
-        ],
-        [
-            "6",
-            "BALTIC INTERNATIONAL BANK",
-            "RIGA",
-            "BLIBLV22"
-        ],
-        [
-            "7",
-            "BALTIKUMS BANK AS",
-            "RIGA",
-            "CBBRLV22"
-        ],
-        [
-            "8",
-            "BANK M2M EUROPE AS",
-            "RIGA",
-            "LLBBLV2X"
-        ],
-        [
-            "9",
-            "BANK OF LATVIA",
-            "RIGA",
-            "(CCBM OPERATIONS)",
-            "LACBLV2XCCB"
-        ],
-        [
-            "10",
-            "BANK OF LATVIA",
-            "RIGA",
-            "LACBLV2X"
-        ],
-        [
-            "11",
-            "DANSKE BANK A\/S,LATVIJA BRANCH",
-            "RIGA",
-            "MARALV22"
-        ],
-        [
-            "12",
-            "EESTI KREDIIDIPANK LATVIJAS FILIALE",
-            "RIGA",
-            "MOSBLV2X"
-        ],
-        [
-            "13",
-            "FIRST DATA LATVIA",
-            "RIGA",
-            "FRDLLV22"
-        ],
-        [
-            "14",
-            "JSC CITADELE BANKA",
-            "RIGA",
-            "PARXLV22"
-        ],
-        [
-            "15",
-            "LATVIAN CENTRAL DEPOSITORY,THE",
-            "RIGA",
-            "LCDELV22"
-        ],
-        [
-            "16",
-            "LATVIJAS PASTA BANKA",
-            "RIGA",
-            "LAPBLV2X"
-        ],
-        [
-            "17",
-            "LLC STREAMPAY",
-            "RIGA",
-            "LLSTLV22"
-        ],
-        [
-            "18",
-            "NORDEA BANK AB LATVIA BRANCH (FORMERLY NORDEA BANK FINLAND PLC LATVIA BRANCH)",
-            "RIGA",
-            "NDEALV2X"
-        ],
-        [
-            "19",
-            "NORVIK BANKA, JSC",
-            "RIGA",
-            "LATBLV22"
-        ],
-        [
-            "20",
-            "POHJOLA BANK PLC LATVIAN BRANCH",
-            "RIGA",
-            "OKOYLV2X"
-        ],
-        [
-            "21",
-            "REGIONALA INVESTICIJU BANKA",
-            "RIGA",
-            "RIBRLV22"
-        ],
-        [
-            "22",
-            "RIETUMU BANKA",
-            "RIGA",
-            "RTMBLV2X"
-        ],
-        [
-            "23",
-            "RIGENSIS BANK AS",
-            "RIGA",
-            "RGNSLV22"
-        ],
-        [
-            "24",
-            "SEB BANKA",
-            "RIGA",
-            "UNLALV2X"
-        ],
-        [
-            "25",
-            "SIA TRANSACT PRO",
-            "RIGA",
-            "TPROLV22"
-        ],
-        [
-            "26",
-            "SVENSKA HANDELSBANKEN AB LATVIAN BRANCH",
-            "RIGA",
-            "HANDLV22"
-        ],
-        [
-            "27",
-            "SWEDBANK AS",
-            "RIGA",
-            "HABALV22"
-        ],
-        [
-            "28",
-            "TRASTA KOMERCBANKA",
-            "RIGA",
-            "KBRBLV2X"
-        ],
-        [
-            "29",
-            "TREASURY OF THE REPUBLIC OF LATVIA, THE",
-            "RIGA",
-            "TRELLV22"
-        ]
+        {
+            "id": "1",
+            "bank": "ABLV BANK, AS",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "AIZKLV22"
+        },
+        {
+            "id": "2",
+            "bank": "AS DNB BANKA",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "RIKOLV2X"
+        },
+        {
+            "id": "3",
+            "bank": "AS EXPOBANK (FORMERLY AS LTB BANK)",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "LATCLV22"
+        },
+        {
+            "id": "4",
+            "bank": "AS MERIDIAN TRADE BANK",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "MULTLV2X"
+        },
+        {
+            "id": "5",
+            "bank": "AS 'PRIVATBANK'",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "PRTTLV22"
+        },
+        {
+            "id": "6",
+            "bank": "BALTIC INTERNATIONAL BANK",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "BLIBLV22"
+        },
+        {
+            "id": "7",
+            "bank": "BALTIKUMS BANK AS",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "CBBRLV22"
+        },
+        {
+            "id": "8",
+            "bank": "BANK M2M EUROPE AS",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "LLBBLV2X"
+        },
+        {
+            "id": "9",
+            "bank": "BANK OF LATVIA",
+            "city": "RIGA",
+            "branch": "(CCBM OPERATIONS)",
+            "swift_code": "LACBLV2XCCB"
+        },
+        {
+            "id": "10",
+            "bank": "BANK OF LATVIA",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "LACBLV2X"
+        },
+        {
+            "id": "11",
+            "bank": "DANSKE BANK A\/S,LATVIJA BRANCH",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "MARALV22"
+        },
+        {
+            "id": "12",
+            "bank": "EESTI KREDIIDIPANK LATVIJAS FILIALE",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "MOSBLV2X"
+        },
+        {
+            "id": "13",
+            "bank": "FIRST DATA LATVIA",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "FRDLLV22"
+        },
+        {
+            "id": "14",
+            "bank": "JSC CITADELE BANKA",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "PARXLV22"
+        },
+        {
+            "id": "15",
+            "bank": "LATVIAN CENTRAL DEPOSITORY,THE",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "LCDELV22"
+        },
+        {
+            "id": "16",
+            "bank": "LATVIJAS PASTA BANKA",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "LAPBLV2X"
+        },
+        {
+            "id": "17",
+            "bank": "LLC STREAMPAY",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "LLSTLV22"
+        },
+        {
+            "id": "18",
+            "bank": "NORDEA BANK AB LATVIA BRANCH (FORMERLY NORDEA BANK FINLAND PLC LATVIA BRANCH)",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "NDEALV2X"
+        },
+        {
+            "id": "19",
+            "bank": "NORVIK BANKA, JSC",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "LATBLV22"
+        },
+        {
+            "id": "20",
+            "bank": "POHJOLA BANK PLC LATVIAN BRANCH",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "OKOYLV2X"
+        },
+        {
+            "id": "21",
+            "bank": "REGIONALA INVESTICIJU BANKA",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "RIBRLV22"
+        },
+        {
+            "id": "22",
+            "bank": "RIETUMU BANKA",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "RTMBLV2X"
+        },
+        {
+            "id": "23",
+            "bank": "RIGENSIS BANK AS",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "RGNSLV22"
+        },
+        {
+            "id": "24",
+            "bank": "SEB BANKA",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "UNLALV2X"
+        },
+        {
+            "id": "25",
+            "bank": "SIA TRANSACT PRO",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "TPROLV22"
+        },
+        {
+            "id": "26",
+            "bank": "SVENSKA HANDELSBANKEN AB LATVIAN BRANCH",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "HANDLV22"
+        },
+        {
+            "id": "27",
+            "bank": "SWEDBANK AS",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "HABALV22"
+        },
+        {
+            "id": "28",
+            "bank": "TRASTA KOMERCBANKA",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "KBRBLV2X"
+        },
+        {
+            "id": "29",
+            "bank": "TREASURY OF THE REPUBLIC OF LATVIA, THE",
+            "city": "RIGA",
+            "branch": null,
+            "swift_code": "TRELLV22"
+        }
     ]
 }

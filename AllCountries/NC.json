@@ -2,35 +2,40 @@
     "country": "New Caledonia",
     "country_code": "NC",
     "list": [
-        [
-            "1",
-            "BANQUE CALEDONIENNE D'INVESTISSEMENT",
-            "NOUMEA",
-            "BCADNCNN"
-        ],
-        [
-            "2",
-            "BANQUE DE NOUVELLE CALEDONIE",
-            "NOUMEA",
-            "CEPANCNM"
-        ],
-        [
-            "3",
-            "BNP PARIBAS NOUVELLE CALEDONIE NOUMEA",
-            "NOUMEA",
-            "BNPANCNX"
-        ],
-        [
-            "4",
-            "BNP PARIBAS NOUVELLE CALEDONIE NOUMEA",
-            "KOUMAC",
-            "BNPANCNXKOU"
-        ],
-        [
-            "5",
-            "SOCIETE GENERALE CALEDONIENNE DE BANQUE S G C B",
-            "NOUMEA",
-            "SOGENCNN"
-        ]
+        {
+            "id": "1",
+            "bank": "BANQUE CALEDONIENNE D'INVESTISSEMENT",
+            "city": "NOUMEA",
+            "branch": null,
+            "swift_code": "BCADNCNN"
+        },
+        {
+            "id": "2",
+            "bank": "BANQUE DE NOUVELLE CALEDONIE",
+            "city": "NOUMEA",
+            "branch": null,
+            "swift_code": "CEPANCNM"
+        },
+        {
+            "id": "3",
+            "bank": "BNP PARIBAS NOUVELLE CALEDONIE NOUMEA",
+            "city": "NOUMEA",
+            "branch": null,
+            "swift_code": "BNPANCNX"
+        },
+        {
+            "id": "4",
+            "bank": "BNP PARIBAS NOUVELLE CALEDONIE NOUMEA",
+            "city": "KOUMAC",
+            "branch": null,
+            "swift_code": "BNPANCNXKOU"
+        },
+        {
+            "id": "5",
+            "bank": "SOCIETE GENERALE CALEDONIENNE DE BANQUE S G C B",
+            "city": "NOUMEA",
+            "branch": null,
+            "swift_code": "SOGENCNN"
+        }
     ]
 }

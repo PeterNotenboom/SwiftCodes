@@ -2,173 +2,201 @@
     "country": "Angola",
     "country_code": "AO",
     "list": [
-        [
-            "1",
-            "BANCO ANGOLANO DE INVESTIMENTOS, SARL",
-            "LUANDA",
-            "BAIPAOLU"
-        ],
-        [
-            "2",
-            "BANCO ANGOLANO NEGOCIOS E COMERCIO",
-            "LUANDA",
-            "ANCEAOLU"
-        ],
-        [
-            "3",
-            "BANCO BIC, S.A.",
-            "LUANDA",
-            "BCCBAOLU"
-        ],
-        [
-            "4",
-            "BANCO COMERCIAL ANGOLANO",
-            "LUANDA",
-            "COMLAOLU"
-        ],
-        [
-            "5",
-            "BANCO COMERCIAL DO HUAMBO",
-            "HUAMBO",
-            "BCHUAOLU"
-        ],
-        [
-            "6",
-            "BANCO DE DESENVOLVIMENTO DE ANGOLA",
-            "LUANDA",
-            "BDAAAOLU"
-        ],
-        [
-            "7",
-            "BANCO DE FOMENTO SARL ANGOLA",
-            "LUANDA",
-            "BFMXAOLU"
-        ],
-        [
-            "8",
-            "BANCO DE NEGOCIOS INTERNACIONAL",
-            "LUANDA",
-            "BNICAOLU"
-        ],
-        [
-            "9",
-            "BANCO DE NEGOCIOS INTERNACIONAL",
-            "LUANDA",
-            "BNICAOLU052"
-        ],
-        [
-            "10",
-            "BANCO ESPIRITO SANTO",
-            "LUANDA",
-            "BESCAOLU"
-        ],
-        [
-            "11",
-            "BANCO KWANZA INVEST SA",
-            "LUANDA",
-            "BKIAAOLU"
-        ],
-        [
-            "12",
-            "BANCO MILLENNIUM ANGOLA SA",
-            "LUANDA",
-            "BCOMAOLU"
-        ],
-        [
-            "13",
-            "BANCO NACIONAL DE ANGOLA",
-            "LUANDA",
-            "BNANAOLD"
-        ],
-        [
-            "14",
-            "BANCO NACIONAL DE ANGOLA",
-            "LUANDA",
-            "BNANAOLU"
-        ],
-        [
-            "15",
-            "BANCO PARA PROMOCAO E DESENVOLVIMENTO",
-            "LUANDA",
-            "BPDAAOLU"
-        ],
-        [
-            "16",
-            "BANCO PRIVADO ATLANTICO",
-            "LUANDA",
-            "PRTLAOLU"
-        ],
-        [
-            "17",
-            "BANCO REGIONAL DO KEVE, SARL",
-            "LUANDA",
-            "BRDKAOLU"
-        ],
-        [
-            "18",
-            "BANCO SOL SARL",
-            "LUANDA",
-            "SOLOAOLU"
-        ],
-        [
-            "19",
-            "BANCO TOTTA DE ANGOLA, S.A.R.L.",
-            "LUANDA",
-            "BCGTAOLU"
-        ],
-        [
-            "20",
-            "BANCO VALOR BANK",
-            "LUANDA",
-            "BVBXAOLU"
-        ],
-        [
-            "21",
-            "BANCO VTB AFRICA, S.A.",
-            "LUANDA",
-            "VTBLAOLU"
-        ],
-        [
-            "22",
-            "BCI - BANCO DE COMERCIO E INDUSTRIA",
-            "LUANDA",
-            "BCIDAOLU"
-        ],
-        [
-            "23",
-            "BMF-BANCO BAI MICROFINANCAS, SARL",
-            "LUANDA",
-            "NOSAAOLU"
-        ],
-        [
-            "24",
-            "BPC-BANCO DE POUPANCA E CREDITO",
-            "LUANDA",
-            "BPCLAOLU"
-        ],
-        [
-            "25",
-            "FINIBANCO ANGOLA S.A",
-            "LUANDA",
-            "FBCOAOLU"
-        ],
-        [
-            "26",
-            "MINISTERIO DAS FINANCAS",
-            "LUANDA",
-            "MDFNAOLU"
-        ],
-        [
-            "27",
-            "STANDARD BANK DE ANGOLA S.A.",
-            "LUANDA",
-            "SBICAOLU"
-        ],
-        [
-            "28",
-            "STANDARD CHARTERED BANK ANGOLA SA",
-            "LUANDA",
-            "SCBLAOLU"
-        ]
+        {
+            "id": "1",
+            "bank": "BANCO ANGOLANO DE INVESTIMENTOS, SARL",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "BAIPAOLU"
+        },
+        {
+            "id": "2",
+            "bank": "BANCO ANGOLANO NEGOCIOS E COMERCIO",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "ANCEAOLU"
+        },
+        {
+            "id": "3",
+            "bank": "BANCO BIC, S.A.",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "BCCBAOLU"
+        },
+        {
+            "id": "4",
+            "bank": "BANCO COMERCIAL ANGOLANO",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "COMLAOLU"
+        },
+        {
+            "id": "5",
+            "bank": "BANCO COMERCIAL DO HUAMBO",
+            "city": "HUAMBO",
+            "branch": null,
+            "swift_code": "BCHUAOLU"
+        },
+        {
+            "id": "6",
+            "bank": "BANCO DE DESENVOLVIMENTO DE ANGOLA",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "BDAAAOLU"
+        },
+        {
+            "id": "7",
+            "bank": "BANCO DE FOMENTO SARL ANGOLA",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "BFMXAOLU"
+        },
+        {
+            "id": "8",
+            "bank": "BANCO DE NEGOCIOS INTERNACIONAL",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "BNICAOLU"
+        },
+        {
+            "id": "9",
+            "bank": "BANCO DE NEGOCIOS INTERNACIONAL",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "BNICAOLU052"
+        },
+        {
+            "id": "10",
+            "bank": "BANCO ESPIRITO SANTO",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "BESCAOLU"
+        },
+        {
+            "id": "11",
+            "bank": "BANCO KWANZA INVEST SA",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "BKIAAOLU"
+        },
+        {
+            "id": "12",
+            "bank": "BANCO MILLENNIUM ANGOLA SA",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "BCOMAOLU"
+        },
+        {
+            "id": "13",
+            "bank": "BANCO NACIONAL DE ANGOLA",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "BNANAOLD"
+        },
+        {
+            "id": "14",
+            "bank": "BANCO NACIONAL DE ANGOLA",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "BNANAOLU"
+        },
+        {
+            "id": "15",
+            "bank": "BANCO PARA PROMOCAO E DESENVOLVIMENTO",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "BPDAAOLU"
+        },
+        {
+            "id": "16",
+            "bank": "BANCO PRIVADO ATLANTICO",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "PRTLAOLU"
+        },
+        {
+            "id": "17",
+            "bank": "BANCO REGIONAL DO KEVE, SARL",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "BRDKAOLU"
+        },
+        {
+            "id": "18",
+            "bank": "BANCO SOL SARL",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "SOLOAOLU"
+        },
+        {
+            "id": "19",
+            "bank": "BANCO TOTTA DE ANGOLA, S.A.R.L.",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "BCGTAOLU"
+        },
+        {
+            "id": "20",
+            "bank": "BANCO VALOR BANK",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "BVBXAOLU"
+        },
+        {
+            "id": "21",
+            "bank": "BANCO VTB AFRICA, S.A.",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "VTBLAOLU"
+        },
+        {
+            "id": "22",
+            "bank": "BCI - BANCO DE COMERCIO E INDUSTRIA",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "BCIDAOLU"
+        },
+        {
+            "id": "23",
+            "bank": "BMF-BANCO BAI MICROFINANCAS, SARL",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "NOSAAOLU"
+        },
+        {
+            "id": "24",
+            "bank": "BPC-BANCO DE POUPANCA E CREDITO",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "BPCLAOLU"
+        },
+        {
+            "id": "25",
+            "bank": "FINIBANCO ANGOLA S.A",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "FBCOAOLU"
+        },
+        {
+            "id": "26",
+            "bank": "MINISTERIO DAS FINANCAS",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "MDFNAOLU"
+        },
+        {
+            "id": "27",
+            "bank": "STANDARD BANK DE ANGOLA S.A.",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "SBICAOLU"
+        },
+        {
+            "id": "28",
+            "bank": "STANDARD CHARTERED BANK ANGOLA SA",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "SCBLAOLU"
+        }
     ]
 }

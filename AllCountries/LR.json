@@ -2,71 +2,82 @@
     "country": "Liberia",
     "country_code": "LR",
     "list": [
-        [
-            "1",
-            "ACCESSBANK LIBERIA",
-            "MONROVIA",
-            "ACLILRLM"
-        ],
-        [
-            "2",
-            "AFRILAND FIRST BANK LIBERIA LIMITED",
-            "MONROVIA",
-            "CCEILRLM"
-        ],
-        [
-            "3",
-            "CENTRAL BANK OF LIBERIA",
-            "MONROVIA",
-            "CBLRLRLA"
-        ],
-        [
-            "4",
-            "CENTRAL BANK OF LIBERIA",
-            "MONROVIA",
-            "CBLRLRLM"
-        ],
-        [
-            "5",
-            "ECOBANK LIBERIA LIMITED",
-            "MONROVIA",
-            "ECOCLRLM"
-        ],
-        [
-            "6",
-            "FIRST INTERNATIONAL BANK LIBERIA LIMITED",
-            "MONROVIA",
-            "FIERLRLM"
-        ],
-        [
-            "7",
-            "GLOBAL BANK LIBERIA LIMITED (MEMBER BANKPHB GROUP)",
-            "MONROVIA",
-            "PHBXLRLM"
-        ],
-        [
-            "8",
-            "GUARANTY TRUST BANK (LIBERIA) LIMITED",
-            "MONROVIA",
-            "GTBILRLM"
-        ],
-        [
-            "9",
-            "INTERNATIONAL BANK (LIBERIA) LIMITED",
-            "MONROVIA",
-            "IBLRLRLM"
-        ],
-        [
-            "10",
-            "LIBERIAN BANK FOR DEVELOPMENT AND INVESTMENT, THE",
-            "MONROVIA",
-            "LBDELRLM"
-        ],
-        [
-            "11",
-            "UNITED BANK FOR AFRICA (LIBERIA) LIMITED",
-            "MONROVIA",
-            "UNAFLRLM"
-        ]
+        {
+            "id": "1",
+            "bank": "ACCESSBANK LIBERIA",
+            "city": "MONROVIA",
+            "branch": null,
+            "swift_code": "ACLILRLM"
+        },
+        {
+            "id": "2",
+            "bank": "AFRILAND FIRST BANK LIBERIA LIMITED",
+            "city": "MONROVIA",
+            "branch": null,
+            "swift_code": "CCEILRLM"
+        },
+        {
+            "id": "3",
+            "bank": "CENTRAL BANK OF LIBERIA",
+            "city": "MONROVIA",
+            "branch": null,
+            "swift_code": "CBLRLRLA"
+        },
+        {
+            "id": "4",
+            "bank": "CENTRAL BANK OF LIBERIA",
+            "city": "MONROVIA",
+            "branch": null,
+            "swift_code": "CBLRLRLM"
+        },
+        {
+            "id": "5",
+            "bank": "ECOBANK LIBERIA LIMITED",
+            "city": "MONROVIA",
+            "branch": null,
+            "swift_code": "ECOCLRLM"
+        },
+        {
+            "id": "6",
+            "bank": "FIRST INTERNATIONAL BANK LIBERIA LIMITED",
+            "city": "MONROVIA",
+            "branch": null,
+            "swift_code": "FIERLRLM"
+        },
+        {
+            "id": "7",
+            "bank": "GLOBAL BANK LIBERIA LIMITED (MEMBER BANKPHB GROUP)",
+            "city": "MONROVIA",
+            "branch": null,
+            "swift_code": "PHBXLRLM"
+        },
+        {
+            "id": "8",
+            "bank": "GUARANTY TRUST BANK (LIBERIA) LIMITED",
+            "city": "MONROVIA",
+            "branch": null,
+            "swift_code": "GTBILRLM"
+        },
+        {
+            "id": "9",
+            "bank": "INTERNATIONAL BANK (LIBERIA) LIMITED",
+            "city": "MONROVIA",
+            "branch": null,
+            "swift_code": "IBLRLRLM"
+        },
+        {
+            "id": "10",
+            "bank": "LIBERIAN BANK FOR DEVELOPMENT AND INVESTMENT, THE",
+            "city": "MONROVIA",
+            "branch": null,
+            "swift_code": "LBDELRLM"
+        },
+        {
+            "id": "11",
+            "bank": "UNITED BANK FOR AFRICA (LIBERIA) LIMITED",
+            "city": "MONROVIA",
+            "branch": null,
+            "swift_code": "UNAFLRLM"
+        }
     ]
 }

@@ -2,35 +2,40 @@
     "country": "Swaziland",
     "country_code": "SZ",
     "list": [
-        [
-            "1",
-            "CENTRAL BANK OF SWAZILAND",
-            "MBABANE",
-            "SWAZSZMB"
-        ],
-        [
-            "2",
-            "FIRST NATIONAL BANK OF SWAZILAND LIMITED",
-            "MBABANE",
-            "FIRNSZMX"
-        ],
-        [
-            "3",
-            "NEDBANK (SWAZILAND) LIMITED",
-            "MBABANE",
-            "NESWSZMX"
-        ],
-        [
-            "4",
-            "STANDARD BANK SWAZILAND LTD",
-            "MBABANE",
-            "SBICSZMX"
-        ],
-        [
-            "5",
-            "SWAZILAND DEVELOPMENT AND SAVINGS BANK",
-            "MBABANE",
-            "SDSBSZMB"
-        ]
+        {
+            "id": "1",
+            "bank": "CENTRAL BANK OF SWAZILAND",
+            "city": "MBABANE",
+            "branch": null,
+            "swift_code": "SWAZSZMB"
+        },
+        {
+            "id": "2",
+            "bank": "FIRST NATIONAL BANK OF SWAZILAND LIMITED",
+            "city": "MBABANE",
+            "branch": null,
+            "swift_code": "FIRNSZMX"
+        },
+        {
+            "id": "3",
+            "bank": "NEDBANK (SWAZILAND) LIMITED",
+            "city": "MBABANE",
+            "branch": null,
+            "swift_code": "NESWSZMX"
+        },
+        {
+            "id": "4",
+            "bank": "STANDARD BANK SWAZILAND LTD",
+            "city": "MBABANE",
+            "branch": null,
+            "swift_code": "SBICSZMX"
+        },
+        {
+            "id": "5",
+            "bank": "SWAZILAND DEVELOPMENT AND SAVINGS BANK",
+            "city": "MBABANE",
+            "branch": null,
+            "swift_code": "SDSBSZMB"
+        }
     ]
 }

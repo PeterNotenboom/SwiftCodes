@@ -2,113 +2,131 @@
     "country": "Guinea",
     "country_code": "GN",
     "list": [
-        [
-            "1",
-            "AFRILAND FIRST BANK GUINEE S A",
-            "CONAKRY",
-            "CCEIGNGN"
-        ],
-        [
-            "2",
-            "BANQUE CENTRALE DE LA REPUBLIQUE DE GUINEE",
-            "CONAKRY",
-            "REPCGNGA"
-        ],
-        [
-            "3",
-            "BANQUE CENTRALE DE LA REPUBLIQUE DE GUINEE",
-            "CONAKRY",
-            "REPCGNGN"
-        ],
-        [
-            "4",
-            "BANQUE DE DEVELOPPEMENT DE GUINEE",
-            "CONAKRY",
-            "BDGEGNGN"
-        ],
-        [
-            "5",
-            "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA GUINEE",
-            "CONAKRY",
-            "BICIGNCX"
-        ],
-        [
-            "6",
-            "BANQUE ISLAMIQUE DE GUINEE",
-            "CONAKRY",
-            "ISGUGNGN"
-        ],
-        [
-            "7",
-            "BANQUE NATIONALE DE GUINEE",
-            "CONAKRY",
-            "BQNGGNGN"
-        ],
-        [
-            "8",
-            "BANQUE POPULAIRE MAROCO-GUINEENNE SA",
-            "CONAKRY",
-            "POMBGNGN"
-        ],
-        [
-            "9",
-            "BANQUE POUR LE COMMERCE ET L'INDUSTRIE DE GUINEE",
-            "CONAKRY",
-            "COLIGNGN"
-        ],
-        [
-            "10",
-            "BSIC GUINEE CONAKRY",
-            "CONAKRY",
-            "BSGNGNGN"
-        ],
-        [
-            "11",
-            "ECOBANK GUINEE",
-            "CONAKRY",
-            "ECOCGNCN"
-        ],
-        [
-            "12",
-            "FIRST INTERNATIONAL BANK SA",
-            "CONAKRY",
-            "FIBLGNGN"
-        ],
-        [
-            "13",
-            "INTERNATIONAL COMMERCIAL BANK SA",
-            "CONAKRY",
-            "ICMOGNCN"
-        ],
-        [
-            "14",
-            "NSIA BANQUE GUINEE",
-            "CONAKRY",
-            "BIAOGNGN"
-        ],
-        [
-            "15",
-            "ORABANK GUINEE",
-            "CONAKRY",
-            "ORBKGNGN"
-        ],
-        [
-            "16",
-            "SKYE BANK GUINEA LIMITED S.A.",
-            "CONAKRY",
-            "SKYEGNGN"
-        ],
-        [
-            "17",
-            "SOCIETE GENERALE DE BANQUES EN GUINEE",
-            "CONAKRY",
-            "SGGNGNGN"
-        ],
-        [
-            "18",
-            "UNITED BANK FOR AFRICA GUINEA",
-            "CONAKRY",
-            "UBAGGNCN"
-        ]
+        {
+            "id": "1",
+            "bank": "AFRILAND FIRST BANK GUINEE S A",
+            "city": "CONAKRY",
+            "branch": null,
+            "swift_code": "CCEIGNGN"
+        },
+        {
+            "id": "2",
+            "bank": "BANQUE CENTRALE DE LA REPUBLIQUE DE GUINEE",
+            "city": "CONAKRY",
+            "branch": null,
+            "swift_code": "REPCGNGA"
+        },
+        {
+            "id": "3",
+            "bank": "BANQUE CENTRALE DE LA REPUBLIQUE DE GUINEE",
+            "city": "CONAKRY",
+            "branch": null,
+            "swift_code": "REPCGNGN"
+        },
+        {
+            "id": "4",
+            "bank": "BANQUE DE DEVELOPPEMENT DE GUINEE",
+            "city": "CONAKRY",
+            "branch": null,
+            "swift_code": "BDGEGNGN"
+        },
+        {
+            "id": "5",
+            "bank": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA GUINEE",
+            "city": "CONAKRY",
+            "branch": null,
+            "swift_code": "BICIGNCX"
+        },
+        {
+            "id": "6",
+            "bank": "BANQUE ISLAMIQUE DE GUINEE",
+            "city": "CONAKRY",
+            "branch": null,
+            "swift_code": "ISGUGNGN"
+        },
+        {
+            "id": "7",
+            "bank": "BANQUE NATIONALE DE GUINEE",
+            "city": "CONAKRY",
+            "branch": null,
+            "swift_code": "BQNGGNGN"
+        },
+        {
+            "id": "8",
+            "bank": "BANQUE POPULAIRE MAROCO-GUINEENNE SA",
+            "city": "CONAKRY",
+            "branch": null,
+            "swift_code": "POMBGNGN"
+        },
+        {
+            "id": "9",
+            "bank": "BANQUE POUR LE COMMERCE ET L'INDUSTRIE DE GUINEE",
+            "city": "CONAKRY",
+            "branch": null,
+            "swift_code": "COLIGNGN"
+        },
+        {
+            "id": "10",
+            "bank": "BSIC GUINEE CONAKRY",
+            "city": "CONAKRY",
+            "branch": null,
+            "swift_code": "BSGNGNGN"
+        },
+        {
+            "id": "11",
+            "bank": "ECOBANK GUINEE",
+            "city": "CONAKRY",
+            "branch": null,
+            "swift_code": "ECOCGNCN"
+        },
+        {
+            "id": "12",
+            "bank": "FIRST INTERNATIONAL BANK SA",
+            "city": "CONAKRY",
+            "branch": null,
+            "swift_code": "FIBLGNGN"
+        },
+        {
+            "id": "13",
+            "bank": "INTERNATIONAL COMMERCIAL BANK SA",
+            "city": "CONAKRY",
+            "branch": null,
+            "swift_code": "ICMOGNCN"
+        },
+        {
+            "id": "14",
+            "bank": "NSIA BANQUE GUINEE",
+            "city": "CONAKRY",
+            "branch": null,
+            "swift_code": "BIAOGNGN"
+        },
+        {
+            "id": "15",
+            "bank": "ORABANK GUINEE",
+            "city": "CONAKRY",
+            "branch": null,
+            "swift_code": "ORBKGNGN"
+        },
+        {
+            "id": "16",
+            "bank": "SKYE BANK GUINEA LIMITED S.A.",
+            "city": "CONAKRY",
+            "branch": null,
+            "swift_code": "SKYEGNGN"
+        },
+        {
+            "id": "17",
+            "bank": "SOCIETE GENERALE DE BANQUES EN GUINEE",
+            "city": "CONAKRY",
+            "branch": null,
+            "swift_code": "SGGNGNGN"
+        },
+        {
+            "id": "18",
+            "bank": "UNITED BANK FOR AFRICA GUINEA",
+            "city": "CONAKRY",
+            "branch": null,
+            "swift_code": "UBAGGNCN"
+        }
     ]
 }

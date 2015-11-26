@@ -2,189 +2,208 @@
     "country": "Botswana",
     "country_code": "BW",
     "list": [
-        [
-            "1",
-            "AFRICAN BANKING CORPORATION OF BOTSWANA (PROPRIETARY) LIMITED",
-            "GABORONE",
-            "FMBZBWGA"
-        ],
-        [
-            "2",
-            "BANK GABORONE LIMITED",
-            "GABORONE",
-            "BGLIBWGX"
-        ],
-        [
-            "3",
-            "BANK OF BARODA (BOTSWANA) LIMITED",
-            "GABORONE",
-            "BARBBWGX"
-        ],
-        [
-            "4",
-            "BANK OF BOTSWANA",
-            "GABORONE",
-            "BBOTBWGX"
-        ],
-        [
-            "5",
-            "BANK OF INDIA (BOTSWANA) LIMITED",
-            "GABORONE",
-            "BKIDBWGX"
-        ],
-        [
-            "6",
-            "BARCLAYS BANK OF BOTSWANA LTD.",
-            "GABORONE",
-            "BARCBWGX"
-        ],
-        [
-            "7",
-            "CAPITAL BANK LIMITED",
-            "GABORONE",
-            "CAPLBWGA"
-        ],
-        [
-            "8",
-            "DEBSWANA DIAMOND COMPANY (PTY) LTD",
-            "GABORONE",
-            "DDCOBWGA"
-        ],
-        [
-            "9",
-            "FIRST NATIONAL BANK OF BOTSWANA",
-            "GABORONE",
-            "FIRNBWGX"
-        ],
-        [
-            "10",
-            "KINGDOM BANK AFRICA LIMITED",
-            "GABORONE",
-            "KGBABWGX"
-        ],
-        [
-            "11",
-            "STANBIC BANK BOTSWANA LIMITED",
-            "GABORONE",
-            "SBICBWGX"
-        ],
-        [
-            "12",
-            "STANDARD CHARTERED BANK BOTSWANA LTD.",
-            "FRANCISTOWN",
-            "(HASKINS STREET)",
-            "SCHBBWGX017"
-        ],
-        [
-            "13",
-            "STANDARD CHARTERED BANK BOTSWANA LTD.",
-            "FRANCISTOWN",
-            "(INDUSTRIAL BRANCH)",
-            "SCHBBWGX026"
-        ],
-        [
-            "14",
-            "STANDARD CHARTERED BANK BOTSWANA LTD.",
-            "GABORONE",
-            "(BROADHURST)",
-            "SCHBBWGX024"
-        ],
-        [
-            "15",
-            "STANDARD CHARTERED BANK BOTSWANA LTD.",
-            "GABORONE",
-            "(FOREIGN TRADE)",
-            "SCHBBWGX036"
-        ],
-        [
-            "16",
-            "STANDARD CHARTERED BANK BOTSWANA LTD.",
-            "GABORONE",
-            "(HEAD OFFICE)",
-            "SCHBBWGX"
-        ],
-        [
-            "17",
-            "STANDARD CHARTERED BANK BOTSWANA LTD.",
-            "GABORONE",
-            "(INDUSTRIAL)",
-            "SCHBBWGX023"
-        ],
-        [
-            "18",
-            "STANDARD CHARTERED BANK BOTSWANA LTD.",
-            "GABORONE",
-            "(MALL BRANCH)",
-            "SCHBBWGX021"
-        ],
-        [
-            "19",
-            "STANDARD CHARTERED BANK BOTSWANA LTD.",
-            "GABORONE",
-            "(PROFESSIONAL HOUSE)",
-            "SCHBBWGX027"
-        ],
-        [
-            "20",
-            "STANDARD CHARTERED BANK BOTSWANA LTD.",
-            "GABORONE",
-            "(SECURITIES SERVICES UNIT)",
-            "SCHBBWGXSSU"
-        ],
-        [
-            "21",
-            "STANDARD CHARTERED BANK BOTSWANA LTD.",
-            "GABORONE",
-            "(STANDARD HOUSE)",
-            "SCHBBWGX022"
-        ],
-        [
-            "22",
-            "STANDARD CHARTERED BANK BOTSWANA LTD.",
-            "JWANENG",
-            "SCHBBWGX008"
-        ],
-        [
-            "23",
-            "STANDARD CHARTERED BANK BOTSWANA LTD.",
-            "LOBATSE",
-            "SCHBBWGX009"
-        ],
-        [
-            "24",
-            "STANDARD CHARTERED BANK BOTSWANA LTD.",
-            "MAHALPYE",
-            "SCHBBWGX013"
-        ],
-        [
-            "25",
-            "STANDARD CHARTERED BANK BOTSWANA LTD.",
-            "MAUN",
-            "SCHBBWGX019"
-        ],
-        [
-            "26",
-            "STANDARD CHARTERED BANK BOTSWANA LTD.",
-            "ORAPA",
-            "SCHBBWGX018"
-        ],
-        [
-            "27",
-            "STANDARD CHARTERED BANK BOTSWANA LTD.",
-            "PALAPYE",
-            "SCHBBWGX015"
-        ],
-        [
-            "28",
-            "STANDARD CHARTERED BANK BOTSWANA LTD.",
-            "SELEBI PHIKWE",
-            "SCHBBWGX016"
-        ],
-        [
-            "29",
-            "STATE BANK OF INDIA (BOTSWANA) LTD",
-            "GABORONE",
-            "SBINBWGX"
-        ]
+        {
+            "id": "1",
+            "bank": "AFRICAN BANKING CORPORATION OF BOTSWANA (PROPRIETARY) LIMITED",
+            "city": "GABORONE",
+            "branch": null,
+            "swift_code": "FMBZBWGA"
+        },
+        {
+            "id": "2",
+            "bank": "BANK GABORONE LIMITED",
+            "city": "GABORONE",
+            "branch": null,
+            "swift_code": "BGLIBWGX"
+        },
+        {
+            "id": "3",
+            "bank": "BANK OF BARODA (BOTSWANA) LIMITED",
+            "city": "GABORONE",
+            "branch": null,
+            "swift_code": "BARBBWGX"
+        },
+        {
+            "id": "4",
+            "bank": "BANK OF BOTSWANA",
+            "city": "GABORONE",
+            "branch": null,
+            "swift_code": "BBOTBWGX"
+        },
+        {
+            "id": "5",
+            "bank": "BANK OF INDIA (BOTSWANA) LIMITED",
+            "city": "GABORONE",
+            "branch": null,
+            "swift_code": "BKIDBWGX"
+        },
+        {
+            "id": "6",
+            "bank": "BARCLAYS BANK OF BOTSWANA LTD.",
+            "city": "GABORONE",
+            "branch": null,
+            "swift_code": "BARCBWGX"
+        },
+        {
+            "id": "7",
+            "bank": "CAPITAL BANK LIMITED",
+            "city": "GABORONE",
+            "branch": null,
+            "swift_code": "CAPLBWGA"
+        },
+        {
+            "id": "8",
+            "bank": "DEBSWANA DIAMOND COMPANY (PTY) LTD",
+            "city": "GABORONE",
+            "branch": null,
+            "swift_code": "DDCOBWGA"
+        },
+        {
+            "id": "9",
+            "bank": "FIRST NATIONAL BANK OF BOTSWANA",
+            "city": "GABORONE",
+            "branch": null,
+            "swift_code": "FIRNBWGX"
+        },
+        {
+            "id": "10",
+            "bank": "KINGDOM BANK AFRICA LIMITED",
+            "city": "GABORONE",
+            "branch": null,
+            "swift_code": "KGBABWGX"
+        },
+        {
+            "id": "11",
+            "bank": "STANBIC BANK BOTSWANA LIMITED",
+            "city": "GABORONE",
+            "branch": null,
+            "swift_code": "SBICBWGX"
+        },
+        {
+            "id": "12",
+            "bank": "STANDARD CHARTERED BANK BOTSWANA LTD.",
+            "city": "FRANCISTOWN",
+            "branch": "(HASKINS STREET)",
+            "swift_code": "SCHBBWGX017"
+        },
+        {
+            "id": "13",
+            "bank": "STANDARD CHARTERED BANK BOTSWANA LTD.",
+            "city": "FRANCISTOWN",
+            "branch": "(INDUSTRIAL BRANCH)",
+            "swift_code": "SCHBBWGX026"
+        },
+        {
+            "id": "14",
+            "bank": "STANDARD CHARTERED BANK BOTSWANA LTD.",
+            "city": "GABORONE",
+            "branch": "(BROADHURST)",
+            "swift_code": "SCHBBWGX024"
+        },
+        {
+            "id": "15",
+            "bank": "STANDARD CHARTERED BANK BOTSWANA LTD.",
+            "city": "GABORONE",
+            "branch": "(FOREIGN TRADE)",
+            "swift_code": "SCHBBWGX036"
+        },
+        {
+            "id": "16",
+            "bank": "STANDARD CHARTERED BANK BOTSWANA LTD.",
+            "city": "GABORONE",
+            "branch": "(HEAD OFFICE)",
+            "swift_code": "SCHBBWGX"
+        },
+        {
+            "id": "17",
+            "bank": "STANDARD CHARTERED BANK BOTSWANA LTD.",
+            "city": "GABORONE",
+            "branch": "(INDUSTRIAL)",
+            "swift_code": "SCHBBWGX023"
+        },
+        {
+            "id": "18",
+            "bank": "STANDARD CHARTERED BANK BOTSWANA LTD.",
+            "city": "GABORONE",
+            "branch": "(MALL BRANCH)",
+            "swift_code": "SCHBBWGX021"
+        },
+        {
+            "id": "19",
+            "bank": "STANDARD CHARTERED BANK BOTSWANA LTD.",
+            "city": "GABORONE",
+            "branch": "(PROFESSIONAL HOUSE)",
+            "swift_code": "SCHBBWGX027"
+        },
+        {
+            "id": "20",
+            "bank": "STANDARD CHARTERED BANK BOTSWANA LTD.",
+            "city": "GABORONE",
+            "branch": "(SECURITIES SERVICES UNIT)",
+            "swift_code": "SCHBBWGXSSU"
+        },
+        {
+            "id": "21",
+            "bank": "STANDARD CHARTERED BANK BOTSWANA LTD.",
+            "city": "GABORONE",
+            "branch": "(STANDARD HOUSE)",
+            "swift_code": "SCHBBWGX022"
+        },
+        {
+            "id": "22",
+            "bank": "STANDARD CHARTERED BANK BOTSWANA LTD.",
+            "city": "JWANENG",
+            "branch": null,
+            "swift_code": "SCHBBWGX008"
+        },
+        {
+            "id": "23",
+            "bank": "STANDARD CHARTERED BANK BOTSWANA LTD.",
+            "city": "LOBATSE",
+            "branch": null,
+            "swift_code": "SCHBBWGX009"
+        },
+        {
+            "id": "24",
+            "bank": "STANDARD CHARTERED BANK BOTSWANA LTD.",
+            "city": "MAHALPYE",
+            "branch": null,
+            "swift_code": "SCHBBWGX013"
+        },
+        {
+            "id": "25",
+            "bank": "STANDARD CHARTERED BANK BOTSWANA LTD.",
+            "city": "MAUN",
+            "branch": null,
+            "swift_code": "SCHBBWGX019"
+        },
+        {
+            "id": "26",
+            "bank": "STANDARD CHARTERED BANK BOTSWANA LTD.",
+            "city": "ORAPA",
+            "branch": null,
+            "swift_code": "SCHBBWGX018"
+        },
+        {
+            "id": "27",
+            "bank": "STANDARD CHARTERED BANK BOTSWANA LTD.",
+            "city": "PALAPYE",
+            "branch": null,
+            "swift_code": "SCHBBWGX015"
+        },
+        {
+            "id": "28",
+            "bank": "STANDARD CHARTERED BANK BOTSWANA LTD.",
+            "city": "SELEBI PHIKWE",
+            "branch": null,
+            "swift_code": "SCHBBWGX016"
+        },
+        {
+            "id": "29",
+            "bank": "STATE BANK OF INDIA (BOTSWANA) LTD",
+            "city": "GABORONE",
+            "branch": null,
+            "swift_code": "SBINBWGX"
+        }
     ]
 }

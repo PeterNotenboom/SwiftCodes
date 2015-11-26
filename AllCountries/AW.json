@@ -2,41 +2,47 @@
     "country": "Aruba",
     "country_code": "AW",
     "list": [
-        [
-            "1",
-            "ARUBA BANK, LTD",
-            "ORANJESTAD",
-            "ARUBAWAX"
-        ],
-        [
-            "2",
-            "BANCO DI CARIBE (ARUBA) N.V",
-            "ORANJESTAD",
-            "BDCCAWAW"
-        ],
-        [
-            "3",
-            "BBA BANK N.V.",
-            "ORANJESTAD",
-            "BBABAWAW"
-        ],
-        [
-            "4",
-            "CARIBBEAN MERCANTILE BANK N.V.",
-            "ORANJESTAD",
-            "CMBAAWAX"
-        ],
-        [
-            "5",
-            "CENTRALE BANK VAN ARUBA",
-            "ORANJESTAD",
-            "CBARAWAW"
-        ],
-        [
-            "6",
-            "RBC ROYAL BANK (ARUBA) N.V. (FORMERLY RBTT BANK ARUBA N.V.)",
-            "ORANJESTAD",
-            "RBTTAWAW"
-        ]
+        {
+            "id": "1",
+            "bank": "ARUBA BANK, LTD",
+            "city": "ORANJESTAD",
+            "branch": null,
+            "swift_code": "ARUBAWAX"
+        },
+        {
+            "id": "2",
+            "bank": "BANCO DI CARIBE (ARUBA) N.V",
+            "city": "ORANJESTAD",
+            "branch": null,
+            "swift_code": "BDCCAWAW"
+        },
+        {
+            "id": "3",
+            "bank": "BBA BANK N.V.",
+            "city": "ORANJESTAD",
+            "branch": null,
+            "swift_code": "BBABAWAW"
+        },
+        {
+            "id": "4",
+            "bank": "CARIBBEAN MERCANTILE BANK N.V.",
+            "city": "ORANJESTAD",
+            "branch": null,
+            "swift_code": "CMBAAWAX"
+        },
+        {
+            "id": "5",
+            "bank": "CENTRALE BANK VAN ARUBA",
+            "city": "ORANJESTAD",
+            "branch": null,
+            "swift_code": "CBARAWAW"
+        },
+        {
+            "id": "6",
+            "bank": "RBC ROYAL BANK (ARUBA) N.V. (FORMERLY RBTT BANK ARUBA N.V.)",
+            "city": "ORANJESTAD",
+            "branch": null,
+            "swift_code": "RBTTAWAW"
+        }
     ]
 }

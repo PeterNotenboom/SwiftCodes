@@ -2,259 +2,292 @@
     "country": "Bulgaria",
     "country_code": "BG",
     "list": [
-        [
-            "1",
-            "ALLIANZ BANK BULGARIA AD",
-            "SOFIA",
-            "BUINBGSF"
-        ],
-        [
-            "2",
-            "ALPHA BANK-BULGARIA BRANCH",
-            "SOFIA",
-            "CRBABGSF"
-        ],
-        [
-            "3",
-            "BANKSERVICE AD",
-            "SOFIA",
-            "(T2 INTEROPERABILITY)",
-            "BSBGBGSFIOP"
-        ],
-        [
-            "4",
-            "BANKSERVICE AD",
-            "SOFIA",
-            "BSBGBGSF"
-        ],
-        [
-            "5",
-            "BNP PARIBAS S.A.-SOFIA BRANCH",
-            "SOFIA",
-            "BNPABGSX"
-        ],
-        [
-            "6",
-            "BULGARIAN DEVELOPMENT BANK (FORMERLY ENCOURAGEMENT BANK)",
-            "SOFIA",
-            "NASBBGSF"
-        ],
-        [
-            "7",
-            "BULGARIAN NATIONAL BANK",
-            "SOFIA",
-            "BNBGBGSF"
-        ],
-        [
-            "8",
-            "BULGARIAN NATIONAL BANK - BGN",
-            "SOFIA",
-            "BNBGBGSD"
-        ],
-        [
-            "9",
-            "BULGARIAN-AMERICAN CREDIT BANK",
-            "SOFIA",
-            "BGUSBGSF"
-        ],
-        [
-            "10",
-            "CENTRAL COOPERATIVE BANK PLC",
-            "SOFIA",
-            "CECBBGSF"
-        ],
-        [
-            "11",
-            "CENTRAL DEPOSITORY AD",
-            "SOFIA",
-            "CEDPBGSF"
-        ],
-        [
-            "12",
-            "CIBANK JSC",
-            "SOFIA",
-            "BUIBBGSF"
-        ],
-        [
-            "13",
-            "CITIBANK EUROPE PLC, BULGARIA BRANCH",
-            "SOFIA",
-            "(TRADE SERVICES DEPARTMENT)",
-            "CITIBGSFTRD"
-        ],
-        [
-            "14",
-            "CITIBANK EUROPE PLC, BULGARIA BRANCH",
-            "SOFIA",
-            "CITIBGSF"
-        ],
-        [
-            "15",
-            "COMMERCIAL BANK VICTORIA EAD",
-            "SOFIA",
-            "BINVBGSF"
-        ],
-        [
-            "16",
-            "CORPORATE COMMERCIAL BANK AD",
-            "SOFIA",
-            "KORPBGSF"
-        ],
-        [
-            "17",
-            "D COMMERCE BANK AD",
-            "SOFIA",
-            "DEMIBGSF"
-        ],
-        [
-            "18",
-            "DSK BANK (FORMERLY STATE SAVINGS BANK)",
-            "SOFIA",
-            "STSABGSF"
-        ],
-        [
-            "19",
-            "FIRST INVESTMENT BANK AD",
-            "SOFIA",
-            "FINVBGSF"
-        ],
-        [
-            "20",
-            "ING BANK N.V. SOFIA BRANCH",
-            "SOFIA",
-            "INGBBGSF"
-        ],
-        [
-            "21",
-            "INTERCARD FINANCE AD",
-            "SOFIA",
-            "INTFBGSF"
-        ],
-        [
-            "22",
-            "INTERNATIONAL ASSET BANK AD",
-            "SOFIA",
-            "IABGBGSF"
-        ],
-        [
-            "23",
-            "INVESTBANK PLC",
-            "SOFIA",
-            "IORTBGSF"
-        ],
-        [
-            "24",
-            "ISBANK AG SOFIA BRANCH",
-            "SOFIA",
-            "ISBKBGSF"
-        ],
-        [
-            "25",
-            "MUNICIPAL BANK PLC",
-            "SOFIA",
-            "SOMBBGSF"
-        ],
-        [
-            "26",
-            "PIRAEUS BANK BULGARIA AD",
-            "SOFIA",
-            "PIRBBGSF"
-        ],
-        [
-            "27",
-            "PROCREDIT BANK (BULGARIA) EAD",
-            "SOFIA",
-            "PRCBBGSF"
-        ],
-        [
-            "28",
-            "RAIFFEISENBANK (BULGARIA) EAD",
-            "SOFIA",
-            "RZBBBGSF"
-        ],
-        [
-            "29",
-            "SOCIETE GENERALE EXPRESSBANK",
-            "VARNA",
-            "(CUSTODY MANAGEMENT)",
-            "TTBBBG22CUS"
-        ],
-        [
-            "30",
-            "SOCIETE GENERALE EXPRESSBANK",
-            "VARNA",
-            "TTBBBG22"
-        ],
-        [
-            "31",
-            "T.C. ZIRAAT BANKASI - SOFIA BRANCH",
-            "SOFIA",
-            "TCZBBGSF"
-        ],
-        [
-            "32",
-            "TBI BANK EAD",
-            "SOFIA",
-            "TBIBBGSF"
-        ],
-        [
-            "33",
-            "TEXIM BANK AD",
-            "SOFIA",
-            "TEXIBGSF"
-        ],
-        [
-            "34",
-            "TOKUDA BANK AD",
-            "SOFIA",
-            "CREXBGSF"
-        ],
-        [
-            "35",
-            "UNICREDIT BULBANK AD",
-            "PLOVDIV",
-            "(PLOVDIV BRANCH)",
-            "UNCRBGSF720"
-        ],
-        [
-            "36",
-            "UNICREDIT BULBANK AD",
-            "SOFIA",
-            "(SERDIKA BRANCH)",
-            "UNCRBGSF031"
-        ],
-        [
-            "37",
-            "UNICREDIT BULBANK AD",
-            "SOFIA",
-            "(VITOSHA BRANCH)",
-            "UNCRBGSF426"
-        ],
-        [
-            "38",
-            "UNICREDIT BULBANK AD",
-            "SOFIA",
-            "UNCRBGSF"
-        ],
-        [
-            "39",
-            "UNICREDIT BULBANK AD",
-            "V. TARNOVO",
-            "(V. TARNOVO BRANCH)",
-            "UNCRBGSF081"
-        ],
-        [
-            "40",
-            "UNICREDIT BULBANK AD",
-            "VARNA",
-            "UNCRBGSF733"
-        ],
-        [
-            "41",
-            "UNITED BULGARIAN BANK",
-            "SOFIA",
-            "(HEADQUARTER)",
-            "UBBSBGSF"
-        ]
+        {
+            "id": "1",
+            "bank": "ALLIANZ BANK BULGARIA AD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "BUINBGSF"
+        },
+        {
+            "id": "2",
+            "bank": "ALPHA BANK-BULGARIA BRANCH",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "CRBABGSF"
+        },
+        {
+            "id": "3",
+            "bank": "BANKSERVICE AD",
+            "city": "SOFIA",
+            "branch": "(T2 INTEROPERABILITY)",
+            "swift_code": "BSBGBGSFIOP"
+        },
+        {
+            "id": "4",
+            "bank": "BANKSERVICE AD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "BSBGBGSF"
+        },
+        {
+            "id": "5",
+            "bank": "BNP PARIBAS S.A.-SOFIA BRANCH",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "BNPABGSX"
+        },
+        {
+            "id": "6",
+            "bank": "BULGARIAN DEVELOPMENT BANK (FORMERLY ENCOURAGEMENT BANK)",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "NASBBGSF"
+        },
+        {
+            "id": "7",
+            "bank": "BULGARIAN NATIONAL BANK",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "BNBGBGSF"
+        },
+        {
+            "id": "8",
+            "bank": "BULGARIAN NATIONAL BANK - BGN",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "BNBGBGSD"
+        },
+        {
+            "id": "9",
+            "bank": "BULGARIAN-AMERICAN CREDIT BANK",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "BGUSBGSF"
+        },
+        {
+            "id": "10",
+            "bank": "CENTRAL COOPERATIVE BANK PLC",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "CECBBGSF"
+        },
+        {
+            "id": "11",
+            "bank": "CENTRAL DEPOSITORY AD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "CEDPBGSF"
+        },
+        {
+            "id": "12",
+            "bank": "CIBANK JSC",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "BUIBBGSF"
+        },
+        {
+            "id": "13",
+            "bank": "CITIBANK EUROPE PLC, BULGARIA BRANCH",
+            "city": "SOFIA",
+            "branch": "(TRADE SERVICES DEPARTMENT)",
+            "swift_code": "CITIBGSFTRD"
+        },
+        {
+            "id": "14",
+            "bank": "CITIBANK EUROPE PLC, BULGARIA BRANCH",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "CITIBGSF"
+        },
+        {
+            "id": "15",
+            "bank": "COMMERCIAL BANK VICTORIA EAD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "BINVBGSF"
+        },
+        {
+            "id": "16",
+            "bank": "CORPORATE COMMERCIAL BANK AD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "KORPBGSF"
+        },
+        {
+            "id": "17",
+            "bank": "D COMMERCE BANK AD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "DEMIBGSF"
+        },
+        {
+            "id": "18",
+            "bank": "DSK BANK (FORMERLY STATE SAVINGS BANK)",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "STSABGSF"
+        },
+        {
+            "id": "19",
+            "bank": "FIRST INVESTMENT BANK AD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "FINVBGSF"
+        },
+        {
+            "id": "20",
+            "bank": "ING BANK N.V. SOFIA BRANCH",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "INGBBGSF"
+        },
+        {
+            "id": "21",
+            "bank": "INTERCARD FINANCE AD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "INTFBGSF"
+        },
+        {
+            "id": "22",
+            "bank": "INTERNATIONAL ASSET BANK AD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "IABGBGSF"
+        },
+        {
+            "id": "23",
+            "bank": "INVESTBANK PLC",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "IORTBGSF"
+        },
+        {
+            "id": "24",
+            "bank": "ISBANK AG SOFIA BRANCH",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "ISBKBGSF"
+        },
+        {
+            "id": "25",
+            "bank": "MUNICIPAL BANK PLC",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "SOMBBGSF"
+        },
+        {
+            "id": "26",
+            "bank": "PIRAEUS BANK BULGARIA AD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "PIRBBGSF"
+        },
+        {
+            "id": "27",
+            "bank": "PROCREDIT BANK (BULGARIA) EAD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "PRCBBGSF"
+        },
+        {
+            "id": "28",
+            "bank": "RAIFFEISENBANK (BULGARIA) EAD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "RZBBBGSF"
+        },
+        {
+            "id": "29",
+            "bank": "SOCIETE GENERALE EXPRESSBANK",
+            "city": "VARNA",
+            "branch": "(CUSTODY MANAGEMENT)",
+            "swift_code": "TTBBBG22CUS"
+        },
+        {
+            "id": "30",
+            "bank": "SOCIETE GENERALE EXPRESSBANK",
+            "city": "VARNA",
+            "branch": null,
+            "swift_code": "TTBBBG22"
+        },
+        {
+            "id": "31",
+            "bank": "T.C. ZIRAAT BANKASI - SOFIA BRANCH",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "TCZBBGSF"
+        },
+        {
+            "id": "32",
+            "bank": "TBI BANK EAD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "TBIBBGSF"
+        },
+        {
+            "id": "33",
+            "bank": "TEXIM BANK AD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "TEXIBGSF"
+        },
+        {
+            "id": "34",
+            "bank": "TOKUDA BANK AD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "CREXBGSF"
+        },
+        {
+            "id": "35",
+            "bank": "UNICREDIT BULBANK AD",
+            "city": "PLOVDIV",
+            "branch": "(PLOVDIV BRANCH)",
+            "swift_code": "UNCRBGSF720"
+        },
+        {
+            "id": "36",
+            "bank": "UNICREDIT BULBANK AD",
+            "city": "SOFIA",
+            "branch": "(SERDIKA BRANCH)",
+            "swift_code": "UNCRBGSF031"
+        },
+        {
+            "id": "37",
+            "bank": "UNICREDIT BULBANK AD",
+            "city": "SOFIA",
+            "branch": "(VITOSHA BRANCH)",
+            "swift_code": "UNCRBGSF426"
+        },
+        {
+            "id": "38",
+            "bank": "UNICREDIT BULBANK AD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "UNCRBGSF"
+        },
+        {
+            "id": "39",
+            "bank": "UNICREDIT BULBANK AD",
+            "city": "V. TARNOVO",
+            "branch": "(V. TARNOVO BRANCH)",
+            "swift_code": "UNCRBGSF081"
+        },
+        {
+            "id": "40",
+            "bank": "UNICREDIT BULBANK AD",
+            "city": "VARNA",
+            "branch": null,
+            "swift_code": "UNCRBGSF733"
+        },
+        {
+            "id": "41",
+            "bank": "UNITED BULGARIAN BANK",
+            "city": "SOFIA",
+            "branch": "(HEADQUARTER)",
+            "swift_code": "UBBSBGSF"
+        }
     ]
 }

@@ -2,193 +2,222 @@
     "country": "Dominican Republic",
     "country_code": "DO",
     "list": [
-        [
-            "1",
-            "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS (APAP)",
-            "SANTO DOMINGO",
-            "APOPDOSX"
-        ],
-        [
-            "2",
-            "BANCO BDI, S.A.",
-            "SANTO DOMINGO",
-            "BBDIDOSD"
-        ],
-        [
-            "3",
-            "BANCO CENTRAL DE LA REPUBLICA DOMINICANA",
-            "SANTO DOMINGO",
-            "BCRDDOSX"
-        ],
-        [
-            "4",
-            "BANCO CENTRAL DE LA REPUBLICA DOMINICANA",
-            "SANTO DOMINGO",
-            "BCRDDOSXOMA"
-        ],
-        [
-            "5",
-            "BANCO CENTRAL DE LA REPUBLICA DOMINICANA",
-            "SANTO DOMINGO",
-            "BCRDDOSXSBC"
-        ],
-        [
-            "6",
-            "BANCO DE AHORRO Y CREDITO INMOBILIARIO, S. A. (BANACI)",
-            "SANTO DOMINGO",
-            "ACIIDOSD"
-        ],
-        [
-            "7",
-            "BANCO DE AHORRO Y CREDITO UNION S.A.",
-            "SANTO DOMINGO",
-            "UNONDOSD"
-        ],
-        [
-            "8",
-            "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
-            "SANTO DOMINGO",
-            "BRRDDOSD"
-        ],
-        [
-            "9",
-            "BANCO DOMINICANO DEL PROGRESO S.A.",
-            "SANTO DOMINGO",
-            "BDPRDOSD"
-        ],
-        [
-            "10",
-            "BANCO LOPEZ DE HARO",
-            "SANTO DOMINGO",
-            "BLDHDOSD"
-        ],
-        [
-            "11",
-            "BANCO MULTIPLE ADEMI. S.A.",
-            "SANTO DOMINGO",
-            "AHCMDOSD"
-        ],
-        [
-            "12",
-            "BANCO MULTIPLE BELLBANK",
-            "SANTO DOMINGO",
-            "BELNDOSD"
-        ],
-        [
-            "13",
-            "BANCO MULTIPLE BHD LEON S.A.",
-            "SANTO DOMINGO",
-            "BCBHDOSD"
-        ],
-        [
-            "14",
-            "BANCO MULTIPLE BHD LEON, S.A. (FORMERLY BANCO MULTIPLE LEON, S.A.)",
-            "SANTO DOMINGO",
-            "NCREDOSD"
-        ],
-        [
-            "15",
-            "BANCO MULTIPLE CARIBE",
-            "SANTO DOMINGO",
-            "STGODOSD"
-        ],
-        [
-            "16",
-            "BANCO MULTIPLE DE LAS AMERICAS, S.A",
-            "SANTO DOMINGO",
-            "AHCSDOSD"
-        ],
-        [
-            "17",
-            "BANCO MULTIPLE LAFISE S.A.",
-            "SANTO DOMINGO",
-            "BCCEDOSD"
-        ],
-        [
-            "18",
-            "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA",
-            "SANTO DOMINGO",
-            "PRHRDOSD"
-        ],
-        [
-            "19",
-            "BANCO PERAVIA DE AHORROS Y CREDITO",
-            "BANI",
-            "PEACDOSD"
-        ],
-        [
-            "20",
-            "BANCO POPULAR DOMINICANO, C. POR A.",
-            "SANTO DOMINGO",
-            "(DEPTO. TRASFERENCIAS INTERNACIONALES)",
-            "BPDODOSXREM"
-        ],
-        [
-            "21",
-            "BANCO POPULAR DOMINICANO, C. POR A.",
-            "SANTO DOMINGO",
-            "BPDODOSX"
-        ],
-        [
-            "22",
-            "BANCO PROVIDENCIAL, S.A.",
-            "SANTO DOMINGO",
-            "PVDLDOSD"
-        ],
-        [
-            "23",
-            "BANCO SANTA CRUZ",
-            "SANTO DOMINGO",
-            "SCRZDOSD"
-        ],
-        [
-            "24",
-            "BANCO VIMENCA",
-            "SANTO DOMINGO",
-            "VIMEDOSD"
-        ],
-        [
-            "25",
-            "BANESCO BANCO MULTIPLE, S. A.",
-            "SANTO DOMINGO",
-            "BANSDOSD"
-        ],
-        [
-            "26",
-            "BANK OF NOVA SCOTIA, THE",
-            "SANTO DOMINGO",
-            "NOSCDOSD"
-        ],
-        [
-            "27",
-            "BHD LEON PUESTO DE BOLSA, S.A.",
-            "SANTO DOMINGO",
-            "BHDVDOSD"
-        ],
-        [
-            "28",
-            "CEVALDOM DEPOSITO CENTRALIZADO DE VALORES, S.A.",
-            "SANTO DOMINGO",
-            "CVDPDOSD"
-        ],
-        [
-            "29",
-            "CITIBANK, N.A.",
-            "SANTIAGO DE LOS CABALLEROS",
-            "CITIDOSD022"
-        ],
-        [
-            "30",
-            "CITIBANK, N.A.",
-            "SANTO DOMINGO",
-            "(CITIINVERSIONES S.A.)",
-            "CITIDOSDCTV"
-        ],
-        [
-            "31",
-            "CITIBANK, N.A.",
-            "SANTO DOMINGO",
-            "CITIDOSD"
-        ]
+        {
+            "id": "1",
+            "bank": "ASOCIACION POPULAR DE AHORROS Y PRESTAMOS (APAP)",
+            "city": "SANTO DOMINGO",
+            "branch": null,
+            "swift_code": "APOPDOSX"
+        },
+        {
+            "id": "2",
+            "bank": "BANCO BDI, S.A.",
+            "city": "SANTO DOMINGO",
+            "branch": null,
+            "swift_code": "BBDIDOSD"
+        },
+        {
+            "id": "3",
+            "bank": "BANCO CENTRAL DE LA REPUBLICA DOMINICANA",
+            "city": "SANTO DOMINGO",
+            "branch": null,
+            "swift_code": "BCRDDOSX"
+        },
+        {
+            "id": "4",
+            "bank": "BANCO CENTRAL DE LA REPUBLICA DOMINICANA",
+            "city": "SANTO DOMINGO",
+            "branch": null,
+            "swift_code": "BCRDDOSXOMA"
+        },
+        {
+            "id": "5",
+            "bank": "BANCO CENTRAL DE LA REPUBLICA DOMINICANA",
+            "city": "SANTO DOMINGO",
+            "branch": null,
+            "swift_code": "BCRDDOSXSBC"
+        },
+        {
+            "id": "6",
+            "bank": "BANCO DE AHORRO Y CREDITO INMOBILIARIO, S. A. (BANACI)",
+            "city": "SANTO DOMINGO",
+            "branch": null,
+            "swift_code": "ACIIDOSD"
+        },
+        {
+            "id": "7",
+            "bank": "BANCO DE AHORRO Y CREDITO UNION S.A.",
+            "city": "SANTO DOMINGO",
+            "branch": null,
+            "swift_code": "UNONDOSD"
+        },
+        {
+            "id": "8",
+            "bank": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
+            "city": "SANTO DOMINGO",
+            "branch": null,
+            "swift_code": "BRRDDOSD"
+        },
+        {
+            "id": "9",
+            "bank": "BANCO DOMINICANO DEL PROGRESO S.A.",
+            "city": "SANTO DOMINGO",
+            "branch": null,
+            "swift_code": "BDPRDOSD"
+        },
+        {
+            "id": "10",
+            "bank": "BANCO LOPEZ DE HARO",
+            "city": "SANTO DOMINGO",
+            "branch": null,
+            "swift_code": "BLDHDOSD"
+        },
+        {
+            "id": "11",
+            "bank": "BANCO MULTIPLE ADEMI. S.A.",
+            "city": "SANTO DOMINGO",
+            "branch": null,
+            "swift_code": "AHCMDOSD"
+        },
+        {
+            "id": "12",
+            "bank": "BANCO MULTIPLE BELLBANK",
+            "city": "SANTO DOMINGO",
+            "branch": null,
+            "swift_code": "BELNDOSD"
+        },
+        {
+            "id": "13",
+            "bank": "BANCO MULTIPLE BHD LEON S.A.",
+            "city": "SANTO DOMINGO",
+            "branch": null,
+            "swift_code": "BCBHDOSD"
+        },
+        {
+            "id": "14",
+            "bank": "BANCO MULTIPLE BHD LEON, S.A. (FORMERLY BANCO MULTIPLE LEON, S.A.)",
+            "city": "SANTO DOMINGO",
+            "branch": null,
+            "swift_code": "NCREDOSD"
+        },
+        {
+            "id": "15",
+            "bank": "BANCO MULTIPLE CARIBE",
+            "city": "SANTO DOMINGO",
+            "branch": null,
+            "swift_code": "STGODOSD"
+        },
+        {
+            "id": "16",
+            "bank": "BANCO MULTIPLE DE LAS AMERICAS, S.A",
+            "city": "SANTO DOMINGO",
+            "branch": null,
+            "swift_code": "AHCSDOSD"
+        },
+        {
+            "id": "17",
+            "bank": "BANCO MULTIPLE LAFISE S.A.",
+            "city": "SANTO DOMINGO",
+            "branch": null,
+            "swift_code": "BCCEDOSD"
+        },
+        {
+            "id": "18",
+            "bank": "BANCO MULTIPLE PROMERICA DE LA REPUBLICA DOMINICANA",
+            "city": "SANTO DOMINGO",
+            "branch": null,
+            "swift_code": "PRHRDOSD"
+        },
+        {
+            "id": "19",
+            "bank": "BANCO PERAVIA DE AHORROS Y CREDITO",
+            "city": "BANI",
+            "branch": null,
+            "swift_code": "PEACDOSD"
+        },
+        {
+            "id": "20",
+            "bank": "BANCO POPULAR DOMINICANO, C. POR A.",
+            "city": "SANTO DOMINGO",
+            "branch": "(DEPTO. TRASFERENCIAS INTERNACIONALES)",
+            "swift_code": "BPDODOSXREM"
+        },
+        {
+            "id": "21",
+            "bank": "BANCO POPULAR DOMINICANO, C. POR A.",
+            "city": "SANTO DOMINGO",
+            "branch": null,
+            "swift_code": "BPDODOSX"
+        },
+        {
+            "id": "22",
+            "bank": "BANCO PROVIDENCIAL, S.A.",
+            "city": "SANTO DOMINGO",
+            "branch": null,
+            "swift_code": "PVDLDOSD"
+        },
+        {
+            "id": "23",
+            "bank": "BANCO SANTA CRUZ",
+            "city": "SANTO DOMINGO",
+            "branch": null,
+            "swift_code": "SCRZDOSD"
+        },
+        {
+            "id": "24",
+            "bank": "BANCO VIMENCA",
+            "city": "SANTO DOMINGO",
+            "branch": null,
+            "swift_code": "VIMEDOSD"
+        },
+        {
+            "id": "25",
+            "bank": "BANESCO BANCO MULTIPLE, S. A.",
+            "city": "SANTO DOMINGO",
+            "branch": null,
+            "swift_code": "BANSDOSD"
+        },
+        {
+            "id": "26",
+            "bank": "BANK OF NOVA SCOTIA, THE",
+            "city": "SANTO DOMINGO",
+            "branch": null,
+            "swift_code": "NOSCDOSD"
+        },
+        {
+            "id": "27",
+            "bank": "BHD LEON PUESTO DE BOLSA, S.A.",
+            "city": "SANTO DOMINGO",
+            "branch": null,
+            "swift_code": "BHDVDOSD"
+        },
+        {
+            "id": "28",
+            "bank": "CEVALDOM DEPOSITO CENTRALIZADO DE VALORES, S.A.",
+            "city": "SANTO DOMINGO",
+            "branch": null,
+            "swift_code": "CVDPDOSD"
+        },
+        {
+            "id": "29",
+            "bank": "CITIBANK, N.A.",
+            "city": "SANTIAGO DE LOS CABALLEROS",
+            "branch": null,
+            "swift_code": "CITIDOSD022"
+        },
+        {
+            "id": "30",
+            "bank": "CITIBANK, N.A.",
+            "city": "SANTO DOMINGO",
+            "branch": "(CITIINVERSIONES S.A.)",
+            "swift_code": "CITIDOSDCTV"
+        },
+        {
+            "id": "31",
+            "bank": "CITIBANK, N.A.",
+            "city": "SANTO DOMINGO",
+            "branch": null,
+            "swift_code": "CITIDOSD"
+        }
     ]
 }

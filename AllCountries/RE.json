@@ -2,48 +2,54 @@
     "country": "R\u00e9union",
     "country_code": "RE",
     "list": [
-        [
-            "1",
-            "BANQUE DE LA REUNION",
-            "SAINT DENIS",
-            "REUBRERX"
-        ],
-        [
-            "2",
-            "BANQUE FRANCAISE COMMERCIALE DE L'OCEAN INDIEN",
-            "SAINT DENIS",
-            "BFCORERX"
-        ],
-        [
-            "3",
-            "BNP PARIBAS LA REUNION",
-            "LE PORT",
-            "BNPARERXPOR"
-        ],
-        [
-            "4",
-            "BNP PARIBAS LA REUNION",
-            "SAINT DENIS",
-            "BNPARERX"
-        ],
-        [
-            "5",
-            "CREDIT AGRICOLE",
-            "LE PORT",
-            "AGRIRERXLEO"
-        ],
-        [
-            "6",
-            "CREDIT AGRICOLE",
-            "SAINT DENIS",
-            "AGRIRERX"
-        ],
-        [
-            "7",
-            "CREDIT AGRICOLE",
-            "SAINT LOUIS",
-            "(LA REUNION BRANCH)",
-            "AGRIRERXSNL"
-        ]
+        {
+            "id": "1",
+            "bank": "BANQUE DE LA REUNION",
+            "city": "SAINT DENIS",
+            "branch": null,
+            "swift_code": "REUBRERX"
+        },
+        {
+            "id": "2",
+            "bank": "BANQUE FRANCAISE COMMERCIALE DE L'OCEAN INDIEN",
+            "city": "SAINT DENIS",
+            "branch": null,
+            "swift_code": "BFCORERX"
+        },
+        {
+            "id": "3",
+            "bank": "BNP PARIBAS LA REUNION",
+            "city": "LE PORT",
+            "branch": null,
+            "swift_code": "BNPARERXPOR"
+        },
+        {
+            "id": "4",
+            "bank": "BNP PARIBAS LA REUNION",
+            "city": "SAINT DENIS",
+            "branch": null,
+            "swift_code": "BNPARERX"
+        },
+        {
+            "id": "5",
+            "bank": "CREDIT AGRICOLE",
+            "city": "LE PORT",
+            "branch": null,
+            "swift_code": "AGRIRERXLEO"
+        },
+        {
+            "id": "6",
+            "bank": "CREDIT AGRICOLE",
+            "city": "SAINT DENIS",
+            "branch": null,
+            "swift_code": "AGRIRERX"
+        },
+        {
+            "id": "7",
+            "bank": "CREDIT AGRICOLE",
+            "city": "SAINT LOUIS",
+            "branch": "(LA REUNION BRANCH)",
+            "swift_code": "AGRIRERXSNL"
+        }
     ]
 }

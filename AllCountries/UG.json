@@ -2,212 +2,243 @@
     "country": "Uganda",
     "country_code": "UG",
     "list": [
-        [
-            "1",
-            "ABC CAPITAL BANK LIMITED",
-            "KAMPALA",
-            "ABCFUGKA"
-        ],
-        [
-            "2",
-            "BANK OF AFRICA-UGANDA LTD.",
-            "KAMPALA",
-            "AFRIUGKA"
-        ],
-        [
-            "3",
-            "BANK OF BARODA (UGANDA) LIMITED",
-            "KAMPALA",
-            "BARBUGKA"
-        ],
-        [
-            "4",
-            "BANK OF INDIA (UGANDA) LTD",
-            "KAMPALA",
-            "BKIDUGKA"
-        ],
-        [
-            "5",
-            "BANK OF UGANDA",
-            "KAMPALA",
-            "(LETTERS OF CREDIT PROCESSING)",
-            "UGBAUGKABKG"
-        ],
-        [
-            "6",
-            "BANK OF UGANDA",
-            "KAMPALA",
-            "UGBAUGKA"
-        ],
-        [
-            "7",
-            "BARCLAYS BANK OF UGANDA LTD.",
-            "KAMPALA",
-            "BARCUGKX"
-        ],
-        [
-            "8",
-            "CAIRO INTERNATIONAL BANK LTD",
-            "KAMPALA",
-            "CAIEUGKA"
-        ],
-        [
-            "9",
-            "CENTENARY RURAL DEVELOPMENT BANK LIMITED",
-            "KAMPALA",
-            "CERBUGKA"
-        ],
-        [
-            "10",
-            "CITIBANK UGANDA LIMITED",
-            "KAMPALA",
-            "(TRADE SERVICES DEPT)",
-            "CITIUGKATRD"
-        ],
-        [
-            "11",
-            "CITIBANK UGANDA LIMITED",
-            "KAMPALA",
-            "CITIUGKA"
-        ],
-        [
-            "12",
-            "COMMERCIAL BANK OF AFRICA UGANDA LIMITED",
-            "KAMPALA",
-            "CBAFUGKA"
-        ],
-        [
-            "13",
-            "CRANE BANK LTD",
-            "KAMPALA",
-            "CRANUGKA"
-        ],
-        [
-            "14",
-            "DFCU BANK",
-            "KAMPALA",
-            "DFCUUGKA"
-        ],
-        [
-            "15",
-            "DIAMOND TRUST BANK UGANDA LIMITED",
-            "KAMPALA",
-            "DTKEUGKA"
-        ],
-        [
-            "16",
-            "EAST AFRICAN DEVELOPMENT BANK",
-            "KAMPALA",
-            "AFDEUGKA"
-        ],
-        [
-            "17",
-            "ECOBANK UGANDA",
-            "KAMPALA",
-            "ECOCUGKA"
-        ],
-        [
-            "18",
-            "EQUITY BANK UGANDA LTD",
-            "KAMPALA",
-            "EQBLUGKA"
-        ],
-        [
-            "19",
-            "FINA BANK LIMITED",
-            "KAMPALA",
-            "FBAKUGKA"
-        ],
-        [
-            "20",
-            "FINANCE TRUST BANK LTD",
-            "KAMPALA",
-            "FTBLUGKA"
-        ],
-        [
-            "21",
-            "GLOBAL TRUST BANK UGANDA",
-            "KAMPALA",
-            "GLTBUGKA"
-        ],
-        [
-            "22",
-            "HOUSING FINANCE BANK LTD.",
-            "KAMPALA",
-            "HFINUGKA"
-        ],
-        [
-            "23",
-            "IMPERIAL BANK (UGANDA) LIMITED",
-            "KAMPALA",
-            "IMPLUGKA"
-        ],
-        [
-            "24",
-            "KCB BANK UGANDA LIMITED",
-            "KAMPALA",
-            "KCBLUGKA"
-        ],
-        [
-            "25",
-            "MERCANTILE CREDIT BANK LTD",
-            "KAMPALA",
-            "MCBDUGKA"
-        ],
-        [
-            "26",
-            "NC BANK UGANDA LIMITED",
-            "KAMPALA",
-            "NINCUGKA"
-        ],
-        [
-            "27",
-            "ORIENT BANK LIMITED",
-            "KAMPALA",
-            "ORINUGKA"
-        ],
-        [
-            "28",
-            "POSTBANK UGANDA LIMITED",
-            "KAMPALA",
-            "UGPBUGKA"
-        ],
-        [
-            "29",
-            "STANBIC BANK UGANDA LIMITED",
-            "KAMPALA",
-            "SBICUGKX"
-        ],
-        [
-            "30",
-            "STANDARD CHARTERED BANK UGANDA LIMITED",
-            "KAMPALA",
-            "(SECURITIES SERVICES UNIT)",
-            "SCBLUGKASSU"
-        ],
-        [
-            "31",
-            "STANDARD CHARTERED BANK UGANDA LIMITED",
-            "KAMPALA",
-            "SCBLUGKA"
-        ],
-        [
-            "32",
-            "TROPICAL BANK LTD",
-            "KAMPALA",
-            "TROAUGKA"
-        ],
-        [
-            "33",
-            "UGANDA SECURITIES EXCHANGE LTD",
-            "KAMPALA",
-            "USCDUGKA"
-        ],
-        [
-            "34",
-            "UNITED BANK FOR AFRICA (UGANDA) LTD",
-            "KAMPALA",
-            "UNAFUGKA"
-        ]
+        {
+            "id": "1",
+            "bank": "ABC CAPITAL BANK LIMITED",
+            "city": "KAMPALA",
+            "branch": null,
+            "swift_code": "ABCFUGKA"
+        },
+        {
+            "id": "2",
+            "bank": "BANK OF AFRICA-UGANDA LTD.",
+            "city": "KAMPALA",
+            "branch": null,
+            "swift_code": "AFRIUGKA"
+        },
+        {
+            "id": "3",
+            "bank": "BANK OF BARODA (UGANDA) LIMITED",
+            "city": "KAMPALA",
+            "branch": null,
+            "swift_code": "BARBUGKA"
+        },
+        {
+            "id": "4",
+            "bank": "BANK OF INDIA (UGANDA) LTD",
+            "city": "KAMPALA",
+            "branch": null,
+            "swift_code": "BKIDUGKA"
+        },
+        {
+            "id": "5",
+            "bank": "BANK OF UGANDA",
+            "city": "KAMPALA",
+            "branch": "(LETTERS OF CREDIT PROCESSING)",
+            "swift_code": "UGBAUGKABKG"
+        },
+        {
+            "id": "6",
+            "bank": "BANK OF UGANDA",
+            "city": "KAMPALA",
+            "branch": null,
+            "swift_code": "UGBAUGKA"
+        },
+        {
+            "id": "7",
+            "bank": "BARCLAYS BANK OF UGANDA LTD.",
+            "city": "KAMPALA",
+            "branch": null,
+            "swift_code": "BARCUGKX"
+        },
+        {
+            "id": "8",
+            "bank": "CAIRO INTERNATIONAL BANK LTD",
+            "city": "KAMPALA",
+            "branch": null,
+            "swift_code": "CAIEUGKA"
+        },
+        {
+            "id": "9",
+            "bank": "CENTENARY RURAL DEVELOPMENT BANK LIMITED",
+            "city": "KAMPALA",
+            "branch": null,
+            "swift_code": "CERBUGKA"
+        },
+        {
+            "id": "10",
+            "bank": "CITIBANK UGANDA LIMITED",
+            "city": "KAMPALA",
+            "branch": "(TRADE SERVICES DEPT)",
+            "swift_code": "CITIUGKATRD"
+        },
+        {
+            "id": "11",
+            "bank": "CITIBANK UGANDA LIMITED",
+            "city": "KAMPALA",
+            "branch": null,
+            "swift_code": "CITIUGKA"
+        },
+        {
+            "id": "12",
+            "bank": "COMMERCIAL BANK OF AFRICA UGANDA LIMITED",
+            "city": "KAMPALA",
+            "branch": null,
+            "swift_code": "CBAFUGKA"
+        },
+        {
+            "id": "13",
+            "bank": "CRANE BANK LTD",
+            "city": "KAMPALA",
+            "branch": null,
+            "swift_code": "CRANUGKA"
+        },
+        {
+            "id": "14",
+            "bank": "DFCU BANK",
+            "city": "KAMPALA",
+            "branch": null,
+            "swift_code": "DFCUUGKA"
+        },
+        {
+            "id": "15",
+            "bank": "DIAMOND TRUST BANK UGANDA LIMITED",
+            "city": "KAMPALA",
+            "branch": null,
+            "swift_code": "DTKEUGKA"
+        },
+        {
+            "id": "16",
+            "bank": "EAST AFRICAN DEVELOPMENT BANK",
+            "city": "KAMPALA",
+            "branch": null,
+            "swift_code": "AFDEUGKA"
+        },
+        {
+            "id": "17",
+            "bank": "ECOBANK UGANDA",
+            "city": "KAMPALA",
+            "branch": null,
+            "swift_code": "ECOCUGKA"
+        },
+        {
+            "id": "18",
+            "bank": "EQUITY BANK UGANDA LTD",
+            "city": "KAMPALA",
+            "branch": null,
+            "swift_code": "EQBLUGKA"
+        },
+        {
+            "id": "19",
+            "bank": "FINA BANK LIMITED",
+            "city": "KAMPALA",
+            "branch": null,
+            "swift_code": "FBAKUGKA"
+        },
+        {
+            "id": "20",
+            "bank": "FINANCE TRUST BANK LTD",
+            "city": "KAMPALA",
+            "branch": null,
+            "swift_code": "FTBLUGKA"
+        },
+        {
+            "id": "21",
+            "bank": "GLOBAL TRUST BANK UGANDA",
+            "city": "KAMPALA",
+            "branch": null,
+            "swift_code": "GLTBUGKA"
+        },
+        {
+            "id": "22",
+            "bank": "HOUSING FINANCE BANK LTD.",
+            "city": "KAMPALA",
+            "branch": null,
+            "swift_code": "HFINUGKA"
+        },
+        {
+            "id": "23",
+            "bank": "IMPERIAL BANK (UGANDA) LIMITED",
+            "city": "KAMPALA",
+            "branch": null,
+            "swift_code": "IMPLUGKA"
+        },
+        {
+            "id": "24",
+            "bank": "KCB BANK UGANDA LIMITED",
+            "city": "KAMPALA",
+            "branch": null,
+            "swift_code": "KCBLUGKA"
+        },
+        {
+            "id": "25",
+            "bank": "MERCANTILE CREDIT BANK LTD",
+            "city": "KAMPALA",
+            "branch": null,
+            "swift_code": "MCBDUGKA"
+        },
+        {
+            "id": "26",
+            "bank": "NC BANK UGANDA LIMITED",
+            "city": "KAMPALA",
+            "branch": null,
+            "swift_code": "NINCUGKA"
+        },
+        {
+            "id": "27",
+            "bank": "ORIENT BANK LIMITED",
+            "city": "KAMPALA",
+            "branch": null,
+            "swift_code": "ORINUGKA"
+        },
+        {
+            "id": "28",
+            "bank": "POSTBANK UGANDA LIMITED",
+            "city": "KAMPALA",
+            "branch": null,
+            "swift_code": "UGPBUGKA"
+        },
+        {
+            "id": "29",
+            "bank": "STANBIC BANK UGANDA LIMITED",
+            "city": "KAMPALA",
+            "branch": null,
+            "swift_code": "SBICUGKX"
+        },
+        {
+            "id": "30",
+            "bank": "STANDARD CHARTERED BANK UGANDA LIMITED",
+            "city": "KAMPALA",
+            "branch": "(SECURITIES SERVICES UNIT)",
+            "swift_code": "SCBLUGKASSU"
+        },
+        {
+            "id": "31",
+            "bank": "STANDARD CHARTERED BANK UGANDA LIMITED",
+            "city": "KAMPALA",
+            "branch": null,
+            "swift_code": "SCBLUGKA"
+        },
+        {
+            "id": "32",
+            "bank": "TROPICAL BANK LTD",
+            "city": "KAMPALA",
+            "branch": null,
+            "swift_code": "TROAUGKA"
+        },
+        {
+            "id": "33",
+            "bank": "UGANDA SECURITIES EXCHANGE LTD",
+            "city": "KAMPALA",
+            "branch": null,
+            "swift_code": "USCDUGKA"
+        },
+        {
+            "id": "34",
+            "bank": "UNITED BANK FOR AFRICA (UGANDA) LTD",
+            "city": "KAMPALA",
+            "branch": null,
+            "swift_code": "UNAFUGKA"
+        }
     ]
 }

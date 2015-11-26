@@ -2,247 +2,271 @@
     "country": "Bolivia",
     "country_code": "BO",
     "list": [
-        [
-            "1",
-            "BANCO BISA S.A.",
-            "COCHABAMBA",
-            "BANIBOLXCBB"
-        ],
-        [
-            "2",
-            "BANCO BISA S.A.",
-            "LA PAZ",
-            "BANIBOLX"
-        ],
-        [
-            "3",
-            "BANCO BISA S.A.",
-            "SANTA CRUZ DE LA SIERRA",
-            "BANIBOLXSCZ"
-        ],
-        [
-            "4",
-            "BANCO CENTRAL DE BOLIVIA",
-            "LA PAZ",
-            "BCEBBOLP"
-        ],
-        [
-            "5",
-            "BANCO DE CREDITO DE BOLIVIA S.A.",
-            "COCHABAMBA",
-            "BCPLBOLXCBB"
-        ],
-        [
-            "6",
-            "BANCO DE CREDITO DE BOLIVIA S.A.",
-            "LA PAZ",
-            "BCPLBOLX"
-        ],
-        [
-            "7",
-            "BANCO DE CREDITO DE BOLIVIA S.A.",
-            "SANTA CRUZ DE LA SIERRA",
-            "BCPLBOLXSCZ"
-        ],
-        [
-            "8",
-            "BANCO DE LA NACION ARGENTINA",
-            "SANTA CRUZ DE LA SIERRA",
-            "NACNBOLP"
-        ],
-        [
-            "9",
-            "BANCO DO BRASIL S.A.",
-            "LA PAZ",
-            "BRASBOLX"
-        ],
-        [
-            "10",
-            "BANCO ECONOMICO S.A.",
-            "COCHABAMBA",
-            "(COCHABAMBA BRANCH)",
-            "BOEOBO22CBB"
-        ],
-        [
-            "11",
-            "BANCO ECONOMICO S.A.",
-            "LA PAZ",
-            "(LA PAZ BRANCH)",
-            "BOEOBO22LPZ"
-        ],
-        [
-            "12",
-            "BANCO ECONOMICO S.A.",
-            "SANTA CRUZ DE LA SIERRA",
-            "(SANTA CRUZ BRANCH)",
-            "BOEOBO22SCZ"
-        ],
-        [
-            "13",
-            "BANCO ECONOMICO S.A.",
-            "SANTA CRUZ DE LA SIERRA",
-            "BOEOBO22"
-        ],
-        [
-            "14",
-            "BANCO ECONOMICO S.A.",
-            "SANTA CRUZ DE LA SIERRA",
-            "BOEOBO22BEC"
-        ],
-        [
-            "15",
-            "BANCO FASSIL S.A.",
-            "SANTA CRUZ DE LA SIERRA",
-            "BSCFBO22"
-        ],
-        [
-            "16",
-            "BANCO FORTALEZA SA",
-            "LA PAZ",
-            "BFORBOLP"
-        ],
-        [
-            "17",
-            "BANCO GANADERO S.A.",
-            "SANTA CRUZ DE LA SIERRA",
-            "GNDRBO22"
-        ],
-        [
-            "18",
-            "BANCO GANADERO S.A.",
-            "SANTA CRUZ DE LA SIERRA",
-            "GNDRBO22CMI"
-        ],
-        [
-            "19",
-            "BANCO GANADERO S.A.",
-            "SANTA CRUZ DE LA SIERRA",
-            "GNDRBO22FIT"
-        ],
-        [
-            "20",
-            "BANCO GANADERO S.A.",
-            "SANTA CRUZ DE LA SIERRA",
-            "GNDRBO22GEB"
-        ],
-        [
-            "21",
-            "BANCO MERCANTIL SANTA CRUZ S.A.",
-            "COCHABAMBA",
-            "MERBBOLXCBB"
-        ],
-        [
-            "22",
-            "BANCO MERCANTIL SANTA CRUZ S.A.",
-            "LA PAZ",
-            "MERBBOLX"
-        ],
-        [
-            "23",
-            "BANCO MERCANTIL SANTA CRUZ S.A.",
-            "SANTA CRUZ DE LA SIERRA",
-            "MERBBOLXSCZ"
-        ],
-        [
-            "24",
-            "BANCO NACIONAL DE BOLIVIA",
-            "COCHABAMBA",
-            "(DEPARTAMENTO INTERNACIONAL)",
-            "BNBOBOLXCBB"
-        ],
-        [
-            "25",
-            "BANCO NACIONAL DE BOLIVIA",
-            "LA PAZ",
-            "(DPTO. INTERNACIONAL)",
-            "BNBOBOLXLPZ"
-        ],
-        [
-            "26",
-            "BANCO NACIONAL DE BOLIVIA",
-            "LA PAZ",
-            "(TRESORERIA)",
-            "BNBOBOLXTES"
-        ],
-        [
-            "27",
-            "BANCO NACIONAL DE BOLIVIA",
-            "LA PAZ",
-            "BNBOBOLX"
-        ],
-        [
-            "28",
-            "BANCO NACIONAL DE BOLIVIA",
-            "ORURO",
-            "(DEPARTAMENTO INTERNACIONAL)",
-            "BNBOBOLXORU"
-        ],
-        [
-            "29",
-            "BANCO NACIONAL DE BOLIVIA",
-            "POTOSI",
-            "(DEPARTAMENTO INTERNACIONAL)",
-            "BNBOBOLXPOI"
-        ],
-        [
-            "30",
-            "BANCO NACIONAL DE BOLIVIA",
-            "SANTA CRUZ DE LA SIERRA",
-            "(DPTO. INTERNACIONAL)",
-            "BNBOBOLXSCZ"
-        ],
-        [
-            "31",
-            "BANCO NACIONAL DE BOLIVIA",
-            "SUCRE",
-            "(DEPARTAMENTO INTERNACIONAL)",
-            "BNBOBOLXSRE"
-        ],
-        [
-            "32",
-            "BANCO NACIONAL DE BOLIVIA",
-            "TARIJA",
-            "(DEPARTAMENTO INTERNACIONAL)",
-            "BNBOBOLXTJA"
-        ],
-        [
-            "33",
-            "BANCO PYME LOS ANDES PROCREDIT S.A.",
-            "SANTA CRUZ DE LA SIERRA",
-            "PRCBBO22"
-        ],
-        [
-            "34",
-            "BANCO SOLIDARIO S.A.",
-            "LA PAZ",
-            "BSOLBOLP"
-        ],
-        [
-            "35",
-            "BANCO UNION S.A.",
-            "COCHABAMBA",
-            "(SUCURSAL COCHABAMBA)",
-            "BAUNBO22CBB"
-        ],
-        [
-            "36",
-            "BANCO UNION S.A.",
-            "LA PAZ",
-            "(SUCURSAL LA PAZ)",
-            "BAUNBO22LPZ"
-        ],
-        [
-            "37",
-            "BANCO UNION S.A.",
-            "SANTA CRUZ DE LA SIERRA",
-            "(SUCURSAL SANTA CRUZ)",
-            "BAUNBO22SCZ"
-        ],
-        [
-            "38",
-            "BANCO UNION S.A.",
-            "SANTA CRUZ DE LA SIERRA",
-            "BAUNBO22"
-        ]
+        {
+            "id": "1",
+            "bank": "BANCO BISA S.A.",
+            "city": "COCHABAMBA",
+            "branch": null,
+            "swift_code": "BANIBOLXCBB"
+        },
+        {
+            "id": "2",
+            "bank": "BANCO BISA S.A.",
+            "city": "LA PAZ",
+            "branch": null,
+            "swift_code": "BANIBOLX"
+        },
+        {
+            "id": "3",
+            "bank": "BANCO BISA S.A.",
+            "city": "SANTA CRUZ DE LA SIERRA",
+            "branch": null,
+            "swift_code": "BANIBOLXSCZ"
+        },
+        {
+            "id": "4",
+            "bank": "BANCO CENTRAL DE BOLIVIA",
+            "city": "LA PAZ",
+            "branch": null,
+            "swift_code": "BCEBBOLP"
+        },
+        {
+            "id": "5",
+            "bank": "BANCO DE CREDITO DE BOLIVIA S.A.",
+            "city": "COCHABAMBA",
+            "branch": null,
+            "swift_code": "BCPLBOLXCBB"
+        },
+        {
+            "id": "6",
+            "bank": "BANCO DE CREDITO DE BOLIVIA S.A.",
+            "city": "LA PAZ",
+            "branch": null,
+            "swift_code": "BCPLBOLX"
+        },
+        {
+            "id": "7",
+            "bank": "BANCO DE CREDITO DE BOLIVIA S.A.",
+            "city": "SANTA CRUZ DE LA SIERRA",
+            "branch": null,
+            "swift_code": "BCPLBOLXSCZ"
+        },
+        {
+            "id": "8",
+            "bank": "BANCO DE LA NACION ARGENTINA",
+            "city": "SANTA CRUZ DE LA SIERRA",
+            "branch": null,
+            "swift_code": "NACNBOLP"
+        },
+        {
+            "id": "9",
+            "bank": "BANCO DO BRASIL S.A.",
+            "city": "LA PAZ",
+            "branch": null,
+            "swift_code": "BRASBOLX"
+        },
+        {
+            "id": "10",
+            "bank": "BANCO ECONOMICO S.A.",
+            "city": "COCHABAMBA",
+            "branch": "(COCHABAMBA BRANCH)",
+            "swift_code": "BOEOBO22CBB"
+        },
+        {
+            "id": "11",
+            "bank": "BANCO ECONOMICO S.A.",
+            "city": "LA PAZ",
+            "branch": "(LA PAZ BRANCH)",
+            "swift_code": "BOEOBO22LPZ"
+        },
+        {
+            "id": "12",
+            "bank": "BANCO ECONOMICO S.A.",
+            "city": "SANTA CRUZ DE LA SIERRA",
+            "branch": "(SANTA CRUZ BRANCH)",
+            "swift_code": "BOEOBO22SCZ"
+        },
+        {
+            "id": "13",
+            "bank": "BANCO ECONOMICO S.A.",
+            "city": "SANTA CRUZ DE LA SIERRA",
+            "branch": null,
+            "swift_code": "BOEOBO22"
+        },
+        {
+            "id": "14",
+            "bank": "BANCO ECONOMICO S.A.",
+            "city": "SANTA CRUZ DE LA SIERRA",
+            "branch": null,
+            "swift_code": "BOEOBO22BEC"
+        },
+        {
+            "id": "15",
+            "bank": "BANCO FASSIL S.A.",
+            "city": "SANTA CRUZ DE LA SIERRA",
+            "branch": null,
+            "swift_code": "BSCFBO22"
+        },
+        {
+            "id": "16",
+            "bank": "BANCO FORTALEZA SA",
+            "city": "LA PAZ",
+            "branch": null,
+            "swift_code": "BFORBOLP"
+        },
+        {
+            "id": "17",
+            "bank": "BANCO GANADERO S.A.",
+            "city": "SANTA CRUZ DE LA SIERRA",
+            "branch": null,
+            "swift_code": "GNDRBO22"
+        },
+        {
+            "id": "18",
+            "bank": "BANCO GANADERO S.A.",
+            "city": "SANTA CRUZ DE LA SIERRA",
+            "branch": null,
+            "swift_code": "GNDRBO22CMI"
+        },
+        {
+            "id": "19",
+            "bank": "BANCO GANADERO S.A.",
+            "city": "SANTA CRUZ DE LA SIERRA",
+            "branch": null,
+            "swift_code": "GNDRBO22FIT"
+        },
+        {
+            "id": "20",
+            "bank": "BANCO GANADERO S.A.",
+            "city": "SANTA CRUZ DE LA SIERRA",
+            "branch": null,
+            "swift_code": "GNDRBO22GEB"
+        },
+        {
+            "id": "21",
+            "bank": "BANCO MERCANTIL SANTA CRUZ S.A.",
+            "city": "COCHABAMBA",
+            "branch": null,
+            "swift_code": "MERBBOLXCBB"
+        },
+        {
+            "id": "22",
+            "bank": "BANCO MERCANTIL SANTA CRUZ S.A.",
+            "city": "LA PAZ",
+            "branch": null,
+            "swift_code": "MERBBOLX"
+        },
+        {
+            "id": "23",
+            "bank": "BANCO MERCANTIL SANTA CRUZ S.A.",
+            "city": "SANTA CRUZ DE LA SIERRA",
+            "branch": null,
+            "swift_code": "MERBBOLXSCZ"
+        },
+        {
+            "id": "24",
+            "bank": "BANCO NACIONAL DE BOLIVIA",
+            "city": "COCHABAMBA",
+            "branch": "(DEPARTAMENTO INTERNACIONAL)",
+            "swift_code": "BNBOBOLXCBB"
+        },
+        {
+            "id": "25",
+            "bank": "BANCO NACIONAL DE BOLIVIA",
+            "city": "LA PAZ",
+            "branch": "(DPTO. INTERNACIONAL)",
+            "swift_code": "BNBOBOLXLPZ"
+        },
+        {
+            "id": "26",
+            "bank": "BANCO NACIONAL DE BOLIVIA",
+            "city": "LA PAZ",
+            "branch": "(TRESORERIA)",
+            "swift_code": "BNBOBOLXTES"
+        },
+        {
+            "id": "27",
+            "bank": "BANCO NACIONAL DE BOLIVIA",
+            "city": "LA PAZ",
+            "branch": null,
+            "swift_code": "BNBOBOLX"
+        },
+        {
+            "id": "28",
+            "bank": "BANCO NACIONAL DE BOLIVIA",
+            "city": "ORURO",
+            "branch": "(DEPARTAMENTO INTERNACIONAL)",
+            "swift_code": "BNBOBOLXORU"
+        },
+        {
+            "id": "29",
+            "bank": "BANCO NACIONAL DE BOLIVIA",
+            "city": "POTOSI",
+            "branch": "(DEPARTAMENTO INTERNACIONAL)",
+            "swift_code": "BNBOBOLXPOI"
+        },
+        {
+            "id": "30",
+            "bank": "BANCO NACIONAL DE BOLIVIA",
+            "city": "SANTA CRUZ DE LA SIERRA",
+            "branch": "(DPTO. INTERNACIONAL)",
+            "swift_code": "BNBOBOLXSCZ"
+        },
+        {
+            "id": "31",
+            "bank": "BANCO NACIONAL DE BOLIVIA",
+            "city": "SUCRE",
+            "branch": "(DEPARTAMENTO INTERNACIONAL)",
+            "swift_code": "BNBOBOLXSRE"
+        },
+        {
+            "id": "32",
+            "bank": "BANCO NACIONAL DE BOLIVIA",
+            "city": "TARIJA",
+            "branch": "(DEPARTAMENTO INTERNACIONAL)",
+            "swift_code": "BNBOBOLXTJA"
+        },
+        {
+            "id": "33",
+            "bank": "BANCO PYME LOS ANDES PROCREDIT S.A.",
+            "city": "SANTA CRUZ DE LA SIERRA",
+            "branch": null,
+            "swift_code": "PRCBBO22"
+        },
+        {
+            "id": "34",
+            "bank": "BANCO SOLIDARIO S.A.",
+            "city": "LA PAZ",
+            "branch": null,
+            "swift_code": "BSOLBOLP"
+        },
+        {
+            "id": "35",
+            "bank": "BANCO UNION S.A.",
+            "city": "COCHABAMBA",
+            "branch": "(SUCURSAL COCHABAMBA)",
+            "swift_code": "BAUNBO22CBB"
+        },
+        {
+            "id": "36",
+            "bank": "BANCO UNION S.A.",
+            "city": "LA PAZ",
+            "branch": "(SUCURSAL LA PAZ)",
+            "swift_code": "BAUNBO22LPZ"
+        },
+        {
+            "id": "37",
+            "bank": "BANCO UNION S.A.",
+            "city": "SANTA CRUZ DE LA SIERRA",
+            "branch": "(SUCURSAL SANTA CRUZ)",
+            "swift_code": "BAUNBO22SCZ"
+        },
+        {
+            "id": "38",
+            "bank": "BANCO UNION S.A.",
+            "city": "SANTA CRUZ DE LA SIERRA",
+            "branch": null,
+            "swift_code": "BAUNBO22"
+        }
     ]
 }

@@ -2,59 +2,68 @@
     "country": "Djibouti",
     "country_code": "DJ",
     "list": [
-        [
-            "1",
-            "BANK OF AFRICA MER ROUGE",
-            "DJIBOUTI",
-            "MRINDJJD"
-        ],
-        [
-            "2",
-            "BANQUE CENTRALE DE DJIBOUTI",
-            "DJIBOUTI",
-            "BCDJDJJD"
-        ],
-        [
-            "3",
-            "BANQUE DE DEPOT ET CREDIT DJIBOUTI",
-            "DJIBOUTI",
-            "DECDDJJD"
-        ],
-        [
-            "4",
-            "BANQUE POUR LE COMMERCE ET L'INDUSTRIE - MER ROUGE",
-            "DJIBOUTI",
-            "BCIMDJJX"
-        ],
-        [
-            "5",
-            "CAC INTERNATIONAL BANK",
-            "DJIBOUTI",
-            "CACDDJJD"
-        ],
-        [
-            "6",
-            "DAHABSHIL BANK INTERNATIONAL",
-            "DJIBOUTI",
-            "DBISDJJ2"
-        ],
-        [
-            "7",
-            "EXIM BANK (DJIBOUTI) S.A.",
-            "DJIBOUTI",
-            "EXTNDJJD"
-        ],
-        [
-            "8",
-            "INTERNATIONAL COMMERCIAL BANK DJIBOUTI",
-            "DJIBOUTI",
-            "ICDJDJJD"
-        ],
-        [
-            "9",
-            "SALAAM AFRICAN BANK",
-            "DJIBOUTI",
-            "ISEADJJD"
-        ]
+        {
+            "id": "1",
+            "bank": "BANK OF AFRICA MER ROUGE",
+            "city": "DJIBOUTI",
+            "branch": null,
+            "swift_code": "MRINDJJD"
+        },
+        {
+            "id": "2",
+            "bank": "BANQUE CENTRALE DE DJIBOUTI",
+            "city": "DJIBOUTI",
+            "branch": null,
+            "swift_code": "BCDJDJJD"
+        },
+        {
+            "id": "3",
+            "bank": "BANQUE DE DEPOT ET CREDIT DJIBOUTI",
+            "city": "DJIBOUTI",
+            "branch": null,
+            "swift_code": "DECDDJJD"
+        },
+        {
+            "id": "4",
+            "bank": "BANQUE POUR LE COMMERCE ET L'INDUSTRIE - MER ROUGE",
+            "city": "DJIBOUTI",
+            "branch": null,
+            "swift_code": "BCIMDJJX"
+        },
+        {
+            "id": "5",
+            "bank": "CAC INTERNATIONAL BANK",
+            "city": "DJIBOUTI",
+            "branch": null,
+            "swift_code": "CACDDJJD"
+        },
+        {
+            "id": "6",
+            "bank": "DAHABSHIL BANK INTERNATIONAL",
+            "city": "DJIBOUTI",
+            "branch": null,
+            "swift_code": "DBISDJJ2"
+        },
+        {
+            "id": "7",
+            "bank": "EXIM BANK (DJIBOUTI) S.A.",
+            "city": "DJIBOUTI",
+            "branch": null,
+            "swift_code": "EXTNDJJD"
+        },
+        {
+            "id": "8",
+            "bank": "INTERNATIONAL COMMERCIAL BANK DJIBOUTI",
+            "city": "DJIBOUTI",
+            "branch": null,
+            "swift_code": "ICDJDJJD"
+        },
+        {
+            "id": "9",
+            "bank": "SALAAM AFRICAN BANK",
+            "city": "DJIBOUTI",
+            "branch": null,
+            "swift_code": "ISEADJJD"
+        }
     ]
 }

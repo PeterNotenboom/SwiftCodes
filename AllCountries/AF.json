@@ -2,109 +2,124 @@
     "country": "Afghanistan",
     "country_code": "AF",
     "list": [
-        [
-            "1",
-            "AFGHAN UNITED BANK",
-            "KABUL",
-            "AFGUAFKA"
-        ],
-        [
-            "2",
-            "AFGHANISTAN COMMERCIAL BANK",
-            "KABUL",
-            "TBAAAFKA"
-        ],
-        [
-            "3",
-            "AFGHANISTAN INTERNATIONAL BANK",
-            "KABUL",
-            "AFIBAFKA"
-        ],
-        [
-            "4",
-            "AZIZI BANK",
-            "KABUL",
-            "AZBAAFKA"
-        ],
-        [
-            "5",
-            "BAKHTAR BANK",
-            "KABUL",
-            "BKRBAFKA"
-        ],
-        [
-            "6",
-            "BANK ALFALAH LIMITED (AFGHANISTAN - KABUL BRANCH)",
-            "HERAT",
-            "(AFGHANISTAN - HERAT BRANCH)",
-            "ALFHAFKA803"
-        ],
-        [
-            "7",
-            "BANK ALFALAH LIMITED (AFGHANISTAN - KABUL BRANCH)",
-            "KABUL",
-            "ALFHAFKA"
-        ],
-        [
-            "8",
-            "BANKE MILLIE AFGHAN",
-            "KABUL",
-            "BMAFAFKA"
-        ],
-        [
-            "9",
-            "DA AFGHANISTAN BANK",
-            "KABUL",
-            "AFGBAFKA"
-        ],
-        [
-            "10",
-            "FIRST MICROFINANCE BANK LTD., THE",
-            "KABUL",
-            "(SHASH DARAK KABUL BRANCH)",
-            "FMFBAFKA"
-        ],
-        [
-            "11",
-            "GHAZANFAR BANK",
-            "KABUL",
-            "GHBKAFKA"
-        ],
-        [
-            "12",
-            "GHAZANFAR BANK",
-            "KABUL",
-            "GHBKAFKAISW"
-        ],
-        [
-            "13",
-            "HABIB BANK LIMITED",
-            "KABUL",
-            "HABBAFKA"
-        ],
-        [
-            "14",
-            "KABUL BANK",
-            "KABUL",
-            "KABUAFKA"
-        ],
-        [
-            "15",
-            "MAIWAND BANK",
-            "KABUL",
-            "MWBKAFKA"
-        ],
-        [
-            "16",
-            "NATIONAL BANK OF PAKISTAN, KABUL BRANCH",
-            "KABUL",
-            "NBPAAFKA"
-        ],
-        [
-            "17",
-            "PASHTANY BANK",
-            "KABUL",
-            "PIBAAFKA"
-        ]
+        {
+            "id": "1",
+            "bank": "AFGHAN UNITED BANK",
+            "city": "KABUL",
+            "branch": null,
+            "swift_code": "AFGUAFKA"
+        },
+        {
+            "id": "2",
+            "bank": "AFGHANISTAN COMMERCIAL BANK",
+            "city": "KABUL",
+            "branch": null,
+            "swift_code": "TBAAAFKA"
+        },
+        {
+            "id": "3",
+            "bank": "AFGHANISTAN INTERNATIONAL BANK",
+            "city": "KABUL",
+            "branch": null,
+            "swift_code": "AFIBAFKA"
+        },
+        {
+            "id": "4",
+            "bank": "AZIZI BANK",
+            "city": "KABUL",
+            "branch": null,
+            "swift_code": "AZBAAFKA"
+        },
+        {
+            "id": "5",
+            "bank": "BAKHTAR BANK",
+            "city": "KABUL",
+            "branch": null,
+            "swift_code": "BKRBAFKA"
+        },
+        {
+            "id": "6",
+            "bank": "BANK ALFALAH LIMITED (AFGHANISTAN - KABUL BRANCH)",
+            "city": "HERAT",
+            "branch": "(AFGHANISTAN - HERAT BRANCH)",
+            "swift_code": "ALFHAFKA803"
+        },
+        {
+            "id": "7",
+            "bank": "BANK ALFALAH LIMITED (AFGHANISTAN - KABUL BRANCH)",
+            "city": "KABUL",
+            "branch": null,
+            "swift_code": "ALFHAFKA"
+        },
+        {
+            "id": "8",
+            "bank": "BANKE MILLIE AFGHAN",
+            "city": "KABUL",
+            "branch": null,
+            "swift_code": "BMAFAFKA"
+        },
+        {
+            "id": "9",
+            "bank": "DA AFGHANISTAN BANK",
+            "city": "KABUL",
+            "branch": null,
+            "swift_code": "AFGBAFKA"
+        },
+        {
+            "id": "10",
+            "bank": "FIRST MICROFINANCE BANK LTD., THE",
+            "city": "KABUL",
+            "branch": "(SHASH DARAK KABUL BRANCH)",
+            "swift_code": "FMFBAFKA"
+        },
+        {
+            "id": "11",
+            "bank": "GHAZANFAR BANK",
+            "city": "KABUL",
+            "branch": null,
+            "swift_code": "GHBKAFKA"
+        },
+        {
+            "id": "12",
+            "bank": "GHAZANFAR BANK",
+            "city": "KABUL",
+            "branch": null,
+            "swift_code": "GHBKAFKAISW"
+        },
+        {
+            "id": "13",
+            "bank": "HABIB BANK LIMITED",
+            "city": "KABUL",
+            "branch": null,
+            "swift_code": "HABBAFKA"
+        },
+        {
+            "id": "14",
+            "bank": "KABUL BANK",
+            "city": "KABUL",
+            "branch": null,
+            "swift_code": "KABUAFKA"
+        },
+        {
+            "id": "15",
+            "bank": "MAIWAND BANK",
+            "city": "KABUL",
+            "branch": null,
+            "swift_code": "MWBKAFKA"
+        },
+        {
+            "id": "16",
+            "bank": "NATIONAL BANK OF PAKISTAN, KABUL BRANCH",
+            "city": "KABUL",
+            "branch": null,
+            "swift_code": "NBPAAFKA"
+        },
+        {
+            "id": "17",
+            "bank": "PASHTANY BANK",
+            "city": "KABUL",
+            "branch": null,
+            "swift_code": "PIBAAFKA"
+        }
     ]
 }

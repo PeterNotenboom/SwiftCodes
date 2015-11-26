@@ -2,151 +2,166 @@
     "country": "Liechtenstein",
     "country_code": "LI",
     "list": [
-        [
-            "1",
-            "BANK ALPINUM AG",
-            "VADUZ",
-            "BALPLI22"
-        ],
-        [
-            "2",
-            "BANK FRICK AND CO AKTIENGESELLSCHAFT",
-            "BALZERS",
-            "BFRILI22"
-        ],
-        [
-            "3",
-            "BANQUE HAVILLAND (LIECHTENSTEIN) AG",
-            "VADUZ",
-            "SFBALI22"
-        ],
-        [
-            "4",
-            "CENTRUM BANK AG",
-            "VADUZ",
-            "CBKVLI2X"
-        ],
-        [
-            "5",
-            "EFG BANK VON ERNST AG",
-            "VADUZ",
-            "EFGBLI22"
-        ],
-        [
-            "6",
-            "HILTI CORPORATION",
-            "SCHAAN",
-            "HILTLI22"
-        ],
-        [
-            "7",
-            "KAISER RITTER PARTNER PRIVATBANK AG",
-            "VADUZ",
-            "SERBLI22"
-        ],
-        [
-            "8",
-            "LGT BANK AG",
-            "VADUZ",
-            "(CONV SHAREKLASSE GBP)",
-            "BLFLLI2X224"
-        ],
-        [
-            "9",
-            "LGT BANK AG",
-            "VADUZ",
-            "(EQ NAM SHAREKLASSE EUR)",
-            "BLFLLI2X225"
-        ],
-        [
-            "10",
-            "LGT BANK AG",
-            "VADUZ",
-            "(EX CUSTODY)",
-            "BLFLLI2XEXC"
-        ],
-        [
-            "11",
-            "LGT BANK AG",
-            "VADUZ",
-            "(LGT SLC EQ JP USD B)",
-            "BLFLLI2X252"
-        ],
-        [
-            "12",
-            "LGT BANK AG",
-            "VADUZ",
-            "(LGT SLC EQ JP USD I1)",
-            "BLFLLI2X253"
-        ],
-        [
-            "13",
-            "LGT BANK AG",
-            "VADUZ",
-            "(M-M CONV. SHAREKLASSE CHF)",
-            "BLFLLI2X496"
-        ],
-        [
-            "14",
-            "LGT BANK AG",
-            "VADUZ",
-            "(M-M CONV. SHAREKLASSE EUR)",
-            "BLFLLI2X495"
-        ],
-        [
-            "15",
-            "LGT BANK AG",
-            "VADUZ",
-            "BLFLLI2X"
-        ],
-        [
-            "16",
-            "LIECHTENSTEINISCHE LANDESBANK AKTIENGESELLSCHAFT",
-            "VADUZ",
-            "LILALI2X"
-        ],
-        [
-            "17",
-            "NEUE BANK AG",
-            "VADUZ",
-            "NBANLI22"
-        ],
-        [
-            "18",
-            "RAIFFEISEN BANK (LIECHTENSTEIN) AG",
-            "VADUZ",
-            "RAIBLI22"
-        ],
-        [
-            "19",
-            "UNION BANK AG",
-            "VADUZ",
-            "UNIVLI22"
-        ],
-        [
-            "20",
-            "VALARTIS BANK (LIECHTENSTEIN) AG",
-            "GAMPRIN-BENDERN",
-            "HYIBLI22"
-        ],
-        [
-            "21",
-            "VOLKSBANK AG",
-            "SCHAAN",
-            "VOAGLI22"
-        ],
-        [
-            "22",
-            "VP BANK AG",
-            "TRIESEN",
-            "(BUSINESS UNIT LIECHTENSTEIN)",
-            "VPBVLI2XLIC"
-        ],
-        [
-            "23",
-            "VP BANK AG",
-            "VADUZ",
-            "VPBVLI2X"
-        ]
+        {
+            "id": "1",
+            "bank": "BANK ALPINUM AG",
+            "city": "VADUZ",
+            "branch": null,
+            "swift_code": "BALPLI22"
+        },
+        {
+            "id": "2",
+            "bank": "BANK FRICK AND CO AKTIENGESELLSCHAFT",
+            "city": "BALZERS",
+            "branch": null,
+            "swift_code": "BFRILI22"
+        },
+        {
+            "id": "3",
+            "bank": "BANQUE HAVILLAND (LIECHTENSTEIN) AG",
+            "city": "VADUZ",
+            "branch": null,
+            "swift_code": "SFBALI22"
+        },
+        {
+            "id": "4",
+            "bank": "CENTRUM BANK AG",
+            "city": "VADUZ",
+            "branch": null,
+            "swift_code": "CBKVLI2X"
+        },
+        {
+            "id": "5",
+            "bank": "EFG BANK VON ERNST AG",
+            "city": "VADUZ",
+            "branch": null,
+            "swift_code": "EFGBLI22"
+        },
+        {
+            "id": "6",
+            "bank": "HILTI CORPORATION",
+            "city": "SCHAAN",
+            "branch": null,
+            "swift_code": "HILTLI22"
+        },
+        {
+            "id": "7",
+            "bank": "KAISER RITTER PARTNER PRIVATBANK AG",
+            "city": "VADUZ",
+            "branch": null,
+            "swift_code": "SERBLI22"
+        },
+        {
+            "id": "8",
+            "bank": "LGT BANK AG",
+            "city": "VADUZ",
+            "branch": "(CONV SHAREKLASSE GBP)",
+            "swift_code": "BLFLLI2X224"
+        },
+        {
+            "id": "9",
+            "bank": "LGT BANK AG",
+            "city": "VADUZ",
+            "branch": "(EQ NAM SHAREKLASSE EUR)",
+            "swift_code": "BLFLLI2X225"
+        },
+        {
+            "id": "10",
+            "bank": "LGT BANK AG",
+            "city": "VADUZ",
+            "branch": "(EX CUSTODY)",
+            "swift_code": "BLFLLI2XEXC"
+        },
+        {
+            "id": "11",
+            "bank": "LGT BANK AG",
+            "city": "VADUZ",
+            "branch": "(LGT SLC EQ JP USD B)",
+            "swift_code": "BLFLLI2X252"
+        },
+        {
+            "id": "12",
+            "bank": "LGT BANK AG",
+            "city": "VADUZ",
+            "branch": "(LGT SLC EQ JP USD I1)",
+            "swift_code": "BLFLLI2X253"
+        },
+        {
+            "id": "13",
+            "bank": "LGT BANK AG",
+            "city": "VADUZ",
+            "branch": "(M-M CONV. SHAREKLASSE CHF)",
+            "swift_code": "BLFLLI2X496"
+        },
+        {
+            "id": "14",
+            "bank": "LGT BANK AG",
+            "city": "VADUZ",
+            "branch": "(M-M CONV. SHAREKLASSE EUR)",
+            "swift_code": "BLFLLI2X495"
+        },
+        {
+            "id": "15",
+            "bank": "LGT BANK AG",
+            "city": "VADUZ",
+            "branch": null,
+            "swift_code": "BLFLLI2X"
+        },
+        {
+            "id": "16",
+            "bank": "LIECHTENSTEINISCHE LANDESBANK AKTIENGESELLSCHAFT",
+            "city": "VADUZ",
+            "branch": null,
+            "swift_code": "LILALI2X"
+        },
+        {
+            "id": "17",
+            "bank": "NEUE BANK AG",
+            "city": "VADUZ",
+            "branch": null,
+            "swift_code": "NBANLI22"
+        },
+        {
+            "id": "18",
+            "bank": "RAIFFEISEN BANK (LIECHTENSTEIN) AG",
+            "city": "VADUZ",
+            "branch": null,
+            "swift_code": "RAIBLI22"
+        },
+        {
+            "id": "19",
+            "bank": "UNION BANK AG",
+            "city": "VADUZ",
+            "branch": null,
+            "swift_code": "UNIVLI22"
+        },
+        {
+            "id": "20",
+            "bank": "VALARTIS BANK (LIECHTENSTEIN) AG",
+            "city": "GAMPRIN-BENDERN",
+            "branch": null,
+            "swift_code": "HYIBLI22"
+        },
+        {
+            "id": "21",
+            "bank": "VOLKSBANK AG",
+            "city": "SCHAAN",
+            "branch": null,
+            "swift_code": "VOAGLI22"
+        },
+        {
+            "id": "22",
+            "bank": "VP BANK AG",
+            "city": "TRIESEN",
+            "branch": "(BUSINESS UNIT LIECHTENSTEIN)",
+            "swift_code": "VPBVLI2XLIC"
+        },
+        {
+            "id": "23",
+            "bank": "VP BANK AG",
+            "city": "VADUZ",
+            "branch": null,
+            "swift_code": "VPBVLI2X"
+        }
     ]
 }

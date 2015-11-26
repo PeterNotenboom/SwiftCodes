@@ -2,145 +2,166 @@
     "country": "Myanmar",
     "country_code": "MM",
     "list": [
-        [
-            "1",
-            "ASIA GREEN DEVELOPMENT BANK LIMITED",
-            "NAY PYI TAW",
-            "AGDBMMMY"
-        ],
-        [
-            "2",
-            "AYEYARWADY BANK LIMITED",
-            "YANGON",
-            "AYABMMMY"
-        ],
-        [
-            "3",
-            "CENTRAL BANK OF MYANMAR",
-            "YANGON",
-            "CBMYMMMY"
-        ],
-        [
-            "4",
-            "CONSTRUCTION AND HOUSING DEVELOPMENT BANK LTD.",
-            "YANGON",
-            "CHDDMMMY"
-        ],
-        [
-            "5",
-            "CO-OPERATIVE BANK LIMITED (PUBLIC BANK)",
-            "YANGON",
-            "CPOBMMMY"
-        ],
-        [
-            "6",
-            "FIRST PRIVATE BANK LIMITED",
-            "YANGON",
-            "FPBPMMMY"
-        ],
-        [
-            "7",
-            "GLOBAL TREASURE BANK PUBLIC COMPANY LTD",
-            "YANGON",
-            "MLFBMMMY"
-        ],
-        [
-            "8",
-            "INNWA BANK LTD",
-            "NAY PYI TAW",
-            "AVABMMMY"
-        ],
-        [
-            "9",
-            "KANBAWZA BANK LTD",
-            "YANGON",
-            "KBZBMMMY"
-        ],
-        [
-            "10",
-            "MYANMA APEX BANK LIMITED",
-            "YANGON",
-            "MMABMMMY"
-        ],
-        [
-            "11",
-            "MYANMA ECONOMIC BANK",
-            "YANGON",
-            "(MEB(FOREX)YGN)",
-            "MYEBMMMYYGN"
-        ],
-        [
-            "12",
-            "MYANMA ECONOMIC BANK",
-            "YANGON",
-            "MYEBMMMY"
-        ],
-        [
-            "13",
-            "MYANMA FOREIGN TRADE BANK",
-            "YANGON",
-            "MFTBMMMY"
-        ],
-        [
-            "14",
-            "MYANMA INDUSTRIAL DEVELOPMENT BANK",
-            "YANGON",
-            "MYIDMMMY"
-        ],
-        [
-            "15",
-            "MYANMA INVESTMENT AND COMMERCIAL BANK",
-            "YANGON",
-            "(FULL BRANCH)",
-            "MICBMMMYMAN"
-        ],
-        [
-            "16",
-            "MYANMA INVESTMENT AND COMMERCIAL BANK",
-            "YANGON",
-            "MICBMMMY"
-        ],
-        [
-            "17",
-            "MYANMAR CITIZENS BANK LIMITED",
-            "YANGON",
-            "MCIZMMMY"
-        ],
-        [
-            "18",
-            "MYANMAR ORIENTAL BANK LIMITED",
-            "YANGON",
-            "MYORMMMY"
-        ],
-        [
-            "19",
-            "MYAWADDY BANK LIMITED",
-            "YANGON",
-            "MWDBMMMY"
-        ],
-        [
-            "20",
-            "RURAL DEVELOPMENT BANK LIMITED",
-            "ZABUTHIRI TOWNSHIP",
-            "RDEVMMMY"
-        ],
-        [
-            "21",
-            "TUN FOUNDATION BANK LTD",
-            "YANGON",
-            "TFBKMMMY"
-        ],
-        [
-            "22",
-            "UNITED AMARA BANK LIMITED",
-            "YANGON",
-            "UABMMMMY"
-        ],
-        [
-            "23",
-            "YOMA BANK LIMITED",
-            "YANGON",
-            "YOMAMMMY"
-        ]
+        {
+            "id": "1",
+            "bank": "ASIA GREEN DEVELOPMENT BANK LIMITED",
+            "city": "NAY PYI TAW",
+            "branch": null,
+            "swift_code": "AGDBMMMY"
+        },
+        {
+            "id": "2",
+            "bank": "AYEYARWADY BANK LIMITED",
+            "city": "YANGON",
+            "branch": null,
+            "swift_code": "AYABMMMY"
+        },
+        {
+            "id": "3",
+            "bank": "CENTRAL BANK OF MYANMAR",
+            "city": "YANGON",
+            "branch": null,
+            "swift_code": "CBMYMMMY"
+        },
+        {
+            "id": "4",
+            "bank": "CONSTRUCTION AND HOUSING DEVELOPMENT BANK LTD.",
+            "city": "YANGON",
+            "branch": null,
+            "swift_code": "CHDDMMMY"
+        },
+        {
+            "id": "5",
+            "bank": "CO-OPERATIVE BANK LIMITED (PUBLIC BANK)",
+            "city": "YANGON",
+            "branch": null,
+            "swift_code": "CPOBMMMY"
+        },
+        {
+            "id": "6",
+            "bank": "FIRST PRIVATE BANK LIMITED",
+            "city": "YANGON",
+            "branch": null,
+            "swift_code": "FPBPMMMY"
+        },
+        {
+            "id": "7",
+            "bank": "GLOBAL TREASURE BANK PUBLIC COMPANY LTD",
+            "city": "YANGON",
+            "branch": null,
+            "swift_code": "MLFBMMMY"
+        },
+        {
+            "id": "8",
+            "bank": "INNWA BANK LTD",
+            "city": "NAY PYI TAW",
+            "branch": null,
+            "swift_code": "AVABMMMY"
+        },
+        {
+            "id": "9",
+            "bank": "KANBAWZA BANK LTD",
+            "city": "YANGON",
+            "branch": null,
+            "swift_code": "KBZBMMMY"
+        },
+        {
+            "id": "10",
+            "bank": "MYANMA APEX BANK LIMITED",
+            "city": "YANGON",
+            "branch": null,
+            "swift_code": "MMABMMMY"
+        },
+        {
+            "id": "11",
+            "bank": "MYANMA ECONOMIC BANK",
+            "city": "YANGON",
+            "branch": "(MEB(FOREX)YGN)",
+            "swift_code": "MYEBMMMYYGN"
+        },
+        {
+            "id": "12",
+            "bank": "MYANMA ECONOMIC BANK",
+            "city": "YANGON",
+            "branch": null,
+            "swift_code": "MYEBMMMY"
+        },
+        {
+            "id": "13",
+            "bank": "MYANMA FOREIGN TRADE BANK",
+            "city": "YANGON",
+            "branch": null,
+            "swift_code": "MFTBMMMY"
+        },
+        {
+            "id": "14",
+            "bank": "MYANMA INDUSTRIAL DEVELOPMENT BANK",
+            "city": "YANGON",
+            "branch": null,
+            "swift_code": "MYIDMMMY"
+        },
+        {
+            "id": "15",
+            "bank": "MYANMA INVESTMENT AND COMMERCIAL BANK",
+            "city": "YANGON",
+            "branch": "(FULL BRANCH)",
+            "swift_code": "MICBMMMYMAN"
+        },
+        {
+            "id": "16",
+            "bank": "MYANMA INVESTMENT AND COMMERCIAL BANK",
+            "city": "YANGON",
+            "branch": null,
+            "swift_code": "MICBMMMY"
+        },
+        {
+            "id": "17",
+            "bank": "MYANMAR CITIZENS BANK LIMITED",
+            "city": "YANGON",
+            "branch": null,
+            "swift_code": "MCIZMMMY"
+        },
+        {
+            "id": "18",
+            "bank": "MYANMAR ORIENTAL BANK LIMITED",
+            "city": "YANGON",
+            "branch": null,
+            "swift_code": "MYORMMMY"
+        },
+        {
+            "id": "19",
+            "bank": "MYAWADDY BANK LIMITED",
+            "city": "YANGON",
+            "branch": null,
+            "swift_code": "MWDBMMMY"
+        },
+        {
+            "id": "20",
+            "bank": "RURAL DEVELOPMENT BANK LIMITED",
+            "city": "ZABUTHIRI TOWNSHIP",
+            "branch": null,
+            "swift_code": "RDEVMMMY"
+        },
+        {
+            "id": "21",
+            "bank": "TUN FOUNDATION BANK LTD",
+            "city": "YANGON",
+            "branch": null,
+            "swift_code": "TFBKMMMY"
+        },
+        {
+            "id": "22",
+            "bank": "UNITED AMARA BANK LIMITED",
+            "city": "YANGON",
+            "branch": null,
+            "swift_code": "UABMMMMY"
+        },
+        {
+            "id": "23",
+            "bank": "YOMA BANK LIMITED",
+            "city": "YANGON",
+            "branch": null,
+            "swift_code": "YOMAMMMY"
+        }
     ]
 }

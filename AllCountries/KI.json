@@ -2,11 +2,12 @@
     "country": "Kiribati",
     "country_code": "KI",
     "list": [
-        [
-            "1",
-            "ANZ BANK (KIRIBATI) LTD",
-            "TARAWA",
-            "BKIRKIKI"
-        ]
+        {
+            "id": "1",
+            "bank": "ANZ BANK (KIRIBATI) LTD",
+            "city": "TARAWA",
+            "branch": null,
+            "swift_code": "BKIRKIKI"
+        }
     ]
 }

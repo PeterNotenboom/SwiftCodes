@@ -2,220 +2,229 @@
     "country": "Kosovo",
     "country_code": "XK",
     "list": [
-        [
-            "1",
-            "BANKA EKONOMIKE SH.A",
-            "PRISTINA",
-            "EKOMXKPR"
-        ],
-        [
-            "2",
-            "BANKA KOMBETARE TREGTARE SH.A",
-            "PRISTINA",
-            "NCBAXKPR"
-        ],
-        [
-            "3",
-            "BANKA PER BIZNES SH.A.",
-            "PRISTINA",
-            "BPBXXKPR"
-        ],
-        [
-            "4",
-            "CENTRAL BANK OF THE REPUBLIC OF KOSOVO",
-            "PRISTINA",
-            "CBRKXKPR"
-        ],
-        [
-            "5",
-            "NLB PRISHTINA SH.A.",
-            "PRISTINA",
-            "NLPRXKPR"
-        ],
-        [
-            "6",
-            "PROCREDIT BANK KOSOVO (FORMERLY MICRO ENTERPRISE BANK, PRISTINA, KOSOVO)",
-            "PRISTINA",
-            "MBKOXKPR"
-        ],
-        [
-            "7",
-            "RAIFFEISEN BANK KOSOVO",
-            "PRISTINA",
-            "RBKOXKPR"
-        ],
-        [
-            "8",
-            "TEB SHA",
-            "KLINA",
-            "(KLINA)",
-            "TEBKXKPR030"
-        ],
-        [
-            "9",
-            "TEB SHA",
-            "PRISTINA",
-            "(DARDANIA)",
-            "TEBKXKPR020"
-        ],
-        [
-            "10",
-            "TEB SHA",
-            "PRISTINA",
-            "(DRENAS)",
-            "TEBKXKPR024"
-        ],
-        [
-            "11",
-            "TEB SHA",
-            "PRISTINA",
-            "(FERIZAJ)",
-            "TEBKXKPR013"
-        ],
-        [
-            "12",
-            "TEB SHA",
-            "PRISTINA",
-            "(FUSHE KOSOVA)",
-            "TEBKXKPR014"
-        ],
-        [
-            "13",
-            "TEB SHA",
-            "PRISTINA",
-            "(GJAKOVA)",
-            "TEBKXKPR018"
-        ],
-        [
-            "14",
-            "TEB SHA",
-            "PRISTINA",
-            "(GJILAN)",
-            "TEBKXKPR017"
-        ],
-        [
-            "15",
-            "TEB SHA",
-            "PRISTINA",
-            "(HANI ELEZIT)",
-            "TEBKXKPR029"
-        ],
-        [
-            "16",
-            "TEB SHA",
-            "PRISTINA",
-            "(LYPJAN)",
-            "TEBKXKPR026"
-        ],
-        [
-            "17",
-            "TEB SHA",
-            "PRISTINA",
-            "(MAIN)",
-            "TEBKXKPR011"
-        ],
-        [
-            "18",
-            "TEB SHA",
-            "PRISTINA",
-            "(MALISHEVA)",
-            "TEBKXKPR023"
-        ],
-        [
-            "19",
-            "TEB SHA",
-            "PRISTINA",
-            "(MITROVICA)",
-            "TEBKXKPR027"
-        ],
-        [
-            "20",
-            "TEB SHA",
-            "PRISTINA",
-            "(PEJA CITY OFFICE)",
-            "TEBKXKPR031"
-        ],
-        [
-            "21",
-            "TEB SHA",
-            "PRISTINA",
-            "(PEJA)",
-            "TEBKXKPR015"
-        ],
-        [
-            "22",
-            "TEB SHA",
-            "PRISTINA",
-            "(PRISTINA QENDRA)",
-            "TEBKXKPR034"
-        ],
-        [
-            "23",
-            "TEB SHA",
-            "PRISTINA",
-            "(PRIZREN MAIN)",
-            "TEBKXKPR028"
-        ],
-        [
-            "24",
-            "TEB SHA",
-            "PRISTINA",
-            "(QAFA CITY OFFICE)",
-            "TEBKXKPR033"
-        ],
-        [
-            "25",
-            "TEB SHA",
-            "PRISTINA",
-            "(RAHOVEC)",
-            "TEBKXKPR019"
-        ],
-        [
-            "26",
-            "TEB SHA",
-            "PRISTINA",
-            "(SHADERVAN)",
-            "TEBKXKPR012"
-        ],
-        [
-            "27",
-            "TEB SHA",
-            "PRISTINA",
-            "(SKENDERAJ)",
-            "TEBKXKPR022"
-        ],
-        [
-            "28",
-            "TEB SHA",
-            "PRISTINA",
-            "(THERANDA)",
-            "TEBKXKPR025"
-        ],
-        [
-            "29",
-            "TEB SHA",
-            "PRISTINA",
-            "(ULPIANA)",
-            "TEBKXKPR021"
-        ],
-        [
-            "30",
-            "TEB SHA",
-            "PRISTINA",
-            "(VUSHTRRI)",
-            "TEBKXKPR016"
-        ],
-        [
-            "31",
-            "TEB SHA",
-            "PRISTINA",
-            "TEBKXKPR"
-        ],
-        [
-            "32",
-            "TURKIYE IS BANKASI A.S. ALL KOSOVO BRANCHES",
-            "PRISTINA",
-            "ISBKXKPR"
-        ]
+        {
+            "id": "1",
+            "bank": "BANKA EKONOMIKE SH.A",
+            "city": "PRISTINA",
+            "branch": null,
+            "swift_code": "EKOMXKPR"
+        },
+        {
+            "id": "2",
+            "bank": "BANKA KOMBETARE TREGTARE SH.A",
+            "city": "PRISTINA",
+            "branch": null,
+            "swift_code": "NCBAXKPR"
+        },
+        {
+            "id": "3",
+            "bank": "BANKA PER BIZNES SH.A.",
+            "city": "PRISTINA",
+            "branch": null,
+            "swift_code": "BPBXXKPR"
+        },
+        {
+            "id": "4",
+            "bank": "CENTRAL BANK OF THE REPUBLIC OF KOSOVO",
+            "city": "PRISTINA",
+            "branch": null,
+            "swift_code": "CBRKXKPR"
+        },
+        {
+            "id": "5",
+            "bank": "NLB PRISHTINA SH.A.",
+            "city": "PRISTINA",
+            "branch": null,
+            "swift_code": "NLPRXKPR"
+        },
+        {
+            "id": "6",
+            "bank": "PROCREDIT BANK KOSOVO (FORMERLY MICRO ENTERPRISE BANK, PRISTINA, KOSOVO)",
+            "city": "PRISTINA",
+            "branch": null,
+            "swift_code": "MBKOXKPR"
+        },
+        {
+            "id": "7",
+            "bank": "RAIFFEISEN BANK KOSOVO",
+            "city": "PRISTINA",
+            "branch": null,
+            "swift_code": "RBKOXKPR"
+        },
+        {
+            "id": "8",
+            "bank": "TEB SHA",
+            "city": "KLINA",
+            "branch": "(KLINA)",
+            "swift_code": "TEBKXKPR030"
+        },
+        {
+            "id": "9",
+            "bank": "TEB SHA",
+            "city": "PRISTINA",
+            "branch": "(DARDANIA)",
+            "swift_code": "TEBKXKPR020"
+        },
+        {
+            "id": "10",
+            "bank": "TEB SHA",
+            "city": "PRISTINA",
+            "branch": "(DRENAS)",
+            "swift_code": "TEBKXKPR024"
+        },
+        {
+            "id": "11",
+            "bank": "TEB SHA",
+            "city": "PRISTINA",
+            "branch": "(FERIZAJ)",
+            "swift_code": "TEBKXKPR013"
+        },
+        {
+            "id": "12",
+            "bank": "TEB SHA",
+            "city": "PRISTINA",
+            "branch": "(FUSHE KOSOVA)",
+            "swift_code": "TEBKXKPR014"
+        },
+        {
+            "id": "13",
+            "bank": "TEB SHA",
+            "city": "PRISTINA",
+            "branch": "(GJAKOVA)",
+            "swift_code": "TEBKXKPR018"
+        },
+        {
+            "id": "14",
+            "bank": "TEB SHA",
+            "city": "PRISTINA",
+            "branch": "(GJILAN)",
+            "swift_code": "TEBKXKPR017"
+        },
+        {
+            "id": "15",
+            "bank": "TEB SHA",
+            "city": "PRISTINA",
+            "branch": "(HANI ELEZIT)",
+            "swift_code": "TEBKXKPR029"
+        },
+        {
+            "id": "16",
+            "bank": "TEB SHA",
+            "city": "PRISTINA",
+            "branch": "(LYPJAN)",
+            "swift_code": "TEBKXKPR026"
+        },
+        {
+            "id": "17",
+            "bank": "TEB SHA",
+            "city": "PRISTINA",
+            "branch": "(MAIN)",
+            "swift_code": "TEBKXKPR011"
+        },
+        {
+            "id": "18",
+            "bank": "TEB SHA",
+            "city": "PRISTINA",
+            "branch": "(MALISHEVA)",
+            "swift_code": "TEBKXKPR023"
+        },
+        {
+            "id": "19",
+            "bank": "TEB SHA",
+            "city": "PRISTINA",
+            "branch": "(MITROVICA)",
+            "swift_code": "TEBKXKPR027"
+        },
+        {
+            "id": "20",
+            "bank": "TEB SHA",
+            "city": "PRISTINA",
+            "branch": "(PEJA CITY OFFICE)",
+            "swift_code": "TEBKXKPR031"
+        },
+        {
+            "id": "21",
+            "bank": "TEB SHA",
+            "city": "PRISTINA",
+            "branch": "(PEJA)",
+            "swift_code": "TEBKXKPR015"
+        },
+        {
+            "id": "22",
+            "bank": "TEB SHA",
+            "city": "PRISTINA",
+            "branch": "(PRISTINA QENDRA)",
+            "swift_code": "TEBKXKPR034"
+        },
+        {
+            "id": "23",
+            "bank": "TEB SHA",
+            "city": "PRISTINA",
+            "branch": "(PRIZREN MAIN)",
+            "swift_code": "TEBKXKPR028"
+        },
+        {
+            "id": "24",
+            "bank": "TEB SHA",
+            "city": "PRISTINA",
+            "branch": "(QAFA CITY OFFICE)",
+            "swift_code": "TEBKXKPR033"
+        },
+        {
+            "id": "25",
+            "bank": "TEB SHA",
+            "city": "PRISTINA",
+            "branch": "(RAHOVEC)",
+            "swift_code": "TEBKXKPR019"
+        },
+        {
+            "id": "26",
+            "bank": "TEB SHA",
+            "city": "PRISTINA",
+            "branch": "(SHADERVAN)",
+            "swift_code": "TEBKXKPR012"
+        },
+        {
+            "id": "27",
+            "bank": "TEB SHA",
+            "city": "PRISTINA",
+            "branch": "(SKENDERAJ)",
+            "swift_code": "TEBKXKPR022"
+        },
+        {
+            "id": "28",
+            "bank": "TEB SHA",
+            "city": "PRISTINA",
+            "branch": "(THERANDA)",
+            "swift_code": "TEBKXKPR025"
+        },
+        {
+            "id": "29",
+            "bank": "TEB SHA",
+            "city": "PRISTINA",
+            "branch": "(ULPIANA)",
+            "swift_code": "TEBKXKPR021"
+        },
+        {
+            "id": "30",
+            "bank": "TEB SHA",
+            "city": "PRISTINA",
+            "branch": "(VUSHTRRI)",
+            "swift_code": "TEBKXKPR016"
+        },
+        {
+            "id": "31",
+            "bank": "TEB SHA",
+            "city": "PRISTINA",
+            "branch": null,
+            "swift_code": "TEBKXKPR"
+        },
+        {
+            "id": "32",
+            "bank": "TURKIYE IS BANKASI A.S. ALL KOSOVO BRANCHES",
+            "city": "PRISTINA",
+            "branch": null,
+            "swift_code": "ISBKXKPR"
+        }
     ]
 }

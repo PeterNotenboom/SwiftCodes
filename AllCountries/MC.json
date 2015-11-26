@@ -2,168 +2,194 @@
     "country": "Monaco",
     "country_code": "MC",
     "list": [
-        [
-            "1",
-            "ANDBANC MONACO SAM",
-            "MONACO",
-            "BACAMCMC"
-        ],
-        [
-            "2",
-            "BANQUE HAVILLAND (MONACO) S.A.M.",
-            "MONACO",
-            "HAVLMCMX"
-        ],
-        [
-            "3",
-            "BANQUE HAVILLAND (MONACO) S.A.M.",
-            "MONACO",
-            "HAVLMCMXBDF"
-        ],
-        [
-            "4",
-            "BANQUE J. SAFRA SARASIN (MONACO) SA",
-            "MONACO",
-            "(ONLY BANQUE DE FRANCE)",
-            "BJSBMCMXLCO"
-        ],
-        [
-            "5",
-            "BANQUE J. SAFRA SARASIN (MONACO) SA",
-            "MONACO",
-            "BJSBMCMX"
-        ],
-        [
-            "6",
-            "BARCLAYS BANK PLC MONACO",
-            "MONACO",
-            "BARCMCMX"
-        ],
-        [
-            "7",
-            "BNP PARIBAS WEALTH MANAGEMENT MONACO",
-            "MONACO",
-            "BPPBMCMC"
-        ],
-        [
-            "8",
-            "BSI MONACO SAM",
-            "MONACO",
-            "BSILMCMC"
-        ],
-        [
-            "9",
-            "CGM COMPAGNIE DE GESTION PRIVEE MON EGASQUE S.A.M.",
-            "MONACO",
-            "AZFMMCMC"
-        ],
-        [
-            "10",
-            "COMPAGNIE MONEGASQUE DE BANQUE S.A.M.",
-            "MONACO",
-            "CMBMMCMX"
-        ],
-        [
-            "11",
-            "CREDIT FONCIER DE MONACO",
-            "MONACO",
-            "CFMOMCMX"
-        ],
-        [
-            "12",
-            "CREDIT SUISSE (MONACO)",
-            "MONACO",
-            "CRESMCMX"
-        ],
-        [
-            "13",
-            "EDMOND DE ROTHSCHILD-MONACO",
-            "MONACO",
-            "BERLMCMC"
-        ],
-        [
-            "14",
-            "EDMOND DE ROTHSCHILD-MONACO",
-            "MONACO",
-            "BERLMCMCBDF"
-        ],
-        [
-            "15",
-            "EFG BANK (MONACO)",
-            "MONACO",
-            "EFGBMCMC"
-        ],
-        [
-            "16",
-            "FIRST OMEGA SHIPPING INC.",
-            "MONACO",
-            "FOSYMCMC"
-        ],
-        [
-            "17",
-            "G ET G PRIVATE FINANCE SAM",
-            "MONACO",
-            "GNPFMCMC"
-        ],
-        [
-            "18",
-            "HSBC PRIVATE BANK (MONACO) S.A. (FORMERLY HSBC REPUBLIC BANK (MONACO) S.A.)",
-            "MONACO",
-            "BLICMCMC"
-        ],
-        [
-            "19",
-            "HSBC PRIVATE BANK (MONACO) S.A. (FORMERLY HSBC REPUBLIC BANK (MONACO) S.A.)",
-            "MONACO",
-            "BLICMCMCTSY"
-        ],
-        [
-            "20",
-            "JULIUS BAER (MONACO) S.A.M.",
-            "MONACO",
-            "BAERMCMC"
-        ],
-        [
-            "21",
-            "KBL MONACO PRIVATE BANKERS",
-            "MONACO",
-            "KBLXMCMC"
-        ],
-        [
-            "22",
-            "LLOYDS BANK PLC",
-            "MONACO",
-            "LOYDMCMX"
-        ],
-        [
-            "23",
-            "PACIFIC MANAGEMENT SAM",
-            "MONACO",
-            "PMMCMCMC"
-        ],
-        [
-            "24",
-            "SOCIETE GENERALE BANK AND TRUST MONACO",
-            "MONACO",
-            "SGBTMCMC"
-        ],
-        [
-            "25",
-            "UBS (MONACO) S.A.",
-            "MONACO",
-            "UBSWMCMX"
-        ],
-        [
-            "26",
-            "UNION BANCAIRE PRIVEE, UBP SA",
-            "MONACO",
-            "UBPGMCMX"
-        ],
-        [
-            "27",
-            "VENUS MANAGEMENT COMPANY S.A.M.",
-            "MONACO",
-            "VENUMCMC"
-        ]
+        {
+            "id": "1",
+            "bank": "ANDBANC MONACO SAM",
+            "city": "MONACO",
+            "branch": null,
+            "swift_code": "BACAMCMC"
+        },
+        {
+            "id": "2",
+            "bank": "BANQUE HAVILLAND (MONACO) S.A.M.",
+            "city": "MONACO",
+            "branch": null,
+            "swift_code": "HAVLMCMX"
+        },
+        {
+            "id": "3",
+            "bank": "BANQUE HAVILLAND (MONACO) S.A.M.",
+            "city": "MONACO",
+            "branch": null,
+            "swift_code": "HAVLMCMXBDF"
+        },
+        {
+            "id": "4",
+            "bank": "BANQUE J. SAFRA SARASIN (MONACO) SA",
+            "city": "MONACO",
+            "branch": "(ONLY BANQUE DE FRANCE)",
+            "swift_code": "BJSBMCMXLCO"
+        },
+        {
+            "id": "5",
+            "bank": "BANQUE J. SAFRA SARASIN (MONACO) SA",
+            "city": "MONACO",
+            "branch": null,
+            "swift_code": "BJSBMCMX"
+        },
+        {
+            "id": "6",
+            "bank": "BARCLAYS BANK PLC MONACO",
+            "city": "MONACO",
+            "branch": null,
+            "swift_code": "BARCMCMX"
+        },
+        {
+            "id": "7",
+            "bank": "BNP PARIBAS WEALTH MANAGEMENT MONACO",
+            "city": "MONACO",
+            "branch": null,
+            "swift_code": "BPPBMCMC"
+        },
+        {
+            "id": "8",
+            "bank": "BSI MONACO SAM",
+            "city": "MONACO",
+            "branch": null,
+            "swift_code": "BSILMCMC"
+        },
+        {
+            "id": "9",
+            "bank": "CGM COMPAGNIE DE GESTION PRIVEE MON EGASQUE S.A.M.",
+            "city": "MONACO",
+            "branch": null,
+            "swift_code": "AZFMMCMC"
+        },
+        {
+            "id": "10",
+            "bank": "COMPAGNIE MONEGASQUE DE BANQUE S.A.M.",
+            "city": "MONACO",
+            "branch": null,
+            "swift_code": "CMBMMCMX"
+        },
+        {
+            "id": "11",
+            "bank": "CREDIT FONCIER DE MONACO",
+            "city": "MONACO",
+            "branch": null,
+            "swift_code": "CFMOMCMX"
+        },
+        {
+            "id": "12",
+            "bank": "CREDIT SUISSE (MONACO)",
+            "city": "MONACO",
+            "branch": null,
+            "swift_code": "CRESMCMX"
+        },
+        {
+            "id": "13",
+            "bank": "EDMOND DE ROTHSCHILD-MONACO",
+            "city": "MONACO",
+            "branch": null,
+            "swift_code": "BERLMCMC"
+        },
+        {
+            "id": "14",
+            "bank": "EDMOND DE ROTHSCHILD-MONACO",
+            "city": "MONACO",
+            "branch": null,
+            "swift_code": "BERLMCMCBDF"
+        },
+        {
+            "id": "15",
+            "bank": "EFG BANK (MONACO)",
+            "city": "MONACO",
+            "branch": null,
+            "swift_code": "EFGBMCMC"
+        },
+        {
+            "id": "16",
+            "bank": "FIRST OMEGA SHIPPING INC.",
+            "city": "MONACO",
+            "branch": null,
+            "swift_code": "FOSYMCMC"
+        },
+        {
+            "id": "17",
+            "bank": "G ET G PRIVATE FINANCE SAM",
+            "city": "MONACO",
+            "branch": null,
+            "swift_code": "GNPFMCMC"
+        },
+        {
+            "id": "18",
+            "bank": "HSBC PRIVATE BANK (MONACO) S.A. (FORMERLY HSBC REPUBLIC BANK (MONACO) S.A.)",
+            "city": "MONACO",
+            "branch": null,
+            "swift_code": "BLICMCMC"
+        },
+        {
+            "id": "19",
+            "bank": "HSBC PRIVATE BANK (MONACO) S.A. (FORMERLY HSBC REPUBLIC BANK (MONACO) S.A.)",
+            "city": "MONACO",
+            "branch": null,
+            "swift_code": "BLICMCMCTSY"
+        },
+        {
+            "id": "20",
+            "bank": "JULIUS BAER (MONACO) S.A.M.",
+            "city": "MONACO",
+            "branch": null,
+            "swift_code": "BAERMCMC"
+        },
+        {
+            "id": "21",
+            "bank": "KBL MONACO PRIVATE BANKERS",
+            "city": "MONACO",
+            "branch": null,
+            "swift_code": "KBLXMCMC"
+        },
+        {
+            "id": "22",
+            "bank": "LLOYDS BANK PLC",
+            "city": "MONACO",
+            "branch": null,
+            "swift_code": "LOYDMCMX"
+        },
+        {
+            "id": "23",
+            "bank": "PACIFIC MANAGEMENT SAM",
+            "city": "MONACO",
+            "branch": null,
+            "swift_code": "PMMCMCMC"
+        },
+        {
+            "id": "24",
+            "bank": "SOCIETE GENERALE BANK AND TRUST MONACO",
+            "city": "MONACO",
+            "branch": null,
+            "swift_code": "SGBTMCMC"
+        },
+        {
+            "id": "25",
+            "bank": "UBS (MONACO) S.A.",
+            "city": "MONACO",
+            "branch": null,
+            "swift_code": "UBSWMCMX"
+        },
+        {
+            "id": "26",
+            "bank": "UNION BANCAIRE PRIVEE, UBP SA",
+            "city": "MONACO",
+            "branch": null,
+            "swift_code": "UBPGMCMX"
+        },
+        {
+            "id": "27",
+            "bank": "VENUS MANAGEMENT COMPANY S.A.M.",
+            "city": "MONACO",
+            "branch": null,
+            "swift_code": "VENUMCMC"
+        }
     ]
 }

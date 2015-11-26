@@ -2,17 +2,19 @@
     "country": "Vatican City",
     "country_code": "VA",
     "list": [
-        [
-            "1",
-            "AMMINISTRAZIONE DEL PATRIMONIO DELLA SEDE APOSTOLICA",
-            "VATICAN CITY",
-            "APDEVAVA"
-        ],
-        [
-            "2",
-            "ISTITUTO PER LE OPERE DI RELIGIONE",
-            "VATICAN CITY",
-            "IOPRVAVX"
-        ]
+        {
+            "id": "1",
+            "bank": "AMMINISTRAZIONE DEL PATRIMONIO DELLA SEDE APOSTOLICA",
+            "city": "VATICAN CITY",
+            "branch": null,
+            "swift_code": "APDEVAVA"
+        },
+        {
+            "id": "2",
+            "bank": "ISTITUTO PER LE OPERE DI RELIGIONE",
+            "city": "VATICAN CITY",
+            "branch": null,
+            "swift_code": "IOPRVAVX"
+        }
     ]
 }

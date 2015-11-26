@@ -2,125 +2,145 @@
     "country": "Guatemala",
     "country_code": "GT",
     "list": [
-        [
-            "1",
-            "BANCO AGROMERCANTIL DE GUATEMALA, S.A.",
-            "GUATEMALA",
-            "AGROGTGC"
-        ],
-        [
-            "2",
-            "BANCO AMERICA CENTRAL SOCIEDAD ANONIMA",
-            "GUATEMALA",
-            "AMCNGTGT"
-        ],
-        [
-            "3",
-            "BANCO AZTECA DE GUATEMALA",
-            "GUATEMALA",
-            "AZTKGTGC"
-        ],
-        [
-            "4",
-            "BANCO CITIBANK DE GUATEMALA, S.A.",
-            "GUATEMALA",
-            "CITBGTGC"
-        ],
-        [
-            "5",
-            "BANCO DE CREDITO, S.A.",
-            "GUATEMALA",
-            "BDCTGTGT"
-        ],
-        [
-            "6",
-            "BANCO DE GUATEMALA",
-            "GUATEMALA",
-            "BAGUGTGB"
-        ],
-        [
-            "7",
-            "BANCO DE GUATEMALA",
-            "GUATEMALA",
-            "BAGUGTGC"
-        ],
-        [
-            "8",
-            "BANCO DE LOS TRABAJADORES",
-            "GUATEMALA",
-            "TRAJGTGC"
-        ],
-        [
-            "9",
-            "BANCO FICOHSA GUATEMALA",
-            "GUATEMALA",
-            "FCOHGTGC"
-        ],
-        [
-            "10",
-            "BANCO G AND T CONTINENTAL, S.A.",
-            "GUATEMALA",
-            "GTCOGTGC"
-        ],
-        [
-            "11",
-            "BANCO INDUSTRIAL, S.A.",
-            "GUATEMALA",
-            "INDLGTGC"
-        ],
-        [
-            "12",
-            "BANCO INMOBILIARIO, S.A.",
-            "GUATEMALA",
-            "BINMGTGC"
-        ],
-        [
-            "13",
-            "BANCO INTERNACIONAL, S.A.",
-            "GUATEMALA",
-            "DIBIGTGC"
-        ],
-        [
-            "14",
-            "BANCO PROMERICA, S.A.",
-            "GUATEMALA",
-            "BPRCGTGC"
-        ],
-        [
-            "15",
-            "BANCO REFORMADOR, S.A.",
-            "GUATEMALA",
-            "CTRCGTGC"
-        ],
-        [
-            "16",
-            "BANRURAL S.A.",
-            "GUATEMALA",
-            "BRRLGTGC"
-        ],
-        [
-            "17",
-            "CITIBANK N.A. GUATEMALA",
-            "GUATEMALA",
-            "CITIGTGC"
-        ],
-        [
-            "18",
-            "EL CREDITO HIPOTECARIO NACIONAL DE GUATEMALA",
-            "GUATEMALA",
-            "CHNAGTGC"
-        ],
-        [
-            "19",
-            "IMAGENES COMPUTARIZADAS DE GUATEMALA, S. A.",
-            "GUATEMALA",
-            "ICGSGTGC"
-        ],
-        [
-            "20",
-            "OCCIDENTE INTERNATIONAL CORPORATION",
-            "GUATEMALA",
-            "OCICGTGC"
-        ]
+        {
+            "id": "1",
+            "bank": "BANCO AGROMERCANTIL DE GUATEMALA, S.A.",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "AGROGTGC"
+        },
+        {
+            "id": "2",
+            "bank": "BANCO AMERICA CENTRAL SOCIEDAD ANONIMA",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "AMCNGTGT"
+        },
+        {
+            "id": "3",
+            "bank": "BANCO AZTECA DE GUATEMALA",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "AZTKGTGC"
+        },
+        {
+            "id": "4",
+            "bank": "BANCO CITIBANK DE GUATEMALA, S.A.",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "CITBGTGC"
+        },
+        {
+            "id": "5",
+            "bank": "BANCO DE CREDITO, S.A.",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "BDCTGTGT"
+        },
+        {
+            "id": "6",
+            "bank": "BANCO DE GUATEMALA",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "BAGUGTGB"
+        },
+        {
+            "id": "7",
+            "bank": "BANCO DE GUATEMALA",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "BAGUGTGC"
+        },
+        {
+            "id": "8",
+            "bank": "BANCO DE LOS TRABAJADORES",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "TRAJGTGC"
+        },
+        {
+            "id": "9",
+            "bank": "BANCO FICOHSA GUATEMALA",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "FCOHGTGC"
+        },
+        {
+            "id": "10",
+            "bank": "BANCO G AND T CONTINENTAL, S.A.",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "GTCOGTGC"
+        },
+        {
+            "id": "11",
+            "bank": "BANCO INDUSTRIAL, S.A.",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "INDLGTGC"
+        },
+        {
+            "id": "12",
+            "bank": "BANCO INMOBILIARIO, S.A.",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "BINMGTGC"
+        },
+        {
+            "id": "13",
+            "bank": "BANCO INTERNACIONAL, S.A.",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "DIBIGTGC"
+        },
+        {
+            "id": "14",
+            "bank": "BANCO PROMERICA, S.A.",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "BPRCGTGC"
+        },
+        {
+            "id": "15",
+            "bank": "BANCO REFORMADOR, S.A.",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "CTRCGTGC"
+        },
+        {
+            "id": "16",
+            "bank": "BANRURAL S.A.",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "BRRLGTGC"
+        },
+        {
+            "id": "17",
+            "bank": "CITIBANK N.A. GUATEMALA",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "CITIGTGC"
+        },
+        {
+            "id": "18",
+            "bank": "EL CREDITO HIPOTECARIO NACIONAL DE GUATEMALA",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "CHNAGTGC"
+        },
+        {
+            "id": "19",
+            "bank": "IMAGENES COMPUTARIZADAS DE GUATEMALA, S. A.",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "ICGSGTGC"
+        },
+        {
+            "id": "20",
+            "bank": "OCCIDENTE INTERNATIONAL CORPORATION",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "OCICGTGC"
+        }
     ]
 }

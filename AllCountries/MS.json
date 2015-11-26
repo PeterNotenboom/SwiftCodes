@@ -2,23 +2,26 @@
     "country": "Montserrat",
     "country_code": "MS",
     "list": [
-        [
-            "1",
-            "BANK OF MONTSERRAT LIMITED",
-            "ST. PETERS",
-            "BKMOMSMS"
-        ],
-        [
-            "2",
-            "GOVERNMENT OF MONTSERRAT",
-            "BRADES",
-            "GVMSMSMS"
-        ],
-        [
-            "3",
-            "RBC ROYAL BANK OF CANADA",
-            "PLYMOUTH",
-            "ROYCMSMS"
-        ]
+        {
+            "id": "1",
+            "bank": "BANK OF MONTSERRAT LIMITED",
+            "city": "ST. PETERS",
+            "branch": null,
+            "swift_code": "BKMOMSMS"
+        },
+        {
+            "id": "2",
+            "bank": "GOVERNMENT OF MONTSERRAT",
+            "city": "BRADES",
+            "branch": null,
+            "swift_code": "GVMSMSMS"
+        },
+        {
+            "id": "3",
+            "bank": "RBC ROYAL BANK OF CANADA",
+            "city": "PLYMOUTH",
+            "branch": null,
+            "swift_code": "ROYCMSMS"
+        }
     ]
 }

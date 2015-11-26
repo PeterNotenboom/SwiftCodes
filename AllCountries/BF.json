@@ -2,90 +2,103 @@
     "country": "Burkina Faso",
     "country_code": "BF",
     "list": [
-        [
-            "1",
-            "BANK OF AFRICA - BURKINA FASSO",
-            "OUAGADOUGOU",
-            "AFRIBFBF"
-        ],
-        [
-            "2",
-            "BANQUE ATLANTIQUE BURKINA FASO",
-            "OUAGADOUGOU",
-            "ATBFBFBF"
-        ],
-        [
-            "3",
-            "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
-            "BOBO-DIOULASSO",
-            "(BOBO-DIOULASSO BRANCH)",
-            "BCAOBFBFBOB"
-        ],
-        [
-            "4",
-            "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
-            "OUAGADOUGOU",
-            "BCAOBFBF"
-        ],
-        [
-            "5",
-            "BANQUE COMMERCIALE DU BURKINA",
-            "OUAGADOUGOU",
-            "BNCFBFBF"
-        ],
-        [
-            "6",
-            "BANQUE DE L'HABITAT DU BURKINA FASO",
-            "OUAGADOUGOU",
-            "BHBFBFBF"
-        ],
-        [
-            "7",
-            "BANQUE INTERNATIONALE DU BURKINA",
-            "OUAGADOUGOU",
-            "BIBUBFBF"
-        ],
-        [
-            "8",
-            "BANQUE SAHELO-SAHARIENNE POUR L'INVESTISSEMENT ET LE COMMERCE (BURKINA FASO) S.A.",
-            "OUAGADOUGOU",
-            "BSAHBFBF"
-        ],
-        [
-            "9",
-            "BICIA DU BURKINA",
-            "OUAGADOUGOU",
-            "BICIBFBX"
-        ],
-        [
-            "10",
-            "CBAO GROUPE ATTIJARIWAFA BANK BURKINA FASO",
-            "OUAGADOUGOU",
-            "CBAOBFBG"
-        ],
-        [
-            "11",
-            "CORIS BANK INTERNATIONAL",
-            "OUAGADOUGOU",
-            "CORIBFBF"
-        ],
-        [
-            "12",
-            "LA BANQUE AGRICOLE ET COMMERCIALE DU BURKINA (BACB),LA",
-            "OUAGADOUGOU",
-            "CNCBBFBF"
-        ],
-        [
-            "13",
-            "ORABANK BURKINA-FASO",
-            "OUAGADOUGOU",
-            "ORBKBFBF"
-        ],
-        [
-            "14",
-            "SOCIETE GENERALE DE BANQUES AU BURKINA 'SGBB'",
-            "OUAGADOUGOU",
-            "SGBBBFBF"
-        ]
+        {
+            "id": "1",
+            "bank": "BANK OF AFRICA - BURKINA FASSO",
+            "city": "OUAGADOUGOU",
+            "branch": null,
+            "swift_code": "AFRIBFBF"
+        },
+        {
+            "id": "2",
+            "bank": "BANQUE ATLANTIQUE BURKINA FASO",
+            "city": "OUAGADOUGOU",
+            "branch": null,
+            "swift_code": "ATBFBFBF"
+        },
+        {
+            "id": "3",
+            "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
+            "city": "BOBO-DIOULASSO",
+            "branch": "(BOBO-DIOULASSO BRANCH)",
+            "swift_code": "BCAOBFBFBOB"
+        },
+        {
+            "id": "4",
+            "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
+            "city": "OUAGADOUGOU",
+            "branch": null,
+            "swift_code": "BCAOBFBF"
+        },
+        {
+            "id": "5",
+            "bank": "BANQUE COMMERCIALE DU BURKINA",
+            "city": "OUAGADOUGOU",
+            "branch": null,
+            "swift_code": "BNCFBFBF"
+        },
+        {
+            "id": "6",
+            "bank": "BANQUE DE L'HABITAT DU BURKINA FASO",
+            "city": "OUAGADOUGOU",
+            "branch": null,
+            "swift_code": "BHBFBFBF"
+        },
+        {
+            "id": "7",
+            "bank": "BANQUE INTERNATIONALE DU BURKINA",
+            "city": "OUAGADOUGOU",
+            "branch": null,
+            "swift_code": "BIBUBFBF"
+        },
+        {
+            "id": "8",
+            "bank": "BANQUE SAHELO-SAHARIENNE POUR L'INVESTISSEMENT ET LE COMMERCE (BURKINA FASO) S.A.",
+            "city": "OUAGADOUGOU",
+            "branch": null,
+            "swift_code": "BSAHBFBF"
+        },
+        {
+            "id": "9",
+            "bank": "BICIA DU BURKINA",
+            "city": "OUAGADOUGOU",
+            "branch": null,
+            "swift_code": "BICIBFBX"
+        },
+        {
+            "id": "10",
+            "bank": "CBAO GROUPE ATTIJARIWAFA BANK BURKINA FASO",
+            "city": "OUAGADOUGOU",
+            "branch": null,
+            "swift_code": "CBAOBFBG"
+        },
+        {
+            "id": "11",
+            "bank": "CORIS BANK INTERNATIONAL",
+            "city": "OUAGADOUGOU",
+            "branch": null,
+            "swift_code": "CORIBFBF"
+        },
+        {
+            "id": "12",
+            "bank": "LA BANQUE AGRICOLE ET COMMERCIALE DU BURKINA (BACB),LA",
+            "city": "OUAGADOUGOU",
+            "branch": null,
+            "swift_code": "CNCBBFBF"
+        },
+        {
+            "id": "13",
+            "bank": "ORABANK BURKINA-FASO",
+            "city": "OUAGADOUGOU",
+            "branch": null,
+            "swift_code": "ORBKBFBF"
+        },
+        {
+            "id": "14",
+            "bank": "SOCIETE GENERALE DE BANQUES AU BURKINA 'SGBB'",
+            "city": "OUAGADOUGOU",
+            "branch": null,
+            "swift_code": "SGBBBFBF"
+        }
     ]
 }

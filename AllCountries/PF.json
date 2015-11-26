@@ -2,23 +2,26 @@
     "country": "French Polynesia",
     "country_code": "PF",
     "list": [
-        [
-            "1",
-            "BANQUE DE POLYNESIE",
-            "PAPEETE",
-            "BPOLPFTP"
-        ],
-        [
-            "2",
-            "BANQUE DE TAHITI S.A.",
-            "PAPEETE",
-            "CEPAPFTP"
-        ],
-        [
-            "3",
-            "SOCREDO",
-            "PAPEETE",
-            "SOCBPFTX"
-        ]
+        {
+            "id": "1",
+            "bank": "BANQUE DE POLYNESIE",
+            "city": "PAPEETE",
+            "branch": null,
+            "swift_code": "BPOLPFTP"
+        },
+        {
+            "id": "2",
+            "bank": "BANQUE DE TAHITI S.A.",
+            "city": "PAPEETE",
+            "branch": null,
+            "swift_code": "CEPAPFTP"
+        },
+        {
+            "id": "3",
+            "bank": "SOCREDO",
+            "city": "PAPEETE",
+            "branch": null,
+            "swift_code": "SOCBPFTX"
+        }
     ]
 }

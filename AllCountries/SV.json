@@ -2,85 +2,96 @@
     "country": "El Salvador",
     "country_code": "SV",
     "list": [
-        [
-            "1",
-            "BANCO CITIBANK DE EL SALVADOR S.A.",
-            "SAN SALVADOR",
-            "BACUSVSS"
-        ],
-        [
-            "2",
-            "BANCO CITIBANK DE EL SALVADOR S.A.",
-            "SAN SALVADOR",
-            "(NOSTRO ACCOUNT)",
-            "BACUSVSSNOS"
-        ],
-        [
-            "3",
-            "BANCO DE AMERICA CENTRAL, S.A.",
-            "SAN SALVADOR",
-            "BAMCSVSS"
-        ],
-        [
-            "4",
-            "BANCO HIPOTECARIO DE EL SALVADOR S.A.",
-            "SAN SALVADOR",
-            "BHSASVSS"
-        ],
-        [
-            "5",
-            "BANCO PROMERICA, S.A.",
-            "ANTIGUO CUSCATLAN",
-            "BPRASVSS"
-        ],
-        [
-            "6",
-            "BANCO DAVIVIENDA SALVADORENO SA",
-            "SAN SALVADOR",
-            "BSALSVSS"
-        ],
-        [
-            "7",
-            "BANCO AGRICOLA, S.A.",
-            "SAN SALVADOR",
-            "CAGRSVSS"
-        ],
-        [
-            "8",
-            "BANCO CENTRAL DE RESERVA DE EL SALVADOR",
-            "SAN SALVADOR",
-            "CENRSVSS"
-        ],
-        [
-            "9",
-            "BANCO CENTRAL DE RESERVA DE EL SALVADOR",
-            "SAN SALVADOR",
-            "(GERENCIA DE TESORERIA)",
-            "CENRSVSSGTE"
-        ],
-        [
-            "10",
-            "BANCO G AND T CONTINENTAL EL SALVADOR",
-            "SAN SALVADOR",
-            "GTCSSVSS"
-        ],
-        [
-            "11",
-            "BANCO INDUSTRIAL EL SALVADOR, S.A.",
-            "SAN SALVADOR",
-            "INDLSVSS"
-        ],
-        [
-            "12",
-            "BANCO PROCREDIT, S.A.",
-            "SAN SALVADOR",
-            "PRCBSVSS"
-        ],
-        [
-            "13",
-            "SCOTIABANK EL SALVADOR, S.A.",
-            "SAN SALVADOR",
-            "BCSASVSS"
-        ]
+        {
+            "id": "1",
+            "bank": "BANCO CITIBANK DE EL SALVADOR S.A.",
+            "city": "SAN SALVADOR",
+            "branch": null,
+            "swift_code": "BACUSVSS"
+        },
+        {
+            "id": "2",
+            "bank": "BANCO CITIBANK DE EL SALVADOR S.A.",
+            "city": "SAN SALVADOR",
+            "branch": "(NOSTRO ACCOUNT)",
+            "swift_code": "BACUSVSSNOS"
+        },
+        {
+            "id": "3",
+            "bank": "BANCO DE AMERICA CENTRAL, S.A.",
+            "city": "SAN SALVADOR",
+            "branch": null,
+            "swift_code": "BAMCSVSS"
+        },
+        {
+            "id": "4",
+            "bank": "BANCO HIPOTECARIO DE EL SALVADOR S.A.",
+            "city": "SAN SALVADOR",
+            "branch": null,
+            "swift_code": "BHSASVSS"
+        },
+        {
+            "id": "5",
+            "bank": "BANCO PROMERICA, S.A.",
+            "city": "ANTIGUO CUSCATLAN",
+            "branch": null,
+            "swift_code": "BPRASVSS"
+        },
+        {
+            "id": "6",
+            "bank": "BANCO DAVIVIENDA SALVADORENO SA",
+            "city": "SAN SALVADOR",
+            "branch": null,
+            "swift_code": "BSALSVSS"
+        },
+        {
+            "id": "7",
+            "bank": "BANCO AGRICOLA, S.A.",
+            "city": "SAN SALVADOR",
+            "branch": null,
+            "swift_code": "CAGRSVSS"
+        },
+        {
+            "id": "8",
+            "bank": "BANCO CENTRAL DE RESERVA DE EL SALVADOR",
+            "city": "SAN SALVADOR",
+            "branch": null,
+            "swift_code": "CENRSVSS"
+        },
+        {
+            "id": "9",
+            "bank": "BANCO CENTRAL DE RESERVA DE EL SALVADOR",
+            "city": "SAN SALVADOR",
+            "branch": "(GERENCIA DE TESORERIA)",
+            "swift_code": "CENRSVSSGTE"
+        },
+        {
+            "id": "10",
+            "bank": "BANCO G AND T CONTINENTAL EL SALVADOR",
+            "city": "SAN SALVADOR",
+            "branch": null,
+            "swift_code": "GTCSSVSS"
+        },
+        {
+            "id": "11",
+            "bank": "BANCO INDUSTRIAL EL SALVADOR, S.A.",
+            "city": "SAN SALVADOR",
+            "branch": null,
+            "swift_code": "INDLSVSS"
+        },
+        {
+            "id": "12",
+            "bank": "BANCO PROCREDIT, S.A.",
+            "city": "SAN SALVADOR",
+            "branch": null,
+            "swift_code": "PRCBSVSS"
+        },
+        {
+            "id": "13",
+            "bank": "SCOTIABANK EL SALVADOR, S.A.",
+            "city": "SAN SALVADOR",
+            "branch": null,
+            "swift_code": "BCSASVSS"
+        }
     ]
 }

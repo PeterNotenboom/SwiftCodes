@@ -2,59 +2,68 @@
     "country": "Jamaica",
     "country_code": "JM",
     "list": [
-        [
-            "1",
-            "BANK OF JAMAICA",
-            "KINGSTON",
-            "BAJAJMKN"
-        ],
-        [
-            "2",
-            "BANK OF NOVA SCOTIA JAMAICA LTD., THE",
-            "KINGSTON",
-            "NOSCJMKN"
-        ],
-        [
-            "3",
-            "FIRST GLOBAL BANK LIMITED",
-            "KINGSTON",
-            "FILBJMKN"
-        ],
-        [
-            "4",
-            "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA) LIMITED",
-            "KINGSTON",
-            "FCIBJMKN"
-        ],
-        [
-            "5",
-            "JAMAICA NATIONAL BUILDING SOCIETY",
-            "KINGSTON",
-            "JNBSJMKN"
-        ],
-        [
-            "6",
-            "NATIONAL COMMERCIAL BANK JAMAICA LIMITED",
-            "KINGSTON",
-            "JNCBJMKX"
-        ],
-        [
-            "7",
-            "NATIONAL EXPORT-IMPORT BANK OF JAMAICA LIMITED",
-            "KINGSTON",
-            "NAEBJMKI"
-        ],
-        [
-            "8",
-            "SAGICOR BANK JAMAICA LIMITED",
-            "KINGSTON",
-            "SAJAJMKN"
-        ],
-        [
-            "9",
-            "SCOTIA INVESTMENTS JAMAICA LTD",
-            "KINGSTON",
-            "SCNJJMKN"
-        ]
+        {
+            "id": "1",
+            "bank": "BANK OF JAMAICA",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "BAJAJMKN"
+        },
+        {
+            "id": "2",
+            "bank": "BANK OF NOVA SCOTIA JAMAICA LTD., THE",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "NOSCJMKN"
+        },
+        {
+            "id": "3",
+            "bank": "FIRST GLOBAL BANK LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "FILBJMKN"
+        },
+        {
+            "id": "4",
+            "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA) LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "FCIBJMKN"
+        },
+        {
+            "id": "5",
+            "bank": "JAMAICA NATIONAL BUILDING SOCIETY",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "JNBSJMKN"
+        },
+        {
+            "id": "6",
+            "bank": "NATIONAL COMMERCIAL BANK JAMAICA LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "JNCBJMKX"
+        },
+        {
+            "id": "7",
+            "bank": "NATIONAL EXPORT-IMPORT BANK OF JAMAICA LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "NAEBJMKI"
+        },
+        {
+            "id": "8",
+            "bank": "SAGICOR BANK JAMAICA LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "SAJAJMKN"
+        },
+        {
+            "id": "9",
+            "bank": "SCOTIA INVESTMENTS JAMAICA LTD",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "SCNJJMKN"
+        }
     ]
 }

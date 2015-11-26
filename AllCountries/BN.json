@@ -2,53 +2,61 @@
     "country": "Brunei",
     "country_code": "BN",
     "list": [
-        [
-            "1",
-            "BAIDURI BANK BERHAD",
-            "BANDAR SERI BEGAWAN",
-            "BAIDBNBB"
-        ],
-        [
-            "2",
-            "BANK ISLAM BRUNEI DARUSSALAM BERHAD (BIBD)",
-            "BANDAR SERI BEGAWAN",
-            "BIBDBNBB"
-        ],
-        [
-            "3",
-            "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
-            "BANDAR SERI BEGAWAN",
-            "HSBCBNBB"
-        ],
-        [
-            "4",
-            "MALAYAN BANKING BERHAD",
-            "BANDAR SERI BEGAWAN",
-            "MBBEBNBB"
-        ],
-        [
-            "5",
-            "PERBADANAN TABUNG AMANAH ISLAM BRUNEI",
-            "BANDAR SERI BEGAWAN",
-            "PTAIBNBB"
-        ],
-        [
-            "6",
-            "RHB BANK BERHAD, BRUNEI",
-            "BANDAR SERI BEGAWAN",
-            "RHBBBNBB"
-        ],
-        [
-            "7",
-            "STANDARD CHARTERED BANK - BRUNEI",
-            "BANDAR SERI BEGAWAN",
-            "SCBLBNBB"
-        ],
-        [
-            "8",
-            "UNITED OVERSEAS BANK LTD",
-            "BANDAR SERI BEGAWAN",
-            "UOVBBNBB"
-        ]
+        {
+            "id": "1",
+            "bank": "BAIDURI BANK BERHAD",
+            "city": "BANDAR SERI BEGAWAN",
+            "branch": null,
+            "swift_code": "BAIDBNBB"
+        },
+        {
+            "id": "2",
+            "bank": "BANK ISLAM BRUNEI DARUSSALAM BERHAD (BIBD)",
+            "city": "BANDAR SERI BEGAWAN",
+            "branch": null,
+            "swift_code": "BIBDBNBB"
+        },
+        {
+            "id": "3",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "city": "BANDAR SERI BEGAWAN",
+            "branch": null,
+            "swift_code": "HSBCBNBB"
+        },
+        {
+            "id": "4",
+            "bank": "MALAYAN BANKING BERHAD",
+            "city": "BANDAR SERI BEGAWAN",
+            "branch": null,
+            "swift_code": "MBBEBNBB"
+        },
+        {
+            "id": "5",
+            "bank": "PERBADANAN TABUNG AMANAH ISLAM BRUNEI",
+            "city": "BANDAR SERI BEGAWAN",
+            "branch": null,
+            "swift_code": "PTAIBNBB"
+        },
+        {
+            "id": "6",
+            "bank": "RHB BANK BERHAD, BRUNEI",
+            "city": "BANDAR SERI BEGAWAN",
+            "branch": null,
+            "swift_code": "RHBBBNBB"
+        },
+        {
+            "id": "7",
+            "bank": "STANDARD CHARTERED BANK - BRUNEI",
+            "city": "BANDAR SERI BEGAWAN",
+            "branch": null,
+            "swift_code": "SCBLBNBB"
+        },
+        {
+            "id": "8",
+            "bank": "UNITED OVERSEAS BANK LTD",
+            "city": "BANDAR SERI BEGAWAN",
+            "branch": null,
+            "swift_code": "UOVBBNBB"
+        }
     ]
 }

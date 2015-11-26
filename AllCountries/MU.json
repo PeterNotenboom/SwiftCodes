@@ -2,235 +2,264 @@
     "country": "Mauritius",
     "country_code": "MU",
     "list": [
-        [
-            "1",
-            "ABC BANKING CORPORATION LTD",
-            "PORT LOUIS",
-            "ABCKMUMU"
-        ],
-        [
-            "2",
-            "AFRASIA BANK LIMITED",
-            "EBENE",
-            "(EBENE BRANCH)",
-            "AFBLMUMU101"
-        ],
-        [
-            "3",
-            "AFRASIA BANK LIMITED",
-            "PORT LOUIS",
-            "AFBLMUMU"
-        ],
-        [
-            "4",
-            "BANK INTERNASIONAL INDONESIA",
-            "PORT LOUIS",
-            "IBBKMUMU"
-        ],
-        [
-            "5",
-            "BANK OF BARODA",
-            "PORT LOUIS",
-            "(OFFSHORE BANKING UNIT)",
-            "BARBMUMUOBU"
-        ],
-        [
-            "6",
-            "BANK OF BARODA",
-            "PORT LOUIS",
-            "BARBMUMU"
-        ],
-        [
-            "7",
-            "BANK OF MAURITIUS",
-            "PORT LOUIS",
-            "BOMMMUPL"
-        ],
-        [
-            "8",
-            "BANK ONE LTD",
-            "PORT LOUIS",
-            "BKONMUMU"
-        ],
-        [
-            "9",
-            "BANQUE DES MASCAREIGNES LTEE",
-            "PORT LOUIS",
-            "BAIMMUMU"
-        ],
-        [
-            "10",
-            "BANYANTREE BANK LIMITED",
-            "CYBER CITY",
-            "BTBLMUMU"
-        ],
-        [
-            "11",
-            "BARCLAYS BANK MAURITIUS LTD",
-            "EBENE",
-            "BARCMUMU"
-        ],
-        [
-            "12",
-            "BARCLAYS BANK MAURITIUS LTD",
-            "PORT LOUIS",
-            "(M.A.F.E.X BRANCH)",
-            "BARCMUMUMAF"
-        ],
-        [
-            "13",
-            "BARCLAYS BANK MAURITIUS LTD",
-            "PORT LOUIS",
-            "(MAURITIUS OFFSHORE BANKING UNIT)",
-            "BARCMUMUOBU"
-        ],
-        [
-            "14",
-            "BRAMER BANKING CORPORATION LTD",
-            "PORT LOUIS",
-            "BBCLMUMU"
-        ],
-        [
-            "15",
-            "CENTURY BANKING CORPORATION LTD",
-            "PORT LOUIS",
-            "CBCLMUMU"
-        ],
-        [
-            "16",
-            "COUNTINGHOUSE LIMITED",
-            "EBENE",
-            "CHSLMUMU"
-        ],
-        [
-            "17",
-            "DEUTSCHE BANK (MAURITIUS) LTD",
-            "PORT LOUIS",
-            "DBMLMUMU"
-        ],
-        [
-            "18",
-            "DEUTSCHE SECURITIES MAURITIUS LTD",
-            "PORT LOUIS",
-            "DEUTMUML"
-        ],
-        [
-            "19",
-            "DUNEARN INVESTMENTS (MAURITIUS) PTE LTD",
-            "PORT LOUIS",
-            "DEIMMUMU"
-        ],
-        [
-            "20",
-            "HABIB BANK LTD MAURITIUS",
-            "PORT LOUIS",
-            "HABBMUMU"
-        ],
-        [
-            "21",
-            "HONGKONG AND SHANGHAI BANKING CORPORATION LTD., THE",
-            "EBENE",
-            "(HBMU BRANCH)",
-            "HSBCMUMUOBU"
-        ],
-        [
-            "22",
-            "HONGKONG AND SHANGHAI BANKING CORPORATION LTD., THE",
-            "EBENE",
-            "HSBCMUMU"
-        ],
-        [
-            "23",
-            "IHS HOLDING LIMITED",
-            "PORT LOUIS",
-            "IHSAMUMU"
-        ],
-        [
-            "24",
-            "INVESTEC BANK (MAURITIUS) LIMITED",
-            "PORT LOUIS",
-            "IVESMUMU"
-        ],
-        [
-            "25",
-            "MATCO LIMITED",
-            "CYBER CITY",
-            "MTTCMUMM"
-        ],
-        [
-            "26",
-            "MAURITIUS COMMERCIAL BANK LTD., THE",
-            "PORT LOUIS",
-            "MCBLMUMU"
-        ],
-        [
-            "27",
-            "MAURITIUS POST AND COOPERATIVE BANK LTD",
-            "PORT LOUIS",
-            "MPCBMUMU"
-        ],
-        [
-            "28",
-            "NOMURA MAURITIUS LIMITED",
-            "PORT LOUIS",
-            "NOMAMUMU"
-        ],
-        [
-            "29",
-            "PROVIDENCE LIFE LIMITED, PCC",
-            "EBENE",
-            "PLLPMUMU"
-        ],
-        [
-            "30",
-            "SBI (MAURITIUS) LTD",
-            "PORT LOUIS",
-            "(WILLIAM NEWTON STREET)",
-            "INILMUMU101"
-        ],
-        [
-            "31",
-            "SBI (MAURITIUS) LTD",
-            "PORT LOUIS",
-            "INILMUMU"
-        ],
-        [
-            "32",
-            "SBM BANK(MAURITIUS)LTD",
-            "PORT LOUIS",
-            "STCBMUMU"
-        ],
-        [
-            "33",
-            "STANDARD BANK (MAURITIUS) LIMITED",
-            "EBENE",
-            "SBICMUMU"
-        ],
-        [
-            "34",
-            "STANDARD CHARTERED BANK (MAURITIUS) LTD",
-            "EBENE",
-            "(SECURITIES SERVICES UNIT)",
-            "SCBLMUMUSSU"
-        ],
-        [
-            "35",
-            "STANDARD CHARTERED BANK (MAURITIUS) LTD",
-            "EBENE",
-            "SCBLMUMU"
-        ],
-        [
-            "36",
-            "STANDARD CHARTERED BANK (MAURITIUS) LTD",
-            "PORT LOUIS",
-            "SCBLMUMUZOP"
-        ],
-        [
-            "37",
-            "WARWYCK PRIVATE BANK LTD",
-            "EBENE",
-            "(FM ASSET SERVICING)",
-            "WPBLMUMU"
-        ]
+        {
+            "id": "1",
+            "bank": "ABC BANKING CORPORATION LTD",
+            "city": "PORT LOUIS",
+            "branch": null,
+            "swift_code": "ABCKMUMU"
+        },
+        {
+            "id": "2",
+            "bank": "AFRASIA BANK LIMITED",
+            "city": "EBENE",
+            "branch": "(EBENE BRANCH)",
+            "swift_code": "AFBLMUMU101"
+        },
+        {
+            "id": "3",
+            "bank": "AFRASIA BANK LIMITED",
+            "city": "PORT LOUIS",
+            "branch": null,
+            "swift_code": "AFBLMUMU"
+        },
+        {
+            "id": "4",
+            "bank": "BANK INTERNASIONAL INDONESIA",
+            "city": "PORT LOUIS",
+            "branch": null,
+            "swift_code": "IBBKMUMU"
+        },
+        {
+            "id": "5",
+            "bank": "BANK OF BARODA",
+            "city": "PORT LOUIS",
+            "branch": "(OFFSHORE BANKING UNIT)",
+            "swift_code": "BARBMUMUOBU"
+        },
+        {
+            "id": "6",
+            "bank": "BANK OF BARODA",
+            "city": "PORT LOUIS",
+            "branch": null,
+            "swift_code": "BARBMUMU"
+        },
+        {
+            "id": "7",
+            "bank": "BANK OF MAURITIUS",
+            "city": "PORT LOUIS",
+            "branch": null,
+            "swift_code": "BOMMMUPL"
+        },
+        {
+            "id": "8",
+            "bank": "BANK ONE LTD",
+            "city": "PORT LOUIS",
+            "branch": null,
+            "swift_code": "BKONMUMU"
+        },
+        {
+            "id": "9",
+            "bank": "BANQUE DES MASCAREIGNES LTEE",
+            "city": "PORT LOUIS",
+            "branch": null,
+            "swift_code": "BAIMMUMU"
+        },
+        {
+            "id": "10",
+            "bank": "BANYANTREE BANK LIMITED",
+            "city": "CYBER CITY",
+            "branch": null,
+            "swift_code": "BTBLMUMU"
+        },
+        {
+            "id": "11",
+            "bank": "BARCLAYS BANK MAURITIUS LTD",
+            "city": "EBENE",
+            "branch": null,
+            "swift_code": "BARCMUMU"
+        },
+        {
+            "id": "12",
+            "bank": "BARCLAYS BANK MAURITIUS LTD",
+            "city": "PORT LOUIS",
+            "branch": "(M.A.F.E.X BRANCH)",
+            "swift_code": "BARCMUMUMAF"
+        },
+        {
+            "id": "13",
+            "bank": "BARCLAYS BANK MAURITIUS LTD",
+            "city": "PORT LOUIS",
+            "branch": "(MAURITIUS OFFSHORE BANKING UNIT)",
+            "swift_code": "BARCMUMUOBU"
+        },
+        {
+            "id": "14",
+            "bank": "BRAMER BANKING CORPORATION LTD",
+            "city": "PORT LOUIS",
+            "branch": null,
+            "swift_code": "BBCLMUMU"
+        },
+        {
+            "id": "15",
+            "bank": "CENTURY BANKING CORPORATION LTD",
+            "city": "PORT LOUIS",
+            "branch": null,
+            "swift_code": "CBCLMUMU"
+        },
+        {
+            "id": "16",
+            "bank": "COUNTINGHOUSE LIMITED",
+            "city": "EBENE",
+            "branch": null,
+            "swift_code": "CHSLMUMU"
+        },
+        {
+            "id": "17",
+            "bank": "DEUTSCHE BANK (MAURITIUS) LTD",
+            "city": "PORT LOUIS",
+            "branch": null,
+            "swift_code": "DBMLMUMU"
+        },
+        {
+            "id": "18",
+            "bank": "DEUTSCHE SECURITIES MAURITIUS LTD",
+            "city": "PORT LOUIS",
+            "branch": null,
+            "swift_code": "DEUTMUML"
+        },
+        {
+            "id": "19",
+            "bank": "DUNEARN INVESTMENTS (MAURITIUS) PTE LTD",
+            "city": "PORT LOUIS",
+            "branch": null,
+            "swift_code": "DEIMMUMU"
+        },
+        {
+            "id": "20",
+            "bank": "HABIB BANK LTD MAURITIUS",
+            "city": "PORT LOUIS",
+            "branch": null,
+            "swift_code": "HABBMUMU"
+        },
+        {
+            "id": "21",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LTD., THE",
+            "city": "EBENE",
+            "branch": "(HBMU BRANCH)",
+            "swift_code": "HSBCMUMUOBU"
+        },
+        {
+            "id": "22",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LTD., THE",
+            "city": "EBENE",
+            "branch": null,
+            "swift_code": "HSBCMUMU"
+        },
+        {
+            "id": "23",
+            "bank": "IHS HOLDING LIMITED",
+            "city": "PORT LOUIS",
+            "branch": null,
+            "swift_code": "IHSAMUMU"
+        },
+        {
+            "id": "24",
+            "bank": "INVESTEC BANK (MAURITIUS) LIMITED",
+            "city": "PORT LOUIS",
+            "branch": null,
+            "swift_code": "IVESMUMU"
+        },
+        {
+            "id": "25",
+            "bank": "MATCO LIMITED",
+            "city": "CYBER CITY",
+            "branch": null,
+            "swift_code": "MTTCMUMM"
+        },
+        {
+            "id": "26",
+            "bank": "MAURITIUS COMMERCIAL BANK LTD., THE",
+            "city": "PORT LOUIS",
+            "branch": null,
+            "swift_code": "MCBLMUMU"
+        },
+        {
+            "id": "27",
+            "bank": "MAURITIUS POST AND COOPERATIVE BANK LTD",
+            "city": "PORT LOUIS",
+            "branch": null,
+            "swift_code": "MPCBMUMU"
+        },
+        {
+            "id": "28",
+            "bank": "NOMURA MAURITIUS LIMITED",
+            "city": "PORT LOUIS",
+            "branch": null,
+            "swift_code": "NOMAMUMU"
+        },
+        {
+            "id": "29",
+            "bank": "PROVIDENCE LIFE LIMITED, PCC",
+            "city": "EBENE",
+            "branch": null,
+            "swift_code": "PLLPMUMU"
+        },
+        {
+            "id": "30",
+            "bank": "SBI (MAURITIUS) LTD",
+            "city": "PORT LOUIS",
+            "branch": "(WILLIAM NEWTON STREET)",
+            "swift_code": "INILMUMU101"
+        },
+        {
+            "id": "31",
+            "bank": "SBI (MAURITIUS) LTD",
+            "city": "PORT LOUIS",
+            "branch": null,
+            "swift_code": "INILMUMU"
+        },
+        {
+            "id": "32",
+            "bank": "SBM BANK(MAURITIUS)LTD",
+            "city": "PORT LOUIS",
+            "branch": null,
+            "swift_code": "STCBMUMU"
+        },
+        {
+            "id": "33",
+            "bank": "STANDARD BANK (MAURITIUS) LIMITED",
+            "city": "EBENE",
+            "branch": null,
+            "swift_code": "SBICMUMU"
+        },
+        {
+            "id": "34",
+            "bank": "STANDARD CHARTERED BANK (MAURITIUS) LTD",
+            "city": "EBENE",
+            "branch": "(SECURITIES SERVICES UNIT)",
+            "swift_code": "SCBLMUMUSSU"
+        },
+        {
+            "id": "35",
+            "bank": "STANDARD CHARTERED BANK (MAURITIUS) LTD",
+            "city": "EBENE",
+            "branch": null,
+            "swift_code": "SCBLMUMU"
+        },
+        {
+            "id": "36",
+            "bank": "STANDARD CHARTERED BANK (MAURITIUS) LTD",
+            "city": "PORT LOUIS",
+            "branch": null,
+            "swift_code": "SCBLMUMUZOP"
+        },
+        {
+            "id": "37",
+            "bank": "WARWYCK PRIVATE BANK LTD",
+            "city": "EBENE",
+            "branch": "(FM ASSET SERVICING)",
+            "swift_code": "WPBLMUMU"
+        }
     ]
 }

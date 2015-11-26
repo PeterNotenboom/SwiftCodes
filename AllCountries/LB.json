@@ -2,622 +2,712 @@
     "country": "Lebanon",
     "country_code": "LB",
     "list": [
-        [
-            "1",
-            "AHLI INTERNATIONAL BANK SAL",
-            "BEIRUT",
-            "JNBBLBBE"
-        ],
-        [
-            "2",
-            "AL BARAKA BANK S.A.L.",
-            "BEIRUT",
-            "ALCVLBBE"
-        ],
-        [
-            "3",
-            "AL BILAD ISLAMIC BANK FOR INVESTMENT AND FINANCE PSC",
-            "BEIRUT",
-            "AIIFLBBE"
-        ],
-        [
-            "4",
-            "AL MAWARID BANK S.A.L.",
-            "BEIRUT",
-            "MABALBBE"
-        ],
-        [
-            "5",
-            "ARAB AFRICAN INTERNATIONAL BANK",
-            "BEIRUT",
-            "ARAILBBE"
-        ],
-        [
-            "6",
-            "ARAB BANK PLC",
-            "BEIRUT",
-            "(LEBANON BRANCHES CENTRE)",
-            "ARABLBBX"
-        ],
-        [
-            "7",
-            "ARAB BANK PLC",
-            "BEIRUT",
-            "(TREASURY BACKOFFICE)",
-            "ARABLBBXTBO"
-        ],
-        [
-            "8",
-            "ARAB BANK PLC",
-            "SHYAH",
-            "(SHYAH BRANCH)",
-            "ARABLBBX0B7"
-        ],
-        [
-            "9",
-            "ARAB BANK PLC",
-            "SIN EL-FIL",
-            "(SIN EL-FIL BRANCH)",
-            "ARABLBBX0B8"
-        ],
-        [
-            "10",
-            "ARAB FINANCE CORPORATION SAL",
-            "BEIRUT",
-            "AFCOLBBE"
-        ],
-        [
-            "11",
-            "ARAB FINANCE HOUSE SAL (ISLAMIC BANK)",
-            "BEIRUT",
-            "AFHOLBBE"
-        ],
-        [
-            "12",
-            "ARAB INVESTMENT BANK SAL",
-            "BEIRUT",
-            "ARBVLBBE"
-        ],
-        [
-            "13",
-            "AUDI INVESTMENT BANK S.A.L.",
-            "BEIRUT",
-            "AUSILBBE"
-        ],
-        [
-            "14",
-            "AUDI PRIVATE BANK S.A.L.",
-            "BEIRUT",
-            "BSARLBBX"
-        ],
-        [
-            "15",
-            "B.L.C. BANK S.A.L.",
-            "BEIRUT",
-            "LICOLBBX"
-        ],
-        [
-            "16",
-            "BANK AUDI S.A.L.",
-            "BEIRUT",
-            "AUDBLBBX"
-        ],
-        [
-            "17",
-            "BANK OF BAGHDAD",
-            "BEIRUT",
-            "BABILBBE"
-        ],
-        [
-            "18",
-            "BANK OF BEIRUT INVEST S.A.L",
-            "BEIRUT",
-            "BOBPLBBE"
-        ],
-        [
-            "19",
-            "BANK OF BEIRUT S.A.L.",
-            "BEIRUT",
-            "BABELBBE"
-        ],
-        [
-            "20",
-            "BANKMED,SAL",
-            "BEIRUT",
-            "MEDLLBBX"
-        ],
-        [
-            "21",
-            "BANQUE BEMO SAL",
-            "BEIRUT",
-            "EUMOLBBE"
-        ],
-        [
-            "22",
-            "BANQUE DE CREDIT NATIONAL S.A.L.",
-            "BEIRUT",
-            "BCNBLBBE"
-        ],
-        [
-            "23",
-            "BANQUE DE L'HABITAT S.A.L.",
-            "BEIRUT",
-            "LHBALBBX"
-        ],
-        [
-            "24",
-            "BANQUE DE L'INDUSTRIE ET DU TRAVAIL S.A.L.",
-            "BEIRUT",
-            "BTLVLBBE"
-        ],
-        [
-            "25",
-            "BANQUE DU LIBAN",
-            "BEIRUT",
-            "(ACCOUNTING DEPARTMENT)",
-            "BDLCLBBXACD"
-        ],
-        [
-            "26",
-            "BANQUE DU LIBAN",
-            "BEIRUT",
-            "(CURRENT OPERATIONS DEPARTMENT)",
-            "BDLCLBBXCOD"
-        ],
-        [
-            "27",
-            "BANQUE DU LIBAN",
-            "BEIRUT",
-            "(FINANCIAL OPERATIONS DEPARTMENT)",
-            "BDLCLBBXFOD"
-        ],
-        [
-            "28",
-            "BANQUE DU LIBAN",
-            "BEIRUT",
-            "(FOREIGN EXCHANGE DEPARTMENT)",
-            "BDLCLBBXFXD"
-        ],
-        [
-            "29",
-            "BANQUE DU LIBAN",
-            "BEIRUT",
-            "(MINISTRY OF FINANCE - TREASURY AND PUBLIC DEBT DIRECTORATE)",
-            "BDLCLBBXMOF"
-        ],
-        [
-            "30",
-            "BANQUE DU LIBAN",
-            "BEIRUT",
-            "BDLCLBBA"
-        ],
-        [
-            "31",
-            "BANQUE DU LIBAN",
-            "BEIRUT",
-            "BDLCLBBC"
-        ],
-        [
-            "32",
-            "BANQUE DU LIBAN",
-            "BEIRUT",
-            "BDLCLBBG"
-        ],
-        [
-            "33",
-            "BANQUE DU LIBAN",
-            "BEIRUT",
-            "BDLCLBBX"
-        ],
-        [
-            "34",
-            "BANQUE DU LIBAN",
-            "BEIRUT",
-            "BDLCLBBXASA"
-        ],
-        [
-            "35",
-            "BANQUE DU LIBAN",
-            "BEIRUT",
-            "BDLCLBBXTIA"
-        ],
-        [
-            "36",
-            "BANQUE LIBANO FRANCAISE",
-            "BEIRUT",
-            "BLFSLBBX"
-        ],
-        [
-            "37",
-            "BANQUE MISR LIBAN S.A.L.",
-            "BEIRUT",
-            "BMISLBBE"
-        ],
-        [
-            "38",
-            "BANQUE PHARAON ET CHIHA S.A.L.",
-            "BEIRUT",
-            "BPHCLBBE"
-        ],
-        [
-            "39",
-            "BBAC SAL",
-            "BEIRUT",
-            "BBACLBBX"
-        ],
-        [
-            "40",
-            "BLC INVEST S.A.L",
-            "BEIRUT",
-            "BLIVLBBE"
-        ],
-        [
-            "41",
-            "BLOM BANK S.A.L.",
-            "BEIRUT",
-            "BLOMLBBX"
-        ],
-        [
-            "42",
-            "BLOM DEVELOPMENT BANK S.A.L.",
-            "BEIRUT",
-            "BDBLLBBE"
-        ],
-        [
-            "43",
-            "BLOMINVEST BANK S.A.L.",
-            "BEIRUT",
-            "BLINLBBE"
-        ],
-        [
-            "44",
-            "BSL BANK S.A.L.",
-            "BEIRUT",
-            "SONBLBBE"
-        ],
-        [
-            "45",
-            "BYBLOS BANK S.A.L.",
-            "BEIRUT",
-            "BYBALBBX"
-        ],
-        [
-            "46",
-            "BYBLOS INVEST BANK S.A.L.",
-            "BEIRUT",
-            "BYBILBBX"
-        ],
-        [
-            "47",
-            "CEDRUS BANK S.A.L.",
-            "DBAYEH",
-            "CEDXLBBE"
-        ],
-        [
-            "48",
-            "CEDRUS INVEST BANK S.A.L",
-            "ACHRAFIEH",
-            "CIBXLBB2"
-        ],
-        [
-            "49",
-            "CEDRUS INVEST BANK S.A.L",
-            "ACHRAFIEH",
-            "CIBXLBBE"
-        ],
-        [
-            "50",
-            "CITIBANK BEIRUT",
-            "BEIRUT",
-            "CITILBBE"
-        ],
-        [
-            "51",
-            "CREDIT COMMERCIAL ET FONCIER SAL",
-            "BEIRUT",
-            "CCFXLBBE"
-        ],
-        [
-            "52",
-            "CREDIT FINANCIER INVEST S.A.L",
-            "BEIRUT",
-            "CEFVLBBE"
-        ],
-        [
-            "53",
-            "CREDIT FINANCIER SAL.",
-            "BEIRUT",
-            "CRFCLBBE"
-        ],
-        [
-            "54",
-            "CREDIT LIBANAIS INVESTMENT BANK SAL",
-            "BEIRUT",
-            "LIBNLBBE"
-        ],
-        [
-            "55",
-            "CREDIT LIBANAIS S.A.L.",
-            "BEIRUT",
-            "CLIBLBBX"
-        ],
-        [
-            "56",
-            "CREDITBANK SAL",
-            "BEIRUT",
-            "CBCBLBBE"
-        ],
-        [
-            "57",
-            "CSCBANK SAL",
-            "BEIRUT",
-            "CCSCLBBE"
-        ],
-        [
-            "58",
-            "EMIRATES LEBANON BANK SAL",
-            "BEIRUT",
-            "ELBKLBBX"
-        ],
-        [
-            "59",
-            "FEDERAL BANK OF LEBANON S A L",
-            "BEIRUT",
-            "FBLELBBX"
-        ],
-        [
-            "60",
-            "FENICIA BANK S.A.L.",
-            "BEIRUT",
-            "BKAWLBBE"
-        ],
-        [
-            "61",
-            "FFA PRIVATE BANK S.A.L.",
-            "BEIRUT",
-            "FFAILBBE"
-        ],
-        [
-            "62",
-            "FIDUS SAL GROUPE SOCIETE GENERALE DE BANQUE AU LIBAN",
-            "BEIRUT",
-            "FIDRLBBX"
-        ],
-        [
-            "63",
-            "FINANCE BANK",
-            "BEIRUT",
-            "FBLBLBBX"
-        ],
-        [
-            "64",
-            "FIRST NATIONAL BANK S.A.L.",
-            "BEIRUT",
-            "FINKLBBE"
-        ],
-        [
-            "65",
-            "FRANSA INVEST BANK",
-            "BEIRUT",
-            "FRAILBBE"
-        ],
-        [
-            "66",
-            "FRANSABANK SAL",
-            "BEIRUT",
-            "FSABLBBX"
-        ],
-        [
-            "67",
-            "GPBI INVESTMENT BANK S.A.L.",
-            "DBAYEH",
-            "GAZPLBBE"
-        ],
-        [
-            "68",
-            "HABIB BANK LIMITED",
-            "BEIRUT",
-            "HABBLBBE"
-        ],
-        [
-            "69",
-            "HSBC BANK MIDDLE EAST",
-            "BEIRUT",
-            "BBMELBBX"
-        ],
-        [
-            "70",
-            "IBL BANK S.A.L.(FORMERLY INTERCONTINENTAL BANK OF LEBANON S.A.L.)",
-            "BEIRUT",
-            "INLELBBE"
-        ],
-        [
-            "71",
-            "IBL INVESTMENT BANK SAL",
-            "BEIRUT",
-            "IBLVLBBE"
-        ],
-        [
-            "72",
-            "INVEST BANK (P.S.C.)",
-            "BEIRUT",
-            "IBTFLBBE"
-        ],
-        [
-            "73",
-            "JAMMAL TRUST BANK SAL",
-            "BEIRUT",
-            "JTBKLBBE"
-        ],
-        [
-            "74",
-            "KAFALAT S.A.L. GUARANTEES FOR SMALL AND MEDIUM ENTERPRISES",
-            "BEIRUT",
-            "KAFALBBE"
-        ],
-        [
-            "75",
-            "LEBANESE ISLAMIC BANK S.A.L.",
-            "BEIRUT",
-            "LIBBLBBE"
-        ],
-        [
-            "76",
-            "LEBANESE SWISS BANK SAL",
-            "BEIRUT",
-            "LEBSLBBX"
-        ],
-        [
-            "77",
-            "LEBANON AND GULF BANK SAL",
-            "BEIRUT",
-            "LGBALBBE"
-        ],
-        [
-            "78",
-            "LIBANK S.A.L. (LEVANT INVESTMENT BANK)",
-            "BEIRUT",
-            "LIBKLBBE"
-        ],
-        [
-            "79",
-            "LUCID INVESTMENT CORPORATION (L.I.C) SAL",
-            "BEIRUT",
-            "LUCILBBX"
-        ],
-        [
-            "80",
-            "MEAB SAL",
-            "BEIRUT",
-            "BAMOLBBE"
-        ],
-        [
-            "81",
-            "MECATTAF S.A.L",
-            "AWKAR EL METN",
-            "MECALBBE"
-        ],
-        [
-            "82",
-            "MEDINVESTMENT BANK SAL",
-            "BEIRUT",
-            "MIBLLBBX"
-        ],
-        [
-            "83",
-            "MENA INVEST S.A.L.",
-            "BEIRUT",
-            "MENALBBE"
-        ],
-        [
-            "84",
-            "MIDCLEAR S.A.L.",
-            "BEIRUT",
-            "MIDRLBBE"
-        ],
-        [
-            "85",
-            "MIDCLEAR S.A.L.",
-            "BEIRUT",
-            "MIDRLBBEASA"
-        ],
-        [
-            "86",
-            "MIDDLE EAST AIRLINES-AIRLIBAN",
-            "BEIRUT",
-            "MEALLBBE"
-        ],
-        [
-            "87",
-            "MIDDLE EAST CAPITAL GROUP",
-            "BEIRUT",
-            "MECXLBBE"
-        ],
-        [
-            "88",
-            "MINISTRY OF FINANCE",
-            "BEIRUT",
-            "MINFLBBE"
-        ],
-        [
-            "89",
-            "NATIONAL BANK OF KUWAIT (LEBANON) SAL",
-            "BEIRUT",
-            "NBOKLBBE"
-        ],
-        [
-            "90",
-            "NEAR EAST COMMERCIAL BANK S.A.L.",
-            "BEIRUT",
-            "NECBLBBE"
-        ],
-        [
-            "91",
-            "NORTH AFRICA COMMERCIAL BANK S.A.L.",
-            "BEIRUT",
-            "NACBLBBE"
-        ],
-        [
-            "92",
-            "OPTIMUM INVEST SAL",
-            "BEIRUT",
-            "OPTILBBE"
-        ],
-        [
-            "93",
-            "QATAR NATIONAL BANK",
-            "BEIRUT",
-            "QNBALBBE"
-        ],
-        [
-            "94",
-            "RAFIDAIN BANK",
-            "BEIRUT",
-            "RAFBLBBE"
-        ],
-        [
-            "95",
-            "SAUDI LEBANESE BANK SAL.",
-            "BEIRUT",
-            "(HEAD OFFICE)",
-            "SLBLLBBX"
-        ],
-        [
-            "96",
-            "SAUDI NATIONAL COMMERCIAL BANK - BEIRUT",
-            "BEIRUT",
-            "SNCBLBBE"
-        ],
-        [
-            "97",
-            "SOCIETE FINANCIERE DU LIBAN SAL",
-            "BEIRUT",
-            "LISFLBBE"
-        ],
-        [
-            "98",
-            "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
-            "BEIRUT",
-            "SGLILBBX"
-        ],
-        [
-            "99",
-            "STANDARD CHARTERED BANK SAL",
-            "BEIRUT",
-            "(HEAD OFFICE)",
-            "SCBLLBBE"
-        ],
-        [
-            "100",
-            "SYRIAN LEBANESE COMMERCIAL BANK SAL.",
-            "BEIRUT",
-            "SYLCLBBE"
-        ],
-        [
-            "101",
-            "WARKA BANK FOR INVESTMENT AND FINANCE",
-            "BEIRUT",
-            "WAIVLBBE"
-        ]
+        {
+            "id": "1",
+            "bank": "AHLI INTERNATIONAL BANK SAL",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "JNBBLBBE"
+        },
+        {
+            "id": "2",
+            "bank": "AL BARAKA BANK S.A.L.",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "ALCVLBBE"
+        },
+        {
+            "id": "3",
+            "bank": "AL BILAD ISLAMIC BANK FOR INVESTMENT AND FINANCE PSC",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "AIIFLBBE"
+        },
+        {
+            "id": "4",
+            "bank": "AL MAWARID BANK S.A.L.",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "MABALBBE"
+        },
+        {
+            "id": "5",
+            "bank": "ARAB AFRICAN INTERNATIONAL BANK",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "ARAILBBE"
+        },
+        {
+            "id": "6",
+            "bank": "ARAB BANK PLC",
+            "city": "BEIRUT",
+            "branch": "(LEBANON BRANCHES CENTRE)",
+            "swift_code": "ARABLBBX"
+        },
+        {
+            "id": "7",
+            "bank": "ARAB BANK PLC",
+            "city": "BEIRUT",
+            "branch": "(TREASURY BACKOFFICE)",
+            "swift_code": "ARABLBBXTBO"
+        },
+        {
+            "id": "8",
+            "bank": "ARAB BANK PLC",
+            "city": "SHYAH",
+            "branch": "(SHYAH BRANCH)",
+            "swift_code": "ARABLBBX0B7"
+        },
+        {
+            "id": "9",
+            "bank": "ARAB BANK PLC",
+            "city": "SIN EL-FIL",
+            "branch": "(SIN EL-FIL BRANCH)",
+            "swift_code": "ARABLBBX0B8"
+        },
+        {
+            "id": "10",
+            "bank": "ARAB FINANCE CORPORATION SAL",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "AFCOLBBE"
+        },
+        {
+            "id": "11",
+            "bank": "ARAB FINANCE HOUSE SAL (ISLAMIC BANK)",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "AFHOLBBE"
+        },
+        {
+            "id": "12",
+            "bank": "ARAB INVESTMENT BANK SAL",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "ARBVLBBE"
+        },
+        {
+            "id": "13",
+            "bank": "AUDI INVESTMENT BANK S.A.L.",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "AUSILBBE"
+        },
+        {
+            "id": "14",
+            "bank": "AUDI PRIVATE BANK S.A.L.",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "BSARLBBX"
+        },
+        {
+            "id": "15",
+            "bank": "B.L.C. BANK S.A.L.",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "LICOLBBX"
+        },
+        {
+            "id": "16",
+            "bank": "BANK AUDI S.A.L.",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "AUDBLBBX"
+        },
+        {
+            "id": "17",
+            "bank": "BANK OF BAGHDAD",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "BABILBBE"
+        },
+        {
+            "id": "18",
+            "bank": "BANK OF BEIRUT INVEST S.A.L",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "BOBPLBBE"
+        },
+        {
+            "id": "19",
+            "bank": "BANK OF BEIRUT S.A.L.",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "BABELBBE"
+        },
+        {
+            "id": "20",
+            "bank": "BANKMED,SAL",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "MEDLLBBX"
+        },
+        {
+            "id": "21",
+            "bank": "BANQUE BEMO SAL",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "EUMOLBBE"
+        },
+        {
+            "id": "22",
+            "bank": "BANQUE DE CREDIT NATIONAL S.A.L.",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "BCNBLBBE"
+        },
+        {
+            "id": "23",
+            "bank": "BANQUE DE L'HABITAT S.A.L.",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "LHBALBBX"
+        },
+        {
+            "id": "24",
+            "bank": "BANQUE DE L'INDUSTRIE ET DU TRAVAIL S.A.L.",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "BTLVLBBE"
+        },
+        {
+            "id": "25",
+            "bank": "BANQUE DU LIBAN",
+            "city": "BEIRUT",
+            "branch": "(ACCOUNTING DEPARTMENT)",
+            "swift_code": "BDLCLBBXACD"
+        },
+        {
+            "id": "26",
+            "bank": "BANQUE DU LIBAN",
+            "city": "BEIRUT",
+            "branch": "(CURRENT OPERATIONS DEPARTMENT)",
+            "swift_code": "BDLCLBBXCOD"
+        },
+        {
+            "id": "27",
+            "bank": "BANQUE DU LIBAN",
+            "city": "BEIRUT",
+            "branch": "(FINANCIAL OPERATIONS DEPARTMENT)",
+            "swift_code": "BDLCLBBXFOD"
+        },
+        {
+            "id": "28",
+            "bank": "BANQUE DU LIBAN",
+            "city": "BEIRUT",
+            "branch": "(FOREIGN EXCHANGE DEPARTMENT)",
+            "swift_code": "BDLCLBBXFXD"
+        },
+        {
+            "id": "29",
+            "bank": "BANQUE DU LIBAN",
+            "city": "BEIRUT",
+            "branch": "(MINISTRY OF FINANCE - TREASURY AND PUBLIC DEBT DIRECTORATE)",
+            "swift_code": "BDLCLBBXMOF"
+        },
+        {
+            "id": "30",
+            "bank": "BANQUE DU LIBAN",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "BDLCLBBA"
+        },
+        {
+            "id": "31",
+            "bank": "BANQUE DU LIBAN",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "BDLCLBBC"
+        },
+        {
+            "id": "32",
+            "bank": "BANQUE DU LIBAN",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "BDLCLBBG"
+        },
+        {
+            "id": "33",
+            "bank": "BANQUE DU LIBAN",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "BDLCLBBX"
+        },
+        {
+            "id": "34",
+            "bank": "BANQUE DU LIBAN",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "BDLCLBBXASA"
+        },
+        {
+            "id": "35",
+            "bank": "BANQUE DU LIBAN",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "BDLCLBBXTIA"
+        },
+        {
+            "id": "36",
+            "bank": "BANQUE LIBANO FRANCAISE",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "BLFSLBBX"
+        },
+        {
+            "id": "37",
+            "bank": "BANQUE MISR LIBAN S.A.L.",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "BMISLBBE"
+        },
+        {
+            "id": "38",
+            "bank": "BANQUE PHARAON ET CHIHA S.A.L.",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "BPHCLBBE"
+        },
+        {
+            "id": "39",
+            "bank": "BBAC SAL",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "BBACLBBX"
+        },
+        {
+            "id": "40",
+            "bank": "BLC INVEST S.A.L",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "BLIVLBBE"
+        },
+        {
+            "id": "41",
+            "bank": "BLOM BANK S.A.L.",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "BLOMLBBX"
+        },
+        {
+            "id": "42",
+            "bank": "BLOM DEVELOPMENT BANK S.A.L.",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "BDBLLBBE"
+        },
+        {
+            "id": "43",
+            "bank": "BLOMINVEST BANK S.A.L.",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "BLINLBBE"
+        },
+        {
+            "id": "44",
+            "bank": "BSL BANK S.A.L.",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "SONBLBBE"
+        },
+        {
+            "id": "45",
+            "bank": "BYBLOS BANK S.A.L.",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "BYBALBBX"
+        },
+        {
+            "id": "46",
+            "bank": "BYBLOS INVEST BANK S.A.L.",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "BYBILBBX"
+        },
+        {
+            "id": "47",
+            "bank": "CEDRUS BANK S.A.L.",
+            "city": "DBAYEH",
+            "branch": null,
+            "swift_code": "CEDXLBBE"
+        },
+        {
+            "id": "48",
+            "bank": "CEDRUS INVEST BANK S.A.L",
+            "city": "ACHRAFIEH",
+            "branch": null,
+            "swift_code": "CIBXLBB2"
+        },
+        {
+            "id": "49",
+            "bank": "CEDRUS INVEST BANK S.A.L",
+            "city": "ACHRAFIEH",
+            "branch": null,
+            "swift_code": "CIBXLBBE"
+        },
+        {
+            "id": "50",
+            "bank": "CITIBANK BEIRUT",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "CITILBBE"
+        },
+        {
+            "id": "51",
+            "bank": "CREDIT COMMERCIAL ET FONCIER SAL",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "CCFXLBBE"
+        },
+        {
+            "id": "52",
+            "bank": "CREDIT FINANCIER INVEST S.A.L",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "CEFVLBBE"
+        },
+        {
+            "id": "53",
+            "bank": "CREDIT FINANCIER SAL.",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "CRFCLBBE"
+        },
+        {
+            "id": "54",
+            "bank": "CREDIT LIBANAIS INVESTMENT BANK SAL",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "LIBNLBBE"
+        },
+        {
+            "id": "55",
+            "bank": "CREDIT LIBANAIS S.A.L.",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "CLIBLBBX"
+        },
+        {
+            "id": "56",
+            "bank": "CREDITBANK SAL",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "CBCBLBBE"
+        },
+        {
+            "id": "57",
+            "bank": "CSCBANK SAL",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "CCSCLBBE"
+        },
+        {
+            "id": "58",
+            "bank": "EMIRATES LEBANON BANK SAL",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "ELBKLBBX"
+        },
+        {
+            "id": "59",
+            "bank": "FEDERAL BANK OF LEBANON S A L",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "FBLELBBX"
+        },
+        {
+            "id": "60",
+            "bank": "FENICIA BANK S.A.L.",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "BKAWLBBE"
+        },
+        {
+            "id": "61",
+            "bank": "FFA PRIVATE BANK S.A.L.",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "FFAILBBE"
+        },
+        {
+            "id": "62",
+            "bank": "FIDUS SAL GROUPE SOCIETE GENERALE DE BANQUE AU LIBAN",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "FIDRLBBX"
+        },
+        {
+            "id": "63",
+            "bank": "FINANCE BANK",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "FBLBLBBX"
+        },
+        {
+            "id": "64",
+            "bank": "FIRST NATIONAL BANK S.A.L.",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "FINKLBBE"
+        },
+        {
+            "id": "65",
+            "bank": "FRANSA INVEST BANK",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "FRAILBBE"
+        },
+        {
+            "id": "66",
+            "bank": "FRANSABANK SAL",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "FSABLBBX"
+        },
+        {
+            "id": "67",
+            "bank": "GPBI INVESTMENT BANK S.A.L.",
+            "city": "DBAYEH",
+            "branch": null,
+            "swift_code": "GAZPLBBE"
+        },
+        {
+            "id": "68",
+            "bank": "HABIB BANK LIMITED",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "HABBLBBE"
+        },
+        {
+            "id": "69",
+            "bank": "HSBC BANK MIDDLE EAST",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "BBMELBBX"
+        },
+        {
+            "id": "70",
+            "bank": "IBL BANK S.A.L.(FORMERLY INTERCONTINENTAL BANK OF LEBANON S.A.L.)",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "INLELBBE"
+        },
+        {
+            "id": "71",
+            "bank": "IBL INVESTMENT BANK SAL",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "IBLVLBBE"
+        },
+        {
+            "id": "72",
+            "bank": "INVEST BANK (P.S.C.)",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "IBTFLBBE"
+        },
+        {
+            "id": "73",
+            "bank": "JAMMAL TRUST BANK SAL",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "JTBKLBBE"
+        },
+        {
+            "id": "74",
+            "bank": "KAFALAT S.A.L. GUARANTEES FOR SMALL AND MEDIUM ENTERPRISES",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "KAFALBBE"
+        },
+        {
+            "id": "75",
+            "bank": "LEBANESE ISLAMIC BANK S.A.L.",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "LIBBLBBE"
+        },
+        {
+            "id": "76",
+            "bank": "LEBANESE SWISS BANK SAL",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "LEBSLBBX"
+        },
+        {
+            "id": "77",
+            "bank": "LEBANON AND GULF BANK SAL",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "LGBALBBE"
+        },
+        {
+            "id": "78",
+            "bank": "LIBANK S.A.L. (LEVANT INVESTMENT BANK)",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "LIBKLBBE"
+        },
+        {
+            "id": "79",
+            "bank": "LUCID INVESTMENT CORPORATION (L.I.C) SAL",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "LUCILBBX"
+        },
+        {
+            "id": "80",
+            "bank": "MEAB SAL",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "BAMOLBBE"
+        },
+        {
+            "id": "81",
+            "bank": "MECATTAF S.A.L",
+            "city": "AWKAR EL METN",
+            "branch": null,
+            "swift_code": "MECALBBE"
+        },
+        {
+            "id": "82",
+            "bank": "MEDINVESTMENT BANK SAL",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "MIBLLBBX"
+        },
+        {
+            "id": "83",
+            "bank": "MENA INVEST S.A.L.",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "MENALBBE"
+        },
+        {
+            "id": "84",
+            "bank": "MIDCLEAR S.A.L.",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "MIDRLBBE"
+        },
+        {
+            "id": "85",
+            "bank": "MIDCLEAR S.A.L.",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "MIDRLBBEASA"
+        },
+        {
+            "id": "86",
+            "bank": "MIDDLE EAST AIRLINES-AIRLIBAN",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "MEALLBBE"
+        },
+        {
+            "id": "87",
+            "bank": "MIDDLE EAST CAPITAL GROUP",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "MECXLBBE"
+        },
+        {
+            "id": "88",
+            "bank": "MINISTRY OF FINANCE",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "MINFLBBE"
+        },
+        {
+            "id": "89",
+            "bank": "NATIONAL BANK OF KUWAIT (LEBANON) SAL",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "NBOKLBBE"
+        },
+        {
+            "id": "90",
+            "bank": "NEAR EAST COMMERCIAL BANK S.A.L.",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "NECBLBBE"
+        },
+        {
+            "id": "91",
+            "bank": "NORTH AFRICA COMMERCIAL BANK S.A.L.",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "NACBLBBE"
+        },
+        {
+            "id": "92",
+            "bank": "OPTIMUM INVEST SAL",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "OPTILBBE"
+        },
+        {
+            "id": "93",
+            "bank": "QATAR NATIONAL BANK",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "QNBALBBE"
+        },
+        {
+            "id": "94",
+            "bank": "RAFIDAIN BANK",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "RAFBLBBE"
+        },
+        {
+            "id": "95",
+            "bank": "SAUDI LEBANESE BANK SAL.",
+            "city": "BEIRUT",
+            "branch": "(HEAD OFFICE)",
+            "swift_code": "SLBLLBBX"
+        },
+        {
+            "id": "96",
+            "bank": "SAUDI NATIONAL COMMERCIAL BANK - BEIRUT",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "SNCBLBBE"
+        },
+        {
+            "id": "97",
+            "bank": "SOCIETE FINANCIERE DU LIBAN SAL",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "LISFLBBE"
+        },
+        {
+            "id": "98",
+            "bank": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "SGLILBBX"
+        },
+        {
+            "id": "99",
+            "bank": "STANDARD CHARTERED BANK SAL",
+            "city": "BEIRUT",
+            "branch": "(HEAD OFFICE)",
+            "swift_code": "SCBLLBBE"
+        },
+        {
+            "id": "100",
+            "bank": "SYRIAN LEBANESE COMMERCIAL BANK SAL.",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "SYLCLBBE"
+        },
+        {
+            "id": "101",
+            "bank": "WARKA BANK FOR INVESTMENT AND FINANCE",
+            "city": "BEIRUT",
+            "branch": null,
+            "swift_code": "WAIVLBBE"
+        }
     ]
 }

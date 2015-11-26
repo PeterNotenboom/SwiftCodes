@@ -2,101 +2,117 @@
     "country": "Sierra Leone",
     "country_code": "SL",
     "list": [
-        [
-            "1",
-            "ACCESS BANK SIERRA LEONE LIMITED",
-            "FREETOWN",
-            "ABSFSLFR"
-        ],
-        [
-            "2",
-            "BANK OF SIERRA LEONE",
-            "FREETOWN",
-            "BSLESLFA"
-        ],
-        [
-            "3",
-            "BANK OF SIERRA LEONE",
-            "FREETOWN",
-            "BSLESLFR"
-        ],
-        [
-            "4",
-            "BANK PHB SIERRA LEONE",
-            "FREETOWN",
-            "PHBXSLFR"
-        ],
-        [
-            "5",
-            "ECOBANK SIERRA LEONE LIMITED",
-            "FREETOWN",
-            "ECOCSLFR"
-        ],
-        [
-            "6",
-            "FIRST INTERNATIONAL BANK (SL) LIMITED",
-            "FREETOWN",
-            "FSTISLFR"
-        ],
-        [
-            "7",
-            "GUARANTY TRUST BANK (SL) LTD",
-            "FREETOWN",
-            "GTBISLFR"
-        ],
-        [
-            "8",
-            "HFC MORTGAGE AND SAVINGS (SL) PLC",
-            "FREETOWN",
-            "HFCMSLFR"
-        ],
-        [
-            "9",
-            "INTERNATIONAL COMMERCIAL BANK(SL) LIMITED",
-            "FREETOWN",
-            "ICBZSLFR"
-        ],
-        [
-            "10",
-            "ROKEL COMMERCIAL BANK (SIERRA LEONE) LTD.",
-            "FREETOWN",
-            "RCBKSLFR"
-        ],
-        [
-            "11",
-            "SIERRA LEONE COMMERCIAL BANK LTD",
-            "FREETOWN",
-            "SLCBSLFR"
-        ],
-        [
-            "12",
-            "SKYE BANK (SL) LTD",
-            "FREETOWN",
-            "SKYESLFR"
-        ],
-        [
-            "13",
-            "STANDARD CHARTERED BANK SIERRA LEONE LTD",
-            "FREETOWN",
-            "SCBLSLFR"
-        ],
-        [
-            "14",
-            "UNION TRUST BANK LIMITED",
-            "FREETOWN",
-            "UTBSSLFR"
-        ],
-        [
-            "15",
-            "UNITED BANK FOR AFRICA (S\/L) LTD",
-            "FREETOWN",
-            "UNAFSLFR"
-        ],
-        [
-            "16",
-            "ZENITH BANK (SIERRA LEONE) LIMITED",
-            "FREETOWN",
-            "ZESLSLFR"
-        ]
+        {
+            "id": "1",
+            "bank": "ACCESS BANK SIERRA LEONE LIMITED",
+            "city": "FREETOWN",
+            "branch": null,
+            "swift_code": "ABSFSLFR"
+        },
+        {
+            "id": "2",
+            "bank": "BANK OF SIERRA LEONE",
+            "city": "FREETOWN",
+            "branch": null,
+            "swift_code": "BSLESLFA"
+        },
+        {
+            "id": "3",
+            "bank": "BANK OF SIERRA LEONE",
+            "city": "FREETOWN",
+            "branch": null,
+            "swift_code": "BSLESLFR"
+        },
+        {
+            "id": "4",
+            "bank": "BANK PHB SIERRA LEONE",
+            "city": "FREETOWN",
+            "branch": null,
+            "swift_code": "PHBXSLFR"
+        },
+        {
+            "id": "5",
+            "bank": "ECOBANK SIERRA LEONE LIMITED",
+            "city": "FREETOWN",
+            "branch": null,
+            "swift_code": "ECOCSLFR"
+        },
+        {
+            "id": "6",
+            "bank": "FIRST INTERNATIONAL BANK (SL) LIMITED",
+            "city": "FREETOWN",
+            "branch": null,
+            "swift_code": "FSTISLFR"
+        },
+        {
+            "id": "7",
+            "bank": "GUARANTY TRUST BANK (SL) LTD",
+            "city": "FREETOWN",
+            "branch": null,
+            "swift_code": "GTBISLFR"
+        },
+        {
+            "id": "8",
+            "bank": "HFC MORTGAGE AND SAVINGS (SL) PLC",
+            "city": "FREETOWN",
+            "branch": null,
+            "swift_code": "HFCMSLFR"
+        },
+        {
+            "id": "9",
+            "bank": "INTERNATIONAL COMMERCIAL BANK(SL) LIMITED",
+            "city": "FREETOWN",
+            "branch": null,
+            "swift_code": "ICBZSLFR"
+        },
+        {
+            "id": "10",
+            "bank": "ROKEL COMMERCIAL BANK (SIERRA LEONE) LTD.",
+            "city": "FREETOWN",
+            "branch": null,
+            "swift_code": "RCBKSLFR"
+        },
+        {
+            "id": "11",
+            "bank": "SIERRA LEONE COMMERCIAL BANK LTD",
+            "city": "FREETOWN",
+            "branch": null,
+            "swift_code": "SLCBSLFR"
+        },
+        {
+            "id": "12",
+            "bank": "SKYE BANK (SL) LTD",
+            "city": "FREETOWN",
+            "branch": null,
+            "swift_code": "SKYESLFR"
+        },
+        {
+            "id": "13",
+            "bank": "STANDARD CHARTERED BANK SIERRA LEONE LTD",
+            "city": "FREETOWN",
+            "branch": null,
+            "swift_code": "SCBLSLFR"
+        },
+        {
+            "id": "14",
+            "bank": "UNION TRUST BANK LIMITED",
+            "city": "FREETOWN",
+            "branch": null,
+            "swift_code": "UTBSSLFR"
+        },
+        {
+            "id": "15",
+            "bank": "UNITED BANK FOR AFRICA (S\/L) LTD",
+            "city": "FREETOWN",
+            "branch": null,
+            "swift_code": "UNAFSLFR"
+        },
+        {
+            "id": "16",
+            "bank": "ZENITH BANK (SIERRA LEONE) LIMITED",
+            "city": "FREETOWN",
+            "branch": null,
+            "swift_code": "ZESLSLFR"
+        }
     ]
 }

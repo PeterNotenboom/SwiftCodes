@@ -2,59 +2,68 @@
     "country": "Seychelles",
     "country_code": "SC",
     "list": [
-        [
-            "1",
-            "BANK AL HABIB LIMITED",
-            "VICTORIA",
-            "BAHLSCSC"
-        ],
-        [
-            "2",
-            "BANK OF BARODA",
-            "VICTORIA",
-            "BARBSCSC"
-        ],
-        [
-            "3",
-            "BANK OF CEYLON, SEYCHELLES BRANCH",
-            "VICTORIA",
-            "BCEYSCSC"
-        ],
-        [
-            "4",
-            "BARCLAYS BANK (SEYCHELLES) LTD",
-            "VICTORIA",
-            "BARCSCSC"
-        ],
-        [
-            "5",
-            "BMI OFFSHORE BANK LIMITED",
-            "PROVIDENCE MAHE",
-            "BMUSSCSC"
-        ],
-        [
-            "6",
-            "CENTRAL BANK OF SEYCHELLES",
-            "VICTORIA",
-            "SSCBSCSC"
-        ],
-        [
-            "7",
-            "MAURITIUS COMMERCIAL BANK (SEYCHELLES) LIMITED, THE",
-            "VICTORIA",
-            "MCBLSCSC"
-        ],
-        [
-            "8",
-            "NOUVOBANQ",
-            "VICTORIA",
-            "NOVHSCSC"
-        ],
-        [
-            "9",
-            "SEYCHELLES COMMERCIAL BANK",
-            "VICTORIA",
-            "SEYSSCSC"
-        ]
+        {
+            "id": "1",
+            "bank": "BANK AL HABIB LIMITED",
+            "city": "VICTORIA",
+            "branch": null,
+            "swift_code": "BAHLSCSC"
+        },
+        {
+            "id": "2",
+            "bank": "BANK OF BARODA",
+            "city": "VICTORIA",
+            "branch": null,
+            "swift_code": "BARBSCSC"
+        },
+        {
+            "id": "3",
+            "bank": "BANK OF CEYLON, SEYCHELLES BRANCH",
+            "city": "VICTORIA",
+            "branch": null,
+            "swift_code": "BCEYSCSC"
+        },
+        {
+            "id": "4",
+            "bank": "BARCLAYS BANK (SEYCHELLES) LTD",
+            "city": "VICTORIA",
+            "branch": null,
+            "swift_code": "BARCSCSC"
+        },
+        {
+            "id": "5",
+            "bank": "BMI OFFSHORE BANK LIMITED",
+            "city": "PROVIDENCE MAHE",
+            "branch": null,
+            "swift_code": "BMUSSCSC"
+        },
+        {
+            "id": "6",
+            "bank": "CENTRAL BANK OF SEYCHELLES",
+            "city": "VICTORIA",
+            "branch": null,
+            "swift_code": "SSCBSCSC"
+        },
+        {
+            "id": "7",
+            "bank": "MAURITIUS COMMERCIAL BANK (SEYCHELLES) LIMITED, THE",
+            "city": "VICTORIA",
+            "branch": null,
+            "swift_code": "MCBLSCSC"
+        },
+        {
+            "id": "8",
+            "bank": "NOUVOBANQ",
+            "city": "VICTORIA",
+            "branch": null,
+            "swift_code": "NOVHSCSC"
+        },
+        {
+            "id": "9",
+            "bank": "SEYCHELLES COMMERCIAL BANK",
+            "city": "VICTORIA",
+            "branch": null,
+            "swift_code": "SEYSSCSC"
+        }
     ]
 }

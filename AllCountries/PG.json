@@ -2,41 +2,47 @@
     "country": "Papua New Guinea",
     "country_code": "PG",
     "list": [
-        [
-            "1",
-            "AUSTRALIA AND NEW ZEALAND BANKING GROUP (PNG) LTD.",
-            "PORT MORESBY",
-            "ANZBPGPX"
-        ],
-        [
-            "2",
-            "BANK OF PAPUA NEW GUINEA",
-            "PORT MORESBY",
-            "BPNGPGPM"
-        ],
-        [
-            "3",
-            "BANK OF SOUTH PACIFIC LIMITED",
-            "PORT MORESBY",
-            "BOSPPGPM"
-        ],
-        [
-            "4",
-            "FIRST INVESTMENT FINANCE LIMITED",
-            "PORT MORESBY",
-            "FIVFPGPM"
-        ],
-        [
-            "5",
-            "MAYBANK (PNG) LIMITED, PORT MORESBY",
-            "PORT MORESBY",
-            "MBBEPGPM"
-        ],
-        [
-            "6",
-            "WESTPAC BANK - PNG - LIMITED",
-            "PORT MORESBY",
-            "WPACPGPM"
-        ]
+        {
+            "id": "1",
+            "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP (PNG) LTD.",
+            "city": "PORT MORESBY",
+            "branch": null,
+            "swift_code": "ANZBPGPX"
+        },
+        {
+            "id": "2",
+            "bank": "BANK OF PAPUA NEW GUINEA",
+            "city": "PORT MORESBY",
+            "branch": null,
+            "swift_code": "BPNGPGPM"
+        },
+        {
+            "id": "3",
+            "bank": "BANK OF SOUTH PACIFIC LIMITED",
+            "city": "PORT MORESBY",
+            "branch": null,
+            "swift_code": "BOSPPGPM"
+        },
+        {
+            "id": "4",
+            "bank": "FIRST INVESTMENT FINANCE LIMITED",
+            "city": "PORT MORESBY",
+            "branch": null,
+            "swift_code": "FIVFPGPM"
+        },
+        {
+            "id": "5",
+            "bank": "MAYBANK (PNG) LIMITED, PORT MORESBY",
+            "city": "PORT MORESBY",
+            "branch": null,
+            "swift_code": "MBBEPGPM"
+        },
+        {
+            "id": "6",
+            "bank": "WESTPAC BANK - PNG - LIMITED",
+            "city": "PORT MORESBY",
+            "branch": null,
+            "swift_code": "WPACPGPM"
+        }
     ]
 }

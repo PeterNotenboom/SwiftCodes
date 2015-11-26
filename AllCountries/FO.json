@@ -2,17 +2,19 @@
     "country": "Faroe Islands",
     "country_code": "FO",
     "list": [
-        [
-            "1",
-            "BANKNORDIK P\/F (FORMERLY FOROYA BANKI P\/F)",
-            "TORSHAVN",
-            "FIFBFOTX"
-        ],
-        [
-            "2",
-            "EIK BANKI P\/F",
-            "TORSHAVN",
-            "EIKBFOTF"
-        ]
+        {
+            "id": "1",
+            "bank": "BANKNORDIK P\/F (FORMERLY FOROYA BANKI P\/F)",
+            "city": "TORSHAVN",
+            "branch": null,
+            "swift_code": "FIFBFOTX"
+        },
+        {
+            "id": "2",
+            "bank": "EIK BANKI P\/F",
+            "city": "TORSHAVN",
+            "branch": null,
+            "swift_code": "EIKBFOTF"
+        }
     ]
 }

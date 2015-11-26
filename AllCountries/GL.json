@@ -2,11 +2,12 @@
     "country": "Greenland",
     "country_code": "GL",
     "list": [
-        [
-            "1",
-            "GRONLANDSBANKEN A\/S",
-            "NUUK (GODTHAAB)",
-            "GRENGLGX"
-        ]
+        {
+            "id": "1",
+            "bank": "GRONLANDSBANKEN A\/S",
+            "city": "NUUK (GODTHAAB)",
+            "branch": null,
+            "swift_code": "GRENGLGX"
+        }
     ]
 }

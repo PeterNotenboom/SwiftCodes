@@ -2,71 +2,82 @@
     "country": "Saint Kitts and Nevis",
     "country_code": "KN",
     "list": [
-        [
-            "1",
-            "BANK OF NEVIS, THE",
-            "CHARLESTOWN",
-            "BNEVKNNE"
-        ],
-        [
-            "2",
-            "BANK OF NOVA SCOTIA,THE",
-            "BASSETERRE",
-            "NOSCKNSK"
-        ],
-        [
-            "3",
-            "EASTERN CARIBBEAN CENTRAL BANK",
-            "BASSETERRE",
-            "ECCBKNSK"
-        ],
-        [
-            "4",
-            "EASTERN CARIBBEAN SECURITIES EXCHANGE LTD",
-            "BASSETERRE",
-            "ECSXKNSK"
-        ],
-        [
-            "5",
-            "FIRSTCARIBBEAN INTERNATIONAL BANK",
-            "BASSETERRE",
-            "FCIBKNSK"
-        ],
-        [
-            "6",
-            "GOVERMENT OF ST. KITTS AND NEVIS",
-            "BASSETERRE",
-            "GVKNKNSK"
-        ],
-        [
-            "7",
-            "NEVIS ISLAND ADMINISTRATION",
-            "CHARLESTOWN",
-            "GVIAKNNE"
-        ],
-        [
-            "8",
-            "RBTT BANK (SKN) LIMITED",
-            "CHARLESTOWN",
-            "RBTTKNNE"
-        ],
-        [
-            "9",
-            "RBTT BANK CARIBBEAN LIMITED",
-            "BASSETERRE",
-            "RBTTKNSK"
-        ],
-        [
-            "10",
-            "ROYAL BANK OF CANADA",
-            "BASSETERRE",
-            "ROYCKNSK"
-        ],
-        [
-            "11",
-            "ST. KITTS-NEVIS-ANGUILLA NATIONAL BANK",
-            "BASSETERRE",
-            "KNANKNSK"
-        ]
+        {
+            "id": "1",
+            "bank": "BANK OF NEVIS, THE",
+            "city": "CHARLESTOWN",
+            "branch": null,
+            "swift_code": "BNEVKNNE"
+        },
+        {
+            "id": "2",
+            "bank": "BANK OF NOVA SCOTIA,THE",
+            "city": "BASSETERRE",
+            "branch": null,
+            "swift_code": "NOSCKNSK"
+        },
+        {
+            "id": "3",
+            "bank": "EASTERN CARIBBEAN CENTRAL BANK",
+            "city": "BASSETERRE",
+            "branch": null,
+            "swift_code": "ECCBKNSK"
+        },
+        {
+            "id": "4",
+            "bank": "EASTERN CARIBBEAN SECURITIES EXCHANGE LTD",
+            "city": "BASSETERRE",
+            "branch": null,
+            "swift_code": "ECSXKNSK"
+        },
+        {
+            "id": "5",
+            "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK",
+            "city": "BASSETERRE",
+            "branch": null,
+            "swift_code": "FCIBKNSK"
+        },
+        {
+            "id": "6",
+            "bank": "GOVERMENT OF ST. KITTS AND NEVIS",
+            "city": "BASSETERRE",
+            "branch": null,
+            "swift_code": "GVKNKNSK"
+        },
+        {
+            "id": "7",
+            "bank": "NEVIS ISLAND ADMINISTRATION",
+            "city": "CHARLESTOWN",
+            "branch": null,
+            "swift_code": "GVIAKNNE"
+        },
+        {
+            "id": "8",
+            "bank": "RBTT BANK (SKN) LIMITED",
+            "city": "CHARLESTOWN",
+            "branch": null,
+            "swift_code": "RBTTKNNE"
+        },
+        {
+            "id": "9",
+            "bank": "RBTT BANK CARIBBEAN LIMITED",
+            "city": "BASSETERRE",
+            "branch": null,
+            "swift_code": "RBTTKNSK"
+        },
+        {
+            "id": "10",
+            "bank": "ROYAL BANK OF CANADA",
+            "city": "BASSETERRE",
+            "branch": null,
+            "swift_code": "ROYCKNSK"
+        },
+        {
+            "id": "11",
+            "bank": "ST. KITTS-NEVIS-ANGUILLA NATIONAL BANK",
+            "city": "BASSETERRE",
+            "branch": null,
+            "swift_code": "KNANKNSK"
+        }
     ]
 }

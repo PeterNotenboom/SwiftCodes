@@ -2,53 +2,61 @@
     "country": "Maldives",
     "country_code": "MV",
     "list": [
-        [
-            "1",
-            "BANK OF CEYLON",
-            "MALE",
-            "BCEYMVMV"
-        ],
-        [
-            "2",
-            "BANK OF MALDIVES PLC.",
-            "MALE",
-            "MALBMVMV"
-        ],
-        [
-            "3",
-            "HABIB BANK LIMITED",
-            "MALE",
-            "HABBMVMV"
-        ],
-        [
-            "4",
-            "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
-            "MALE",
-            "HSBCMVMV"
-        ],
-        [
-            "5",
-            "MALDIVES ISLAMIC BANK PVT. LTD",
-            "MALE",
-            "MADVMVMV"
-        ],
-        [
-            "6",
-            "MALDIVES MONETARY AUTHORITY",
-            "MALE",
-            "MMAUMVMV"
-        ],
-        [
-            "7",
-            "STATE BANK OF INDIA",
-            "MALE",
-            "SBINMVMV"
-        ],
-        [
-            "8",
-            "THE MAURITIUS COMMERCIAL BANK LIMITED",
-            "MALE",
-            "MCBLMVMV"
-        ]
+        {
+            "id": "1",
+            "bank": "BANK OF CEYLON",
+            "city": "MALE",
+            "branch": null,
+            "swift_code": "BCEYMVMV"
+        },
+        {
+            "id": "2",
+            "bank": "BANK OF MALDIVES PLC.",
+            "city": "MALE",
+            "branch": null,
+            "swift_code": "MALBMVMV"
+        },
+        {
+            "id": "3",
+            "bank": "HABIB BANK LIMITED",
+            "city": "MALE",
+            "branch": null,
+            "swift_code": "HABBMVMV"
+        },
+        {
+            "id": "4",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "city": "MALE",
+            "branch": null,
+            "swift_code": "HSBCMVMV"
+        },
+        {
+            "id": "5",
+            "bank": "MALDIVES ISLAMIC BANK PVT. LTD",
+            "city": "MALE",
+            "branch": null,
+            "swift_code": "MADVMVMV"
+        },
+        {
+            "id": "6",
+            "bank": "MALDIVES MONETARY AUTHORITY",
+            "city": "MALE",
+            "branch": null,
+            "swift_code": "MMAUMVMV"
+        },
+        {
+            "id": "7",
+            "bank": "STATE BANK OF INDIA",
+            "city": "MALE",
+            "branch": null,
+            "swift_code": "SBINMVMV"
+        },
+        {
+            "id": "8",
+            "bank": "THE MAURITIUS COMMERCIAL BANK LIMITED",
+            "city": "MALE",
+            "branch": null,
+            "swift_code": "MCBLMVMV"
+        }
     ]
 }

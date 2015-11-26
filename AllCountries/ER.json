@@ -2,23 +2,26 @@
     "country": "Eritrea",
     "country_code": "ER",
     "list": [
-        [
-            "1",
-            "BANK OF ERITREA",
-            "ASMARA",
-            "BOERERAI"
-        ],
-        [
-            "2",
-            "COMMERCIAL BANK OF ERITREA",
-            "ASMARA",
-            "CBERERAI"
-        ],
-        [
-            "3",
-            "HOUSING AND COMMERCE BANK OF ERITREA",
-            "ASMARA",
-            "HCBEERAI"
-        ]
+        {
+            "id": "1",
+            "bank": "BANK OF ERITREA",
+            "city": "ASMARA",
+            "branch": null,
+            "swift_code": "BOERERAI"
+        },
+        {
+            "id": "2",
+            "bank": "COMMERCIAL BANK OF ERITREA",
+            "city": "ASMARA",
+            "branch": null,
+            "swift_code": "CBERERAI"
+        },
+        {
+            "id": "3",
+            "bank": "HOUSING AND COMMERCE BANK OF ERITREA",
+            "city": "ASMARA",
+            "branch": null,
+            "swift_code": "HCBEERAI"
+        }
     ]
 }

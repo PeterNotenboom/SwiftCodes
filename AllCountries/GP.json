@@ -2,67 +2,75 @@
     "country": "Guadeloupe",
     "country_code": "GP",
     "list": [
-        [
-            "1",
-            "BANQUE DES ANTILLES FRANCAISES",
-            "BAIE MAHAULT",
-            "BDAFGPGX"
-        ],
-        [
-            "2",
-            "BANQUE DES ANTILLES FRANCAISES",
-            "POINTE-A-PITRE",
-            "(COMEX GUADELOUPE)",
-            "BDAFGPGX971"
-        ],
-        [
-            "3",
-            "BANQUE FRANCAISE COMMERCIALE ANTILLES - GUYANE",
-            "ABYMES",
-            "BFECGPGX"
-        ],
-        [
-            "4",
-            "BANQUE NATIONALE DE PARIS SUCCURSALE DE POINTE A PITRE",
-            "BASSE TERRE",
-            "BNPAGPGXBAS"
-        ],
-        [
-            "5",
-            "BANQUE NATIONALE DE PARIS SUCCURSALE DE POINTE A PITRE",
-            "POINTE-A-PITRE",
-            "BNPAGPGX"
-        ],
-        [
-            "6",
-            "CREDIT AGRICOLE",
-            "BASSE TERRE",
-            "AGRIGPGXBTR"
-        ],
-        [
-            "7",
-            "CREDIT AGRICOLE",
-            "POINTE-A-PITRE",
-            "AGRIGPGX"
-        ],
-        [
-            "8",
-            "SOCIETE GENERALE DE BANQUE AUX ANTILLES",
-            "POINTE-A-PITRE",
-            "(GUADELOUPE BRANCH)",
-            "SOGEGPGPGUA"
-        ],
-        [
-            "9",
-            "SOCIETE GENERALE DE BANQUE AUX ANTILLES",
-            "POINTE-A-PITRE",
-            "SOGEGPGP"
-        ],
-        [
-            "10",
-            "SOCIETE GENERALE DE BANQUE AUX ANTILLES",
-            "POINTE-A-PITRE",
-            "SOGEGPGPMAR"
-        ]
+        {
+            "id": "1",
+            "bank": "BANQUE DES ANTILLES FRANCAISES",
+            "city": "BAIE MAHAULT",
+            "branch": null,
+            "swift_code": "BDAFGPGX"
+        },
+        {
+            "id": "2",
+            "bank": "BANQUE DES ANTILLES FRANCAISES",
+            "city": "POINTE-A-PITRE",
+            "branch": "(COMEX GUADELOUPE)",
+            "swift_code": "BDAFGPGX971"
+        },
+        {
+            "id": "3",
+            "bank": "BANQUE FRANCAISE COMMERCIALE ANTILLES - GUYANE",
+            "city": "ABYMES",
+            "branch": null,
+            "swift_code": "BFECGPGX"
+        },
+        {
+            "id": "4",
+            "bank": "BANQUE NATIONALE DE PARIS SUCCURSALE DE POINTE A PITRE",
+            "city": "BASSE TERRE",
+            "branch": null,
+            "swift_code": "BNPAGPGXBAS"
+        },
+        {
+            "id": "5",
+            "bank": "BANQUE NATIONALE DE PARIS SUCCURSALE DE POINTE A PITRE",
+            "city": "POINTE-A-PITRE",
+            "branch": null,
+            "swift_code": "BNPAGPGX"
+        },
+        {
+            "id": "6",
+            "bank": "CREDIT AGRICOLE",
+            "city": "BASSE TERRE",
+            "branch": null,
+            "swift_code": "AGRIGPGXBTR"
+        },
+        {
+            "id": "7",
+            "bank": "CREDIT AGRICOLE",
+            "city": "POINTE-A-PITRE",
+            "branch": null,
+            "swift_code": "AGRIGPGX"
+        },
+        {
+            "id": "8",
+            "bank": "SOCIETE GENERALE DE BANQUE AUX ANTILLES",
+            "city": "POINTE-A-PITRE",
+            "branch": "(GUADELOUPE BRANCH)",
+            "swift_code": "SOGEGPGPGUA"
+        },
+        {
+            "id": "9",
+            "bank": "SOCIETE GENERALE DE BANQUE AUX ANTILLES",
+            "city": "POINTE-A-PITRE",
+            "branch": null,
+            "swift_code": "SOGEGPGP"
+        },
+        {
+            "id": "10",
+            "bank": "SOCIETE GENERALE DE BANQUE AUX ANTILLES",
+            "city": "POINTE-A-PITRE",
+            "branch": null,
+            "swift_code": "SOGEGPGPMAR"
+        }
     ]
 }

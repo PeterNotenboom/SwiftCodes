@@ -2,59 +2,68 @@
     "country": "Dominica",
     "country_code": "DM",
     "list": [
-        [
-            "1",
-            "BANK OF NOVA SCOTIA,THE",
-            "ROSEAU",
-            "NOSCDMDM"
-        ],
-        [
-            "2",
-            "BARNETT CAPITAL BANK",
-            "ROSEAU",
-            "BCBKDMDM"
-        ],
-        [
-            "3",
-            "BRILLA BANK CORPORATION",
-            "ROSEAU",
-            "BRLLDMDM"
-        ],
-        [
-            "4",
-            "COMMONWEALTH BANK",
-            "ROSEAU",
-            "CMWBDMDM"
-        ],
-        [
-            "5",
-            "FIRSTCARIBBEAN INTERNATIONAL BANK",
-            "ROSEAU",
-            "FCIBDMDM"
-        ],
-        [
-            "6",
-            "GOVERNMENT OF DOMINICA",
-            "ROSEAU",
-            "GVDMDMDM"
-        ],
-        [
-            "7",
-            "NATIONAL BANK OF DOMINICA",
-            "ROSEAU",
-            "NCDMDMDM"
-        ],
-        [
-            "8",
-            "ROYAL BANK OF CANADA",
-            "ROSEAU",
-            "ROYCDMDM"
-        ],
-        [
-            "9",
-            "ZUMA BANK CORPORATION",
-            "ROSEAU",
-            "ZUMADMDM"
-        ]
+        {
+            "id": "1",
+            "bank": "BANK OF NOVA SCOTIA,THE",
+            "city": "ROSEAU",
+            "branch": null,
+            "swift_code": "NOSCDMDM"
+        },
+        {
+            "id": "2",
+            "bank": "BARNETT CAPITAL BANK",
+            "city": "ROSEAU",
+            "branch": null,
+            "swift_code": "BCBKDMDM"
+        },
+        {
+            "id": "3",
+            "bank": "BRILLA BANK CORPORATION",
+            "city": "ROSEAU",
+            "branch": null,
+            "swift_code": "BRLLDMDM"
+        },
+        {
+            "id": "4",
+            "bank": "COMMONWEALTH BANK",
+            "city": "ROSEAU",
+            "branch": null,
+            "swift_code": "CMWBDMDM"
+        },
+        {
+            "id": "5",
+            "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK",
+            "city": "ROSEAU",
+            "branch": null,
+            "swift_code": "FCIBDMDM"
+        },
+        {
+            "id": "6",
+            "bank": "GOVERNMENT OF DOMINICA",
+            "city": "ROSEAU",
+            "branch": null,
+            "swift_code": "GVDMDMDM"
+        },
+        {
+            "id": "7",
+            "bank": "NATIONAL BANK OF DOMINICA",
+            "city": "ROSEAU",
+            "branch": null,
+            "swift_code": "NCDMDMDM"
+        },
+        {
+            "id": "8",
+            "bank": "ROYAL BANK OF CANADA",
+            "city": "ROSEAU",
+            "branch": null,
+            "swift_code": "ROYCDMDM"
+        },
+        {
+            "id": "9",
+            "bank": "ZUMA BANK CORPORATION",
+            "city": "ROSEAU",
+            "branch": null,
+            "swift_code": "ZUMADMDM"
+        }
     ]
 }

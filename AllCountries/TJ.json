@@ -2,149 +2,173 @@
     "country": "Tajikistan",
     "country_code": "TJ",
     "list": [
-        [
-            "1",
-            "ACCESSBANK TAJIKISTAN",
-            "DUSHANBE",
-            "ACTJTJ22"
-        ],
-        [
-            "2",
-            "AGROINVESTBANK OPEN JOINT STOCK COMPANY",
-            "DUSHANBE",
-            "AGIBTJ22"
-        ],
-        [
-            "3",
-            "AMONATBONK THE STATE SAVING BANK REPUBLIC OF TAJIKISTAN",
-            "DUSHANBE",
-            "ASSETJ22"
-        ],
-        [
-            "4",
-            "CJSC 'BONKI RUSHDI TOJIKISTON'",
-            "DUSHANBE",
-            "BRTATJ22"
-        ],
-        [
-            "5",
-            "CJSC IB 'KONT'",
-            "DUSHANBE",
-            "KONTTJ22"
-        ],
-        [
-            "6",
-            "CJSC SPITAMEN BANK",
-            "DUSHANBE",
-            "SPRBTJ22"
-        ],
-        [
-            "7",
-            "CJSU MIKROKREDIT DEPOSIT ORGANIZATION CPITAL PLUS",
-            "DUSHANBE",
-            "CPBSTJ22"
-        ],
-        [
-            "8",
-            "CSD MDO 'IMON INTERNATIONAL'",
-            "KHUJAND",
-            "NABWTJ22"
-        ],
-        [
-            "9",
-            "ESKHATA BANK OPENED JOINT STOCK COMPANY",
-            "KHUJAND",
-            "EJSATJ22"
-        ],
-        [
-            "10",
-            "FONONBANK CJSC",
-            "DUSHANBE",
-            "FONOTJ22"
-        ],
-        [
-            "11",
-            "KAFOLATBANK",
-            "DUSHANBE",
-            "KACJTJ22"
-        ],
-        [
-            "12",
-            "LIMITED LIABILITY MICROCREDIT DEPOSIT ORGANIZATION 'STANDARD MOLIYA'",
-            "DUSHANBE",
-            "IBTKTJ22"
-        ],
-        [
-            "13",
-            "LLC MDO ARVAND",
-            "KHUJAND",
-            "ARVDTJ22"
-        ],
-        [
-            "14",
-            "LLC MDO TIJORAT",
-            "DUSHANBE",
-            "TJRTTJ22"
-        ],
-        [
-            "15",
-            "LLC MICROCREDIT DEPOSIT ORGANIZATIO N BARAKAT",
-            "DUSHANBE",
-            "BRKTTJ22"
-        ],
-        [
-            "16",
-            "MDO DISI INVEST",
-            "DUSHANBE",
-            "DISBTJ22"
-        ],
-        [
-            "17",
-            "MOLIYA VA SARMOYA",
-            "DUSHANBE",
-            "MVSATJ22"
-        ],
-        [
-            "18",
-            "NATIONAL BANK OF TAJIKISTAN",
-            "DUSHANBE",
-            "NATJTJ22"
-        ],
-        [
-            "19",
-            "NBP PAKISTAN SUBSIDIARY BANK",
-            "DUSHANBE",
-            "NBPATJ22"
-        ],
-        [
-            "20",
-            "ORIENBANK, OPEN JOINT STOCK COMPANY",
-            "DUSHANBE",
-            "OTJKTJ22"
-        ],
-        [
-            "21",
-            "SOHIBKORBANK",
-            "DUSHANBE",
-            "SOHBTJ22"
-        ],
-        [
-            "22",
-            "TAJPROMBANK ZAO",
-            "DUSHANBE",
-            "TAZATJ22"
-        ],
-        [
-            "23",
-            "THE FIRST MICROFINANCEBANK",
-            "DUSHANBE",
-            "FMBTTJ22"
-        ],
-        [
-            "24",
-            "TOJIKSODIROTBONK",
-            "DUSHANBE",
-            "TOJITJ22"
-        ]
+        {
+            "id": "1",
+            "bank": "ACCESSBANK TAJIKISTAN",
+            "city": "DUSHANBE",
+            "branch": null,
+            "swift_code": "ACTJTJ22"
+        },
+        {
+            "id": "2",
+            "bank": "AGROINVESTBANK OPEN JOINT STOCK COMPANY",
+            "city": "DUSHANBE",
+            "branch": null,
+            "swift_code": "AGIBTJ22"
+        },
+        {
+            "id": "3",
+            "bank": "AMONATBONK THE STATE SAVING BANK REPUBLIC OF TAJIKISTAN",
+            "city": "DUSHANBE",
+            "branch": null,
+            "swift_code": "ASSETJ22"
+        },
+        {
+            "id": "4",
+            "bank": "CJSC 'BONKI RUSHDI TOJIKISTON'",
+            "city": "DUSHANBE",
+            "branch": null,
+            "swift_code": "BRTATJ22"
+        },
+        {
+            "id": "5",
+            "bank": "CJSC IB 'KONT'",
+            "city": "DUSHANBE",
+            "branch": null,
+            "swift_code": "KONTTJ22"
+        },
+        {
+            "id": "6",
+            "bank": "CJSC SPITAMEN BANK",
+            "city": "DUSHANBE",
+            "branch": null,
+            "swift_code": "SPRBTJ22"
+        },
+        {
+            "id": "7",
+            "bank": "CJSU MIKROKREDIT DEPOSIT ORGANIZATION CPITAL PLUS",
+            "city": "DUSHANBE",
+            "branch": null,
+            "swift_code": "CPBSTJ22"
+        },
+        {
+            "id": "8",
+            "bank": "CSD MDO 'IMON INTERNATIONAL'",
+            "city": "KHUJAND",
+            "branch": null,
+            "swift_code": "NABWTJ22"
+        },
+        {
+            "id": "9",
+            "bank": "ESKHATA BANK OPENED JOINT STOCK COMPANY",
+            "city": "KHUJAND",
+            "branch": null,
+            "swift_code": "EJSATJ22"
+        },
+        {
+            "id": "10",
+            "bank": "FONONBANK CJSC",
+            "city": "DUSHANBE",
+            "branch": null,
+            "swift_code": "FONOTJ22"
+        },
+        {
+            "id": "11",
+            "bank": "KAFOLATBANK",
+            "city": "DUSHANBE",
+            "branch": null,
+            "swift_code": "KACJTJ22"
+        },
+        {
+            "id": "12",
+            "bank": "LIMITED LIABILITY MICROCREDIT DEPOSIT ORGANIZATION 'STANDARD MOLIYA'",
+            "city": "DUSHANBE",
+            "branch": null,
+            "swift_code": "IBTKTJ22"
+        },
+        {
+            "id": "13",
+            "bank": "LLC MDO ARVAND",
+            "city": "KHUJAND",
+            "branch": null,
+            "swift_code": "ARVDTJ22"
+        },
+        {
+            "id": "14",
+            "bank": "LLC MDO TIJORAT",
+            "city": "DUSHANBE",
+            "branch": null,
+            "swift_code": "TJRTTJ22"
+        },
+        {
+            "id": "15",
+            "bank": "LLC MICROCREDIT DEPOSIT ORGANIZATIO N BARAKAT",
+            "city": "DUSHANBE",
+            "branch": null,
+            "swift_code": "BRKTTJ22"
+        },
+        {
+            "id": "16",
+            "bank": "MDO DISI INVEST",
+            "city": "DUSHANBE",
+            "branch": null,
+            "swift_code": "DISBTJ22"
+        },
+        {
+            "id": "17",
+            "bank": "MOLIYA VA SARMOYA",
+            "city": "DUSHANBE",
+            "branch": null,
+            "swift_code": "MVSATJ22"
+        },
+        {
+            "id": "18",
+            "bank": "NATIONAL BANK OF TAJIKISTAN",
+            "city": "DUSHANBE",
+            "branch": null,
+            "swift_code": "NATJTJ22"
+        },
+        {
+            "id": "19",
+            "bank": "NBP PAKISTAN SUBSIDIARY BANK",
+            "city": "DUSHANBE",
+            "branch": null,
+            "swift_code": "NBPATJ22"
+        },
+        {
+            "id": "20",
+            "bank": "ORIENBANK, OPEN JOINT STOCK COMPANY",
+            "city": "DUSHANBE",
+            "branch": null,
+            "swift_code": "OTJKTJ22"
+        },
+        {
+            "id": "21",
+            "bank": "SOHIBKORBANK",
+            "city": "DUSHANBE",
+            "branch": null,
+            "swift_code": "SOHBTJ22"
+        },
+        {
+            "id": "22",
+            "bank": "TAJPROMBANK ZAO",
+            "city": "DUSHANBE",
+            "branch": null,
+            "swift_code": "TAZATJ22"
+        },
+        {
+            "id": "23",
+            "bank": "THE FIRST MICROFINANCEBANK",
+            "city": "DUSHANBE",
+            "branch": null,
+            "swift_code": "FMBTTJ22"
+        },
+        {
+            "id": "24",
+            "bank": "TOJIKSODIROTBONK",
+            "city": "DUSHANBE",
+            "branch": null,
+            "swift_code": "TOJITJ22"
+        }
     ]
 }

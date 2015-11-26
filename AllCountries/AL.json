@@ -2,233 +2,250 @@
     "country": "Albania",
     "country_code": "AL",
     "list": [
-        [
-            "1",
-            "ALPHA BANK ALBANIA",
-            "TIRANA",
-            "CRBAALTR"
-        ],
-        [
-            "2",
-            "BANK OF ALBANIA",
-            "TIRANA",
-            "STANALTR"
-        ],
-        [
-            "3",
-            "BANKA KOMBETARE TREGTARE SH.A.",
-            "TIRANA",
-            "NCBAALTX"
-        ],
-        [
-            "4",
-            "BANKA NBG ALBANIA SH.A.",
-            "TIRANA",
-            "ETHNALTX"
-        ],
-        [
-            "5",
-            "BANKA SOCIETE GENERALE ALBANIA",
-            "TIRANA",
-            "PUPPALTR"
-        ],
-        [
-            "6",
-            "CREDINS BANK SH.A",
-            "TIRANA",
-            "CDISALTR"
-        ],
-        [
-            "7",
-            "CREDIT AGRICOLE ALBANIA BANK S.A.",
-            "TIRANA",
-            "EMPOALTR"
-        ],
-        [
-            "8",
-            "CREDIT BANK OF ALBANIA",
-            "TIRANA",
-            "CBOAALTR"
-        ],
-        [
-            "9",
-            "FIRST INVESTMENT BANK-ALBANIA SH.A",
-            "TIRANA",
-            "FINVALTR"
-        ],
-        [
-            "10",
-            "INTERNATIONAL COMMERCIAL BANK",
-            "TIRANA",
-            "ICOAALTR"
-        ],
-        [
-            "11",
-            "INTESA SANPAOLO BANK ALBANIA SH.A.",
-            "DURRES",
-            "(DURRES MAIN BRANCH)",
-            "USALALTRDUR"
-        ],
-        [
-            "12",
-            "INTESA SANPAOLO BANK ALBANIA SH.A.",
-            "DURRES",
-            "(DURRES TRAIN STATION BRANCH)",
-            "USALALTRDR2"
-        ],
-        [
-            "13",
-            "INTESA SANPAOLO BANK ALBANIA SH.A.",
-            "ELBASAN",
-            "(ELBASAN BRANCH)",
-            "USALALTRELB"
-        ],
-        [
-            "14",
-            "INTESA SANPAOLO BANK ALBANIA SH.A.",
-            "FIER",
-            "(FIER BRANCH)",
-            "USALALTRFIE"
-        ],
-        [
-            "15",
-            "INTESA SANPAOLO BANK ALBANIA SH.A.",
-            "GJIROKASTRA",
-            "(GJIROKASTRA BRANCH)",
-            "USALALTRGJR"
-        ],
-        [
-            "16",
-            "INTESA SANPAOLO BANK ALBANIA SH.A.",
-            "KAVAJE",
-            "(KAVAJA BRANCH)",
-            "USALALTRKJ1"
-        ],
-        [
-            "17",
-            "INTESA SANPAOLO BANK ALBANIA SH.A.",
-            "KORCE",
-            "(KORCE BRANCH)",
-            "USALALTRKOR"
-        ],
-        [
-            "18",
-            "INTESA SANPAOLO BANK ALBANIA SH.A.",
-            "LEZHE",
-            "(LEZHA BRANCH)",
-            "USALALTRLZH"
-        ],
-        [
-            "19",
-            "INTESA SANPAOLO BANK ALBANIA SH.A.",
-            "LUSHNJE",
-            "(LUSHNJA BRANCH)",
-            "USALALTRLUS"
-        ],
-        [
-            "20",
-            "INTESA SANPAOLO BANK ALBANIA SH.A.",
-            "SHKODER",
-            "(SHKODRA BRANCH)",
-            "USALALTRSH1"
-        ],
-        [
-            "21",
-            "INTESA SANPAOLO BANK ALBANIA SH.A.",
-            "TIRANA",
-            "(LAPRAKA BRANCH)",
-            "USALALTR020"
-        ],
-        [
-            "22",
-            "INTESA SANPAOLO BANK ALBANIA SH.A.",
-            "TIRANA",
-            "(RR. BARRIKADAVE BRANCH)",
-            "USALALTR010"
-        ],
-        [
-            "23",
-            "INTESA SANPAOLO BANK ALBANIA SH.A.",
-            "TIRANA",
-            "USALALTR"
-        ],
-        [
-            "24",
-            "INTESA SANPAOLO BANK ALBANIA SH.A.",
-            "VLORE",
-            "(VLORA MAIN BRANCH)",
-            "USALALTRVLR"
-        ],
-        [
-            "25",
-            "INTESA SANPAOLO BANK ALBANIA SH.A.",
-            "VLORE",
-            "(VLORA RR. SADIK ZOTAJ BRANCH)",
-            "USALALTRVL2"
-        ],
-        [
-            "26",
-            "MINISTRY OF FINANCE OF ALBANIA",
-            "TIRANA",
-            "MIFBALTR"
-        ],
-        [
-            "27",
-            "PROCREDIT BANK SH. A. ALBANIA (FORMERLY FEFAD BANK)",
-            "DURRES",
-            "(DURRES BRANCH)",
-            "FEFAALTRDUR"
-        ],
-        [
-            "28",
-            "PROCREDIT BANK SH. A. ALBANIA (FORMERLY FEFAD BANK)",
-            "FIER",
-            "(FIER BRANCH)",
-            "FEFAALTRFIE"
-        ],
-        [
-            "29",
-            "PROCREDIT BANK SH. A. ALBANIA (FORMERLY FEFAD BANK)",
-            "TIRANA",
-            "(HEAD OFFICE)",
-            "FEFAALTR"
-        ],
-        [
-            "30",
-            "PROCREDIT BANK SH. A. ALBANIA (FORMERLY FEFAD BANK)",
-            "TIRANA",
-            "(TIRANA BRANCH)",
-            "FEFAALTRTIR"
-        ],
-        [
-            "31",
-            "RAIFFEISEN BANK SH.A.",
-            "TIRANA",
-            "SGSBALTX"
-        ],
-        [
-            "32",
-            "TIRANA BANK",
-            "TIRANA",
-            "TIRBALTR"
-        ],
-        [
-            "33",
-            "UNION BANK SH.A.",
-            "TIRANA",
-            "UNALALTR"
-        ],
-        [
-            "34",
-            "UNITED BANK OF ALBANIA SH.A",
-            "TIRANA",
-            "AAISALTR"
-        ],
-        [
-            "35",
-            "VENETO BANKA SH.A",
-            "TIRANA",
-            "ITSVALTR"
-        ]
+        {
+            "id": "1",
+            "bank": "ALPHA BANK ALBANIA",
+            "city": "TIRANA",
+            "branch": null,
+            "swift_code": "CRBAALTR"
+        },
+        {
+            "id": "2",
+            "bank": "BANK OF ALBANIA",
+            "city": "TIRANA",
+            "branch": null,
+            "swift_code": "STANALTR"
+        },
+        {
+            "id": "3",
+            "bank": "BANKA KOMBETARE TREGTARE SH.A.",
+            "city": "TIRANA",
+            "branch": null,
+            "swift_code": "NCBAALTX"
+        },
+        {
+            "id": "4",
+            "bank": "BANKA NBG ALBANIA SH.A.",
+            "city": "TIRANA",
+            "branch": null,
+            "swift_code": "ETHNALTX"
+        },
+        {
+            "id": "5",
+            "bank": "BANKA SOCIETE GENERALE ALBANIA",
+            "city": "TIRANA",
+            "branch": null,
+            "swift_code": "PUPPALTR"
+        },
+        {
+            "id": "6",
+            "bank": "CREDINS BANK SH.A",
+            "city": "TIRANA",
+            "branch": null,
+            "swift_code": "CDISALTR"
+        },
+        {
+            "id": "7",
+            "bank": "CREDIT AGRICOLE ALBANIA BANK S.A.",
+            "city": "TIRANA",
+            "branch": null,
+            "swift_code": "EMPOALTR"
+        },
+        {
+            "id": "8",
+            "bank": "CREDIT BANK OF ALBANIA",
+            "city": "TIRANA",
+            "branch": null,
+            "swift_code": "CBOAALTR"
+        },
+        {
+            "id": "9",
+            "bank": "FIRST INVESTMENT BANK-ALBANIA SH.A",
+            "city": "TIRANA",
+            "branch": null,
+            "swift_code": "FINVALTR"
+        },
+        {
+            "id": "10",
+            "bank": "INTERNATIONAL COMMERCIAL BANK",
+            "city": "TIRANA",
+            "branch": null,
+            "swift_code": "ICOAALTR"
+        },
+        {
+            "id": "11",
+            "bank": "INTESA SANPAOLO BANK ALBANIA SH.A.",
+            "city": "DURRES",
+            "branch": "(DURRES MAIN BRANCH)",
+            "swift_code": "USALALTRDUR"
+        },
+        {
+            "id": "12",
+            "bank": "INTESA SANPAOLO BANK ALBANIA SH.A.",
+            "city": "DURRES",
+            "branch": "(DURRES TRAIN STATION BRANCH)",
+            "swift_code": "USALALTRDR2"
+        },
+        {
+            "id": "13",
+            "bank": "INTESA SANPAOLO BANK ALBANIA SH.A.",
+            "city": "ELBASAN",
+            "branch": "(ELBASAN BRANCH)",
+            "swift_code": "USALALTRELB"
+        },
+        {
+            "id": "14",
+            "bank": "INTESA SANPAOLO BANK ALBANIA SH.A.",
+            "city": "FIER",
+            "branch": "(FIER BRANCH)",
+            "swift_code": "USALALTRFIE"
+        },
+        {
+            "id": "15",
+            "bank": "INTESA SANPAOLO BANK ALBANIA SH.A.",
+            "city": "GJIROKASTRA",
+            "branch": "(GJIROKASTRA BRANCH)",
+            "swift_code": "USALALTRGJR"
+        },
+        {
+            "id": "16",
+            "bank": "INTESA SANPAOLO BANK ALBANIA SH.A.",
+            "city": "KAVAJE",
+            "branch": "(KAVAJA BRANCH)",
+            "swift_code": "USALALTRKJ1"
+        },
+        {
+            "id": "17",
+            "bank": "INTESA SANPAOLO BANK ALBANIA SH.A.",
+            "city": "KORCE",
+            "branch": "(KORCE BRANCH)",
+            "swift_code": "USALALTRKOR"
+        },
+        {
+            "id": "18",
+            "bank": "INTESA SANPAOLO BANK ALBANIA SH.A.",
+            "city": "LEZHE",
+            "branch": "(LEZHA BRANCH)",
+            "swift_code": "USALALTRLZH"
+        },
+        {
+            "id": "19",
+            "bank": "INTESA SANPAOLO BANK ALBANIA SH.A.",
+            "city": "LUSHNJE",
+            "branch": "(LUSHNJA BRANCH)",
+            "swift_code": "USALALTRLUS"
+        },
+        {
+            "id": "20",
+            "bank": "INTESA SANPAOLO BANK ALBANIA SH.A.",
+            "city": "SHKODER",
+            "branch": "(SHKODRA BRANCH)",
+            "swift_code": "USALALTRSH1"
+        },
+        {
+            "id": "21",
+            "bank": "INTESA SANPAOLO BANK ALBANIA SH.A.",
+            "city": "TIRANA",
+            "branch": "(LAPRAKA BRANCH)",
+            "swift_code": "USALALTR020"
+        },
+        {
+            "id": "22",
+            "bank": "INTESA SANPAOLO BANK ALBANIA SH.A.",
+            "city": "TIRANA",
+            "branch": "(RR. BARRIKADAVE BRANCH)",
+            "swift_code": "USALALTR010"
+        },
+        {
+            "id": "23",
+            "bank": "INTESA SANPAOLO BANK ALBANIA SH.A.",
+            "city": "TIRANA",
+            "branch": null,
+            "swift_code": "USALALTR"
+        },
+        {
+            "id": "24",
+            "bank": "INTESA SANPAOLO BANK ALBANIA SH.A.",
+            "city": "VLORE",
+            "branch": "(VLORA MAIN BRANCH)",
+            "swift_code": "USALALTRVLR"
+        },
+        {
+            "id": "25",
+            "bank": "INTESA SANPAOLO BANK ALBANIA SH.A.",
+            "city": "VLORE",
+            "branch": "(VLORA RR. SADIK ZOTAJ BRANCH)",
+            "swift_code": "USALALTRVL2"
+        },
+        {
+            "id": "26",
+            "bank": "MINISTRY OF FINANCE OF ALBANIA",
+            "city": "TIRANA",
+            "branch": null,
+            "swift_code": "MIFBALTR"
+        },
+        {
+            "id": "27",
+            "bank": "PROCREDIT BANK SH. A. ALBANIA (FORMERLY FEFAD BANK)",
+            "city": "DURRES",
+            "branch": "(DURRES BRANCH)",
+            "swift_code": "FEFAALTRDUR"
+        },
+        {
+            "id": "28",
+            "bank": "PROCREDIT BANK SH. A. ALBANIA (FORMERLY FEFAD BANK)",
+            "city": "FIER",
+            "branch": "(FIER BRANCH)",
+            "swift_code": "FEFAALTRFIE"
+        },
+        {
+            "id": "29",
+            "bank": "PROCREDIT BANK SH. A. ALBANIA (FORMERLY FEFAD BANK)",
+            "city": "TIRANA",
+            "branch": "(HEAD OFFICE)",
+            "swift_code": "FEFAALTR"
+        },
+        {
+            "id": "30",
+            "bank": "PROCREDIT BANK SH. A. ALBANIA (FORMERLY FEFAD BANK)",
+            "city": "TIRANA",
+            "branch": "(TIRANA BRANCH)",
+            "swift_code": "FEFAALTRTIR"
+        },
+        {
+            "id": "31",
+            "bank": "RAIFFEISEN BANK SH.A.",
+            "city": "TIRANA",
+            "branch": null,
+            "swift_code": "SGSBALTX"
+        },
+        {
+            "id": "32",
+            "bank": "TIRANA BANK",
+            "city": "TIRANA",
+            "branch": null,
+            "swift_code": "TIRBALTR"
+        },
+        {
+            "id": "33",
+            "bank": "UNION BANK SH.A.",
+            "city": "TIRANA",
+            "branch": null,
+            "swift_code": "UNALALTR"
+        },
+        {
+            "id": "34",
+            "bank": "UNITED BANK OF ALBANIA SH.A",
+            "city": "TIRANA",
+            "branch": null,
+            "swift_code": "AAISALTR"
+        },
+        {
+            "id": "35",
+            "bank": "VENETO BANKA SH.A",
+            "city": "TIRANA",
+            "branch": null,
+            "swift_code": "ITSVALTR"
+        }
     ]
 }

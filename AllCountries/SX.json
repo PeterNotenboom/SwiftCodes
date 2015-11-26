@@ -2,41 +2,47 @@
     "country": "Sint Maarten",
     "country_code": "SX",
     "list": [
-        [
-            "1",
-            "BANCO DI CARIBE N.V SINT MAARTEN",
-            "PHILIPSBURG",
-            "BDCCSXSM"
-        ],
-        [
-            "2",
-            "BANK OF NOVA SCOTIA,THE",
-            "PHILIPSBURG",
-            "NOSCSXSM"
-        ],
-        [
-            "3",
-            "FIRSTCARIBBEAN INTERNATIONAL BANK",
-            "PHILIPSBURG",
-            "FCIBSXSM"
-        ],
-        [
-            "4",
-            "ORCO BANK N.V. ST. MAARTEN",
-            "COLEBAY",
-            "ORBASXSM"
-        ],
-        [
-            "5",
-            "RBC ROYAL BANK N.V. (FORMERLY RBTT BANK ST. MAARTEN N.V.)",
-            "PHILIPSBURG",
-            "RBTTSXSM"
-        ],
-        [
-            "6",
-            "WINDWARD ISLANDS BANK LTD, THE",
-            "PHILIPSBURG",
-            "WISBSXSM"
-        ]
+        {
+            "id": "1",
+            "bank": "BANCO DI CARIBE N.V SINT MAARTEN",
+            "city": "PHILIPSBURG",
+            "branch": null,
+            "swift_code": "BDCCSXSM"
+        },
+        {
+            "id": "2",
+            "bank": "BANK OF NOVA SCOTIA,THE",
+            "city": "PHILIPSBURG",
+            "branch": null,
+            "swift_code": "NOSCSXSM"
+        },
+        {
+            "id": "3",
+            "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK",
+            "city": "PHILIPSBURG",
+            "branch": null,
+            "swift_code": "FCIBSXSM"
+        },
+        {
+            "id": "4",
+            "bank": "ORCO BANK N.V. ST. MAARTEN",
+            "city": "COLEBAY",
+            "branch": null,
+            "swift_code": "ORBASXSM"
+        },
+        {
+            "id": "5",
+            "bank": "RBC ROYAL BANK N.V. (FORMERLY RBTT BANK ST. MAARTEN N.V.)",
+            "city": "PHILIPSBURG",
+            "branch": null,
+            "swift_code": "RBTTSXSM"
+        },
+        {
+            "id": "6",
+            "bank": "WINDWARD ISLANDS BANK LTD, THE",
+            "city": "PHILIPSBURG",
+            "branch": null,
+            "swift_code": "WISBSXSM"
+        }
     ]
 }

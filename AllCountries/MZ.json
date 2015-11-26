@@ -2,115 +2,131 @@
     "country": "Mozambique",
     "country_code": "MZ",
     "list": [
-        [
-            "1",
-            "AFRICAN BANKING CORPORATION (MOZAMBIQUE) SARL",
-            "MAPUTO",
-            "FMBZMZMX"
-        ],
-        [
-            "2",
-            "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
-            "MAPUTO",
-            "CGDIMZMA"
-        ],
-        [
-            "3",
-            "BANCO DE MOCAMBIQUE",
-            "MAPUTO",
-            "BMOCMZMA"
-        ],
-        [
-            "4",
-            "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A",
-            "MAPUTO",
-            "(DIRECCAO FINANCEIRA)",
-            "BIMOMZMXFIN"
-        ],
-        [
-            "5",
-            "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A",
-            "MAPUTO",
-            "(DIRECCAO INTERNACIONAL)",
-            "BIMOMZMXINT"
-        ],
-        [
-            "6",
-            "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A",
-            "MAPUTO",
-            "BIMOMZMX"
-        ],
-        [
-            "7",
-            "BANCO MERCANTIL E DE INVESTIMENTOS",
-            "MAPUTO",
-            "MERVMZMA"
-        ],
-        [
-            "8",
-            "BANCO NACIONAL DE INVESTIMENTO, SA",
-            "MAPUTO",
-            "BNIMMZMP"
-        ],
-        [
-            "9",
-            "BANCO TERRA, SA",
-            "MAPUTO",
-            "TERRMZMA"
-        ],
-        [
-            "10",
-            "BANCO UNICO, SA",
-            "MAPUTO",
-            "UNICMZMX"
-        ],
-        [
-            "11",
-            "BARCLAYS BANK MOCAMBIQUE, S.A.",
-            "MAPUTO",
-            "ABMZMZMA"
-        ],
-        [
-            "12",
-            "CAPITAL BANK SA",
-            "MAPUTO",
-            "IBICMZMA"
-        ],
-        [
-            "13",
-            "ECOBANK MOCAMBIQUE, S.A.",
-            "MAPUTO",
-            "PRCBMZMP"
-        ],
-        [
-            "14",
-            "FNB MOZAMBIQUE,SA",
-            "MAPUTO",
-            "FIRNMZMX"
-        ],
-        [
-            "15",
-            "MOZA BANCO SA",
-            "MAPUTO",
-            "MOZAMZMA"
-        ],
-        [
-            "16",
-            "STANDARD BANK SARL",
-            "MAPUTO",
-            "SBICMZMX"
-        ],
-        [
-            "17",
-            "THE MAURITIUS COMMERCIAL BANK (MOCAMBIQUE) S.A.",
-            "MAPUTO",
-            "MCBLMZMA"
-        ],
-        [
-            "18",
-            "UBA MOCAMBIQUE,SA",
-            "MAPUTO",
-            "UNAFMZMA"
-        ]
+        {
+            "id": "1",
+            "bank": "AFRICAN BANKING CORPORATION (MOZAMBIQUE) SARL",
+            "city": "MAPUTO",
+            "branch": null,
+            "swift_code": "FMBZMZMX"
+        },
+        {
+            "id": "2",
+            "bank": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
+            "city": "MAPUTO",
+            "branch": null,
+            "swift_code": "CGDIMZMA"
+        },
+        {
+            "id": "3",
+            "bank": "BANCO DE MOCAMBIQUE",
+            "city": "MAPUTO",
+            "branch": null,
+            "swift_code": "BMOCMZMA"
+        },
+        {
+            "id": "4",
+            "bank": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A",
+            "city": "MAPUTO",
+            "branch": "(DIRECCAO FINANCEIRA)",
+            "swift_code": "BIMOMZMXFIN"
+        },
+        {
+            "id": "5",
+            "bank": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A",
+            "city": "MAPUTO",
+            "branch": "(DIRECCAO INTERNACIONAL)",
+            "swift_code": "BIMOMZMXINT"
+        },
+        {
+            "id": "6",
+            "bank": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A",
+            "city": "MAPUTO",
+            "branch": null,
+            "swift_code": "BIMOMZMX"
+        },
+        {
+            "id": "7",
+            "bank": "BANCO MERCANTIL E DE INVESTIMENTOS",
+            "city": "MAPUTO",
+            "branch": null,
+            "swift_code": "MERVMZMA"
+        },
+        {
+            "id": "8",
+            "bank": "BANCO NACIONAL DE INVESTIMENTO, SA",
+            "city": "MAPUTO",
+            "branch": null,
+            "swift_code": "BNIMMZMP"
+        },
+        {
+            "id": "9",
+            "bank": "BANCO TERRA, SA",
+            "city": "MAPUTO",
+            "branch": null,
+            "swift_code": "TERRMZMA"
+        },
+        {
+            "id": "10",
+            "bank": "BANCO UNICO, SA",
+            "city": "MAPUTO",
+            "branch": null,
+            "swift_code": "UNICMZMX"
+        },
+        {
+            "id": "11",
+            "bank": "BARCLAYS BANK MOCAMBIQUE, S.A.",
+            "city": "MAPUTO",
+            "branch": null,
+            "swift_code": "ABMZMZMA"
+        },
+        {
+            "id": "12",
+            "bank": "CAPITAL BANK SA",
+            "city": "MAPUTO",
+            "branch": null,
+            "swift_code": "IBICMZMA"
+        },
+        {
+            "id": "13",
+            "bank": "ECOBANK MOCAMBIQUE, S.A.",
+            "city": "MAPUTO",
+            "branch": null,
+            "swift_code": "PRCBMZMP"
+        },
+        {
+            "id": "14",
+            "bank": "FNB MOZAMBIQUE,SA",
+            "city": "MAPUTO",
+            "branch": null,
+            "swift_code": "FIRNMZMX"
+        },
+        {
+            "id": "15",
+            "bank": "MOZA BANCO SA",
+            "city": "MAPUTO",
+            "branch": null,
+            "swift_code": "MOZAMZMA"
+        },
+        {
+            "id": "16",
+            "bank": "STANDARD BANK SARL",
+            "city": "MAPUTO",
+            "branch": null,
+            "swift_code": "SBICMZMX"
+        },
+        {
+            "id": "17",
+            "bank": "THE MAURITIUS COMMERCIAL BANK (MOCAMBIQUE) S.A.",
+            "city": "MAPUTO",
+            "branch": null,
+            "swift_code": "MCBLMZMA"
+        },
+        {
+            "id": "18",
+            "bank": "UBA MOCAMBIQUE,SA",
+            "city": "MAPUTO",
+            "branch": null,
+            "swift_code": "UNAFMZMA"
+        }
     ]
 }

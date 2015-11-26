@@ -2,78 +2,89 @@
     "country": "Belize",
     "country_code": "BZ",
     "list": [
-        [
-            "1",
-            "ATLANTIC BANK LIMITED",
-            "BELIZE CITY",
-            "LIBABZBZ"
-        ],
-        [
-            "2",
-            "ATLANTIC BANK LIMITED",
-            "SAN PEDRO",
-            "LIBABZBZ0BS"
-        ],
-        [
-            "3",
-            "ATLANTIC INTERNATIONAL BANK LIMITED",
-            "BELIZE CITY",
-            "AIBLBZBZ"
-        ],
-        [
-            "4",
-            "BELIZE BANK INTERNATIONAL LIMITED",
-            "BELIZE CITY",
-            "BCBTBZBZ"
-        ],
-        [
-            "5",
-            "BELIZE BANK LIMITED",
-            "BELIZE CITY",
-            "BBLZBZBZ"
-        ],
-        [
-            "6",
-            "CAYE INTERNATIONAL BANK LTD.",
-            "SAN PEDRO",
-            "CAYEBZBZ"
-        ],
-        [
-            "7",
-            "CENTRAL BANK OF BELIZE",
-            "BELIZE CITY",
-            "CEBBBZBZ"
-        ],
-        [
-            "8",
-            "CHOICE BANK LTD",
-            "BELIZE CITY",
-            "CHOIBZBZ"
-        ],
-        [
-            "9",
-            "FIRSTCARIBBEAN INTERNATIONAL BANK",
-            "BELIZE CITY",
-            "FCIBBZBZ"
-        ],
-        [
-            "10",
-            "HERITAGE INTERNATIONAL BANK AND TRUST LIMITED",
-            "BELIZE CITY",
-            "PRVTBZBS"
-        ],
-        [
-            "11",
-            "SCOTIABANK (BELIZE) LTD.",
-            "BELIZE CITY",
-            "(INTERNATIONAL)",
-            "NOSCBZBSINT"
-        ],
-        [
-            "12",
-            "SCOTIABANK (BELIZE) LTD.",
-            "BELIZE CITY",
-            "NOSCBZBS"
-        ]
+        {
+            "id": "1",
+            "bank": "ATLANTIC BANK LIMITED",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "LIBABZBZ"
+        },
+        {
+            "id": "2",
+            "bank": "ATLANTIC BANK LIMITED",
+            "city": "SAN PEDRO",
+            "branch": null,
+            "swift_code": "LIBABZBZ0BS"
+        },
+        {
+            "id": "3",
+            "bank": "ATLANTIC INTERNATIONAL BANK LIMITED",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "AIBLBZBZ"
+        },
+        {
+            "id": "4",
+            "bank": "BELIZE BANK INTERNATIONAL LIMITED",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "BCBTBZBZ"
+        },
+        {
+            "id": "5",
+            "bank": "BELIZE BANK LIMITED",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "BBLZBZBZ"
+        },
+        {
+            "id": "6",
+            "bank": "CAYE INTERNATIONAL BANK LTD.",
+            "city": "SAN PEDRO",
+            "branch": null,
+            "swift_code": "CAYEBZBZ"
+        },
+        {
+            "id": "7",
+            "bank": "CENTRAL BANK OF BELIZE",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "CEBBBZBZ"
+        },
+        {
+            "id": "8",
+            "bank": "CHOICE BANK LTD",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "CHOIBZBZ"
+        },
+        {
+            "id": "9",
+            "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "FCIBBZBZ"
+        },
+        {
+            "id": "10",
+            "bank": "HERITAGE INTERNATIONAL BANK AND TRUST LIMITED",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "PRVTBZBS"
+        },
+        {
+            "id": "11",
+            "bank": "SCOTIABANK (BELIZE) LTD.",
+            "city": "BELIZE CITY",
+            "branch": "(INTERNATIONAL)",
+            "swift_code": "NOSCBZBSINT"
+        },
+        {
+            "id": "12",
+            "bank": "SCOTIABANK (BELIZE) LTD.",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "NOSCBZBS"
+        }
     ]
 }

@@ -2,69 +2,75 @@
     "country": "Equatorial Guinea",
     "country_code": "GQ",
     "list": [
-        [
-            "1",
-            "BANCO NACIONAL DE GUINEA ECUATORIAL (BANGE)",
-            "MALABO",
-            "NAGCGQGQ"
-        ],
-        [
-            "2",
-            "BANQUE DES ETATS DE L'AFRIQUE CENTRALE D.N. GUINEE EQUATORIALE",
-            "BATA",
-            "(AGENCE DE BATA)",
-            "BEACGQGQ610"
-        ],
-        [
-            "3",
-            "BANQUE DES ETATS DE L'AFRIQUE CENTRALE D.N. GUINEE EQUATORIALE",
-            "MALABO",
-            "BEACGQGQ"
-        ],
-        [
-            "4",
-            "BGFIBANK GUINEE EQUATORIALE",
-            "MALABO",
-            "BGFIGQGQ"
-        ],
-        [
-            "5",
-            "CCEI BANK GE",
-            "BATA",
-            "(BATA)",
-            "CCEIGQGQBAT"
-        ],
-        [
-            "6",
-            "CCEI BANK GE",
-            "BATA",
-            "(EBIEBYIN)",
-            "CCEIGQGQEBI"
-        ],
-        [
-            "7",
-            "CCEI BANK GE",
-            "BATA",
-            "(MONGOMO)",
-            "CCEIGQGQMON"
-        ],
-        [
-            "8",
-            "CCEI BANK GE",
-            "MALABO",
-            "CCEIGQGQ"
-        ],
-        [
-            "9",
-            "ECOBANK GUINEE EQUATORIALE",
-            "MALABO",
-            "ECOCGQGQ"
-        ],
-        [
-            "10",
-            "SOCIETE GENERALE DE BANQUE EN GUINEE EQUATORIALE",
-            "MALABO",
-            "SGGEGQGQ"
-        ]
+        {
+            "id": "1",
+            "bank": "BANCO NACIONAL DE GUINEA ECUATORIAL (BANGE)",
+            "city": "MALABO",
+            "branch": null,
+            "swift_code": "NAGCGQGQ"
+        },
+        {
+            "id": "2",
+            "bank": "BANQUE DES ETATS DE L'AFRIQUE CENTRALE D.N. GUINEE EQUATORIALE",
+            "city": "BATA",
+            "branch": "(AGENCE DE BATA)",
+            "swift_code": "BEACGQGQ610"
+        },
+        {
+            "id": "3",
+            "bank": "BANQUE DES ETATS DE L'AFRIQUE CENTRALE D.N. GUINEE EQUATORIALE",
+            "city": "MALABO",
+            "branch": null,
+            "swift_code": "BEACGQGQ"
+        },
+        {
+            "id": "4",
+            "bank": "BGFIBANK GUINEE EQUATORIALE",
+            "city": "MALABO",
+            "branch": null,
+            "swift_code": "BGFIGQGQ"
+        },
+        {
+            "id": "5",
+            "bank": "CCEI BANK GE",
+            "city": "BATA",
+            "branch": "(BATA)",
+            "swift_code": "CCEIGQGQBAT"
+        },
+        {
+            "id": "6",
+            "bank": "CCEI BANK GE",
+            "city": "BATA",
+            "branch": "(EBIEBYIN)",
+            "swift_code": "CCEIGQGQEBI"
+        },
+        {
+            "id": "7",
+            "bank": "CCEI BANK GE",
+            "city": "BATA",
+            "branch": "(MONGOMO)",
+            "swift_code": "CCEIGQGQMON"
+        },
+        {
+            "id": "8",
+            "bank": "CCEI BANK GE",
+            "city": "MALABO",
+            "branch": null,
+            "swift_code": "CCEIGQGQ"
+        },
+        {
+            "id": "9",
+            "bank": "ECOBANK GUINEE EQUATORIALE",
+            "city": "MALABO",
+            "branch": null,
+            "swift_code": "ECOCGQGQ"
+        },
+        {
+            "id": "10",
+            "bank": "SOCIETE GENERALE DE BANQUE EN GUINEE EQUATORIALE",
+            "city": "MALABO",
+            "branch": null,
+            "swift_code": "SGGEGQGQ"
+        }
     ]
 }

@@ -2,11 +2,12 @@
     "country": "Mayotte",
     "country_code": "YT",
     "list": [
-        [
-            "1",
-            "BANQUE FRANCAISE COMMERCIALE DE L'OCEAN INDIEN",
-            "MAMOUDZOU",
-            "BFCOYTYT"
-        ]
+        {
+            "id": "1",
+            "bank": "BANQUE FRANCAISE COMMERCIALE DE L'OCEAN INDIEN",
+            "city": "MAMOUDZOU",
+            "branch": null,
+            "swift_code": "BFCOYTYT"
+        }
     ]
 }

@@ -2,29 +2,33 @@
     "country": "Guinea Bissau",
     "country_code": "GW",
     "list": [
-        [
-            "1",
-            "BANCO DA AFRICA OCIDENTAL SA",
-            "BISSAU",
-            "BAOBGWGW"
-        ],
-        [
-            "2",
-            "BANCO DA UNIAO",
-            "BISSAU",
-            "BDUGGWGW"
-        ],
-        [
-            "3",
-            "ECOBANK GUINEE BISSAU",
-            "BISSAU",
-            "ECOCGWGW"
-        ],
-        [
-            "4",
-            "ORABANK GUINEE BISSAU",
-            "BISSAU",
-            "ORBKGWGW"
-        ]
+        {
+            "id": "1",
+            "bank": "BANCO DA AFRICA OCIDENTAL SA",
+            "city": "BISSAU",
+            "branch": null,
+            "swift_code": "BAOBGWGW"
+        },
+        {
+            "id": "2",
+            "bank": "BANCO DA UNIAO",
+            "city": "BISSAU",
+            "branch": null,
+            "swift_code": "BDUGGWGW"
+        },
+        {
+            "id": "3",
+            "bank": "ECOBANK GUINEE BISSAU",
+            "city": "BISSAU",
+            "branch": null,
+            "swift_code": "ECOCGWGW"
+        },
+        {
+            "id": "4",
+            "bank": "ORABANK GUINEE BISSAU",
+            "city": "BISSAU",
+            "branch": null,
+            "swift_code": "ORBKGWGW"
+        }
     ]
 }

@@ -2,215 +2,236 @@
     "country": "Oman",
     "country_code": "OM",
     "list": [
-        [
-            "1",
-            "AHLI BANK S.A.O.G",
-            "MUSCAT",
-            "(AL HILAL)",
-            "AUBOOMRUALH"
-        ],
-        [
-            "2",
-            "AHLI BANK S.A.O.G",
-            "RUWI",
-            "AUBOOMRU"
-        ],
-        [
-            "3",
-            "ALIZZ ISLAMIC BANK",
-            "MUSCAT",
-            "IZZBOMRU"
-        ],
-        [
-            "4",
-            "BANK DHOFAR (S.A.O.G.)",
-            "RUWI",
-            "(MAISARAH ISLAMIC BANKING SERVICES)",
-            "BDOFOMRUMIB"
-        ],
-        [
-            "5",
-            "BANK DHOFAR (S.A.O.G.)",
-            "RUWI",
-            "BDOFOMRU"
-        ],
-        [
-            "6",
-            "BANK NIZWA",
-            "MUSCAT",
-            "BNZWOMRX"
-        ],
-        [
-            "7",
-            "BANK OF BARODA, GREATER MUTTRAH BRANCH",
-            "MUTTRAH",
-            "(MUTRAH BRANCH)",
-            "BARBOMMXMUT"
-        ],
-        [
-            "8",
-            "BANK OF BARODA, GREATER MUTTRAH BRANCH",
-            "MUTTRAH",
-            "(SALALAH BRANCH)",
-            "BARBOMMXSAL"
-        ],
-        [
-            "9",
-            "BANK OF BARODA, GREATER MUTTRAH BRANCH",
-            "RUWI",
-            "BARBOMMX"
-        ],
-        [
-            "10",
-            "BANK OF BARODA, GREATER MUTTRAH BRANCH",
-            "SOHAR",
-            "(SOHAR BRANCH)",
-            "BARBOMMXSOH"
-        ],
-        [
-            "11",
-            "BANK OF BEIRUT S.A.L.- OMAN BRANCH",
-            "MUSCAT",
-            "BABEOMRX"
-        ],
-        [
-            "12",
-            "BANK SOHAR S.A.O.G",
-            "RUWI",
-            "(SOHAR ISLAMIC)",
-            "BSHROMRUISL"
-        ],
-        [
-            "13",
-            "BANK SOHAR S.A.O.G",
-            "RUWI",
-            "BSHROMRU"
-        ],
-        [
-            "14",
-            "BANKMUSCAT SAOG",
-            "MUSCAT",
-            "(ISLAMIC BANKING)",
-            "BMUSOMRXISL"
-        ],
-        [
-            "15",
-            "BANKMUSCAT SAOG",
-            "MUSCAT",
-            "BMUSOMRX"
-        ],
-        [
-            "16",
-            "CENTRAL BANK OF OMAN",
-            "RUWI",
-            "CBOMOMRU"
-        ],
-        [
-            "17",
-            "HABIB BANK OMAN",
-            "RUWI",
-            "HABBOMRX"
-        ],
-        [
-            "18",
-            "HSBC BANK OMAN S.A.O.G (FORMERLY HSBC BANK MIDDLE EAST)",
-            "RUWI",
-            "BBMEOMRX"
-        ],
-        [
-            "19",
-            "MINISTRY OF FINANCE",
-            "MUSCAT",
-            "MINIOMRU"
-        ],
-        [
-            "20",
-            "NATIONAL BANK OF ABU DHABI, OMAN MAIN BRANCH",
-            "MUSCAT",
-            "NBADOMRX"
-        ],
-        [
-            "21",
-            "NATIONAL BANK OF ABU DHABI, OMAN MAIN BRANCH",
-            "MUTTRAH",
-            "(TRADE FINANCE DEPARTMENT)",
-            "NBADOMRXTFO"
-        ],
-        [
-            "22",
-            "NATIONAL BANK OF OMAN",
-            "MUSCAT",
-            "(TRADE SERVICES)",
-            "NBOMOMRXTSS"
-        ],
-        [
-            "23",
-            "NATIONAL BANK OF OMAN",
-            "MUSCAT",
-            "NBOMOMRX"
-        ],
-        [
-            "24",
-            "NATIONAL BANK OF OMAN",
-            "RUWI",
-            "(MUZN ISLAMIC BANKING)",
-            "NBOMOMRXIBS"
-        ],
-        [
-            "25",
-            "NATIONAL BANK OF OMAN",
-            "RUWI",
-            "(MUZN ISLAMIC TRADE FINANCE)",
-            "NBOMOMRXITF"
-        ],
-        [
-            "26",
-            "OCTAL PETROCHEMICALS FZC",
-            "MUSCAT",
-            "OPCFOMRX"
-        ],
-        [
-            "27",
-            "OMAN AND UAE EXCHANGE CENTRE CO LLC",
-            "RUWI",
-            "OUAEOMRU"
-        ],
-        [
-            "28",
-            "OMAN ARAB BANK SAOC",
-            "RUWI",
-            "(AL-YUSR ISLAMIC BANKING)",
-            "OMABOMRUYSR"
-        ],
-        [
-            "29",
-            "OMAN ARAB BANK SAOC",
-            "RUWI",
-            "OMABOMRU"
-        ],
-        [
-            "30",
-            "QATAR NATIONAL BANK",
-            "MUSCAT",
-            "QNBAOMRX"
-        ],
-        [
-            "31",
-            "STANDARD CHARTERED BANK",
-            "MUSCAT",
-            "SCBLOMRX"
-        ],
-        [
-            "32",
-            "STATE BANK OF INDIA, MUSCAT, OMAN",
-            "MUSCAT",
-            "SBINOMRX"
-        ],
-        [
-            "33",
-            "STATE GENERAL RESERVE FUND - MINISTRY OF FINANCE",
-            "MUSCAT",
-            "SGRFOMRX"
-        ]
+        {
+            "id": "1",
+            "bank": "AHLI BANK S.A.O.G",
+            "city": "MUSCAT",
+            "branch": "(AL HILAL)",
+            "swift_code": "AUBOOMRUALH"
+        },
+        {
+            "id": "2",
+            "bank": "AHLI BANK S.A.O.G",
+            "city": "RUWI",
+            "branch": null,
+            "swift_code": "AUBOOMRU"
+        },
+        {
+            "id": "3",
+            "bank": "ALIZZ ISLAMIC BANK",
+            "city": "MUSCAT",
+            "branch": null,
+            "swift_code": "IZZBOMRU"
+        },
+        {
+            "id": "4",
+            "bank": "BANK DHOFAR (S.A.O.G.)",
+            "city": "RUWI",
+            "branch": "(MAISARAH ISLAMIC BANKING SERVICES)",
+            "swift_code": "BDOFOMRUMIB"
+        },
+        {
+            "id": "5",
+            "bank": "BANK DHOFAR (S.A.O.G.)",
+            "city": "RUWI",
+            "branch": null,
+            "swift_code": "BDOFOMRU"
+        },
+        {
+            "id": "6",
+            "bank": "BANK NIZWA",
+            "city": "MUSCAT",
+            "branch": null,
+            "swift_code": "BNZWOMRX"
+        },
+        {
+            "id": "7",
+            "bank": "BANK OF BARODA, GREATER MUTTRAH BRANCH",
+            "city": "MUTTRAH",
+            "branch": "(MUTRAH BRANCH)",
+            "swift_code": "BARBOMMXMUT"
+        },
+        {
+            "id": "8",
+            "bank": "BANK OF BARODA, GREATER MUTTRAH BRANCH",
+            "city": "MUTTRAH",
+            "branch": "(SALALAH BRANCH)",
+            "swift_code": "BARBOMMXSAL"
+        },
+        {
+            "id": "9",
+            "bank": "BANK OF BARODA, GREATER MUTTRAH BRANCH",
+            "city": "RUWI",
+            "branch": null,
+            "swift_code": "BARBOMMX"
+        },
+        {
+            "id": "10",
+            "bank": "BANK OF BARODA, GREATER MUTTRAH BRANCH",
+            "city": "SOHAR",
+            "branch": "(SOHAR BRANCH)",
+            "swift_code": "BARBOMMXSOH"
+        },
+        {
+            "id": "11",
+            "bank": "BANK OF BEIRUT S.A.L.- OMAN BRANCH",
+            "city": "MUSCAT",
+            "branch": null,
+            "swift_code": "BABEOMRX"
+        },
+        {
+            "id": "12",
+            "bank": "BANK SOHAR S.A.O.G",
+            "city": "RUWI",
+            "branch": "(SOHAR ISLAMIC)",
+            "swift_code": "BSHROMRUISL"
+        },
+        {
+            "id": "13",
+            "bank": "BANK SOHAR S.A.O.G",
+            "city": "RUWI",
+            "branch": null,
+            "swift_code": "BSHROMRU"
+        },
+        {
+            "id": "14",
+            "bank": "BANKMUSCAT SAOG",
+            "city": "MUSCAT",
+            "branch": "(ISLAMIC BANKING)",
+            "swift_code": "BMUSOMRXISL"
+        },
+        {
+            "id": "15",
+            "bank": "BANKMUSCAT SAOG",
+            "city": "MUSCAT",
+            "branch": null,
+            "swift_code": "BMUSOMRX"
+        },
+        {
+            "id": "16",
+            "bank": "CENTRAL BANK OF OMAN",
+            "city": "RUWI",
+            "branch": null,
+            "swift_code": "CBOMOMRU"
+        },
+        {
+            "id": "17",
+            "bank": "HABIB BANK OMAN",
+            "city": "RUWI",
+            "branch": null,
+            "swift_code": "HABBOMRX"
+        },
+        {
+            "id": "18",
+            "bank": "HSBC BANK OMAN S.A.O.G (FORMERLY HSBC BANK MIDDLE EAST)",
+            "city": "RUWI",
+            "branch": null,
+            "swift_code": "BBMEOMRX"
+        },
+        {
+            "id": "19",
+            "bank": "MINISTRY OF FINANCE",
+            "city": "MUSCAT",
+            "branch": null,
+            "swift_code": "MINIOMRU"
+        },
+        {
+            "id": "20",
+            "bank": "NATIONAL BANK OF ABU DHABI, OMAN MAIN BRANCH",
+            "city": "MUSCAT",
+            "branch": null,
+            "swift_code": "NBADOMRX"
+        },
+        {
+            "id": "21",
+            "bank": "NATIONAL BANK OF ABU DHABI, OMAN MAIN BRANCH",
+            "city": "MUTTRAH",
+            "branch": "(TRADE FINANCE DEPARTMENT)",
+            "swift_code": "NBADOMRXTFO"
+        },
+        {
+            "id": "22",
+            "bank": "NATIONAL BANK OF OMAN",
+            "city": "MUSCAT",
+            "branch": "(TRADE SERVICES)",
+            "swift_code": "NBOMOMRXTSS"
+        },
+        {
+            "id": "23",
+            "bank": "NATIONAL BANK OF OMAN",
+            "city": "MUSCAT",
+            "branch": null,
+            "swift_code": "NBOMOMRX"
+        },
+        {
+            "id": "24",
+            "bank": "NATIONAL BANK OF OMAN",
+            "city": "RUWI",
+            "branch": "(MUZN ISLAMIC BANKING)",
+            "swift_code": "NBOMOMRXIBS"
+        },
+        {
+            "id": "25",
+            "bank": "NATIONAL BANK OF OMAN",
+            "city": "RUWI",
+            "branch": "(MUZN ISLAMIC TRADE FINANCE)",
+            "swift_code": "NBOMOMRXITF"
+        },
+        {
+            "id": "26",
+            "bank": "OCTAL PETROCHEMICALS FZC",
+            "city": "MUSCAT",
+            "branch": null,
+            "swift_code": "OPCFOMRX"
+        },
+        {
+            "id": "27",
+            "bank": "OMAN AND UAE EXCHANGE CENTRE CO LLC",
+            "city": "RUWI",
+            "branch": null,
+            "swift_code": "OUAEOMRU"
+        },
+        {
+            "id": "28",
+            "bank": "OMAN ARAB BANK SAOC",
+            "city": "RUWI",
+            "branch": "(AL-YUSR ISLAMIC BANKING)",
+            "swift_code": "OMABOMRUYSR"
+        },
+        {
+            "id": "29",
+            "bank": "OMAN ARAB BANK SAOC",
+            "city": "RUWI",
+            "branch": null,
+            "swift_code": "OMABOMRU"
+        },
+        {
+            "id": "30",
+            "bank": "QATAR NATIONAL BANK",
+            "city": "MUSCAT",
+            "branch": null,
+            "swift_code": "QNBAOMRX"
+        },
+        {
+            "id": "31",
+            "bank": "STANDARD CHARTERED BANK",
+            "city": "MUSCAT",
+            "branch": null,
+            "swift_code": "SCBLOMRX"
+        },
+        {
+            "id": "32",
+            "bank": "STATE BANK OF INDIA, MUSCAT, OMAN",
+            "city": "MUSCAT",
+            "branch": null,
+            "swift_code": "SBINOMRX"
+        },
+        {
+            "id": "33",
+            "bank": "STATE GENERAL RESERVE FUND - MINISTRY OF FINANCE",
+            "city": "MUSCAT",
+            "branch": null,
+            "swift_code": "SGRFOMRX"
+        }
     ]
 }

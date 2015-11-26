@@ -2,65 +2,75 @@
     "country": "Trinidad and Tobago",
     "country_code": "TT",
     "list": [
-        [
-            "1",
-            "AIC SECURITES LIMITED",
-            "PORT OF SPAIN",
-            "AICBTTPS"
-        ],
-        [
-            "2",
-            "BANK OF BARODA (TRINIDAD AND TOBAGO) LIMITED",
-            "PORT OF SPAIN",
-            "BARBTTPS"
-        ],
-        [
-            "3",
-            "CENTRAL BANK OF TRINIDAD AND TOBAGO",
-            "PORT OF SPAIN",
-            "CBTTTTPS"
-        ],
-        [
-            "4",
-            "CITIBANK (TRINIDAD AND TOBAGO) LIMITED",
-            "PORT OF SPAIN",
-            "CITITTPS"
-        ],
-        [
-            "5",
-            "FIRST CITIZENS BANK LIMITED",
-            "PORT OF SPAIN",
-            "FCTTTTPS"
-        ],
-        [
-            "6",
-            "FIRSTCARIBBEAN INTERNATIONAL BANK (T AND T) LTD.",
-            "PORT OF SPAIN",
-            "FCIBTTPS"
-        ],
-        [
-            "7",
-            "INTERCOMMERCIAL BANK LIMITED",
-            "CHAGUANAS",
-            "IBLITTPS"
-        ],
-        [
-            "8",
-            "RBC ROYAL BANK (TRINIDAD AND TOBAGO) LIMITED (FORMERLY RBTT BANK LIMITED)",
-            "PORT OF SPAIN",
-            "RBTTTTPX"
-        ],
-        [
-            "9",
-            "REPUBLIC BANK LIMITED",
-            "PORT OF SPAIN",
-            "RBNKTTPX"
-        ],
-        [
-            "10",
-            "SCOTIABANK TRINIDAD AND TOBAGO LTD.",
-            "PORT OF SPAIN",
-            "NOSCTTPS"
-        ]
+        {
+            "id": "1",
+            "bank": "AIC SECURITES LIMITED",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "AICBTTPS"
+        },
+        {
+            "id": "2",
+            "bank": "BANK OF BARODA (TRINIDAD AND TOBAGO) LIMITED",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "BARBTTPS"
+        },
+        {
+            "id": "3",
+            "bank": "CENTRAL BANK OF TRINIDAD AND TOBAGO",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "CBTTTTPS"
+        },
+        {
+            "id": "4",
+            "bank": "CITIBANK (TRINIDAD AND TOBAGO) LIMITED",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "CITITTPS"
+        },
+        {
+            "id": "5",
+            "bank": "FIRST CITIZENS BANK LIMITED",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "FCTTTTPS"
+        },
+        {
+            "id": "6",
+            "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (T AND T) LTD.",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "FCIBTTPS"
+        },
+        {
+            "id": "7",
+            "bank": "INTERCOMMERCIAL BANK LIMITED",
+            "city": "CHAGUANAS",
+            "branch": null,
+            "swift_code": "IBLITTPS"
+        },
+        {
+            "id": "8",
+            "bank": "RBC ROYAL BANK (TRINIDAD AND TOBAGO) LIMITED (FORMERLY RBTT BANK LIMITED)",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "RBTTTTPX"
+        },
+        {
+            "id": "9",
+            "bank": "REPUBLIC BANK LIMITED",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "RBNKTTPX"
+        },
+        {
+            "id": "10",
+            "bank": "SCOTIABANK TRINIDAD AND TOBAGO LTD.",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "NOSCTTPS"
+        }
     ]
 }

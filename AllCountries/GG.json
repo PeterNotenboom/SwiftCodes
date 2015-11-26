@@ -2,192 +2,222 @@
     "country": "Guernsey",
     "country_code": "GG",
     "list": [
-        [
-            "1",
-            "ABN AMRO (GUERNSEY) LIMITED",
-            "ST. PETER PORT",
-            "MEESGGSP"
-        ],
-        [
-            "2",
-            "AUGENTIUS FUND ADMINISTRATION (GUERNSEY) LIMITED",
-            "ST. PETER PORT",
-            "AFALGGSP"
-        ],
-        [
-            "3",
-            "BANK J. SAFRA SARASIN LTD, GUERNSEY BRANCH",
-            "ST. PETER PORT",
-            "SARAGGSP"
-        ],
-        [
-            "4",
-            "BANK JULIUS BAER AND CO LTD (GUERNSEY BRANCH)",
-            "ST. PETER PORT",
-            "BAERGGSP"
-        ],
-        [
-            "5",
-            "BANQUE CANTONALE VAUDOISE",
-            "ST. PETER PORT",
-            "BCVLGGSP"
-        ],
-        [
-            "6",
-            "BUTTERFIELD BANK (GUERNSEY) LIMITED",
-            "ST. PETER PORT",
-            "BNTBGGSX"
-        ],
-        [
-            "7",
-            "CANACCORD GENUITY WEALTH (INTERNATIONAL) LIMITED",
-            "ST. PETER PORT",
-            "CGWIGGSP"
-        ],
-        [
-            "8",
-            "CLYDESDALE BANK PLC",
-            "ST. PETER PORT",
-            "CLYDGGST"
-        ],
-        [
-            "9",
-            "CREDIT SUISSE (CHANNEL ISLANDS) LTD",
-            "ST. PETER PORT",
-            "CRESGGSP"
-        ],
-        [
-            "10",
-            "CREDIT SUISSE DEPOSIT CENTRE",
-            "ST. PETER PORT",
-            "CSDCGGSX"
-        ],
-        [
-            "11",
-            "EFG PRIVATE BANK (CHANNEL ISLANDS) LIMITED",
-            "ST. PETER PORT",
-            "EFGBGGSP"
-        ],
-        [
-            "12",
-            "HSBC PRIVATE BANK (C.I.) LIMITED (FORMERLY HSBC PRIVATE BANK (GUERNSEY) LIMITED)",
-            "ST. PETER PORT",
-            "BLICGGSX"
-        ],
-        [
-            "13",
-            "HSBC PRIVATE BANK (SUISSE) SA GUERNSEY BRANCH (FORM. REPUBLIC NATIONAL BANK OF NEW YORK (SUISSE) S.A.)",
-            "ST. PETER PORT",
-            "BLICGGBX"
-        ],
-        [
-            "14",
-            "INTERNATIONAL PRIVATE EQUITY SERVICE LIMITED",
-            "ST. PETER PORT",
-            "IPESGGSP"
-        ],
-        [
-            "15",
-            "INVESTEC BANK (CHANNEL ISLANDS) LIMITED",
-            "ST. PETER PORT",
-            "GMGUGGSP"
-        ],
-        [
-            "16",
-            "JOANNOU AND PARASKEVAIDES (OVERSEAS) LIMITED",
-            "ST. PETER PORT",
-            "JPOLGGSA"
-        ],
-        [
-            "17",
-            "KLEINWORT BENSON (CHANNEL ISLANDS) LIMITED",
-            "ST. PETER PORT",
-            "KBENGGST"
-        ],
-        [
-            "18",
-            "NATWEST-GUERNSEY",
-            "ST. PETER PORT",
-            "RBOSGGSX"
-        ],
-        [
-            "19",
-            "NOMURA REINSURANCE 1 IC LIMITED",
-            "ST. PETER PORT",
-            "NREIGGSP"
-        ],
-        [
-            "20",
-            "NORTHERN TRUST (GUERNSEY) LIMITED",
-            "ST. PETER PORT",
-            "BBCOGGSP"
-        ],
-        [
-            "21",
-            "OAK TRUST (GUERNSEY) LIMITED",
-            "ST. PETER PORT",
-            "OAKTGGSP"
-        ],
-        [
-            "22",
-            "ROTHSCHILD BANK (CI) LIMITED",
-            "ST. PETER PORT",
-            "ROSWGGSP"
-        ],
-        [
-            "23",
-            "ROTHSCHILD BANK INTERNATIONAL LTD",
-            "ST. PETER PORT",
-            "ROTHGGSP"
-        ],
-        [
-            "24",
-            "ROYAL BANK OF CANADA (CHANNEL ISLANDS) LIMITED",
-            "ST. PETER PORT",
-            "(OFM)",
-            "ROYCGGSPOFM"
-        ],
-        [
-            "25",
-            "ROYAL BANK OF CANADA (CHANNEL ISLANDS) LIMITED",
-            "ST. PETER PORT",
-            "ROYCGGSP"
-        ],
-        [
-            "26",
-            "ROYAL BANK OF SCOTLAND INTERNATIONAL LIMITED, THE",
-            "ST. PETER PORT",
-            "RBOSGGSP"
-        ],
-        [
-            "27",
-            "SCHRODERS (C.I.) LIMITED",
-            "ST. PETER PORT",
-            "SCHDGGSP"
-        ],
-        [
-            "28",
-            "SEI INVESTMENTS-GUERNSEY LIMITED",
-            "ST. PETER PORT",
-            "SEIQGGSP"
-        ],
-        [
-            "29",
-            "SEI INVESTMENTS-GUERNSEY LIMITED",
-            "ST. PETER PORT",
-            "SEIQGGSPG26"
-        ],
-        [
-            "30",
-            "SG HAMBROS BANK (CHANNEL ISLANDS) LTD GUERNSEY BRANCH",
-            "ST. PETER PORT",
-            "HAMBGGSP"
-        ],
-        [
-            "31",
-            "US CB REINSURANCE 1 IC LIMITED",
-            "ST. PETER PORT",
-            "USCBGGSP"
-        ]
+        {
+            "id": "1",
+            "bank": "ABN AMRO (GUERNSEY) LIMITED",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "MEESGGSP"
+        },
+        {
+            "id": "2",
+            "bank": "AUGENTIUS FUND ADMINISTRATION (GUERNSEY) LIMITED",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "AFALGGSP"
+        },
+        {
+            "id": "3",
+            "bank": "BANK J. SAFRA SARASIN LTD, GUERNSEY BRANCH",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "SARAGGSP"
+        },
+        {
+            "id": "4",
+            "bank": "BANK JULIUS BAER AND CO LTD (GUERNSEY BRANCH)",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "BAERGGSP"
+        },
+        {
+            "id": "5",
+            "bank": "BANQUE CANTONALE VAUDOISE",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "BCVLGGSP"
+        },
+        {
+            "id": "6",
+            "bank": "BUTTERFIELD BANK (GUERNSEY) LIMITED",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "BNTBGGSX"
+        },
+        {
+            "id": "7",
+            "bank": "CANACCORD GENUITY WEALTH (INTERNATIONAL) LIMITED",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "CGWIGGSP"
+        },
+        {
+            "id": "8",
+            "bank": "CLYDESDALE BANK PLC",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "CLYDGGST"
+        },
+        {
+            "id": "9",
+            "bank": "CREDIT SUISSE (CHANNEL ISLANDS) LTD",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "CRESGGSP"
+        },
+        {
+            "id": "10",
+            "bank": "CREDIT SUISSE DEPOSIT CENTRE",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "CSDCGGSX"
+        },
+        {
+            "id": "11",
+            "bank": "EFG PRIVATE BANK (CHANNEL ISLANDS) LIMITED",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "EFGBGGSP"
+        },
+        {
+            "id": "12",
+            "bank": "HSBC PRIVATE BANK (C.I.) LIMITED (FORMERLY HSBC PRIVATE BANK (GUERNSEY) LIMITED)",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "BLICGGSX"
+        },
+        {
+            "id": "13",
+            "bank": "HSBC PRIVATE BANK (SUISSE) SA GUERNSEY BRANCH (FORM. REPUBLIC NATIONAL BANK OF NEW YORK (SUISSE) S.A.)",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "BLICGGBX"
+        },
+        {
+            "id": "14",
+            "bank": "INTERNATIONAL PRIVATE EQUITY SERVICE LIMITED",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "IPESGGSP"
+        },
+        {
+            "id": "15",
+            "bank": "INVESTEC BANK (CHANNEL ISLANDS) LIMITED",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "GMGUGGSP"
+        },
+        {
+            "id": "16",
+            "bank": "JOANNOU AND PARASKEVAIDES (OVERSEAS) LIMITED",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "JPOLGGSA"
+        },
+        {
+            "id": "17",
+            "bank": "KLEINWORT BENSON (CHANNEL ISLANDS) LIMITED",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "KBENGGST"
+        },
+        {
+            "id": "18",
+            "bank": "NATWEST-GUERNSEY",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "RBOSGGSX"
+        },
+        {
+            "id": "19",
+            "bank": "NOMURA REINSURANCE 1 IC LIMITED",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "NREIGGSP"
+        },
+        {
+            "id": "20",
+            "bank": "NORTHERN TRUST (GUERNSEY) LIMITED",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "BBCOGGSP"
+        },
+        {
+            "id": "21",
+            "bank": "OAK TRUST (GUERNSEY) LIMITED",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "OAKTGGSP"
+        },
+        {
+            "id": "22",
+            "bank": "ROTHSCHILD BANK (CI) LIMITED",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "ROSWGGSP"
+        },
+        {
+            "id": "23",
+            "bank": "ROTHSCHILD BANK INTERNATIONAL LTD",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "ROTHGGSP"
+        },
+        {
+            "id": "24",
+            "bank": "ROYAL BANK OF CANADA (CHANNEL ISLANDS) LIMITED",
+            "city": "ST. PETER PORT",
+            "branch": "(OFM)",
+            "swift_code": "ROYCGGSPOFM"
+        },
+        {
+            "id": "25",
+            "bank": "ROYAL BANK OF CANADA (CHANNEL ISLANDS) LIMITED",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "ROYCGGSP"
+        },
+        {
+            "id": "26",
+            "bank": "ROYAL BANK OF SCOTLAND INTERNATIONAL LIMITED, THE",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "RBOSGGSP"
+        },
+        {
+            "id": "27",
+            "bank": "SCHRODERS (C.I.) LIMITED",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "SCHDGGSP"
+        },
+        {
+            "id": "28",
+            "bank": "SEI INVESTMENTS-GUERNSEY LIMITED",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "SEIQGGSP"
+        },
+        {
+            "id": "29",
+            "bank": "SEI INVESTMENTS-GUERNSEY LIMITED",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "SEIQGGSPG26"
+        },
+        {
+            "id": "30",
+            "bank": "SG HAMBROS BANK (CHANNEL ISLANDS) LTD GUERNSEY BRANCH",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "HAMBGGSP"
+        },
+        {
+            "id": "31",
+            "bank": "US CB REINSURANCE 1 IC LIMITED",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "USCBGGSP"
+        }
     ]
 }

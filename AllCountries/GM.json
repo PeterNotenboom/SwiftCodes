@@ -2,83 +2,96 @@
     "country": "Gambia",
     "country_code": "GM",
     "list": [
-        [
-            "1",
-            "ACCESS BANK GAMBIA",
-            "FAJARA",
-            "ACGAGMGF"
-        ],
-        [
-            "2",
-            "ARAB GAMBIAN ISLAMIC BANK LTD",
-            "BANJUL",
-            "AGIXGMGM"
-        ],
-        [
-            "3",
-            "BANK PHB (GAMBIA) LIMITED",
-            "BANJUL",
-            "ITBCGMGM"
-        ],
-        [
-            "4",
-            "BSIC GAMBIA LIMITED",
-            "KANIFING",
-            "BSAHGMGM"
-        ],
-        [
-            "5",
-            "CENTRAL BANK OF THE GAMBIA",
-            "BANJUL",
-            "CBGAGMGM"
-        ],
-        [
-            "6",
-            "ECOBANK GAMBIA",
-            "SERREKUNDA",
-            "ECOCGMGM"
-        ],
-        [
-            "7",
-            "FIRST INTERNATIONAL BANK LIMITED",
-            "BANJUL",
-            "FIBLGMGM"
-        ],
-        [
-            "8",
-            "GUARANTY TRUST BANK (GAMBIA) LIMITED",
-            "BANJUL",
-            "GTBGGMGM"
-        ],
-        [
-            "9",
-            "INTERNATIONAL COMMERCIAL BANK",
-            "SERREKUNDA",
-            "ICBGGMGS"
-        ],
-        [
-            "10",
-            "SKYE BANK LIMITED, GAMBIA",
-            "BANJUL",
-            "SKYEGMGM"
-        ],
-        [
-            "11",
-            "STANDARD CHARTERED BANK GAMBIA LIMITED",
-            "BANJUL",
-            "SCBLGMGM"
-        ],
-        [
-            "12",
-            "TRUST BANK LTD",
-            "BANJUL",
-            "TBLTGMGM"
-        ],
-        [
-            "13",
-            "ZENITH BANK GAMBIA",
-            "BANJUL",
-            "ZEIBGMGM"
-        ]
+        {
+            "id": "1",
+            "bank": "ACCESS BANK GAMBIA",
+            "city": "FAJARA",
+            "branch": null,
+            "swift_code": "ACGAGMGF"
+        },
+        {
+            "id": "2",
+            "bank": "ARAB GAMBIAN ISLAMIC BANK LTD",
+            "city": "BANJUL",
+            "branch": null,
+            "swift_code": "AGIXGMGM"
+        },
+        {
+            "id": "3",
+            "bank": "BANK PHB (GAMBIA) LIMITED",
+            "city": "BANJUL",
+            "branch": null,
+            "swift_code": "ITBCGMGM"
+        },
+        {
+            "id": "4",
+            "bank": "BSIC GAMBIA LIMITED",
+            "city": "KANIFING",
+            "branch": null,
+            "swift_code": "BSAHGMGM"
+        },
+        {
+            "id": "5",
+            "bank": "CENTRAL BANK OF THE GAMBIA",
+            "city": "BANJUL",
+            "branch": null,
+            "swift_code": "CBGAGMGM"
+        },
+        {
+            "id": "6",
+            "bank": "ECOBANK GAMBIA",
+            "city": "SERREKUNDA",
+            "branch": null,
+            "swift_code": "ECOCGMGM"
+        },
+        {
+            "id": "7",
+            "bank": "FIRST INTERNATIONAL BANK LIMITED",
+            "city": "BANJUL",
+            "branch": null,
+            "swift_code": "FIBLGMGM"
+        },
+        {
+            "id": "8",
+            "bank": "GUARANTY TRUST BANK (GAMBIA) LIMITED",
+            "city": "BANJUL",
+            "branch": null,
+            "swift_code": "GTBGGMGM"
+        },
+        {
+            "id": "9",
+            "bank": "INTERNATIONAL COMMERCIAL BANK",
+            "city": "SERREKUNDA",
+            "branch": null,
+            "swift_code": "ICBGGMGS"
+        },
+        {
+            "id": "10",
+            "bank": "SKYE BANK LIMITED, GAMBIA",
+            "city": "BANJUL",
+            "branch": null,
+            "swift_code": "SKYEGMGM"
+        },
+        {
+            "id": "11",
+            "bank": "STANDARD CHARTERED BANK GAMBIA LIMITED",
+            "city": "BANJUL",
+            "branch": null,
+            "swift_code": "SCBLGMGM"
+        },
+        {
+            "id": "12",
+            "bank": "TRUST BANK LTD",
+            "city": "BANJUL",
+            "branch": null,
+            "swift_code": "TBLTGMGM"
+        },
+        {
+            "id": "13",
+            "bank": "ZENITH BANK GAMBIA",
+            "city": "BANJUL",
+            "branch": null,
+            "swift_code": "ZEIBGMGM"
+        }
     ]
 }

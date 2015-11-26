@@ -2,149 +2,166 @@
     "country": "Lithuania",
     "country_code": "LT",
     "list": [
-        [
-            "1",
-            "AB CITADELE BANKAS",
-            "VILNIUS",
-            "INDULT2X"
-        ],
-        [
-            "2",
-            "AB DNB BANKAS",
-            "VILNIUS",
-            "(FOR MINIMUM RESERVES AT CENTRAL BANK)",
-            "AGBLLT2XTGT"
-        ],
-        [
-            "3",
-            "AB DNB BANKAS",
-            "VILNIUS",
-            "AGBLLT2X"
-        ],
-        [
-            "4",
-            "AS MERIDIAN TRADE BANK LITHUANIAN BRANCH",
-            "VILNIUS",
-            "SMPBLT2X"
-        ],
-        [
-            "5",
-            "BANK FINASTA",
-            "VILNIUS",
-            "FIBALT22"
-        ],
-        [
-            "6",
-            "DANSKE BANK A\/S,LITHUANIA BRANCH",
-            "VILNIUS",
-            "SMPOLT22"
-        ],
-        [
-            "7",
-            "LIETUVOS BANKAS (BANK OF LITHUANIA)",
-            "VILNIUS",
-            "(BANKING SERVICE)",
-            "LIABLT2XMMS"
-        ],
-        [
-            "8",
-            "LIETUVOS BANKAS (BANK OF LITHUANIA)",
-            "VILNIUS",
-            "(INFORMATION SERVICE)",
-            "LIABLT2XSNO"
-        ],
-        [
-            "9",
-            "LIETUVOS BANKAS (BANK OF LITHUANIA)",
-            "VILNIUS",
-            "(PAYMENT SYSTEMS DEPARTMENT)",
-            "LIABLT2XMSD"
-        ],
-        [
-            "10",
-            "LIETUVOS BANKAS (BANK OF LITHUANIA)",
-            "VILNIUS",
-            "(TARGET2 CONTINGENCY)",
-            "LIABLT2XCON"
-        ],
-        [
-            "11",
-            "LIETUVOS BANKAS (BANK OF LITHUANIA)",
-            "VILNIUS",
-            "LIABLT2X"
-        ],
-        [
-            "12",
-            "LIETUVOS CENTRINIS VERTYBINIU POPIERIU DEPOZITORIUMAS, AB (CENTRAL SECURITIES DEPOSITORY OF LITHUANIA)",
-            "VILNIUS",
-            "(PM)",
-            "CSDLLT22RTG"
-        ],
-        [
-            "13",
-            "LIETUVOS CENTRINIS VERTYBINIU POPIERIU DEPOZITORIUMAS, AB (CENTRAL SECURITIES DEPOSITORY OF LITHUANIA)",
-            "VILNIUS",
-            "CSDLLT22"
-        ],
-        [
-            "14",
-            "LIETUVOS CENTRINIS VERTYBINIU POPIERIU DEPOZITORIUMAS, AB (CENTRAL SECURITIES DEPOSITORY OF LITHUANIA)",
-            "VILNIUS",
-            "CSDLLT22577"
-        ],
-        [
-            "15",
-            "LITHUANIAN CENTRAL CREDIT UNION",
-            "KAUNAS",
-            "LCKULT22"
-        ],
-        [
-            "16",
-            "NORDEA BANK AB LITHUANIA BRANCH (FORMERLY NORDEA BANK FINLAND PLC LITHUANIA BRANCH)",
-            "VILNIUS",
-            "NDEALT2X"
-        ],
-        [
-            "17",
-            "POHJOLA BANK PLC LITHUANIAN BRANCH",
-            "VILNIUS",
-            "OKOYLT2X"
-        ],
-        [
-            "18",
-            "SEB BANK",
-            "VILNIUS",
-            "CBVILT2X"
-        ],
-        [
-            "19",
-            "SIAULIU BANKAS AB",
-            "SIAULIAI",
-            "CBSBLT26"
-        ],
-        [
-            "20",
-            "SVENSKA HANDELSBANKEN AB",
-            "VILNIUS",
-            "HANDLT2X"
-        ],
-        [
-            "21",
-            "SWEDBANK AB",
-            "VILNIUS",
-            "HABALT22"
-        ],
-        [
-            "22",
-            "UAB FMI FINVESTA",
-            "VILNIUS",
-            "UAFFLT22"
-        ],
-        [
-            "23",
-            "UAB MEDICINOS BANKAS",
-            "VILNIUS",
-            "MDBALT22"
-        ]
+        {
+            "id": "1",
+            "bank": "AB CITADELE BANKAS",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "INDULT2X"
+        },
+        {
+            "id": "2",
+            "bank": "AB DNB BANKAS",
+            "city": "VILNIUS",
+            "branch": "(FOR MINIMUM RESERVES AT CENTRAL BANK)",
+            "swift_code": "AGBLLT2XTGT"
+        },
+        {
+            "id": "3",
+            "bank": "AB DNB BANKAS",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "AGBLLT2X"
+        },
+        {
+            "id": "4",
+            "bank": "AS MERIDIAN TRADE BANK LITHUANIAN BRANCH",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "SMPBLT2X"
+        },
+        {
+            "id": "5",
+            "bank": "BANK FINASTA",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "FIBALT22"
+        },
+        {
+            "id": "6",
+            "bank": "DANSKE BANK A\/S,LITHUANIA BRANCH",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "SMPOLT22"
+        },
+        {
+            "id": "7",
+            "bank": "LIETUVOS BANKAS (BANK OF LITHUANIA)",
+            "city": "VILNIUS",
+            "branch": "(BANKING SERVICE)",
+            "swift_code": "LIABLT2XMMS"
+        },
+        {
+            "id": "8",
+            "bank": "LIETUVOS BANKAS (BANK OF LITHUANIA)",
+            "city": "VILNIUS",
+            "branch": "(INFORMATION SERVICE)",
+            "swift_code": "LIABLT2XSNO"
+        },
+        {
+            "id": "9",
+            "bank": "LIETUVOS BANKAS (BANK OF LITHUANIA)",
+            "city": "VILNIUS",
+            "branch": "(PAYMENT SYSTEMS DEPARTMENT)",
+            "swift_code": "LIABLT2XMSD"
+        },
+        {
+            "id": "10",
+            "bank": "LIETUVOS BANKAS (BANK OF LITHUANIA)",
+            "city": "VILNIUS",
+            "branch": "(TARGET2 CONTINGENCY)",
+            "swift_code": "LIABLT2XCON"
+        },
+        {
+            "id": "11",
+            "bank": "LIETUVOS BANKAS (BANK OF LITHUANIA)",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "LIABLT2X"
+        },
+        {
+            "id": "12",
+            "bank": "LIETUVOS CENTRINIS VERTYBINIU POPIERIU DEPOZITORIUMAS, AB (CENTRAL SECURITIES DEPOSITORY OF LITHUANIA)",
+            "city": "VILNIUS",
+            "branch": "(PM)",
+            "swift_code": "CSDLLT22RTG"
+        },
+        {
+            "id": "13",
+            "bank": "LIETUVOS CENTRINIS VERTYBINIU POPIERIU DEPOZITORIUMAS, AB (CENTRAL SECURITIES DEPOSITORY OF LITHUANIA)",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "CSDLLT22"
+        },
+        {
+            "id": "14",
+            "bank": "LIETUVOS CENTRINIS VERTYBINIU POPIERIU DEPOZITORIUMAS, AB (CENTRAL SECURITIES DEPOSITORY OF LITHUANIA)",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "CSDLLT22577"
+        },
+        {
+            "id": "15",
+            "bank": "LITHUANIAN CENTRAL CREDIT UNION",
+            "city": "KAUNAS",
+            "branch": null,
+            "swift_code": "LCKULT22"
+        },
+        {
+            "id": "16",
+            "bank": "NORDEA BANK AB LITHUANIA BRANCH (FORMERLY NORDEA BANK FINLAND PLC LITHUANIA BRANCH)",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "NDEALT2X"
+        },
+        {
+            "id": "17",
+            "bank": "POHJOLA BANK PLC LITHUANIAN BRANCH",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "OKOYLT2X"
+        },
+        {
+            "id": "18",
+            "bank": "SEB BANK",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "CBVILT2X"
+        },
+        {
+            "id": "19",
+            "bank": "SIAULIU BANKAS AB",
+            "city": "SIAULIAI",
+            "branch": null,
+            "swift_code": "CBSBLT26"
+        },
+        {
+            "id": "20",
+            "bank": "SVENSKA HANDELSBANKEN AB",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "HANDLT2X"
+        },
+        {
+            "id": "21",
+            "bank": "SWEDBANK AB",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "HABALT22"
+        },
+        {
+            "id": "22",
+            "bank": "UAB FMI FINVESTA",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "UAFFLT22"
+        },
+        {
+            "id": "23",
+            "bank": "UAB MEDICINOS BANKAS",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "MDBALT22"
+        }
     ]
 }

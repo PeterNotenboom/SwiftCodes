@@ -2,205 +2,236 @@
     "country": "Macao",
     "country_code": "MO",
     "list": [
-        [
-            "1",
-            "AUTORIDADE MONETARIA DE MACAU",
-            "MACAU",
-            "MFAMMOMX"
-        ],
-        [
-            "2",
-            "BANCO BPI SA",
-            "MACAU",
-            "BBPIMOMX"
-        ],
-        [
-            "3",
-            "BANCO COMERCIAL DE MACAU, S.A.",
-            "MACAU",
-            "CMACMOMX"
-        ],
-        [
-            "4",
-            "BANCO COMMERCIAL PORTUGUES",
-            "MACAU",
-            "BCOMMOMX"
-        ],
-        [
-            "5",
-            "BANCO DELTA ASIA S.A.R.L.",
-            "MACAU",
-            "DABGMOMX"
-        ],
-        [
-            "6",
-            "BANCO ESPIRITO SANTO DO ORIENTE, S.A.",
-            "MACAU",
-            "BESCMOMX"
-        ],
-        [
-            "7",
-            "BANCO NACIONAL ULTRAMARINO, SA",
-            "MACAU",
-            "BNULMOMX"
-        ],
-        [
-            "8",
-            "BANK OF CHINA, MACAU BRANCH",
-            "MACAU",
-            "(RENMINBI CLEARING CENTRE)",
-            "BKCHMOMX868"
-        ],
-        [
-            "9",
-            "BANK OF CHINA, MACAU BRANCH",
-            "MACAU",
-            "BKCHMOMX"
-        ],
-        [
-            "10",
-            "BANK OF COMMUNICATIONS CO.,LTD. MACAU BRANCH",
-            "MACAU",
-            "COMMMOMX"
-        ],
-        [
-            "11",
-            "BANK SINOPAC (FORMERLY INT'L BANK OF TAIPEI)",
-            "MACAU",
-            "SINOMOMX"
-        ],
-        [
-            "12",
-            "CAIXA ECONOMICA POSTAL",
-            "MACAU",
-            "CIEPMOMX"
-        ],
-        [
-            "13",
-            "CAIXA GERAL DE DEPOSITOS, SA - SUCURSAL OFFSHORE DE MACAU",
-            "MACAU",
-            "CGDIMOMX"
-        ],
-        [
-            "14",
-            "CHINA CITIC BANK INTERNATIONAL LIMITED MACAU BRANCH",
-            "MACAU",
-            "KWHKMOMX"
-        ],
-        [
-            "15",
-            "CHINA CONSTRUCTION BANK CORPORATION MACAU BRANCH",
-            "MACAU",
-            "(RETAIL AND COMMERCIAL)",
-            "CCBQMOMXRTL"
-        ],
-        [
-            "16",
-            "CHINA CONSTRUCTION BANK CORPORATION MACAU BRANCH",
-            "MACAU",
-            "CCBQMOMX"
-        ],
-        [
-            "17",
-            "CHINA GUANGFA BANK CO., LTD MACAU BRANCH",
-            "MACAU",
-            "GDBKMOMX"
-        ],
-        [
-            "18",
-            "CHONG HING BANK LIMITED MACAU BRANCH",
-            "MACAU",
-            "LCHBMOMX"
-        ],
-        [
-            "19",
-            "CITIBANK NA, MACAU",
-            "MACAU",
-            "CITIMOMX"
-        ],
-        [
-            "20",
-            "DBS BANK (HONG KONG) LIMITED, MACAU BRANCH",
-            "MACAU",
-            "DBSSMOMX"
-        ],
-        [
-            "21",
-            "FIRST COMMERCIAL BANK, MACAU BRANCH",
-            "MACAU",
-            "FCBKMOMX"
-        ],
-        [
-            "22",
-            "HANG SENG BANK LIMITED,MACAU BRANCH",
-            "MACAU",
-            "HASEMOMX"
-        ],
-        [
-            "23",
-            "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
-            "MACAU",
-            "HSBCMOMX"
-        ],
-        [
-            "24",
-            "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
-            "MACAU",
-            "HSBCMOMXAAM"
-        ],
-        [
-            "25",
-            "HUA NAN COMMERCIAL BANK,LTD. MACAU BRANCH",
-            "MACAU",
-            "HNBKMOMX"
-        ],
-        [
-            "26",
-            "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU) LIMITED",
-            "MACAU",
-            "ICBKMOMX"
-        ],
-        [
-            "27",
-            "LUSO INTERNATIONAL BANKING LTD.",
-            "MACAU",
-            "LUSOMOMX"
-        ],
-        [
-            "28",
-            "OCBC WING HANG BANK LIMITED",
-            "MACAU",
-            "WIHBMOMX"
-        ],
-        [
-            "29",
-            "STANDARD CHARTERED BANK",
-            "MACAU",
-            "SCBLMOMX"
-        ],
-        [
-            "30",
-            "TAI FUNG BANK LIMITED",
-            "MACAU",
-            "TFBLMOMX"
-        ],
-        [
-            "31",
-            "THE BANK OF EAST ASIA,LIMITED MACAU BRANCH",
-            "MACAU",
-            "BEASMOMX"
-        ],
-        [
-            "32",
-            "THE MACAU CHINESE BANK LIMITED",
-            "MACAU",
-            "MCHNMOMX"
-        ],
-        [
-            "33",
-            "WING LUNG BANK LIMITED MACAU BRANCH",
-            "MACAU",
-            "WUBAMOMX"
-        ]
+        {
+            "id": "1",
+            "bank": "AUTORIDADE MONETARIA DE MACAU",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "MFAMMOMX"
+        },
+        {
+            "id": "2",
+            "bank": "BANCO BPI SA",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "BBPIMOMX"
+        },
+        {
+            "id": "3",
+            "bank": "BANCO COMERCIAL DE MACAU, S.A.",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "CMACMOMX"
+        },
+        {
+            "id": "4",
+            "bank": "BANCO COMMERCIAL PORTUGUES",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "BCOMMOMX"
+        },
+        {
+            "id": "5",
+            "bank": "BANCO DELTA ASIA S.A.R.L.",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "DABGMOMX"
+        },
+        {
+            "id": "6",
+            "bank": "BANCO ESPIRITO SANTO DO ORIENTE, S.A.",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "BESCMOMX"
+        },
+        {
+            "id": "7",
+            "bank": "BANCO NACIONAL ULTRAMARINO, SA",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "BNULMOMX"
+        },
+        {
+            "id": "8",
+            "bank": "BANK OF CHINA, MACAU BRANCH",
+            "city": "MACAU",
+            "branch": "(RENMINBI CLEARING CENTRE)",
+            "swift_code": "BKCHMOMX868"
+        },
+        {
+            "id": "9",
+            "bank": "BANK OF CHINA, MACAU BRANCH",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "BKCHMOMX"
+        },
+        {
+            "id": "10",
+            "bank": "BANK OF COMMUNICATIONS CO.,LTD. MACAU BRANCH",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "COMMMOMX"
+        },
+        {
+            "id": "11",
+            "bank": "BANK SINOPAC (FORMERLY INT'L BANK OF TAIPEI)",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "SINOMOMX"
+        },
+        {
+            "id": "12",
+            "bank": "CAIXA ECONOMICA POSTAL",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "CIEPMOMX"
+        },
+        {
+            "id": "13",
+            "bank": "CAIXA GERAL DE DEPOSITOS, SA - SUCURSAL OFFSHORE DE MACAU",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "CGDIMOMX"
+        },
+        {
+            "id": "14",
+            "bank": "CHINA CITIC BANK INTERNATIONAL LIMITED MACAU BRANCH",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "KWHKMOMX"
+        },
+        {
+            "id": "15",
+            "bank": "CHINA CONSTRUCTION BANK CORPORATION MACAU BRANCH",
+            "city": "MACAU",
+            "branch": "(RETAIL AND COMMERCIAL)",
+            "swift_code": "CCBQMOMXRTL"
+        },
+        {
+            "id": "16",
+            "bank": "CHINA CONSTRUCTION BANK CORPORATION MACAU BRANCH",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "CCBQMOMX"
+        },
+        {
+            "id": "17",
+            "bank": "CHINA GUANGFA BANK CO., LTD MACAU BRANCH",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "GDBKMOMX"
+        },
+        {
+            "id": "18",
+            "bank": "CHONG HING BANK LIMITED MACAU BRANCH",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "LCHBMOMX"
+        },
+        {
+            "id": "19",
+            "bank": "CITIBANK NA, MACAU",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "CITIMOMX"
+        },
+        {
+            "id": "20",
+            "bank": "DBS BANK (HONG KONG) LIMITED, MACAU BRANCH",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "DBSSMOMX"
+        },
+        {
+            "id": "21",
+            "bank": "FIRST COMMERCIAL BANK, MACAU BRANCH",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "FCBKMOMX"
+        },
+        {
+            "id": "22",
+            "bank": "HANG SENG BANK LIMITED,MACAU BRANCH",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "HASEMOMX"
+        },
+        {
+            "id": "23",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "HSBCMOMX"
+        },
+        {
+            "id": "24",
+            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "HSBCMOMXAAM"
+        },
+        {
+            "id": "25",
+            "bank": "HUA NAN COMMERCIAL BANK,LTD. MACAU BRANCH",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "HNBKMOMX"
+        },
+        {
+            "id": "26",
+            "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (MACAU) LIMITED",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "ICBKMOMX"
+        },
+        {
+            "id": "27",
+            "bank": "LUSO INTERNATIONAL BANKING LTD.",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "LUSOMOMX"
+        },
+        {
+            "id": "28",
+            "bank": "OCBC WING HANG BANK LIMITED",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "WIHBMOMX"
+        },
+        {
+            "id": "29",
+            "bank": "STANDARD CHARTERED BANK",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "SCBLMOMX"
+        },
+        {
+            "id": "30",
+            "bank": "TAI FUNG BANK LIMITED",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "TFBLMOMX"
+        },
+        {
+            "id": "31",
+            "bank": "THE BANK OF EAST ASIA,LIMITED MACAU BRANCH",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "BEASMOMX"
+        },
+        {
+            "id": "32",
+            "bank": "THE MACAU CHINESE BANK LIMITED",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "MCHNMOMX"
+        },
+        {
+            "id": "33",
+            "bank": "WING LUNG BANK LIMITED MACAU BRANCH",
+            "city": "MACAU",
+            "branch": null,
+            "swift_code": "WUBAMOMX"
+        }
     ]
 }

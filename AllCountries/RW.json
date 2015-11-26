@@ -2,142 +2,159 @@
     "country": "Rwanda",
     "country_code": "RW",
     "list": [
-        [
-            "1",
-            "AB BANK RWANDA LTD.",
-            "KIGALI",
-            "ABBRRWRW"
-        ],
-        [
-            "2",
-            "ACCESS BANK (RWANDA) SA",
-            "KIGALI",
-            "BKORRWRW"
-        ],
-        [
-            "3",
-            "BANK OF KIGALI LIMITED",
-            "KIGALI",
-            "BKIGRWRW"
-        ],
-        [
-            "4",
-            "BANQUE COMMERCIALE DU RWANDA",
-            "KIGALI",
-            "BCRWRWRW"
-        ],
-        [
-            "5",
-            "BANQUE DE L'HABITAT DU RWANDA",
-            "KIGALI",
-            "LHRWRWRW"
-        ],
-        [
-            "6",
-            "BANQUE NATIONALE DU RWANDA (BNR)",
-            "KIGALI",
-            "BNRWRWRP"
-        ],
-        [
-            "7",
-            "BANQUE NATIONALE DU RWANDA (BNR)",
-            "KIGALI",
-            "BNRWRWRW"
-        ],
-        [
-            "8",
-            "BANQUE POPULAIRE DU RWANDA S.A",
-            "KIGALI",
-            "BPRWRWRW"
-        ],
-        [
-            "9",
-            "COMPAGNIE GENERALE DE BANQUE\/COGEBANQUE",
-            "KIGALI",
-            "CGBKRWRW"
-        ],
-        [
-            "10",
-            "CRANE BANK RWANDA LTD",
-            "KIGALI",
-            "CRRWRWRW"
-        ],
-        [
-            "11",
-            "DEVELOPMENT BANK OF RWANDA",
-            "KIGALI",
-            "BRDRRWRW"
-        ],
-        [
-            "12",
-            "ECOBANK RWANDA",
-            "KIGALI",
-            "ECOCRWRW"
-        ],
-        [
-            "13",
-            "EQUITY BANK RWANDA LIMITED",
-            "KIGALI",
-            "EQBLRWRW"
-        ],
-        [
-            "14",
-            "FINA BANK S.A.",
-            "KIGALI",
-            "BARWRWRW"
-        ],
-        [
-            "15",
-            "KCB RWANDA SA",
-            "HUYE",
-            "(KCB RWANDA - HUYE BRANCH)",
-            "KCBLRWRW163"
-        ],
-        [
-            "16",
-            "KCB RWANDA SA",
-            "KIGALI",
-            "(CENTRAL CLEARING CENTRE - HEAD OFFICE)",
-            "KCBLRWRW161"
-        ],
-        [
-            "17",
-            "KCB RWANDA SA",
-            "KIGALI",
-            "KCBLRWRW"
-        ],
-        [
-            "18",
-            "KCB RWANDA SA",
-            "KIGALI",
-            "KCBLRWRWCUS"
-        ],
-        [
-            "19",
-            "KCB RWANDA SA",
-            "MUSANZE",
-            "(KCB RWANDA - MUSANZE BRANCH)",
-            "KCBLRWRW165"
-        ],
-        [
-            "20",
-            "KCB RWANDA SA",
-            "RUBAVU",
-            "(KCB RWANDA - RUBAVU BRANCH)",
-            "KCBLRWRW162"
-        ],
-        [
-            "21",
-            "KCB RWANDA SA",
-            "RUSIZI",
-            "(KCB RWANDA - RUSIZI BRANCH)",
-            "KCBLRWRW164"
-        ],
-        [
-            "22",
-            "URWEGO OPPORTUNITY BANK LIMITED",
-            "KIGALI",
-            "UOBRRWRW"
-        ]
+        {
+            "id": "1",
+            "bank": "AB BANK RWANDA LTD.",
+            "city": "KIGALI",
+            "branch": null,
+            "swift_code": "ABBRRWRW"
+        },
+        {
+            "id": "2",
+            "bank": "ACCESS BANK (RWANDA) SA",
+            "city": "KIGALI",
+            "branch": null,
+            "swift_code": "BKORRWRW"
+        },
+        {
+            "id": "3",
+            "bank": "BANK OF KIGALI LIMITED",
+            "city": "KIGALI",
+            "branch": null,
+            "swift_code": "BKIGRWRW"
+        },
+        {
+            "id": "4",
+            "bank": "BANQUE COMMERCIALE DU RWANDA",
+            "city": "KIGALI",
+            "branch": null,
+            "swift_code": "BCRWRWRW"
+        },
+        {
+            "id": "5",
+            "bank": "BANQUE DE L'HABITAT DU RWANDA",
+            "city": "KIGALI",
+            "branch": null,
+            "swift_code": "LHRWRWRW"
+        },
+        {
+            "id": "6",
+            "bank": "BANQUE NATIONALE DU RWANDA (BNR)",
+            "city": "KIGALI",
+            "branch": null,
+            "swift_code": "BNRWRWRP"
+        },
+        {
+            "id": "7",
+            "bank": "BANQUE NATIONALE DU RWANDA (BNR)",
+            "city": "KIGALI",
+            "branch": null,
+            "swift_code": "BNRWRWRW"
+        },
+        {
+            "id": "8",
+            "bank": "BANQUE POPULAIRE DU RWANDA S.A",
+            "city": "KIGALI",
+            "branch": null,
+            "swift_code": "BPRWRWRW"
+        },
+        {
+            "id": "9",
+            "bank": "COMPAGNIE GENERALE DE BANQUE\/COGEBANQUE",
+            "city": "KIGALI",
+            "branch": null,
+            "swift_code": "CGBKRWRW"
+        },
+        {
+            "id": "10",
+            "bank": "CRANE BANK RWANDA LTD",
+            "city": "KIGALI",
+            "branch": null,
+            "swift_code": "CRRWRWRW"
+        },
+        {
+            "id": "11",
+            "bank": "DEVELOPMENT BANK OF RWANDA",
+            "city": "KIGALI",
+            "branch": null,
+            "swift_code": "BRDRRWRW"
+        },
+        {
+            "id": "12",
+            "bank": "ECOBANK RWANDA",
+            "city": "KIGALI",
+            "branch": null,
+            "swift_code": "ECOCRWRW"
+        },
+        {
+            "id": "13",
+            "bank": "EQUITY BANK RWANDA LIMITED",
+            "city": "KIGALI",
+            "branch": null,
+            "swift_code": "EQBLRWRW"
+        },
+        {
+            "id": "14",
+            "bank": "FINA BANK S.A.",
+            "city": "KIGALI",
+            "branch": null,
+            "swift_code": "BARWRWRW"
+        },
+        {
+            "id": "15",
+            "bank": "KCB RWANDA SA",
+            "city": "HUYE",
+            "branch": "(KCB RWANDA - HUYE BRANCH)",
+            "swift_code": "KCBLRWRW163"
+        },
+        {
+            "id": "16",
+            "bank": "KCB RWANDA SA",
+            "city": "KIGALI",
+            "branch": "(CENTRAL CLEARING CENTRE - HEAD OFFICE)",
+            "swift_code": "KCBLRWRW161"
+        },
+        {
+            "id": "17",
+            "bank": "KCB RWANDA SA",
+            "city": "KIGALI",
+            "branch": null,
+            "swift_code": "KCBLRWRW"
+        },
+        {
+            "id": "18",
+            "bank": "KCB RWANDA SA",
+            "city": "KIGALI",
+            "branch": null,
+            "swift_code": "KCBLRWRWCUS"
+        },
+        {
+            "id": "19",
+            "bank": "KCB RWANDA SA",
+            "city": "MUSANZE",
+            "branch": "(KCB RWANDA - MUSANZE BRANCH)",
+            "swift_code": "KCBLRWRW165"
+        },
+        {
+            "id": "20",
+            "bank": "KCB RWANDA SA",
+            "city": "RUBAVU",
+            "branch": "(KCB RWANDA - RUBAVU BRANCH)",
+            "swift_code": "KCBLRWRW162"
+        },
+        {
+            "id": "21",
+            "bank": "KCB RWANDA SA",
+            "city": "RUSIZI",
+            "branch": "(KCB RWANDA - RUSIZI BRANCH)",
+            "swift_code": "KCBLRWRW164"
+        },
+        {
+            "id": "22",
+            "bank": "URWEGO OPPORTUNITY BANK LIMITED",
+            "city": "KIGALI",
+            "branch": null,
+            "swift_code": "UOBRRWRW"
+        }
     ]
 }

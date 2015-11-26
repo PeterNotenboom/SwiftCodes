@@ -2,47 +2,54 @@
     "country": "Haiti",
     "country_code": "HT",
     "list": [
-        [
-            "1",
-            "BANK OF NOVA SCOTIA,THE",
-            "PORT AU PRINCE",
-            "NOSCHTPP"
-        ],
-        [
-            "2",
-            "BANQUE DE LA REPUBLIQUE D'HAITI",
-            "PORT AU PRINCE",
-            "BRHAHTPP"
-        ],
-        [
-            "3",
-            "BANQUE DE L'UNION HAITIENNE",
-            "PORT AU PRINCE",
-            "BUHEHTPP"
-        ],
-        [
-            "4",
-            "BANQUE NATIONALE DE CREDIT (BNC)",
-            "PORT AU PRINCE",
-            "BNCHHTPP"
-        ],
-        [
-            "5",
-            "CAPITAL BANK S.A.",
-            "PORT AU PRINCE",
-            "CPPLHTPP"
-        ],
-        [
-            "6",
-            "SOCIETE GENERALE HAITIENNE DE BANQUE S.A.",
-            "PORT AU PRINCE",
-            "SOGHHTPP"
-        ],
-        [
-            "7",
-            "UNIBANK S.A.",
-            "PETION-VILLE",
-            "UBNKHTPP"
-        ]
+        {
+            "id": "1",
+            "bank": "BANK OF NOVA SCOTIA,THE",
+            "city": "PORT AU PRINCE",
+            "branch": null,
+            "swift_code": "NOSCHTPP"
+        },
+        {
+            "id": "2",
+            "bank": "BANQUE DE LA REPUBLIQUE D'HAITI",
+            "city": "PORT AU PRINCE",
+            "branch": null,
+            "swift_code": "BRHAHTPP"
+        },
+        {
+            "id": "3",
+            "bank": "BANQUE DE L'UNION HAITIENNE",
+            "city": "PORT AU PRINCE",
+            "branch": null,
+            "swift_code": "BUHEHTPP"
+        },
+        {
+            "id": "4",
+            "bank": "BANQUE NATIONALE DE CREDIT (BNC)",
+            "city": "PORT AU PRINCE",
+            "branch": null,
+            "swift_code": "BNCHHTPP"
+        },
+        {
+            "id": "5",
+            "bank": "CAPITAL BANK S.A.",
+            "city": "PORT AU PRINCE",
+            "branch": null,
+            "swift_code": "CPPLHTPP"
+        },
+        {
+            "id": "6",
+            "bank": "SOCIETE GENERALE HAITIENNE DE BANQUE S.A.",
+            "city": "PORT AU PRINCE",
+            "branch": null,
+            "swift_code": "SOGHHTPP"
+        },
+        {
+            "id": "7",
+            "bank": "UNIBANK S.A.",
+            "city": "PETION-VILLE",
+            "branch": null,
+            "swift_code": "UBNKHTPP"
+        }
     ]
 }

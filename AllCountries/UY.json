@@ -2,217 +2,250 @@
     "country": "Uruguay",
     "country_code": "UY",
     "list": [
-        [
-            "1",
-            "ALMAR S.A.",
-            "MONTEVIDEO",
-            "LMARUYMT"
-        ],
-        [
-            "2",
-            "AVENIDA S.A EMPRESA DE SERVICIOS FINANCIEROS",
-            "MONTEVIDEO",
-            "AVESUYMM"
-        ],
-        [
-            "3",
-            "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY S.A.",
-            "MONTEVIDEO",
-            "BBVAUYMM"
-        ],
-        [
-            "4",
-            "BANCO CENTRAL DEL URUGUAY",
-            "MONTEVIDEO",
-            "CBCUUYMD"
-        ],
-        [
-            "5",
-            "BANCO CENTRAL DEL URUGUAY",
-            "MONTEVIDEO",
-            "CBCUUYMF"
-        ],
-        [
-            "6",
-            "BANCO CENTRAL DEL URUGUAY",
-            "MONTEVIDEO",
-            "CBCUUYMM"
-        ],
-        [
-            "7",
-            "BANCO CENTRAL DEL URUGUAY",
-            "MONTEVIDEO",
-            "CBCUUYMMFGD"
-        ],
-        [
-            "8",
-            "BANCO DE LA NACION ARGENTINA",
-            "MONTEVIDEO",
-            "NACNUYMM"
-        ],
-        [
-            "9",
-            "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
-            "MONTEVIDEO",
-            "BROUUYMM"
-        ],
-        [
-            "10",
-            "BANCO GALICIA URUGUAY S.A.",
-            "MONTEVIDEO",
-            "GABAUYMM"
-        ],
-        [
-            "11",
-            "BANCO ITAU",
-            "MONTEVIDEO",
-            "ITAUUYMM"
-        ],
-        [
-            "12",
-            "BANCO PATAGONIA (URUGUAY) S.A.I.F.E.",
-            "PUNTA DEL ESTE",
-            "BPATUYMM"
-        ],
-        [
-            "13",
-            "BANCO SANTANDER",
-            "MONTEVIDEO",
-            "BSCHUYMM"
-        ],
-        [
-            "14",
-            "BANDES URUGUAY S.A.",
-            "MONTEVIDEO",
-            "CFACUYMM"
-        ],
-        [
-            "15",
-            "BANQUE HERITAGE (URUGUAY) S.A. (FORMERLY BANCO SURINVEST S.A.)",
-            "MONTEVIDEO",
-            "SURIUYMM"
-        ],
-        [
-            "16",
-            "BAPRO URUGUAY",
-            "MONTEVIDEO",
-            "PRBAUYMM"
-        ],
-        [
-            "17",
-            "CENTRO SUDAMERICANO S.A. (DELTA SERVICIOS FINANCIEROS)",
-            "MONTEVIDEO",
-            "CSDRUYMM"
-        ],
-        [
-            "18",
-            "CITIBANK N.A. URUGUAY",
-            "COLONIA",
-            "CITIUYMMCOL"
-        ],
-        [
-            "19",
-            "CITIBANK N.A. URUGUAY",
-            "MONTEVIDEO",
-            "CITIUYMM"
-        ],
-        [
-            "20",
-            "CITIBANK N.A. URUGUAY",
-            "PUNTA DEL ESTE",
-            "CITIUYMMPDE"
-        ],
-        [
-            "21",
-            "COLUMBUSNET S.A.",
-            "MONTEVIDEO",
-            "COLUUYMM"
-        ],
-        [
-            "22",
-            "DISCOUNT BANK (LATIN AMERICA)",
-            "MONTEVIDEO",
-            "DBLAUYMM"
-        ],
-        [
-            "23",
-            "EUROCAM SA",
-            "MONTEVIDEO",
-            "CBEUUYMM"
-        ],
-        [
-            "24",
-            "EXPRINTER (URUGUAY) S.A.",
-            "MONTEVIDEO",
-            "ECBUUYMM"
-        ],
-        [
-            "25",
-            "GALES SERVICIOS FINANCIEROS S.A.",
-            "MONTEVIDEO",
-            "GSEFUYMM"
-        ],
-        [
-            "26",
-            "HAPOALIM LATIN AMERICA S.A.",
-            "MONTEVIDEO",
-            "POALUYMM"
-        ],
-        [
-            "27",
-            "HAPOALIM LATIN AMERICA S.A.",
-            "MONTEVIDEO",
-            "POALUYMM001"
-        ],
-        [
-            "28",
-            "HAPOALIM LATIN AMERICA S.A.",
-            "PUNTA DEL ESTE",
-            "POALUYMM002"
-        ],
-        [
-            "29",
-            "HSBC BANK (URUGUAY) S.A. (FORMERLY REPUBLIC NATIONAL BANK OF NEW YORK (URUGUAY) S.A.)",
-            "MONTEVIDEO",
-            "BLICUYMM"
-        ],
-        [
-            "30",
-            "LEUMI (LATIN AMERICA) S.A.",
-            "MONTEVIDEO",
-            "LUMIUYMM"
-        ],
-        [
-            "31",
-            "LUNDIN SA - MONEX EMPRESA DE SERVICIOS FINANCIEROS",
-            "MONTEVIDEO",
-            "LUNDUYMT"
-        ],
-        [
-            "32",
-            "MONEY SUR S.A.",
-            "MONTEVIDEO",
-            "MSURUYMM"
-        ],
-        [
-            "33",
-            "NIXUS S.A.",
-            "MONTEVIDEO",
-            "NIXSUYMM"
-        ],
-        [
-            "34",
-            "SCOTIABANK URUGUAY S.A.",
-            "MONTEVIDEO",
-            "(HEAD OFFICE)",
-            "COMEUYMM"
-        ],
-        [
-            "35",
-            "SCOTIABANK URUGUAY S.A.",
-            "MONTEVIDEO",
-            "(HEAD OFFICE)",
-            "COMEUYMMALL"
-        ]
+        {
+            "id": "1",
+            "bank": "ALMAR S.A.",
+            "city": "MONTEVIDEO",
+            "branch": null,
+            "swift_code": "LMARUYMT"
+        },
+        {
+            "id": "2",
+            "bank": "AVENIDA S.A EMPRESA DE SERVICIOS FINANCIEROS",
+            "city": "MONTEVIDEO",
+            "branch": null,
+            "swift_code": "AVESUYMM"
+        },
+        {
+            "id": "3",
+            "bank": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY S.A.",
+            "city": "MONTEVIDEO",
+            "branch": null,
+            "swift_code": "BBVAUYMM"
+        },
+        {
+            "id": "4",
+            "bank": "BANCO CENTRAL DEL URUGUAY",
+            "city": "MONTEVIDEO",
+            "branch": null,
+            "swift_code": "CBCUUYMD"
+        },
+        {
+            "id": "5",
+            "bank": "BANCO CENTRAL DEL URUGUAY",
+            "city": "MONTEVIDEO",
+            "branch": null,
+            "swift_code": "CBCUUYMF"
+        },
+        {
+            "id": "6",
+            "bank": "BANCO CENTRAL DEL URUGUAY",
+            "city": "MONTEVIDEO",
+            "branch": null,
+            "swift_code": "CBCUUYMM"
+        },
+        {
+            "id": "7",
+            "bank": "BANCO CENTRAL DEL URUGUAY",
+            "city": "MONTEVIDEO",
+            "branch": null,
+            "swift_code": "CBCUUYMMFGD"
+        },
+        {
+            "id": "8",
+            "bank": "BANCO DE LA NACION ARGENTINA",
+            "city": "MONTEVIDEO",
+            "branch": null,
+            "swift_code": "NACNUYMM"
+        },
+        {
+            "id": "9",
+            "bank": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
+            "city": "MONTEVIDEO",
+            "branch": null,
+            "swift_code": "BROUUYMM"
+        },
+        {
+            "id": "10",
+            "bank": "BANCO GALICIA URUGUAY S.A.",
+            "city": "MONTEVIDEO",
+            "branch": null,
+            "swift_code": "GABAUYMM"
+        },
+        {
+            "id": "11",
+            "bank": "BANCO ITAU",
+            "city": "MONTEVIDEO",
+            "branch": null,
+            "swift_code": "ITAUUYMM"
+        },
+        {
+            "id": "12",
+            "bank": "BANCO PATAGONIA (URUGUAY) S.A.I.F.E.",
+            "city": "PUNTA DEL ESTE",
+            "branch": null,
+            "swift_code": "BPATUYMM"
+        },
+        {
+            "id": "13",
+            "bank": "BANCO SANTANDER",
+            "city": "MONTEVIDEO",
+            "branch": null,
+            "swift_code": "BSCHUYMM"
+        },
+        {
+            "id": "14",
+            "bank": "BANDES URUGUAY S.A.",
+            "city": "MONTEVIDEO",
+            "branch": null,
+            "swift_code": "CFACUYMM"
+        },
+        {
+            "id": "15",
+            "bank": "BANQUE HERITAGE (URUGUAY) S.A. (FORMERLY BANCO SURINVEST S.A.)",
+            "city": "MONTEVIDEO",
+            "branch": null,
+            "swift_code": "SURIUYMM"
+        },
+        {
+            "id": "16",
+            "bank": "BAPRO URUGUAY",
+            "city": "MONTEVIDEO",
+            "branch": null,
+            "swift_code": "PRBAUYMM"
+        },
+        {
+            "id": "17",
+            "bank": "CENTRO SUDAMERICANO S.A. (DELTA SERVICIOS FINANCIEROS)",
+            "city": "MONTEVIDEO",
+            "branch": null,
+            "swift_code": "CSDRUYMM"
+        },
+        {
+            "id": "18",
+            "bank": "CITIBANK N.A. URUGUAY",
+            "city": "COLONIA",
+            "branch": null,
+            "swift_code": "CITIUYMMCOL"
+        },
+        {
+            "id": "19",
+            "bank": "CITIBANK N.A. URUGUAY",
+            "city": "MONTEVIDEO",
+            "branch": null,
+            "swift_code": "CITIUYMM"
+        },
+        {
+            "id": "20",
+            "bank": "CITIBANK N.A. URUGUAY",
+            "city": "PUNTA DEL ESTE",
+            "branch": null,
+            "swift_code": "CITIUYMMPDE"
+        },
+        {
+            "id": "21",
+            "bank": "COLUMBUSNET S.A.",
+            "city": "MONTEVIDEO",
+            "branch": null,
+            "swift_code": "COLUUYMM"
+        },
+        {
+            "id": "22",
+            "bank": "DISCOUNT BANK (LATIN AMERICA)",
+            "city": "MONTEVIDEO",
+            "branch": null,
+            "swift_code": "DBLAUYMM"
+        },
+        {
+            "id": "23",
+            "bank": "EUROCAM SA",
+            "city": "MONTEVIDEO",
+            "branch": null,
+            "swift_code": "CBEUUYMM"
+        },
+        {
+            "id": "24",
+            "bank": "EXPRINTER (URUGUAY) S.A.",
+            "city": "MONTEVIDEO",
+            "branch": null,
+            "swift_code": "ECBUUYMM"
+        },
+        {
+            "id": "25",
+            "bank": "GALES SERVICIOS FINANCIEROS S.A.",
+            "city": "MONTEVIDEO",
+            "branch": null,
+            "swift_code": "GSEFUYMM"
+        },
+        {
+            "id": "26",
+            "bank": "HAPOALIM LATIN AMERICA S.A.",
+            "city": "MONTEVIDEO",
+            "branch": null,
+            "swift_code": "POALUYMM"
+        },
+        {
+            "id": "27",
+            "bank": "HAPOALIM LATIN AMERICA S.A.",
+            "city": "MONTEVIDEO",
+            "branch": null,
+            "swift_code": "POALUYMM001"
+        },
+        {
+            "id": "28",
+            "bank": "HAPOALIM LATIN AMERICA S.A.",
+            "city": "PUNTA DEL ESTE",
+            "branch": null,
+            "swift_code": "POALUYMM002"
+        },
+        {
+            "id": "29",
+            "bank": "HSBC BANK (URUGUAY) S.A. (FORMERLY REPUBLIC NATIONAL BANK OF NEW YORK (URUGUAY) S.A.)",
+            "city": "MONTEVIDEO",
+            "branch": null,
+            "swift_code": "BLICUYMM"
+        },
+        {
+            "id": "30",
+            "bank": "LEUMI (LATIN AMERICA) S.A.",
+            "city": "MONTEVIDEO",
+            "branch": null,
+            "swift_code": "LUMIUYMM"
+        },
+        {
+            "id": "31",
+            "bank": "LUNDIN SA - MONEX EMPRESA DE SERVICIOS FINANCIEROS",
+            "city": "MONTEVIDEO",
+            "branch": null,
+            "swift_code": "LUNDUYMT"
+        },
+        {
+            "id": "32",
+            "bank": "MONEY SUR S.A.",
+            "city": "MONTEVIDEO",
+            "branch": null,
+            "swift_code": "MSURUYMM"
+        },
+        {
+            "id": "33",
+            "bank": "NIXUS S.A.",
+            "city": "MONTEVIDEO",
+            "branch": null,
+            "swift_code": "NIXSUYMM"
+        },
+        {
+            "id": "34",
+            "bank": "SCOTIABANK URUGUAY S.A.",
+            "city": "MONTEVIDEO",
+            "branch": "(HEAD OFFICE)",
+            "swift_code": "COMEUYMM"
+        },
+        {
+            "id": "35",
+            "bank": "SCOTIABANK URUGUAY S.A.",
+            "city": "MONTEVIDEO",
+            "branch": "(HEAD OFFICE)",
+            "swift_code": "COMEUYMMALL"
+        }
     ]
 }

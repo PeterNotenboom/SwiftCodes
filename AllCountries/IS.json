@@ -2,47 +2,54 @@
     "country": "Iceland",
     "country_code": "IS",
     "list": [
-        [
-            "1",
-            "ARION BANK",
-            "REYKJAVIK",
-            "ESJAISRE"
-        ],
-        [
-            "2",
-            "BORGUN HF",
-            "REYKJAVIK",
-            "BORGISRE"
-        ],
-        [
-            "3",
-            "CENTRAL BANK OF ICELAND",
-            "REYKJAVIK",
-            "SISLISRE"
-        ],
-        [
-            "4",
-            "ISLANDSBANKI HF",
-            "REYKJAVIK",
-            "GLITISRE"
-        ],
-        [
-            "5",
-            "LANDSBANKINN HF",
-            "REYKJAVIK",
-            "NBIIISRE"
-        ],
-        [
-            "6",
-            "MP BANK HF.",
-            "REYKJAVIK",
-            "MPBAISRE"
-        ],
-        [
-            "7",
-            "STRAUMUR FJARFESTINGABANKI HF",
-            "REYKJAVIK",
-            "STRBISRE"
-        ]
+        {
+            "id": "1",
+            "bank": "ARION BANK",
+            "city": "REYKJAVIK",
+            "branch": null,
+            "swift_code": "ESJAISRE"
+        },
+        {
+            "id": "2",
+            "bank": "BORGUN HF",
+            "city": "REYKJAVIK",
+            "branch": null,
+            "swift_code": "BORGISRE"
+        },
+        {
+            "id": "3",
+            "bank": "CENTRAL BANK OF ICELAND",
+            "city": "REYKJAVIK",
+            "branch": null,
+            "swift_code": "SISLISRE"
+        },
+        {
+            "id": "4",
+            "bank": "ISLANDSBANKI HF",
+            "city": "REYKJAVIK",
+            "branch": null,
+            "swift_code": "GLITISRE"
+        },
+        {
+            "id": "5",
+            "bank": "LANDSBANKINN HF",
+            "city": "REYKJAVIK",
+            "branch": null,
+            "swift_code": "NBIIISRE"
+        },
+        {
+            "id": "6",
+            "bank": "MP BANK HF.",
+            "city": "REYKJAVIK",
+            "branch": null,
+            "swift_code": "MPBAISRE"
+        },
+        {
+            "id": "7",
+            "bank": "STRAUMUR FJARFESTINGABANKI HF",
+            "city": "REYKJAVIK",
+            "branch": null,
+            "swift_code": "STRBISRE"
+        }
     ]
 }

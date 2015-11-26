@@ -2,989 +2,1041 @@
     "country": "Ecuador",
     "country_code": "EC",
     "list": [
-        [
-            "1",
-            "ASOCIACION MUTUALISTA DE AHORRO Y CREDITO PARA LA VIVIENDA PICHINCHA",
-            "QUITO",
-            "MUPIECEQ"
-        ],
-        [
-            "2",
-            "BANCO AMAZONAS S.A.",
-            "GUAYAQUIL",
-            "BASAECEG"
-        ],
-        [
-            "3",
-            "BANCO BOLIVARIANO C.A.",
-            "GUAYAQUIL",
-            "(MATRIZ)",
-            "BBOLECEG100"
-        ],
-        [
-            "4",
-            "BANCO BOLIVARIANO C.A.",
-            "GUAYAQUIL",
-            "BBOLECEG"
-        ],
-        [
-            "5",
-            "BANCO BOLIVARIANO C.A.",
-            "QUITO",
-            "(SUCURSAL QUITO)",
-            "BBOLECEG500"
-        ],
-        [
-            "6",
-            "BANCO CENTRAL DEL ECUADOR",
-            "GUAYAQUIL",
-            "BCENECEQ120"
-        ],
-        [
-            "7",
-            "BANCO CENTRAL DEL ECUADOR",
-            "QUITO",
-            "BCENECEQ"
-        ],
-        [
-            "8",
-            "BANCO CENTRAL DEL ECUADOR",
-            "QUITO",
-            "BCENECEQ100"
-        ],
-        [
-            "9",
-            "BANCO DE GUAYAQUIL",
-            "CUENCA",
-            "(COMERCIO EXTERIOR REGION SUR)",
-            "GUAYECEG305"
-        ],
-        [
-            "10",
-            "BANCO DE GUAYAQUIL",
-            "CUENCA",
-            "(SUCURSAL CUENCA)",
-            "GUAYECEG300"
-        ],
-        [
-            "11",
-            "BANCO DE GUAYAQUIL",
-            "GUAYAQUIL",
-            "(COMERCIO EXTERIOR REGION CENTRO)",
-            "GUAYECEG105"
-        ],
-        [
-            "12",
-            "BANCO DE GUAYAQUIL",
-            "GUAYAQUIL",
-            "GUAYECEG"
-        ],
-        [
-            "13",
-            "BANCO DE GUAYAQUIL",
-            "GUAYAQUIL",
-            "GUAYECEG100"
-        ],
-        [
-            "14",
-            "BANCO DE GUAYAQUIL",
-            "QUITO",
-            "(COMERCIO EXTERIOR REGION NORTE)",
-            "GUAYECEG505"
-        ],
-        [
-            "15",
-            "BANCO DE GUAYAQUIL",
-            "QUITO",
-            "(SUCURSAL QUITO)",
-            "GUAYECEG500"
-        ],
-        [
-            "16",
-            "BANCO DE LA PRODUCCION S.A PRODUBAN(FORMELY BANCO PROMERICA S.A.)",
-            "QUITO",
-            "MMJAECEQ"
-        ],
-        [
-            "17",
-            "BANCO DE LA PRODUCCION S.A. PRODUBANCO",
-            "GUAYAQUIL",
-            "PRODECEQ100"
-        ],
-        [
-            "18",
-            "BANCO DE LA PRODUCCION S.A. PRODUBANCO",
-            "QUITO",
-            "PRODECEQ"
-        ],
-        [
-            "19",
-            "BANCO DE LOJA",
-            "LOJA",
-            "LOJBECEL"
-        ],
-        [
-            "20",
-            "BANCO DE MACHALA, C.A.",
-            "GUAYAQUIL",
-            "BMACECEG"
-        ],
-        [
-            "21",
-            "BANCO DE MACHALA, C.A.",
-            "GUAYAQUIL",
-            "BMACECEG0EG"
-        ],
-        [
-            "22",
-            "BANCO DE MACHALA, C.A.",
-            "NARANJAL",
-            "BMACECEG0E4"
-        ],
-        [
-            "23",
-            "BANCO DE MACHALA, C.A.",
-            "PASAJE",
-            "BMACECEG0E5"
-        ],
-        [
-            "24",
-            "BANCO DE MACHALA, C.A.",
-            "PINAS",
-            "BMACECEG0E3"
-        ],
-        [
-            "25",
-            "BANCO DE MACHALA, C.A.",
-            "QUEVEDO",
-            "BMACECEG0E8"
-        ],
-        [
-            "26",
-            "BANCO DE MACHALA, C.A.",
-            "SANTA ROSA",
-            "BMACECEG0E7"
-        ],
-        [
-            "27",
-            "BANCO DE MACHALA, C.A.",
-            "ZARUMA",
-            "BMACECEG0E6"
-        ],
-        [
-            "28",
-            "BANCO DEL AUSTRO S.A.",
-            "CUENCA",
-            "(COMERCIO EXTERIOR)",
-            "AUSTECEQ305"
-        ],
-        [
-            "29",
-            "BANCO DEL AUSTRO S.A.",
-            "CUENCA",
-            "(SERVICIOS BANCARIOS)",
-            "AUSTECEQ310"
-        ],
-        [
-            "30",
-            "BANCO DEL AUSTRO S.A.",
-            "CUENCA",
-            "(TRESORIA)",
-            "AUSTECEQ315"
-        ],
-        [
-            "31",
-            "BANCO DEL AUSTRO S.A.",
-            "CUENCA",
-            "AUSTECEQ"
-        ],
-        [
-            "32",
-            "BANCO DEL AUSTRO S.A.",
-            "GUAYAQUIL",
-            "(SUCURSAL GUAYAQUIL)",
-            "AUSTECEQ100"
-        ],
-        [
-            "33",
-            "BANCO DEL AUSTRO S.A.",
-            "QUITO",
-            "(SUCURSAL QUITO)",
-            "AUSTECEQ500"
-        ],
-        [
-            "34",
-            "BANCO DEL PACIFICO",
-            "AMBATO",
-            "PACIECEG400"
-        ],
-        [
-            "35",
-            "BANCO DEL PACIFICO",
-            "CUENCA",
-            "PACIECEG300"
-        ],
-        [
-            "36",
-            "BANCO DEL PACIFICO",
-            "GUAYAQUIL",
-            "(HEAD OFFICE)",
-            "PACIECEG"
-        ],
-        [
-            "37",
-            "BANCO DEL PACIFICO",
-            "GUAYAQUIL",
-            "PACIECEG100"
-        ],
-        [
-            "38",
-            "BANCO DEL PACIFICO",
-            "IBARRA",
-            "PACIECEGIBA"
-        ],
-        [
-            "39",
-            "BANCO DEL PACIFICO",
-            "LA LIBERTAD",
-            "PACIECEG110"
-        ],
-        [
-            "40",
-            "BANCO DEL PACIFICO",
-            "MACHALA",
-            "PACIECEG200"
-        ],
-        [
-            "41",
-            "BANCO DEL PACIFICO",
-            "MANTA",
-            "PACIECEG600"
-        ],
-        [
-            "42",
-            "BANCO DEL PACIFICO",
-            "PORTOVIEJO",
-            "PACIECEG640"
-        ],
-        [
-            "43",
-            "BANCO DEL PACIFICO",
-            "QUITO",
-            "PACIECEG500"
-        ],
-        [
-            "44",
-            "BANCO DEL PACIFICO",
-            "RIOBAMBA",
-            "PACIECEG350"
-        ],
-        [
-            "45",
-            "BANCO DEL PACIFICO",
-            "SANTA CRUZ",
-            "(GALAPAGOS)",
-            "PACIECEG871"
-        ],
-        [
-            "46",
-            "BANCO DEL PACIFICO",
-            "SANTO DOMINGO",
-            "PACIECEG510"
-        ],
-        [
-            "47",
-            "BANCO GENERAL RUMINAHUI S.A.",
-            "GUAYAQUIL",
-            "(GUAYAQUIL BRANCH)",
-            "BGRMECEQ100"
-        ],
-        [
-            "48",
-            "BANCO GENERAL RUMINAHUI S.A.",
-            "MACHALA",
-            "(MACHALA BRANCH)",
-            "BGRMECEQ200"
-        ],
-        [
-            "49",
-            "BANCO GENERAL RUMINAHUI S.A.",
-            "QUITO",
-            "(CASH MANAGEMENT)",
-            "BGRMECEQ505"
-        ],
-        [
-            "50",
-            "BANCO GENERAL RUMINAHUI S.A.",
-            "QUITO",
-            "BGRMECEQ"
-        ],
-        [
-            "51",
-            "BANCO INTERNACIONAL S.A.",
-            "GUAYAQUIL",
-            "BINTECEQ100"
-        ],
-        [
-            "52",
-            "BANCO INTERNACIONAL S.A.",
-            "QUITO",
-            "(HEAD OFFICE AND ALL BRANCHES)",
-            "BINTECEQ"
-        ],
-        [
-            "53",
-            "BANCO NACIONAL DE FOMENTO",
-            "QUITO",
-            "BNFEECEQ"
-        ],
-        [
-            "54",
-            "BANCO PICHINCHA C.A.",
-            "AMBATO",
-            "PICHECEQ400"
-        ],
-        [
-            "55",
-            "BANCO PICHINCHA C.A.",
-            "AZOGUES",
-            "(AZOGUES BRANCH)",
-            "PICHECEQ450"
-        ],
-        [
-            "56",
-            "BANCO PICHINCHA C.A.",
-            "CUENCA",
-            "(BRANCH 304)",
-            "PICHECEQ304"
-        ],
-        [
-            "57",
-            "BANCO PICHINCHA C.A.",
-            "CUENCA",
-            "(BRANCH 306)",
-            "PICHECEQ306"
-        ],
-        [
-            "58",
-            "BANCO PICHINCHA C.A.",
-            "CUENCA",
-            "(BRANCH 307)",
-            "PICHECEQ307"
-        ],
-        [
-            "59",
-            "BANCO PICHINCHA C.A.",
-            "CUENCA",
-            "(INTERNATIONAL OPERATIONS)",
-            "PICHECEQ302"
-        ],
-        [
-            "60",
-            "BANCO PICHINCHA C.A.",
-            "CUENCA",
-            "(MONEY TRANSFER)",
-            "PICHECEQ305"
-        ],
-        [
-            "61",
-            "BANCO PICHINCHA C.A.",
-            "CUENCA",
-            "PICHECEQ300"
-        ],
-        [
-            "62",
-            "BANCO PICHINCHA C.A.",
-            "ESMERALDAS",
-            "PICHECEQ700"
-        ],
-        [
-            "63",
-            "BANCO PICHINCHA C.A.",
-            "GUARANDA",
-            "(GUARANDA BRANCH)",
-            "PICHECEQ370"
-        ],
-        [
-            "64",
-            "BANCO PICHINCHA C.A.",
-            "GUAYAQUIL",
-            "(AG. ALBAN BORJA)",
-            "PICHECEQ112"
-        ],
-        [
-            "65",
-            "BANCO PICHINCHA C.A.",
-            "GUAYAQUIL",
-            "(AG. ALBORADA)",
-            "PICHECEQ111"
-        ],
-        [
-            "66",
-            "BANCO PICHINCHA C.A.",
-            "GUAYAQUIL",
-            "(AG. CENTENARIO SUR)",
-            "PICHECEQ107"
-        ],
-        [
-            "67",
-            "BANCO PICHINCHA C.A.",
-            "GUAYAQUIL",
-            "(AG. CENTENARIO)",
-            "PICHECEQ110"
-        ],
-        [
-            "68",
-            "BANCO PICHINCHA C.A.",
-            "GUAYAQUIL",
-            "(AG. CENTRO)",
-            "PICHECEQ108"
-        ],
-        [
-            "69",
-            "BANCO PICHINCHA C.A.",
-            "GUAYAQUIL",
-            "(AG. LA LIBERTAD)",
-            "PICHECEQ106"
-        ],
-        [
-            "70",
-            "BANCO PICHINCHA C.A.",
-            "GUAYAQUIL",
-            "(AG. MALL DEL SOL)",
-            "PICHECEQ113"
-        ],
-        [
-            "71",
-            "BANCO PICHINCHA C.A.",
-            "GUAYAQUIL",
-            "(AG. URDESA)",
-            "PICHECEQ114"
-        ],
-        [
-            "72",
-            "BANCO PICHINCHA C.A.",
-            "GUAYAQUIL",
-            "(AG.)",
-            "PICHECEQ101"
-        ],
-        [
-            "73",
-            "BANCO PICHINCHA C.A.",
-            "GUAYAQUIL",
-            "(AG.)",
-            "PICHECEQ115"
-        ],
-        [
-            "74",
-            "BANCO PICHINCHA C.A.",
-            "GUAYAQUIL",
-            "(AG.)",
-            "PICHECEQ116"
-        ],
-        [
-            "75",
-            "BANCO PICHINCHA C.A.",
-            "GUAYAQUIL",
-            "(AG.)",
-            "PICHECEQ117"
-        ],
-        [
-            "76",
-            "BANCO PICHINCHA C.A.",
-            "GUAYAQUIL",
-            "(AG.POLICENTRO)",
-            "PICHECEQ118"
-        ],
-        [
-            "77",
-            "BANCO PICHINCHA C.A.",
-            "GUAYAQUIL",
-            "(BRANCH 119)",
-            "PICHECEQ119"
-        ],
-        [
-            "78",
-            "BANCO PICHINCHA C.A.",
-            "GUAYAQUIL",
-            "(BRANCH 120)",
-            "PICHECEQ120"
-        ],
-        [
-            "79",
-            "BANCO PICHINCHA C.A.",
-            "GUAYAQUIL",
-            "(BRANCH 121)",
-            "PICHECEQ121"
-        ],
-        [
-            "80",
-            "BANCO PICHINCHA C.A.",
-            "GUAYAQUIL",
-            "(DOMESTIC OPERATIONS)",
-            "PICHECEQ103"
-        ],
-        [
-            "81",
-            "BANCO PICHINCHA C.A.",
-            "GUAYAQUIL",
-            "(INTERNATIONAL OPERATIONS)",
-            "PICHECEQ102"
-        ],
-        [
-            "82",
-            "BANCO PICHINCHA C.A.",
-            "GUAYAQUIL",
-            "(MONEY TRANSFER)",
-            "PICHECEQ105"
-        ],
-        [
-            "83",
-            "BANCO PICHINCHA C.A.",
-            "GUAYAQUIL",
-            "(TREASURY AND SECURITIES OPERATIONS)",
-            "PICHECEQ104"
-        ],
-        [
-            "84",
-            "BANCO PICHINCHA C.A.",
-            "GUAYAQUIL",
-            "PICHECEQ100"
-        ],
-        [
-            "85",
-            "BANCO PICHINCHA C.A.",
-            "IBARRA",
-            "(IBARRA BRANCH)",
-            "PICHECEQ250"
-        ],
-        [
-            "86",
-            "BANCO PICHINCHA C.A.",
-            "LATACUNGA",
-            "(LATACUNGA BRANCH)",
-            "PICHECEQ270"
-        ],
-        [
-            "87",
-            "BANCO PICHINCHA C.A.",
-            "MACHALA",
-            "PICHECEQ200"
-        ],
-        [
-            "88",
-            "BANCO PICHINCHA C.A.",
-            "MANTA",
-            "(MONEY TRANSFER DEPT.)",
-            "PICHECEQ605"
-        ],
-        [
-            "89",
-            "BANCO PICHINCHA C.A.",
-            "MANTA",
-            "PICHECEQ600"
-        ],
-        [
-            "90",
-            "BANCO PICHINCHA C.A.",
-            "OTAVALO",
-            "(OTAVALO BRANCH)",
-            "PICHECEQ253"
-        ],
-        [
-            "91",
-            "BANCO PICHINCHA C.A.",
-            "PORTOVIEJO",
-            "PICHECEQ610"
-        ],
-        [
-            "92",
-            "BANCO PICHINCHA C.A.",
-            "QUEVEDO",
-            "(QUEVEDO BRANCH)",
-            "PICHECEQ804"
-        ],
-        [
-            "93",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(AG. AMAZONAS)",
-            "PICHECEQ511"
-        ],
-        [
-            "94",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(AG. AV. PORTUGAL)",
-            "PICHECEQ514"
-        ],
-        [
-            "95",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(AG. C.C.INAQUITO)",
-            "PICHECEQ519"
-        ],
-        [
-            "96",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(AG. CARONDELET)",
-            "PICHECEQ517"
-        ],
-        [
-            "97",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(AG. CUMBAYA)",
-            "PICHECEQ523"
-        ],
-        [
-            "98",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(AG. EL BOSQUE)",
-            "PICHECEQ516"
-        ],
-        [
-            "99",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(AG. EL DORADO)",
-            "PICHECEQ109"
-        ],
-        [
-            "100",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(AG. EL INCA)",
-            "PICHECEQ520"
-        ],
-        [
-            "101",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(AG. GONZALEZ SUAREZ)",
-            "PICHECEQ521"
-        ],
-        [
-            "102",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(AG. INAQUITO)",
-            "PICHECEQ515"
-        ],
-        [
-            "103",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(AG. LA REPUBLICA)",
-            "PICHECEQ513"
-        ],
-        [
-            "104",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(AG. PLAZA GRANDE)",
-            "PICHECEQ510"
-        ],
-        [
-            "105",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(AG. QUICENTRO)",
-            "PICHECEQ518"
-        ],
-        [
-            "106",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(AG. VILLAFLORA)",
-            "PICHECEQ522"
-        ],
-        [
-            "107",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(AG.)",
-            "PICHECEQ525"
-        ],
-        [
-            "108",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(AG.)",
-            "PICHECEQ526"
-        ],
-        [
-            "109",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(AG.)",
-            "PICHECEQ527"
-        ],
-        [
-            "110",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(AG.)",
-            "PICHECEQ528"
-        ],
-        [
-            "111",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(AG.)",
-            "PICHECEQ529"
-        ],
-        [
-            "112",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(AG.)",
-            "PICHECEQ530"
-        ],
-        [
-            "113",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(AG.)",
-            "PICHECEQ531"
-        ],
-        [
-            "114",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(AG.)",
-            "PICHECEQ532"
-        ],
-        [
-            "115",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(AG.)",
-            "PICHECEQ533"
-        ],
-        [
-            "116",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(AG.)",
-            "PICHECEQ534"
-        ],
-        [
-            "117",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(AG.)",
-            "PICHECEQ535"
-        ],
-        [
-            "118",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(AG.)",
-            "PICHECEQ536"
-        ],
-        [
-            "119",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(AG.)",
-            "PICHECEQ552"
-        ],
-        [
-            "120",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(AG.ELOY ALFARO)",
-            "PICHECEQ524"
-        ],
-        [
-            "121",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(BRANCH 537)",
-            "PICHECEQ537"
-        ],
-        [
-            "122",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(BRANCH 538)",
-            "PICHECEQ538"
-        ],
-        [
-            "123",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(BRANCH 539)",
-            "PICHECEQ539"
-        ],
-        [
-            "124",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(BRANCH 540)",
-            "PICHECEQ540"
-        ],
-        [
-            "125",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(BRANCH 541)",
-            "PICHECEQ541"
-        ],
-        [
-            "126",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(DOMESTIC OPERATIONS)",
-            "PICHECEQ503"
-        ],
-        [
-            "127",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(HEAD INTERNATIONAL DIVISION)",
-            "PICHECEQ502"
-        ],
-        [
-            "128",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(HEAD OFFICE)",
-            "PICHECEQ"
-        ],
-        [
-            "129",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(INTERNATIONAL CORRESPONDENTS)",
-            "PICHECEQ509"
-        ],
-        [
-            "130",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(LOAN AND CREDITS)",
-            "PICHECEQ500"
-        ],
-        [
-            "131",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(MONEY TRANSFER DEPARTMENT)",
-            "PICHECEQ505"
-        ],
-        [
-            "132",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(RECONCILIATION)",
-            "PICHECEQ508"
-        ],
-        [
-            "133",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(SUC. EL VALLE)",
-            "PICHECEQ551"
-        ],
-        [
-            "134",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(SUC.NORTE)",
-            "PICHECEQ512"
-        ],
-        [
-            "135",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "(TREASURY AND SECURITIES OPERATIONS)",
-            "PICHECEQ504"
-        ],
-        [
-            "136",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "PICHECEQ501"
-        ],
-        [
-            "137",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "PICHECEQ506"
-        ],
-        [
-            "138",
-            "BANCO PICHINCHA C.A.",
-            "QUITO",
-            "PICHECEQ507"
-        ],
-        [
-            "139",
-            "BANCO PICHINCHA C.A.",
-            "RIOBAMBA",
-            "(RIOBAMBA BRANCH)",
-            "PICHECEQ350"
-        ],
-        [
-            "140",
-            "BANCO PICHINCHA C.A.",
-            "SANTO DOMINGO",
-            "PICHECEQ550"
-        ],
-        [
-            "141",
-            "BANCO PICHINCHA C.A.",
-            "TULCAN",
-            "(TULCAN BRANCH)",
-            "PICHECEQ900"
-        ],
-        [
-            "142",
-            "BANCO PROCREDIT S.A.",
-            "QUITO",
-            "PRCBECEQ"
-        ],
-        [
-            "143",
-            "BANCO SOLIDARIO S.A.",
-            "QUITO",
-            "BSGEECEQ"
-        ],
-        [
-            "144",
-            "COOPERATIVA DE AHORRO Y CREDITO DESARROLLO DE LOS PUEBLOS CODESARROLLO",
-            "MARCABELI",
-            "(MARCABELI BRANCH)",
-            "CODSECEQ001"
-        ],
-        [
-            "145",
-            "COOPERATIVA DE AHORRO Y CREDITO DESARROLLO DE LOS PUEBLOS CODESARROLLO",
-            "QUITO",
-            "CODSECEQ"
-        ],
-        [
-            "146",
-            "COOPERATIVA DE AHORRO Y CREDITO JUVENTUD ECUATORIANA PROGRESISTA LTDA.",
-            "CUENCA",
-            "CJEPECEQ"
-        ],
-        [
-            "147",
-            "CORPORACION FINANCIERA NACIONAL",
-            "QUITO",
-            "CFNAECEQ"
-        ],
-        [
-            "148",
-            "FINANCIERA DE LA REPULICA S. A. FIR",
-            "GUAYAQUIL",
-            "FIREECEG"
-        ]
+        {
+            "id": "1",
+            "bank": "ASOCIACION MUTUALISTA DE AHORRO Y CREDITO PARA LA VIVIENDA PICHINCHA",
+            "city": "QUITO",
+            "branch": null,
+            "swift_code": "MUPIECEQ"
+        },
+        {
+            "id": "2",
+            "bank": "BANCO AMAZONAS S.A.",
+            "city": "GUAYAQUIL",
+            "branch": null,
+            "swift_code": "BASAECEG"
+        },
+        {
+            "id": "3",
+            "bank": "BANCO BOLIVARIANO C.A.",
+            "city": "GUAYAQUIL",
+            "branch": "(MATRIZ)",
+            "swift_code": "BBOLECEG100"
+        },
+        {
+            "id": "4",
+            "bank": "BANCO BOLIVARIANO C.A.",
+            "city": "GUAYAQUIL",
+            "branch": null,
+            "swift_code": "BBOLECEG"
+        },
+        {
+            "id": "5",
+            "bank": "BANCO BOLIVARIANO C.A.",
+            "city": "QUITO",
+            "branch": "(SUCURSAL QUITO)",
+            "swift_code": "BBOLECEG500"
+        },
+        {
+            "id": "6",
+            "bank": "BANCO CENTRAL DEL ECUADOR",
+            "city": "GUAYAQUIL",
+            "branch": null,
+            "swift_code": "BCENECEQ120"
+        },
+        {
+            "id": "7",
+            "bank": "BANCO CENTRAL DEL ECUADOR",
+            "city": "QUITO",
+            "branch": null,
+            "swift_code": "BCENECEQ"
+        },
+        {
+            "id": "8",
+            "bank": "BANCO CENTRAL DEL ECUADOR",
+            "city": "QUITO",
+            "branch": null,
+            "swift_code": "BCENECEQ100"
+        },
+        {
+            "id": "9",
+            "bank": "BANCO DE GUAYAQUIL",
+            "city": "CUENCA",
+            "branch": "(COMERCIO EXTERIOR REGION SUR)",
+            "swift_code": "GUAYECEG305"
+        },
+        {
+            "id": "10",
+            "bank": "BANCO DE GUAYAQUIL",
+            "city": "CUENCA",
+            "branch": "(SUCURSAL CUENCA)",
+            "swift_code": "GUAYECEG300"
+        },
+        {
+            "id": "11",
+            "bank": "BANCO DE GUAYAQUIL",
+            "city": "GUAYAQUIL",
+            "branch": "(COMERCIO EXTERIOR REGION CENTRO)",
+            "swift_code": "GUAYECEG105"
+        },
+        {
+            "id": "12",
+            "bank": "BANCO DE GUAYAQUIL",
+            "city": "GUAYAQUIL",
+            "branch": null,
+            "swift_code": "GUAYECEG"
+        },
+        {
+            "id": "13",
+            "bank": "BANCO DE GUAYAQUIL",
+            "city": "GUAYAQUIL",
+            "branch": null,
+            "swift_code": "GUAYECEG100"
+        },
+        {
+            "id": "14",
+            "bank": "BANCO DE GUAYAQUIL",
+            "city": "QUITO",
+            "branch": "(COMERCIO EXTERIOR REGION NORTE)",
+            "swift_code": "GUAYECEG505"
+        },
+        {
+            "id": "15",
+            "bank": "BANCO DE GUAYAQUIL",
+            "city": "QUITO",
+            "branch": "(SUCURSAL QUITO)",
+            "swift_code": "GUAYECEG500"
+        },
+        {
+            "id": "16",
+            "bank": "BANCO DE LA PRODUCCION S.A PRODUBAN(FORMELY BANCO PROMERICA S.A.)",
+            "city": "QUITO",
+            "branch": null,
+            "swift_code": "MMJAECEQ"
+        },
+        {
+            "id": "17",
+            "bank": "BANCO DE LA PRODUCCION S.A. PRODUBANCO",
+            "city": "GUAYAQUIL",
+            "branch": null,
+            "swift_code": "PRODECEQ100"
+        },
+        {
+            "id": "18",
+            "bank": "BANCO DE LA PRODUCCION S.A. PRODUBANCO",
+            "city": "QUITO",
+            "branch": null,
+            "swift_code": "PRODECEQ"
+        },
+        {
+            "id": "19",
+            "bank": "BANCO DE LOJA",
+            "city": "LOJA",
+            "branch": null,
+            "swift_code": "LOJBECEL"
+        },
+        {
+            "id": "20",
+            "bank": "BANCO DE MACHALA, C.A.",
+            "city": "GUAYAQUIL",
+            "branch": null,
+            "swift_code": "BMACECEG"
+        },
+        {
+            "id": "21",
+            "bank": "BANCO DE MACHALA, C.A.",
+            "city": "GUAYAQUIL",
+            "branch": null,
+            "swift_code": "BMACECEG0EG"
+        },
+        {
+            "id": "22",
+            "bank": "BANCO DE MACHALA, C.A.",
+            "city": "NARANJAL",
+            "branch": null,
+            "swift_code": "BMACECEG0E4"
+        },
+        {
+            "id": "23",
+            "bank": "BANCO DE MACHALA, C.A.",
+            "city": "PASAJE",
+            "branch": null,
+            "swift_code": "BMACECEG0E5"
+        },
+        {
+            "id": "24",
+            "bank": "BANCO DE MACHALA, C.A.",
+            "city": "PINAS",
+            "branch": null,
+            "swift_code": "BMACECEG0E3"
+        },
+        {
+            "id": "25",
+            "bank": "BANCO DE MACHALA, C.A.",
+            "city": "QUEVEDO",
+            "branch": null,
+            "swift_code": "BMACECEG0E8"
+        },
+        {
+            "id": "26",
+            "bank": "BANCO DE MACHALA, C.A.",
+            "city": "SANTA ROSA",
+            "branch": null,
+            "swift_code": "BMACECEG0E7"
+        },
+        {
+            "id": "27",
+            "bank": "BANCO DE MACHALA, C.A.",
+            "city": "ZARUMA",
+            "branch": null,
+            "swift_code": "BMACECEG0E6"
+        },
+        {
+            "id": "28",
+            "bank": "BANCO DEL AUSTRO S.A.",
+            "city": "CUENCA",
+            "branch": "(COMERCIO EXTERIOR)",
+            "swift_code": "AUSTECEQ305"
+        },
+        {
+            "id": "29",
+            "bank": "BANCO DEL AUSTRO S.A.",
+            "city": "CUENCA",
+            "branch": "(SERVICIOS BANCARIOS)",
+            "swift_code": "AUSTECEQ310"
+        },
+        {
+            "id": "30",
+            "bank": "BANCO DEL AUSTRO S.A.",
+            "city": "CUENCA",
+            "branch": "(TRESORIA)",
+            "swift_code": "AUSTECEQ315"
+        },
+        {
+            "id": "31",
+            "bank": "BANCO DEL AUSTRO S.A.",
+            "city": "CUENCA",
+            "branch": null,
+            "swift_code": "AUSTECEQ"
+        },
+        {
+            "id": "32",
+            "bank": "BANCO DEL AUSTRO S.A.",
+            "city": "GUAYAQUIL",
+            "branch": "(SUCURSAL GUAYAQUIL)",
+            "swift_code": "AUSTECEQ100"
+        },
+        {
+            "id": "33",
+            "bank": "BANCO DEL AUSTRO S.A.",
+            "city": "QUITO",
+            "branch": "(SUCURSAL QUITO)",
+            "swift_code": "AUSTECEQ500"
+        },
+        {
+            "id": "34",
+            "bank": "BANCO DEL PACIFICO",
+            "city": "AMBATO",
+            "branch": null,
+            "swift_code": "PACIECEG400"
+        },
+        {
+            "id": "35",
+            "bank": "BANCO DEL PACIFICO",
+            "city": "CUENCA",
+            "branch": null,
+            "swift_code": "PACIECEG300"
+        },
+        {
+            "id": "36",
+            "bank": "BANCO DEL PACIFICO",
+            "city": "GUAYAQUIL",
+            "branch": "(HEAD OFFICE)",
+            "swift_code": "PACIECEG"
+        },
+        {
+            "id": "37",
+            "bank": "BANCO DEL PACIFICO",
+            "city": "GUAYAQUIL",
+            "branch": null,
+            "swift_code": "PACIECEG100"
+        },
+        {
+            "id": "38",
+            "bank": "BANCO DEL PACIFICO",
+            "city": "IBARRA",
+            "branch": null,
+            "swift_code": "PACIECEGIBA"
+        },
+        {
+            "id": "39",
+            "bank": "BANCO DEL PACIFICO",
+            "city": "LA LIBERTAD",
+            "branch": null,
+            "swift_code": "PACIECEG110"
+        },
+        {
+            "id": "40",
+            "bank": "BANCO DEL PACIFICO",
+            "city": "MACHALA",
+            "branch": null,
+            "swift_code": "PACIECEG200"
+        },
+        {
+            "id": "41",
+            "bank": "BANCO DEL PACIFICO",
+            "city": "MANTA",
+            "branch": null,
+            "swift_code": "PACIECEG600"
+        },
+        {
+            "id": "42",
+            "bank": "BANCO DEL PACIFICO",
+            "city": "PORTOVIEJO",
+            "branch": null,
+            "swift_code": "PACIECEG640"
+        },
+        {
+            "id": "43",
+            "bank": "BANCO DEL PACIFICO",
+            "city": "QUITO",
+            "branch": null,
+            "swift_code": "PACIECEG500"
+        },
+        {
+            "id": "44",
+            "bank": "BANCO DEL PACIFICO",
+            "city": "RIOBAMBA",
+            "branch": null,
+            "swift_code": "PACIECEG350"
+        },
+        {
+            "id": "45",
+            "bank": "BANCO DEL PACIFICO",
+            "city": "SANTA CRUZ",
+            "branch": "(GALAPAGOS)",
+            "swift_code": "PACIECEG871"
+        },
+        {
+            "id": "46",
+            "bank": "BANCO DEL PACIFICO",
+            "city": "SANTO DOMINGO",
+            "branch": null,
+            "swift_code": "PACIECEG510"
+        },
+        {
+            "id": "47",
+            "bank": "BANCO GENERAL RUMINAHUI S.A.",
+            "city": "GUAYAQUIL",
+            "branch": "(GUAYAQUIL BRANCH)",
+            "swift_code": "BGRMECEQ100"
+        },
+        {
+            "id": "48",
+            "bank": "BANCO GENERAL RUMINAHUI S.A.",
+            "city": "MACHALA",
+            "branch": "(MACHALA BRANCH)",
+            "swift_code": "BGRMECEQ200"
+        },
+        {
+            "id": "49",
+            "bank": "BANCO GENERAL RUMINAHUI S.A.",
+            "city": "QUITO",
+            "branch": "(CASH MANAGEMENT)",
+            "swift_code": "BGRMECEQ505"
+        },
+        {
+            "id": "50",
+            "bank": "BANCO GENERAL RUMINAHUI S.A.",
+            "city": "QUITO",
+            "branch": null,
+            "swift_code": "BGRMECEQ"
+        },
+        {
+            "id": "51",
+            "bank": "BANCO INTERNACIONAL S.A.",
+            "city": "GUAYAQUIL",
+            "branch": null,
+            "swift_code": "BINTECEQ100"
+        },
+        {
+            "id": "52",
+            "bank": "BANCO INTERNACIONAL S.A.",
+            "city": "QUITO",
+            "branch": "(HEAD OFFICE AND ALL BRANCHES)",
+            "swift_code": "BINTECEQ"
+        },
+        {
+            "id": "53",
+            "bank": "BANCO NACIONAL DE FOMENTO",
+            "city": "QUITO",
+            "branch": null,
+            "swift_code": "BNFEECEQ"
+        },
+        {
+            "id": "54",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "AMBATO",
+            "branch": null,
+            "swift_code": "PICHECEQ400"
+        },
+        {
+            "id": "55",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "AZOGUES",
+            "branch": "(AZOGUES BRANCH)",
+            "swift_code": "PICHECEQ450"
+        },
+        {
+            "id": "56",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "CUENCA",
+            "branch": "(BRANCH 304)",
+            "swift_code": "PICHECEQ304"
+        },
+        {
+            "id": "57",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "CUENCA",
+            "branch": "(BRANCH 306)",
+            "swift_code": "PICHECEQ306"
+        },
+        {
+            "id": "58",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "CUENCA",
+            "branch": "(BRANCH 307)",
+            "swift_code": "PICHECEQ307"
+        },
+        {
+            "id": "59",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "CUENCA",
+            "branch": "(INTERNATIONAL OPERATIONS)",
+            "swift_code": "PICHECEQ302"
+        },
+        {
+            "id": "60",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "CUENCA",
+            "branch": "(MONEY TRANSFER)",
+            "swift_code": "PICHECEQ305"
+        },
+        {
+            "id": "61",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "CUENCA",
+            "branch": null,
+            "swift_code": "PICHECEQ300"
+        },
+        {
+            "id": "62",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "ESMERALDAS",
+            "branch": null,
+            "swift_code": "PICHECEQ700"
+        },
+        {
+            "id": "63",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "GUARANDA",
+            "branch": "(GUARANDA BRANCH)",
+            "swift_code": "PICHECEQ370"
+        },
+        {
+            "id": "64",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "GUAYAQUIL",
+            "branch": "(AG. ALBAN BORJA)",
+            "swift_code": "PICHECEQ112"
+        },
+        {
+            "id": "65",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "GUAYAQUIL",
+            "branch": "(AG. ALBORADA)",
+            "swift_code": "PICHECEQ111"
+        },
+        {
+            "id": "66",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "GUAYAQUIL",
+            "branch": "(AG. CENTENARIO SUR)",
+            "swift_code": "PICHECEQ107"
+        },
+        {
+            "id": "67",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "GUAYAQUIL",
+            "branch": "(AG. CENTENARIO)",
+            "swift_code": "PICHECEQ110"
+        },
+        {
+            "id": "68",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "GUAYAQUIL",
+            "branch": "(AG. CENTRO)",
+            "swift_code": "PICHECEQ108"
+        },
+        {
+            "id": "69",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "GUAYAQUIL",
+            "branch": "(AG. LA LIBERTAD)",
+            "swift_code": "PICHECEQ106"
+        },
+        {
+            "id": "70",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "GUAYAQUIL",
+            "branch": "(AG. MALL DEL SOL)",
+            "swift_code": "PICHECEQ113"
+        },
+        {
+            "id": "71",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "GUAYAQUIL",
+            "branch": "(AG. URDESA)",
+            "swift_code": "PICHECEQ114"
+        },
+        {
+            "id": "72",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "GUAYAQUIL",
+            "branch": "(AG.)",
+            "swift_code": "PICHECEQ101"
+        },
+        {
+            "id": "73",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "GUAYAQUIL",
+            "branch": "(AG.)",
+            "swift_code": "PICHECEQ115"
+        },
+        {
+            "id": "74",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "GUAYAQUIL",
+            "branch": "(AG.)",
+            "swift_code": "PICHECEQ116"
+        },
+        {
+            "id": "75",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "GUAYAQUIL",
+            "branch": "(AG.)",
+            "swift_code": "PICHECEQ117"
+        },
+        {
+            "id": "76",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "GUAYAQUIL",
+            "branch": "(AG.POLICENTRO)",
+            "swift_code": "PICHECEQ118"
+        },
+        {
+            "id": "77",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "GUAYAQUIL",
+            "branch": "(BRANCH 119)",
+            "swift_code": "PICHECEQ119"
+        },
+        {
+            "id": "78",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "GUAYAQUIL",
+            "branch": "(BRANCH 120)",
+            "swift_code": "PICHECEQ120"
+        },
+        {
+            "id": "79",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "GUAYAQUIL",
+            "branch": "(BRANCH 121)",
+            "swift_code": "PICHECEQ121"
+        },
+        {
+            "id": "80",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "GUAYAQUIL",
+            "branch": "(DOMESTIC OPERATIONS)",
+            "swift_code": "PICHECEQ103"
+        },
+        {
+            "id": "81",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "GUAYAQUIL",
+            "branch": "(INTERNATIONAL OPERATIONS)",
+            "swift_code": "PICHECEQ102"
+        },
+        {
+            "id": "82",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "GUAYAQUIL",
+            "branch": "(MONEY TRANSFER)",
+            "swift_code": "PICHECEQ105"
+        },
+        {
+            "id": "83",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "GUAYAQUIL",
+            "branch": "(TREASURY AND SECURITIES OPERATIONS)",
+            "swift_code": "PICHECEQ104"
+        },
+        {
+            "id": "84",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "GUAYAQUIL",
+            "branch": null,
+            "swift_code": "PICHECEQ100"
+        },
+        {
+            "id": "85",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "IBARRA",
+            "branch": "(IBARRA BRANCH)",
+            "swift_code": "PICHECEQ250"
+        },
+        {
+            "id": "86",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "LATACUNGA",
+            "branch": "(LATACUNGA BRANCH)",
+            "swift_code": "PICHECEQ270"
+        },
+        {
+            "id": "87",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "MACHALA",
+            "branch": null,
+            "swift_code": "PICHECEQ200"
+        },
+        {
+            "id": "88",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "MANTA",
+            "branch": "(MONEY TRANSFER DEPT.)",
+            "swift_code": "PICHECEQ605"
+        },
+        {
+            "id": "89",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "MANTA",
+            "branch": null,
+            "swift_code": "PICHECEQ600"
+        },
+        {
+            "id": "90",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "OTAVALO",
+            "branch": "(OTAVALO BRANCH)",
+            "swift_code": "PICHECEQ253"
+        },
+        {
+            "id": "91",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "PORTOVIEJO",
+            "branch": null,
+            "swift_code": "PICHECEQ610"
+        },
+        {
+            "id": "92",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUEVEDO",
+            "branch": "(QUEVEDO BRANCH)",
+            "swift_code": "PICHECEQ804"
+        },
+        {
+            "id": "93",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(AG. AMAZONAS)",
+            "swift_code": "PICHECEQ511"
+        },
+        {
+            "id": "94",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(AG. AV. PORTUGAL)",
+            "swift_code": "PICHECEQ514"
+        },
+        {
+            "id": "95",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(AG. C.C.INAQUITO)",
+            "swift_code": "PICHECEQ519"
+        },
+        {
+            "id": "96",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(AG. CARONDELET)",
+            "swift_code": "PICHECEQ517"
+        },
+        {
+            "id": "97",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(AG. CUMBAYA)",
+            "swift_code": "PICHECEQ523"
+        },
+        {
+            "id": "98",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(AG. EL BOSQUE)",
+            "swift_code": "PICHECEQ516"
+        },
+        {
+            "id": "99",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(AG. EL DORADO)",
+            "swift_code": "PICHECEQ109"
+        },
+        {
+            "id": "100",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(AG. EL INCA)",
+            "swift_code": "PICHECEQ520"
+        },
+        {
+            "id": "101",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(AG. GONZALEZ SUAREZ)",
+            "swift_code": "PICHECEQ521"
+        },
+        {
+            "id": "102",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(AG. INAQUITO)",
+            "swift_code": "PICHECEQ515"
+        },
+        {
+            "id": "103",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(AG. LA REPUBLICA)",
+            "swift_code": "PICHECEQ513"
+        },
+        {
+            "id": "104",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(AG. PLAZA GRANDE)",
+            "swift_code": "PICHECEQ510"
+        },
+        {
+            "id": "105",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(AG. QUICENTRO)",
+            "swift_code": "PICHECEQ518"
+        },
+        {
+            "id": "106",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(AG. VILLAFLORA)",
+            "swift_code": "PICHECEQ522"
+        },
+        {
+            "id": "107",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(AG.)",
+            "swift_code": "PICHECEQ525"
+        },
+        {
+            "id": "108",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(AG.)",
+            "swift_code": "PICHECEQ526"
+        },
+        {
+            "id": "109",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(AG.)",
+            "swift_code": "PICHECEQ527"
+        },
+        {
+            "id": "110",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(AG.)",
+            "swift_code": "PICHECEQ528"
+        },
+        {
+            "id": "111",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(AG.)",
+            "swift_code": "PICHECEQ529"
+        },
+        {
+            "id": "112",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(AG.)",
+            "swift_code": "PICHECEQ530"
+        },
+        {
+            "id": "113",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(AG.)",
+            "swift_code": "PICHECEQ531"
+        },
+        {
+            "id": "114",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(AG.)",
+            "swift_code": "PICHECEQ532"
+        },
+        {
+            "id": "115",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(AG.)",
+            "swift_code": "PICHECEQ533"
+        },
+        {
+            "id": "116",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(AG.)",
+            "swift_code": "PICHECEQ534"
+        },
+        {
+            "id": "117",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(AG.)",
+            "swift_code": "PICHECEQ535"
+        },
+        {
+            "id": "118",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(AG.)",
+            "swift_code": "PICHECEQ536"
+        },
+        {
+            "id": "119",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(AG.)",
+            "swift_code": "PICHECEQ552"
+        },
+        {
+            "id": "120",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(AG.ELOY ALFARO)",
+            "swift_code": "PICHECEQ524"
+        },
+        {
+            "id": "121",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(BRANCH 537)",
+            "swift_code": "PICHECEQ537"
+        },
+        {
+            "id": "122",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(BRANCH 538)",
+            "swift_code": "PICHECEQ538"
+        },
+        {
+            "id": "123",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(BRANCH 539)",
+            "swift_code": "PICHECEQ539"
+        },
+        {
+            "id": "124",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(BRANCH 540)",
+            "swift_code": "PICHECEQ540"
+        },
+        {
+            "id": "125",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(BRANCH 541)",
+            "swift_code": "PICHECEQ541"
+        },
+        {
+            "id": "126",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(DOMESTIC OPERATIONS)",
+            "swift_code": "PICHECEQ503"
+        },
+        {
+            "id": "127",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(HEAD INTERNATIONAL DIVISION)",
+            "swift_code": "PICHECEQ502"
+        },
+        {
+            "id": "128",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(HEAD OFFICE)",
+            "swift_code": "PICHECEQ"
+        },
+        {
+            "id": "129",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(INTERNATIONAL CORRESPONDENTS)",
+            "swift_code": "PICHECEQ509"
+        },
+        {
+            "id": "130",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(LOAN AND CREDITS)",
+            "swift_code": "PICHECEQ500"
+        },
+        {
+            "id": "131",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(MONEY TRANSFER DEPARTMENT)",
+            "swift_code": "PICHECEQ505"
+        },
+        {
+            "id": "132",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(RECONCILIATION)",
+            "swift_code": "PICHECEQ508"
+        },
+        {
+            "id": "133",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(SUC. EL VALLE)",
+            "swift_code": "PICHECEQ551"
+        },
+        {
+            "id": "134",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(SUC.NORTE)",
+            "swift_code": "PICHECEQ512"
+        },
+        {
+            "id": "135",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": "(TREASURY AND SECURITIES OPERATIONS)",
+            "swift_code": "PICHECEQ504"
+        },
+        {
+            "id": "136",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": null,
+            "swift_code": "PICHECEQ501"
+        },
+        {
+            "id": "137",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": null,
+            "swift_code": "PICHECEQ506"
+        },
+        {
+            "id": "138",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "QUITO",
+            "branch": null,
+            "swift_code": "PICHECEQ507"
+        },
+        {
+            "id": "139",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "RIOBAMBA",
+            "branch": "(RIOBAMBA BRANCH)",
+            "swift_code": "PICHECEQ350"
+        },
+        {
+            "id": "140",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "SANTO DOMINGO",
+            "branch": null,
+            "swift_code": "PICHECEQ550"
+        },
+        {
+            "id": "141",
+            "bank": "BANCO PICHINCHA C.A.",
+            "city": "TULCAN",
+            "branch": "(TULCAN BRANCH)",
+            "swift_code": "PICHECEQ900"
+        },
+        {
+            "id": "142",
+            "bank": "BANCO PROCREDIT S.A.",
+            "city": "QUITO",
+            "branch": null,
+            "swift_code": "PRCBECEQ"
+        },
+        {
+            "id": "143",
+            "bank": "BANCO SOLIDARIO S.A.",
+            "city": "QUITO",
+            "branch": null,
+            "swift_code": "BSGEECEQ"
+        },
+        {
+            "id": "144",
+            "bank": "COOPERATIVA DE AHORRO Y CREDITO DESARROLLO DE LOS PUEBLOS CODESARROLLO",
+            "city": "MARCABELI",
+            "branch": "(MARCABELI BRANCH)",
+            "swift_code": "CODSECEQ001"
+        },
+        {
+            "id": "145",
+            "bank": "COOPERATIVA DE AHORRO Y CREDITO DESARROLLO DE LOS PUEBLOS CODESARROLLO",
+            "city": "QUITO",
+            "branch": null,
+            "swift_code": "CODSECEQ"
+        },
+        {
+            "id": "146",
+            "bank": "COOPERATIVA DE AHORRO Y CREDITO JUVENTUD ECUATORIANA PROGRESISTA LTDA.",
+            "city": "CUENCA",
+            "branch": null,
+            "swift_code": "CJEPECEQ"
+        },
+        {
+            "id": "147",
+            "bank": "CORPORACION FINANCIERA NACIONAL",
+            "city": "QUITO",
+            "branch": null,
+            "swift_code": "CFNAECEQ"
+        },
+        {
+            "id": "148",
+            "bank": "FINANCIERA DE LA REPULICA S. A. FIR",
+            "city": "GUAYAQUIL",
+            "branch": null,
+            "swift_code": "FIREECEG"
+        }
     ]
 }

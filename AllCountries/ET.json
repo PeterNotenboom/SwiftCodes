@@ -2,187 +2,208 @@
     "country": "Ethiopia",
     "country_code": "ET",
     "list": [
-        [
-            "1",
-            "ABAY BANK S.C.",
-            "ADDIS ABEBA",
-            "ABAYETAA"
-        ],
-        [
-            "2",
-            "ADDIS INTERNATIONAL BANK S.C.",
-            "ADDIS ABEBA",
-            "ABSCETAA"
-        ],
-        [
-            "3",
-            "AWASH INTERNATIONAL BANK S.C.",
-            "ADDIS ABEBA",
-            "AWINETAA"
-        ],
-        [
-            "4",
-            "BANK OF ABYSSINIA",
-            "ADDIS ABEBA",
-            "ABYSETAA"
-        ],
-        [
-            "5",
-            "BERHAN INTERNATIONAL BANK",
-            "ADDIS ABEBA",
-            "BERHETAA"
-        ],
-        [
-            "6",
-            "BUNNA INTERNATIONAL BANK S.C",
-            "ADDIS ABEBA",
-            "BUNAETAA"
-        ],
-        [
-            "7",
-            "COMMERCIAL BANK OF ETHIOPIA",
-            "ADDIS ABEBA",
-            "(ARADA GIORGIS BRANCH)",
-            "CBETETAAARA"
-        ],
-        [
-            "8",
-            "COMMERCIAL BANK OF ETHIOPIA",
-            "ADDIS ABEBA",
-            "(DIRE DAWA MAIN BRANCH)",
-            "CBETETAADIR"
-        ],
-        [
-            "9",
-            "COMMERCIAL BANK OF ETHIOPIA",
-            "ADDIS ABEBA",
-            "(FINFINE BRANCH)",
-            "CBETETAAFIN"
-        ],
-        [
-            "10",
-            "COMMERCIAL BANK OF ETHIOPIA",
-            "ADDIS ABEBA",
-            "(INTERNATIONAL BANKING DEPARTMENT)",
-            "CBETETAAIBD"
-        ],
-        [
-            "11",
-            "COMMERCIAL BANK OF ETHIOPIA",
-            "ADDIS ABEBA",
-            "(MEHAL GEBEYA BRANCH)",
-            "CBETETAAMEH"
-        ],
-        [
-            "12",
-            "COMMERCIAL BANK OF ETHIOPIA",
-            "ADDIS ABEBA",
-            "(TEMENJA YAJ BRANCH)",
-            "CBETETAATEM"
-        ],
-        [
-            "13",
-            "COMMERCIAL BANK OF ETHIOPIA",
-            "ADDIS ABEBA",
-            "(TRADE SERVICE CENTER)",
-            "CBETETAADOC"
-        ],
-        [
-            "14",
-            "COMMERCIAL BANK OF ETHIOPIA",
-            "ADDIS ABEBA",
-            "(TREASURY DEPARTMENT)",
-            "CBETETAATRY"
-        ],
-        [
-            "15",
-            "COMMERCIAL BANK OF ETHIOPIA",
-            "ADDIS ABEBA",
-            "CBETETAA"
-        ],
-        [
-            "16",
-            "CONSTRUCTION AND BUSINESS BANK",
-            "ADDIS ABEBA",
-            "COUUETAA"
-        ],
-        [
-            "17",
-            "CONSTRUCTION AND BUSINESS BANK",
-            "ADDIS ABEBA",
-            "COUUETAADOC"
-        ],
-        [
-            "18",
-            "COOPERATIVE BANK OF OROMIA S.C.",
-            "FINFINE",
-            "CBORETAA"
-        ],
-        [
-            "19",
-            "DASHEN BANK S.C.",
-            "ADDIS ABEBA",
-            "DASHETAA"
-        ],
-        [
-            "20",
-            "DEBUB GLOBAL BANK S.C",
-            "ADDIS ABEBA",
-            "DEGAETAA"
-        ],
-        [
-            "21",
-            "DEVELOPMENT BANK OF ETHIOPIA",
-            "ADDIS ABEBA",
-            "DEETETAA"
-        ],
-        [
-            "22",
-            "ENAT BANK S.C",
-            "ADDIS ABEBA",
-            "ENATETAA"
-        ],
-        [
-            "23",
-            "LION INTERNATIONAL BANK S.C.",
-            "ADDIS ABEBA",
-            "LIBSETAA"
-        ],
-        [
-            "24",
-            "NATIONAL BANK OF ETHIOPIA",
-            "ADDIS ABEBA",
-            "NBETETAA"
-        ],
-        [
-            "25",
-            "NIB INTERNATIONAL BANK S.C.",
-            "ADDIS ABEBA",
-            "NIBIETAA"
-        ],
-        [
-            "26",
-            "OROMIA INTERNATIONAL BANK S.C.",
-            "ADDIS ABEBA",
-            "ORIRETAA"
-        ],
-        [
-            "27",
-            "UNITED BANK SHARE COMPANY",
-            "ADDIS ABEBA",
-            "UNTDETAA"
-        ],
-        [
-            "28",
-            "WEGAGEN BANK S.C.",
-            "ADDIS ABEBA",
-            "WEGAETAA"
-        ],
-        [
-            "29",
-            "ZEMEN BANK S.C.",
-            "ADDIS ABEBA",
-            "ZEMEETAA"
-        ]
+        {
+            "id": "1",
+            "bank": "ABAY BANK S.C.",
+            "city": "ADDIS ABEBA",
+            "branch": null,
+            "swift_code": "ABAYETAA"
+        },
+        {
+            "id": "2",
+            "bank": "ADDIS INTERNATIONAL BANK S.C.",
+            "city": "ADDIS ABEBA",
+            "branch": null,
+            "swift_code": "ABSCETAA"
+        },
+        {
+            "id": "3",
+            "bank": "AWASH INTERNATIONAL BANK S.C.",
+            "city": "ADDIS ABEBA",
+            "branch": null,
+            "swift_code": "AWINETAA"
+        },
+        {
+            "id": "4",
+            "bank": "BANK OF ABYSSINIA",
+            "city": "ADDIS ABEBA",
+            "branch": null,
+            "swift_code": "ABYSETAA"
+        },
+        {
+            "id": "5",
+            "bank": "BERHAN INTERNATIONAL BANK",
+            "city": "ADDIS ABEBA",
+            "branch": null,
+            "swift_code": "BERHETAA"
+        },
+        {
+            "id": "6",
+            "bank": "BUNNA INTERNATIONAL BANK S.C",
+            "city": "ADDIS ABEBA",
+            "branch": null,
+            "swift_code": "BUNAETAA"
+        },
+        {
+            "id": "7",
+            "bank": "COMMERCIAL BANK OF ETHIOPIA",
+            "city": "ADDIS ABEBA",
+            "branch": "(ARADA GIORGIS BRANCH)",
+            "swift_code": "CBETETAAARA"
+        },
+        {
+            "id": "8",
+            "bank": "COMMERCIAL BANK OF ETHIOPIA",
+            "city": "ADDIS ABEBA",
+            "branch": "(DIRE DAWA MAIN BRANCH)",
+            "swift_code": "CBETETAADIR"
+        },
+        {
+            "id": "9",
+            "bank": "COMMERCIAL BANK OF ETHIOPIA",
+            "city": "ADDIS ABEBA",
+            "branch": "(FINFINE BRANCH)",
+            "swift_code": "CBETETAAFIN"
+        },
+        {
+            "id": "10",
+            "bank": "COMMERCIAL BANK OF ETHIOPIA",
+            "city": "ADDIS ABEBA",
+            "branch": "(INTERNATIONAL BANKING DEPARTMENT)",
+            "swift_code": "CBETETAAIBD"
+        },
+        {
+            "id": "11",
+            "bank": "COMMERCIAL BANK OF ETHIOPIA",
+            "city": "ADDIS ABEBA",
+            "branch": "(MEHAL GEBEYA BRANCH)",
+            "swift_code": "CBETETAAMEH"
+        },
+        {
+            "id": "12",
+            "bank": "COMMERCIAL BANK OF ETHIOPIA",
+            "city": "ADDIS ABEBA",
+            "branch": "(TEMENJA YAJ BRANCH)",
+            "swift_code": "CBETETAATEM"
+        },
+        {
+            "id": "13",
+            "bank": "COMMERCIAL BANK OF ETHIOPIA",
+            "city": "ADDIS ABEBA",
+            "branch": "(TRADE SERVICE CENTER)",
+            "swift_code": "CBETETAADOC"
+        },
+        {
+            "id": "14",
+            "bank": "COMMERCIAL BANK OF ETHIOPIA",
+            "city": "ADDIS ABEBA",
+            "branch": "(TREASURY DEPARTMENT)",
+            "swift_code": "CBETETAATRY"
+        },
+        {
+            "id": "15",
+            "bank": "COMMERCIAL BANK OF ETHIOPIA",
+            "city": "ADDIS ABEBA",
+            "branch": null,
+            "swift_code": "CBETETAA"
+        },
+        {
+            "id": "16",
+            "bank": "CONSTRUCTION AND BUSINESS BANK",
+            "city": "ADDIS ABEBA",
+            "branch": null,
+            "swift_code": "COUUETAA"
+        },
+        {
+            "id": "17",
+            "bank": "CONSTRUCTION AND BUSINESS BANK",
+            "city": "ADDIS ABEBA",
+            "branch": null,
+            "swift_code": "COUUETAADOC"
+        },
+        {
+            "id": "18",
+            "bank": "COOPERATIVE BANK OF OROMIA S.C.",
+            "city": "FINFINE",
+            "branch": null,
+            "swift_code": "CBORETAA"
+        },
+        {
+            "id": "19",
+            "bank": "DASHEN BANK S.C.",
+            "city": "ADDIS ABEBA",
+            "branch": null,
+            "swift_code": "DASHETAA"
+        },
+        {
+            "id": "20",
+            "bank": "DEBUB GLOBAL BANK S.C",
+            "city": "ADDIS ABEBA",
+            "branch": null,
+            "swift_code": "DEGAETAA"
+        },
+        {
+            "id": "21",
+            "bank": "DEVELOPMENT BANK OF ETHIOPIA",
+            "city": "ADDIS ABEBA",
+            "branch": null,
+            "swift_code": "DEETETAA"
+        },
+        {
+            "id": "22",
+            "bank": "ENAT BANK S.C",
+            "city": "ADDIS ABEBA",
+            "branch": null,
+            "swift_code": "ENATETAA"
+        },
+        {
+            "id": "23",
+            "bank": "LION INTERNATIONAL BANK S.C.",
+            "city": "ADDIS ABEBA",
+            "branch": null,
+            "swift_code": "LIBSETAA"
+        },
+        {
+            "id": "24",
+            "bank": "NATIONAL BANK OF ETHIOPIA",
+            "city": "ADDIS ABEBA",
+            "branch": null,
+            "swift_code": "NBETETAA"
+        },
+        {
+            "id": "25",
+            "bank": "NIB INTERNATIONAL BANK S.C.",
+            "city": "ADDIS ABEBA",
+            "branch": null,
+            "swift_code": "NIBIETAA"
+        },
+        {
+            "id": "26",
+            "bank": "OROMIA INTERNATIONAL BANK S.C.",
+            "city": "ADDIS ABEBA",
+            "branch": null,
+            "swift_code": "ORIRETAA"
+        },
+        {
+            "id": "27",
+            "bank": "UNITED BANK SHARE COMPANY",
+            "city": "ADDIS ABEBA",
+            "branch": null,
+            "swift_code": "UNTDETAA"
+        },
+        {
+            "id": "28",
+            "bank": "WEGAGEN BANK S.C.",
+            "city": "ADDIS ABEBA",
+            "branch": null,
+            "swift_code": "WEGAETAA"
+        },
+        {
+            "id": "29",
+            "bank": "ZEMEN BANK S.C.",
+            "city": "ADDIS ABEBA",
+            "branch": null,
+            "swift_code": "ZEMEETAA"
+        }
     ]
 }

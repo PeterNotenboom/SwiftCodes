@@ -2,59 +2,68 @@
     "country": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
     "country_code": "ST",
     "list": [
-        [
-            "1",
-            "AFRILAND FIRST BANK STP",
-            "SAO TOME",
-            "AFFSSTST"
-        ],
-        [
-            "2",
-            "BANCO CENTRAL DE SAO TOME E PRINCIPE",
-            "SAO TOME",
-            "CSTPSTST"
-        ],
-        [
-            "3",
-            "BANCO EQUADOR, SARL",
-            "SAO TOME",
-            "EQSRSTST"
-        ],
-        [
-            "4",
-            "BANCO INTERNACIONAL S TOME E PRINCIPE",
-            "SAO TOME",
-            "INOISTST"
-        ],
-        [
-            "5",
-            "BGFIBANK SAO TOME ET PRINCIPE",
-            "SAO TOME",
-            "BGFISTST"
-        ],
-        [
-            "6",
-            "COMMERCIAL BANK - SAO TOME E PRINCIPE",
-            "SAO TOME",
-            "CBSTSTST"
-        ],
-        [
-            "7",
-            "ECOBANK SAO TOME",
-            "SAO TOME",
-            "ECOCSTST"
-        ],
-        [
-            "8",
-            "ENERGYBANK SAO TOME E PRICIPE S.A",
-            "SAO TOME",
-            "ESTPSTST"
-        ],
-        [
-            "9",
-            "ISLAND BANK S.A.",
-            "SAO TOME",
-            "ISLNSTST"
-        ]
+        {
+            "id": "1",
+            "bank": "AFRILAND FIRST BANK STP",
+            "city": "SAO TOME",
+            "branch": null,
+            "swift_code": "AFFSSTST"
+        },
+        {
+            "id": "2",
+            "bank": "BANCO CENTRAL DE SAO TOME E PRINCIPE",
+            "city": "SAO TOME",
+            "branch": null,
+            "swift_code": "CSTPSTST"
+        },
+        {
+            "id": "3",
+            "bank": "BANCO EQUADOR, SARL",
+            "city": "SAO TOME",
+            "branch": null,
+            "swift_code": "EQSRSTST"
+        },
+        {
+            "id": "4",
+            "bank": "BANCO INTERNACIONAL S TOME E PRINCIPE",
+            "city": "SAO TOME",
+            "branch": null,
+            "swift_code": "INOISTST"
+        },
+        {
+            "id": "5",
+            "bank": "BGFIBANK SAO TOME ET PRINCIPE",
+            "city": "SAO TOME",
+            "branch": null,
+            "swift_code": "BGFISTST"
+        },
+        {
+            "id": "6",
+            "bank": "COMMERCIAL BANK - SAO TOME E PRINCIPE",
+            "city": "SAO TOME",
+            "branch": null,
+            "swift_code": "CBSTSTST"
+        },
+        {
+            "id": "7",
+            "bank": "ECOBANK SAO TOME",
+            "city": "SAO TOME",
+            "branch": null,
+            "swift_code": "ECOCSTST"
+        },
+        {
+            "id": "8",
+            "bank": "ENERGYBANK SAO TOME E PRICIPE S.A",
+            "city": "SAO TOME",
+            "branch": null,
+            "swift_code": "ESTPSTST"
+        },
+        {
+            "id": "9",
+            "bank": "ISLAND BANK S.A.",
+            "city": "SAO TOME",
+            "branch": null,
+            "swift_code": "ISLNSTST"
+        }
     ]
 }

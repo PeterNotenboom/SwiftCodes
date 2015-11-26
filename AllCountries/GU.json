@@ -2,23 +2,26 @@
     "country": "Guam",
     "country_code": "GU",
     "list": [
-        [
-            "1",
-            "ANZ GUAM, INC.",
-            "AGANA",
-            "ANZBGUGG"
-        ],
-        [
-            "2",
-            "BANK OF GUAM",
-            "AGANA",
-            "GMBKGUGU"
-        ],
-        [
-            "3",
-            "CITIBANK N.A. GUAM",
-            "AGANA",
-            "CITIGUGX"
-        ]
+        {
+            "id": "1",
+            "bank": "ANZ GUAM, INC.",
+            "city": "AGANA",
+            "branch": null,
+            "swift_code": "ANZBGUGG"
+        },
+        {
+            "id": "2",
+            "bank": "BANK OF GUAM",
+            "city": "AGANA",
+            "branch": null,
+            "swift_code": "GMBKGUGU"
+        },
+        {
+            "id": "3",
+            "bank": "CITIBANK N.A. GUAM",
+            "city": "AGANA",
+            "branch": null,
+            "swift_code": "CITIGUGX"
+        }
     ]
 }

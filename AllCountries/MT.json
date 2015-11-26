@@ -2,204 +2,236 @@
     "country": "Malta",
     "country_code": "MT",
     "list": [
-        [
-            "1",
-            "AGRIBANK PLC",
-            "LUQA",
-            "AGRKMTMT"
-        ],
-        [
-            "2",
-            "AKBANK T.A.S. (MALTA BRANCH)",
-            "ST. JULIAN'S",
-            "AKBKMTMT"
-        ],
-        [
-            "3",
-            "APS BANK LTD.",
-            "BIRKIRKARA",
-            "APSBMTMT"
-        ],
-        [
-            "4",
-            "BANIF BANK (MALTA) PLC",
-            "GZIRA",
-            "BNIFMTMT"
-        ],
-        [
-            "5",
-            "BANK OF VALLETTA P.L.C.",
-            "ST. VENERA",
-            "VALLMTMT"
-        ],
-        [
-            "6",
-            "BAWAG MALTA BANK LTD",
-            "SLIEMA",
-            "BAWAMTM3"
-        ],
-        [
-            "7",
-            "CENTRAL BANK OF MALTA",
-            "VALLETTA",
-            "(EUREX BRANCH ACCOUNT)",
-            "MALTMTMTGCP"
-        ],
-        [
-            "8",
-            "CENTRAL BANK OF MALTA",
-            "VALLETTA",
-            "MALTMTMT"
-        ],
-        [
-            "9",
-            "CITCO CUSTODY LIMITED",
-            "VALLETTA",
-            "CITCMTMT"
-        ],
-        [
-            "10",
-            "CREDIT EUROPE BANK N.V. MALTA BRANCH",
-            "SLIEMA",
-            "FBHLMTMT"
-        ],
-        [
-            "11",
-            "CREDORAX (MALTA) LIMITED",
-            "VALLETTA",
-            "CRXBMTMT"
-        ],
-        [
-            "12",
-            "ECCM BANK PLC",
-            "SLIEMA",
-            "ECMBMTMT"
-        ],
-        [
-            "13",
-            "EFT GLOBAL LIMITED",
-            "VALLETTA",
-            "EFTGMTM2"
-        ],
-        [
-            "14",
-            "ESS-DATABRIDGE EXCHANGE LIMITED",
-            "VALLETTA",
-            "ESSDMTMT"
-        ],
-        [
-            "15",
-            "FCM BANK LIMITED",
-            "VALLETTA",
-            "FCMFMTMT"
-        ],
-        [
-            "16",
-            "FIMBANK PLC",
-            "ST. JULIAN'S",
-            "FIMBMTM3"
-        ],
-        [
-            "17",
-            "GARANTI BANK, MALTA BRANCH",
-            "SLIEMA",
-            "TGBAMTMT"
-        ],
-        [
-            "18",
-            "HSBC BANK MALTA P.L.C.",
-            "VALLETTA",
-            "MMEBMTMT"
-        ],
-        [
-            "19",
-            "IIG BANK (MALTA) LTD",
-            "ST. JULIAN'S",
-            "IIGBMTMT"
-        ],
-        [
-            "20",
-            "IZOLA BANK LIMITED",
-            "VALLETTA",
-            "IZOLMTMT"
-        ],
-        [
-            "21",
-            "LOMBARD BANK MALTA PLC",
-            "VALLETTA",
-            "LBMAMTMT"
-        ],
-        [
-            "22",
-            "MALTA STOCK EXCHANGE",
-            "VALLETTA",
-            "XMALMTMT"
-        ],
-        [
-            "23",
-            "MEDITERRANEAN BANK PLC",
-            "VALLETTA",
-            "MBWMMTMT"
-        ],
-        [
-            "24",
-            "MEDITERRANEAN CORPORATE BANK",
-            "SLIEMA",
-            "VBMAMTM3"
-        ],
-        [
-            "25",
-            "NBG BANK MALTA LIMITED",
-            "SLIEMA",
-            "FNNBMTMT"
-        ],
-        [
-            "26",
-            "NEMEA BANK",
-            "ST. JULIAN'S",
-            "NMEAMTMT"
-        ],
-        [
-            "27",
-            "NOVUM BANK LTD",
-            "TA'XBIEX",
-            "VOCBMTMT"
-        ],
-        [
-            "28",
-            "PAYMIX LIMITED",
-            "SAN GWANN",
-            "PYMXMTMT"
-        ],
-        [
-            "29",
-            "PILATUS BANK LTD",
-            "GZIRA",
-            "PLTSMTMT"
-        ],
-        [
-            "30",
-            "SATABANK P.L.C.",
-            "ST. JULIAN'S",
-            "STBAMTMT"
-        ],
-        [
-            "31",
-            "W AND J COPPINI AND CO",
-            "SLIEMA",
-            "COPXMTMT"
-        ],
-        [
-            "32",
-            "WESTERN UNION BUSINESS SOLUTIONS (MALTA) LTD",
-            "SLIEMA",
-            "TGBPMTMT"
-        ],
-        [
-            "33",
-            "YAPI KREDI MALTA LTD.",
-            "SLIEMA",
-            "YAPIMTMT"
-        ]
+        {
+            "id": "1",
+            "bank": "AGRIBANK PLC",
+            "city": "LUQA",
+            "branch": null,
+            "swift_code": "AGRKMTMT"
+        },
+        {
+            "id": "2",
+            "bank": "AKBANK T.A.S. (MALTA BRANCH)",
+            "city": "ST. JULIAN'S",
+            "branch": null,
+            "swift_code": "AKBKMTMT"
+        },
+        {
+            "id": "3",
+            "bank": "APS BANK LTD.",
+            "city": "BIRKIRKARA",
+            "branch": null,
+            "swift_code": "APSBMTMT"
+        },
+        {
+            "id": "4",
+            "bank": "BANIF BANK (MALTA) PLC",
+            "city": "GZIRA",
+            "branch": null,
+            "swift_code": "BNIFMTMT"
+        },
+        {
+            "id": "5",
+            "bank": "BANK OF VALLETTA P.L.C.",
+            "city": "ST. VENERA",
+            "branch": null,
+            "swift_code": "VALLMTMT"
+        },
+        {
+            "id": "6",
+            "bank": "BAWAG MALTA BANK LTD",
+            "city": "SLIEMA",
+            "branch": null,
+            "swift_code": "BAWAMTM3"
+        },
+        {
+            "id": "7",
+            "bank": "CENTRAL BANK OF MALTA",
+            "city": "VALLETTA",
+            "branch": "(EUREX BRANCH ACCOUNT)",
+            "swift_code": "MALTMTMTGCP"
+        },
+        {
+            "id": "8",
+            "bank": "CENTRAL BANK OF MALTA",
+            "city": "VALLETTA",
+            "branch": null,
+            "swift_code": "MALTMTMT"
+        },
+        {
+            "id": "9",
+            "bank": "CITCO CUSTODY LIMITED",
+            "city": "VALLETTA",
+            "branch": null,
+            "swift_code": "CITCMTMT"
+        },
+        {
+            "id": "10",
+            "bank": "CREDIT EUROPE BANK N.V. MALTA BRANCH",
+            "city": "SLIEMA",
+            "branch": null,
+            "swift_code": "FBHLMTMT"
+        },
+        {
+            "id": "11",
+            "bank": "CREDORAX (MALTA) LIMITED",
+            "city": "VALLETTA",
+            "branch": null,
+            "swift_code": "CRXBMTMT"
+        },
+        {
+            "id": "12",
+            "bank": "ECCM BANK PLC",
+            "city": "SLIEMA",
+            "branch": null,
+            "swift_code": "ECMBMTMT"
+        },
+        {
+            "id": "13",
+            "bank": "EFT GLOBAL LIMITED",
+            "city": "VALLETTA",
+            "branch": null,
+            "swift_code": "EFTGMTM2"
+        },
+        {
+            "id": "14",
+            "bank": "ESS-DATABRIDGE EXCHANGE LIMITED",
+            "city": "VALLETTA",
+            "branch": null,
+            "swift_code": "ESSDMTMT"
+        },
+        {
+            "id": "15",
+            "bank": "FCM BANK LIMITED",
+            "city": "VALLETTA",
+            "branch": null,
+            "swift_code": "FCMFMTMT"
+        },
+        {
+            "id": "16",
+            "bank": "FIMBANK PLC",
+            "city": "ST. JULIAN'S",
+            "branch": null,
+            "swift_code": "FIMBMTM3"
+        },
+        {
+            "id": "17",
+            "bank": "GARANTI BANK, MALTA BRANCH",
+            "city": "SLIEMA",
+            "branch": null,
+            "swift_code": "TGBAMTMT"
+        },
+        {
+            "id": "18",
+            "bank": "HSBC BANK MALTA P.L.C.",
+            "city": "VALLETTA",
+            "branch": null,
+            "swift_code": "MMEBMTMT"
+        },
+        {
+            "id": "19",
+            "bank": "IIG BANK (MALTA) LTD",
+            "city": "ST. JULIAN'S",
+            "branch": null,
+            "swift_code": "IIGBMTMT"
+        },
+        {
+            "id": "20",
+            "bank": "IZOLA BANK LIMITED",
+            "city": "VALLETTA",
+            "branch": null,
+            "swift_code": "IZOLMTMT"
+        },
+        {
+            "id": "21",
+            "bank": "LOMBARD BANK MALTA PLC",
+            "city": "VALLETTA",
+            "branch": null,
+            "swift_code": "LBMAMTMT"
+        },
+        {
+            "id": "22",
+            "bank": "MALTA STOCK EXCHANGE",
+            "city": "VALLETTA",
+            "branch": null,
+            "swift_code": "XMALMTMT"
+        },
+        {
+            "id": "23",
+            "bank": "MEDITERRANEAN BANK PLC",
+            "city": "VALLETTA",
+            "branch": null,
+            "swift_code": "MBWMMTMT"
+        },
+        {
+            "id": "24",
+            "bank": "MEDITERRANEAN CORPORATE BANK",
+            "city": "SLIEMA",
+            "branch": null,
+            "swift_code": "VBMAMTM3"
+        },
+        {
+            "id": "25",
+            "bank": "NBG BANK MALTA LIMITED",
+            "city": "SLIEMA",
+            "branch": null,
+            "swift_code": "FNNBMTMT"
+        },
+        {
+            "id": "26",
+            "bank": "NEMEA BANK",
+            "city": "ST. JULIAN'S",
+            "branch": null,
+            "swift_code": "NMEAMTMT"
+        },
+        {
+            "id": "27",
+            "bank": "NOVUM BANK LTD",
+            "city": "TA'XBIEX",
+            "branch": null,
+            "swift_code": "VOCBMTMT"
+        },
+        {
+            "id": "28",
+            "bank": "PAYMIX LIMITED",
+            "city": "SAN GWANN",
+            "branch": null,
+            "swift_code": "PYMXMTMT"
+        },
+        {
+            "id": "29",
+            "bank": "PILATUS BANK LTD",
+            "city": "GZIRA",
+            "branch": null,
+            "swift_code": "PLTSMTMT"
+        },
+        {
+            "id": "30",
+            "bank": "SATABANK P.L.C.",
+            "city": "ST. JULIAN'S",
+            "branch": null,
+            "swift_code": "STBAMTMT"
+        },
+        {
+            "id": "31",
+            "bank": "W AND J COPPINI AND CO",
+            "city": "SLIEMA",
+            "branch": null,
+            "swift_code": "COPXMTMT"
+        },
+        {
+            "id": "32",
+            "bank": "WESTERN UNION BUSINESS SOLUTIONS (MALTA) LTD",
+            "city": "SLIEMA",
+            "branch": null,
+            "swift_code": "TGBPMTMT"
+        },
+        {
+            "id": "33",
+            "bank": "YAPI KREDI MALTA LTD.",
+            "city": "SLIEMA",
+            "branch": null,
+            "swift_code": "YAPIMTMT"
+        }
     ]
 }
