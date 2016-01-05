@@ -19,19 +19,26 @@
         {
             "id": "3",
             "bank": "BNP PARIBAS NOUVELLE CALEDONIE NOUMEA",
-            "city": "NOUMEA",
-            "branch": null,
-            "swift_code": "BNPANCNX"
-        },
-        {
-            "id": "4",
-            "bank": "BNP PARIBAS NOUVELLE CALEDONIE NOUMEA",
             "city": "KOUMAC",
             "branch": null,
             "swift_code": "BNPANCNXKOU"
         },
         {
+            "id": "4",
+            "bank": "BNP PARIBAS NOUVELLE CALEDONIE NOUMEA",
+            "city": "NOUMEA",
+            "branch": null,
+            "swift_code": "BNPANCNX"
+        },
+        {
             "id": "5",
+            "bank": "CAISSE DES DEPOTS ET CONSIGNATIONS",
+            "city": "NOUMEA",
+            "branch": null,
+            "swift_code": "CDCGNCNN"
+        },
+        {
+            "id": "6",
             "bank": "SOCIETE GENERALE CALEDONIENNE DE BANQUE S G C B",
             "city": "NOUMEA",
             "branch": null,

@@ -67,20 +67,27 @@
         },
         {
             "id": "10",
+            "bank": "HERITAGE BANK LIMITED",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "PRVTBZBD"
+        },
+        {
+            "id": "11",
             "bank": "HERITAGE INTERNATIONAL BANK AND TRUST LIMITED",
             "city": "BELIZE CITY",
             "branch": null,
             "swift_code": "PRVTBZBS"
         },
         {
-            "id": "11",
+            "id": "12",
             "bank": "SCOTIABANK (BELIZE) LTD.",
             "city": "BELIZE CITY",
             "branch": "(INTERNATIONAL)",
             "swift_code": "NOSCBZBSINT"
         },
         {
-            "id": "12",
+            "id": "13",
             "bank": "SCOTIABANK (BELIZE) LTD.",
             "city": "BELIZE CITY",
             "branch": null,

@@ -4,55 +4,62 @@
     "list": [
         {
             "id": "1",
+            "bank": "AUTORITI MONETARI BRUNEI DARUSSALAM",
+            "city": "BANDAR SERI BEGAWAN",
+            "branch": null,
+            "swift_code": "AMBDBNBB"
+        },
+        {
+            "id": "2",
             "bank": "BAIDURI BANK BERHAD",
             "city": "BANDAR SERI BEGAWAN",
             "branch": null,
             "swift_code": "BAIDBNBB"
         },
         {
-            "id": "2",
-            "bank": "BANK ISLAM BRUNEI DARUSSALAM BERHAD (BIBD)",
+            "id": "3",
+            "bank": "BANK ISLAM BRUNEI DARUSSALAM BERHAD",
             "city": "BANDAR SERI BEGAWAN",
             "branch": null,
             "swift_code": "BIBDBNBB"
         },
         {
-            "id": "3",
+            "id": "4",
             "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
             "city": "BANDAR SERI BEGAWAN",
             "branch": null,
             "swift_code": "HSBCBNBB"
         },
         {
-            "id": "4",
+            "id": "5",
             "bank": "MALAYAN BANKING BERHAD",
             "city": "BANDAR SERI BEGAWAN",
             "branch": null,
             "swift_code": "MBBEBNBB"
         },
         {
-            "id": "5",
+            "id": "6",
             "bank": "PERBADANAN TABUNG AMANAH ISLAM BRUNEI",
             "city": "BANDAR SERI BEGAWAN",
             "branch": null,
             "swift_code": "PTAIBNBB"
         },
         {
-            "id": "6",
+            "id": "7",
             "bank": "RHB BANK BERHAD, BRUNEI",
             "city": "BANDAR SERI BEGAWAN",
             "branch": null,
             "swift_code": "RHBBBNBB"
         },
         {
-            "id": "7",
+            "id": "8",
             "bank": "STANDARD CHARTERED BANK - BRUNEI",
             "city": "BANDAR SERI BEGAWAN",
             "branch": null,
             "swift_code": "SCBLBNBB"
         },
         {
-            "id": "8",
+            "id": "9",
             "bank": "UNITED OVERSEAS BANK LTD",
             "city": "BANDAR SERI BEGAWAN",
             "branch": null,

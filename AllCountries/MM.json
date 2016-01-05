@@ -11,153 +11,216 @@
         },
         {
             "id": "2",
+            "bank": "AUSTRALIA AND NEWZEALAND BANKING GROUP LTD",
+            "city": "YANGON",
+            "branch": null,
+            "swift_code": "ANZBMMMY"
+        },
+        {
+            "id": "3",
             "bank": "AYEYARWADY BANK LIMITED",
             "city": "YANGON",
             "branch": null,
             "swift_code": "AYABMMMY"
         },
         {
-            "id": "3",
+            "id": "4",
+            "bank": "BANGKOK BANK PUBLIC COMPANY LIMITED YANGON BRANCH",
+            "city": "YANGON",
+            "branch": null,
+            "swift_code": "BKKBMMMY"
+        },
+        {
+            "id": "5",
+            "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD.",
+            "city": "YANGON",
+            "branch": null,
+            "swift_code": "BOTKMMMY"
+        },
+        {
+            "id": "6",
             "bank": "CENTRAL BANK OF MYANMAR",
             "city": "YANGON",
             "branch": null,
             "swift_code": "CBMYMMMY"
         },
         {
-            "id": "4",
+            "id": "7",
             "bank": "CONSTRUCTION AND HOUSING DEVELOPMENT BANK LTD.",
             "city": "YANGON",
             "branch": null,
             "swift_code": "CHDDMMMY"
         },
         {
-            "id": "5",
+            "id": "8",
             "bank": "CO-OPERATIVE BANK LIMITED (PUBLIC BANK)",
             "city": "YANGON",
             "branch": null,
             "swift_code": "CPOBMMMY"
         },
         {
-            "id": "6",
+            "id": "9",
             "bank": "FIRST PRIVATE BANK LIMITED",
             "city": "YANGON",
             "branch": null,
             "swift_code": "FPBPMMMY"
         },
         {
-            "id": "7",
+            "id": "10",
             "bank": "GLOBAL TREASURE BANK PUBLIC COMPANY LTD",
             "city": "YANGON",
             "branch": null,
             "swift_code": "MLFBMMMY"
         },
         {
-            "id": "8",
-            "bank": "INNWA BANK LTD",
-            "city": "NAY PYI TAW",
+            "id": "11",
+            "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA YANGON BRANCH",
+            "city": "YANGON",
             "branch": null,
-            "swift_code": "AVABMMMY"
+            "swift_code": "ICBKMMMY"
         },
         {
-            "id": "9",
+            "id": "12",
             "bank": "KANBAWZA BANK LTD",
             "city": "YANGON",
             "branch": null,
             "swift_code": "KBZBMMMY"
         },
         {
-            "id": "10",
+            "id": "13",
+            "bank": "MALAYAN BANKING BERHAD YANGON BRANCH",
+            "city": "YANGON",
+            "branch": null,
+            "swift_code": "MBBEMMMY"
+        },
+        {
+            "id": "14",
+            "bank": "MIZUHO BANK, LTD (YANGON BRANCH)",
+            "city": "YANGON",
+            "branch": null,
+            "swift_code": "MHCBMMMY"
+        },
+        {
+            "id": "15",
             "bank": "MYANMA APEX BANK LIMITED",
             "city": "YANGON",
             "branch": null,
             "swift_code": "MMABMMMY"
         },
         {
-            "id": "11",
+            "id": "16",
             "bank": "MYANMA ECONOMIC BANK",
             "city": "YANGON",
             "branch": "(MEB(FOREX)YGN)",
             "swift_code": "MYEBMMMYYGN"
         },
         {
-            "id": "12",
+            "id": "17",
             "bank": "MYANMA ECONOMIC BANK",
             "city": "YANGON",
             "branch": null,
             "swift_code": "MYEBMMMY"
         },
         {
-            "id": "13",
+            "id": "18",
             "bank": "MYANMA FOREIGN TRADE BANK",
             "city": "YANGON",
             "branch": null,
             "swift_code": "MFTBMMMY"
         },
         {
-            "id": "14",
-            "bank": "MYANMA INDUSTRIAL DEVELOPMENT BANK",
-            "city": "YANGON",
-            "branch": null,
-            "swift_code": "MYIDMMMY"
-        },
-        {
-            "id": "15",
+            "id": "19",
             "bank": "MYANMA INVESTMENT AND COMMERCIAL BANK",
             "city": "YANGON",
             "branch": "(FULL BRANCH)",
             "swift_code": "MICBMMMYMAN"
         },
         {
-            "id": "16",
+            "id": "20",
             "bank": "MYANMA INVESTMENT AND COMMERCIAL BANK",
             "city": "YANGON",
             "branch": null,
             "swift_code": "MICBMMMY"
         },
         {
-            "id": "17",
+            "id": "21",
             "bank": "MYANMAR CITIZENS BANK LIMITED",
             "city": "YANGON",
             "branch": null,
             "swift_code": "MCIZMMMY"
         },
         {
-            "id": "18",
+            "id": "22",
             "bank": "MYANMAR ORIENTAL BANK LIMITED",
             "city": "YANGON",
             "branch": null,
             "swift_code": "MYORMMMY"
         },
         {
-            "id": "19",
+            "id": "23",
             "bank": "MYAWADDY BANK LIMITED",
             "city": "YANGON",
             "branch": null,
             "swift_code": "MWDBMMMY"
         },
         {
-            "id": "20",
+            "id": "24",
+            "bank": "OCBC BANK YANGON BRANCH",
+            "city": "YANGON",
+            "branch": null,
+            "swift_code": "OCBCMMMY"
+        },
+        {
+            "id": "25",
             "bank": "RURAL DEVELOPMENT BANK LIMITED",
             "city": "ZABUTHIRI TOWNSHIP",
             "branch": null,
             "swift_code": "RDEVMMMY"
         },
         {
-            "id": "21",
+            "id": "26",
+            "bank": "SHWE RURAL AND URBAN DEVELOPMENT BANK",
+            "city": "YANGON",
+            "branch": null,
+            "swift_code": "SRUDMMMY"
+        },
+        {
+            "id": "27",
+            "bank": "SMALL AND MEDIUM INDUSTRIAL DEVELOPMENT BANK",
+            "city": "YANGON",
+            "branch": null,
+            "swift_code": "MYIDMMMY"
+        },
+        {
+            "id": "28",
+            "bank": "SUMITOMO MITSUI BANKING CORPORATION YANGON BRANCH",
+            "city": "YANGON",
+            "branch": null,
+            "swift_code": "SMBCMMMY"
+        },
+        {
+            "id": "29",
             "bank": "TUN FOUNDATION BANK LTD",
             "city": "YANGON",
             "branch": null,
             "swift_code": "TFBKMMMY"
         },
         {
-            "id": "22",
+            "id": "30",
             "bank": "UNITED AMARA BANK LIMITED",
             "city": "YANGON",
             "branch": null,
             "swift_code": "UABMMMMY"
         },
         {
-            "id": "23",
+            "id": "31",
+            "bank": "UNITED OVERSEAS BANK LIMITED, YANGON BRANCH",
+            "city": "YANGON",
+            "branch": null,
+            "swift_code": "UOVBMMMY"
+        },
+        {
+            "id": "32",
             "bank": "YOMA BANK LIMITED",
             "city": "YANGON",
             "branch": null,

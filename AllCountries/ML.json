@@ -109,20 +109,27 @@
         },
         {
             "id": "16",
+            "bank": "BICIM",
+            "city": "BAMAKO",
+            "branch": null,
+            "swift_code": "BICIMLBA"
+        },
+        {
+            "id": "17",
             "bank": "CORIS BANK INTERNATIONAL",
             "city": "BAMAKO",
             "branch": null,
             "swift_code": "CORIMLBA"
         },
         {
-            "id": "17",
+            "id": "18",
             "bank": "ECOBANK MALI",
             "city": "BAMAKO",
             "branch": null,
             "swift_code": "ECOCMLBA"
         },
         {
-            "id": "18",
+            "id": "19",
             "bank": "ORABANK MALI",
             "city": "BAMAKO",
             "branch": null,

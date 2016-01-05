@@ -5,7 +5,7 @@
         {
             "id": "1",
             "bank": "AEGEAN BALTIC BANK S.A.",
-            "city": "ATHENS",
+            "city": "MAROUSI",
             "branch": null,
             "swift_code": "AEBAGRAA"
         },
@@ -306,107 +306,135 @@
         {
             "id": "44",
             "bank": "HSBC BANK PLC",
-            "city": "ATHENS",
-            "branch": null,
-            "swift_code": "MIDLGRAATRS"
-        },
-        {
-            "id": "45",
-            "bank": "HSBC BANK PLC",
             "city": "PIRAEUS",
             "branch": "(SECURITIES SERVICES)",
             "swift_code": "MIDLGRAAGSS"
         },
         {
-            "id": "46",
+            "id": "45",
             "bank": "INVESTMENT BANK OF GREECE S.A.",
             "city": "ATHENS",
             "branch": null,
             "swift_code": "IBOGGRAA"
         },
         {
+            "id": "46",
+            "bank": "MINISTRY OF ECONOMY AND FINANCE, GENERAL ACCOUNTING OFFICE",
+            "city": "ATHENS",
+            "branch": "(PUBLIC DEBT ISSUANCE)",
+            "swift_code": "MFGAGRAAPDI"
+        },
+        {
             "id": "47",
+            "bank": "MINISTRY OF ECONOMY AND FINANCE, GENERAL ACCOUNTING OFFICE",
+            "city": "ATHENS",
+            "branch": "(PUBLIC DEBT MANAGEMENT)",
+            "swift_code": "MFGAGRAAPDM"
+        },
+        {
+            "id": "48",
+            "bank": "MINISTRY OF ECONOMY AND FINANCE, GENERAL ACCOUNTING OFFICE",
+            "city": "ATHENS",
+            "branch": "(SECRETARIAT OF PUBLIC PROPERTY)",
+            "swift_code": "MFGAGRAASPP"
+        },
+        {
+            "id": "49",
             "bank": "MINISTRY OF ECONOMY AND FINANCE, GENERAL ACCOUNTING OFFICE",
             "city": "ATHENS",
             "branch": null,
             "swift_code": "MFGAGRAA"
         },
         {
-            "id": "48",
+            "id": "50",
             "bank": "NATIONAL BANK OF GREECE S.A.",
             "city": "ATHENS",
             "branch": "(CUSTODIAN FOR FOREIGN INST. INVESTORS)",
             "swift_code": "ETHNGRAACUS"
         },
         {
-            "id": "49",
+            "id": "51",
             "bank": "NATIONAL BANK OF GREECE S.A.",
             "city": "ATHENS",
             "branch": "(CUSTODIAN FOR GREEK INST. INVESTORS)",
             "swift_code": "ETHNGRAAGRI"
         },
         {
-            "id": "50",
+            "id": "52",
             "bank": "NATIONAL BANK OF GREECE S.A.",
             "city": "ATHENS",
             "branch": null,
             "swift_code": "ETHNGRAA"
         },
         {
-            "id": "51",
+            "id": "53",
             "bank": "OLAYAN INVESTMENTS COMPANY ESTABLISHMENT",
             "city": "GLYFADA",
             "branch": null,
             "swift_code": "OLAYGR22"
         },
         {
-            "id": "52",
-            "bank": "PANELLINIA BANK S.A.",
-            "city": "ATHENS",
-            "branch": null,
-            "swift_code": "PNELGRAA"
-        },
-        {
-            "id": "53",
+            "id": "54",
             "bank": "PIRAEUS BANK SA",
             "city": "ATHENS",
             "branch": "(SECURITIES SERVICES)",
             "swift_code": "PIRBGRAASEC"
         },
         {
-            "id": "54",
+            "id": "55",
+            "bank": "PIRAEUS BANK SA",
+            "city": "ATHENS",
+            "branch": "(SECURITIES SETTLEMENT)",
+            "swift_code": "PIRBGRAACBS"
+        },
+        {
+            "id": "56",
             "bank": "PIRAEUS BANK SA",
             "city": "ATHENS",
             "branch": null,
             "swift_code": "PIRBGRAA"
         },
         {
-            "id": "55",
+            "id": "57",
+            "bank": "PROCREDIT BANK (BULGARIA) EAD THESSALONIKI BRANCH",
+            "city": "THESSALONIKI",
+            "branch": null,
+            "swift_code": "PRCBGRAA"
+        },
+        {
+            "id": "58",
             "bank": "ROYAL BANK OF SCOTLAND PLC",
             "city": "PIRAEUS",
             "branch": null,
             "swift_code": "RBOSGRAA"
         },
         {
-            "id": "56",
+            "id": "59",
             "bank": "T.C. ZIRAAT BANKASI ATHENS CENTRAL BRANCH",
             "city": "ATHENS",
             "branch": null,
             "swift_code": "TCZBGRAT"
         },
         {
-            "id": "57",
+            "id": "60",
             "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK) ATHENS",
             "city": "ATHENS",
             "branch": "(TARGET2)",
             "swift_code": "HYVEGRAATRS"
         },
         {
-            "id": "58",
+            "id": "61",
             "bank": "UNICREDIT BANK AG (HYPOVEREINSBANK) ATHENS",
             "city": "ATHENS",
             "branch": null,
             "swift_code": "HYVEGRAA"
+        },
+        {
+            "id": "62",
+            "bank": "VIVA PAYMENT SERVICES S.A.",
+            "city": "ATHENS",
+            "branch": null,
+            "swift_code": "VPAYGRAA"
         }
     ]
 }

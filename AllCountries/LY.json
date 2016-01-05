@@ -4,24 +4,24 @@
     "list": [
         {
             "id": "1",
-            "bank": "AGRICULTURAL BANK",
-            "city": "TRIPOLI",
-            "branch": null,
-            "swift_code": "AGRULYLT"
-        },
-        {
-            "id": "2",
             "bank": "AL WAFA BANK",
             "city": "TRIPOLI",
             "branch": null,
             "swift_code": "ALWFLYLT"
         },
         {
-            "id": "3",
+            "id": "2",
             "bank": "ALEJMA'A ALARABI BANK",
             "city": "BENGHAZI",
             "branch": null,
             "swift_code": "EJABLYLX"
+        },
+        {
+            "id": "3",
+            "bank": "ALWAHA BANK - TRIPOLI LY",
+            "city": "TRIPOLI",
+            "branch": null,
+            "swift_code": "WAHALYLX"
         },
         {
             "id": "4",
@@ -216,92 +216,92 @@
             "id": "31",
             "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
             "city": "TRIPOLI",
+            "branch": "(BEN ASHOWR)",
+            "swift_code": "CDBLLYLT223"
+        },
+        {
+            "id": "32",
+            "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
+            "city": "TRIPOLI",
             "branch": "(DAT EL IMAD AGENCY)",
             "swift_code": "CDBLLYLT026"
         },
         {
-            "id": "32",
+            "id": "33",
             "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
             "city": "TRIPOLI",
             "branch": "(EL FATEH TOWER AGENCY)",
             "swift_code": "CDBLLYLT023"
         },
         {
-            "id": "33",
+            "id": "34",
             "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
             "city": "TRIPOLI",
             "branch": "(EL MADAR AGENCY)",
             "swift_code": "CDBLLYLT029"
         },
         {
-            "id": "34",
+            "id": "35",
             "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
             "city": "TRIPOLI",
             "branch": "(GERGARISH AGENCY)",
             "swift_code": "CDBLLYLT025"
         },
         {
-            "id": "35",
+            "id": "36",
             "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
             "city": "TRIPOLI",
             "branch": "(GOUT AL SHAAL AGENCY)",
             "swift_code": "CDBLLYLT022"
         },
         {
-            "id": "36",
+            "id": "37",
             "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
             "city": "TRIPOLI",
             "branch": "(GRAND HOTEL AGENCY)",
             "swift_code": "CDBLLYLT027"
         },
         {
-            "id": "37",
+            "id": "38",
             "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
             "city": "TRIPOLI",
             "branch": "(SOUK EL GOUMA AGENCY)",
             "swift_code": "CDBLLYLT221"
         },
         {
-            "id": "38",
+            "id": "39",
             "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
             "city": "TRIPOLI",
             "branch": "(TAGORA BRANCH)",
             "swift_code": "CDBLLYLT222"
         },
         {
-            "id": "39",
+            "id": "40",
             "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
             "city": "TRIPOLI",
             "branch": "(TRIPOLI MAIN BRANCH)",
             "swift_code": "CDBLLYLT021"
         },
         {
-            "id": "40",
+            "id": "41",
             "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
             "city": "ZLITEN",
             "branch": "(ZLITEN MAIN BRANCH)",
             "swift_code": "CDBLLYLT071"
         },
         {
-            "id": "41",
+            "id": "42",
             "bank": "BANK OF COMMERCE AND DEVELOPMENT (L.J.S.C.)",
             "city": "ZWARA",
             "branch": "(ZWARA MAIN BRANCH)",
             "swift_code": "CDBLLYLT052"
         },
         {
-            "id": "42",
+            "id": "43",
             "bank": "BANQUE SAHELO-SAHARIENNE POUR L'INVESTISSEMENT ET LE COMMERCE (TRIPOLI)",
             "city": "TRIPOLI",
             "branch": null,
             "swift_code": "BSAHLYLX"
-        },
-        {
-            "id": "43",
-            "bank": "BSIC HEAD OFFICE",
-            "city": "TRIPOLI",
-            "branch": null,
-            "swift_code": "WAHALYLX"
         },
         {
             "id": "44",
@@ -320,44 +320,44 @@
         {
             "id": "46",
             "bank": "CENTRAL BANK OF LIBYA",
-            "city": "SIRTE",
-            "branch": "(SIRTE BRANCH)",
-            "swift_code": "CBLJLYLX003"
-        },
-        {
-            "id": "47",
-            "bank": "CENTRAL BANK OF LIBYA",
             "city": "TRIPOLI",
             "branch": "(OPERATION DEPARTMENT)",
             "swift_code": "CBLJLYLX004"
         },
         {
-            "id": "48",
+            "id": "47",
             "bank": "CENTRAL BANK OF LIBYA",
             "city": "TRIPOLI",
             "branch": null,
             "swift_code": "CBLJLYLX"
         },
         {
-            "id": "49",
+            "id": "48",
             "bank": "CENTRAL BANK OF LIBYA",
             "city": "TRIPOLI",
             "branch": null,
             "swift_code": "CBLJLYLY"
         },
         {
-            "id": "50",
+            "id": "49",
             "bank": "DEVELOPMENT BANK",
             "city": "TRIPOLI",
             "branch": null,
             "swift_code": "DEVOLYLT"
         },
         {
-            "id": "51",
+            "id": "50",
             "bank": "FIRST GULF LIBYAN BANK",
             "city": "TRIPOLI",
             "branch": null,
             "swift_code": "FGBLLYLT"
+        },
+        {
+            "id": "51",
+            "bank": "JUMHOURIA BANK",
+            "city": "AJELAT",
+            "branch": null,
+            "swift_code": "JAMBLYLT036"
         },
         {
             "id": "52",
@@ -495,366 +495,366 @@
         {
             "id": "71",
             "bank": "JUMHOURIA BANK",
+            "city": "EL BIEDA",
+            "branch": "(ALBIEDA BRANCH)",
+            "swift_code": "JAMBLYLT013"
+        },
+        {
+            "id": "72",
+            "bank": "JUMHOURIA BANK",
             "city": "GHARIAN",
             "branch": "(GHARIAN BRANCH FOR ISLAMIC BANKING)",
             "swift_code": "JAMBLYLT502"
         },
         {
-            "id": "72",
+            "id": "73",
             "bank": "JUMHOURIA BANK",
             "city": "GHARIAN",
             "branch": "(GHARYAN BRANCH)",
             "swift_code": "JAMBLYLT048"
         },
         {
-            "id": "73",
+            "id": "74",
             "bank": "JUMHOURIA BANK",
             "city": "GHARIAN",
-            "branch": "(JABEL ELGHARBI COMMITTEE)",
+            "branch": "(JABEL ELGHARBI  COMMITTEE)",
             "swift_code": "JAMBLYLT993"
         },
         {
-            "id": "74",
+            "id": "75",
             "bank": "JUMHOURIA BANK",
             "city": "GHARIAN",
             "branch": null,
             "swift_code": "JAMBLYLT020"
         },
         {
-            "id": "75",
+            "id": "76",
             "bank": "JUMHOURIA BANK",
             "city": "JADU",
             "branch": "(ARHEEBAT BRANCH)",
             "swift_code": "JAMBLYLT087"
         },
         {
-            "id": "76",
+            "id": "77",
             "bank": "JUMHOURIA BANK",
             "city": "MISURATA",
             "branch": "(AHMED SHARIF BRANCH)",
             "swift_code": "JAMBLYLT006"
         },
         {
-            "id": "77",
+            "id": "78",
             "bank": "JUMHOURIA BANK",
             "city": "MISURATA",
             "branch": "(FREE ZONE AGENCY)",
             "swift_code": "JAMBLYLT150"
         },
         {
-            "id": "78",
+            "id": "79",
             "bank": "JUMHOURIA BANK",
             "city": "MISURATA",
             "branch": "(GOAZ ATTEEK AGENCY)",
             "swift_code": "JAMBLYLT118"
         },
         {
-            "id": "79",
+            "id": "80",
             "bank": "JUMHOURIA BANK",
             "city": "MISURATA",
             "branch": "(MISURATA BRANCH)",
             "swift_code": "JAMBLYLT051"
         },
         {
-            "id": "80",
+            "id": "81",
             "bank": "JUMHOURIA BANK",
             "city": "MISURATA",
             "branch": "(MISURATA COMMITTEE)",
             "swift_code": "JAMBLYLT994"
         },
         {
-            "id": "81",
+            "id": "82",
             "bank": "JUMHOURIA BANK",
             "city": "SABRATAH",
             "branch": "(AL ATHAR BRANCH)",
             "swift_code": "JAMBLYLT077"
         },
         {
-            "id": "82",
+            "id": "83",
             "bank": "JUMHOURIA BANK",
             "city": "SABRATAH",
             "branch": "(SABRATHA BRANCH)",
             "swift_code": "JAMBLYLT033"
         },
         {
-            "id": "83",
+            "id": "84",
             "bank": "JUMHOURIA BANK",
             "city": "SABRATAH",
             "branch": null,
             "swift_code": "JAMBLYLT032"
         },
         {
-            "id": "84",
+            "id": "85",
             "bank": "JUMHOURIA BANK",
             "city": "SABRI",
             "branch": "(SABRI AGENCY)",
             "swift_code": "JAMBLYLT143"
         },
         {
-            "id": "85",
+            "id": "86",
             "bank": "JUMHOURIA BANK",
             "city": "SEBHA",
             "branch": "(SEBHA COMMITTIEE)",
             "swift_code": "JAMBLYLT998"
         },
         {
-            "id": "86",
+            "id": "87",
             "bank": "JUMHOURIA BANK",
             "city": "TAJURA",
             "branch": "(AL SHAHENAT AGENCY)",
             "swift_code": "JAMBLYLT080"
         },
         {
-            "id": "87",
+            "id": "88",
             "bank": "JUMHOURIA BANK",
             "city": "TAJURA",
             "branch": "(BLASHER BRANCH)",
             "swift_code": "JAMBLYLT132"
         },
         {
-            "id": "88",
+            "id": "89",
             "bank": "JUMHOURIA BANK",
             "city": "TARHOUNA",
             "branch": "(TARHOUNA BRANCH)",
             "swift_code": "JAMBLYLT025"
         },
         {
-            "id": "89",
+            "id": "90",
             "bank": "JUMHOURIA BANK",
             "city": "TOBRUK",
             "branch": "(TOBRUK ALMADINA)",
             "swift_code": "JAMBLYLT011"
         },
         {
-            "id": "90",
+            "id": "91",
             "bank": "JUMHOURIA BANK",
             "city": "TRIPOLI",
             "branch": "(AINZARA)",
             "swift_code": "JAMBLYLT067"
         },
         {
-            "id": "91",
+            "id": "92",
             "bank": "JUMHOURIA BANK",
             "city": "TRIPOLI",
             "branch": "(AL MAYDAN BRANCH)",
             "swift_code": "JAMBLYLT001"
         },
         {
-            "id": "92",
+            "id": "93",
             "bank": "JUMHOURIA BANK",
             "city": "TRIPOLI",
             "branch": "(AL MGARIEF BRANCH)",
             "swift_code": "JAMBLYLT002"
         },
         {
-            "id": "93",
+            "id": "94",
             "bank": "JUMHOURIA BANK",
             "city": "TRIPOLI",
             "branch": "(ALANDALUS BRANCH)",
             "swift_code": "JAMBLYLT090"
         },
         {
-            "id": "94",
+            "id": "95",
             "bank": "JUMHOURIA BANK",
             "city": "TRIPOLI",
             "branch": "(ASSREEM BRANCH)",
             "swift_code": "JAMBLYLT010"
         },
         {
-            "id": "95",
+            "id": "96",
             "bank": "JUMHOURIA BANK",
             "city": "TRIPOLI",
             "branch": "(ATHARA BRANCH)",
             "swift_code": "JAMBLYLT015"
         },
         {
-            "id": "96",
+            "id": "97",
             "bank": "JUMHOURIA BANK",
             "city": "TRIPOLI",
             "branch": "(BAB AL JADEED BRANCH)",
             "swift_code": "JAMBLYLT005"
         },
         {
-            "id": "97",
+            "id": "98",
             "bank": "JUMHOURIA BANK",
             "city": "TRIPOLI",
             "branch": "(BALKHIR BRANCH)",
             "swift_code": "JAMBLYLT079"
         },
         {
-            "id": "98",
+            "id": "99",
             "bank": "JUMHOURIA BANK",
             "city": "TRIPOLI",
             "branch": "(BARID AGENCY)",
             "swift_code": "JAMBLYLT145"
         },
         {
-            "id": "99",
+            "id": "100",
             "bank": "JUMHOURIA BANK",
             "city": "TRIPOLI",
-            "branch": "(FASHLOUM BRANCH FOR ISLAMIC BANKING)",
+            "branch": "(FASHLOUM  BRANCH FOR ISLAMIC BANKING)",
             "swift_code": "JAMBLYLT501"
         },
         {
-            "id": "100",
+            "id": "101",
             "bank": "JUMHOURIA BANK",
             "city": "TRIPOLI",
             "branch": "(FLLAH BRANCH)",
             "swift_code": "JAMBLYLT121"
         },
         {
-            "id": "101",
+            "id": "102",
             "bank": "JUMHOURIA BANK",
             "city": "TRIPOLI",
             "branch": "(GURJI AGENCY)",
             "swift_code": "JAMBLYLT093"
         },
         {
-            "id": "102",
+            "id": "103",
             "bank": "JUMHOURIA BANK",
             "city": "TRIPOLI",
             "branch": "(HAY ELANDULS BRANCH)",
             "swift_code": "JAMBLYLT120"
         },
         {
-            "id": "103",
+            "id": "104",
             "bank": "JUMHOURIA BANK",
             "city": "TRIPOLI",
             "branch": "(LIBYANA AGENCY)",
             "swift_code": "JAMBLYLT136"
         },
         {
-            "id": "104",
+            "id": "105",
             "bank": "JUMHOURIA BANK",
             "city": "TRIPOLI",
             "branch": "(MELLITAH OIL AND GAS AGENCY)",
             "swift_code": "JAMBLYLT094"
         },
         {
-            "id": "105",
+            "id": "106",
             "bank": "JUMHOURIA BANK",
             "city": "TRIPOLI",
             "branch": "(MGHARBA BRANCH)",
             "swift_code": "JAMBLYLT019"
         },
         {
-            "id": "106",
+            "id": "107",
             "bank": "JUMHOURIA BANK",
             "city": "TRIPOLI",
             "branch": "(MIZRAN BRANCH )",
             "swift_code": "JAMBLYLT151"
         },
         {
-            "id": "107",
+            "id": "108",
             "bank": "JUMHOURIA BANK",
             "city": "TRIPOLI",
             "branch": "(RAS HASAN)",
             "swift_code": "JAMBLYLT137"
         },
         {
-            "id": "108",
+            "id": "109",
             "bank": "JUMHOURIA BANK",
             "city": "TRIPOLI",
             "branch": "(SOUK AL JUMMAA BRANCH)",
             "swift_code": "JAMBLYLT012"
         },
         {
-            "id": "109",
+            "id": "110",
             "bank": "JUMHOURIA BANK",
             "city": "TRIPOLI",
             "branch": "(SOUK ALTOLATA)",
             "swift_code": "JAMBLYLT022"
         },
         {
-            "id": "110",
+            "id": "111",
             "bank": "JUMHOURIA BANK",
             "city": "TRIPOLI",
             "branch": "(SOUT OF TRIPOLI BRANCH)",
             "swift_code": "JAMBLYLT018"
         },
         {
-            "id": "111",
+            "id": "112",
             "bank": "JUMHOURIA BANK",
             "city": "TRIPOLI",
             "branch": "(TRIPOLI COMMITTEE)",
             "swift_code": "JAMBLYLT991"
         },
         {
-            "id": "112",
+            "id": "113",
             "bank": "JUMHOURIA BANK",
             "city": "TRIPOLI",
             "branch": "(TRIPOLI TOWER AGENCY)",
             "swift_code": "JAMBLYLT104"
         },
         {
-            "id": "113",
+            "id": "114",
             "bank": "JUMHOURIA BANK",
             "city": "TRIPOLI",
             "branch": "(TRIPOLI UNIVERSITY BRANCH)",
             "swift_code": "JAMBLYLT043"
         },
         {
-            "id": "114",
+            "id": "115",
             "bank": "JUMHOURIA BANK",
             "city": "TRIPOLI",
             "branch": null,
             "swift_code": "JAMBLYLT"
         },
         {
-            "id": "115",
+            "id": "116",
             "bank": "JUMHOURIA BANK",
             "city": "TRIPOLI",
             "branch": null,
             "swift_code": "JAMBLYLT026"
         },
         {
-            "id": "116",
+            "id": "117",
             "bank": "JUMHOURIA BANK",
             "city": "TRIPOLI",
             "branch": null,
             "swift_code": "JAMBLYLT096"
         },
         {
-            "id": "117",
+            "id": "118",
             "bank": "JUMHOURIA BANK",
             "city": "ZAWIA",
             "branch": "(AL ZAWYA BRANCH)",
             "swift_code": "JAMBLYLT009"
         },
         {
-            "id": "118",
+            "id": "119",
             "bank": "JUMHOURIA BANK",
             "city": "ZAWIA",
             "branch": "(ZAWYA COMMITTEE)",
             "swift_code": "JAMBLYLT992"
         },
         {
-            "id": "119",
+            "id": "120",
             "bank": "JUMHOURIA BANK",
             "city": "ZLITEN",
             "branch": "(ZALITEN BRANCH)",
             "swift_code": "JAMBLYLT017"
         },
         {
-            "id": "120",
+            "id": "121",
             "bank": "JUMHOURIA BANK",
             "city": "ZLITEN",
             "branch": null,
             "swift_code": "JAMBLYLT014"
         },
         {
-            "id": "121",
+            "id": "122",
             "bank": "JUMHOURIA BANK",
             "city": "ZWARA",
             "branch": "(ABUKMMASH BRANCH)",
             "swift_code": "JAMBLYLT055"
-        },
-        {
-            "id": "122",
-            "bank": "JUMHOURIA BANK (ALBIEDA BRANCH)",
-            "city": "EL BIEDA",
-            "branch": null,
-            "swift_code": "JAMBLYLT013"
         },
         {
             "id": "123",
@@ -872,367 +872,367 @@
         },
         {
             "id": "125",
-            "bank": "LIBYAN QATARI BANK",
-            "city": "TRIPOLI",
-            "branch": null,
-            "swift_code": "LQBKLYLT"
-        },
-        {
-            "id": "126",
             "bank": "MABRUK OIL OPERATION",
             "city": "TRIPOLI",
             "branch": null,
             "swift_code": "MOOCLYLT"
         },
         {
-            "id": "127",
+            "id": "126",
             "bank": "MEDITERRANEAN BANK",
             "city": "BENGHAZI",
             "branch": null,
             "swift_code": "METILYLT"
         },
         {
-            "id": "128",
+            "id": "127",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "AJDABIA",
             "branch": "(AJDABIA)",
             "swift_code": "LNCBLYLT117"
         },
         {
-            "id": "129",
+            "id": "128",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "AL KHUMS",
             "branch": "(KHUMIS BRANCH)",
             "swift_code": "LNCBLYLT059"
         },
         {
-            "id": "130",
+            "id": "129",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "BANI WALID",
             "branch": "(BANI-WALED BRANCH)",
             "swift_code": "LNCBLYLT098"
         },
         {
-            "id": "131",
+            "id": "130",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "BEIDA",
             "branch": "(BEIDA - MAIN BRANCH)",
             "swift_code": "LNCBLYLT054"
         },
         {
-            "id": "132",
+            "id": "131",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "BEIDA",
             "branch": "(EJEHAD BRANCH)",
             "swift_code": "LNCBLYLT103"
         },
         {
-            "id": "133",
+            "id": "132",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "BEIDA",
             "branch": "(MASSA BR.)",
             "swift_code": "LNCBLYLT096"
         },
         {
-            "id": "134",
+            "id": "133",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "BEIDA",
             "branch": "(UNIVERSITY OF OMAR ALMUKHTAR BRANCH)",
             "swift_code": "LNCBLYLT106"
         },
         {
-            "id": "135",
+            "id": "134",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "BENGHAZI",
             "branch": "(ALHAWARI BRANCH)",
             "swift_code": "LNCBLYLT079"
         },
         {
-            "id": "136",
+            "id": "135",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "BENGHAZI",
             "branch": "(ALMUJMAAE ALTGARIE BR)",
             "swift_code": "LNCBLYLT104"
         },
         {
-            "id": "137",
+            "id": "136",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "BENGHAZI",
             "branch": "(AROUBA)",
             "swift_code": "LNCBLYLT115"
         },
         {
-            "id": "138",
+            "id": "137",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "BENGHAZI",
             "branch": "(BENGHAZI - MAIN BRANCH)",
             "swift_code": "LNCBLYLT052"
         },
         {
-            "id": "139",
+            "id": "138",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "BENGHAZI",
             "branch": "(FACTORY OF PIPES)",
             "swift_code": "LNCBLYLT105"
         },
         {
-            "id": "140",
+            "id": "139",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "DERNA",
             "branch": "(ALGUBBA BR.)",
             "swift_code": "LNCBLYLT068"
         },
         {
-            "id": "141",
+            "id": "140",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "DERNA",
             "branch": null,
             "swift_code": "LNCBLYLT055"
         },
         {
-            "id": "142",
+            "id": "141",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "EL ZAWIA",
             "branch": "(ALTRED BRANCH)",
             "swift_code": "LNCBLYLT087"
         },
         {
-            "id": "143",
+            "id": "142",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "GHADAMIS",
             "branch": "(GHADAMES BRANCH)",
             "swift_code": "LNCBLYLT067"
         },
         {
-            "id": "144",
+            "id": "143",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "GHARIAN",
             "branch": "(DARAG BR.)",
             "swift_code": "LNCBLYLT085"
         },
         {
-            "id": "145",
+            "id": "144",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "GHARIAN",
             "branch": null,
             "swift_code": "LNCBLYLT057"
         },
         {
-            "id": "146",
+            "id": "145",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "GHAT",
             "branch": "(GHAT BRANCH)",
             "swift_code": "LNCBLYLT076"
         },
         {
-            "id": "147",
+            "id": "146",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "MISURATA",
             "branch": "(MISURATA BRANCH)",
             "swift_code": "LNCBLYLT056"
         },
         {
-            "id": "148",
+            "id": "147",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "RAS LANUF",
             "branch": null,
             "swift_code": "LNCBLYLT078"
         },
         {
-            "id": "149",
+            "id": "148",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "SABHA",
             "branch": null,
             "swift_code": "LNCBLYLT053"
         },
         {
-            "id": "150",
+            "id": "149",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "SEBHA",
             "branch": "(EBRAK BR.)",
             "swift_code": "LNCBLYLT069"
         },
         {
-            "id": "151",
+            "id": "150",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "SEBHA",
             "branch": "(OUBARI BR.)",
             "swift_code": "LNCBLYLT072"
         },
         {
-            "id": "152",
+            "id": "151",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "SHAHHAT",
             "branch": "(SHAHAT BRANCH)",
             "swift_code": "LNCBLYLT073"
         },
         {
-            "id": "153",
+            "id": "152",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "SIRTE",
             "branch": "(SIRT BRANCH )",
             "swift_code": "LNCBLYLT081"
         },
         {
-            "id": "154",
+            "id": "153",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "TAJURA",
             "branch": null,
             "swift_code": "LNCBLYLT091"
         },
         {
-            "id": "155",
+            "id": "154",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "TARHOUNA",
             "branch": "(TARHOUNA BRANCH)",
             "swift_code": "LNCBLYLT102"
         },
         {
-            "id": "156",
+            "id": "155",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "TOBRUK",
             "branch": "(EMSAAD BR.)",
             "swift_code": "LNCBLYLT066"
         },
         {
-            "id": "157",
+            "id": "156",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "TOBRUK",
             "branch": "(KAMBUT BR)",
             "swift_code": "LNCBLYLT083"
         },
         {
-            "id": "158",
+            "id": "157",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "TOBRUK",
             "branch": null,
             "swift_code": "LNCBLYLT058"
         },
         {
-            "id": "159",
+            "id": "158",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "TRIPOLI",
             "branch": "(ALMENA BRANCH)",
             "swift_code": "LNCBLYLT070"
         },
         {
-            "id": "160",
+            "id": "159",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "TRIPOLI",
             "branch": "(CITY)",
             "swift_code": "LNCBLYLT061"
         },
         {
-            "id": "161",
+            "id": "160",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "TRIPOLI",
             "branch": "(ELTHAHRRA BRANCH)",
             "swift_code": "LNCBLYLT099"
         },
         {
-            "id": "162",
+            "id": "161",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "TRIPOLI",
             "branch": "(ESBIA BR.)",
             "swift_code": "LNCBLYLT089"
         },
         {
-            "id": "163",
+            "id": "162",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "TRIPOLI",
             "branch": "(HEAD OFFICE)",
             "swift_code": "LNCBLYLTHOB"
         },
         {
-            "id": "164",
+            "id": "163",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "TRIPOLI",
             "branch": "(ISTIKLAL BRANCH)",
             "swift_code": "LNCBLYLT062"
         },
         {
-            "id": "165",
+            "id": "164",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "TRIPOLI",
             "branch": "(MAIN BRANCH)",
             "swift_code": "LNCBLYLT051"
         },
         {
-            "id": "166",
+            "id": "165",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "TRIPOLI",
             "branch": "(MUNICIPALITY SQUARE)",
             "swift_code": "LNCBLYLT064"
         },
         {
-            "id": "167",
+            "id": "166",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "TRIPOLI",
             "branch": "(SEUQELTHOLATHA BRANCH)",
             "swift_code": "LNCBLYLT065"
         },
         {
-            "id": "168",
+            "id": "167",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "TRIPOLI",
             "branch": null,
             "swift_code": "LNCBLYLT"
         },
         {
-            "id": "169",
+            "id": "168",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "TRIPOLI",
             "branch": null,
             "swift_code": "LNCBLYLT050"
         },
         {
-            "id": "170",
+            "id": "169",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "ZAWIA",
             "branch": "(AJMAIL BR.)",
             "swift_code": "LNCBLYLT101"
         },
         {
-            "id": "171",
+            "id": "170",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "ZAWIA",
             "branch": "(MUSFAT BRANCH)",
             "swift_code": "LNCBLYLT077"
         },
         {
-            "id": "172",
+            "id": "171",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "ZAWIA",
             "branch": null,
             "swift_code": "LNCBLYLT060"
         },
         {
-            "id": "173",
+            "id": "172",
             "bank": "NATIONAL COMMERCIAL BANK",
             "city": "ZLITEN",
             "branch": "(ZLITIN BRANCH)",
             "swift_code": "LNCBLYLT093"
         },
         {
-            "id": "174",
+            "id": "173",
             "bank": "NORTH AFRICA BANK",
             "city": "TRIPOLI",
             "branch": "(BRANCH)",
             "swift_code": "NABLLYLXTIP"
         },
         {
-            "id": "175",
+            "id": "174",
             "bank": "NORTH AFRICA BANK",
             "city": "TRIPOLI",
-            "branch": "(ISLAMIC BANKING OPERATIONS MANAGEMENT)",
+            "branch": "(ISLAMIC BANKING OPERATIONS)",
             "swift_code": "NABLLYLXIBC"
         },
         {
-            "id": "176",
+            "id": "175",
             "bank": "NORTH AFRICA BANK",
             "city": "TRIPOLI",
             "branch": null,
             "swift_code": "NABLLYLX"
+        },
+        {
+            "id": "176",
+            "bank": "NURAN BANK",
+            "city": "TRIPOLI",
+            "branch": null,
+            "swift_code": "LQBKLYLT"
         },
         {
             "id": "177",

@@ -60,7 +60,7 @@
         },
         {
             "id": "9",
-            "bank": "BANCO DO BRASIL S.A.",
+            "bank": "BANCO DO BRASIL S.A. SUCURSAL BOLIVIA",
             "city": "LA PAZ",
             "branch": null,
             "swift_code": "BRASBOLX"
@@ -91,14 +91,14 @@
             "bank": "BANCO ECONOMICO S.A.",
             "city": "SANTA CRUZ DE LA SIERRA",
             "branch": null,
-            "swift_code": "BOEOBO22"
+            "swift_code": "BOEOBO22BEC"
         },
         {
             "id": "14",
             "bank": "BANCO ECONOMICO S.A.",
             "city": "SANTA CRUZ DE LA SIERRA",
             "branch": null,
-            "swift_code": "BOEOBO22BEC"
+            "swift_code": "BOEOBO22"
         },
         {
             "id": "15",
@@ -228,41 +228,48 @@
         },
         {
             "id": "33",
+            "bank": "BANCO PRODEM S.A.",
+            "city": "LA PAZ",
+            "branch": null,
+            "swift_code": "BPRMBOLP"
+        },
+        {
+            "id": "34",
             "bank": "BANCO PYME LOS ANDES PROCREDIT S.A.",
             "city": "SANTA CRUZ DE LA SIERRA",
             "branch": null,
             "swift_code": "PRCBBO22"
         },
         {
-            "id": "34",
+            "id": "35",
             "bank": "BANCO SOLIDARIO S.A.",
             "city": "LA PAZ",
             "branch": null,
             "swift_code": "BSOLBOLP"
         },
         {
-            "id": "35",
+            "id": "36",
             "bank": "BANCO UNION S.A.",
             "city": "COCHABAMBA",
             "branch": "(SUCURSAL COCHABAMBA)",
             "swift_code": "BAUNBO22CBB"
         },
         {
-            "id": "36",
+            "id": "37",
             "bank": "BANCO UNION S.A.",
             "city": "LA PAZ",
             "branch": "(SUCURSAL LA PAZ)",
             "swift_code": "BAUNBO22LPZ"
         },
         {
-            "id": "37",
+            "id": "38",
             "bank": "BANCO UNION S.A.",
             "city": "SANTA CRUZ DE LA SIERRA",
             "branch": "(SUCURSAL SANTA CRUZ)",
             "swift_code": "BAUNBO22SCZ"
         },
         {
-            "id": "38",
+            "id": "39",
             "bank": "BANCO UNION S.A.",
             "city": "SANTA CRUZ DE LA SIERRA",
             "branch": null,

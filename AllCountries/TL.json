@@ -11,17 +11,17 @@
         },
         {
             "id": "2",
-            "bank": "BANKING AND PAYMENTS AUTHORITY OF EAST TIMOR",
+            "bank": "BANCO CENTRAL DE TIMOR-LESTE",
             "city": "DILI",
-            "branch": "(AIM\/POMS SERVICE)",
-            "swift_code": "BCTLTLDA"
+            "branch": null,
+            "swift_code": "BCTLTLDI"
         },
         {
             "id": "3",
             "bank": "BANKING AND PAYMENTS AUTHORITY OF EAST TIMOR",
             "city": "DILI",
-            "branch": null,
-            "swift_code": "BCTLTLDI"
+            "branch": "(AIM\/POMS SERVICE)",
+            "swift_code": "BCTLTLDA"
         },
         {
             "id": "4",

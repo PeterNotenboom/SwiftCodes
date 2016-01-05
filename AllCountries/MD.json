@@ -4,31 +4,31 @@
     "list": [
         {
             "id": "1",
+            "bank": "BANCA COMERCIALA 'COMERTBANK' S.A.",
+            "city": "CHISINAU",
+            "branch": null,
+            "swift_code": "CMTBMD2X"
+        },
+        {
+            "id": "2",
             "bank": "BANCA COMERCIALA EXIMBANK-GRUPPO VENETO BANCA S.A.",
             "city": "CHISINAU",
             "branch": null,
             "swift_code": "EXMMMD22"
         },
         {
-            "id": "2",
-            "bank": "BANCA DE ECONOMII S.A.",
+            "id": "3",
+            "bank": "BANCA COMERCIALA EXIMBANK-GRUPPO VENETO BANCA S.A.",
             "city": "CHISINAU",
             "branch": null,
-            "swift_code": "BECOMD2X"
+            "swift_code": "EXMMMD22"
         },
         {
-            "id": "3",
+            "id": "4",
             "bank": "BANCA DE FINANTE SI COMERT S.A. (FINCOMBANK S.A.)",
             "city": "CHISINAU",
             "branch": null,
             "swift_code": "FTMDMD2X"
-        },
-        {
-            "id": "4",
-            "bank": "BC BANCA SOCIALA SA",
-            "city": "CHISINAU",
-            "branch": null,
-            "swift_code": "BSOCMD2X"
         },
         {
             "id": "5",
@@ -39,17 +39,17 @@
         },
         {
             "id": "6",
-            "bank": "BC EUROCREDITBANK S.A.",
-            "city": "CHISINAU",
-            "branch": null,
-            "swift_code": "ECBMMD2X"
-        },
-        {
-            "id": "7",
             "bank": "BC 'MOBIASBANCA-GROUPE SOCIETE GENERALE' S.A.",
             "city": "CHISINAU",
             "branch": null,
             "swift_code": "MOBBMD22"
+        },
+        {
+            "id": "7",
+            "bank": "BC MOLDOVA - AGROINDBANK S.A.",
+            "city": "CHISINAU",
+            "branch": null,
+            "swift_code": "AGRNMD2X"
         },
         {
             "id": "8",
@@ -60,48 +60,27 @@
         },
         {
             "id": "9",
-            "bank": "CB MOLDOVA - AGROINDBANK SA",
-            "city": "CHISINAU",
-            "branch": null,
-            "swift_code": "AGRNMD2X"
-        },
-        {
-            "id": "10",
-            "bank": "COMERTBANK",
-            "city": "CHISINAU",
-            "branch": null,
-            "swift_code": "CMTBMD2X"
-        },
-        {
-            "id": "11",
-            "bank": "JOINT STOCK COMMERCIAL BANK UNIBANK",
-            "city": "CHISINAU",
-            "branch": null,
-            "swift_code": "JSCUMD2X"
-        },
-        {
-            "id": "12",
             "bank": "JOINT-STOCK COMMERCIAL VICTORIABANK",
             "city": "CHISINAU",
             "branch": null,
             "swift_code": "VICBMD2X"
         },
         {
-            "id": "13",
+            "id": "10",
             "bank": "MOLDINDCONBANK",
             "city": "CHISINAU",
             "branch": null,
             "swift_code": "MOLDMD2X"
         },
         {
-            "id": "14",
+            "id": "11",
             "bank": "NATIONAL BANK OF MOLDOVA",
             "city": "CHISINAU",
-            "branch": null,
+            "branch": "(HEAD OFFICE)",
             "swift_code": "NBMDMD2X"
         },
         {
-            "id": "15",
+            "id": "12",
             "bank": "ROMANIAN COMMERCIAL BANK CHISINAU S.A.",
             "city": "CHISINAU",
             "branch": null,

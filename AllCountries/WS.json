@@ -11,38 +11,38 @@
         },
         {
             "id": "2",
+            "bank": "BANK OF SOUTH PACIFIC (SAMOA) LIMITED",
+            "city": "APIA",
+            "branch": null,
+            "swift_code": "BOSPWSWS"
+        },
+        {
+            "id": "3",
             "bank": "CENTRAL BANK OF SAMOA",
             "city": "APIA",
             "branch": null,
             "swift_code": "CBSAWSWS"
         },
         {
-            "id": "3",
+            "id": "4",
             "bank": "NATIONAL BANK OF SAMOA LIMITED",
             "city": "APIA",
             "branch": null,
             "swift_code": "NBSLWSWS"
         },
         {
-            "id": "4",
+            "id": "5",
             "bank": "PACIFIC TRADE BANK SAMOA",
             "city": "APIA",
             "branch": null,
             "swift_code": "PTRMWSWS"
         },
         {
-            "id": "5",
+            "id": "6",
             "bank": "SAMOA COMMERCIAL BANK LIMITED",
             "city": "APIA",
             "branch": null,
             "swift_code": "SCOBWSWS"
-        },
-        {
-            "id": "6",
-            "bank": "WESTPAC BANK SAMOA LTD",
-            "city": "APIA",
-            "branch": null,
-            "swift_code": "PCOBWSWS"
         }
     ]
 }

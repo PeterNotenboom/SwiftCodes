@@ -39,27 +39,34 @@
         },
         {
             "id": "6",
-            "bank": "DAHABSHIL BANK INTERNATIONAL",
+            "bank": "COMMERCIAL BANK OF DJIBOUTI SA",
             "city": "DJIBOUTI",
             "branch": null,
-            "swift_code": "DBISDJJ2"
+            "swift_code": "CBDJDJJD"
         },
         {
             "id": "7",
+            "bank": "EAST AFRICA BANK",
+            "city": "DJIBOUTI",
+            "branch": null,
+            "swift_code": "EABDDJJD"
+        },
+        {
+            "id": "8",
             "bank": "EXIM BANK (DJIBOUTI) S.A.",
             "city": "DJIBOUTI",
             "branch": null,
             "swift_code": "EXTNDJJD"
         },
         {
-            "id": "8",
+            "id": "9",
             "bank": "INTERNATIONAL COMMERCIAL BANK DJIBOUTI",
             "city": "DJIBOUTI",
             "branch": null,
             "swift_code": "ICDJDJJD"
         },
         {
-            "id": "9",
+            "id": "10",
             "bank": "SALAAM AFRICAN BANK",
             "city": "DJIBOUTI",
             "branch": null,

@@ -32,17 +32,17 @@
         },
         {
             "id": "5",
+            "bank": "KVIKA BANKI HF.",
+            "city": "REYKJAVIK",
+            "branch": null,
+            "swift_code": "MPBAISRE"
+        },
+        {
+            "id": "6",
             "bank": "LANDSBANKINN HF",
             "city": "REYKJAVIK",
             "branch": null,
             "swift_code": "NBIIISRE"
-        },
-        {
-            "id": "6",
-            "bank": "MP BANK HF.",
-            "city": "REYKJAVIK",
-            "branch": null,
-            "swift_code": "MPBAISRE"
         },
         {
             "id": "7",
@@ -50,6 +50,13 @@
             "city": "REYKJAVIK",
             "branch": null,
             "swift_code": "STRBISRE"
+        },
+        {
+            "id": "8",
+            "bank": "VALITOR HF",
+            "city": "HAFNARFJORDUR",
+            "branch": null,
+            "swift_code": "VATOISRE"
         }
     ]
 }

@@ -4,52 +4,52 @@
     "list": [
         {
             "id": "1",
-            "bank": "AIYL BANK",
-            "city": "BISHKEK",
-            "branch": null,
-            "swift_code": "AIYLKG22"
-        },
-        {
-            "id": "2",
             "bank": "AMANBANK (JOINT-STOCK RUSSIAN-KYRGYZ AMANBANK)",
             "city": "BISHKEK",
             "branch": null,
             "swift_code": "AJRAKG22"
         },
         {
-            "id": "3",
+            "id": "2",
             "bank": "BAI-TUSHUM BANK CJSC",
             "city": "BISHKEK",
             "branch": null,
             "swift_code": "BBTPKG22"
         },
         {
-            "id": "4",
-            "bank": "BAKAI BANK JOINT STOCK",
+            "id": "3",
+            "bank": "BAKAI BANK OJSC",
             "city": "BISHKEK",
             "branch": null,
             "swift_code": "BAKAKG22"
         },
         {
-            "id": "5",
-            "bank": "BANK KYRGYZSTAN JSC",
-            "city": "BISHKEK",
-            "branch": null,
-            "swift_code": "KYRSKG22"
-        },
-        {
-            "id": "6",
+            "id": "4",
             "bank": "BANK OF ASIA CJSC",
             "city": "BISHKEK",
             "branch": null,
             "swift_code": "ASCJKG22"
         },
         {
-            "id": "7",
+            "id": "5",
             "bank": "BTA BANK CJSC (FORMERLY INEXIMBANK CJSC), BISHKEK,KG",
             "city": "BISHKEK",
             "branch": null,
             "swift_code": "EIMBKG22"
+        },
+        {
+            "id": "6",
+            "bank": "CJSC ECOISLAMICBANK",
+            "city": "BISHKEK",
+            "branch": null,
+            "swift_code": "ECBIKG22"
+        },
+        {
+            "id": "7",
+            "bank": "CJSC FINCA BANK",
+            "city": "BISHKEK",
+            "branch": null,
+            "swift_code": "FBANKG22"
         },
         {
             "id": "8",
@@ -81,52 +81,52 @@
         },
         {
             "id": "12",
-            "bank": "JOINT-STOCK ECOISLAMICBANK",
-            "city": "BISHKEK",
-            "branch": null,
-            "swift_code": "ECBIKG22"
-        },
-        {
-            "id": "13",
             "bank": "KYRGYZ INVESTMENT AND CREDIT BANK",
             "city": "BISHKEK",
             "branch": null,
             "swift_code": "KICBKG22"
         },
         {
-            "id": "14",
+            "id": "13",
             "bank": "KYRGYZKREDIT BANK",
             "city": "BISHKEK",
             "branch": null,
             "swift_code": "KYRGKG22"
         },
         {
-            "id": "15",
+            "id": "14",
             "bank": "KYRGYZ-SWISS BANK CJSC",
             "city": "BISHKEK",
             "branch": null,
             "swift_code": "KSBCKG22"
         },
         {
-            "id": "16",
-            "bank": "MANAS BANK",
-            "city": "BISHKEK",
-            "branch": null,
-            "swift_code": "MNSBKG22"
-        },
-        {
-            "id": "17",
+            "id": "15",
             "bank": "NATIONAL BANK OF PAKISTAN BISHKEK BRANCH",
             "city": "BISHKEK",
             "branch": null,
             "swift_code": "NBPAKG22"
         },
         {
-            "id": "18",
+            "id": "16",
             "bank": "NATIONAL BANK OF THE KYRGYZ REPUBLIC",
             "city": "BISHKEK",
             "branch": null,
             "swift_code": "NBKIKG22"
+        },
+        {
+            "id": "17",
+            "bank": "OJSC AIYL BANK",
+            "city": "BISHKEK",
+            "branch": null,
+            "swift_code": "AIYLKG22"
+        },
+        {
+            "id": "18",
+            "bank": "OJSC COMMERCIAL BANK KYRGYZSTAN",
+            "city": "BISHKEK",
+            "branch": null,
+            "swift_code": "KYRSKG22"
         },
         {
             "id": "19",
@@ -144,24 +144,24 @@
         },
         {
             "id": "21",
+            "bank": "OJSC RSK BANK",
+            "city": "BISHKEK",
+            "branch": null,
+            "swift_code": "SESVKG22"
+        },
+        {
+            "id": "22",
             "bank": "OJSC RUSSIAN INVESTMENT BANK",
             "city": "BISHKEK",
             "branch": null,
             "swift_code": "RINBKG22"
         },
         {
-            "id": "22",
+            "id": "23",
             "bank": "OPTIMA BANK OJSC",
             "city": "BISHKEK",
             "branch": null,
             "swift_code": "ENEJKG22"
-        },
-        {
-            "id": "23",
-            "bank": "RSK BANK",
-            "city": "BISHKEK",
-            "branch": null,
-            "swift_code": "SESVKG22"
         },
         {
             "id": "24",

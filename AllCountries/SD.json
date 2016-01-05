@@ -118,22 +118,22 @@
             "id": "17",
             "bank": "AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO.",
             "city": "KHARTOUM",
-            "branch": null,
-            "swift_code": "NILESDKH"
+            "branch": "(KHARTOUM NORTH BRANCH)",
+            "swift_code": "NILESDKH0K2"
         },
         {
             "id": "18",
             "bank": "AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO.",
             "city": "KHARTOUM",
             "branch": null,
-            "swift_code": "NILESDKH02E"
+            "swift_code": "NILESDKH"
         },
         {
             "id": "19",
             "bank": "AL NILE BANK FOR COMMERCE AND DEVELOPMENT CO.",
             "city": "KHARTOUM",
-            "branch": "(KHARTOUM NORTH BRANCH)",
-            "swift_code": "NILESDKH0K2"
+            "branch": null,
+            "swift_code": "NILESDKH02E"
         },
         {
             "id": "20",
@@ -235,17 +235,17 @@
         },
         {
             "id": "34",
+            "bank": "BANK OF KHARTOUM",
+            "city": "KHARTOUM",
+            "branch": null,
+            "swift_code": "BAKHSDKH"
+        },
+        {
+            "id": "35",
             "bank": "BANQUE SAHELO-SAHARIENNE POUR L'INVESTISSEMENT ET LE COMMERCE - SOUDAN BRANCHE - (B.S.I.C.)",
             "city": "KHARTOUM",
             "branch": null,
             "swift_code": "BSAHSDKH"
-        },
-        {
-            "id": "35",
-            "bank": "BLUE NILE MASHREG BANK",
-            "city": "KHARTOUM",
-            "branch": null,
-            "swift_code": "BLNISDKH"
         },
         {
             "id": "36",
@@ -258,15 +258,15 @@
             "id": "37",
             "bank": "CENTRAL BANK OF SUDAN",
             "city": "KHARTOUM",
-            "branch": null,
-            "swift_code": "BSDNSDKH"
+            "branch": "(HEAD QUARTER)",
+            "swift_code": "BSDNSDKHHQR"
         },
         {
             "id": "38",
             "bank": "CENTRAL BANK OF SUDAN",
             "city": "KHARTOUM",
-            "branch": "(HEAD QUARTER)",
-            "swift_code": "BSDNSDKHHQR"
+            "branch": null,
+            "swift_code": "BSDNSDKH"
         },
         {
             "id": "39",
@@ -293,78 +293,78 @@
             "id": "42",
             "bank": "FAISAL ISLAMIC BANK",
             "city": "KHARTOUM",
-            "branch": null,
-            "swift_code": "FISBSDKH"
-        },
-        {
-            "id": "43",
-            "bank": "FAISAL ISLAMIC BANK",
-            "city": "KHARTOUM",
             "branch": "(AL SAGANAH BRANCH)",
             "swift_code": "FISBSDKH107"
         },
         {
-            "id": "44",
+            "id": "43",
             "bank": "FAISAL ISLAMIC BANK",
             "city": "KHARTOUM",
             "branch": "(AL SUK AL ARABI BRANCH)",
             "swift_code": "FISBSDKH118"
         },
         {
-            "id": "45",
+            "id": "44",
             "bank": "FAISAL ISLAMIC BANK",
             "city": "KHARTOUM",
             "branch": "(AL SUK AL MAHALI BRANCH)",
             "swift_code": "FISBSDKH116"
         },
         {
-            "id": "46",
+            "id": "45",
             "bank": "FAISAL ISLAMIC BANK",
             "city": "KHARTOUM",
             "branch": "(AL SUK AL SHABI KHARTOUM BRANCH)",
             "swift_code": "FISBSDKH110"
         },
         {
-            "id": "47",
+            "id": "46",
             "bank": "FAISAL ISLAMIC BANK",
             "city": "KHARTOUM",
-            "branch": "(CORPORATE DEPARTMEMT)",
+            "branch": "(CORPORATE DEPARTMENT)",
             "swift_code": "FISBSDKH122"
         },
         {
-            "id": "48",
+            "id": "47",
             "bank": "FAISAL ISLAMIC BANK",
             "city": "KHARTOUM",
             "branch": "(FAIHA BRANCH)",
             "swift_code": "FISBSDKH101"
         },
         {
-            "id": "49",
+            "id": "48",
             "bank": "FAISAL ISLAMIC BANK",
             "city": "KHARTOUM",
             "branch": "(KHARTOUM CENTRAL STATION BRANCH)",
             "swift_code": "FISBSDKH102"
         },
         {
-            "id": "50",
+            "id": "49",
             "bank": "FAISAL ISLAMIC BANK",
             "city": "KHARTOUM",
             "branch": "(KHARTOUM NEW INDUSTRIAL AREA BRANCH)",
             "swift_code": "FISBSDKH115"
         },
         {
-            "id": "51",
+            "id": "50",
             "bank": "FAISAL ISLAMIC BANK",
             "city": "KHARTOUM",
             "branch": "(KHARTOUM NORTH INDUSTRIAL AREA BRANCH)",
             "swift_code": "FISBSDKH114"
         },
         {
-            "id": "52",
+            "id": "51",
             "bank": "FAISAL ISLAMIC BANK",
             "city": "KHARTOUM",
             "branch": "(UNIVERSITY OF KHARTOUM BRANCH)",
             "swift_code": "FISBSDKH105"
+        },
+        {
+            "id": "52",
+            "bank": "FAISAL ISLAMIC BANK",
+            "city": "KHARTOUM",
+            "branch": null,
+            "swift_code": "FISBSDKH"
         },
         {
             "id": "53",
@@ -405,15 +405,15 @@
             "id": "58",
             "bank": "NATIONAL BANK OF ABU DHABI KHARTOUM BRANCH",
             "city": "KHARTOUM",
-            "branch": null,
-            "swift_code": "NBADSDKH"
+            "branch": "(AMARAT BRANCH)",
+            "swift_code": "NBADSDKHAMR"
         },
         {
             "id": "59",
             "bank": "NATIONAL BANK OF ABU DHABI KHARTOUM BRANCH",
             "city": "KHARTOUM",
-            "branch": "(AMARAT BRANCH)",
-            "swift_code": "NBADSDKHAMR"
+            "branch": null,
+            "swift_code": "NBADSDKH"
         },
         {
             "id": "60",

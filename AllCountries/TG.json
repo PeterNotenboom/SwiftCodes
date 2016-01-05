@@ -60,24 +60,24 @@
         },
         {
             "id": "9",
-            "bank": "BANQUE TOGOLAISE DE DEVELOPPEMENT",
-            "city": "LOME",
-            "branch": null,
-            "swift_code": "BTDETGTG"
-        },
-        {
-            "id": "10",
             "bank": "BANQUE TOGOLAISE POUR LE COMMERCE ET L'INDUSTRIE",
             "city": "LOME",
             "branch": null,
             "swift_code": "BTCITGTG"
         },
         {
-            "id": "11",
+            "id": "10",
             "bank": "BSIC TOGO SA",
             "city": "LOME",
             "branch": null,
             "swift_code": "BSAHTGTG"
+        },
+        {
+            "id": "11",
+            "bank": "CORIS BANK INTERNATIONAL TOGO",
+            "city": "LOME",
+            "branch": null,
+            "swift_code": "CORITGTG"
         },
         {
             "id": "12",
@@ -112,42 +112,42 @@
             "bank": "ECOBANK TOGO",
             "city": "LOME",
             "branch": null,
-            "swift_code": "ECOCTGTA"
+            "swift_code": "ECOCTGTG"
         },
         {
             "id": "17",
             "bank": "ECOBANK TOGO",
             "city": "LOME",
             "branch": null,
-            "swift_code": "ECOCTGTG"
+            "swift_code": "ECOCTGTA"
         },
         {
             "id": "18",
             "bank": "ECOBANK TOGO",
             "city": "LOME",
             "branch": null,
-            "swift_code": "ECOCTGTGBID"
+            "swift_code": "ECOCTGTS"
         },
         {
             "id": "19",
             "bank": "ECOBANK TOGO",
             "city": "LOME",
             "branch": null,
-            "swift_code": "ECOCTGTS"
+            "swift_code": "ECOCTGTU"
         },
         {
             "id": "20",
             "bank": "ECOBANK TOGO",
             "city": "LOME",
             "branch": null,
-            "swift_code": "ECOCTGTU"
+            "swift_code": "ECOCTGTX"
         },
         {
             "id": "21",
             "bank": "ECOBANK TOGO",
             "city": "LOME",
             "branch": null,
-            "swift_code": "ECOCTGTX"
+            "swift_code": "ECOCTGTGBID"
         },
         {
             "id": "22",
@@ -165,13 +165,20 @@
         },
         {
             "id": "24",
+            "bank": "SOCIETE GENERALE BENIN SUCCURSALE DU TOGO",
+            "city": "LOME",
+            "branch": null,
+            "swift_code": "SOGETGTG"
+        },
+        {
+            "id": "25",
             "bank": "SOCIETE INTER-AFRICAINE DE BANQUE",
             "city": "LOME",
             "branch": null,
             "swift_code": "SIABTGTG"
         },
         {
-            "id": "25",
+            "id": "26",
             "bank": "UNION TOGOLAISE DE BANQUE",
             "city": "LOME",
             "branch": null,

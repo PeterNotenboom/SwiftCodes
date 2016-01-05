@@ -18,34 +18,41 @@
         },
         {
             "id": "3",
+            "bank": "BANCO CORPORATIVO, S. A.",
+            "city": "MANAGUA",
+            "branch": null,
+            "swift_code": "BOFPNIMA"
+        },
+        {
+            "id": "4",
             "bank": "BANCO DE AMERICA CENTRAL",
             "city": "MANAGUA",
             "branch": null,
             "swift_code": "BAMCNIMA"
         },
         {
-            "id": "4",
+            "id": "5",
             "bank": "BANCO DE FINANZAS, S.A.(BDF)",
             "city": "MANAGUA",
             "branch": null,
             "swift_code": "BBDFNIMA"
         },
         {
-            "id": "5",
+            "id": "6",
             "bank": "BANCO DE LA PRODUCCION S.A.",
             "city": "MANAGUA",
             "branch": null,
             "swift_code": "BAPRNIMA"
         },
         {
-            "id": "6",
+            "id": "7",
             "bank": "BANCO LAFISE BANCENTRO, S.A.",
             "city": "MANAGUA",
             "branch": null,
             "swift_code": "BCCENIMA"
         },
         {
-            "id": "7",
+            "id": "8",
             "bank": "BANCO PROCREDIT NICARAGUA",
             "city": "MANAGUA",
             "branch": null,

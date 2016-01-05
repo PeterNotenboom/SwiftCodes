@@ -25,38 +25,38 @@
         },
         {
             "id": "4",
+            "bank": "GIBRALTAR INTERNATIONAL BANK LIMITED",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "GIBKGIGI"
+        },
+        {
+            "id": "5",
             "bank": "JYSKE BANK (GIBRALTAR) LTD.",
             "city": "GIBRALTAR",
             "branch": null,
             "swift_code": "JYBAGIGI"
         },
         {
-            "id": "5",
+            "id": "6",
             "bank": "LLOYDS BANK (GIBRALTAR) LIMITED",
             "city": "GIBRALTAR",
             "branch": null,
             "swift_code": "LOYDGIGI"
         },
         {
-            "id": "6",
-            "bank": "LLOYDS TSB BANK PLC",
-            "city": "GIBRALTAR",
-            "branch": null,
-            "swift_code": "LOYDGIGX"
-        },
-        {
             "id": "7",
             "bank": "LOMBARD ODIER AND CIE (GIBRALTAR) LTD",
             "city": "GIBRALTAR",
-            "branch": null,
-            "swift_code": "LOCYGIGI"
+            "branch": "(NDP DEPT)",
+            "swift_code": "LOCYGIGINDP"
         },
         {
             "id": "8",
             "bank": "LOMBARD ODIER AND CIE (GIBRALTAR) LTD",
             "city": "GIBRALTAR",
-            "branch": "(NDP DEPT)",
-            "swift_code": "LOCYGIGINDP"
+            "branch": null,
+            "swift_code": "LOCYGIGI"
         },
         {
             "id": "9",
@@ -85,13 +85,6 @@
             "city": "GIBRALTAR",
             "branch": null,
             "swift_code": "TURCGIGI"
-        },
-        {
-            "id": "13",
-            "bank": "UNION BANCAIRE PRIVEE (EUROPE) SA",
-            "city": "GIBRALTAR",
-            "branch": null,
-            "swift_code": "UBPGGIGX"
         }
     ]
 }

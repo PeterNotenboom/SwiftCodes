@@ -11,38 +11,38 @@
         },
         {
             "id": "2",
+            "bank": "BANQUE AFRICAINE POUR L'INDUSTRIE ET LE COMMERCE BENIN",
+            "city": "COTONOU",
+            "branch": null,
+            "swift_code": "AFICBJBJ"
+        },
+        {
+            "id": "3",
             "bank": "BANQUE ATLANTIQUE DU BENIN",
             "city": "COTONOU",
             "branch": null,
             "swift_code": "ATBJBJBJ"
         },
         {
-            "id": "3",
+            "id": "4",
             "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
             "city": "COTONOU",
             "branch": null,
             "swift_code": "BCAOBJBJ"
         },
         {
-            "id": "4",
+            "id": "5",
             "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
             "city": "PARAKOU",
             "branch": "(PARAKOU BRANCH)",
             "swift_code": "BCAOBJBJPAR"
         },
         {
-            "id": "5",
+            "id": "6",
             "bank": "BANQUE INTERNATIONALE DU BENIN",
             "city": "COTONOU",
             "branch": null,
             "swift_code": "BIBEBJBJ"
-        },
-        {
-            "id": "6",
-            "bank": "BANQUE REGIONALE DE SOLIDARITE - BENIN",
-            "city": "COTONOU",
-            "branch": null,
-            "swift_code": "BRSWBJBJ"
         },
         {
             "id": "7",
@@ -74,38 +74,38 @@
         },
         {
             "id": "11",
-            "bank": "CONTINENTAL BANK-BENIN",
-            "city": "COTONOU",
-            "branch": null,
-            "swift_code": "COBBBJBJ"
-        },
-        {
-            "id": "12",
             "bank": "DIAMOND BANK BENIN SA",
             "city": "COTONOU",
             "branch": null,
             "swift_code": "DBLNBJBJ"
         },
         {
-            "id": "13",
+            "id": "12",
             "bank": "ECOBANK BENIN",
             "city": "COTONOU",
             "branch": null,
             "swift_code": "ECOCBJBJ"
         },
         {
-            "id": "14",
+            "id": "13",
             "bank": "ORABANK BENIN",
             "city": "COTONOU",
             "branch": null,
             "swift_code": "ORBKBJBJ"
         },
         {
-            "id": "15",
-            "bank": "SOCIETE GENERALE DE BANQUES AU BENIN",
+            "id": "14",
+            "bank": "SOCIETE GENERALE BENIN",
             "city": "COTONOU",
             "branch": null,
             "swift_code": "SOGEBJBJ"
+        },
+        {
+            "id": "15",
+            "bank": "UNITED BANK FOR AFRICA BENIN",
+            "city": "COTONOU",
+            "branch": null,
+            "swift_code": "COBBBJBJ"
         }
     ]
 }

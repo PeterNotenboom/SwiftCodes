@@ -11,87 +11,87 @@
         },
         {
             "id": "2",
+            "bank": "AMAYA GROUP LTD",
+            "city": "ONCHAN",
+            "branch": null,
+            "swift_code": "RTNLIMDD"
+        },
+        {
+            "id": "3",
             "bank": "CAPITAL INTERNATIONAL LIMTED",
             "city": "DOUGLAS",
             "branch": "(CAPITAL FINANCIAL MARKETS)",
             "swift_code": "CIGLIMDDCFM"
         },
         {
-            "id": "3",
+            "id": "4",
             "bank": "CAPITAL INTERNATIONAL LIMTED",
             "city": "DOUGLAS",
             "branch": "(CAPITAL FUND SERVICES)",
             "swift_code": "CIGLIMDDCFS"
         },
         {
-            "id": "4",
+            "id": "5",
             "bank": "CAPITAL INTERNATIONAL LIMTED",
             "city": "DOUGLAS",
             "branch": "(CAPITAL TREASURY SERVICES)",
             "swift_code": "CIGLIMDDCTS"
         },
         {
-            "id": "5",
+            "id": "6",
             "bank": "CAPITAL INTERNATIONAL LIMTED",
             "city": "DOUGLAS",
             "branch": null,
             "swift_code": "CIGLIMDD"
         },
         {
-            "id": "6",
+            "id": "7",
             "bank": "CAPITAL INTERNATIONAL LIMTED",
             "city": "DOUGLAS",
             "branch": null,
             "swift_code": "CIGLIMDDCIL"
         },
         {
-            "id": "7",
+            "id": "8",
             "bank": "CAYMAN NATIONAL BANK AND TRUST COMPANY (ISLE OF MAN) LIMITED",
             "city": "DOUGLAS",
             "branch": null,
             "swift_code": "CNBTIMDD"
         },
         {
-            "id": "8",
+            "id": "9",
             "bank": "CONISTER BANK LIMITED",
             "city": "DOUGLAS",
             "branch": null,
             "swift_code": "CNNIIMD2"
         },
         {
-            "id": "9",
+            "id": "10",
             "bank": "COUTTS AND CO (MANX) LIMITED",
             "city": "DOUGLAS",
             "branch": null,
             "swift_code": "COUTIMDD"
         },
         {
-            "id": "10",
+            "id": "11",
             "bank": "DUNCAN LAWRIE (IOM) LIMITED",
             "city": "DOUGLAS",
             "branch": null,
             "swift_code": "DULAIMDX"
         },
         {
-            "id": "11",
+            "id": "12",
             "bank": "HABIB EUROPEAN BANK LIMITED",
             "city": "DOUGLAS",
             "branch": null,
             "swift_code": "HBZUIMDD"
         },
         {
-            "id": "12",
+            "id": "13",
             "bank": "ISLE OF MAN BANK",
             "city": "DOUGLAS",
             "branch": null,
             "swift_code": "RBOSIMD2"
-        },
-        {
-            "id": "13",
-            "bank": "KLEINWORT BENSON BANK (ISLE OF MAN) LTD (FORMERLY CLOSE BANK (ISLE OF MAN) LIMITED)",
-            "city": "DOUGLAS",
-            "branch": null,
-            "swift_code": "CLOSIMDD"
         },
         {
             "id": "14",
@@ -109,48 +109,41 @@
         },
         {
             "id": "16",
-            "bank": "RATIONAL GROUP LTD",
+            "bank": "OLD MUTUAL INTERNATIONAL IOM LIMITED",
             "city": "ONCHAN",
-            "branch": null,
-            "swift_code": "RTNLIMDD"
+            "branch": "(BRANCH OPERATIONS)",
+            "swift_code": "ROKLIMDIOPS"
         },
         {
             "id": "17",
+            "bank": "OLD MUTUAL INTERNATIONAL IOM LIMITED",
+            "city": "ONCHAN",
+            "branch": null,
+            "swift_code": "ROKLIMDI"
+        },
+        {
+            "id": "18",
             "bank": "ROYAL BANK OF SCOTLAND INTERNATIONAL LIMITED, THE",
             "city": "DOUGLAS",
             "branch": null,
             "swift_code": "RBOSIMDX"
         },
         {
-            "id": "18",
-            "bank": "ROYAL SKANDIA LIFE ASSURANCE LIMITED",
-            "city": "ONCHAN",
-            "branch": "(BRANCH OPERATIONS)",
-            "swift_code": "ROKLIMDIOPS"
-        },
-        {
             "id": "19",
-            "bank": "ROYAL SKANDIA LIFE ASSURANCE LIMITED",
-            "city": "ONCHAN",
-            "branch": null,
-            "swift_code": "ROKLIMDI"
-        },
-        {
-            "id": "20",
             "bank": "STANDARD BANK ISLE OF MAN LIMITED",
             "city": "DOUGLAS",
             "branch": null,
             "swift_code": "SBICIMDX"
         },
         {
-            "id": "21",
+            "id": "20",
             "bank": "STANDARD BANK OF SOUTH AFRICA LTD, ISLE OF MAN BRANCH",
             "city": "DOUGLAS",
             "branch": null,
             "swift_code": "SBZAIMDD"
         },
         {
-            "id": "22",
+            "id": "21",
             "bank": "ZURICH BANK INTERNATIONAL LIMITED",
             "city": "DOUGLAS",
             "branch": null,

@@ -104,15 +104,15 @@
             "id": "15",
             "bank": "ALLIED BANK LIMITED",
             "city": "LAHORE",
-            "branch": "(199-UPPER MALL, LAHORE (0979))",
-            "swift_code": "ABPAPKKA979"
+            "branch": "(7-E\/III, CORPORATE CENTRE, BRANCH LAHORE (0361))",
+            "swift_code": "ABPAPKKA361"
         },
         {
             "id": "16",
             "bank": "ALLIED BANK LIMITED",
             "city": "LAHORE",
-            "branch": "(7-E\/III, CORPORATE CENTRE, BRANCH LAHORE (0361))",
-            "swift_code": "ABPAPKKA361"
+            "branch": "(CENTRALIZED SWIFT, HEAD OFFICE, LAHORE)",
+            "swift_code": "ABPAPKKA979"
         },
         {
             "id": "17",
@@ -965,106 +965,106 @@
             "id": "138",
             "bank": "BANK ALFALAH LIMITED",
             "city": "ISLAMABAD",
+            "branch": "( IBD,  E-11 BRANCH ISLAMABAD)",
+            "swift_code": "ALFHPKKA568"
+        },
+        {
+            "id": "139",
+            "bank": "BANK ALFALAH LIMITED",
+            "city": "ISLAMABAD",
+            "branch": "( IBD, DHA PHASE-II BRANCH ISLAMABAD)",
+            "swift_code": "ALFHPKKA567"
+        },
+        {
+            "id": "140",
+            "bank": "BANK ALFALAH LIMITED",
+            "city": "ISLAMABAD",
             "branch": "(BHARA KHAU BRANCH ISLAMABAD)",
             "swift_code": "ALFHPKKA207"
         },
         {
-            "id": "139",
+            "id": "141",
             "bank": "BANK ALFALAH LIMITED",
             "city": "ISLAMABAD",
             "branch": "(F-10 MARKAZ BRANCH)",
             "swift_code": "ALFHPKKA131"
         },
         {
-            "id": "140",
+            "id": "142",
             "bank": "BANK ALFALAH LIMITED",
             "city": "ISLAMABAD",
             "branch": "(F-11 MARKAZ BRANCH ISLAMABAD)",
             "swift_code": "ALFHPKKA263"
         },
         {
-            "id": "141",
+            "id": "143",
             "bank": "BANK ALFALAH LIMITED",
             "city": "ISLAMABAD",
             "branch": "(F-7 MARKAZ)",
             "swift_code": "ALFHPKKA404"
         },
         {
-            "id": "142",
+            "id": "144",
             "bank": "BANK ALFALAH LIMITED",
             "city": "ISLAMABAD",
             "branch": "(F-8 MARKAZ)",
             "swift_code": "ALFHPKKA148"
         },
         {
-            "id": "143",
+            "id": "145",
             "bank": "BANK ALFALAH LIMITED",
             "city": "ISLAMABAD",
             "branch": "(G-11 MARKAZ BRANCH ISLAMABAD)",
             "swift_code": "ALFHPKKA234"
         },
         {
-            "id": "144",
+            "id": "146",
             "bank": "BANK ALFALAH LIMITED",
             "city": "ISLAMABAD",
             "branch": "(G-9 MARKAZ)",
             "swift_code": "ALFHPKKA147"
         },
         {
-            "id": "145",
+            "id": "147",
             "bank": "BANK ALFALAH LIMITED",
             "city": "ISLAMABAD",
             "branch": "(GRAIN MARKET ISLAMABAD)",
             "swift_code": "ALFHPKKA206"
         },
         {
-            "id": "146",
+            "id": "148",
             "bank": "BANK ALFALAH LIMITED",
             "city": "ISLAMABAD",
             "branch": "(I-10 MARKAZ BRANCH)",
             "swift_code": "ALFHPKKA082"
         },
         {
-            "id": "147",
+            "id": "149",
             "bank": "BANK ALFALAH LIMITED",
             "city": "ISLAMABAD",
             "branch": "(I-8 MARKAZ)",
             "swift_code": "ALFHPKKA146"
         },
         {
-            "id": "148",
+            "id": "150",
             "bank": "BANK ALFALAH LIMITED",
             "city": "ISLAMABAD",
             "branch": "(IBD BAHRIA TOWN BRANCH ISLAMABAD)",
             "swift_code": "ALFHPKKA569"
         },
         {
-            "id": "149",
+            "id": "151",
             "bank": "BANK ALFALAH LIMITED",
             "city": "ISLAMABAD",
             "branch": "(IBD G-10 MARKAZ ISLAMABAD)",
             "swift_code": "ALFHPKKA530"
         },
         {
-            "id": "150",
+            "id": "152",
             "bank": "BANK ALFALAH LIMITED",
             "city": "ISLAMABAD",
             "branch": "(IBD I-9 ISLAMABAD BRANCH)",
             "swift_code": "ALFHPKKA546"
-        },
-        {
-            "id": "151",
-            "bank": "BANK ALFALAH LIMITED",
-            "city": "ISLAMABAD",
-            "branch": "(IBD, DHA PHASE-II BRANCH ISLAMABAD)",
-            "swift_code": "ALFHPKKA567"
-        },
-        {
-            "id": "152",
-            "bank": "BANK ALFALAH LIMITED",
-            "city": "ISLAMABAD",
-            "branch": "(IBD, E-11 BRANCH ISLAMABAD)",
-            "swift_code": "ALFHPKKA568"
         },
         {
             "id": "153",
@@ -2505,7 +2505,7 @@
             "id": "358",
             "bank": "BANK ALFALAH LIMITED",
             "city": "PHALIA",
-            "branch": "(PHALIA BRANCH DISTT. MANDI BAHAUDDIN)",
+            "branch": "(PHALIA BRANCH  DISTT. MANDI BAHAUDDIN)",
             "swift_code": "ALFHPKKA261"
         },
         {
@@ -2568,7 +2568,7 @@
             "id": "367",
             "bank": "BANK ALFALAH LIMITED",
             "city": "QUETTA",
-            "branch": "(MODEL TOWN BR. QUETTA CANTT)",
+            "branch": "(MODEL TOWN  BR. QUETTA CANTT)",
             "swift_code": "ALFHPKKA183"
         },
         {
@@ -2652,7 +2652,7 @@
             "id": "379",
             "bank": "BANK ALFALAH LIMITED",
             "city": "RAWALPINDI",
-            "branch": "(FAIZABAD BRANCH RAWALPINDI)",
+            "branch": "(FAIZABAD BRANCH  RAWALPINDI)",
             "swift_code": "ALFHPKKA267"
         },
         {
@@ -2911,7 +2911,7 @@
             "id": "416",
             "bank": "BANK ALFALAH LIMITED",
             "city": "SWABI",
-            "branch": "(SWABI BRANCH)",
+            "branch": "(SWABI  BRANCH)",
             "swift_code": "ALFHPKKA249"
         },
         {
@@ -2987,2182 +2987,2385 @@
         {
             "id": "427",
             "bank": "BANK OF KHYBER, THE",
-            "city": "KARACHI",
-            "branch": "(BOK - KARACHI BRANCH)",
-            "swift_code": "KHYBPKKA024"
+            "city": "ABBOTTABAD",
+            "branch": "(MANSEHRA ROAD BRANCH)",
+            "swift_code": "KHYBPKKAMRA"
         },
         {
             "id": "428",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "ATTOCK",
+            "branch": "(ATTOCK BRANCH)",
+            "swift_code": "KHYBPKKAATT"
+        },
+        {
+            "id": "429",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "FAISALABAD",
+            "branch": "(KOTWALI ROAD BRANCH)",
+            "swift_code": "KHYBPKKAKRF"
+        },
+        {
+            "id": "430",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "FAISALABAD",
+            "branch": "(SOOSAN ROAD BRANCH)",
+            "swift_code": "KHYBPKKASRF"
+        },
+        {
+            "id": "431",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "GUJRANWALA",
+            "branch": "(GUJRANWALA BRANCH)",
+            "swift_code": "KHYBPKKAGJR"
+        },
+        {
+            "id": "432",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "GUJRAT",
+            "branch": "(GUJRAT BRANCH)",
+            "swift_code": "KHYBPKKAGUJ"
+        },
+        {
+            "id": "433",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "ISLAMABAD",
+            "branch": "(ISLAMABAD BRANCH)",
+            "swift_code": "KHYBPKKAISB"
+        },
+        {
+            "id": "434",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "JHELUM",
+            "branch": "(JHELUM BRANCH)",
+            "swift_code": "KHYBPKKAJHE"
+        },
+        {
+            "id": "435",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "KARACHI",
+            "branch": "(CLIFTON BRANCH)",
+            "swift_code": "KHYBPKKACLK"
+        },
+        {
+            "id": "436",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "KARACHI",
+            "branch": "(ISLAMIC BANKING DIVISION)",
+            "swift_code": "KHYBPKKA024"
+        },
+        {
+            "id": "437",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "KARACHI",
+            "branch": "(S.I.T.E BRANCH)",
+            "swift_code": "KHYBPKKASIK"
+        },
+        {
+            "id": "438",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "KARACHI",
+            "branch": "(SHAHRAH-E-FAISAL BRANCH)",
+            "swift_code": "KHYBPKKASFK"
+        },
+        {
+            "id": "439",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "KARACHI",
+            "branch": "(TREASURY OPERATIONS)",
+            "swift_code": "KHYBPKKATRY"
+        },
+        {
+            "id": "440",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "LAHORE",
+            "branch": "(DAVIS ROAD BRANCH)",
+            "swift_code": "KHYBPKKADRL"
+        },
+        {
+            "id": "441",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "LAHORE",
+            "branch": "(FAISAL TOWN BRANCH)",
+            "swift_code": "KHYBPKKAFTL"
+        },
+        {
+            "id": "442",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "LAHORE",
+            "branch": "(JOHAR TOWN BRANCH)",
+            "swift_code": "KHYBPKKAJTL"
+        },
+        {
+            "id": "443",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "LAHORE",
+            "branch": "(M.M. ALAM ROAD BRANCH)",
+            "swift_code": "KHYBPKKAMML"
+        },
+        {
+            "id": "444",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "LAHORE",
+            "branch": "(SHAH ALAM MARKET BRANCH)",
+            "swift_code": "KHYBPKKASAL"
+        },
+        {
+            "id": "445",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "MIRPUR",
+            "branch": "(MIRPUR BRANCH)",
+            "swift_code": "KHYBPKKAMIR"
+        },
+        {
+            "id": "446",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "MULTAN",
+            "branch": "(MULTAN BRANCH)",
+            "swift_code": "KHYBPKKAMUL"
+        },
+        {
+            "id": "447",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "PESHAWAR",
+            "branch": "(ASHRAF ROAD BRANCH)",
+            "swift_code": "KHYBPKKAARP"
+        },
+        {
+            "id": "448",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "PESHAWAR",
+            "branch": "(CITY BRANCH)",
+            "swift_code": "KHYBPKKACTP"
+        },
+        {
+            "id": "449",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "PESHAWAR",
+            "branch": "(G.T. ROAD BRANCH)",
+            "swift_code": "KHYBPKKAGTP"
+        },
+        {
+            "id": "450",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "PESHAWAR",
+            "branch": "(HATTAR BRANCH)",
+            "swift_code": "KHYBPKKAHAP"
+        },
+        {
+            "id": "451",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "PESHAWAR",
+            "branch": "(HAYATABAD BRANCH)",
+            "swift_code": "KHYBPKKAHYP"
+        },
+        {
+            "id": "452",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "PESHAWAR",
+            "branch": "(KHYBER BAZAR BRANCH)",
+            "swift_code": "KHYBPKKAKBP"
+        },
+        {
+            "id": "453",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "PESHAWAR",
+            "branch": "(MAIN BRANCH)",
+            "swift_code": "KHYBPKKAPSH"
+        },
+        {
+            "id": "454",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "PESHAWAR",
+            "branch": "(SADDAR ROAD BRANCH)",
+            "swift_code": "KHYBPKKASRP"
+        },
+        {
+            "id": "455",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "PESHAWAR",
+            "branch": "(UNIVERSITY ROAD BRANCH)",
+            "swift_code": "KHYBPKKAURP"
+        },
+        {
+            "id": "456",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "PESHAWAR",
+            "branch": "(WARSAK ROAD BRANCH)",
+            "swift_code": "KHYBPKKAWRP"
+        },
+        {
+            "id": "457",
             "bank": "BANK OF KHYBER, THE",
             "city": "PESHAWAR",
             "branch": null,
             "swift_code": "KHYBPKKA"
         },
         {
-            "id": "429",
+            "id": "458",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "QUETTA",
+            "branch": "(QANDHARI BAZAR BRANCH)",
+            "swift_code": "KHYBPKKAQBQ"
+        },
+        {
+            "id": "459",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "QUETTA",
+            "branch": "(QUETTA BRANCH)",
+            "swift_code": "KHYBPKKAQTA"
+        },
+        {
+            "id": "460",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "RAWALPINDI",
+            "branch": "(BANK ROAD BRANCH)",
+            "swift_code": "KHYBPKKABRR"
+        },
+        {
+            "id": "461",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "RAWALPINDI",
+            "branch": "(JINNAH ROAD BRANCH)",
+            "swift_code": "KHYBPKKAJRR"
+        },
+        {
+            "id": "462",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "SAHIWAL",
+            "branch": "(SAHIWAL BRANCH)",
+            "swift_code": "KHYBPKKASAH"
+        },
+        {
+            "id": "463",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "SARGODHA",
+            "branch": "(SARGODHA BRANCH)",
+            "swift_code": "KHYBPKKASGD"
+        },
+        {
+            "id": "464",
+            "bank": "BANK OF KHYBER, THE",
+            "city": "SIALKOT",
+            "branch": "(SIALKOT BRANCH)",
+            "swift_code": "KHYBPKKASKT"
+        },
+        {
+            "id": "465",
             "bank": "BANK OF PUNJAB, THE",
             "city": "FAISALABAD",
             "branch": "(RAILWAY ROAD BRANCH)",
             "swift_code": "BPUNPKKA010"
         },
         {
-            "id": "430",
+            "id": "466",
             "bank": "BANK OF PUNJAB, THE",
             "city": "GUJRANWALA",
             "branch": "(TRUST PLAZA BRANCH)",
             "swift_code": "BPUNPKKA011"
         },
         {
-            "id": "431",
+            "id": "467",
             "bank": "BANK OF PUNJAB, THE",
             "city": "KARACHI",
             "branch": "(TPC KARACHI)",
             "swift_code": "BPUNPKKA239"
         },
         {
-            "id": "432",
+            "id": "468",
             "bank": "BANK OF PUNJAB, THE",
             "city": "KARACHI",
             "branch": null,
             "swift_code": "BPUNPKKA"
         },
         {
-            "id": "433",
+            "id": "469",
             "bank": "BANK OF PUNJAB, THE",
             "city": "LAHORE",
             "branch": "(BANK SQUARE BRANCH)",
             "swift_code": "BPUNPKKA024"
         },
         {
-            "id": "434",
+            "id": "470",
             "bank": "BANK OF PUNJAB, THE",
             "city": "LAHORE",
             "branch": "(M.M TOWER BRANCH, LAHORE)",
             "swift_code": "BPUNPKKA052"
         },
         {
-            "id": "435",
+            "id": "471",
             "bank": "BANK OF PUNJAB, THE",
             "city": "LAHORE",
             "branch": "(MAIN BRANCH)",
             "swift_code": "BPUNPKKA002"
         },
         {
-            "id": "436",
+            "id": "472",
             "bank": "BANK OF PUNJAB, THE",
             "city": "MULTAN",
             "branch": "(NUSRAT ROAD BRANCH)",
             "swift_code": "BPUNPKKA004"
         },
         {
-            "id": "437",
+            "id": "473",
+            "bank": "BANK OF PUNJAB, THE",
+            "city": "PESHAWAR",
+            "branch": "(SADDAR ROAD BRANCH)",
+            "swift_code": "BPUNPKKA241"
+        },
+        {
+            "id": "474",
             "bank": "BANK OF PUNJAB, THE",
             "city": "RAWALPINDI",
             "branch": "(GUL-E-AKRA PLAZA BRANCH)",
             "swift_code": "BPUNPKKA014"
         },
         {
-            "id": "438",
+            "id": "475",
             "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
             "city": "KARACHI",
             "branch": "(KARACHI BRANCH)",
             "swift_code": "BOTKPKKA"
         },
         {
-            "id": "439",
+            "id": "476",
             "bank": "BANKISLAMI PAKISTAN LIMITED",
             "city": "KARACHI",
             "branch": null,
             "swift_code": "BKIPPKKA"
         },
         {
-            "id": "440",
-            "bank": "BARCLAYS BANK PLC",
-            "city": "KARACHI",
-            "branch": null,
-            "swift_code": "BARCPKKA"
-        },
-        {
-            "id": "441",
+            "id": "477",
             "bank": "BURJ BANK LIMITED",
             "city": "KARACHI",
             "branch": null,
             "swift_code": "BURJPKKA"
         },
         {
-            "id": "442",
+            "id": "478",
             "bank": "CITIBANK N.A.",
             "city": "FAISALABAD",
             "branch": null,
             "swift_code": "CITIPKKXFAI"
         },
         {
-            "id": "443",
+            "id": "479",
             "bank": "CITIBANK N.A.",
             "city": "KARACHI",
             "branch": "(TRADE SERVICES DEPARTMENT - ALL BRANCHES)",
             "swift_code": "CITIPKKXTRD"
         },
         {
-            "id": "444",
+            "id": "480",
             "bank": "CITIBANK N.A.",
             "city": "KARACHI",
             "branch": null,
             "swift_code": "CITIPKKX"
         },
         {
-            "id": "445",
+            "id": "481",
             "bank": "CITIBANK N.A.",
             "city": "LAHORE",
             "branch": null,
             "swift_code": "CITIPKKXLAH"
         },
         {
-            "id": "446",
+            "id": "482",
             "bank": "CITIBANK N.A.",
             "city": "RAWALPINDI",
             "branch": null,
             "swift_code": "CITIPKKXRAW"
         },
         {
-            "id": "447",
+            "id": "483",
             "bank": "DEUTSCHE BANK AG, KARACHI BRANCH",
             "city": "ISLAMABAD",
             "branch": "(ISLAMABAD)",
             "swift_code": "DEUTPKKAISB"
         },
         {
-            "id": "448",
+            "id": "484",
             "bank": "DEUTSCHE BANK AG, KARACHI BRANCH",
             "city": "KARACHI",
             "branch": null,
             "swift_code": "DEUTPKKA"
         },
         {
-            "id": "449",
+            "id": "485",
             "bank": "DEUTSCHE BANK AG, KARACHI BRANCH",
             "city": "LAHORE",
             "branch": "(LAHORE BRANCH)",
             "swift_code": "DEUTPKKALHR"
         },
         {
-            "id": "450",
+            "id": "486",
             "bank": "DUBAI ISLAMIC BANK PAKISTAN LIMITED",
             "city": "KARACHI",
             "branch": null,
             "swift_code": "DUIBPKKA"
         },
         {
-            "id": "451",
+            "id": "487",
             "bank": "FAYSAL BANK LIMITED",
             "city": "FAISALABAD",
             "branch": "(FAISALABAD BRANCH)",
             "swift_code": "FAYSPKKA111"
         },
         {
-            "id": "452",
+            "id": "488",
             "bank": "FAYSAL BANK LIMITED",
             "city": "ISLAMABAD",
             "branch": "(F-10 MARKAZ BRANCH)",
             "swift_code": "FAYSPKKA126"
         },
         {
-            "id": "453",
+            "id": "489",
             "bank": "FAYSAL BANK LIMITED",
             "city": "ISLAMABAD",
             "branch": "(ISLAMABAD BLUE AREA BRANCH)",
             "swift_code": "FAYSPKKA113"
         },
         {
-            "id": "454",
+            "id": "490",
             "bank": "FAYSAL BANK LIMITED",
             "city": "KARACHI",
             "branch": "(CLIFTON BRANCH)",
             "swift_code": "FAYSPKKA118"
         },
         {
-            "id": "455",
+            "id": "491",
             "bank": "FAYSAL BANK LIMITED",
             "city": "KARACHI",
             "branch": "(DHA-KARACHI BRANCH)",
             "swift_code": "FAYSPKKA124"
         },
         {
-            "id": "456",
+            "id": "492",
             "bank": "FAYSAL BANK LIMITED",
             "city": "KARACHI",
             "branch": "(GULSHAN-E-IQBAL BRANCH)",
             "swift_code": "FAYSPKKA119"
         },
         {
-            "id": "457",
+            "id": "493",
             "bank": "FAYSAL BANK LIMITED",
             "city": "KARACHI",
             "branch": "(JODIA BAZAR BRANCH)",
             "swift_code": "FAYSPKKA123"
         },
         {
-            "id": "458",
+            "id": "494",
             "bank": "FAYSAL BANK LIMITED",
             "city": "KARACHI",
             "branch": "(SHAHEED-E-MILLAT BRANCH, KARACHI)",
             "swift_code": "FAYSPKKA127"
         },
         {
-            "id": "459",
+            "id": "495",
             "bank": "FAYSAL BANK LIMITED",
             "city": "KARACHI",
             "branch": null,
             "swift_code": "FAYSPKKA"
         },
         {
-            "id": "460",
+            "id": "496",
             "bank": "FAYSAL BANK LIMITED",
             "city": "LAHORE",
             "branch": "(DHA-LAHORE BRANCH)",
             "swift_code": "FAYSPKKA125"
         },
         {
-            "id": "461",
+            "id": "497",
             "bank": "FAYSAL BANK LIMITED",
             "city": "LAHORE",
             "branch": "(GULBERG BRANCH)",
             "swift_code": "FAYSPKKA117"
         },
         {
-            "id": "462",
+            "id": "498",
             "bank": "FAYSAL BANK LIMITED",
             "city": "LAHORE",
             "branch": "(LAHORE MALL BRANCH)",
             "swift_code": "FAYSPKKA112"
         },
         {
-            "id": "463",
+            "id": "499",
             "bank": "FAYSAL BANK LIMITED",
             "city": "MIRPUR",
             "branch": "(MIRPUR -AJ AND K- BRANCH)",
             "swift_code": "FAYSPKKA116"
         },
         {
-            "id": "464",
+            "id": "500",
             "bank": "FAYSAL BANK LIMITED",
             "city": "MULTAN",
             "branch": "(MULTAN BRANCH)",
             "swift_code": "FAYSPKKA121"
         },
         {
-            "id": "465",
+            "id": "501",
             "bank": "FAYSAL BANK LIMITED",
             "city": "PESHAWAR",
             "branch": "(PESHAWAR BRANCH)",
             "swift_code": "FAYSPKKA114"
         },
         {
-            "id": "466",
+            "id": "502",
             "bank": "FAYSAL BANK LIMITED",
             "city": "QUETTA",
             "branch": "(QUETTA BRANCH)",
             "swift_code": "FAYSPKKA115"
         },
         {
-            "id": "467",
+            "id": "503",
             "bank": "FAYSAL BANK LIMITED",
             "city": "RAWALPINDI",
             "branch": "(RAWALPINDI BRANCH)",
             "swift_code": "FAYSPKKA120"
         },
         {
-            "id": "468",
+            "id": "504",
             "bank": "FAYSAL BANK LIMITED",
             "city": "SIALKOT",
             "branch": "(SIALKOT BRANCH)",
             "swift_code": "FAYSPKKA122"
         },
         {
-            "id": "469",
+            "id": "505",
             "bank": "FIRST WOMEN BANK LIMITED",
             "city": "KARACHI",
             "branch": null,
             "swift_code": "FWOMPKKA"
         },
         {
-            "id": "470",
+            "id": "506",
             "bank": "HABIB BANK LIMITED",
             "city": "FAISALABAD",
             "branch": "(ALLAMA IQBAL ROAD BRANCH)",
             "swift_code": "HABBPKKA852"
         },
         {
-            "id": "471",
+            "id": "507",
             "bank": "HABIB BANK LIMITED",
             "city": "FAISALABAD",
             "branch": "(CIRCULAR ROAD BRANCH)",
             "swift_code": "HABBPKKA143"
         },
         {
-            "id": "472",
+            "id": "508",
             "bank": "HABIB BANK LIMITED",
             "city": "FAISALABAD",
             "branch": "(CORPORATE CENTRE)",
             "swift_code": "HABBPKKA152"
         },
         {
-            "id": "473",
+            "id": "509",
             "bank": "HABIB BANK LIMITED",
             "city": "FAISALABAD",
             "branch": "(D.GROUND P.COLONY BRANCH)",
             "swift_code": "HABBPKKA683"
         },
         {
-            "id": "474",
+            "id": "510",
             "bank": "HABIB BANK LIMITED",
             "city": "FAISALABAD",
             "branch": "(MADINA TOWN BRANCH)",
             "swift_code": "HABBPKKA748"
         },
         {
-            "id": "475",
+            "id": "511",
             "bank": "HABIB BANK LIMITED",
             "city": "GUJRANWALA",
             "branch": "(BANK SQUARE BRANCH)",
             "swift_code": "HABBPKKA109"
         },
         {
-            "id": "476",
+            "id": "512",
             "bank": "HABIB BANK LIMITED",
             "city": "GUJRANWALA",
             "branch": "(G.T. ROAD BRANCH)",
             "swift_code": "HABBPKKA682"
         },
         {
-            "id": "477",
+            "id": "513",
             "bank": "HABIB BANK LIMITED",
             "city": "GUJRAT",
             "branch": "(CIRCULAR ROAD BRANCH)",
             "swift_code": "HABBPKKA111"
         },
         {
-            "id": "478",
+            "id": "514",
             "bank": "HABIB BANK LIMITED",
             "city": "HYDERABAD",
             "branch": "(CORPORATE CENTRE)",
             "swift_code": "HABBPKKA260"
         },
         {
-            "id": "479",
+            "id": "515",
             "bank": "HABIB BANK LIMITED",
             "city": "HYDERABAD",
             "branch": "(STATION ROAD BRANCH)",
             "swift_code": "HABBPKKA068"
         },
         {
-            "id": "480",
+            "id": "516",
             "bank": "HABIB BANK LIMITED",
             "city": "ISLAMABAD",
             "branch": "(CDA CIVIC CENTRE BRANCH)",
             "swift_code": "HABBPKKA602"
         },
         {
-            "id": "481",
+            "id": "517",
             "bank": "HABIB BANK LIMITED",
             "city": "ISLAMABAD",
             "branch": "(ISLAMABAD CORPORATE CENTRE)",
             "swift_code": "HABBPKKA874"
         },
         {
-            "id": "482",
+            "id": "518",
             "bank": "HABIB BANK LIMITED",
             "city": "JHANG",
             "branch": "(SHAHEED ROAD BRANCH)",
             "swift_code": "HABBPKKA114"
         },
         {
-            "id": "483",
+            "id": "519",
             "bank": "HABIB BANK LIMITED",
             "city": "KARACHI",
             "branch": "(BAHADURABAD BRANCH)",
             "swift_code": "HABBPKKA526"
         },
         {
-            "id": "484",
+            "id": "520",
             "bank": "HABIB BANK LIMITED",
             "city": "KARACHI",
             "branch": "(CENTRAL BRANCH)",
             "swift_code": "HABBPKKA786"
         },
         {
-            "id": "485",
+            "id": "521",
             "bank": "HABIB BANK LIMITED",
             "city": "KARACHI",
             "branch": "(CENTRAL PROCESSING UNIT - GLOBAL OPERATIONS)",
             "swift_code": "HABBPKKATIC"
         },
         {
-            "id": "486",
+            "id": "522",
             "bank": "HABIB BANK LIMITED",
             "city": "KARACHI",
             "branch": "(CLOTH MARKET BRANCH)",
             "swift_code": "HABBPKKA004"
         },
         {
-            "id": "487",
+            "id": "523",
             "bank": "HABIB BANK LIMITED",
             "city": "KARACHI",
             "branch": "(CORPORATE SUB-CENTRE-PIA BRANCH)",
             "swift_code": "HABBPKKA048"
         },
         {
-            "id": "488",
+            "id": "524",
             "bank": "HABIB BANK LIMITED",
             "city": "KARACHI",
             "branch": "(F.T.C. CORPORATE CENTRE)",
             "swift_code": "HABBPKKA216"
         },
         {
-            "id": "489",
+            "id": "525",
             "bank": "HABIB BANK LIMITED",
             "city": "KARACHI",
             "branch": "(FOREIGN EXCHANGE BRANCH - HABIB SQUARE)",
             "swift_code": "HABBPKKA007"
         },
         {
-            "id": "490",
+            "id": "526",
             "bank": "HABIB BANK LIMITED",
             "city": "KARACHI",
             "branch": "(HEAD OFFICE - TREASURY)",
             "swift_code": "HABBPKKATRY"
         },
         {
-            "id": "491",
+            "id": "527",
             "bank": "HABIB BANK LIMITED",
             "city": "KARACHI",
             "branch": "(INDUSTRIAL ESTATE CORPORATE CENTRE)",
             "swift_code": "HABBPKKA947"
         },
         {
-            "id": "492",
+            "id": "528",
             "bank": "HABIB BANK LIMITED",
             "city": "KARACHI",
             "branch": "(K-I-AREA-CORPORATE CENTRE)",
             "swift_code": "HABBPKKA523"
         },
         {
-            "id": "493",
+            "id": "529",
             "bank": "HABIB BANK LIMITED",
             "city": "KARACHI",
             "branch": "(NAPIER ROAD BRANCH)",
             "swift_code": "HABBPKKA023"
         },
         {
-            "id": "494",
+            "id": "530",
             "bank": "HABIB BANK LIMITED",
             "city": "KARACHI",
             "branch": "(NURSERY BRANCH)",
             "swift_code": "HABBPKKA027"
         },
         {
-            "id": "495",
+            "id": "531",
             "bank": "HABIB BANK LIMITED",
             "city": "KARACHI",
             "branch": "(OBU-K.E.P.Z. BRANCH)",
             "swift_code": "HABBPKKAEPZ"
         },
         {
-            "id": "496",
+            "id": "532",
             "bank": "HABIB BANK LIMITED",
             "city": "KARACHI",
             "branch": "(PAK A\/C - RECONCILIATION DIVISION - H.O.K)",
             "swift_code": "HABBPKKAREC"
         },
         {
-            "id": "497",
+            "id": "533",
             "bank": "HABIB BANK LIMITED",
             "city": "KARACHI",
             "branch": "(RTGS SERVICES)",
             "swift_code": "HABBPKKARTG"
         },
         {
-            "id": "498",
+            "id": "534",
             "bank": "HABIB BANK LIMITED",
             "city": "KARACHI",
             "branch": "(S.D.V. BRANCH)",
             "swift_code": "HABBPKKA034"
         },
         {
-            "id": "499",
+            "id": "535",
             "bank": "HABIB BANK LIMITED",
             "city": "KARACHI",
             "branch": "(S.I.T.E. CORPORATE CENTRE)",
             "swift_code": "HABBPKKA009"
         },
         {
-            "id": "500",
+            "id": "536",
             "bank": "HABIB BANK LIMITED",
             "city": "KARACHI",
             "branch": "(SADDAR BRANCH)",
             "swift_code": "HABBPKKA033"
         },
         {
-            "id": "501",
+            "id": "537",
             "bank": "HABIB BANK LIMITED",
             "city": "KARACHI",
             "branch": "(TARIQ ROAD BRANCH)",
             "swift_code": "HABBPKKA038"
         },
         {
-            "id": "502",
+            "id": "538",
             "bank": "HABIB BANK LIMITED",
             "city": "KARACHI",
             "branch": null,
             "swift_code": "HABBPKKA"
         },
         {
-            "id": "503",
+            "id": "539",
             "bank": "HABIB BANK LIMITED",
             "city": "LAHORE",
             "branch": "(BADAMI BAGH BRANCH)",
             "swift_code": "HABBPKKA122"
         },
         {
-            "id": "504",
+            "id": "540",
             "bank": "HABIB BANK LIMITED",
             "city": "LAHORE",
             "branch": "(BRANDRETH ROAD BRANCH)",
             "swift_code": "HABBPKKA124"
         },
         {
-            "id": "505",
+            "id": "541",
             "bank": "HABIB BANK LIMITED",
             "city": "LAHORE",
             "branch": "(CANTONMENT BRANCH)",
             "swift_code": "HABBPKKA125"
         },
         {
-            "id": "506",
+            "id": "542",
             "bank": "HABIB BANK LIMITED",
             "city": "LAHORE",
             "branch": "(CENTRE BRANCH)",
             "swift_code": "HABBPKKA242"
         },
         {
-            "id": "507",
+            "id": "543",
             "bank": "HABIB BANK LIMITED",
             "city": "LAHORE",
             "branch": "(L.D.A. PLAZA BRANCH)",
             "swift_code": "HABBPKKA315"
         },
         {
-            "id": "508",
+            "id": "544",
             "bank": "HABIB BANK LIMITED",
             "city": "LAHORE",
             "branch": "(MAIN MARKET GULBERG CENTRE BRANCH)",
             "swift_code": "HABBPKKA172"
         },
         {
-            "id": "509",
+            "id": "545",
             "bank": "HABIB BANK LIMITED",
             "city": "LAHORE",
             "branch": "(OPP. HIGH COURT BRANCH)",
             "swift_code": "HABBPKKA617"
         },
         {
-            "id": "510",
+            "id": "546",
             "bank": "HABIB BANK LIMITED",
             "city": "LAHORE",
             "branch": "(PANORAMA CENTRE BRANCH)",
             "swift_code": "HABBPKKA741"
         },
         {
-            "id": "511",
+            "id": "547",
             "bank": "HABIB BANK LIMITED",
             "city": "LAHORE",
             "branch": "(PECO ROAD BRANCH)",
             "swift_code": "HABBPKKA589"
         },
         {
-            "id": "512",
+            "id": "548",
             "bank": "HABIB BANK LIMITED",
             "city": "LAHORE",
             "branch": "(SHAH ALAM MARKET BRANCH)",
             "swift_code": "HABBPKKA134"
         },
         {
-            "id": "513",
+            "id": "549",
             "bank": "HABIB BANK LIMITED",
             "city": "LAHORE",
             "branch": "(THE MALL BRANCH)",
             "swift_code": "HABBPKKA135"
         },
         {
-            "id": "514",
+            "id": "550",
             "bank": "HABIB BANK LIMITED",
             "city": "LAHORE",
             "branch": "(WAPDA HOUSE BRANCH)",
             "swift_code": "HABBPKKA552"
         },
         {
-            "id": "515",
+            "id": "551",
             "bank": "HABIB BANK LIMITED",
             "city": "MIRPUR",
             "branch": "(MAIN BRANCH)",
             "swift_code": "HABBPKKA190"
         },
         {
-            "id": "516",
+            "id": "552",
             "bank": "HABIB BANK LIMITED",
             "city": "MULTAN",
             "branch": "(CANTONMENT BRANCH)",
             "swift_code": "HABBPKKA211"
         },
         {
-            "id": "517",
+            "id": "553",
             "bank": "HABIB BANK LIMITED",
             "city": "MULTAN",
             "branch": "(CORPORATE CENTRE)",
             "swift_code": "HABBPKKA270"
         },
         {
-            "id": "518",
+            "id": "554",
             "bank": "HABIB BANK LIMITED",
             "city": "MULTAN",
             "branch": "(HUSSAIN AGAHI BR. MULTAN BRANCH)",
             "swift_code": "HABBPKKA150"
         },
         {
-            "id": "519",
+            "id": "555",
             "bank": "HABIB BANK LIMITED",
             "city": "PESHAWAR",
             "branch": "(CANTONMENT BRANCH)",
             "swift_code": "HABBPKKA224"
         },
         {
-            "id": "520",
+            "id": "556",
             "bank": "HABIB BANK LIMITED",
             "city": "PESHAWAR",
             "branch": "(CITY BRANCH)",
             "swift_code": "HABBPKKA223"
         },
         {
-            "id": "521",
+            "id": "557",
             "bank": "HABIB BANK LIMITED",
             "city": "PESHAWAR",
             "branch": "(CORPORATE CENTRE)",
             "swift_code": "HABBPKKA959"
         },
         {
-            "id": "522",
+            "id": "558",
             "bank": "HABIB BANK LIMITED",
             "city": "QUETTA",
             "branch": "(COMPLEX BRANCH)",
             "swift_code": "HABBPKKA649"
         },
         {
-            "id": "523",
+            "id": "559",
             "bank": "HABIB BANK LIMITED",
             "city": "QUETTA",
             "branch": "(JINNAH ROAD BRANCH)",
             "swift_code": "HABBPKKA229"
         },
         {
-            "id": "524",
+            "id": "560",
             "bank": "HABIB BANK LIMITED",
             "city": "RAWALPINDI",
             "branch": "(CANTT. BRANCH)",
             "swift_code": "HABBPKKA155"
         },
         {
-            "id": "525",
+            "id": "561",
             "bank": "HABIB BANK LIMITED",
             "city": "RAWALPINDI",
             "branch": "(CITY BRANCH)",
             "swift_code": "HABBPKKA156"
         },
         {
-            "id": "526",
+            "id": "562",
             "bank": "HABIB BANK LIMITED",
             "city": "RAWALPINDI",
             "branch": "(S.D.V. BRANCH)",
             "swift_code": "HABBPKKA814"
         },
         {
-            "id": "527",
+            "id": "563",
             "bank": "HABIB BANK LIMITED",
             "city": "SAHIWAL",
             "branch": "(JINNAH CHOWK BRANCH)",
             "swift_code": "HABBPKKA147"
         },
         {
-            "id": "528",
+            "id": "564",
             "bank": "HABIB BANK LIMITED",
             "city": "SARGODHA",
             "branch": "(KUTCHERY BAZAR BRANCH)",
             "swift_code": "HABBPKKA162"
         },
         {
-            "id": "529",
+            "id": "565",
             "bank": "HABIB BANK LIMITED",
             "city": "SIALKOT",
             "branch": "(CITY BRANCH)",
             "swift_code": "HABBPKKA166"
         },
         {
-            "id": "530",
+            "id": "566",
             "bank": "HABIB BANK LIMITED",
             "city": "SIALKOT",
             "branch": "(CORPORATE CENTRE)",
             "swift_code": "HABBPKKA574"
         },
         {
-            "id": "531",
+            "id": "567",
             "bank": "HABIB BANK LIMITED",
             "city": "SIALKOT",
             "branch": "(M.F.ELAHI BLDG BRANCH)",
             "swift_code": "HABBPKKA541"
         },
         {
-            "id": "532",
+            "id": "568",
             "bank": "HABIB BANK LIMITED",
             "city": "SIALKOT",
             "branch": "(SMALL INDUSTRIAL ESTATE BRANCH)",
             "swift_code": "HABBPKKA285"
         },
         {
-            "id": "533",
+            "id": "569",
             "bank": "HABIB BANK LIMITED",
             "city": "SUKKUR",
             "branch": "(FRERE ROAD BRANCH)",
             "swift_code": "HABBPKKA082"
         },
         {
-            "id": "534",
+            "id": "570",
             "bank": "HABIB BANK LIMITED",
             "city": "WAH CANTT",
             "branch": "(WAH CANTT BRANCH)",
             "swift_code": "HABBPKKA170"
         },
         {
-            "id": "535",
+            "id": "571",
             "bank": "HABIB BANK LIMITED",
             "city": "WAZIRABAD",
             "branch": "(MAIN BAZAR BRANCH)",
             "swift_code": "HABBPKKA464"
         },
         {
-            "id": "536",
+            "id": "572",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "FAISALABAD",
             "branch": "(FAISALABAD BRANCH)",
             "swift_code": "MPBLPKKA009"
         },
         {
-            "id": "537",
+            "id": "573",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "FAISALABAD",
             "branch": "(SARGODHA ROAD BRANCH)",
             "swift_code": "MPBLPKKA054"
         },
         {
-            "id": "538",
+            "id": "574",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "GUJRANWALA",
             "branch": "(GUJRANWALA BRANCH)",
             "swift_code": "MPBLPKKA019"
         },
         {
-            "id": "539",
+            "id": "575",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "HYDERABAD",
             "branch": "(HYDERABAD BRANCH)",
             "swift_code": "MPBLPKKA007"
         },
         {
-            "id": "540",
+            "id": "576",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "ISLAMABAD",
             "branch": "(F-10 MARKAZ BRANCH)",
             "swift_code": "MPBLPKKA047"
         },
         {
-            "id": "541",
+            "id": "577",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "ISLAMABAD",
             "branch": "(ISLAMABAD BRANCH)",
             "swift_code": "MPBLPKKA010"
         },
         {
-            "id": "542",
+            "id": "578",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(ALAMGIR ROAD BRANCH)",
             "swift_code": "MPBLPKKA029"
         },
         {
-            "id": "543",
+            "id": "579",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(ALLAMA IQBAL ROAD BRANCH)",
             "swift_code": "MPBLPKKA081"
         },
         {
-            "id": "544",
+            "id": "580",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(BOAT BASIN CLIFTON BRANCH)",
             "swift_code": "MPBLPKKA051"
         },
         {
-            "id": "545",
+            "id": "581",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(BUSINESS AVENUE BRANCH)",
             "swift_code": "MPBLPKKA065"
         },
         {
-            "id": "546",
+            "id": "582",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(CENTRAL EXPORT UNIT)",
             "swift_code": "MPBLPKKACEU"
         },
         {
-            "id": "547",
+            "id": "583",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(CENTRAL IMPORT UNIT)",
             "swift_code": "MPBLPKKACIU"
         },
         {
-            "id": "548",
+            "id": "584",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(CERAMIC MARKET BRANCH)",
             "swift_code": "MPBLPKKA040"
         },
         {
-            "id": "549",
+            "id": "585",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(CITY COURT BRANCH)",
             "swift_code": "MPBLPKKA058"
         },
         {
-            "id": "550",
+            "id": "586",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(CLOTH MARKET BRANCH)",
             "swift_code": "MPBLPKKA011"
         },
         {
-            "id": "551",
+            "id": "587",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(D.H.A. BRANCH)",
             "swift_code": "MPBLPKKA024"
         },
         {
-            "id": "552",
+            "id": "588",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(DHA PHASE II BRANCH)",
             "swift_code": "MPBLPKKA077"
         },
         {
-            "id": "553",
+            "id": "589",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(DHORAJI BRANCH)",
             "swift_code": "MPBLPKKA033"
         },
         {
-            "id": "554",
+            "id": "590",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(GULISTAN-E-JOHAR BRANCH)",
             "swift_code": "MPBLPKKA078"
         },
         {
-            "id": "555",
+            "id": "591",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(GULSHAN CHOWRANGI BRANCH)",
             "swift_code": "MPBLPKKA037"
         },
         {
-            "id": "556",
+            "id": "592",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(GULSHAN-E-IQBAL BRANCH)",
             "swift_code": "MPBLPKKA014"
         },
         {
-            "id": "557",
+            "id": "593",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(HBZ BAHADURABAD BRANCH)",
             "swift_code": "MPBLPKKA068"
         },
         {
-            "id": "558",
+            "id": "594",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(HBZ CLIFTON BRANCH)",
             "swift_code": "MPBLPKKA057"
         },
         {
-            "id": "559",
+            "id": "595",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(HBZ ISLAMIC BANKING BRANCH)",
             "swift_code": "MPBLPKKA064"
         },
         {
-            "id": "560",
+            "id": "596",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(HBZ PLAZA BRANCH)",
             "swift_code": "MPBLPKKA052"
         },
         {
-            "id": "561",
+            "id": "597",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(HYDERI BRANCH)",
             "swift_code": "MPBLPKKA031"
         },
         {
-            "id": "562",
+            "id": "598",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(ISLAMIC BANKING BRANCH)",
             "swift_code": "MPBLPKKA043"
         },
         {
-            "id": "563",
+            "id": "599",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(JODIA BAZAR BRANCH)",
             "swift_code": "MPBLPKKA015"
         },
         {
-            "id": "564",
+            "id": "600",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(KARACHI STOCK EXCHANGE BRANCH)",
             "swift_code": "MPBLPKKA018"
         },
         {
-            "id": "565",
+            "id": "601",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(KARIMABAD BRANCH)",
             "swift_code": "MPBLPKKA022"
         },
         {
-            "id": "566",
+            "id": "602",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(KHALID BIN WALID BRANCH)",
             "swift_code": "MPBLPKKA038"
         },
         {
-            "id": "567",
+            "id": "603",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(KHAYABAN-E-ITTEHAD BRANCH)",
             "swift_code": "MPBLPKKA030"
         },
         {
-            "id": "568",
+            "id": "604",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(KHAYABAN-E-SHAHBAZ BRANCH)",
             "swift_code": "MPBLPKKA070"
         },
         {
-            "id": "569",
+            "id": "605",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(KORANGI BRANCH)",
             "swift_code": "MPBLPKKA026"
         },
         {
-            "id": "570",
+            "id": "606",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(KORANGI INDUSTRIAL AREA BRANCH)",
             "swift_code": "MPBLPKKA062"
         },
         {
-            "id": "571",
+            "id": "607",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(LANDHI BRANCH)",
             "swift_code": "MPBLPKKA039"
         },
         {
-            "id": "572",
+            "id": "608",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(LINES AREA BRANCH)",
             "swift_code": "MPBLPKKA083"
         },
         {
-            "id": "573",
+            "id": "609",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(M.A.JINNAH ROAD BRANCH)",
             "swift_code": "MPBLPKKA020"
         },
         {
-            "id": "574",
+            "id": "610",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(MAIN BRANCH)",
             "swift_code": "MPBLPKKA001"
         },
         {
-            "id": "575",
+            "id": "611",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(MANGOPIR ROAD BRANCH)",
             "swift_code": "MPBLPKKA075"
         },
         {
-            "id": "576",
+            "id": "612",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(MARRIOT ROAD BRANCH)",
             "swift_code": "MPBLPKKA063"
         },
         {
-            "id": "577",
+            "id": "613",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(MEREWEATHER BRANCH)",
             "swift_code": "MPBLPKKA056"
         },
         {
-            "id": "578",
+            "id": "614",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(MISSION ROAD BRANCH)",
             "swift_code": "MPBLPKKA073"
         },
         {
-            "id": "579",
+            "id": "615",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(NORTH KARACHI INDUSTRIAL AREA BRANCH)",
             "swift_code": "MPBLPKKA035"
         },
         {
-            "id": "580",
+            "id": "616",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(NORTH NAPIER ROAD BRANCH)",
             "swift_code": "MPBLPKKA021"
         },
         {
-            "id": "581",
+            "id": "617",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(NORTH NAZIMABAD BRANCH)",
             "swift_code": "MPBLPKKA071"
         },
         {
-            "id": "582",
+            "id": "618",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(PAPER MARKET BRANCH)",
             "swift_code": "MPBLPKKA013"
         },
         {
-            "id": "583",
+            "id": "619",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(PAPOSH NAGAR BRANCH)",
             "swift_code": "MPBLPKKA041"
         },
         {
-            "id": "584",
+            "id": "620",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(PLAZA SQUARE BRANCH)",
             "swift_code": "MPBLPKKA059"
         },
         {
-            "id": "585",
+            "id": "621",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(PREEDY STREET BRANCH)",
             "swift_code": "MPBLPKKA066"
         },
         {
-            "id": "586",
+            "id": "622",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(RASHID MINHAS ROAD BRANCH)",
             "swift_code": "MPBLPKKA072"
         },
         {
-            "id": "587",
+            "id": "623",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(S.I.T.E. BRANCH)",
             "swift_code": "MPBLPKKA023"
         },
         {
-            "id": "588",
+            "id": "624",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(SADDAR BRANCH)",
             "swift_code": "MPBLPKKA028"
         },
         {
-            "id": "589",
+            "id": "625",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(SHARAH-E-FAISAL BRANCH)",
             "swift_code": "MPBLPKKA012"
         },
         {
-            "id": "590",
+            "id": "626",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(SHERSHAH BRANCH)",
             "swift_code": "MPBLPKKA045"
         },
         {
-            "id": "591",
+            "id": "627",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(SITE AVENUE BRANCH)",
             "swift_code": "MPBLPKKA060"
         },
         {
-            "id": "592",
+            "id": "628",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(SOLDIER BAZAR BRANCH)",
             "swift_code": "MPBLPKKA079"
         },
         {
-            "id": "593",
+            "id": "629",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(TEXTILE PLAZA BRANCH)",
             "swift_code": "MPBLPKKA042"
         },
         {
-            "id": "594",
+            "id": "630",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(TIMBER MARKET BRANCH)",
             "swift_code": "MPBLPKKA027"
         },
         {
-            "id": "595",
+            "id": "631",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(TREASURY DEPT. , HEAD OFFICE)",
             "swift_code": "MPBLPKKA092"
         },
         {
-            "id": "596",
+            "id": "632",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(U.P. MORE BRANCH)",
             "swift_code": "MPBLPKKA080"
         },
         {
-            "id": "597",
+            "id": "633",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(UNIVERSITY ROAD BRANCH)",
             "swift_code": "MPBLPKKA050"
         },
         {
-            "id": "598",
+            "id": "634",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(WATER PUMP BRANCH)",
             "swift_code": "MPBLPKKA044"
         },
         {
-            "id": "599",
+            "id": "635",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KARACHI",
             "branch": null,
             "swift_code": "MPBLPKKA"
         },
         {
-            "id": "600",
+            "id": "636",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "KASUR",
             "branch": "(KASUR BRANCH)",
             "swift_code": "MPBLPKKA017"
         },
         {
-            "id": "601",
+            "id": "637",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "LAHORE",
             "branch": "(BADAMI BAGH BRANCH)",
             "swift_code": "MPBLPKKA046"
         },
         {
-            "id": "602",
+            "id": "638",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "LAHORE",
             "branch": "(BAGHBANPURA BRANCH)",
             "swift_code": "MPBLPKKA067"
         },
         {
-            "id": "603",
+            "id": "639",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "LAHORE",
             "branch": "(CIRCULAR ROAD BRANCH)",
             "swift_code": "MPBLPKKA032"
         },
         {
-            "id": "604",
+            "id": "640",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "LAHORE",
             "branch": "(DAVIS ROAD BRANCH)",
             "swift_code": "MPBLPKKA053"
         },
         {
-            "id": "605",
+            "id": "641",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "LAHORE",
             "branch": "(DEFENCE BRANCH)",
             "swift_code": "MPBLPKKA034"
         },
         {
-            "id": "606",
+            "id": "642",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "LAHORE",
             "branch": "(GARDEN TOWN BRANCH)",
             "swift_code": "MPBLPKKA074"
         },
         {
-            "id": "607",
+            "id": "643",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "LAHORE",
             "branch": "(GULBERG BRANCH)",
             "swift_code": "MPBLPKKA025"
         },
         {
-            "id": "608",
+            "id": "644",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "LAHORE",
             "branch": "(ISLAMIC BANKING GULBERG BRANCH)",
             "swift_code": "MPBLPKKA082"
         },
         {
-            "id": "609",
+            "id": "645",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "LAHORE",
             "branch": "(LAHORE BRANCH)",
             "swift_code": "MPBLPKKA002"
         },
         {
-            "id": "610",
+            "id": "646",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "LAHORE",
             "branch": "(MAIN BOULEVARD BRANCH)",
             "swift_code": "MPBLPKKA061"
         },
         {
-            "id": "611",
+            "id": "647",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "LAHORE",
             "branch": "(MODEL TOWN BRANCH)",
             "swift_code": "MPBLPKKA048"
         },
         {
-            "id": "612",
+            "id": "648",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "LAHORE",
             "branch": "(RAIWIND ROAD BRANCH)",
             "swift_code": "MPBLPKKA069"
         },
         {
-            "id": "613",
+            "id": "649",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "LAHORE",
             "branch": "(RAVI ROAD BRANCH)",
             "swift_code": "MPBLPKKA076"
         },
         {
-            "id": "614",
+            "id": "650",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "LAHORE",
             "branch": "(SHAHRAH-E-QUAID-E-AZAM BRANCH)",
             "swift_code": "MPBLPKKA084"
         },
         {
-            "id": "615",
+            "id": "651",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "MIRPUR",
             "branch": "(MIRPUR (A.K.) BRANCH)",
             "swift_code": "MPBLPKKA005"
         },
         {
-            "id": "616",
+            "id": "652",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "MULTAN",
             "branch": "(MULTAN BRANCH)",
             "swift_code": "MPBLPKKA008"
         },
         {
-            "id": "617",
+            "id": "653",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "PESHAWAR",
             "branch": "(PESHAWAR BRANCH)",
             "swift_code": "MPBLPKKA003"
         },
         {
-            "id": "618",
+            "id": "654",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "QUETTA",
             "branch": "(QUETTA BRANCH)",
             "swift_code": "MPBLPKKA004"
         },
         {
-            "id": "619",
+            "id": "655",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "RAHIMYAR KHAN",
             "branch": "(RAHIM YAR KHAN BRANCH)",
             "swift_code": "MPBLPKKA016"
         },
         {
-            "id": "620",
+            "id": "656",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "RAWALPINDI",
             "branch": "(MURREE ROAD BRANCH)",
             "swift_code": "MPBLPKKA055"
         },
         {
-            "id": "621",
+            "id": "657",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "RAWALPINDI",
             "branch": "(RAWALPINDI BRANCH)",
             "swift_code": "MPBLPKKA036"
         },
         {
-            "id": "622",
+            "id": "658",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "SIALKOT",
             "branch": "(SIALKOT BRANCH)",
             "swift_code": "MPBLPKKA006"
         },
         {
-            "id": "623",
+            "id": "659",
             "bank": "HABIB METROPOLITAN BANK LIMITED",
             "city": "SIALKOT",
             "branch": "(SMALL INDUSTRIAL ESTATES BRANCH)",
             "swift_code": "MPBLPKKA049"
         },
         {
-            "id": "624",
+            "id": "660",
             "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, KARACHI BRANCH",
             "city": "KARACHI",
             "branch": null,
             "swift_code": "ICBKPKKA"
         },
         {
-            "id": "625",
+            "id": "661",
             "bank": "JS BANK LIMITED",
             "city": "KARACHI",
             "branch": null,
             "swift_code": "JSBLPKKA"
         },
         {
-            "id": "626",
-            "bank": "KASB BANK LIMITED",
-            "city": "ISLAMABAD",
-            "branch": "(ISLAMABAD BRANCH)",
-            "swift_code": "PLCOPKKA005"
-        },
-        {
-            "id": "627",
-            "bank": "KASB BANK LIMITED",
-            "city": "KARACHI",
-            "branch": "(CENTRALIZED OPS)",
-            "swift_code": "PLCOPKKA011"
-        },
-        {
-            "id": "628",
-            "bank": "KASB BANK LIMITED",
-            "city": "KARACHI",
-            "branch": "(F.I. AND I.D.)",
-            "swift_code": "PLCOPKKA001"
-        },
-        {
-            "id": "629",
-            "bank": "KASB BANK LIMITED",
-            "city": "KARACHI",
-            "branch": "(I.I. CHUNDRIGAR ROAD BRANCH)",
-            "swift_code": "PLCOPKKAKHI"
-        },
-        {
-            "id": "630",
-            "bank": "KASB BANK LIMITED",
-            "city": "KARACHI",
-            "branch": "(TRADE FINANCE PROCESSING CENTRE)",
-            "swift_code": "PLCOPKKA002"
-        },
-        {
-            "id": "631",
-            "bank": "KASB BANK LIMITED",
-            "city": "KARACHI",
-            "branch": "(TREASURY BACK OFFICE)",
-            "swift_code": "PLCOPKKATRY"
-        },
-        {
-            "id": "632",
-            "bank": "KASB BANK LIMITED",
-            "city": "KARACHI",
-            "branch": null,
-            "swift_code": "PLCOPKKA"
-        },
-        {
-            "id": "633",
+            "id": "662",
             "bank": "MCB BANK LIMITED",
             "city": "FAISALABAD",
             "branch": "(CIRCULAR ROAD)",
             "swift_code": "MUCBPKKACRF"
         },
         {
-            "id": "634",
+            "id": "663",
             "bank": "MCB BANK LIMITED",
             "city": "GUJRANWALA",
             "branch": "(BANK SQUARE)",
             "swift_code": "MUCBPKKABSG"
         },
         {
-            "id": "635",
+            "id": "664",
             "bank": "MCB BANK LIMITED",
             "city": "ISLAMABAD",
             "branch": "(MAIN CIVIC CENTRE BRANCH)",
             "swift_code": "MUCBPKKAMCC"
         },
         {
-            "id": "636",
+            "id": "665",
             "bank": "MCB BANK LIMITED",
             "city": "KARACHI",
             "branch": "(EXPORT PROCESSING ZONE)",
             "swift_code": "MUCBPKKAEPZ"
         },
         {
-            "id": "637",
+            "id": "666",
             "bank": "MCB BANK LIMITED",
             "city": "KARACHI",
             "branch": "(FINANCE AND TRADE CENTRE BRANCH)",
             "swift_code": "MUCBPKKAFTK"
         },
         {
-            "id": "638",
+            "id": "667",
             "bank": "MCB BANK LIMITED",
             "city": "KARACHI",
             "branch": "(JODIA BAZAR BRANCH)",
             "swift_code": "MUCBPKKAJBK"
         },
         {
-            "id": "639",
+            "id": "668",
             "bank": "MCB BANK LIMITED",
             "city": "KARACHI",
             "branch": "(MAIN BRANCH)",
             "swift_code": "MUCBPKKAMBK"
         },
         {
-            "id": "640",
+            "id": "669",
             "bank": "MCB BANK LIMITED",
             "city": "KARACHI",
             "branch": "(NEW CHALLI BRANCH)",
             "swift_code": "MUCBPKKANCK"
         },
         {
-            "id": "641",
+            "id": "670",
             "bank": "MCB BANK LIMITED",
             "city": "KARACHI",
             "branch": "(SHAHEEN COMPLEX BRANCH)",
             "swift_code": "MUCBPKKASCK"
         },
         {
-            "id": "642",
+            "id": "671",
             "bank": "MCB BANK LIMITED",
             "city": "KARACHI",
             "branch": "(TREASURY-RTGS)",
             "swift_code": "MUCBPKKARTG"
         },
         {
-            "id": "643",
+            "id": "672",
             "bank": "MCB BANK LIMITED",
             "city": "KARACHI",
             "branch": null,
             "swift_code": "MUCBPKKA"
         },
         {
-            "id": "644",
+            "id": "673",
             "bank": "MCB BANK LIMITED",
             "city": "LAHORE",
             "branch": "(ISLAMIC BANKING GROUP)",
             "swift_code": "MUCBPKKAIBG"
         },
         {
-            "id": "645",
+            "id": "674",
             "bank": "MCB BANK LIMITED",
             "city": "LAHORE",
             "branch": "(NILA GUMBAD BRANCH)",
             "swift_code": "MUCBPKKANGL"
         },
         {
-            "id": "646",
+            "id": "675",
             "bank": "MCB BANK LIMITED",
             "city": "MULTAN",
             "branch": "(HUSSAIN AGAHI ROAD BRANCH)",
             "swift_code": "MUCBPKKAHAM"
         },
         {
-            "id": "647",
+            "id": "676",
             "bank": "MCB BANK LIMITED",
             "city": "PESHAWAR",
             "branch": "(CHOWK YADGAR)",
             "swift_code": "MUCBPKKACYP"
         },
         {
-            "id": "648",
+            "id": "677",
             "bank": "MCB BANK LIMITED",
             "city": "SIALKOT",
             "branch": "(TRUNK BAZAR BRANCH)",
             "swift_code": "MUCBPKKATBS"
         },
         {
-            "id": "649",
+            "id": "678",
             "bank": "MEEZAN BANK LIMITED",
             "city": "FAISALABAD",
             "branch": "(CIVIL LINES)",
             "swift_code": "MEZNPKKAFSD"
         },
         {
-            "id": "650",
+            "id": "679",
             "bank": "MEEZAN BANK LIMITED",
             "city": "ISLAMABAD",
             "branch": "(JINNAH AVENUE)",
             "swift_code": "MEZNPKKAISD"
         },
         {
-            "id": "651",
+            "id": "680",
             "bank": "MEEZAN BANK LIMITED",
             "city": "KARACHI",
             "branch": "(NEW CHALLIE)",
             "swift_code": "MEZNPKKAK01"
         },
         {
-            "id": "652",
+            "id": "681",
             "bank": "MEEZAN BANK LIMITED",
             "city": "KARACHI",
             "branch": null,
             "swift_code": "MEZNPKKA"
         },
         {
-            "id": "653",
+            "id": "682",
             "bank": "MEEZAN BANK LIMITED",
             "city": "LAHORE",
             "branch": "(GULBERG)",
             "swift_code": "MEZNPKKALHR"
         },
         {
-            "id": "654",
+            "id": "683",
             "bank": "MEEZAN BANK LIMITED",
             "city": "MULTAN",
             "branch": "(NAWAH SHAHER)",
             "swift_code": "MEZNPKKAMTN"
         },
         {
-            "id": "655",
+            "id": "684",
             "bank": "NATIONAL BANK OF PAKISTAN",
             "city": "FAISALABAD",
             "branch": "(COOPRATE)",
             "swift_code": "NBPAPKKACOF"
         },
         {
-            "id": "656",
+            "id": "685",
             "bank": "NATIONAL BANK OF PAKISTAN",
             "city": "FAISALABAD",
             "branch": null,
             "swift_code": "NBPAPKKA02F"
         },
         {
-            "id": "657",
+            "id": "686",
             "bank": "NATIONAL BANK OF PAKISTAN",
             "city": "GUJRANWALA",
             "branch": null,
             "swift_code": "NBPAPKKA02G"
         },
         {
-            "id": "658",
+            "id": "687",
             "bank": "NATIONAL BANK OF PAKISTAN",
             "city": "HYDERABAD",
             "branch": null,
             "swift_code": "NBPAPKKA02H"
         },
         {
-            "id": "659",
+            "id": "688",
             "bank": "NATIONAL BANK OF PAKISTAN",
             "city": "ISLAMABAD",
             "branch": "(CORPORATE)",
             "swift_code": "NBPAPKKASMB"
         },
         {
-            "id": "660",
+            "id": "689",
             "bank": "NATIONAL BANK OF PAKISTAN",
             "city": "ISLAMABAD",
             "branch": null,
             "swift_code": "NBPAPKKA02I"
         },
         {
-            "id": "661",
+            "id": "690",
             "bank": "NATIONAL BANK OF PAKISTAN",
             "city": "KARACHI",
             "branch": "(CORPORATE BRANCH)",
             "swift_code": "NBPAPKKACPB"
         },
         {
-            "id": "662",
+            "id": "691",
             "bank": "NATIONAL BANK OF PAKISTAN",
             "city": "KARACHI",
             "branch": "(HEAD OFFICE)",
             "swift_code": "NBPAPKKA"
         },
         {
-            "id": "663",
+            "id": "692",
             "bank": "NATIONAL BANK OF PAKISTAN",
             "city": "KARACHI",
             "branch": "(HEAD OFFICE)",
             "swift_code": "NBPAPKKAITD"
         },
         {
-            "id": "664",
+            "id": "693",
             "bank": "NATIONAL BANK OF PAKISTAN",
             "city": "KARACHI",
             "branch": "(MAIN BRANCH)",
             "swift_code": "NBPAPKKAMBR"
         },
         {
-            "id": "665",
+            "id": "694",
             "bank": "NATIONAL BANK OF PAKISTAN",
             "city": "KARACHI",
             "branch": "(OVERSEAS BANKING OPERATIONS-HEAD OFFICE KARACHI)",
             "swift_code": "NBPAPKKANEC"
         },
         {
-            "id": "666",
+            "id": "695",
             "bank": "NATIONAL BANK OF PAKISTAN",
             "city": "LAHORE",
             "branch": "(COOPRATE BRANCH)",
             "swift_code": "NBPAPKKACBL"
         },
         {
-            "id": "667",
+            "id": "696",
             "bank": "NATIONAL BANK OF PAKISTAN",
             "city": "LAHORE",
             "branch": null,
             "swift_code": "NBPAPKKA02L"
         },
         {
-            "id": "668",
+            "id": "697",
             "bank": "NATIONAL BANK OF PAKISTAN",
             "city": "MIRPUR",
             "branch": "(MAIN BRANCH\/CORPORATE BRANCH)",
             "swift_code": "NBPAPKKA02U"
         },
         {
-            "id": "669",
+            "id": "698",
             "bank": "NATIONAL BANK OF PAKISTAN",
             "city": "MULTAN",
             "branch": "(COOPRATE BRANCH)",
             "swift_code": "NBPAPKKACBM"
         },
         {
-            "id": "670",
+            "id": "699",
             "bank": "NATIONAL BANK OF PAKISTAN",
             "city": "MULTAN",
             "branch": null,
             "swift_code": "NBPAPKKA02M"
         },
         {
-            "id": "671",
+            "id": "700",
             "bank": "NATIONAL BANK OF PAKISTAN",
             "city": "MUZAFFARABAD",
             "branch": null,
             "swift_code": "NBPAPKKA02Z"
         },
         {
-            "id": "672",
+            "id": "701",
             "bank": "NATIONAL BANK OF PAKISTAN",
             "city": "PESHAWAR",
             "branch": null,
             "swift_code": "NBPAPKKA02P"
         },
         {
-            "id": "673",
+            "id": "702",
             "bank": "NATIONAL BANK OF PAKISTAN",
             "city": "QUETTA",
             "branch": null,
             "swift_code": "NBPAPKKA02Q"
         },
         {
-            "id": "674",
+            "id": "703",
             "bank": "NATIONAL BANK OF PAKISTAN",
             "city": "RAWALPINDI",
             "branch": null,
             "swift_code": "NBPAPKKA02R"
         },
         {
-            "id": "675",
+            "id": "704",
             "bank": "NATIONAL BANK OF PAKISTAN",
             "city": "SIALKOT",
             "branch": "(DISTRICT COURT BRANCH)",
             "swift_code": "NBPAPKKA02S"
         },
         {
-            "id": "676",
+            "id": "705",
             "bank": "NIB BANK LIMITED",
             "city": "KARACHI",
             "branch": null,
             "swift_code": "NIBPPKKA"
         },
         {
-            "id": "677",
+            "id": "706",
             "bank": "SAMBA BANK LIMITED",
             "city": "KARACHI",
             "branch": null,
             "swift_code": "SAMBPKKA"
         },
         {
-            "id": "678",
+            "id": "707",
             "bank": "SILKBANK LIMITED",
             "city": "KARACHI",
             "branch": null,
             "swift_code": "SAUDPKKA"
         },
         {
-            "id": "679",
+            "id": "708",
             "bank": "SINDH BANK LIMITED",
             "city": "KARACHI",
             "branch": null,
             "swift_code": "SINDPKKA"
         },
         {
-            "id": "680",
+            "id": "709",
             "bank": "SONERI BANK LIMITED",
             "city": "BAHAWALPUR",
             "branch": "(BAHAWALPUR BRANCH)",
             "swift_code": "SONEPKKABWP"
         },
         {
-            "id": "681",
+            "id": "710",
             "bank": "SONERI BANK LIMITED",
             "city": "FAISALABAD",
             "branch": "(MAIN BRANCH,FAISALABAD)",
             "swift_code": "SONEPKKAFSD"
         },
         {
-            "id": "682",
+            "id": "711",
             "bank": "SONERI BANK LIMITED",
             "city": "GUJRANWALA",
             "branch": "(MAIN BRANCH GUNJRANWALA)",
             "swift_code": "SONEPKKAGJR"
         },
         {
-            "id": "683",
+            "id": "712",
             "bank": "SONERI BANK LIMITED",
             "city": "HYDERABAD",
             "branch": "(MAIN BRANCH, HYDERABAD)",
             "swift_code": "SONEPKKAHYD"
         },
         {
-            "id": "684",
+            "id": "713",
             "bank": "SONERI BANK LIMITED",
             "city": "ISLAMABAD",
             "branch": "(MAIN BRANCH ISMAMABAD)",
             "swift_code": "SONEPKKAISD"
         },
         {
-            "id": "685",
+            "id": "714",
             "bank": "SONERI BANK LIMITED",
             "city": "ISLAMABAD",
             "branch": null,
             "swift_code": "SONEPKKAMIS"
         },
         {
-            "id": "686",
+            "id": "715",
             "bank": "SONERI BANK LIMITED",
             "city": "KARACHI",
             "branch": "(CENTRALIZED TRADE OPERATIONS)",
             "swift_code": "SONEPKKACTO"
         },
         {
-            "id": "687",
+            "id": "716",
             "bank": "SONERI BANK LIMITED",
             "city": "KARACHI",
             "branch": "(CLIFTON BRANCH)",
             "swift_code": "SONEPKKACKR"
         },
         {
-            "id": "688",
+            "id": "717",
             "bank": "SONERI BANK LIMITED",
             "city": "KARACHI",
             "branch": "(DEFENCE BRANCH)",
             "swift_code": "SONEPKKADHK"
         },
         {
-            "id": "689",
+            "id": "718",
             "bank": "SONERI BANK LIMITED",
             "city": "KARACHI",
             "branch": "(FOREX AND TREASURY DEPARTMENT)",
             "swift_code": "SONEPKKATRY"
         },
         {
-            "id": "690",
+            "id": "719",
             "bank": "SONERI BANK LIMITED",
             "city": "KARACHI",
             "branch": "(ISLAMIC BANKING CLOTH MARKET BRANCH)",
             "swift_code": "SONEPKKAICK"
         },
         {
-            "id": "691",
+            "id": "720",
             "bank": "SONERI BANK LIMITED",
             "city": "KARACHI",
             "branch": "(JODIA BAZAR, KARACHI)",
             "swift_code": "SONEPKKAJKR"
         },
         {
-            "id": "692",
+            "id": "721",
             "bank": "SONERI BANK LIMITED",
             "city": "KARACHI",
             "branch": "(KORANGI INDUSTRIAL AREA BRANCH)",
             "swift_code": "SONEPKKAKKR"
         },
         {
-            "id": "693",
+            "id": "722",
             "bank": "SONERI BANK LIMITED",
             "city": "KARACHI",
             "branch": "(MAIN BRANCH)",
             "swift_code": "SONEPKKAKAR"
         },
         {
-            "id": "694",
+            "id": "723",
             "bank": "SONERI BANK LIMITED",
             "city": "KARACHI",
             "branch": "(NEW CHALLI BRANCH)",
             "swift_code": "SONEPKKANCK"
         },
         {
-            "id": "695",
+            "id": "724",
             "bank": "SONERI BANK LIMITED",
             "city": "KARACHI",
             "branch": "(SHAHRAH-E-FAISAL BRANCH)",
             "swift_code": "SONEPKKASFK"
         },
         {
-            "id": "696",
+            "id": "725",
             "bank": "SONERI BANK LIMITED",
             "city": "KARACHI",
             "branch": "(SITE BRANCH)",
             "swift_code": "SONEPKKASIK"
         },
         {
-            "id": "697",
+            "id": "726",
             "bank": "SONERI BANK LIMITED",
             "city": "KARACHI",
             "branch": null,
             "swift_code": "SONEPKKA"
         },
         {
-            "id": "698",
+            "id": "727",
             "bank": "SONERI BANK LIMITED",
             "city": "KARACHI",
             "branch": null,
             "swift_code": "SONEPKKAMJK"
         },
         {
-            "id": "699",
+            "id": "728",
             "bank": "SONERI BANK LIMITED",
             "city": "LAHORE",
             "branch": "(AKBAR CHOWK BRANCH)",
             "swift_code": "SONEPKKAALH"
         },
         {
-            "id": "700",
+            "id": "729",
             "bank": "SONERI BANK LIMITED",
             "city": "LAHORE",
             "branch": "(BADAMI BAGH BRANCH)",
             "swift_code": "SONEPKKABBL"
         },
         {
-            "id": "701",
+            "id": "730",
             "bank": "SONERI BANK LIMITED",
             "city": "LAHORE",
             "branch": "(CAVALARY GROUND BRANCH)",
             "swift_code": "SONEPKKACGL"
         },
         {
-            "id": "702",
+            "id": "731",
             "bank": "SONERI BANK LIMITED",
             "city": "LAHORE",
             "branch": "(CHUNGI AMER SADHU)",
             "swift_code": "SONEPKKACAL"
         },
         {
-            "id": "703",
+            "id": "732",
             "bank": "SONERI BANK LIMITED",
             "city": "LAHORE",
             "branch": "(CIRCULAR ROAD, LAHORE BRANCH)",
             "swift_code": "SONEPKKACLH"
         },
         {
-            "id": "704",
+            "id": "733",
             "bank": "SONERI BANK LIMITED",
             "city": "LAHORE",
             "branch": "(DEFENCE BRANCH, LAHORE)",
             "swift_code": "SONEPKKADLH"
         },
         {
-            "id": "705",
+            "id": "734",
             "bank": "SONERI BANK LIMITED",
             "city": "LAHORE",
             "branch": "(GULBERG BRANCH, LAHORE)",
             "swift_code": "SONEPKKAGLH"
         },
         {
-            "id": "706",
+            "id": "735",
             "bank": "SONERI BANK LIMITED",
             "city": "LAHORE",
             "branch": "(ISLAMIC BANKING NEW GARDEN TOWN BRANCH)",
             "swift_code": "SONEPKKAIGL"
         },
         {
-            "id": "707",
+            "id": "736",
             "bank": "SONERI BANK LIMITED",
             "city": "LAHORE",
             "branch": "(MAIN BRANCH)",
             "swift_code": "SONEPKKALHR"
         },
         {
-            "id": "708",
+            "id": "737",
             "bank": "SONERI BANK LIMITED",
             "city": "LAHORE",
             "branch": "(MODEL TOWN BRANCH)",
             "swift_code": "SONEPKKAMLH"
         },
         {
-            "id": "709",
+            "id": "738",
             "bank": "SONERI BANK LIMITED",
             "city": "LAHORE",
             "branch": "(PHASE III, DEFENCE)",
             "swift_code": "SONEPKKADPL"
         },
         {
-            "id": "710",
+            "id": "739",
             "bank": "SONERI BANK LIMITED",
             "city": "LAHORE",
             "branch": "(QARTABA CHOWK BRANCH LAHORE)",
             "swift_code": "SONEPKKAQCL"
         },
         {
-            "id": "711",
+            "id": "740",
             "bank": "SONERI BANK LIMITED",
             "city": "LAHORE",
             "branch": "(THOKER NIAZ BAIG)",
             "swift_code": "SONEPKKATNL"
         },
         {
-            "id": "712",
+            "id": "741",
             "bank": "SONERI BANK LIMITED",
             "city": "LAHORE",
             "branch": "(UPPER MALL BRANCH)",
             "swift_code": "SONEPKKAUML"
         },
         {
-            "id": "713",
+            "id": "742",
             "bank": "SONERI BANK LIMITED",
             "city": "MULTAN",
             "branch": "(MAIN BRANCH,MULTAN)",
             "swift_code": "SONEPKKAMTN"
         },
         {
-            "id": "714",
+            "id": "743",
             "bank": "SONERI BANK LIMITED",
             "city": "PESHAWAR",
             "branch": "(CHOWK YADGAR, PESHAWAR)",
             "swift_code": "SONEPKKACYP"
         },
         {
-            "id": "715",
+            "id": "744",
             "bank": "SONERI BANK LIMITED",
             "city": "PESHAWAR",
             "branch": "(MAIN BRANCH,PESHAWAR)",
             "swift_code": "SONEPKKAPSH"
         },
         {
-            "id": "716",
+            "id": "745",
             "bank": "SONERI BANK LIMITED",
             "city": "QUETTA",
             "branch": "(MAIN BRANCH,QUETTA)",
             "swift_code": "SONEPKKAQTA"
         },
         {
-            "id": "717",
+            "id": "746",
             "bank": "SONERI BANK LIMITED",
             "city": "RAWALPINDI",
             "branch": "(MAIN BRANCH RAWALPINDI)",
             "swift_code": "SONEPKKARWP"
         },
         {
-            "id": "718",
+            "id": "747",
             "bank": "SONERI BANK LIMITED",
             "city": "SIALKOT",
             "branch": "(MAIN BRANCH SIALKOT)",
             "swift_code": "SONEPKKASKT"
         },
         {
-            "id": "719",
+            "id": "748",
             "bank": "SONERI BANK LIMITED",
             "city": "SUKKUR",
             "branch": "(MAIN BRANCH SUKKUR)",
             "swift_code": "SONEPKKASUK"
         },
         {
-            "id": "720",
+            "id": "749",
             "bank": "SONERI BANK LIMITED",
             "city": "WAZIRABAD",
             "branch": "(MAIN BRANCH WAZIRABAD)",
             "swift_code": "SONEPKKAWZD"
         },
         {
-            "id": "721",
+            "id": "750",
             "bank": "STANDARD CHARTERED BANK (PAKISTAN) LIMITED",
             "city": "KARACHI",
             "branch": "(CLIFTON BRANCH)",
             "swift_code": "SCBLPKKXCLF"
         },
         {
-            "id": "722",
+            "id": "751",
             "bank": "STANDARD CHARTERED BANK (PAKISTAN) LIMITED",
             "city": "KARACHI",
             "branch": null,
             "swift_code": "SCBLPKKX"
         },
         {
-            "id": "723",
+            "id": "752",
             "bank": "STANDARD CHARTERED BANK (PAKISTAN) LIMITED",
             "city": "KARACHI",
             "branch": null,
             "swift_code": "SCBLPKKXEQI"
         },
         {
-            "id": "724",
+            "id": "753",
             "bank": "STANDARD CHARTERED BANK (PAKISTAN) LIMITED",
             "city": "LAHORE",
             "branch": "(LAHORE BRANCH)",
             "swift_code": "SCBLPKKXLHR"
         },
         {
-            "id": "725",
+            "id": "754",
             "bank": "STATE BANK OF PAKISTAN",
             "city": "KARACHI",
             "branch": null,
             "swift_code": "SBPPPKKA"
         },
         {
-            "id": "726",
+            "id": "755",
             "bank": "SUMMIT BANK LTD",
             "city": "KARACHI",
             "branch": "(FOREX AND TREASURY DEPARTMENT)",
             "swift_code": "SUMBPKKATRY"
         },
         {
-            "id": "727",
+            "id": "756",
             "bank": "SUMMIT BANK LTD",
             "city": "KARACHI",
             "branch": "(ISLAMIC BANKING GROUP)",
             "swift_code": "SUMBPKKAIBG"
         },
         {
-            "id": "728",
+            "id": "757",
             "bank": "SUMMIT BANK LTD",
             "city": "KARACHI",
             "branch": "(TRADE PROCESSING CENTER (SOUTH))",
             "swift_code": "SUMBPKKAKHI"
         },
         {
-            "id": "729",
+            "id": "758",
             "bank": "SUMMIT BANK LTD",
             "city": "KARACHI",
             "branch": null,
             "swift_code": "SUMBPKKA"
         },
         {
-            "id": "730",
+            "id": "759",
             "bank": "SUMMIT BANK LTD",
             "city": "LAHORE",
             "branch": "(TRADE PROCESSING CENTRE (NORTH))",
             "swift_code": "SUMBPKKALHE"
         },
         {
-            "id": "731",
+            "id": "760",
             "bank": "TRUST INVESTMENT BANK LIMITED",
             "city": "LAHORE",
             "branch": null,
             "swift_code": "TIBLPKKA"
         },
         {
-            "id": "732",
+            "id": "761",
             "bank": "UNITED BANK LIMITED",
             "city": "FAISALABAD",
             "branch": "(BANK SQUARE BRANCH)",
             "swift_code": "UNILPKKA686"
         },
         {
-            "id": "733",
+            "id": "762",
             "bank": "UNITED BANK LIMITED",
             "city": "ISLAMABAD",
             "branch": "(JINNAH AVENUE BRANCH)",
             "swift_code": "UNILPKKA741"
         },
         {
-            "id": "734",
+            "id": "763",
             "bank": "UNITED BANK LIMITED",
             "city": "KARACHI",
             "branch": "(CPU TRADE, HEAD OFFICE)",
             "swift_code": "UNILPKKATFC"
         },
         {
-            "id": "735",
+            "id": "764",
             "bank": "UNITED BANK LIMITED",
             "city": "KARACHI",
             "branch": "(UBL AMEEN-ISLAMIC BANKING DIVISION, HEAD OFFICE, KARACHI)",
             "swift_code": "UNILPKKAIMB"
         },
         {
-            "id": "736",
+            "id": "765",
             "bank": "UNITED BANK LIMITED",
             "city": "KARACHI",
             "branch": null,
             "swift_code": "UNILPKKA"
         },
         {
-            "id": "737",
+            "id": "766",
             "bank": "UNITED BANK LIMITED",
             "city": "LAHORE",
             "branch": "(BANK SQUARE BRANCH)",
             "swift_code": "UNILPKKA028"
         },
         {
-            "id": "738",
+            "id": "767",
             "bank": "UNITED BANK LIMITED",
             "city": "PESHAWAR",
             "branch": "(DEANS TRADE CENTRE BRANCH)",

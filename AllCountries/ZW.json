@@ -4,195 +4,167 @@
     "list": [
         {
             "id": "1",
-            "bank": "AFRASIA BANK ZIMBABWE LIMITED",
-            "city": "HARARE",
-            "branch": null,
-            "swift_code": "KFISZWHA"
-        },
-        {
-            "id": "2",
             "bank": "AFRICAN BANKING CORP.OF ZIMBABWE LTD.",
             "city": "HARARE",
             "branch": null,
             "swift_code": "FMBZZWHX"
         },
         {
-            "id": "3",
+            "id": "2",
             "bank": "AGRICULTURAL BANK OF ZIMBABWE LTD",
             "city": "HARARE",
             "branch": null,
             "swift_code": "AGRZZWHA"
         },
         {
-            "id": "4",
-            "bank": "BARCLAYS BANK OF ZIMBABWE",
+            "id": "3",
+            "bank": "BARCLAYS BANK OF ZIMBABWE LIMITED",
             "city": "HARARE",
             "branch": null,
             "swift_code": "BARCZWHX"
         },
         {
-            "id": "5",
-            "bank": "CAPITAL BANK CORPORATION LTD",
+            "id": "4",
+            "bank": "CBZ BANK LIMITED",
             "city": "HARARE",
             "branch": null,
-            "swift_code": "CBBLZWHX"
+            "swift_code": "COBZZWHA"
         },
         {
-            "id": "6",
+            "id": "5",
             "bank": "CENTRAL AFRICA BUILDING SOCIETY",
             "city": "HARARE",
             "branch": null,
             "swift_code": "CABSZWHA"
         },
         {
-            "id": "7",
+            "id": "6",
             "bank": "COMESA CLEARING HOUSE",
             "city": "HARARE",
             "branch": null,
             "swift_code": "COCUZWHA"
         },
         {
-            "id": "8",
-            "bank": "COMMERCIAL BANK OF ZIMBABWE LIMITED",
-            "city": "HARARE",
-            "branch": null,
-            "swift_code": "COBZZWHA"
-        },
-        {
-            "id": "9",
+            "id": "7",
             "bank": "ECOBANK ZIMBABWE LIMITED",
             "city": "HARARE",
             "branch": null,
             "swift_code": "ECOCZWHX"
         },
         {
-            "id": "10",
+            "id": "8",
             "bank": "FBC BANK LTD",
             "city": "HARARE",
             "branch": null,
             "swift_code": "FBCPZWHA"
         },
         {
-            "id": "11",
+            "id": "9",
             "bank": "INFRASTRUCTURE DEVELOPMENT BANK OF ZIMBABWE ED",
             "city": "HARARE",
             "branch": null,
             "swift_code": "ZDBLZWHA"
         },
         {
-            "id": "12",
-            "bank": "INTERFINBANK",
-            "city": "HARARE",
-            "branch": null,
-            "swift_code": "IFMBZWHA"
-        },
-        {
-            "id": "13",
+            "id": "10",
             "bank": "MBCA BANK LIMITED",
             "city": "HARARE",
             "branch": null,
             "swift_code": "MBCAZWHX"
         },
         {
-            "id": "14",
+            "id": "11",
             "bank": "METROPOLITAN BANK OF ZIMBABWE LTD",
             "city": "HARARE",
             "branch": null,
             "swift_code": "MBOZZWHA"
         },
         {
-            "id": "15",
+            "id": "12",
             "bank": "NMB BANK LIMITED",
             "city": "BULAWAYO",
             "branch": "(BULAWAYO BRANCH)",
             "swift_code": "NMBLZWHXBYO"
         },
         {
-            "id": "16",
+            "id": "13",
             "bank": "NMB BANK LIMITED",
             "city": "HARARE",
             "branch": null,
             "swift_code": "NMBLZWHX"
         },
         {
-            "id": "17",
+            "id": "14",
             "bank": "PEOPLE'S OWN SAVINGS BANK",
             "city": "HARARE",
             "branch": null,
             "swift_code": "PWSBZWHX"
         },
         {
-            "id": "18",
-            "bank": "RESERVE BANK OF ZIMBABWE",
-            "city": "HARARE",
-            "branch": null,
-            "swift_code": "REBZZWHQ"
-        },
-        {
-            "id": "19",
+            "id": "15",
             "bank": "RESERVE BANK OF ZIMBABWE",
             "city": "HARARE",
             "branch": null,
             "swift_code": "REBZZWHX"
         },
         {
-            "id": "20",
+            "id": "16",
+            "bank": "RESERVE BANK OF ZIMBABWE",
+            "city": "HARARE",
+            "branch": null,
+            "swift_code": "REBZZWHQ"
+        },
+        {
+            "id": "17",
             "bank": "RESERVE BANK OF ZIMBABWE",
             "city": "HARARE",
             "branch": null,
             "swift_code": "REBZZWHXPCH"
         },
         {
-            "id": "21",
+            "id": "18",
             "bank": "STANBIC BANK ZIMBABWE LIMITED",
             "city": "HARARE",
             "branch": null,
             "swift_code": "SBICZWHX"
         },
         {
-            "id": "22",
+            "id": "19",
             "bank": "STANDARD CHARTERED BANK ZIMBABWE LIMITED",
             "city": "HARARE",
             "branch": "(SECURITIES SERVICES UNIT)",
             "swift_code": "SCBLZWHXSSU"
         },
         {
-            "id": "23",
+            "id": "20",
             "bank": "STANDARD CHARTERED BANK ZIMBABWE LIMITED",
             "city": "HARARE",
             "branch": null,
             "swift_code": "SCBLZWHX"
         },
         {
-            "id": "24",
+            "id": "21",
             "bank": "STEWARD BANK LIMITED",
             "city": "HARARE",
             "branch": null,
             "swift_code": "STBLZWHX"
         },
         {
-            "id": "25",
+            "id": "22",
             "bank": "TETRAD INVESTMENT BANK LIMITED",
             "city": "HARARE",
             "branch": null,
             "swift_code": "TTSLZWHX"
         },
         {
-            "id": "26",
-            "bank": "ZIMBABWE ALLIED BANKING GROUP",
-            "city": "HARARE",
-            "branch": null,
-            "swift_code": "ZABCZWHA"
-        },
-        {
-            "id": "27",
+            "id": "23",
             "bank": "ZIMBABWE BANKING CORPORATION LTD.",
             "city": "BULAWAYO",
             "branch": null,
             "swift_code": "ZBCOZWHXBYO"
         },
         {
-            "id": "28",
+            "id": "24",
             "bank": "ZIMBABWE BANKING CORPORATION LTD.",
             "city": "HARARE",
             "branch": null,

@@ -39,265 +39,230 @@
         },
         {
             "id": "6",
-            "bank": "BELARUSIAN BANK FOR SMALL BUSINESS",
-            "city": "MINSK",
-            "branch": null,
-            "swift_code": "BBSBBY2X"
-        },
-        {
-            "id": "7",
             "bank": "BELARUSKY NARODNY BANK",
             "city": "MINSK",
             "branch": null,
             "swift_code": "BLNBBY2X"
         },
         {
-            "id": "8",
+            "id": "7",
             "bank": "BELINVESTBANK JSC",
             "city": "BREST",
-            "branch": "(BREST REGIONAL DIRECTORATE)",
+            "branch": "(BREST REGION DIRECTORATE)",
             "swift_code": "BLBBBY2XBRD"
+        },
+        {
+            "id": "8",
+            "bank": "BELINVESTBANK JSC",
+            "city": "GOMEL",
+            "branch": "(GOMEL REGION DIRECTORATE)",
+            "swift_code": "BLBBBY2XGOM"
         },
         {
             "id": "9",
             "bank": "BELINVESTBANK JSC",
-            "city": "GOMEL",
-            "branch": "(GOMEL REGIONAL DIRECTORATE)",
-            "swift_code": "BLBBBY2XGOM"
+            "city": "GRODNO",
+            "branch": "(GRODNO REGION DIRECTORATE)",
+            "swift_code": "BLBBBY2XGRD"
         },
         {
             "id": "10",
             "bank": "BELINVESTBANK JSC",
-            "city": "GRODNO",
-            "branch": "(GRODNO REGIONAL DIRECTORATE)",
-            "swift_code": "BLBBBY2XGRD"
+            "city": "MINSK",
+            "branch": "(BANKING SERVICES CENTRE 537)",
+            "swift_code": "BLBBBY2XMRD"
         },
         {
             "id": "11",
             "bank": "BELINVESTBANK JSC",
             "city": "MINSK",
-            "branch": "(BRANCH 537)",
-            "swift_code": "BLBBBY2XMRD"
-        },
-        {
-            "id": "12",
-            "bank": "BELINVESTBANK JSC",
-            "city": "MINSK",
-            "branch": "(BRANCH 539)",
+            "branch": "(MINSK CITY AND MINSK REGION DIRECTORATE)",
             "swift_code": "BLBBBY2XCBD"
         },
         {
-            "id": "13",
+            "id": "12",
             "bank": "BELINVESTBANK JSC",
             "city": "MINSK",
             "branch": null,
             "swift_code": "BLBBBY2X"
         },
         {
-            "id": "14",
+            "id": "13",
             "bank": "BELINVESTBANK JSC",
             "city": "MOGILEV",
-            "branch": "(MOGILEV REGIONAL DIRECTORATE)",
+            "branch": "(MOGILEV REGION DIRECTORATE)",
             "swift_code": "BLBBBY2XMOG"
         },
         {
-            "id": "15",
+            "id": "14",
             "bank": "BELINVESTBANK JSC",
             "city": "VITEBSK",
-            "branch": "(VITEBSK REGIONAL BRANCH)",
+            "branch": "(VITEBSK REGION DIRECTORATE)",
             "swift_code": "BLBBBY2XVRD"
         },
         {
-            "id": "16",
+            "id": "15",
             "bank": "BELORUSSIAN-RUSSIAN BELGAZPROMBANK JOINT STOCK",
             "city": "MINSK",
             "branch": null,
             "swift_code": "OLMPBY2X"
         },
         {
-            "id": "17",
+            "id": "16",
             "bank": "BPS-SBERBANK",
             "city": "MINSK",
             "branch": null,
             "swift_code": "BPSBBY2X"
         },
         {
-            "id": "18",
+            "id": "17",
             "bank": "BTA BANK CJSC",
             "city": "MINSK",
             "branch": null,
             "swift_code": "AEBKBY2X"
         },
         {
-            "id": "19",
+            "id": "18",
             "bank": "CJSC VTB BANK (BELARUS)",
             "city": "MINSK",
             "branch": null,
             "swift_code": "SLANBY22"
         },
         {
-            "id": "20",
-            "bank": "CLOSED JOINT STOCK COMPANY 'BANK OF INVESTMENT TECHNOLOGIES'",
-            "city": "MINSK",
-            "branch": null,
-            "swift_code": "BITMBY22"
-        },
-        {
-            "id": "21",
-            "bank": "DELTA BANK JOINT-STOCK COMPANY",
-            "city": "MINSK",
-            "branch": null,
-            "swift_code": "ATOMBY2X"
-        },
-        {
-            "id": "22",
+            "id": "19",
             "bank": "EUROTORGINVESTBANK JOINT STOCK COMPANY",
             "city": "MINSK",
             "branch": null,
             "swift_code": "IRJSBY22"
         },
         {
-            "id": "23",
+            "id": "20",
             "bank": "FRANSABANK OJSC",
             "city": "MINSK",
             "branch": null,
             "swift_code": "GTBNBY22"
         },
         {
-            "id": "24",
+            "id": "21",
             "bank": "HOME CREDIT BANK",
             "city": "MINSK",
             "branch": null,
             "swift_code": "LOJSBY22"
         },
         {
-            "id": "25",
+            "id": "22",
             "bank": "IDEA BANK",
             "city": "MINSK",
             "branch": null,
             "swift_code": "SOMABY22"
         },
         {
-            "id": "26",
-            "bank": "INTERPAYBANK JOINT STOCK COMPANY",
-            "city": "MINSK",
-            "branch": null,
-            "swift_code": "IPBKBY2X"
-        },
-        {
-            "id": "27",
+            "id": "23",
             "bank": "JOINT STOCK COMPANY 'TECHNOBANK'",
             "city": "MINSK",
             "branch": null,
             "swift_code": "TECNBY22"
         },
         {
-            "id": "28",
+            "id": "24",
             "bank": "JOINT-STOCK COMPANY 'DEVELOPMENT BANK OF THE REPUBLIC OF BELARUS'",
             "city": "MINSK",
             "branch": null,
             "swift_code": "BRRBBY2X"
         },
         {
-            "id": "29",
-            "bank": "JOINT-STOCK COMPANY 'EUROBANK'",
-            "city": "MINSK",
-            "branch": null,
-            "swift_code": "EUBKBY2X"
-        },
-        {
-            "id": "30",
+            "id": "25",
             "bank": "JSC BSB BANK",
             "city": "MINSK",
             "branch": null,
             "swift_code": "UNBSBY2X"
         },
         {
-            "id": "31",
+            "id": "26",
             "bank": "MINSK TRANSIT BANK",
             "city": "MINSK",
             "branch": null,
             "swift_code": "MTBKBY22"
         },
         {
-            "id": "32",
+            "id": "27",
             "bank": "NATIONAL BANK OF REPUBLIC BELARUS",
             "city": "MINSK",
             "branch": null,
             "swift_code": "NBRBBY2X"
         },
         {
-            "id": "33",
+            "id": "28",
             "bank": "OPEN JOINT-STOCK COMPANY 'PARITETBANK', MINSK",
             "city": "MINSK",
             "branch": null,
             "swift_code": "POISBY2X"
         },
         {
-            "id": "34",
+            "id": "29",
             "bank": "PRIORBANK",
             "city": "BREST",
             "branch": "(BREST BRANCH)",
             "swift_code": "PJCBBY2XBRS"
         },
         {
-            "id": "35",
+            "id": "30",
             "bank": "PRIORBANK",
             "city": "GOMEL",
             "branch": "(GOMEL BRANCH)",
             "swift_code": "PJCBBY2XGML"
         },
         {
-            "id": "36",
+            "id": "31",
             "bank": "PRIORBANK",
             "city": "GRODNO",
             "branch": "(GRODNO BRANCH)",
             "swift_code": "PJCBBY2XGRD"
         },
         {
-            "id": "37",
+            "id": "32",
             "bank": "PRIORBANK",
             "city": "MINSK",
             "branch": "(MINSK BRANCH)",
             "swift_code": "PJCBBY2XMNK"
         },
         {
-            "id": "38",
+            "id": "33",
             "bank": "PRIORBANK",
             "city": "MINSK",
             "branch": null,
             "swift_code": "PJCBBY2X"
         },
         {
-            "id": "39",
+            "id": "34",
             "bank": "PRIORBANK",
             "city": "MOGILEV",
             "branch": "(MOGILEV BRANCH)",
             "swift_code": "PJCBBY2XMGL"
         },
         {
-            "id": "40",
+            "id": "35",
             "bank": "PRIORBANK",
             "city": "VITEBSK",
             "branch": "(VITEBSK BRANCH)",
             "swift_code": "PJCBBY2XVTB"
         },
         {
-            "id": "41",
+            "id": "36",
             "bank": "RECONVERSION AND DEVELOPMENT BANK JSB",
             "city": "MINSK",
             "branch": null,
             "swift_code": "REDJBY22"
         },
         {
-            "id": "42",
+            "id": "37",
             "bank": "TRUSTBANK",
             "city": "MINSK",
             "branch": null,
             "swift_code": "TRUEBY2X"
         },
         {
-            "id": "43",
+            "id": "38",
             "bank": "ZEPTER BANK",
             "city": "MINSK",
             "branch": null,

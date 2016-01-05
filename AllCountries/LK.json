@@ -123,52 +123,52 @@
         },
         {
             "id": "18",
-            "bank": "CEYLINCO SHRIRAM SECURITIES LTD.",
-            "city": "COLOMBO",
-            "branch": null,
-            "swift_code": "CSSLLKLX"
-        },
-        {
-            "id": "19",
             "bank": "CITIBANK N.A. SRI LANKA",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "CITILKLX"
         },
         {
-            "id": "20",
+            "id": "19",
             "bank": "COMMERCIAL BANK OF CEYLON PLC",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "CCEYLKLX"
         },
         {
-            "id": "21",
+            "id": "20",
             "bank": "DEUTSCHE BANK AG, COLOMBO BRANCH",
             "city": "COLOMBO",
             "branch": "(COLOMBO BRANCH)",
             "swift_code": "DEUTLKLX001"
         },
         {
-            "id": "22",
+            "id": "21",
             "bank": "DEUTSCHE BANK AG, COLOMBO BRANCH",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "DEUTLKLX"
         },
         {
-            "id": "23",
+            "id": "22",
             "bank": "DEUTSCHE BANK AG, COLOMBO BRANCH",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "DEUTLKLXGMO"
         },
         {
-            "id": "24",
-            "bank": "DFCC VARDHANA BANK PLC",
+            "id": "23",
+            "bank": "DFCC BANK PLC",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "DFCCLKLX"
+        },
+        {
+            "id": "24",
+            "bank": "ENTRUST SECURITIES PLC",
+            "city": "COLOMBO",
+            "branch": null,
+            "swift_code": "CSSLLKLX"
         },
         {
             "id": "25",
@@ -228,7 +228,7 @@
         },
         {
             "id": "33",
-            "bank": "LANKA ORIX FINANCE COMPANY LTD",
+            "bank": "LANKA ORIX FINANCE PLC",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "LOFCLKLC"
@@ -284,21 +284,21 @@
         },
         {
             "id": "41",
-            "bank": "PEOPLE'S BANK",
+            "bank": "PEOPLE'S BANK,HEAD OFFICE",
             "city": "COLOMBO",
             "branch": "(HEAD OFFICE)",
             "swift_code": "PSBKLKLX"
         },
         {
             "id": "42",
-            "bank": "PEOPLE'S BANK",
+            "bank": "PEOPLE'S BANK,HEAD OFFICE",
             "city": "COLOMBO",
             "branch": "(INTERNATIONAL DEPARTMENT)",
             "swift_code": "PSBKLKLX022"
         },
         {
             "id": "43",
-            "bank": "PEOPLE'S BANK",
+            "bank": "PEOPLE'S BANK,HEAD OFFICE",
             "city": "COLOMBO",
             "branch": "(OVERSEAS DEPARTMENT)",
             "swift_code": "PSBKLKLX023"
@@ -319,7 +319,7 @@
         },
         {
             "id": "46",
-            "bank": "SAMPATH BANK PLC-COMPANY NO. PQ 144",
+            "bank": "SAMPATH BANK PLC",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "BSAMLKLX"

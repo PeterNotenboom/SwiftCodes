@@ -41,15 +41,15 @@
             "id": "6",
             "bank": "ARAB BANK PLC",
             "city": "AMMAN",
-            "branch": "(ABDALI BRANCH)",
-            "swift_code": "ARABJOAX119"
+            "branch": "((ABDOUN BRANCH)",
+            "swift_code": "ARABJOAX133"
         },
         {
             "id": "7",
             "bank": "ARAB BANK PLC",
             "city": "AMMAN",
-            "branch": "(ABDOUN BRANCH)",
-            "swift_code": "ARABJOAX133"
+            "branch": "(ABDALI BRANCH)",
+            "swift_code": "ARABJOAX119"
         },
         {
             "id": "8",
@@ -613,13 +613,27 @@
         },
         {
             "id": "88",
+            "bank": "RAFIDAIN BANK",
+            "city": "AMMAN",
+            "branch": null,
+            "swift_code": "RAFBJOAM"
+        },
+        {
+            "id": "89",
+            "bank": "SECURITIES DEPOSITORY CENTER",
+            "city": "AMMAN",
+            "branch": null,
+            "swift_code": "SEDCJOAX"
+        },
+        {
+            "id": "90",
             "bank": "SOCIETE GENERALE DE BANQUE - JORDANIE",
             "city": "AMMAN",
             "branch": null,
             "swift_code": "SGMEJOAM"
         },
         {
-            "id": "89",
+            "id": "91",
             "bank": "STANDARD CHARTERED BANK",
             "city": "AMMAN",
             "branch": null,

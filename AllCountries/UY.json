@@ -67,185 +67,178 @@
         },
         {
             "id": "10",
-            "bank": "BANCO GALICIA URUGUAY S.A.",
-            "city": "MONTEVIDEO",
-            "branch": null,
-            "swift_code": "GABAUYMM"
-        },
-        {
-            "id": "11",
             "bank": "BANCO ITAU",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "ITAUUYMM"
         },
         {
-            "id": "12",
+            "id": "11",
             "bank": "BANCO PATAGONIA (URUGUAY) S.A.I.F.E.",
             "city": "PUNTA DEL ESTE",
             "branch": null,
             "swift_code": "BPATUYMM"
         },
         {
-            "id": "13",
+            "id": "12",
             "bank": "BANCO SANTANDER",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "BSCHUYMM"
         },
         {
-            "id": "14",
+            "id": "13",
             "bank": "BANDES URUGUAY S.A.",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "CFACUYMM"
         },
         {
-            "id": "15",
+            "id": "14",
             "bank": "BANQUE HERITAGE (URUGUAY) S.A. (FORMERLY BANCO SURINVEST S.A.)",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "SURIUYMM"
         },
         {
-            "id": "16",
+            "id": "15",
             "bank": "BAPRO URUGUAY",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "PRBAUYMM"
         },
         {
-            "id": "17",
+            "id": "16",
             "bank": "CENTRO SUDAMERICANO S.A. (DELTA SERVICIOS FINANCIEROS)",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "CSDRUYMM"
         },
         {
-            "id": "18",
+            "id": "17",
             "bank": "CITIBANK N.A. URUGUAY",
             "city": "COLONIA",
             "branch": null,
             "swift_code": "CITIUYMMCOL"
         },
         {
-            "id": "19",
+            "id": "18",
             "bank": "CITIBANK N.A. URUGUAY",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "CITIUYMM"
         },
         {
-            "id": "20",
+            "id": "19",
             "bank": "CITIBANK N.A. URUGUAY",
             "city": "PUNTA DEL ESTE",
             "branch": null,
             "swift_code": "CITIUYMMPDE"
         },
         {
-            "id": "21",
+            "id": "20",
             "bank": "COLUMBUSNET S.A.",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "COLUUYMM"
         },
         {
-            "id": "22",
-            "bank": "DISCOUNT BANK (LATIN AMERICA)",
-            "city": "MONTEVIDEO",
-            "branch": null,
-            "swift_code": "DBLAUYMM"
-        },
-        {
-            "id": "23",
+            "id": "21",
             "bank": "EUROCAM SA",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "CBEUUYMM"
         },
         {
-            "id": "24",
+            "id": "22",
             "bank": "EXPRINTER (URUGUAY) S.A.",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "ECBUUYMM"
         },
         {
-            "id": "25",
+            "id": "23",
             "bank": "GALES SERVICIOS FINANCIEROS S.A.",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "GSEFUYMM"
         },
         {
-            "id": "26",
+            "id": "24",
             "bank": "HAPOALIM LATIN AMERICA S.A.",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "POALUYMM"
         },
         {
-            "id": "27",
+            "id": "25",
             "bank": "HAPOALIM LATIN AMERICA S.A.",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "POALUYMM001"
         },
         {
-            "id": "28",
+            "id": "26",
             "bank": "HAPOALIM LATIN AMERICA S.A.",
             "city": "PUNTA DEL ESTE",
             "branch": null,
             "swift_code": "POALUYMM002"
         },
         {
-            "id": "29",
+            "id": "27",
             "bank": "HSBC BANK (URUGUAY) S.A. (FORMERLY REPUBLIC NATIONAL BANK OF NEW YORK (URUGUAY) S.A.)",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "BLICUYMM"
         },
         {
-            "id": "30",
+            "id": "28",
             "bank": "LEUMI (LATIN AMERICA) S.A.",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "LUMIUYMM"
         },
         {
-            "id": "31",
+            "id": "29",
             "bank": "LUNDIN SA - MONEX EMPRESA DE SERVICIOS FINANCIEROS",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "LUNDUYMT"
         },
         {
-            "id": "32",
+            "id": "30",
             "bank": "MONEY SUR S.A.",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "MSURUYMM"
         },
         {
-            "id": "33",
+            "id": "31",
             "bank": "NIXUS S.A.",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "NIXSUYMM"
         },
         {
-            "id": "34",
+            "id": "32",
             "bank": "SCOTIABANK URUGUAY S.A.",
             "city": "MONTEVIDEO",
             "branch": "(HEAD OFFICE)",
             "swift_code": "COMEUYMM"
         },
         {
-            "id": "35",
+            "id": "33",
             "bank": "SCOTIABANK URUGUAY S.A.",
             "city": "MONTEVIDEO",
             "branch": "(HEAD OFFICE)",
             "swift_code": "COMEUYMMALL"
+        },
+        {
+            "id": "34",
+            "bank": "SCOTIABANK URUGUAY S.A. (FORMERLY DISCOUNT BANK LATIN AMERICA)",
+            "city": "MONTEVIDEO",
+            "branch": null,
+            "swift_code": "DBLAUYMM"
         }
     ]
 }

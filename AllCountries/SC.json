@@ -46,20 +46,27 @@
         },
         {
             "id": "7",
+            "bank": "HABIB BANK LIMITED",
+            "city": "VICTORIA",
+            "branch": null,
+            "swift_code": "HABBSCSC"
+        },
+        {
+            "id": "8",
             "bank": "MAURITIUS COMMERCIAL BANK (SEYCHELLES) LIMITED, THE",
             "city": "VICTORIA",
             "branch": null,
             "swift_code": "MCBLSCSC"
         },
         {
-            "id": "8",
+            "id": "9",
             "bank": "NOUVOBANQ",
             "city": "VICTORIA",
             "branch": null,
             "swift_code": "NOVHSCSC"
         },
         {
-            "id": "9",
+            "id": "10",
             "bank": "SEYCHELLES COMMERCIAL BANK",
             "city": "VICTORIA",
             "branch": null,

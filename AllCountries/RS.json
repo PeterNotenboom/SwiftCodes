@@ -5,7 +5,7 @@
         {
             "id": "1",
             "bank": "AIK BANKA AD",
-            "city": "NIS",
+            "city": "BEOGRAD",
             "branch": null,
             "swift_code": "AIKBRS22"
         },
@@ -25,52 +25,52 @@
         },
         {
             "id": "4",
-            "bank": "CACANSKA BANKA A.D.",
-            "city": "CACAK",
-            "branch": null,
-            "swift_code": "CABARS22"
-        },
-        {
-            "id": "5",
             "bank": "CREDIT AGRICOLE SRBIJA AD NOVI SAD",
             "city": "NOVI SAD",
             "branch": null,
             "swift_code": "MEBARS22"
         },
         {
-            "id": "6",
-            "bank": "DUNAV BANKA A.D. BEOGRAD",
-            "city": "BEOGRAD",
-            "branch": null,
-            "swift_code": "KMEBRS2Z"
-        },
-        {
-            "id": "7",
+            "id": "5",
             "bank": "ERSTE BANK A.D. NOVI SAD",
             "city": "NOVI SAD",
             "branch": null,
             "swift_code": "GIBARS22"
         },
         {
-            "id": "8",
+            "id": "6",
             "bank": "EUROBANK AD",
             "city": "BEOGRAD",
             "branch": "(CUSTODY UNIT)",
             "swift_code": "ERBKRSBGSEC"
         },
         {
-            "id": "9",
+            "id": "7",
             "bank": "EUROBANK AD",
             "city": "BEOGRAD",
             "branch": null,
             "swift_code": "ERBKRSBG"
         },
         {
-            "id": "10",
+            "id": "8",
             "bank": "FINDOMESTIC BANKA AD",
             "city": "BEOGRAD",
             "branch": null,
             "swift_code": "FIDMRSBG"
+        },
+        {
+            "id": "9",
+            "bank": "HALKBANK A.D. BEOGRAD",
+            "city": "BEOGRAD",
+            "branch": null,
+            "swift_code": "CABARS22"
+        },
+        {
+            "id": "10",
+            "bank": "HYPO ALPE-ADRIA-BANK A.D. BEOGRAD",
+            "city": "BEOGRAD",
+            "branch": null,
+            "swift_code": "HAABRSBG"
         },
         {
             "id": "11",
@@ -160,7 +160,7 @@
             "id": "23",
             "bank": "KOMERCIJALNA BANKA A.D. BEOGRAD",
             "city": "POZAREVAC",
-            "branch": "(BRANCH POZAREVAC)",
+            "branch": "(BRANCH  POZAREVAC)",
             "swift_code": "KOBBRSBGFPO"
         },
         {
@@ -221,118 +221,132 @@
         },
         {
             "id": "32",
-            "bank": "NARODNA BANKA SRBIJE (NATIONAL BANK OF SERBIA - NBS)",
-            "city": "BEOGRAD",
+            "bank": "MIRABANK A.D. BEOGRAD NOVI BEOGRAD",
+            "city": "NOVI BEOGRAD",
             "branch": null,
-            "swift_code": "NBSRRSBD"
+            "swift_code": "MRBNRSBG"
         },
         {
             "id": "33",
+            "bank": "MTS BANKA A.D. BEOGRAD",
+            "city": "BEOGRAD",
+            "branch": null,
+            "swift_code": "KMEBRS2Z"
+        },
+        {
+            "id": "34",
             "bank": "NARODNA BANKA SRBIJE (NATIONAL BANK OF SERBIA - NBS)",
             "city": "BEOGRAD",
             "branch": null,
             "swift_code": "NBSRRSBG"
         },
         {
-            "id": "34",
+            "id": "35",
+            "bank": "NARODNA BANKA SRBIJE (NATIONAL BANK OF SERBIA - NBS)",
+            "city": "BEOGRAD",
+            "branch": null,
+            "swift_code": "NBSRRSBD"
+        },
+        {
+            "id": "36",
             "bank": "NLB BANKA A.D. BEOGRAD",
             "city": "NOVI BEOGRAD",
             "branch": null,
             "swift_code": "CONARS22"
         },
         {
-            "id": "35",
+            "id": "37",
             "bank": "OPPORTUNITY BANKA A.D. NOVI SAD",
             "city": "NOVI SAD",
             "branch": null,
             "swift_code": "OPPBRS22"
         },
         {
-            "id": "36",
+            "id": "38",
             "bank": "OTP BANKA SRBIJA A.D. NOVI SAD",
             "city": "NOVI SAD",
             "branch": null,
             "swift_code": "OTPVRS22"
         },
         {
-            "id": "37",
+            "id": "39",
             "bank": "PIRAEUS BANK AD BEOGRAD",
             "city": "BEOGRAD",
             "branch": null,
             "swift_code": "PIRBRSBG"
         },
         {
-            "id": "38",
+            "id": "40",
+            "bank": "PIRAEUS BANK AD BEOGRAD",
+            "city": "BEOGRAD",
+            "branch": null,
+            "swift_code": "PIRBRSBG"
+        },
+        {
+            "id": "41",
             "bank": "POSTAL SAVINGS BANK JSC",
             "city": "BEOGRAD",
             "branch": "(CORPORATE CUSTOMERS)",
             "swift_code": "SBPORSBG100"
         },
         {
-            "id": "39",
-            "bank": "POSTAL SAVINGS BANK JSC",
-            "city": "BEOGRAD",
-            "branch": null,
-            "swift_code": "SBPORSBG"
-        },
-        {
-            "id": "40",
+            "id": "42",
             "bank": "PROCREDIT BANK A.D. BELGRADE",
             "city": "BEOGRAD",
             "branch": null,
             "swift_code": "PRCBRSBG"
         },
         {
-            "id": "41",
+            "id": "43",
             "bank": "RAIFFEISEN BANKA A.D.",
             "city": "BEOGRAD",
             "branch": null,
             "swift_code": "RZBSRSBG"
         },
         {
-            "id": "42",
+            "id": "44",
             "bank": "SBERBANK SRBIJA A.D.",
             "city": "BEOGRAD",
             "branch": null,
             "swift_code": "SABRRSBG"
         },
         {
-            "id": "43",
+            "id": "45",
             "bank": "SOCIETE GENERALE BANKA SRBIJA AD BEOGRAD",
             "city": "BEOGRAD",
             "branch": null,
             "swift_code": "SOGYRSBG"
         },
         {
-            "id": "44",
+            "id": "46",
             "bank": "SRPSKA BANKA A.D.",
             "city": "BEOGRAD",
             "branch": null,
             "swift_code": "SRBNRSBG"
         },
         {
-            "id": "45",
+            "id": "47",
             "bank": "TELENOR BANKA AD",
             "city": "BEOGRAD",
             "branch": null,
             "swift_code": "AAAARSBG"
         },
         {
-            "id": "46",
+            "id": "48",
             "bank": "UNICREDIT BANK SRBIJA A.D.",
             "city": "BEOGRAD",
             "branch": null,
             "swift_code": "BACXRSBG"
         },
         {
-            "id": "47",
-            "bank": "VOJVODJANSKA BANKA D.D.",
+            "id": "49",
+            "bank": "VOJVODJANSKA BANKA A.D.",
             "city": "NOVI SAD",
             "branch": null,
             "swift_code": "VBUBRS22"
         },
         {
-            "id": "48",
+            "id": "50",
             "bank": "VTB BANKA AD BEOGRAD",
             "city": "BEOGRAD",
             "branch": null,

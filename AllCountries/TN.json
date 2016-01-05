@@ -245,14 +245,14 @@
             "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
             "city": "TUNIS",
             "branch": "(REMISE EXPORT TUNIS)",
-            "swift_code": "BIATTNTTRMT"
+            "swift_code": "BIATTNTTRXT"
         },
         {
             "id": "36",
             "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
             "city": "TUNIS",
-            "branch": "(REMISE EXPORT TUNIS)",
-            "swift_code": "BIATTNTTRXT"
+            "branch": "(REMISE IMPORT TUNIS)",
+            "swift_code": "BIATTNTTRMT"
         },
         {
             "id": "37",

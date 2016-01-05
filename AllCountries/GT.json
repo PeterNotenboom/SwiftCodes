@@ -42,14 +42,14 @@
             "bank": "BANCO DE GUATEMALA",
             "city": "GUATEMALA",
             "branch": null,
-            "swift_code": "BAGUGTGB"
+            "swift_code": "BAGUGTGC"
         },
         {
             "id": "7",
             "bank": "BANCO DE GUATEMALA",
             "city": "GUATEMALA",
             "branch": null,
-            "swift_code": "BAGUGTGC"
+            "swift_code": "BAGUGTGB"
         },
         {
             "id": "8",
@@ -130,17 +130,17 @@
         },
         {
             "id": "19",
+            "bank": "FINANCIERA DE OCCIDENTE, S.A.",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "OCICGTGC"
+        },
+        {
+            "id": "20",
             "bank": "IMAGENES COMPUTARIZADAS DE GUATEMALA, S. A.",
             "city": "GUATEMALA",
             "branch": null,
             "swift_code": "ICGSGTGC"
-        },
-        {
-            "id": "20",
-            "bank": "OCCIDENTE INTERNATIONAL CORPORATION",
-            "city": "GUATEMALA",
-            "branch": null,
-            "swift_code": "OCICGTGC"
         }
     ]
 }

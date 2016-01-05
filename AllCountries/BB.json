@@ -13,15 +13,15 @@
             "id": "2",
             "bank": "BANK OF NOVA SCOTIA,THE",
             "city": "BRIDGETOWN",
-            "branch": null,
-            "swift_code": "NOSCBBBB"
+            "branch": "(OFFSHORE BANKING UNIT)",
+            "swift_code": "NOSCBBBBBOB"
         },
         {
             "id": "3",
             "bank": "BANK OF NOVA SCOTIA,THE",
             "city": "BRIDGETOWN",
-            "branch": "(OFFSHORE BANKING UNIT)",
-            "swift_code": "NOSCBBBBBOB"
+            "branch": null,
+            "swift_code": "NOSCBBBB"
         },
         {
             "id": "4",
@@ -102,27 +102,34 @@
         },
         {
             "id": "15",
+            "bank": "MANUFACTURERS LIFE REINSURANCE LIMITED",
+            "city": "ST. MICHAEL",
+            "branch": null,
+            "swift_code": "MFCTBBBB"
+        },
+        {
+            "id": "16",
             "bank": "OCCIDENTAL BANK BARBADOS (LTD)",
             "city": "ST. MICHAEL",
             "branch": null,
             "swift_code": "OCCIBBBB"
         },
         {
-            "id": "16",
+            "id": "17",
             "bank": "RBC BARBADOS TRADING BANK CORPORATION",
             "city": "ST. MICHAEL",
             "branch": null,
             "swift_code": "RBTOBBBB"
         },
         {
-            "id": "17",
+            "id": "18",
             "bank": "RBC ROYAL BANK (BARBADOS) LIMITED",
             "city": "BRIDGETOWN",
             "branch": null,
             "swift_code": "ROYCBBBB"
         },
         {
-            "id": "18",
+            "id": "19",
             "bank": "REPUBLIC BANK (BARBADOS) LIMITED",
             "city": "BRIDGETOWN",
             "branch": null,

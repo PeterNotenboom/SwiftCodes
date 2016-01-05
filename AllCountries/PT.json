@@ -4,38 +4,38 @@
     "list": [
         {
             "id": "1",
+            "bank": "ABANCA CORPORACION BANCARIA, SA, SUCURSAL EM PORTUGAL",
+            "city": "PORTO",
+            "branch": null,
+            "swift_code": "CAGLPTPL"
+        },
+        {
+            "id": "2",
             "bank": "AGENCIA GESTAO DA TESOURARIA E DIV. PUBLICA, IGCP EPE",
             "city": "LISBON",
             "branch": null,
             "swift_code": "IGCPPTPL"
         },
         {
-            "id": "2",
-            "bank": "AS 'PRIVATBANK'- SUCURSAL EM PORTUGAL",
-            "city": "LISBON",
+            "id": "3",
+            "bank": "ANDRADE GUTIERREZ-EUROPA, AFRICA, ASIA, S.A.",
+            "city": "OEIRAS",
             "branch": null,
-            "swift_code": "PRTTPTP2"
+            "swift_code": "AGEAPTPL"
         },
         {
-            "id": "3",
+            "id": "4",
             "bank": "BANCO ACTIVOBANK S.A.",
-            "city": "OEIRAS",
+            "city": "LISBON",
             "branch": null,
             "swift_code": "ACTVPTPL"
         },
         {
-            "id": "4",
+            "id": "5",
             "bank": "BANCO BAI EUROPA, SA",
             "city": "LISBON",
             "branch": null,
             "swift_code": "BAIPPTPL"
-        },
-        {
-            "id": "5",
-            "bank": "BANCO BIC PORTUGUES",
-            "city": "LISBON",
-            "branch": null,
-            "swift_code": "BCCBPTPL"
         },
         {
             "id": "6",
@@ -118,36 +118,36 @@
             "id": "17",
             "bank": "BANCO COMERCIAL PORTUGUES",
             "city": "LISBON",
-            "branch": "(RUA INSTITUTO INDUSTRIAL N 7)",
-            "swift_code": "BCOMPTPLLEU"
-        },
-        {
-            "id": "18",
-            "bank": "BANCO COMERCIAL PORTUGUES",
-            "city": "LISBON",
-            "branch": "(SP-PRINCIPE REAL)",
-            "swift_code": "BCOMPTPLB01"
-        },
-        {
-            "id": "19",
-            "bank": "BANCO COMERCIAL PORTUGUES",
-            "city": "LISBON",
             "branch": "(TREASURY DIVISION)",
             "swift_code": "BCOMPTPLDIF"
         },
         {
-            "id": "20",
+            "id": "18",
             "bank": "BANCO COMERCIAL PORTUGUES",
             "city": "LISBON",
             "branch": null,
             "swift_code": "BCOMPTPLB07"
         },
         {
-            "id": "21",
+            "id": "19",
             "bank": "BANCO COMERCIAL PORTUGUES",
             "city": "LISBON",
             "branch": null,
             "swift_code": "BCOMPTPLLES"
+        },
+        {
+            "id": "20",
+            "bank": "BANCO COMERCIAL PORTUGUES",
+            "city": "OEIRAS",
+            "branch": "(BOPB - LISBOA)",
+            "swift_code": "BCOMPTPLB01"
+        },
+        {
+            "id": "21",
+            "bank": "BANCO COMERCIAL PORTUGUES",
+            "city": "OEIRAS",
+            "branch": "(COLLECTIONS\/DOC CREDITS)",
+            "swift_code": "BCOMPTPLLEU"
         },
         {
             "id": "22",
@@ -165,192 +165,192 @@
         },
         {
             "id": "24",
+            "bank": "BANCO CTT, S.A.",
+            "city": "LISBON",
+            "branch": null,
+            "swift_code": "CTTVPTPL"
+        },
+        {
+            "id": "25",
             "bank": "BANCO DE CAJA ESPANA DE INVERSIONES, SALAMANCA Y SORIA S.A.",
             "city": "LISBON",
             "branch": null,
             "swift_code": "CSSOPTPX"
         },
         {
-            "id": "25",
+            "id": "26",
             "bank": "BANCO DE INVESTIMENTO GLOBAL S.A.",
             "city": "LISBON",
             "branch": null,
             "swift_code": "BDIGPTPL"
         },
         {
-            "id": "26",
+            "id": "27",
             "bank": "BANCO DE PORTUGAL",
             "city": "LISBON",
             "branch": "(BP- CCBM)",
             "swift_code": "BGALPTTGCCB"
         },
         {
-            "id": "27",
+            "id": "28",
             "bank": "BANCO DE PORTUGAL",
             "city": "LISBON",
             "branch": "(BP-BACK-OFFICE)",
             "swift_code": "BGALPTTGBAC"
         },
         {
-            "id": "28",
+            "id": "29",
             "bank": "BANCO DE PORTUGAL",
             "city": "LISBON",
             "branch": "(BP-MINIMUM RESERVES)",
             "swift_code": "BGALPTTGMRR"
         },
         {
-            "id": "29",
-            "bank": "BANCO DE PORTUGAL",
-            "city": "LISBON",
-            "branch": "(BP-MONETARY POLICE OPERATIONS-CSD)",
-            "swift_code": "BGALPTTGSIT"
-        },
-        {
             "id": "30",
             "bank": "BANCO DE PORTUGAL",
             "city": "LISBON",
-            "branch": "(COLLATERAL MANAGEMENT PT PARTIES)",
-            "swift_code": "BGALPTPLPTP"
+            "branch": "(BP-MONETARY POLICY OPERATIONS)",
+            "swift_code": "BGALPTTGSIT"
         },
         {
             "id": "31",
             "bank": "BANCO DE PORTUGAL",
             "city": "LISBON",
             "branch": "(COLLATERAL MANAGEMENT PT PARTIES)",
-            "swift_code": "BGALPTTGPTP"
+            "swift_code": "BGALPTPLPTP"
         },
         {
             "id": "32",
+            "bank": "BANCO DE PORTUGAL",
+            "city": "LISBON",
+            "branch": "(COLLATERAL MANAGEMENT PT PARTIES)",
+            "swift_code": "BGALPTTGPTP"
+        },
+        {
+            "id": "33",
             "bank": "BANCO DE PORTUGAL",
             "city": "LISBON",
             "branch": "(CONTABILIDADE E PAGAMENTOS)",
             "swift_code": "BGALPTPLDCP"
         },
         {
-            "id": "33",
+            "id": "34",
+            "bank": "BANCO DE PORTUGAL",
+            "city": "LISBON",
+            "branch": "(CREDIT AND MARKETS DEPARTMENT)",
+            "swift_code": "BGALPTPLCCB"
+        },
+        {
+            "id": "35",
             "bank": "BANCO DE PORTUGAL",
             "city": "LISBON",
             "branch": "(DET-EMISSAO E TESOURARIA)",
             "swift_code": "BGALPTTGDET"
         },
         {
-            "id": "34",
+            "id": "36",
             "bank": "BANCO DE PORTUGAL",
             "city": "LISBON",
             "branch": "(FUNDS)",
             "swift_code": "BGALPTPLGPF"
         },
         {
-            "id": "35",
+            "id": "37",
             "bank": "BANCO DE PORTUGAL",
             "city": "LISBON",
             "branch": "(MERCADO MONETARIO INTERBANCARIO)",
             "swift_code": "BGALPTTGMMI"
         },
         {
-            "id": "36",
+            "id": "38",
             "bank": "BANCO DE PORTUGAL",
             "city": "LISBON",
             "branch": "(SISTEMAS DE PAGAMENTOS)",
             "swift_code": "BGALPTTG"
         },
         {
-            "id": "37",
+            "id": "39",
             "bank": "BANCO DE PORTUGAL",
             "city": "LISBON",
             "branch": null,
             "swift_code": "BGALPTPL"
         },
         {
-            "id": "38",
+            "id": "40",
             "bank": "BANCO DE PORTUGAL",
             "city": "LISBON",
             "branch": null,
             "swift_code": "BGALPTPLCON"
         },
         {
-            "id": "39",
+            "id": "41",
             "bank": "BANCO DE PORTUGAL",
             "city": "PORTO",
             "branch": "(FUNDO GARANTIA)",
             "swift_code": "BGALPTTGFGC"
         },
         {
-            "id": "40",
+            "id": "42",
             "bank": "BANCO DO BRASIL AG-SUCURSAL EM PORTUGAL",
             "city": "LISBON",
             "branch": null,
             "swift_code": "BRASPTPL"
         },
         {
-            "id": "41",
+            "id": "43",
             "bank": "BANCO EFISA S.A.",
             "city": "LISBON",
             "branch": null,
             "swift_code": "EFISPTPL"
         },
         {
-            "id": "42",
-            "bank": "BANCO ESPIRITO SANTO DE INVESTIMENTO, S.A.",
-            "city": "FUNCHAL",
-            "branch": null,
-            "swift_code": "ESSIPTPLFUN"
-        },
-        {
-            "id": "43",
-            "bank": "BANCO ESPIRITO SANTO DE INVESTIMENTO, S.A.",
-            "city": "LISBON",
-            "branch": null,
-            "swift_code": "ESSIPTPL"
-        },
-        {
             "id": "44",
-            "bank": "BANCO ESPIRITO SANTO DE INVESTIMENTO, S.A.",
-            "city": "PORTO",
-            "branch": null,
-            "swift_code": "ESSIPTPLPOR"
-        },
-        {
-            "id": "45",
             "bank": "BANCO FINANTIA S.A.",
             "city": "LISBON",
             "branch": "(FINANTIA CORRETORA)",
             "swift_code": "BFIAPTPLCOR"
         },
         {
-            "id": "46",
+            "id": "45",
             "bank": "BANCO FINANTIA S.A.",
             "city": "LISBON",
             "branch": "(FINANTIA INTERNATIONAL)",
             "swift_code": "BFIAPTPLINT"
         },
         {
-            "id": "47",
+            "id": "46",
             "bank": "BANCO FINANTIA S.A.",
             "city": "LISBON",
             "branch": "(FINANTIA SECURITIES)",
             "swift_code": "BFIAPTPLSEC"
         },
         {
-            "id": "48",
+            "id": "47",
             "bank": "BANCO FINANTIA S.A.",
             "city": "LISBON",
             "branch": null,
             "swift_code": "BFIAPTPL"
         },
         {
-            "id": "49",
+            "id": "48",
             "bank": "BANCO FINANTIA S.A.",
             "city": "MADEIRA",
             "branch": "(MADEIRA OFFSHORE BRANCH)",
             "swift_code": "BFIAPTPLSFE"
         },
         {
-            "id": "50",
+            "id": "49",
             "bank": "BANCO INVEST S.A.",
             "city": "LISBON",
             "branch": null,
             "swift_code": "IVVSPTPL"
+        },
+        {
+            "id": "50",
+            "bank": "BANCO L.J. CARREGOSA, S.A.",
+            "city": "PORTO",
+            "branch": null,
+            "swift_code": "BLJCPTPT"
         },
         {
             "id": "51",
@@ -382,87 +382,87 @@
         },
         {
             "id": "55",
-            "bank": "BANCO RURAL EUROPA S\/A",
-            "city": "LISBON",
-            "branch": null,
-            "swift_code": "RUBAPTPF"
-        },
-        {
-            "id": "56",
             "bank": "BANCO SANTANDER TOTTA, SA",
             "city": "LISBON",
             "branch": null,
             "swift_code": "TOTAPTPL"
         },
         {
-            "id": "57",
+            "id": "56",
             "bank": "BANCO SANTANDER TOTTA, SA",
             "city": "MADEIRA",
             "branch": "(MADEIRA OFFSHORE BRANCH)",
             "swift_code": "TOTAPTPLMOB"
         },
         {
-            "id": "58",
+            "id": "57",
             "bank": "BANIF - BANCO INTERNACIONAL DO FUNCHAL, S.A.",
             "city": "FUNCHAL",
             "branch": "(ENDERECO SWIFT FUNCHAL)",
             "swift_code": "BNIFPTPLFUN"
         },
         {
-            "id": "59",
+            "id": "58",
             "bank": "BANIF - BANCO INTERNACIONAL DO FUNCHAL, S.A.",
             "city": "FUNCHAL",
             "branch": "(ENDERECO SWIFT SFE)",
             "swift_code": "BNIFPTPLSFE"
         },
         {
-            "id": "60",
+            "id": "59",
             "bank": "BANIF - BANCO INTERNACIONAL DO FUNCHAL, S.A.",
             "city": "LISBON",
             "branch": null,
             "swift_code": "BNIFPTPL"
         },
         {
-            "id": "61",
+            "id": "60",
             "bank": "BANIF - BANCO INTERNACIONAL DO FUNCHAL, S.A.",
             "city": "PORTO",
             "branch": "(ENDERECO SWIFT PORTO)",
             "swift_code": "BNIFPTPLOPO"
         },
         {
-            "id": "62",
+            "id": "61",
             "bank": "BANIF BANCO DE INVESTIMENTO, S.A.",
             "city": "LISBON",
             "branch": null,
             "swift_code": "BNFIPTPL"
         },
         {
-            "id": "63",
+            "id": "62",
             "bank": "BANK OF CHINA (LUXEMBOURG) S.A. PORTUGAL BRANCH",
             "city": "LISBON",
             "branch": null,
             "swift_code": "BKCHPTPL"
         },
         {
-            "id": "64",
+            "id": "63",
             "bank": "BANQUE PRIVEE EDMOND DE ROTHSCHILD EUROPE, SUCURSAL PORTUGUESA",
             "city": "LISBON",
             "branch": null,
             "swift_code": "PRIBPTPX"
         },
         {
-            "id": "65",
-            "bank": "BANQUE PRIVEE ESPIRITO SANTO S.A., SUCURSAL EM PORTUGAL",
+            "id": "64",
+            "bank": "BANQUE PRIVEE ESPIRITO SANTO S.A., SUCURSAL EM PORTUGAL (IN LIQUIDATION)",
             "city": "LISBON",
             "branch": null,
             "swift_code": "CFESPTPL"
+        },
+        {
+            "id": "65",
+            "bank": "BARCLAYS BANK PLC",
+            "city": "LISBON",
+            "branch": null,
+            "swift_code": "BARCPTPL"
         },
         {
             "id": "66",
             "bank": "BARCLAYS BANK PLC",
             "city": "LISBON",
             "branch": null,
-            "swift_code": "BARCPTPL"
+            "swift_code": "BARCPTPC"
         },
         {
             "id": "67",
@@ -613,118 +613,132 @@
         },
         {
             "id": "88",
-            "bank": "ING B NV\/SA, SUCURSAL EM PORTUGAL (FORMERLY BANK BRUSSELS LAMBERT, LISBON BRANCH)",
+            "bank": "HAITONG BANK, S.A.",
+            "city": "LISBON",
+            "branch": null,
+            "swift_code": "ESSIPTPL"
+        },
+        {
+            "id": "89",
+            "bank": "ING BANK NV, SUCURSAL EM PORTUGAL",
             "city": "LISBON",
             "branch": null,
             "swift_code": "BBRUPTPL"
         },
         {
-            "id": "89",
+            "id": "90",
             "bank": "INTERBOLSA - S.G.S.L.S.C.V.M., S.A.",
             "city": "PORTO",
             "branch": "(TECHNICAL ACCOUNT)",
             "swift_code": "IBLSPTPP999"
         },
         {
-            "id": "90",
+            "id": "91",
             "bank": "INTERBOLSA - S.G.S.L.S.C.V.M., S.A.",
             "city": "PORTO",
             "branch": null,
             "swift_code": "IBLSPTPP"
         },
         {
-            "id": "91",
+            "id": "92",
+            "bank": "INTERBOLSA - S.G.S.L.S.C.V.M., S.A.",
+            "city": "PORTO",
+            "branch": null,
+            "swift_code": "IBLSPTPP998"
+        },
+        {
+            "id": "93",
             "bank": "INTERBOLSA - S.G.S.L.S.C.V.M., S.A.",
             "city": "PORTO",
             "branch": null,
             "swift_code": "IBLSPTPPCUG"
         },
         {
-            "id": "92",
+            "id": "94",
             "bank": "ITAU BBA INTERNATIONAL LIMITED, SUCURSAL EM PORTUGAL",
             "city": "LISBON",
             "branch": null,
             "swift_code": "ITAUPTPL"
         },
         {
-            "id": "93",
+            "id": "95",
             "bank": "MONTEPIO GERAL - CAIXA ECONOMICA",
             "city": "ALGES",
             "branch": "(SERVICIO TITULOS)",
             "swift_code": "MPIOPTPLTIT"
         },
         {
-            "id": "94",
+            "id": "96",
             "bank": "MONTEPIO GERAL - CAIXA ECONOMICA",
             "city": "LISBON",
             "branch": null,
             "swift_code": "MPIOPTPL"
         },
         {
-            "id": "95",
-            "bank": "NCG BANCO, S.A., SUCURSAL EM PORTUGAL",
-            "city": "PORTO",
-            "branch": null,
-            "swift_code": "CAGLPTPL"
-        },
-        {
-            "id": "96",
+            "id": "97",
             "bank": "NOVO BANCO DOS ACORES, SA (FORMERLY BANCO ESPIRITOSANTO DOS ACORES, SA)",
             "city": "PONTA DELGADA",
             "branch": null,
             "swift_code": "BESAPTPA"
         },
         {
-            "id": "97",
+            "id": "98",
             "bank": "NOVO BANCO, SA(FORMERLY BANCO ESPIRITO SANTO SA)",
             "city": "FUNCHAL",
             "branch": "(SUCURSAL FINANCEIRA EXTERIOR, MADEIRA BRANCH)",
             "swift_code": "BESCPTPLOSF"
         },
         {
-            "id": "98",
+            "id": "99",
             "bank": "NOVO BANCO, SA(FORMERLY BANCO ESPIRITO SANTO SA)",
             "city": "LISBON",
             "branch": null,
             "swift_code": "BESCPTPL"
         },
         {
-            "id": "99",
+            "id": "100",
             "bank": "NOVO BANCO, SA(FORMERLY BANCO ESPIRITO SANTO SA)",
             "city": "PORTO",
             "branch": null,
             "swift_code": "BESCPTPLOPR"
         },
         {
-            "id": "100",
+            "id": "101",
             "bank": "OMICLEAR,C.C.,S.A.",
             "city": "LISBON",
             "branch": "(ANCILLARY SYSTEM ACCOUNT)",
             "swift_code": "OMICPTPLASA"
         },
         {
-            "id": "101",
+            "id": "102",
             "bank": "OMICLEAR,C.C.,S.A.",
             "city": "LISBON",
             "branch": null,
             "swift_code": "OMICPTPL"
         },
         {
-            "id": "102",
+            "id": "103",
             "bank": "OMICLEAR,C.C.,S.A.",
             "city": "LISBON",
             "branch": null,
             "swift_code": "OMICPTPLCLI"
         },
         {
-            "id": "103",
+            "id": "104",
+            "bank": "PORTUCEL S.A.",
+            "city": "SETUBAL",
+            "branch": null,
+            "swift_code": "POTCPTPT"
+        },
+        {
+            "id": "105",
             "bank": "ST.GALLER KANTONALBANK AG - SUCURSAL EM PORTUGAL",
             "city": "LISBON",
             "branch": null,
             "swift_code": "CCIEPTPX"
         },
         {
-            "id": "104",
+            "id": "106",
             "bank": "ZURICH-COMPANHIA DE SEGUROS S.A.",
             "city": "LISBON",
             "branch": null,

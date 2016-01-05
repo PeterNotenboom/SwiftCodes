@@ -18,328 +18,314 @@
         },
         {
             "id": "3",
-            "bank": "ALLIANCE BANK",
-            "city": "ALMATY",
-            "branch": null,
-            "swift_code": "IRTYKZKA"
-        },
-        {
-            "id": "4",
-            "bank": "ALLIANCE BANK",
-            "city": "ALMATY",
-            "branch": null,
-            "swift_code": "IRTYKZKA001"
-        },
-        {
-            "id": "5",
             "bank": "ASIACREDIT BANK",
             "city": "ALMATY",
             "branch": null,
             "swift_code": "LARIKZKA"
         },
         {
-            "id": "6",
-            "bank": "ASTANA FINANCE BANK",
-            "city": "ALMATY",
-            "branch": null,
-            "swift_code": "ASFBKZKA"
-        },
-        {
-            "id": "7",
-            "bank": "ATF BANK",
+            "id": "4",
+            "bank": "ATFBANK JSC",
             "city": "ALMATY",
             "branch": null,
             "swift_code": "ALMNKZKA"
         },
         {
-            "id": "8",
-            "bank": "ATF BANK",
+            "id": "5",
+            "bank": "ATFBANK JSC",
             "city": "ALMATY",
             "branch": null,
             "swift_code": "ALMNKZKATRE"
         },
         {
-            "id": "9",
+            "id": "6",
             "bank": "BANK KASSA NOVA",
             "city": "ASTANA",
             "branch": null,
             "swift_code": "KSNVKZKA"
         },
         {
-            "id": "10",
+            "id": "7",
+            "bank": "BANK OF ASTANA JSC",
+            "city": "ALMATY",
+            "branch": null,
+            "swift_code": "ASFBKZKA"
+        },
+        {
+            "id": "8",
             "bank": "BANK OF CHINA KAZAKHSTAN",
             "city": "ALMATY",
             "branch": null,
             "swift_code": "BKCHKZKA"
         },
         {
-            "id": "11",
+            "id": "9",
             "bank": "BANK RBK",
             "city": "ALMATY",
             "branch": null,
             "swift_code": "KINCKZKA"
         },
         {
-            "id": "12",
+            "id": "10",
             "bank": "CENTRAL SECURITIES DEPOSITORY, CJSC",
             "city": "ALMATY",
             "branch": null,
             "swift_code": "CEDUKZKA"
         },
         {
-            "id": "13",
+            "id": "11",
             "bank": "CJSC CITIBANK KAZAKHSTAN",
             "city": "ALMATY",
             "branch": null,
             "swift_code": "CITIKZKA"
         },
         {
-            "id": "14",
+            "id": "12",
             "bank": "DELTA BANK, JSC",
             "city": "ALMATY",
             "branch": null,
             "swift_code": "NFBAKZ23"
         },
         {
-            "id": "15",
+            "id": "13",
             "bank": "DEVELOPMENT BANK OF KAZAKHSTAN JSC",
             "city": "ASTANA",
             "branch": null,
             "swift_code": "DVKAKZKA"
         },
         {
-            "id": "16",
+            "id": "14",
             "bank": "EURASIAN BANK",
             "city": "ALMATY",
             "branch": null,
             "swift_code": "EURIKZKA"
         },
         {
-            "id": "17",
+            "id": "15",
             "bank": "EURASIAN DEVELOPMENT BANK",
             "city": "ALMATY",
-            "branch": "(ANTI-CRISIS FUND OF EURASEC)",
+            "branch": "(EURASIAN FUND FOR STABILIZATION AND DEVELOPMENT)",
             "swift_code": "EABRKZKAACF"
         },
         {
-            "id": "18",
+            "id": "16",
             "bank": "EURASIAN DEVELOPMENT BANK",
             "city": "ALMATY",
             "branch": null,
             "swift_code": "EABRKZKA"
         },
         {
-            "id": "19",
+            "id": "17",
             "bank": "EXIMBANK KAZAKHSTAN JOINT-STOCK COMPANY",
             "city": "ALMATY",
             "branch": null,
             "swift_code": "EXKAKZKA"
         },
         {
-            "id": "20",
-            "bank": "FORTEBANK JSC",
+            "id": "18",
+            "bank": "FORTEBANK JSC (FORMERLY ALLIANCE BANK)",
             "city": "ALMATY",
             "branch": null,
-            "swift_code": "FOBAKZKA"
+            "swift_code": "IRTYKZKA"
         },
         {
-            "id": "21",
+            "id": "19",
+            "bank": "FORTEBANK JSC (FORMERLY ALLIANCE BANK)",
+            "city": "ALMATY",
+            "branch": null,
+            "swift_code": "IRTYKZKA001"
+        },
+        {
+            "id": "20",
             "bank": "HALYK SAVINGS BANK OF KAZAKSTAN",
             "city": "ALMATY",
             "branch": "(TREASURY DEPARTMENT)",
             "swift_code": "HSBKKZKXTSY"
         },
         {
-            "id": "22",
+            "id": "21",
             "bank": "HALYK SAVINGS BANK OF KAZAKSTAN",
             "city": "ALMATY",
             "branch": null,
             "swift_code": "HSBKKZKX"
         },
         {
-            "id": "23",
-            "bank": "HOUSE CONSTRUCTION SAVINGS BANK OF KAZAKHSTAN",
-            "city": "ALMATY",
-            "branch": null,
-            "swift_code": "HCSKKZKA"
-        },
-        {
-            "id": "24",
-            "bank": "HSBC BANK KAZAKHSTAN",
-            "city": "ALMATY",
-            "branch": null,
-            "swift_code": "ATYNKZKA"
-        },
-        {
-            "id": "25",
+            "id": "22",
             "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
             "city": "ALMATY",
             "branch": null,
             "swift_code": "ICBKKZKX"
         },
         {
-            "id": "26",
+            "id": "23",
+            "bank": "JOINT STOCK COMPANY HOUSE CONSTRUCTION SAVINGS BANK OF KAZAKHSTAN",
+            "city": "ALMATY",
+            "branch": null,
+            "swift_code": "HCSKKZKA"
+        },
+        {
+            "id": "24",
+            "bank": "JSC 'ALTYN BANK' (SB OF JSC 'HALYK BANK')",
+            "city": "ALMATY",
+            "branch": null,
+            "swift_code": "ATYNKZKA"
+        },
+        {
+            "id": "25",
             "bank": "JSC 'BANK CENTERCREDIT'",
             "city": "ALMATY",
             "branch": null,
             "swift_code": "KCJBKZKX"
         },
         {
-            "id": "27",
+            "id": "26",
             "bank": "JSC 'BANKPOZITIV KAZAKHSTAN'",
             "city": "ALMATY",
             "branch": null,
             "swift_code": "DEMIKZKA"
         },
         {
-            "id": "28",
+            "id": "27",
             "bank": "JSC CAPITAL BANK KAZAKHSTAN",
             "city": "ALMATY",
             "branch": null,
             "swift_code": "TBKBKZKA"
         },
         {
-            "id": "29",
+            "id": "28",
             "bank": "JSC SB PNB-KAZAKHSTAN",
             "city": "ALMATY",
             "branch": null,
             "swift_code": "DABNKZ2P"
         },
         {
-            "id": "30",
+            "id": "29",
             "bank": "KASPI BANK JSC",
             "city": "ALMATY",
             "branch": null,
             "swift_code": "CASPKZKA"
         },
         {
-            "id": "31",
+            "id": "30",
             "bank": "KAZAKHSTAN STOCK EXCHANGE",
             "city": "ALMATY",
             "branch": null,
             "swift_code": "KICEKZKX"
         },
         {
-            "id": "32",
+            "id": "31",
             "bank": "KAZAKHSTAN-ZIRAAT INTERNATIONAL BANK",
             "city": "ALMATY",
             "branch": null,
             "swift_code": "KZIBKZKA"
         },
         {
-            "id": "33",
+            "id": "32",
             "bank": "KAZINVESTBANK, JSC",
             "city": "ALMATY",
             "branch": null,
             "swift_code": "KAZSKZKA"
         },
         {
-            "id": "34",
-            "bank": "KAZKOMMERTSBANK",
-            "city": "ALMATY",
-            "branch": null,
-            "swift_code": "KZKOKZKX"
-        },
-        {
-            "id": "35",
+            "id": "33",
             "bank": "NATIONAL BANK OF KAZAKHSTAN",
             "city": "ALMATY",
             "branch": null,
             "swift_code": "NBRKKZKX"
         },
         {
-            "id": "36",
+            "id": "34",
             "bank": "NATIONAL BANK OF PAKISTAN CJSC SB",
             "city": "ALMATY",
             "branch": null,
             "swift_code": "NBPAKZKA"
         },
         {
-            "id": "37",
+            "id": "35",
             "bank": "NURBANK JOINT STOCK COMPANY",
             "city": "ALMATY",
             "branch": null,
             "swift_code": "NURSKZKX"
         },
         {
-            "id": "38",
-            "bank": "OJSC TEMIRBANK",
-            "city": "ALMATY",
-            "branch": null,
-            "swift_code": "JSRBKZKA"
-        },
-        {
-            "id": "39",
+            "id": "36",
             "bank": "QAZAQ BANKI JOINT STOCK COMPANY",
             "city": "ALMATY",
             "branch": null,
             "swift_code": "SENIKZKA"
         },
         {
-            "id": "40",
+            "id": "37",
             "bank": "SB JSC HOME CREDIT AND FINANCE BANK",
             "city": "ALMATY",
             "branch": null,
             "swift_code": "INLMKZKA"
         },
         {
-            "id": "41",
+            "id": "38",
             "bank": "SB SBERBANK JSC",
             "city": "ALMATY",
             "branch": null,
             "swift_code": "SABRKZKA"
         },
         {
-            "id": "42",
+            "id": "39",
             "bank": "SB SBERBANK JSC",
             "city": "ASTANA",
             "branch": "(ASTANA BRANCH)",
             "swift_code": "SABRKZKAAST"
         },
         {
-            "id": "43",
-            "bank": "SHINHAN BANK KAZAKHSTAN",
+            "id": "40",
+            "bank": "SHINHAN BANK KAZAKHSTAN JSC",
             "city": "ALMATY",
             "branch": null,
             "swift_code": "SHBKKZKA"
         },
         {
-            "id": "44",
+            "id": "41",
+            "bank": "SOVEREIGN WEALTH FUND SAMRUK-KAZYNA JSC",
+            "city": "ASTANA",
+            "branch": null,
+            "swift_code": "SMKZKZKA"
+        },
+        {
+            "id": "42",
             "bank": "THE ROYAL BANK OF SCOTLAND KAZAKHSTAN",
             "city": "ALMATY",
             "branch": null,
             "swift_code": "ABNAKZKX"
         },
         {
-            "id": "45",
+            "id": "43",
             "bank": "THE ROYAL BANK OF SCOTLAND KAZAKHSTAN",
             "city": "ATYRAU",
             "branch": "(ATYRAU BRANCH)",
             "swift_code": "ABNAKZKXATY"
         },
         {
-            "id": "46",
+            "id": "44",
             "bank": "THE ROYAL BANK OF SCOTLAND KAZAKHSTAN",
             "city": "TENGIZ",
             "branch": "(TCOV BRANCH)",
             "swift_code": "ABNAKZKXTCO"
         },
         {
-            "id": "47",
-            "bank": "TSESNA BANK OPEN JOINT-STOCK COMPANY",
+            "id": "45",
+            "bank": "TSESNABANK JOINT-STOCK COMPANY",
             "city": "ASTANA",
             "branch": null,
             "swift_code": "TSESKZKA"
         },
         {
-            "id": "48",
+            "id": "46",
             "bank": "VTB BANK (KAZAKHSTAN)",
             "city": "ALMATY",
             "branch": null,
             "swift_code": "VTBAKZKZ"
         },
         {
-            "id": "49",
+            "id": "47",
             "bank": "ZAMAN-BANK JSC",
             "city": "EKIBASTUZ",
             "branch": null,

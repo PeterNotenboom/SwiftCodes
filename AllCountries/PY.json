@@ -42,21 +42,21 @@
             "bank": "BANCO CENTRAL DEL PARAGUAY",
             "city": "ASUNCION",
             "branch": null,
-            "swift_code": "BCPAPYPD"
+            "swift_code": "BCPAPYPX"
         },
         {
             "id": "7",
             "bank": "BANCO CENTRAL DEL PARAGUAY",
             "city": "ASUNCION",
             "branch": null,
-            "swift_code": "BCPAPYPR"
+            "swift_code": "BCPAPYPD"
         },
         {
             "id": "8",
             "bank": "BANCO CENTRAL DEL PARAGUAY",
             "city": "ASUNCION",
             "branch": null,
-            "swift_code": "BCPAPYPX"
+            "swift_code": "BCPAPYPR"
         },
         {
             "id": "9",
@@ -158,27 +158,48 @@
         },
         {
             "id": "23",
-            "bank": "FINANCIERA PARAGUAYO JAPONESA SAECA",
+            "bank": "FINANCIERA EL COMERCIO S.A.E.C.A.",
             "city": "ASUNCION",
             "branch": null,
-            "swift_code": "FPJSPYPA"
+            "swift_code": "COMAPYPA"
         },
         {
             "id": "24",
+            "bank": "FINANCIERA EXPORTADORA PARAGUAYA S.A.",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "FNXAPYPA"
+        },
+        {
+            "id": "25",
+            "bank": "FINANCIERA PARAGUAYO JAPONESA SAECA",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "FIPJPYPA"
+        },
+        {
+            "id": "26",
             "bank": "FONPLATA - FONDO FINANCIERO PARA EL DESAROLLO DE LA CUENCA DEL PLATA",
             "city": "ASUNCION",
             "branch": null,
             "swift_code": "FOPLPYPA"
         },
         {
-            "id": "25",
+            "id": "27",
+            "bank": "GRUPO INTERNACIONAL DE FINANZAS S.A .C.A. (INTERFISA FINANCIERA)",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "IIFAPYPA"
+        },
+        {
+            "id": "28",
             "bank": "SUDAMERIS BANK S.A.E.C.A.",
             "city": "ASUNCION",
             "branch": null,
             "swift_code": "BSUDPYPX"
         },
         {
-            "id": "26",
+            "id": "29",
             "bank": "VISION BANCO S.A.E.C.A.",
             "city": "ASUNCION",
             "branch": null,

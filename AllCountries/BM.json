@@ -130,31 +130,31 @@
         },
         {
             "id": "19",
+            "bank": "NOVARTIS SECURITIES INVESTMENT LTD",
+            "city": "HAMILTON",
+            "branch": null,
+            "swift_code": "NOVRBMHM035"
+        },
+        {
+            "id": "20",
             "bank": "ROCHE FINANCIAL INVESTMENTS LTD",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "ROCHBMHM"
         },
         {
-            "id": "20",
+            "id": "21",
             "bank": "ROCHE INTERTRADE LIMITED",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "ROCHBMHA"
         },
         {
-            "id": "21",
+            "id": "22",
             "bank": "TCC MARKETS LIMITED",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "TCCMBMHM"
-        },
-        {
-            "id": "22",
-            "bank": "THE BERMUDA SECURITIES DEPOSITORY",
-            "city": "HAMILTON",
-            "branch": null,
-            "swift_code": "BMSDBMHM"
         }
     ]
 }

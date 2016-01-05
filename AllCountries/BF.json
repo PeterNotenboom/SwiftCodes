@@ -46,10 +46,10 @@
         },
         {
             "id": "7",
-            "bank": "BANQUE INTERNATIONALE DU BURKINA",
+            "bank": "BANQUE DE L'UNION BURKINA FASO",
             "city": "OUAGADOUGOU",
             "branch": null,
-            "swift_code": "BIBUBFBF"
+            "swift_code": "BDUGBFBF"
         },
         {
             "id": "8",
@@ -81,24 +81,38 @@
         },
         {
             "id": "12",
+            "bank": "ECOBANK BURKINA",
+            "city": "OUAGADOUGOU",
+            "branch": null,
+            "swift_code": "ECOCBFBF"
+        },
+        {
+            "id": "13",
             "bank": "LA BANQUE AGRICOLE ET COMMERCIALE DU BURKINA (BACB),LA",
             "city": "OUAGADOUGOU",
             "branch": null,
             "swift_code": "CNCBBFBF"
         },
         {
-            "id": "13",
+            "id": "14",
             "bank": "ORABANK BURKINA-FASO",
             "city": "OUAGADOUGOU",
             "branch": null,
             "swift_code": "ORBKBFBF"
         },
         {
-            "id": "14",
+            "id": "15",
             "bank": "SOCIETE GENERALE DE BANQUES AU BURKINA 'SGBB'",
             "city": "OUAGADOUGOU",
             "branch": null,
             "swift_code": "SGBBBFBF"
+        },
+        {
+            "id": "16",
+            "bank": "UBA BURKINA",
+            "city": "OUAGADOUGOU",
+            "branch": null,
+            "swift_code": "BIBUBFBF"
         }
     ]
 }

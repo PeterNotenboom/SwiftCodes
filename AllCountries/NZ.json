@@ -88,325 +88,325 @@
         },
         {
             "id": "13",
+            "bank": "BANK OF CHINA (NEW ZEALAND) LIMITED",
+            "city": "AUCKLAND",
+            "branch": null,
+            "swift_code": "BKCHNZ22"
+        },
+        {
+            "id": "14",
             "bank": "BANK OF INDIA (NEW ZEALAND) LIMITED",
             "city": "AUCKLAND",
             "branch": null,
             "swift_code": "BKIDNZ2A"
         },
         {
-            "id": "14",
+            "id": "15",
+            "bank": "BANK OF NEW ZEALAND",
+            "city": "AUCKLAND",
+            "branch": null,
+            "swift_code": "BKNZNZ22"
+        },
+        {
+            "id": "16",
             "bank": "BANK OF NEW ZEALAND",
             "city": "AUCKLAND",
             "branch": null,
             "swift_code": "BKNZNZ22100"
         },
         {
-            "id": "15",
+            "id": "17",
             "bank": "BANK OF NEW ZEALAND",
             "city": "CHRISTCHURCH",
             "branch": null,
             "swift_code": "BKNZNZ22800"
         },
         {
-            "id": "16",
+            "id": "18",
             "bank": "BANK OF NEW ZEALAND",
             "city": "DUNEDIN",
             "branch": null,
             "swift_code": "BKNZNZ22900"
         },
         {
-            "id": "17",
+            "id": "19",
             "bank": "BANK OF NEW ZEALAND",
             "city": "WELLINGTON",
             "branch": "(BRANCH)",
             "swift_code": "BKNZNZ22500"
         },
         {
-            "id": "18",
+            "id": "20",
             "bank": "BANK OF NEW ZEALAND",
             "city": "WELLINGTON",
             "branch": "(HEAD OFFICE)",
             "swift_code": "BKNZNZ22985"
         },
         {
-            "id": "19",
-            "bank": "BANK OF NEW ZEALAND",
-            "city": "WELLINGTON",
-            "branch": null,
-            "swift_code": "BKNZNZ22"
-        },
-        {
-            "id": "20",
+            "id": "21",
             "bank": "CHINA CONSTRUCTION BANK LTD",
             "city": "AUCKLAND",
             "branch": null,
             "swift_code": "PCBCNZ22"
         },
         {
-            "id": "21",
+            "id": "22",
             "bank": "CITIBANK NA NEW ZEALAND BRANCH",
             "city": "AUCKLAND",
             "branch": "(CO-OP)",
             "swift_code": "CITINZ2XCOP"
         },
         {
-            "id": "22",
+            "id": "23",
             "bank": "CITIBANK NA NEW ZEALAND BRANCH",
             "city": "AUCKLAND",
             "branch": null,
             "swift_code": "CITINZ2X"
         },
         {
-            "id": "23",
+            "id": "24",
             "bank": "DEUTSCHE BANK AG, NEW ZEALAND BRANCH",
             "city": "AUCKLAND",
             "branch": "(CUSTODIAN SERVICES)",
             "swift_code": "DEUTNZ2ANOM"
         },
         {
-            "id": "24",
+            "id": "25",
             "bank": "DEUTSCHE BANK AG, NEW ZEALAND BRANCH",
             "city": "AUCKLAND",
             "branch": "(FUNDS MANAGEMENT)",
             "swift_code": "DEUTNZ2ACFM"
         },
         {
-            "id": "25",
+            "id": "26",
             "bank": "DEUTSCHE BANK AG, NEW ZEALAND BRANCH",
             "city": "AUCKLAND",
             "branch": null,
             "swift_code": "DEUTNZ2A"
         },
         {
-            "id": "26",
+            "id": "27",
+            "bank": "EXNESS LIMITED",
+            "city": "AUCKLAND",
+            "branch": null,
+            "swift_code": "EXNENZ22"
+        },
+        {
+            "id": "28",
             "bank": "FISHER AND PAYKEL APPLIANCES LIMITED",
             "city": "AUCKLAND",
             "branch": null,
             "swift_code": "FPNZNZ2A"
         },
         {
-            "id": "27",
+            "id": "29",
             "bank": "FONTERRA CO-OPERATIVE GROUP LIMITED",
             "city": "AUCKLAND",
             "branch": null,
             "swift_code": "FONTNZ2A"
         },
         {
-            "id": "28",
+            "id": "30",
             "bank": "GENERAL EQUITY",
             "city": "AUCKLAND",
             "branch": null,
             "swift_code": "GEBSNZ2A"
         },
         {
-            "id": "29",
+            "id": "31",
             "bank": "GUARDIANS OF NEW ZEALAND SUPERANNUATION",
             "city": "AUCKLAND",
-            "branch": null,
+            "branch": "(AIM\/POMS SERVICE)",
             "swift_code": "GNZSNZ2A"
         },
         {
-            "id": "30",
+            "id": "32",
             "bank": "HIFX LTD",
             "city": "AUCKLAND",
             "branch": null,
             "swift_code": "HIFXNZ2A"
         },
         {
-            "id": "31",
+            "id": "33",
             "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
             "city": "AUCKLAND",
             "branch": "(CONTINUOUS LINK SETTELMENT DEPARTMENT)",
             "swift_code": "HSBCNZ2ACLS"
         },
         {
-            "id": "32",
+            "id": "34",
             "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
             "city": "AUCKLAND",
             "branch": null,
             "swift_code": "HSBCNZ2A"
         },
         {
-            "id": "33",
+            "id": "35",
             "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
             "city": "CHRISTCHURCH",
             "branch": "(CHRISTCHURCH BRANCH)",
             "swift_code": "HSBCNZ2ACHC"
         },
         {
-            "id": "34",
+            "id": "36",
             "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
             "city": "WELLINGTON",
             "branch": "(WELLINGTON BRANCH)",
             "swift_code": "HSBCNZ2AWLT"
         },
         {
-            "id": "35",
+            "id": "37",
             "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (NEW ZEALAND) LIMITED",
             "city": "AUCKLAND",
             "branch": null,
             "swift_code": "ICBKNZ2A"
         },
         {
-            "id": "36",
+            "id": "38",
             "bank": "JPMORGAN CHASE BANK, N.A.",
             "city": "AUCKLAND",
             "branch": "(WSS LOCAL CUSTODIAN SERVICES)",
             "swift_code": "CHASNZ2ACCS"
         },
         {
-            "id": "37",
+            "id": "39",
             "bank": "JPMORGAN CHASE BANK, N.A.",
             "city": "AUCKLAND",
             "branch": null,
             "swift_code": "CHASNZ2A"
         },
         {
-            "id": "38",
+            "id": "40",
             "bank": "KIWIBANK LIMITED",
             "city": "WELLINGTON",
             "branch": null,
             "swift_code": "KIWINZ22"
         },
         {
-            "id": "39",
+            "id": "41",
             "bank": "KIWIRAIL HOLDINGS LIMITED",
             "city": "WELLINGTON",
             "branch": null,
             "swift_code": "NZRCNZ2W"
         },
         {
-            "id": "40",
+            "id": "42",
             "bank": "KOOKMIN BANK, AUCKLAND BRANCH",
             "city": "AUCKLAND",
             "branch": null,
             "swift_code": "CZNBNZ2A"
         },
         {
-            "id": "41",
+            "id": "43",
             "bank": "MERCEDES-BENZ FINANCIAL SERVICES NEW ZEALAND LTD.",
             "city": "AUCKLAND",
             "branch": null,
             "swift_code": "DCFSNZ2A"
         },
         {
-            "id": "42",
+            "id": "44",
             "bank": "MERCEDES-BENZ NEW ZEALAND LTD.",
             "city": "AUCKLAND",
             "branch": null,
             "swift_code": "DABENZ2A"
         },
         {
-            "id": "43",
+            "id": "45",
             "bank": "NATIONAL NOMINEES LIMITED",
             "city": "AUCKLAND",
             "branch": null,
             "swift_code": "NATANZ22"
         },
         {
-            "id": "44",
+            "id": "46",
             "bank": "NEW ZEALAND EXCHANGE LIMITED",
             "city": "WELLINGTON",
             "branch": null,
             "swift_code": "NZXCNZ2W"
         },
         {
-            "id": "45",
+            "id": "47",
             "bank": "NEW ZEALAND TREASURY",
             "city": "WELLINGTON",
             "branch": null,
             "swift_code": "NZTRNZ2W"
         },
         {
-            "id": "46",
+            "id": "48",
             "bank": "RABOBANK NEW ZEALAND BRANCH",
             "city": "WELLINGTON",
             "branch": null,
             "swift_code": "RABONZ2W"
         },
         {
-            "id": "47",
+            "id": "49",
             "bank": "RABOBANK NEW ZEALAND LIMITED",
             "city": "WELLINGTON",
             "branch": null,
             "swift_code": "RABONZ22"
         },
         {
-            "id": "48",
-            "bank": "RBS (NEW ZEALAND) LIMITED",
-            "city": "AUCKLAND",
-            "branch": null,
-            "swift_code": "ABNANZ2X"
-        },
-        {
-            "id": "49",
+            "id": "50",
             "bank": "RESERVE BANK OF NEW ZEALAND",
             "city": "WELLINGTON",
             "branch": null,
             "swift_code": "RBNZNZ22"
         },
         {
-            "id": "50",
+            "id": "51",
             "bank": "RESERVE BANK OF NEW ZEALAND",
             "city": "WELLINGTON",
             "branch": null,
             "swift_code": "RBNZNZ2S"
         },
         {
-            "id": "51",
+            "id": "52",
             "bank": "RESERVE BANK OF NEW ZEALAND",
             "city": "WELLINGTON",
             "branch": null,
             "swift_code": "RBNZNZ2W"
         },
         {
-            "id": "52",
+            "id": "53",
             "bank": "RESERVE BANK OF NEW ZEALAND",
             "city": "WELLINGTON",
             "branch": null,
             "swift_code": "RBNZNZ2WACC"
         },
         {
-            "id": "53",
+            "id": "54",
             "bank": "RESERVE BANK OF NEW ZEALAND",
             "city": "WELLINGTON",
             "branch": null,
             "swift_code": "RBNZNZ2WCCY"
         },
         {
-            "id": "54",
+            "id": "55",
             "bank": "SAFE AND SOUND BUILDING SOCIETY",
             "city": "AUCKLAND",
             "branch": null,
             "swift_code": "SSBTNZ2A"
         },
         {
-            "id": "55",
+            "id": "56",
             "bank": "TRADE AND MERCHANT TRUST COMPANY LIMITED",
             "city": "AUCKLAND",
             "branch": null,
             "swift_code": "TMTCNZ2A"
         },
         {
-            "id": "56",
+            "id": "57",
             "bank": "TSB BANK LIMITED",
             "city": "NEW PLYMOUTH",
             "branch": null,
             "swift_code": "TSBANZ22"
         },
         {
-            "id": "57",
+            "id": "58",
             "bank": "WESTERN UNION BUSINESS SOLUTIONS (AUSTRALIA) PTY LTD-NZ BRANCH",
             "city": "AUCKLAND",
             "branch": null,
             "swift_code": "COOKNZ2A"
-        },
-        {
-            "id": "58",
-            "bank": "WESTERN UNION BUSINESS SOLUTIONS (NEW ZEALAND)",
-            "city": "WELLINGTON",
-            "branch": null,
-            "swift_code": "CHFXNZ22"
         },
         {
             "id": "59",

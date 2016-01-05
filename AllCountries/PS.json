@@ -1,5 +1,5 @@
 {
-    "country": "Palestinian Territory",
+    "country": "Palestine",
     "country_code": "PS",
     "list": [
         {
@@ -245,14 +245,14 @@
             "bank": "PALESTINE MONETARY AUTHORITY",
             "city": "RAMALLAH",
             "branch": null,
-            "swift_code": "PMAPPS22ACH"
+            "swift_code": "PMAPPS2P"
         },
         {
             "id": "36",
             "bank": "PALESTINE MONETARY AUTHORITY",
             "city": "RAMALLAH",
             "branch": null,
-            "swift_code": "PMAPPS2P"
+            "swift_code": "PMAPPS22ACH"
         },
         {
             "id": "37",
@@ -274,13 +274,6 @@
             "city": "RAMALLAH",
             "branch": null,
             "swift_code": "TNBCPS22"
-        },
-        {
-            "id": "40",
-            "bank": "UNION BANK",
-            "city": "RAMALLAH",
-            "branch": null,
-            "swift_code": "UBSIPS22"
         }
     ]
 }

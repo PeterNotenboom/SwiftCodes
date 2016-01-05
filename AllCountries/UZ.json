@@ -4,59 +4,59 @@
     "list": [
         {
             "id": "1",
-            "bank": "ALOKABANK JOINT STOCK COMMERCIAL BANK",
-            "city": "TASHKENT",
-            "branch": null,
-            "swift_code": "JSCLUZ22"
-        },
-        {
-            "id": "2",
             "bank": "ASIA ALLIANCE BANK",
             "city": "TASHKENT",
             "branch": null,
             "swift_code": "ASACUZ22"
         },
         {
-            "id": "3",
+            "id": "2",
             "bank": "CENTRAL BANK OF THE REPUBLIC UZBEKISTAN",
             "city": "TASHKENT",
             "branch": null,
             "swift_code": "CBUZUZ22"
         },
         {
-            "id": "4",
+            "id": "3",
             "bank": "INFINBANK",
             "city": "TASHKENT",
             "branch": null,
             "swift_code": "INFBUZ2X"
         },
         {
-            "id": "5",
+            "id": "4",
             "bank": "IPOTEKA-BANK",
             "city": "TASHKENT",
             "branch": null,
             "swift_code": "UZHOUZ22"
         },
         {
-            "id": "6",
+            "id": "5",
             "bank": "JOINT STOCK COMMERCIAL BANK 'AGROBANK'",
             "city": "TASHKENT",
             "branch": null,
             "swift_code": "PAKHUZ22"
         },
         {
-            "id": "7",
+            "id": "6",
             "bank": "JOINT STOCK COMMERCIAL BANK SAVDOGAR",
             "city": "TASHKENT",
             "branch": null,
             "swift_code": "JSCSUZ22"
         },
         {
-            "id": "8",
+            "id": "7",
             "bank": "JOINT-STOCK COMMERCIAL BANK TURONBANK",
             "city": "TASHKENT",
             "branch": null,
             "swift_code": "TUROUZ22"
+        },
+        {
+            "id": "8",
+            "bank": "JSC ALOQABANK",
+            "city": "TASHKENT",
+            "branch": null,
+            "swift_code": "JSCLUZ22"
         },
         {
             "id": "9",
@@ -74,7 +74,7 @@
         },
         {
             "id": "11",
-            "bank": "KDB BANK UZBEKISTAN CJSC",
+            "bank": "KDB BANK UZBEKISTAN JSC",
             "city": "TASHKENT",
             "branch": null,
             "swift_code": "KODBUZ22"
@@ -102,7 +102,7 @@
         },
         {
             "id": "15",
-            "bank": "ORIENT FINANS BANK",
+            "bank": "PJSCB 'ORIENT FINANCE'",
             "city": "TASHKENT",
             "branch": null,
             "swift_code": "ORFBUZ22"

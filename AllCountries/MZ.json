@@ -46,83 +46,90 @@
         },
         {
             "id": "7",
+            "bank": "BANCO MAIS, SA",
+            "city": "MAPUTO",
+            "branch": null,
+            "swift_code": "MAISMZMA"
+        },
+        {
+            "id": "8",
             "bank": "BANCO MERCANTIL E DE INVESTIMENTOS",
             "city": "MAPUTO",
             "branch": null,
             "swift_code": "MERVMZMA"
         },
         {
-            "id": "8",
+            "id": "9",
             "bank": "BANCO NACIONAL DE INVESTIMENTO, SA",
             "city": "MAPUTO",
             "branch": null,
             "swift_code": "BNIMMZMP"
         },
         {
-            "id": "9",
+            "id": "10",
+            "bank": "BANCO SOCIETE GENERALE (MOCAMBIQUE) S.A.",
+            "city": "MAPUTO",
+            "branch": null,
+            "swift_code": "MCBLMZMA"
+        },
+        {
+            "id": "11",
             "bank": "BANCO TERRA, SA",
             "city": "MAPUTO",
             "branch": null,
             "swift_code": "TERRMZMA"
         },
         {
-            "id": "10",
+            "id": "12",
             "bank": "BANCO UNICO, SA",
             "city": "MAPUTO",
             "branch": null,
             "swift_code": "UNICMZMX"
         },
         {
-            "id": "11",
+            "id": "13",
             "bank": "BARCLAYS BANK MOCAMBIQUE, S.A.",
             "city": "MAPUTO",
             "branch": null,
             "swift_code": "ABMZMZMA"
         },
         {
-            "id": "12",
+            "id": "14",
             "bank": "CAPITAL BANK SA",
             "city": "MAPUTO",
             "branch": null,
             "swift_code": "IBICMZMA"
         },
         {
-            "id": "13",
+            "id": "15",
             "bank": "ECOBANK MOCAMBIQUE, S.A.",
             "city": "MAPUTO",
             "branch": null,
-            "swift_code": "PRCBMZMP"
+            "swift_code": "ECOCMZMP"
         },
         {
-            "id": "14",
+            "id": "16",
             "bank": "FNB MOZAMBIQUE,SA",
             "city": "MAPUTO",
             "branch": null,
             "swift_code": "FIRNMZMX"
         },
         {
-            "id": "15",
+            "id": "17",
             "bank": "MOZA BANCO SA",
             "city": "MAPUTO",
             "branch": null,
             "swift_code": "MOZAMZMA"
         },
         {
-            "id": "16",
+            "id": "18",
             "bank": "STANDARD BANK SARL",
             "city": "MAPUTO",
             "branch": null,
             "swift_code": "SBICMZMX"
         },
         {
-            "id": "17",
-            "bank": "THE MAURITIUS COMMERCIAL BANK (MOCAMBIQUE) S.A.",
-            "city": "MAPUTO",
-            "branch": null,
-            "swift_code": "MCBLMZMA"
-        },
-        {
-            "id": "18",
+            "id": "19",
             "bank": "UBA MOCAMBIQUE,SA",
             "city": "MAPUTO",
             "branch": null,

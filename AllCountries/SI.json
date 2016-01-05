@@ -4,66 +4,66 @@
     "list": [
         {
             "id": "1",
-            "bank": "ABANKA VIPA D.D.",
+            "bank": "ABANKA D.D.",
             "city": "LJUBLJANA",
             "branch": null,
             "swift_code": "ABANSI2X"
         },
         {
             "id": "2",
+            "bank": "ABANKA D.D. (FORMERLY BANKA CELJE D.D.)",
+            "city": "CELJE",
+            "branch": null,
+            "swift_code": "SBCESI2X"
+        },
+        {
+            "id": "3",
             "bank": "BANK OF SLOVENIA",
             "city": "LJUBLJANA",
             "branch": "(CCBM)",
             "swift_code": "BSLJSI2XCCB"
         },
         {
-            "id": "3",
+            "id": "4",
             "bank": "BANK OF SLOVENIA",
             "city": "LJUBLJANA",
             "branch": "(PORAVNAVA SEPA CT)",
             "swift_code": "BSLJSI2XSCT"
         },
         {
-            "id": "4",
+            "id": "5",
             "bank": "BANK OF SLOVENIA",
             "city": "LJUBLJANA",
             "branch": "(PORAVNAVA STEP2 MPEDD - STORITEV B2B)",
             "swift_code": "BSLJSI2XB2B"
         },
         {
-            "id": "5",
+            "id": "6",
             "bank": "BANK OF SLOVENIA",
             "city": "LJUBLJANA",
             "branch": "(PORAVNAVA STEP2 MPEDD - STORITEV CORE)",
             "swift_code": "BSLJSI2XCOR"
         },
         {
-            "id": "6",
+            "id": "7",
             "bank": "BANK OF SLOVENIA",
             "city": "LJUBLJANA",
             "branch": "(TARGET)",
             "swift_code": "BSLJSI2XEUX"
         },
         {
-            "id": "7",
+            "id": "8",
             "bank": "BANK OF SLOVENIA",
             "city": "LJUBLJANA",
             "branch": null,
             "swift_code": "BSLJSI2X"
         },
         {
-            "id": "8",
+            "id": "9",
             "bank": "BANK OF SLOVENIA",
             "city": "LJUBLJANA",
             "branch": null,
             "swift_code": "BSLJSI2XIND"
-        },
-        {
-            "id": "9",
-            "bank": "BANKA CELJE D.D.",
-            "city": "CELJE",
-            "branch": null,
-            "swift_code": "SBCESI2X"
         },
         {
             "id": "10",
@@ -172,83 +172,41 @@
         },
         {
             "id": "25",
-            "bank": "PROBANKA D.D. MARIBOR",
-            "city": "CELJE",
-            "branch": "(BRANCH CELJE)",
-            "swift_code": "PROBSI2XCEL"
-        },
-        {
-            "id": "26",
-            "bank": "PROBANKA D.D. MARIBOR",
-            "city": "KOPER",
-            "branch": "(KOPER BRANCH)",
-            "swift_code": "PROBSI2XKOP"
-        },
-        {
-            "id": "27",
-            "bank": "PROBANKA D.D. MARIBOR",
-            "city": "KRANJ",
-            "branch": "(BRANCH KRANJ)",
-            "swift_code": "PROBSI2XKRA"
-        },
-        {
-            "id": "28",
-            "bank": "PROBANKA D.D. MARIBOR",
-            "city": "LJUBLJANA",
-            "branch": "(LJUBLJANA BRANCH)",
-            "swift_code": "PROBSI2XLJU"
-        },
-        {
-            "id": "29",
-            "bank": "PROBANKA D.D. MARIBOR",
-            "city": "MARIBOR",
-            "branch": null,
-            "swift_code": "PROBSI2X"
-        },
-        {
-            "id": "30",
-            "bank": "PROBANKA D.D. MARIBOR",
-            "city": "SLOVENJ GRADEC",
-            "branch": "(SLOVENJ GRADEC BRANCH)",
-            "swift_code": "PROBSI2XSLG"
-        },
-        {
-            "id": "31",
             "bank": "RAIFFEISEN BANKA D.D.",
             "city": "MARIBOR",
             "branch": null,
             "swift_code": "KREKSI22"
         },
         {
-            "id": "32",
+            "id": "26",
             "bank": "SBERBANK BANKA D.D.",
             "city": "LJUBLJANA",
             "branch": null,
             "swift_code": "SABRSI2X"
         },
         {
-            "id": "33",
+            "id": "27",
             "bank": "SID-SLOVENSKA IZVOZNA IN RAZVOJNA BANKA, D.D., LJUBLJANA",
             "city": "LJUBLJANA",
             "branch": null,
             "swift_code": "SIDRSI22"
         },
         {
-            "id": "34",
+            "id": "28",
             "bank": "SKB BANKA D.D.",
             "city": "LJUBLJANA",
             "branch": null,
             "swift_code": "SKBASI2X"
         },
         {
-            "id": "35",
+            "id": "29",
             "bank": "UNICREDIT BANKA SLOVENIJA D.D.",
             "city": "LJUBLJANA",
             "branch": null,
             "swift_code": "BACXSI22"
         },
         {
-            "id": "36",
+            "id": "30",
             "bank": "ZVEZA BANK R.Z.Z O.J. PODRUZNICA LJUBLJANA",
             "city": "LJUBLJANA",
             "branch": null,

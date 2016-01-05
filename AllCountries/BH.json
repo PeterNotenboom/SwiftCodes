@@ -473,17 +473,17 @@
         },
         {
             "id": "68",
+            "bank": "CAIRO AMMAN BANK",
+            "city": "MANAMA",
+            "branch": null,
+            "swift_code": "CAABBHBM"
+        },
+        {
+            "id": "69",
             "bank": "CANARA BANK",
             "city": "MANAMA",
             "branch": null,
             "swift_code": "CNRBBHBM"
-        },
-        {
-            "id": "69",
-            "bank": "CAPITAL MANAGEMENT HOUSE",
-            "city": "MANAMA",
-            "branch": null,
-            "swift_code": "CMHBBHBM"
         },
         {
             "id": "70",
@@ -567,14 +567,14 @@
             "bank": "GULF INTERNATIONAL BANK, B.S.C.",
             "city": "MANAMA",
             "branch": null,
-            "swift_code": "GULFBHBM"
+            "swift_code": "GULFBHBMCLS"
         },
         {
             "id": "82",
             "bank": "GULF INTERNATIONAL BANK, B.S.C.",
             "city": "MANAMA",
             "branch": null,
-            "swift_code": "GULFBHBMCLS"
+            "swift_code": "GULFBHBM"
         },
         {
             "id": "83",
@@ -690,17 +690,17 @@
         },
         {
             "id": "99",
+            "bank": "KEB HANA BANK, BAHRAIN BRANCH (FORMERLY KOREA EXCHANGE BANK, BAHRAIN BRANCH)",
+            "city": "MANAMA",
+            "branch": null,
+            "swift_code": "KOEXBHBM"
+        },
+        {
+            "id": "100",
             "bank": "KHALEEJI COMMERCIAL BANK B.S.C. (C)",
             "city": "MANAMA",
             "branch": null,
             "swift_code": "KHCBBHBM"
-        },
-        {
-            "id": "100",
-            "bank": "KOREA EXCHANGE BANK, BAHRAIN BRANCH",
-            "city": "MANAMA",
-            "branch": null,
-            "swift_code": "KOEXBHBM"
         },
         {
             "id": "101",
@@ -900,10 +900,10 @@
         },
         {
             "id": "129",
-            "bank": "TURK EKONOMI BANKASI A.S. BAHRAIN BRANCH",
+            "bank": "TURKIYE FINANS KATILIM BANKASI A.S.",
             "city": "MANAMA",
-            "branch": "(BAHRAIN BRANCH)",
-            "swift_code": "TEBUBHBM"
+            "branch": null,
+            "swift_code": "AFKBBHBM"
         },
         {
             "id": "130",

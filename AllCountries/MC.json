@@ -62,7 +62,7 @@
             "id": "9",
             "bank": "CGM COMPAGNIE DE GESTION PRIVEE MON EGASQUE S.A.M.",
             "city": "MONACO",
-            "branch": null,
+            "branch": "(AIM\/POMS SERVICE)",
             "swift_code": "AZFMMCMC"
         },
         {
@@ -88,73 +88,73 @@
         },
         {
             "id": "13",
-            "bank": "EDMOND DE ROTHSCHILD-MONACO",
+            "bank": "DIETSMANN MONTE CARLO SAM",
             "city": "MONACO",
             "branch": null,
-            "swift_code": "BERLMCMC"
+            "swift_code": "DIETMCMC"
         },
         {
             "id": "14",
             "bank": "EDMOND DE ROTHSCHILD-MONACO",
             "city": "MONACO",
             "branch": null,
-            "swift_code": "BERLMCMCBDF"
+            "swift_code": "BERLMCMC"
         },
         {
             "id": "15",
+            "bank": "EDMOND DE ROTHSCHILD-MONACO",
+            "city": "MONACO",
+            "branch": null,
+            "swift_code": "BERLMCMCBDF"
+        },
+        {
+            "id": "16",
             "bank": "EFG BANK (MONACO)",
             "city": "MONACO",
             "branch": null,
             "swift_code": "EFGBMCMC"
         },
         {
-            "id": "16",
+            "id": "17",
             "bank": "FIRST OMEGA SHIPPING INC.",
             "city": "MONACO",
             "branch": null,
             "swift_code": "FOSYMCMC"
         },
         {
-            "id": "17",
+            "id": "18",
             "bank": "G ET G PRIVATE FINANCE SAM",
             "city": "MONACO",
             "branch": null,
             "swift_code": "GNPFMCMC"
         },
         {
-            "id": "18",
+            "id": "19",
             "bank": "HSBC PRIVATE BANK (MONACO) S.A. (FORMERLY HSBC REPUBLIC BANK (MONACO) S.A.)",
             "city": "MONACO",
             "branch": null,
             "swift_code": "BLICMCMC"
         },
         {
-            "id": "19",
+            "id": "20",
             "bank": "HSBC PRIVATE BANK (MONACO) S.A. (FORMERLY HSBC REPUBLIC BANK (MONACO) S.A.)",
             "city": "MONACO",
             "branch": null,
             "swift_code": "BLICMCMCTSY"
         },
         {
-            "id": "20",
+            "id": "21",
             "bank": "JULIUS BAER (MONACO) S.A.M.",
             "city": "MONACO",
             "branch": null,
             "swift_code": "BAERMCMC"
         },
         {
-            "id": "21",
+            "id": "22",
             "bank": "KBL MONACO PRIVATE BANKERS",
             "city": "MONACO",
             "branch": null,
             "swift_code": "KBLXMCMC"
-        },
-        {
-            "id": "22",
-            "bank": "LLOYDS BANK PLC",
-            "city": "MONACO",
-            "branch": null,
-            "swift_code": "LOYDMCMX"
         },
         {
             "id": "23",
@@ -165,27 +165,34 @@
         },
         {
             "id": "24",
+            "bank": "ROTHELAND S.A.M.",
+            "city": "MONACO",
+            "branch": null,
+            "swift_code": "RTLDMCMC"
+        },
+        {
+            "id": "25",
             "bank": "SOCIETE GENERALE BANK AND TRUST MONACO",
             "city": "MONACO",
             "branch": null,
             "swift_code": "SGBTMCMC"
         },
         {
-            "id": "25",
+            "id": "26",
             "bank": "UBS (MONACO) S.A.",
             "city": "MONACO",
             "branch": null,
             "swift_code": "UBSWMCMX"
         },
         {
-            "id": "26",
+            "id": "27",
             "bank": "UNION BANCAIRE PRIVEE, UBP SA",
             "city": "MONACO",
             "branch": null,
             "swift_code": "UBPGMCMX"
         },
         {
-            "id": "27",
+            "id": "28",
             "bank": "VENUS MANAGEMENT COMPANY S.A.M.",
             "city": "MONACO",
             "branch": null,

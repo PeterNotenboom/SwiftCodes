@@ -11,31 +11,45 @@
         },
         {
             "id": "2",
-            "bank": "BANC SABADELL D'ANDORRA",
+            "bank": "ANDORRA GESTIO AGRICOL REIG SAU",
+            "city": "ESCALDES-ENGORDANY",
+            "branch": "(AIM\/POMS SERVICE)",
+            "swift_code": "AAMAADAD"
+        },
+        {
+            "id": "3",
+            "bank": "BANC SABADELL D'ANDORRA S.A.",
             "city": "ANDORRA LA VELLA",
             "branch": null,
             "swift_code": "BSANADAD"
         },
         {
-            "id": "3",
+            "id": "4",
             "bank": "BANCA PRIVADA D'ANDORRA S.A.",
             "city": "LES ESCALDES",
             "branch": null,
             "swift_code": "CASBADAD"
         },
         {
-            "id": "4",
-            "bank": "CREDIT ANDORRA",
+            "id": "5",
+            "bank": "CREDIT ANDORRA,S.A.",
             "city": "ANDORRA LA VELLA",
             "branch": null,
             "swift_code": "CRDAADAD"
         },
         {
-            "id": "5",
+            "id": "6",
             "bank": "MORA BANC GRUP SA",
             "city": "ANDORRA LA VELLA",
             "branch": null,
             "swift_code": "BINAADAD"
+        },
+        {
+            "id": "7",
+            "bank": "VALL BANC",
+            "city": "ANDORRA LA VELLA",
+            "branch": null,
+            "swift_code": "VALBADAD"
         }
     ]
 }
