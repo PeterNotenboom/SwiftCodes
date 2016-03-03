@@ -1,0 +1,104 @@
+{
+    "country": "Cuba",
+    "country_code": "CU",
+    "list": [
+        {
+            "id": 1,
+            "bank": "BANCO CENTRAL DE CUBA",
+            "city": "LA HABANA",
+            "branch": "(REAL TIMEGROSS SETTLEMENT BRANCH)",
+            "swift_code": "BCCUCUHHSLB"
+        },
+        {
+            "id": 2,
+            "bank": "BANCO CENTRAL DE CUBA",
+            "city": "LA HABANA",
+            "branch": "(SISTEMA UNICO DE COMPENSACION REGIONAL)",
+            "swift_code": "BCCUCUHHSUC"
+        },
+        {
+            "id": 3,
+            "bank": "BANCO CENTRAL DE CUBA",
+            "city": "LA HABANA",
+            "branch": null,
+            "swift_code": "BCCUCUHH"
+        },
+        {
+            "id": 4,
+            "bank": "BANCO DE CREDITO Y COMERCIO",
+            "city": "LA HABANA",
+            "branch": null,
+            "swift_code": "BDCRCUHH"
+        },
+        {
+            "id": 5,
+            "bank": "BANCO DE INVERSIONES S.A.",
+            "city": "LA HABANA",
+            "branch": null,
+            "swift_code": "BICUCUHH"
+        },
+        {
+            "id": 6,
+            "bank": "BANCO EXTERIOR DE CUBA",
+            "city": "LA HABANA",
+            "branch": null,
+            "swift_code": "BECUCUHH"
+        },
+        {
+            "id": 7,
+            "bank": "BANCO FINANCIERO INTERNACIONAL, S.A.",
+            "city": "LA HABANA",
+            "branch": null,
+            "swift_code": "BFICCUHH"
+        },
+        {
+            "id": 8,
+            "bank": "BANCO INDUSTRIAL DE VENEZUELA- CUBA S.A.",
+            "city": "LA HABANA",
+            "branch": null,
+            "swift_code": "INDSCUHH"
+        },
+        {
+            "id": 9,
+            "bank": "BANCO INTERNACIONAL DE COMERCIO S.A.",
+            "city": "LA HABANA",
+            "branch": null,
+            "swift_code": "BIDCCUHH"
+        },
+        {
+            "id": 10,
+            "bank": "BANCO METROPOLITANO S.A.",
+            "city": "LA HABANA",
+            "branch": null,
+            "swift_code": "BMNBCUHH"
+        },
+        {
+            "id": 11,
+            "bank": "BANCO NACIONAL DE CUBA",
+            "city": "LA HABANA",
+            "branch": "(DIVISION CENTRAL)",
+            "swift_code": "BNACCUHH011"
+        },
+        {
+            "id": 12,
+            "bank": "BANCO NACIONAL DE CUBA",
+            "city": "LA HABANA",
+            "branch": "(DIVISION COMERCIAL)",
+            "swift_code": "BNACCUHH613"
+        },
+        {
+            "id": 13,
+            "bank": "BANCO NACIONAL DE CUBA",
+            "city": "LA HABANA",
+            "branch": null,
+            "swift_code": "BNACCUHH"
+        },
+        {
+            "id": 14,
+            "bank": "BANCO POPULAR DE AHORRO",
+            "city": "LA HABANA",
+            "branch": null,
+            "swift_code": "BPAHCUHH"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "country": "Comoros",
+    "country_code": "KM",
+    "list": [
+        {
+            "id": 1,
+            "bank": "BANQUE CENTRALE DES COMOROS",
+            "city": "MORONI",
+            "branch": null,
+            "swift_code": "COCBKMKM"
+        },
+        {
+            "id": 2,
+            "bank": "BANQUE FEDERALE DE COMMERCE",
+            "city": "MORONI",
+            "branch": null,
+            "swift_code": "BFDCKMKM"
+        },
+        {
+            "id": 3,
+            "bank": "BANQUE POUR L'INDUSTRIE ET LE COMMERCE DES COMORES",
+            "city": "MORONI",
+            "branch": null,
+            "swift_code": "BICCKMKM"
+        },
+        {
+            "id": 4,
+            "bank": "EXIM BANK COMORES LTD",
+            "city": "MORONI",
+            "branch": null,
+            "swift_code": "EXTNKMKM"
+        },
+        {
+            "id": 5,
+            "bank": "SNPSF (SOCIETE NATIONALE DES POSTES)",
+            "city": "MORONI",
+            "branch": null,
+            "swift_code": "HAHMKMKM"
+        }
+    ]
+}

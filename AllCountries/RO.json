@@ -3,1022 +3,1022 @@
     "country_code": "RO",
     "list": [
         {
-            "id": "1",
+            "id": 1,
             "bank": "ALPHA BANK ROMANIA SA",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "BUCUROBU"
         },
         {
-            "id": "2",
+            "id": 2,
             "bank": "BANC POST S.A.",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "BPOSROBU"
         },
         {
-            "id": "3",
+            "id": 3,
             "bank": "BANCA CENTRALA COOPERATISTA CREDITCOOP",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "CRCOROBU"
         },
         {
-            "id": "4",
+            "id": 4,
             "bank": "BANCA COMERCIALA CARPATICA SA",
             "city": "SIBIU",
             "branch": null,
             "swift_code": "CARPRO22"
         },
         {
-            "id": "5",
+            "id": 5,
             "bank": "BANCA COMERCIALA CARPATICA SA",
             "city": "SIBIU",
             "branch": null,
             "swift_code": "CARPRO22"
         },
         {
-            "id": "6",
+            "id": 6,
             "bank": "BANCA COMERCIALA FEROVIARA S.A.",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "BFERROBU"
         },
         {
-            "id": "7",
+            "id": 7,
             "bank": "BANCA COMERCIALA ROMANA S.A",
             "city": "ARAD",
             "branch": "(ARAD BRANCH)",
             "swift_code": "RNCBROBUAR0"
         },
         {
-            "id": "8",
+            "id": 8,
             "bank": "BANCA COMERCIALA ROMANA S.A",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "RNCBROBU"
         },
         {
-            "id": "9",
+            "id": 9,
             "bank": "BANCA COMERCIALA ROMANA S.A",
             "city": "RESITA",
             "branch": "(CARAS SEVERIN BRANCH)",
             "swift_code": "RNCBROBUCS0"
         },
         {
-            "id": "10",
+            "id": 10,
             "bank": "BANCA COMERCIALA ROMANA S.A",
             "city": "SFANTU GHEORGHE",
             "branch": "(COVASNA BRANCH)",
             "swift_code": "RNCBROBUCV0"
         },
         {
-            "id": "11",
+            "id": 11,
             "bank": "BANCA COMERCIALA ROMANA S.A",
             "city": "SLOBOZIA",
             "branch": "(IALOMITA BRANCH)",
             "swift_code": "RNCBROBUIL0"
         },
         {
-            "id": "12",
+            "id": 12,
             "bank": "BANCA ROMANA DE CREDITE SI INVESTITII S.A.",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "MINDROBU"
         },
         {
-            "id": "13",
+            "id": 13,
             "bank": "BANCA ROMANEASCA S.A.",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "BRMAROBU"
         },
         {
-            "id": "14",
+            "id": 14,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "AIUD",
             "branch": "(AIUD)",
             "swift_code": "BTRLRO22ABI"
         },
         {
-            "id": "15",
+            "id": 15,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "ALBA IULIA",
             "branch": "(ALBA BRANCH)",
             "swift_code": "BTRLRO22ABA"
         },
         {
-            "id": "16",
+            "id": 16,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "ALESD",
             "branch": "(AG. ALESD)",
             "swift_code": "BTRLRO22BH4"
         },
         {
-            "id": "17",
+            "id": 17,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "ALEXANDRIA",
             "branch": "(ALEXANDRIA)",
             "swift_code": "BTRLRO22TRA"
         },
         {
-            "id": "18",
+            "id": 18,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "ARAD",
             "branch": "(AG. ARAD)",
             "swift_code": "BTRLRO22AR1"
         },
         {
-            "id": "19",
+            "id": 19,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "ARAD",
             "branch": "(AG. ARAD)",
             "swift_code": "BTRLRO22AR2"
         },
         {
-            "id": "20",
+            "id": 20,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "ARAD",
             "branch": "(ARAD BRANCH)",
             "swift_code": "BTRLRO22ARA"
         },
         {
-            "id": "21",
+            "id": 21,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "BACAU",
             "branch": "(BACAU BRANCH)",
             "swift_code": "BTRLRO22BCA"
         },
         {
-            "id": "22",
+            "id": 22,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "BAIA MARE",
             "branch": "(BAIA MARE BRANCH)",
             "swift_code": "BTRLRO22MMA"
         },
         {
-            "id": "23",
+            "id": 23,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "BEIUS",
             "branch": "(BEIUS)",
             "swift_code": "BTRLRO22BHB"
         },
         {
-            "id": "24",
+            "id": 24,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "BISTRITA",
             "branch": "(BISTRITA BRANCH)",
             "swift_code": "BTRLRO22BNA"
         },
         {
-            "id": "25",
+            "id": 25,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "BOTOSANI",
             "branch": "(BOTOSANI)",
             "swift_code": "BTRLRO22BTA"
         },
         {
-            "id": "26",
+            "id": 26,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "BRAILA",
             "branch": "(BRAILA BRANCH)",
             "swift_code": "BTRLRO22BRA"
         },
         {
-            "id": "27",
+            "id": 27,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "BRASOV",
             "branch": "(BRASOV BRANCH)",
             "swift_code": "BTRLRO22BVA"
         },
         {
-            "id": "28",
+            "id": 28,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "BUCHAREST",
             "branch": "(AG. DOROBANTI)",
             "swift_code": "BTRLRO22BB4"
         },
         {
-            "id": "29",
+            "id": 29,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "BUCHAREST",
             "branch": "(AG. MAGHERU)",
             "swift_code": "BTRLRO22BB3"
         },
         {
-            "id": "30",
+            "id": 30,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "BUCHAREST",
             "branch": "(AG. MARRIOTT)",
             "swift_code": "BTRLRO22BB2"
         },
         {
-            "id": "31",
+            "id": 31,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "BUCHAREST",
             "branch": "(BUCURESTI CHIBRIT)",
             "swift_code": "BTRLRO22BBC"
         },
         {
-            "id": "32",
+            "id": 32,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "BUCHAREST",
             "branch": "(BUCURESTI OTOPENI)",
             "swift_code": "BTRLRO22BOT"
         },
         {
-            "id": "33",
+            "id": 33,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "BUCHAREST",
             "branch": "(BUCURESTI VOLUNTARI)",
             "swift_code": "BTRLRO22BVO"
         },
         {
-            "id": "34",
+            "id": 34,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "BUCHAREST",
             "branch": "(CENTRE NOUVEAU BRANCH)",
             "swift_code": "BTRLRO22BBL"
         },
         {
-            "id": "35",
+            "id": 35,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "BUCHAREST",
             "branch": "(MILITARI BRANCH)",
             "swift_code": "BTRLRO22BB1"
         },
         {
-            "id": "36",
+            "id": 36,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "BUCHAREST",
             "branch": "(OBOR BRANCH)",
             "swift_code": "BTRLRO22BBB"
         },
         {
-            "id": "37",
+            "id": 37,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "BUCHAREST",
             "branch": "(PANTELIMON BRANCH)",
             "swift_code": "BTRLRO22BBP"
         },
         {
-            "id": "38",
+            "id": 38,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "BUCHAREST",
             "branch": "(PIATA ALBA-IULIA BRANCH)",
             "swift_code": "BTRLRO22BBA"
         },
         {
-            "id": "39",
+            "id": 39,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "BUCHAREST",
             "branch": "(VICTORIEI BRANCH)",
             "swift_code": "BTRLRO22BBV"
         },
         {
-            "id": "40",
+            "id": 40,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "BUZAU",
             "branch": "(BUZAU BRANCH)",
             "swift_code": "BTRLRO22BZA"
         },
         {
-            "id": "41",
+            "id": 41,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "CAREI",
             "branch": "(AG. CAREI)",
             "swift_code": "BTRLRO22SMC"
         },
         {
-            "id": "42",
+            "id": 42,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "CHISINAU CRIS",
             "branch": "(AG. CHISINAU CRIS)",
             "swift_code": "BTRLRO22AR4"
         },
         {
-            "id": "43",
+            "id": 43,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "CLUJ-NAPOCA",
             "branch": "(AG. BILLA)",
             "swift_code": "BTRLRO22CJ8"
         },
         {
-            "id": "44",
+            "id": 44,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "CLUJ-NAPOCA",
             "branch": "(BT SECURITIES)",
             "swift_code": "BTRLRO22BTS"
         },
         {
-            "id": "45",
+            "id": 45,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "CLUJ-NAPOCA",
             "branch": "(CLUJ-NAPOCA BRANCH)",
             "swift_code": "BTRLRO22CJA"
         },
         {
-            "id": "46",
+            "id": 46,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "CLUJ-NAPOCA",
             "branch": "(MARASTI)",
             "swift_code": "BTRLRO22CJM"
         },
         {
-            "id": "47",
+            "id": 47,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "CLUJ-NAPOCA",
             "branch": "(ZORILOR)",
             "swift_code": "BTRLRO22CJZ"
         },
         {
-            "id": "48",
+            "id": 48,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "CLUJ-NAPOCA",
             "branch": null,
             "swift_code": "BTRLRO22"
         },
         {
-            "id": "49",
+            "id": 49,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "CONSTANTA",
             "branch": "(CONSTANTA BRANCH)",
             "swift_code": "BTRLRO22CTA"
         },
         {
-            "id": "50",
+            "id": 50,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "CRAIOVA",
             "branch": "(CRAIOVA BRANCH)",
             "swift_code": "BTRLRO22DJA"
         },
         {
-            "id": "51",
+            "id": 51,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "DEJ",
             "branch": "(DEJ BRANCH)",
             "swift_code": "BTRLRO22CJD"
         },
         {
-            "id": "52",
+            "id": 52,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "DEVA",
             "branch": "(DEVA BRANCH)",
             "swift_code": "BTRLRO22HDA"
         },
         {
-            "id": "53",
+            "id": 53,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "DRAGASANI",
             "branch": "(DRAGASANI)",
             "swift_code": "BTRLRO22VLD"
         },
         {
-            "id": "54",
+            "id": 54,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "FAGARAS",
             "branch": "(FAGARAS)",
             "swift_code": "BTRLRO22BVF"
         },
         {
-            "id": "55",
+            "id": 55,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "FALTICENI",
             "branch": "(FALTICENI)",
             "swift_code": "BTRLRO22SVF"
         },
         {
-            "id": "56",
+            "id": 56,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "FOCSANI",
             "branch": "(FOCSANI BRANCH)",
             "swift_code": "BTRLRO22VRA"
         },
         {
-            "id": "57",
+            "id": 57,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "GALATI",
             "branch": "(GALATI BRANCH)",
             "swift_code": "BTRLRO22GLA"
         },
         {
-            "id": "58",
+            "id": 58,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "GHERLA",
             "branch": "(GHERLA)",
             "swift_code": "BTRLRO22CJG"
         },
         {
-            "id": "59",
+            "id": 59,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "GIURGIU",
             "branch": "(ZONA LIBERTA GIURGIU BRANCH)",
             "swift_code": "BTRLRO22GRA"
         },
         {
-            "id": "60",
+            "id": 60,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "HUEDIN",
             "branch": "(HUEDIN)",
             "swift_code": "BTRLRO22CJH"
         },
         {
-            "id": "61",
+            "id": 61,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "IASI",
             "branch": "(IASI BRANCH)",
             "swift_code": "BTRLRO22ISA"
         },
         {
-            "id": "62",
+            "id": 62,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "INEU",
             "branch": "(AG. INEU)",
             "swift_code": "BTRLRO22AR5"
         },
         {
-            "id": "63",
+            "id": 63,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "LUGOJ",
             "branch": "(AG. LUGOJ)",
             "swift_code": "BTRLRO22TML"
         },
         {
-            "id": "64",
+            "id": 64,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "MANGALIA",
             "branch": "(AG. MANGALIA)",
             "swift_code": "BTRLRO22CTM"
         },
         {
-            "id": "65",
+            "id": 65,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "NADLAC",
             "branch": "(AG. NADLAC)",
             "swift_code": "BTRLRO22AR3"
         },
         {
-            "id": "66",
+            "id": 66,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "ODORHEIU SECUIESC",
             "branch": "(ODORHEIU SECUIESC)",
             "swift_code": "BTRLRO22HRO"
         },
         {
-            "id": "67",
+            "id": 67,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "ONESTI",
             "branch": "(ONESTI)",
             "swift_code": "BTRLRO22BCO"
         },
         {
-            "id": "68",
+            "id": 68,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "ORADEA",
             "branch": "(ORADEA BRANCH)",
             "swift_code": "BTRLRO22BHA"
         },
         {
-            "id": "69",
+            "id": 69,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "PETROSANI",
             "branch": "(PETROSANI)",
             "swift_code": "BTRLRO22HDP"
         },
         {
-            "id": "70",
+            "id": 70,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "PIATRA NEAMT",
             "branch": "(NEAMT BRANCH)",
             "swift_code": "BTRLRO22NTA"
         },
         {
-            "id": "71",
+            "id": 71,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "PITESTI",
             "branch": "(PITESTI BRANCH)",
             "swift_code": "BTRLRO22AGA"
         },
         {
-            "id": "72",
+            "id": 72,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "PLOIESTI",
             "branch": "(PLOIESTI BRANCH)",
             "swift_code": "BTRLRO22PHA"
         },
         {
-            "id": "73",
+            "id": 73,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "RADAUTI",
             "branch": "(AG. RADAUTI)",
             "swift_code": "BTRLRO22SVR"
         },
         {
-            "id": "74",
+            "id": 74,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "RAMNICU SARAT",
             "branch": "(RAMNICU SARAT)",
             "swift_code": "BTRLRO22BZR"
         },
         {
-            "id": "75",
+            "id": 75,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "RAMNICU VALCEA",
             "branch": "(VALCEA BRANCH)",
             "swift_code": "BTRLRO22VLA"
         },
         {
-            "id": "76",
+            "id": 76,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "REGHIN",
             "branch": "(AG. REGHIN)",
             "swift_code": "BTRLRO22MSR"
         },
         {
-            "id": "77",
+            "id": 77,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "RESITA",
             "branch": "(RESITA)",
             "swift_code": "BTRLRO22CSA"
         },
         {
-            "id": "78",
+            "id": 78,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "ROMAN",
             "branch": "(AG. ROMAN)",
             "swift_code": "BTRLRO22NTR"
         },
         {
-            "id": "79",
+            "id": 79,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "SATU MARE",
             "branch": "(SATU MARE BRANCH)",
             "swift_code": "BTRLRO22SMA"
         },
         {
-            "id": "80",
+            "id": 80,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "SFANTU GHEORGHE",
             "branch": "(SFANTU GHEORGHE BRANCH)",
             "swift_code": "BTRLRO22CVA"
         },
         {
-            "id": "81",
+            "id": 81,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "SIBIU",
             "branch": "(SIBIU BRANCH)",
             "swift_code": "BTRLRO22SBA"
         },
         {
-            "id": "82",
+            "id": 82,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "SIGHET",
             "branch": "(AG. SIGHET)",
             "swift_code": "BTRLRO22MMS"
         },
         {
-            "id": "83",
+            "id": 83,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "SLATINA",
             "branch": "(SLATINA)",
             "swift_code": "BTRLRO22OTA"
         },
         {
-            "id": "84",
+            "id": 84,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "SLOBOZIA",
             "branch": "(SLOBOZIA)",
             "swift_code": "BTRLRO22ILA"
         },
         {
-            "id": "85",
+            "id": 85,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "SUCEAVA",
             "branch": "(SUCEAVA BRANCH)",
             "swift_code": "BTRLRO22SVA"
         },
         {
-            "id": "86",
+            "id": 86,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "TARGOVISTE",
             "branch": "(DAMBOVITA BRANCH)",
             "swift_code": "BTRLRO22DBA"
         },
         {
-            "id": "87",
+            "id": 87,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "TARGU JIU",
             "branch": "(TG. JIU BRANCH)",
             "swift_code": "BTRLRO22GJA"
         },
         {
-            "id": "88",
+            "id": 88,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "TARGU MURES",
             "branch": "(MURES BRANCH)",
             "swift_code": "BTRLRO22MSA"
         },
         {
-            "id": "89",
+            "id": 89,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "TARGU NEAMT",
             "branch": "(TARGU NEAMT)",
             "swift_code": "BTRLRO22NTT"
         },
         {
-            "id": "90",
+            "id": 90,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "TARGU SECUIESC",
             "branch": "(AG. TG. SECUIESC)",
             "swift_code": "BTRLRO22CVT"
         },
         {
-            "id": "91",
+            "id": 91,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "TECUCI",
             "branch": "(TECUCI)",
             "swift_code": "BTRLRO22GLT"
         },
         {
-            "id": "92",
+            "id": 92,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "TIMISOARA",
             "branch": "(TIMISOARA BRANCH)",
             "swift_code": "BTRLRO22TMA"
         },
         {
-            "id": "93",
+            "id": 93,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "TURDA",
             "branch": "(TURDA BRANCH)",
             "swift_code": "BTRLRO22CJT"
         },
         {
-            "id": "94",
+            "id": 94,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "TURNU SEVERIN",
             "branch": "(MEHEDINTI BRANCH)",
             "swift_code": "BTRLRO22MHA"
         },
         {
-            "id": "95",
+            "id": 95,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "VATRA DORNEI",
             "branch": "(VATRA DORNEI)",
             "swift_code": "BTRLRO22SVV"
         },
         {
-            "id": "96",
+            "id": 96,
             "bank": "BANCA TRANSILVANIA S.A.",
             "city": "ZALAU",
             "branch": "(ZALAU BRANCH)",
             "swift_code": "BTRLRO22SJA"
         },
         {
-            "id": "97",
+            "id": 97,
             "bank": "BANK LEUMI ROMANIA S.A.",
             "city": "BRASOV",
             "branch": null,
             "swift_code": "DAFBRO22BRA"
         },
         {
-            "id": "98",
+            "id": 98,
             "bank": "BANK LEUMI ROMANIA S.A.",
             "city": "BUCHAREST",
             "branch": "(HEAD OFFICE)",
             "swift_code": "DAFBRO22"
         },
         {
-            "id": "99",
+            "id": 99,
             "bank": "BANK LEUMI ROMANIA S.A.",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "DAFBRO22BUC"
         },
         {
-            "id": "100",
+            "id": 100,
             "bank": "BANK LEUMI ROMANIA S.A.",
             "city": "CLUJ-NAPOCA",
             "branch": null,
             "swift_code": "DAFBRO22CLU"
         },
         {
-            "id": "101",
+            "id": 101,
             "bank": "BANK LEUMI ROMANIA S.A.",
             "city": "CONSTANTA",
             "branch": null,
             "swift_code": "DAFBRO22CTA"
         },
         {
-            "id": "102",
+            "id": 102,
             "bank": "BANK LEUMI ROMANIA S.A.",
             "city": "ORADEA",
             "branch": null,
             "swift_code": "DAFBRO22ORA"
         },
         {
-            "id": "103",
+            "id": 103,
             "bank": "BANK LEUMI ROMANIA S.A.",
             "city": "TIMISOARA",
             "branch": null,
             "swift_code": "DAFBRO22TIM"
         },
         {
-            "id": "104",
+            "id": 104,
             "bank": "BANK OF CYPRUS PCL NICOSIA, ROMANIAN BRANCH",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "BCYPROBU"
         },
         {
-            "id": "105",
+            "id": 105,
             "bank": "BCR BANCA PENTRU LOCUINTE S.A.",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "BCRLROBU"
         },
         {
-            "id": "106",
+            "id": 106,
             "bank": "BLOM BANK FRANCE S.A. ROMANIA BRANCH",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "BLOMROBU"
         },
         {
-            "id": "107",
+            "id": 107,
             "bank": "BNP PARIBAS FORTIS SA\/NV BRUXELLES BUCHAREST BRANCH",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "FTSBROBU"
         },
         {
-            "id": "108",
+            "id": 108,
             "bank": "BRD - GROUPE SOCIETE GENERALE SA",
             "city": "BUCHAREST",
             "branch": "(CAMPINEANU BRANCH)",
             "swift_code": "BRDEROBUCAM"
         },
         {
-            "id": "109",
+            "id": 109,
             "bank": "BRD - GROUPE SOCIETE GENERALE SA",
             "city": "BUCHAREST",
             "branch": "(SECURITIES DIVISION)",
             "swift_code": "BRDEROBUTIT"
         },
         {
-            "id": "110",
+            "id": 110,
             "bank": "BRD - GROUPE SOCIETE GENERALE SA",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "BRDEROBU"
         },
         {
-            "id": "111",
+            "id": 111,
             "bank": "CAPITAL FINANCIAL SERVICES SA",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "CPFSROBU"
         },
         {
-            "id": "112",
+            "id": 112,
             "bank": "CEC BANK-S.A.",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "CECEROBU"
         },
         {
-            "id": "113",
+            "id": 113,
             "bank": "CITIBANK EUROPE PLC, DUBLIN-SUCURSALA ROMANIA",
             "city": "BUCHAREST",
             "branch": "(TARGET 2)",
             "swift_code": "CITIROBUTGT"
         },
         {
-            "id": "114",
+            "id": 114,
             "bank": "CITIBANK EUROPE PLC, DUBLIN-SUCURSALA ROMANIA",
             "city": "BUCHAREST",
             "branch": "(TRADE SERVICES DEPT.)",
             "swift_code": "CITIROBUTRD"
         },
         {
-            "id": "115",
+            "id": 115,
             "bank": "CITIBANK EUROPE PLC, DUBLIN-SUCURSALA ROMANIA",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "CITIROBU"
         },
         {
-            "id": "116",
+            "id": 116,
             "bank": "CREDIT AGRICOLE BANK ROMANIA S.A.",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "BSEAROBU"
         },
         {
-            "id": "117",
+            "id": 117,
             "bank": "CREDIT EUROPE BANK (ROMANIA) S.A.",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "FNNBROBU"
         },
         {
-            "id": "118",
+            "id": 118,
             "bank": "DEPOZITARUL CENTRAL S.A.",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "DECNROBU"
         },
         {
-            "id": "119",
+            "id": 119,
             "bank": "EXIMBANK OF ROMANIA",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "EXIMROBU"
         },
         {
-            "id": "120",
+            "id": 120,
             "bank": "GARANTI BANK S.A.",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "UGBIROBU"
         },
         {
-            "id": "121",
+            "id": 121,
             "bank": "IDEA BANK SA",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "ROINROBU"
         },
         {
-            "id": "122",
+            "id": 122,
             "bank": "ING BANK N.V., BUCHAREST BRANCH",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "INGBROBU"
         },
         {
-            "id": "123",
+            "id": 123,
             "bank": "INTESA SANPAOLO ROMANIA S.A.",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "WBANRO22"
         },
         {
-            "id": "124",
+            "id": 124,
             "bank": "LIBRA BANK S.A.",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "BRELROBU"
         },
         {
-            "id": "125",
+            "id": 125,
             "bank": "LIBRA BANK S.A.",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "BRELROBUCAM"
         },
         {
-            "id": "126",
+            "id": 126,
             "bank": "MARFIN BANK (ROMANIA) S.A.",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "EGNAROBX"
         },
         {
-            "id": "127",
+            "id": 127,
             "bank": "MINISTRY OF PUBLIC FINANCE",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "TREZROBU"
         },
         {
-            "id": "128",
+            "id": 128,
             "bank": "NATIONAL BANK OF ROMANIA",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "NBORROBS"
         },
         {
-            "id": "129",
+            "id": 129,
             "bank": "NATIONAL BANK OF ROMANIA",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "NBORROBU"
         },
         {
-            "id": "130",
+            "id": 130,
             "bank": "NATIONAL BANK OF ROMANIA",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "NBORROBP"
         },
         {
-            "id": "131",
+            "id": 131,
             "bank": "NEXTEBANK S.A. (FORMERLY MKB ROMEXTERRA BANK)",
             "city": "TARGU MURES",
             "branch": null,
             "swift_code": "CRDZROBUTGM"
         },
         {
-            "id": "132",
+            "id": 132,
             "bank": "NEXTEBANK S.A. (FORMERLY MKB ROMEXTERRA BANK)",
             "city": "VOLUNTARI",
             "branch": null,
             "swift_code": "CRDZROBU"
         },
         {
-            "id": "133",
+            "id": 133,
             "bank": "OTP BANK ROMANIA S.A.",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "OTPVROBU"
         },
         {
-            "id": "134",
+            "id": 134,
             "bank": "PIRAEUS BANK ROMANIA",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "PIRBROBU"
         },
         {
-            "id": "135",
+            "id": 135,
             "bank": "PORSCHE BANK ROMANIA SA",
             "city": "VOLUNTARI",
             "branch": null,
             "swift_code": "PORLROBU"
         },
         {
-            "id": "136",
+            "id": 136,
             "bank": "PROCREDITBANK S.A.",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "MIROROBU"
         },
         {
-            "id": "137",
+            "id": 137,
             "bank": "RAIFFEISEN BANCA PENTRU LOCUINTE S.A.",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "RZBLROBU"
         },
         {
-            "id": "138",
+            "id": 138,
             "bank": "RAIFFEISEN BANK S.A.",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "RZBRROBU"
         },
         {
-            "id": "139",
+            "id": 139,
             "bank": "SC SMITH AND SMITH SRL",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "SSRRROBU"
         },
         {
-            "id": "140",
+            "id": 140,
             "bank": "TBI BANK EAD SOFIA BUCHAREST BRANCH",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "TBIBROBU"
         },
         {
-            "id": "141",
+            "id": 141,
             "bank": "TRANSFOND S.A.",
             "city": "BUCHAREST",
             "branch": "(BACK OFFICE APPLICATION)",
             "swift_code": "TRFDROBSSNT"
         },
         {
-            "id": "142",
+            "id": 142,
             "bank": "TRANSFOND S.A.",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "TRFDROBS"
         },
         {
-            "id": "143",
+            "id": 143,
             "bank": "TRANSFOND S.A.",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "TRFDROBU"
         },
         {
-            "id": "144",
+            "id": 144,
             "bank": "UNICREDIT BANK SA",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "BACXROBU"
         },
         {
-            "id": "145",
+            "id": 145,
             "bank": "VENETO BANCA SCPA ITALIA MONTEBELLUNA SUCURSALA BUCURESTI",
             "city": "BUCHAREST",
             "branch": null,
             "swift_code": "BITRROBU"
         },
         {
-            "id": "146",
+            "id": 146,
             "bank": "VOLKSBANK ROMANIA S.A.",
             "city": "BUCHAREST",
             "branch": null,

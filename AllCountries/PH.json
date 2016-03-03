@@ -3,455 +3,455 @@
     "country_code": "PH",
     "list": [
         {
-            "id": "1",
+            "id": 1,
             "bank": "ASIA UNITED BANK CORPORATION",
             "city": "PASIG CITY",
             "branch": null,
             "swift_code": "AUBKPHMM"
         },
         {
-            "id": "2",
+            "id": 2,
             "bank": "ASIAN DEVELOPMENT BANK",
             "city": "MANILA",
             "branch": null,
             "swift_code": "ASDBPHMM"
         },
         {
-            "id": "3",
+            "id": 3,
             "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
             "city": "MANILA",
             "branch": null,
             "swift_code": "ANZBPHMX"
         },
         {
-            "id": "4",
+            "id": 4,
             "bank": "BANGKO SENTRAL NG PILIPINAS",
             "city": "MANILA",
             "branch": null,
             "swift_code": "PHCBPHMM"
         },
         {
-            "id": "5",
+            "id": 5,
             "bank": "BANGKO SENTRAL NG PILIPINAS",
             "city": "MANILA",
             "branch": null,
             "swift_code": "PHCBPHMD"
         },
         {
-            "id": "6",
+            "id": 6,
             "bank": "BANGKO SENTRAL NG PILIPINAS",
             "city": "MANILA",
             "branch": null,
             "swift_code": "PHCBPHMC"
         },
         {
-            "id": "7",
+            "id": 7,
             "bank": "BANGKOK BANK PUBLIC COMPANY LIMITED, MANILA BRANCH",
             "city": "MANILA",
             "branch": null,
             "swift_code": "BKKBPHMM"
         },
         {
-            "id": "8",
+            "id": 8,
             "bank": "BANK OF AMERICA, N.A. MANILA",
             "city": "MANILA",
             "branch": null,
             "swift_code": "BOFAPH2X"
         },
         {
-            "id": "9",
+            "id": 9,
             "bank": "BANK OF CHINA, MANILA BRANCH",
             "city": "MANILA",
             "branch": null,
             "swift_code": "BKCHPHMM"
         },
         {
-            "id": "10",
+            "id": 10,
             "bank": "BANK OF COMMERCE",
             "city": "MANILA",
             "branch": null,
             "swift_code": "PABIPHMM"
         },
         {
-            "id": "11",
+            "id": 11,
             "bank": "BANK OF THE PHILIPPINE ISLANDS",
             "city": "MANILA",
             "branch": "(TREASURY GROUP)",
             "swift_code": "BOPIPHMMTRY"
         },
         {
-            "id": "12",
+            "id": 12,
             "bank": "BANK OF THE PHILIPPINE ISLANDS",
             "city": "MANILA",
             "branch": null,
             "swift_code": "BOPIPHMM"
         },
         {
-            "id": "13",
+            "id": 13,
             "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
             "city": "MANILA",
             "branch": "(MANILA BRANCH)",
             "swift_code": "BOTKPHMM"
         },
         {
-            "id": "14",
+            "id": 14,
             "bank": "BDO PRIVATE BANK INC.",
             "city": "MANILA",
             "branch": null,
             "swift_code": "BOPBPHMM"
         },
         {
-            "id": "15",
+            "id": 15,
             "bank": "BDO UNIBANK, INC.",
             "city": "MANILA",
             "branch": null,
             "swift_code": "BNORPHMM"
         },
         {
-            "id": "16",
+            "id": 16,
             "bank": "BNP PARIBAS, MANILA OFFSHORE BRANCH",
             "city": "MANILA",
             "branch": null,
             "swift_code": "BNPAPHMM"
         },
         {
-            "id": "17",
+            "id": 17,
             "bank": "CHINA BANKING CORPORATION",
             "city": "MANILA",
             "branch": null,
             "swift_code": "CHBKPHMM"
         },
         {
-            "id": "18",
+            "id": 18,
             "bank": "CITIBANK,N.A., MANILA BRANCH",
             "city": "CEBU",
             "branch": null,
             "swift_code": "CITIPHMXCBU"
         },
         {
-            "id": "19",
+            "id": 19,
             "bank": "CITIBANK,N.A., MANILA BRANCH",
             "city": "MANILA",
             "branch": "(HEAD OFFICE)",
             "swift_code": "CITIPHMX"
         },
         {
-            "id": "20",
+            "id": 20,
             "bank": "CITIBANK,N.A., MANILA BRANCH",
             "city": "MANILA",
             "branch": "(IBG-TREASURY SERVICES UNIT)",
             "swift_code": "CITIPHMXTSU"
         },
         {
-            "id": "21",
+            "id": 21,
             "bank": "CTBC BANK (PHILIPPINES) CORP.",
             "city": "TAGUIG CITY",
             "branch": null,
             "swift_code": "CTCBPHMM"
         },
         {
-            "id": "22",
+            "id": 22,
             "bank": "DEUTSCHE BANK AG",
             "city": "MANILA",
             "branch": null,
             "swift_code": "DEUTPHMM"
         },
         {
-            "id": "23",
+            "id": 23,
             "bank": "DEUTSCHE BANK AG",
             "city": "MANILA",
             "branch": null,
             "swift_code": "DEUTPHMMGMO"
         },
         {
-            "id": "24",
+            "id": 24,
             "bank": "DEVELOPMENT BANK OF THE PHILIPPINES",
             "city": "MANILA",
             "branch": null,
             "swift_code": "DBPHPHMM"
         },
         {
-            "id": "25",
+            "id": 25,
             "bank": "EAST WEST BANKING CORPORATION",
             "city": "MANILA",
             "branch": null,
             "swift_code": "EWBCPHMM"
         },
         {
-            "id": "26",
+            "id": 26,
             "bank": "FIRST CONSOLIDATED BANK INC.",
             "city": "TAGBILARAN",
             "branch": null,
             "swift_code": "FIOOPHMM"
         },
         {
-            "id": "27",
+            "id": 27,
             "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
             "city": "CEBU",
             "branch": "(CEBU BRANCH)",
             "swift_code": "HSBCPHMMCEB"
         },
         {
-            "id": "28",
+            "id": 28,
             "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
             "city": "MANILA",
             "branch": "(CUSTODY AND CLEARING)",
             "swift_code": "HSBCPHMMSEC"
         },
         {
-            "id": "29",
+            "id": 29,
             "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
             "city": "MANILA",
             "branch": "(MNL TREASURY DEPARTMENT)",
             "swift_code": "HSBCPHMMTRY"
         },
         {
-            "id": "30",
+            "id": 30,
             "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
             "city": "TAGUIG CITY",
             "branch": null,
             "swift_code": "HSBCPHMM"
         },
         {
-            "id": "31",
+            "id": 31,
             "bank": "HSBC SAVINGS BANK (PHILIPINES) INC.",
             "city": "MANILA",
             "branch": null,
             "swift_code": "HBPHPHMM"
         },
         {
-            "id": "32",
+            "id": 32,
             "bank": "INDUSTRIAL BANK OF KOREA, MANILA BRANCH",
             "city": "MANILA",
             "branch": null,
             "swift_code": "IBKOPHMM"
         },
         {
-            "id": "33",
+            "id": 33,
             "bank": "ING BANK N.V.",
             "city": "MANILA",
             "branch": null,
             "swift_code": "INGBPHMM"
         },
         {
-            "id": "34",
+            "id": 34,
             "bank": "JPMORGAN CHASE BANK, N.A., MANILA BRANCH",
             "city": "MANILA",
             "branch": "(OFFHORE BANKING UNIT)",
             "swift_code": "CHASPHMMOBU"
         },
         {
-            "id": "35",
+            "id": 35,
             "bank": "JPMORGAN CHASE BANK, N.A., MANILA BRANCH",
             "city": "MANILA",
             "branch": "(TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES)",
             "swift_code": "CHASPHMMENQ"
         },
         {
-            "id": "36",
+            "id": 36,
             "bank": "JPMORGAN CHASE BANK, N.A., MANILA BRANCH",
             "city": "MANILA",
             "branch": "(TEST KEY AND BKE ADMINISTRATION)",
             "swift_code": "CHASPHMMKEY"
         },
         {
-            "id": "37",
+            "id": 37,
             "bank": "JPMORGAN CHASE BANK, N.A., MANILA BRANCH",
             "city": "MANILA",
             "branch": null,
             "swift_code": "CHASPHMM"
         },
         {
-            "id": "38",
+            "id": 38,
             "bank": "KEB HANA BANK (FORMERLY KOREA EXCHANGE BANK)",
             "city": "MAKATI CITY",
             "branch": null,
             "swift_code": "KOEXPHMM"
         },
         {
-            "id": "39",
+            "id": 39,
             "bank": "LAND BANK OF THE PHILIPPINES",
             "city": "MANILA",
             "branch": null,
             "swift_code": "TLBPPHMM"
         },
         {
-            "id": "40",
+            "id": 40,
             "bank": "MAYBANK PHILIPPINES, INC",
             "city": "MANILA",
             "branch": null,
             "swift_code": "MBBEPHMM"
         },
         {
-            "id": "41",
+            "id": 41,
             "bank": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD., MANILA BRANCH",
             "city": "MANILA",
             "branch": null,
             "swift_code": "ICBCPHMM"
         },
         {
-            "id": "42",
+            "id": 42,
             "bank": "METROPOLITAN BANK AND TRUST CO.",
             "city": "MANILA",
             "branch": null,
             "swift_code": "MBTCPHMM"
         },
         {
-            "id": "43",
+            "id": 43,
             "bank": "MIZUHO BANK, LTD., MANILA BRANCH",
             "city": "MAKATI",
             "branch": null,
             "swift_code": "MHCBPHMM"
         },
         {
-            "id": "44",
+            "id": 44,
             "bank": "NESTLE BUSINESS SERVICES AOA INC",
             "city": "MANILA",
             "branch": null,
             "swift_code": "NESNPHMN"
         },
         {
-            "id": "45",
+            "id": 45,
             "bank": "PHILIPPINE BANK OF COMMUNICATIONS",
             "city": "MANILA",
             "branch": null,
             "swift_code": "CPHIPHMM"
         },
         {
-            "id": "46",
+            "id": 46,
             "bank": "PHILIPPINE BUSINESS BANK",
             "city": "CALOOCAN CITY",
             "branch": null,
             "swift_code": "PPBUPHMM"
         },
         {
-            "id": "47",
+            "id": 47,
             "bank": "PHILIPPINE NATIONAL BANK",
             "city": "MANILA",
             "branch": "(TREASURY OPERATIONS DIVISION)",
             "swift_code": "PNBMPHMMTOD"
         },
         {
-            "id": "48",
+            "id": 48,
             "bank": "PHILIPPINE NATIONAL BANK",
             "city": "MANILA",
             "branch": null,
             "swift_code": "PNBMPHMM"
         },
         {
-            "id": "49",
+            "id": 49,
             "bank": "PHILIPPINE SAVINGS BANK",
             "city": "MANILA",
             "branch": null,
             "swift_code": "PHSBPHMM"
         },
         {
-            "id": "50",
+            "id": 50,
             "bank": "PHILIPPINE VETERANS BANK",
             "city": "MANILA",
             "branch": null,
             "swift_code": "PHVBPHMM"
         },
         {
-            "id": "51",
+            "id": 51,
             "bank": "PHILTRUST BANK (PHILIPPINE TRUST COMPANY)",
             "city": "MANILA",
             "branch": null,
             "swift_code": "PHTBPHMM"
         },
         {
-            "id": "52",
+            "id": 52,
             "bank": "RIZAL COMMERCIAL BANKING CORPORATION",
             "city": "MANILA",
             "branch": null,
             "swift_code": "RCBCPHMM"
         },
         {
-            "id": "53",
+            "id": 53,
             "bank": "ROBINSONS BANK CORPORATION",
             "city": "QUEZON CITY",
             "branch": null,
             "swift_code": "ROBPPHMQ"
         },
         {
-            "id": "54",
+            "id": 54,
             "bank": "SECURITY BANK CORPORATION",
             "city": "MANILA",
             "branch": null,
             "swift_code": "SETCPHMM"
         },
         {
-            "id": "55",
+            "id": 55,
             "bank": "SHINHAN BANK MANILA BRANCH",
             "city": "TAGUIG CITY",
             "branch": null,
             "swift_code": "SHBKPHMM"
         },
         {
-            "id": "56",
+            "id": 56,
             "bank": "STANDARD CHARTERED BANK",
             "city": "MANILA",
             "branch": "(CUSTODIAL DEPARTMENT)",
             "swift_code": "SCBLPHMMEQI"
         },
         {
-            "id": "57",
+            "id": 57,
             "bank": "STANDARD CHARTERED BANK",
             "city": "MANILA",
             "branch": null,
             "swift_code": "SCBLPHMM"
         },
         {
-            "id": "58",
+            "id": 58,
             "bank": "SUMITOMO MITSUI BANKING CORPORATION MANILA BRANCH",
             "city": "MAKATI CITY",
             "branch": null,
             "swift_code": "SMBCPHMM"
         },
         {
-            "id": "59",
+            "id": 59,
             "bank": "TAIWAN COOPERATIVE BANK MANILA OFFSHORE BANKING BRANCH",
             "city": "MANILA",
             "branch": null,
             "swift_code": "TACBPHMM"
         },
         {
-            "id": "60",
+            "id": 60,
             "bank": "THE MANUFACTURERS LIFE INSURANCE CO. (PHILS.), INC.",
             "city": "MAKATI CITY",
             "branch": null,
             "swift_code": "MFCTPHMM"
         },
         {
-            "id": "61",
+            "id": 61,
             "bank": "THE PHILIPPINE AMERICAN LIFE AND GENERAL INSURANCECOMPANY",
             "city": "TAGUIG",
             "branch": null,
             "swift_code": "AIACPHMM"
         },
         {
-            "id": "62",
+            "id": 62,
             "bank": "TONG YANG SAVINGS BANK INC.",
             "city": "MANILA",
             "branch": null,
             "swift_code": "TYBKPHMM"
         },
         {
-            "id": "63",
+            "id": 63,
             "bank": "UNION BANK OF THE PHILIPPINES",
             "city": "PASIG CITY",
             "branch": null,
             "swift_code": "UBPHPHMM"
         },
         {
-            "id": "64",
+            "id": 64,
             "bank": "UNITED COCONUT PLANTERS BANK",
             "city": "MANILA",
             "branch": null,
             "swift_code": "UCPBPHMM"
         },
         {
-            "id": "65",
+            "id": 65,
             "bank": "UNITED OVERSEAS BANK PHILIPPINES",
             "city": "MANILA",
             "branch": null,

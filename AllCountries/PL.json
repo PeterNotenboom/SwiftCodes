@@ -3,1141 +3,1141 @@
     "country_code": "PL",
     "list": [
         {
-            "id": "1",
+            "id": 1,
             "bank": "ALIOR BANK SPOLKA AKCYJNA",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "ALBPPLPW"
         },
         {
-            "id": "2",
+            "id": 2,
             "bank": "ATLANTIC FUND SERVICES SP. Z O.O.",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "AFSLPLPW"
         },
         {
-            "id": "3",
+            "id": 3,
             "bank": "BANK BGZ BNP PARIBAS S.A. (FORMERLY BANK GOSPODARKI ZYWNOSCIOWEJ S.A.)",
             "city": "WARSZAWA",
             "branch": "(BROKERAGE OFFICE)",
             "swift_code": "GOPZPLPWBRK"
         },
         {
-            "id": "4",
+            "id": 4,
             "bank": "BANK BGZ BNP PARIBAS S.A. (FORMERLY BANK GOSPODARKI ZYWNOSCIOWEJ S.A.)",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "GOPZPLPW"
         },
         {
-            "id": "5",
+            "id": 5,
             "bank": "BANK BGZ BNP PARIBAS S.A.(FORMERLY BANK GOSPODARKIZYWNOSCIOWEJ S.A.)",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "GOPZPLP2"
         },
         {
-            "id": "6",
+            "id": 6,
             "bank": "BANK BPH SA",
             "city": "GDANSK",
             "branch": null,
             "swift_code": "BPHKPLPK"
         },
         {
-            "id": "7",
+            "id": 7,
             "bank": "BANK BPH SA",
             "city": "WARSZAWA",
             "branch": "(CUSTODY DEPARTMENT)",
             "swift_code": "BPHKPLPKCUS"
         },
         {
-            "id": "8",
+            "id": 8,
             "bank": "BANK GOSPODARSTWA KRAJOWEGO",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "GOSKPLPW"
         },
         {
-            "id": "9",
+            "id": 9,
             "bank": "BANK HANDLOWY W WARSZAWIE SA",
             "city": "WARSZAWA",
             "branch": "(WARSAW COMMODITY CLEARING HOUSE MESSAGES EXCHANGE ONLY)",
             "swift_code": "CITIPLPXCCH"
         },
         {
-            "id": "10",
+            "id": 10,
             "bank": "BANK HANDLOWY W WARSZAWIE SA",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "CITIPLPX"
         },
         {
-            "id": "11",
+            "id": 11,
             "bank": "BANK MILLENNIUM S.A.",
             "city": "WARSZAWA",
             "branch": "(CUSTODY DEPARTMENT)",
             "swift_code": "BIGBPLPWCUS"
         },
         {
-            "id": "12",
+            "id": 12,
             "bank": "BANK MILLENNIUM S.A.",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "BIGBPLPW"
         },
         {
-            "id": "13",
+            "id": 13,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "BIALYSTOK",
             "branch": null,
             "swift_code": "EBOSPLPW216"
         },
         {
-            "id": "14",
+            "id": 14,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "BIELSKO BIALA",
             "branch": null,
             "swift_code": "EBOSPLPW261"
         },
         {
-            "id": "15",
+            "id": 15,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "BYDGOSZCZ",
             "branch": null,
             "swift_code": "EBOSPLPW018"
         },
         {
-            "id": "16",
+            "id": 16,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "CHELM",
             "branch": null,
             "swift_code": "EBOSPLPWCHA"
         },
         {
-            "id": "17",
+            "id": 17,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "CZESTOCHOWA",
             "branch": null,
             "swift_code": "EBOSPLPW005"
         },
         {
-            "id": "18",
+            "id": 18,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "ELBLAG",
             "branch": null,
             "swift_code": "EBOSPLPW274"
         },
         {
-            "id": "19",
+            "id": 19,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "GDANSK",
             "branch": null,
             "swift_code": "EBOSPLPW089"
         },
         {
-            "id": "20",
+            "id": 20,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "JELENIA GORA",
             "branch": "(JELENIA GORA)",
             "swift_code": "EBOSPLPW199"
         },
         {
-            "id": "21",
+            "id": 21,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "KATOWICE",
             "branch": null,
             "swift_code": "EBOSPLPW119"
         },
         {
-            "id": "22",
+            "id": 22,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "KIELCE",
             "branch": null,
             "swift_code": "EBOSPLPWKIA"
         },
         {
-            "id": "23",
+            "id": 23,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "KONIN",
             "branch": null,
             "swift_code": "EBOSPLPW232"
         },
         {
-            "id": "24",
+            "id": 24,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "KOSZALIN",
             "branch": null,
             "swift_code": "EBOSPLPW034"
         },
         {
-            "id": "25",
+            "id": 25,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "KRAKOW",
             "branch": null,
             "swift_code": "EBOSPLPW106"
         },
         {
-            "id": "26",
+            "id": 26,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "LEGNICA",
             "branch": null,
             "swift_code": "EBOSPLPW258"
         },
         {
-            "id": "27",
+            "id": 27,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "LODZ",
             "branch": null,
             "swift_code": "EBOSPLPW245"
         },
         {
-            "id": "28",
+            "id": 28,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "LOMZA",
             "branch": null,
             "swift_code": "EBOSPLPWLOA"
         },
         {
-            "id": "29",
+            "id": 29,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "LUBLIN",
             "branch": null,
             "swift_code": "EBOSPLPW135"
         },
         {
-            "id": "30",
+            "id": 30,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "OBORNIKI WIELKOPOLKIE",
             "branch": null,
             "swift_code": "EBOSPLPW210"
         },
         {
-            "id": "31",
+            "id": 31,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "OLSZTYN",
             "branch": null,
             "swift_code": "EBOSPLPW063"
         },
         {
-            "id": "32",
+            "id": 32,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "OPOLE",
             "branch": null,
             "swift_code": "EBOSPLPW229"
         },
         {
-            "id": "33",
+            "id": 33,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "OSTROW WIELKOPOLSKI",
             "branch": null,
             "swift_code": "EBOSPLPW223"
         },
         {
-            "id": "34",
+            "id": 34,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "PILA",
             "branch": null,
             "swift_code": "EBOSPLPWPIA"
         },
         {
-            "id": "35",
+            "id": 35,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "PLOCK",
             "branch": null,
             "swift_code": "EBOSPLPW290"
         },
         {
-            "id": "36",
+            "id": 36,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "POZNAN",
             "branch": null,
             "swift_code": "EBOSPLPW047"
         },
         {
-            "id": "37",
+            "id": 37,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "RZESZOW",
             "branch": null,
             "swift_code": "EBOSPLPW122"
         },
         {
-            "id": "38",
+            "id": 38,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "SUWALKI",
             "branch": null,
             "swift_code": "EBOSPLPWSUA"
         },
         {
-            "id": "39",
+            "id": 39,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "SZCZECIN",
             "branch": null,
             "swift_code": "EBOSPLPW076"
         },
         {
-            "id": "40",
+            "id": 40,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "TARNOW",
             "branch": null,
             "swift_code": "EBOSPLPW252"
         },
         {
-            "id": "41",
+            "id": 41,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "TORUN",
             "branch": null,
             "swift_code": "EBOSPLPW304"
         },
         {
-            "id": "42",
+            "id": 42,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "WARSZAWA",
             "branch": "(CORPORATE CLIENTS UNIT)",
             "swift_code": "EBOSPLPW017"
         },
         {
-            "id": "43",
+            "id": 43,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "WARSZAWA",
             "branch": "(I\/O WARSZAWA)",
             "swift_code": "EBOSPLPW102"
         },
         {
-            "id": "44",
+            "id": 44,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "WARSZAWA",
             "branch": "(II\/O WARSZAWA)",
             "swift_code": "EBOSPLPW157"
         },
         {
-            "id": "45",
+            "id": 45,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "WARSZAWA",
             "branch": "(III\/O WARSZAWA)",
             "swift_code": "EBOSPLPW287"
         },
         {
-            "id": "46",
+            "id": 46,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "EBOSPLPW"
         },
         {
-            "id": "47",
+            "id": 47,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "WLOCLAWEK",
             "branch": null,
             "swift_code": "EBOSPLPW050"
         },
         {
-            "id": "48",
+            "id": 48,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "WROCLAW",
             "branch": null,
             "swift_code": "EBOSPLPW021"
         },
         {
-            "id": "49",
+            "id": 49,
             "bank": "BANK OCHRONY SRODOWISKA S.A.",
             "city": "ZAMOSC",
             "branch": null,
             "swift_code": "EBOSPLPWZAA"
         },
         {
-            "id": "50",
+            "id": 50,
             "bank": "BANK OF CHINA (LUXEMBOURG) S.A. POLAND BRANCH",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "BKCHPLPX"
         },
         {
-            "id": "51",
+            "id": 51,
             "bank": "BANK OF TOKYO-MITSUBISHI UFJ (POLSKA) SPOLKA AKCYJNA",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "BOTKPLPW"
         },
         {
-            "id": "52",
+            "id": 52,
             "bank": "BANK OF TOKYO-MITSUBISHI UFJ (POLSKA) SPOLKA AKCYJNA",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "BOTKPLPWSTL"
         },
         {
-            "id": "53",
+            "id": 53,
             "bank": "BANK POLSKA KASA OPIEKI SA - BANK PEKAO SA",
             "city": "KRAKOW",
             "branch": "(KRAKOW REGIONAL OFFICE)",
             "swift_code": "PKOPPLPWKRA"
         },
         {
-            "id": "54",
+            "id": 54,
             "bank": "BANK POLSKA KASA OPIEKI SA - BANK PEKAO SA",
             "city": "WARSZAWA",
             "branch": "(CUSTODY)",
             "swift_code": "PKOPPLPWCUS"
         },
         {
-            "id": "55",
+            "id": 55,
             "bank": "BANK POLSKA KASA OPIEKI SA - BANK PEKAO SA",
             "city": "WARSZAWA",
             "branch": "(HEAD OFFICE)",
             "swift_code": "PKOPPLPW"
         },
         {
-            "id": "56",
+            "id": 56,
             "bank": "BANK POLSKIEJ SPOLDZIELCZOSCI SPOLKA AKCYJNA",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "POLUPLPR"
         },
         {
-            "id": "57",
+            "id": 57,
             "bank": "BANK ZACHODNI WBK SA",
             "city": "POZNAN",
             "branch": "(BZWBK BROKERAGE HOUSE)",
             "swift_code": "WBKPPLPPCBM"
         },
         {
-            "id": "58",
+            "id": 58,
             "bank": "BANK ZACHODNI WBK SA",
             "city": "WROCLAW",
             "branch": "(HEAD OFFICE)",
             "swift_code": "WBKPPLPP"
         },
         {
-            "id": "59",
+            "id": 59,
             "bank": "BNP PARIBAS BANK POLSKA S.A.",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "PPABPLPK"
         },
         {
-            "id": "60",
+            "id": 60,
             "bank": "BNP PARIBAS S.A. BRANCH IN POLAND",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "BNPAPLPX"
         },
         {
-            "id": "61",
+            "id": 61,
             "bank": "BNP PARIBAS SECURITIES POLAND BRANCH",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "PARBPLPX"
         },
         {
-            "id": "62",
+            "id": 62,
             "bank": "BONDSPOT S.A.",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "BONPPLP9"
         },
         {
-            "id": "63",
+            "id": 63,
             "bank": "CINKCIARZ.PL SP. Z O.O.",
             "city": "ZIELONA GORA",
             "branch": null,
             "swift_code": "CINKPLPZ"
         },
         {
-            "id": "64",
+            "id": 64,
             "bank": "CREDIT AGRICOLE BANK POLSKA S.A.",
             "city": "WROCLAW",
             "branch": null,
             "swift_code": "AGRIPLPR"
         },
         {
-            "id": "65",
+            "id": 65,
             "bank": "DANSKE BANK A\/S S.A. ODZIAL W POLSCE",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "DABAPLPW"
         },
         {
-            "id": "66",
+            "id": 66,
             "bank": "DEUTSCHE BANK POLSKA S.A.",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "DEUTPLPX"
         },
         {
-            "id": "67",
+            "id": 67,
             "bank": "DNB BANK POLSKA S.A.",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "MHBFPLPW"
         },
         {
-            "id": "68",
+            "id": 68,
             "bank": "EURO BANK S.A.",
             "city": "WROCLAW",
             "branch": null,
             "swift_code": "EBSAPLPR"
         },
         {
-            "id": "69",
+            "id": 69,
             "bank": "FCA-GROUP BANK POLSKA SA",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "FBPLPLPW"
         },
         {
-            "id": "70",
+            "id": 70,
             "bank": "FM BANK PBP SPOLKA AKCYJNA",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "PBPBPLPWFMB"
         },
         {
-            "id": "71",
+            "id": 71,
             "bank": "FM BANK PBP SPOLKA AKCYJNA",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "PBPBPLPW"
         },
         {
-            "id": "72",
+            "id": 72,
             "bank": "GETIN NOBLE BANK SA",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "GBGCPLPK"
         },
         {
-            "id": "73",
+            "id": 73,
             "bank": "HAITONG BANK S.A., SPOLKA AKCYJNA ODDZIAL W POLSCE",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "ESSIPLPX"
         },
         {
-            "id": "74",
+            "id": 74,
             "bank": "HSBC BANK POLSKA S.A.",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "HSBCPLPS"
         },
         {
-            "id": "75",
+            "id": 75,
             "bank": "HSBC BANK POLSKA S.A.",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "HSBCPLPW"
         },
         {
-            "id": "76",
+            "id": 76,
             "bank": "ICBC POLAND BRANCH",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "ICBKPLPW"
         },
         {
-            "id": "77",
+            "id": 77,
             "bank": "IDEA BANK SPOLKA AKCYJNA",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "IEEAPLPA"
         },
         {
-            "id": "78",
+            "id": 78,
             "bank": "ING BANK SLASKI SA",
             "city": "KATOWICE",
             "branch": null,
             "swift_code": "INGBPLPW"
         },
         {
-            "id": "79",
+            "id": 79,
             "bank": "INTESA SANPAOLO SPA",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "BCITPLPW"
         },
         {
-            "id": "80",
+            "id": 80,
             "bank": "KDPW CCP",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "KCCPPLPW"
         },
         {
-            "id": "81",
+            "id": 81,
             "bank": "KDPW CCP",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "KCCPPLPWASI"
         },
         {
-            "id": "82",
+            "id": 82,
             "bank": "KDPW CCP",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "KCCPPLPWOTC"
         },
         {
-            "id": "83",
+            "id": 83,
             "bank": "KDPW S.A.",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "KDPWPLPW"
         },
         {
-            "id": "84",
+            "id": 84,
             "bank": "KRAJOWA IZBA ROZLICZENIOWA S.A. (KIR S.A.)",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "EKIRPLPD"
         },
         {
-            "id": "85",
+            "id": 85,
             "bank": "KRAJOWA SPOLDZIELCZA KASA OSZCZEDNOSCIOWO-KREDYTOWA",
             "city": "SOPOT",
             "branch": null,
             "swift_code": "SKOKPLPW"
         },
         {
-            "id": "86",
+            "id": 86,
             "bank": "KRAKOWSKI BANK SPOLDZIELCZY",
             "city": "KRAKOW",
             "branch": null,
             "swift_code": "KRSPPLPK"
         },
         {
-            "id": "87",
+            "id": 87,
             "bank": "KRAKOWSKI BANK SPOLDZIELCZY",
             "city": "KRAKOW",
             "branch": null,
             "swift_code": "KRSPPLP2"
         },
         {
-            "id": "88",
+            "id": 88,
             "bank": "LA CAIXA, ODDZIAL W POLSCE",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "CAIXPLPW"
         },
         {
-            "id": "89",
+            "id": 89,
             "bank": "MBANK HIPOTECZNY SA",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "RHBHPLPW"
         },
         {
-            "id": "90",
+            "id": 90,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "BIALYSTOK",
             "branch": "(BIALYSTOK BRANCH)",
             "swift_code": "BREXPLPWBIA"
         },
         {
-            "id": "91",
+            "id": 91,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "BIELSKO BIALA",
             "branch": "(BIELSKO BIALA BRANCH)",
             "swift_code": "BREXPLPWBIB"
         },
         {
-            "id": "92",
+            "id": 92,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "BYDGOSZCZ",
             "branch": "(BYDGOSZCZ BRANCH)",
             "swift_code": "BREXPLPWBYD"
         },
         {
-            "id": "93",
+            "id": 93,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "CZESTOCHOWA",
             "branch": "(CZESTOCHOWA BRANCH)",
             "swift_code": "BREXPLPWCZE"
         },
         {
-            "id": "94",
+            "id": 94,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "GDANSK",
             "branch": null,
             "swift_code": "BREXPLPWGDA"
         },
         {
-            "id": "95",
+            "id": 95,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "GDYNIA",
             "branch": "(GDYNIA BRANCH)",
             "swift_code": "BREXPLPWGDY"
         },
         {
-            "id": "96",
+            "id": 96,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "GORZOW WIELKOPOLSKI",
             "branch": "(GORZOW WIELKOPOLSKI BRANCH)",
             "swift_code": "BREXPLPWGOR"
         },
         {
-            "id": "97",
+            "id": 97,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "KALISZ",
             "branch": "(KALISZ BRANCH)",
             "swift_code": "BREXPLPWKAL"
         },
         {
-            "id": "98",
+            "id": 98,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "KATOWICE",
             "branch": "(REGIONAL OPERATION CENTER)",
             "swift_code": "BREXPLPWRCO"
         },
         {
-            "id": "99",
+            "id": 99,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "KATOWICE",
             "branch": null,
             "swift_code": "BREXPLPWKAT"
         },
         {
-            "id": "100",
+            "id": 100,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "KIELCE",
             "branch": "(KIELCE BRANCH)",
             "swift_code": "BREXPLPWKIE"
         },
         {
-            "id": "101",
+            "id": 101,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "KOSZALIN",
             "branch": "(CORPORATE BRANCH)",
             "swift_code": "BREXPLPWKOS"
         },
         {
-            "id": "102",
+            "id": 102,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "KRAKOW",
             "branch": null,
             "swift_code": "BREXPLPWKRA"
         },
         {
-            "id": "103",
+            "id": 103,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "LODZ",
             "branch": "(MOBILE BANKING)",
             "swift_code": "BREXPLPWOMB"
         },
         {
-            "id": "104",
+            "id": 104,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "LODZ",
             "branch": "(RETAIL BANKING)",
             "swift_code": "BREXPLPWMBK"
         },
         {
-            "id": "105",
+            "id": 105,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "LODZ",
             "branch": "(RETAIL BANKING)",
             "swift_code": "BREXPLPWMUL"
         },
         {
-            "id": "106",
+            "id": 106,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "LODZ",
             "branch": null,
             "swift_code": "BREXPLPWLOD"
         },
         {
-            "id": "107",
+            "id": 107,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "LUBLIN",
             "branch": null,
             "swift_code": "BREXPLPWLUB"
         },
         {
-            "id": "108",
+            "id": 108,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "NOWY SACZ",
             "branch": "(CORPORATE BRANCH)",
             "swift_code": "BREXPLPWNWS"
         },
         {
-            "id": "109",
+            "id": 109,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "OLSZTYN",
             "branch": "(CORPORATE BRANCH)",
             "swift_code": "BREXPLPWOLS"
         },
         {
-            "id": "110",
+            "id": 110,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "OPOLE",
             "branch": "(OPOLE BRANCH)",
             "swift_code": "BREXPLPWOPO"
         },
         {
-            "id": "111",
+            "id": 111,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "POZNAN",
             "branch": null,
             "swift_code": "BREXPLPWPOZ"
         },
         {
-            "id": "112",
+            "id": 112,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "RYBNIK",
             "branch": "(RYBNIK BRANCH)",
             "swift_code": "BREXPLPWRYB"
         },
         {
-            "id": "113",
+            "id": 113,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "RZESZOW",
             "branch": "(RZESZOW BRANCH)",
             "swift_code": "BREXPLPWRZE"
         },
         {
-            "id": "114",
+            "id": 114,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "SZCZECIN",
             "branch": "(CORPORATE BRANCH)",
             "swift_code": "BREXPLPWSZC"
         },
         {
-            "id": "115",
+            "id": 115,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "TORUN",
             "branch": "(CORPORATE BRANCH)",
             "swift_code": "BREXPLPWTOR"
         },
         {
-            "id": "116",
+            "id": 116,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "WALBRZYCH",
             "branch": "(CORPORATE BRANCH)",
             "swift_code": "BREXPLPWWAL"
         },
         {
-            "id": "117",
+            "id": 117,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "WARSZAWA",
             "branch": "(BRANCH)",
             "swift_code": "BREXPLPWWA1"
         },
         {
-            "id": "118",
+            "id": 118,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "WARSZAWA",
             "branch": "(CORPORATE BRANCH)",
             "swift_code": "BREXPLPWWA4"
         },
         {
-            "id": "119",
+            "id": 119,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "WARSZAWA",
             "branch": "(CUSTODY DEPARTMENT)",
             "swift_code": "BREXPLPWCUS"
         },
         {
-            "id": "120",
+            "id": 120,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "WARSZAWA",
             "branch": "(HEAD OFFICE)",
             "swift_code": "BREXPLPW"
         },
         {
-            "id": "121",
+            "id": 121,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "WARSZAWA",
             "branch": "(WARSZAWA II BRANCH)",
             "swift_code": "BREXPLPWWA2"
         },
         {
-            "id": "122",
+            "id": 122,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "WARSZAWA",
             "branch": "(WARSZAWA III BRANCH)",
             "swift_code": "BREXPLPWWA3"
         },
         {
-            "id": "123",
+            "id": 123,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "WROCLAW",
             "branch": null,
             "swift_code": "BREXPLPWWRO"
         },
         {
-            "id": "124",
+            "id": 124,
             "bank": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
             "city": "ZIELONA GORA",
             "branch": "(ZIELONA GORA BRANCH)",
             "swift_code": "BREXPLPWZIE"
         },
         {
-            "id": "125",
+            "id": 125,
             "bank": "MERCEDES-BENZ BANK POLSKA S.A.",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "MBBPPLPW"
         },
         {
-            "id": "126",
+            "id": 126,
             "bank": "NARODOWY BANK POLSKI",
             "city": "WARSZAWA",
             "branch": "(HEAD OFFICE)",
             "swift_code": "NBPLPLPW"
         },
         {
-            "id": "127",
+            "id": 127,
             "bank": "NARODOWY BANK POLSKI",
             "city": "WARSZAWA",
             "branch": "(INTERNAL ROUTING)",
             "swift_code": "NBPLPLPWKIR"
         },
         {
-            "id": "128",
+            "id": 128,
             "bank": "NARODOWY BANK POLSKI",
             "city": "WARSZAWA",
             "branch": "(PLN - RTGS ONLY)",
             "swift_code": "NBPLPLPDDSP"
         },
         {
-            "id": "129",
+            "id": 129,
             "bank": "NARODOWY BANK POLSKI",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "NBPLPLPA"
         },
         {
-            "id": "130",
+            "id": 130,
             "bank": "NARODOWY BANK POLSKI",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "NBPLPLPD"
         },
         {
-            "id": "131",
+            "id": 131,
             "bank": "NARODOWY BANK POLSKI",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "NBPLPLPWBAN"
         },
         {
-            "id": "132",
+            "id": 132,
             "bank": "NATIONAL DEPOSITORY FOR SECURITIES (KDPW SA)",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "KDPWPLPA"
         },
         {
-            "id": "133",
+            "id": 133,
             "bank": "PEKAO BANK HIPOTECZNY SA",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "HYVEPLP2"
         },
         {
-            "id": "134",
+            "id": 134,
             "bank": "PKO BANK HIPOTECZNY SA",
             "city": "GDYNIA",
             "branch": null,
             "swift_code": "BPKHPLPG"
         },
         {
-            "id": "135",
+            "id": 135,
             "bank": "PKO BANK POLSKI SA",
             "city": "BIALYSTOK",
             "branch": "(PKO O.REGIONALNY W BIALYMSTOKU)",
             "swift_code": "BPKOPLPWBIA"
         },
         {
-            "id": "136",
+            "id": 136,
             "bank": "PKO BANK POLSKI SA",
             "city": "BYDGOSZCZ",
             "branch": "(ODDZIAL BYDGOSZCZ)",
             "swift_code": "BPKOPLPWTOB"
         },
         {
-            "id": "137",
+            "id": 137,
             "bank": "PKO BANK POLSKI SA",
             "city": "GDYNIA",
             "branch": "(I\/O GDYNIA)",
             "swift_code": "BPKOPLPWGDG"
         },
         {
-            "id": "138",
+            "id": 138,
             "bank": "PKO BANK POLSKI SA",
             "city": "GORZOW WIELKOPOLSKI",
             "branch": "(I\/O GORZOW WIELKOPOLSKI)",
             "swift_code": "BPKOPLPWGOA"
         },
         {
-            "id": "139",
+            "id": 139,
             "bank": "PKO BANK POLSKI SA",
             "city": "KATOWICE",
             "branch": "(ODDZIAL KATOWICE)",
             "swift_code": "BPKOPLPWKAB"
         },
         {
-            "id": "140",
+            "id": 140,
             "bank": "PKO BANK POLSKI SA",
             "city": "KRAKOW",
             "branch": "(ODDZIAL KRAKOW)",
             "swift_code": "BPKOPLPWKRD"
         },
         {
-            "id": "141",
+            "id": 141,
             "bank": "PKO BANK POLSKI SA",
             "city": "LODZ",
             "branch": "(ODDZIAL LODZ)",
             "swift_code": "BPKOPLPWLDA"
         },
         {
-            "id": "142",
+            "id": 142,
             "bank": "PKO BANK POLSKI SA",
             "city": "LUBLIN",
             "branch": "(ODDZIAL LUBLIN)",
             "swift_code": "BPKOPLPWLUA"
         },
         {
-            "id": "143",
+            "id": 143,
             "bank": "PKO BANK POLSKI SA",
             "city": "OLSZTYN",
             "branch": "(ODDZIAL OLSZTYN)",
             "swift_code": "BPKOPLPWOLS"
         },
         {
-            "id": "144",
+            "id": 144,
             "bank": "PKO BANK POLSKI SA",
             "city": "POZNAN",
             "branch": "(ODDZIAL POZNAN)",
             "swift_code": "BPKOPLPWPOA"
         },
         {
-            "id": "145",
+            "id": 145,
             "bank": "PKO BANK POLSKI SA",
             "city": "WARSZAWA",
             "branch": "(CUSTODY SERVICES DIVISION)",
             "swift_code": "BPKOPLPWCSD"
         },
         {
-            "id": "146",
+            "id": 146,
             "bank": "PKO BANK POLSKI SA",
             "city": "WARSZAWA",
             "branch": "(HEAD OFFICE - TREASURY DEPARTMENT)",
             "swift_code": "BPKOPLPWTDH"
         },
         {
-            "id": "147",
+            "id": 147,
             "bank": "PKO BANK POLSKI SA",
             "city": "WARSZAWA",
             "branch": "(ODDZIAL WARSZAWA)",
             "swift_code": "BPKOPLPWWAA"
         },
         {
-            "id": "148",
+            "id": 148,
             "bank": "PKO BANK POLSKI SA",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "BPKOPLPW"
         },
         {
-            "id": "149",
+            "id": 149,
             "bank": "PKO BANK POLSKI SA",
             "city": "WROCLAW",
             "branch": "(ODDZIAL WROCLAW)",
             "swift_code": "BPKOPLPWWRD"
         },
         {
-            "id": "150",
+            "id": 150,
             "bank": "PLUS BANK S.A.",
             "city": "WARSZAWA",
             "branch": "(HEAD OFFICE)",
             "swift_code": "IVSEPLPP"
         },
         {
-            "id": "151",
+            "id": 151,
             "bank": "POCZTOWY BANK SA",
             "city": "BYDGOSZCZ",
             "branch": null,
             "swift_code": "POCZPLP4"
         },
         {
-            "id": "152",
+            "id": 152,
             "bank": "PROSERVICE AGENT TRANSFEROWY SP Z O.O.",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "PSATPLPW"
         },
         {
-            "id": "153",
+            "id": 153,
             "bank": "RAIFFEISEN BANK POLSKA S.A.",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "RCBWPLPW"
         },
         {
-            "id": "154",
+            "id": 154,
             "bank": "RBS BANK (POLSKA) S.A.",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "ABNAPLPW"
         },
         {
-            "id": "155",
+            "id": 155,
             "bank": "SANTANDER CONSUMER BANK SA",
             "city": "WROCLAW",
             "branch": null,
             "swift_code": "SCFBPLPW"
         },
         {
-            "id": "156",
+            "id": 156,
             "bank": "SGB-BANK S.A. (FORMERLY GOSPODARCZY BANK WIELKOPOLSKI S.A.)",
             "city": "POZNAN",
             "branch": null,
             "swift_code": "GBWCPLPP"
         },
         {
-            "id": "157",
+            "id": 157,
             "bank": "SKANDINAVISKA ENSKILDA BANKEN AB, SPOLKA AKCYJNA, ODDZIAL W POLSCE",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "ESSEPLPW"
         },
         {
-            "id": "158",
+            "id": 158,
             "bank": "SOCIETE GENERALE SPOLKA AKCYJNA ODDZIAL W POLSCE",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "SOGEPLPW"
         },
         {
-            "id": "159",
+            "id": 159,
             "bank": "SPOLDZIELCZY BANK RZEMIOSLA I ROLNICTWA",
             "city": "WOLOMIN",
             "branch": null,
             "swift_code": "SKBBPLPW"
         },
         {
-            "id": "160",
+            "id": 160,
             "bank": "SVENSKA HANDELSBANKEN AB SPOLKA AKCYJNA ODDZIAL W POLSCE",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "HANDPLPW"
         },
         {
-            "id": "161",
+            "id": 161,
             "bank": "TOYOTA BANK POLSKA S.A.",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "TOBAPLPW"
         },
         {
-            "id": "162",
+            "id": 162,
             "bank": "TUIR WARTA S.A.",
             "city": "WARSZAWA",
             "branch": null,
             "swift_code": "WARTPLPW"
         },
         {
-            "id": "163",
+            "id": 163,
             "bank": "VOLKSWAGEN BANK POLSKA S.A.",
             "city": "WARSZAWA",
             "branch": null,

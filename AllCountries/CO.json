@@ -1,0 +1,853 @@
+{
+    "country": "Colombia",
+    "country_code": "CO",
+    "list": [
+        {
+            "id": 1,
+            "bank": "ACH COLOMBIA S.A.",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "ACHCCOBB"
+        },
+        {
+            "id": 2,
+            "bank": "ALLIANCE ENTERPRISE S.A.S.",
+            "city": "BOGOTA",
+            "branch": "(LOWE SSP-3 SA)",
+            "swift_code": "HUBCCOBBLWE"
+        },
+        {
+            "id": 3,
+            "bank": "ALLIANCE ENTERPRISE S.A.S.",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "HUBCCOBB"
+        },
+        {
+            "id": 4,
+            "bank": "ALLIANZ SEGUROS DE VIDA S.A.",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "COZVCOBB"
+        },
+        {
+            "id": 5,
+            "bank": "ALLIANZ SEGUROS S.A.",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "COZSCOBB"
+        },
+        {
+            "id": 6,
+            "bank": "ALMACENES EXITO S.A. (GRUPO EXITO)",
+            "city": "ENVIGADO",
+            "branch": null,
+            "swift_code": "GEXICOBB"
+        },
+        {
+            "id": 7,
+            "bank": "ALPINA PRODUCTOS ALIMENTICIOS S.A.",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "AIPACOBB"
+        },
+        {
+            "id": 8,
+            "bank": "BANCO AGRARIO DE COLOMBIA S.A. (FORMERLY CAJA DE CREDITO AGRARIO INDUSTRIAL Y MINERO)",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "CCAICOBB"
+        },
+        {
+            "id": 9,
+            "bank": "BANCO AV VILLAS S.A.",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "BAVICOBB"
+        },
+        {
+            "id": 10,
+            "bank": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A.",
+            "city": "BOGOTA",
+            "branch": "(HEADQUARTERS)",
+            "swift_code": "GEROCOBBBO1"
+        },
+        {
+            "id": 11,
+            "bank": "BANCO BILBAO VIZCAYA ARGENTARIA COLOMBIA S.A.",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "GEROCOBB"
+        },
+        {
+            "id": 12,
+            "bank": "BANCO CAJA SOCIAL",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "CASOCOBB"
+        },
+        {
+            "id": 13,
+            "bank": "BANCO COLPATRIA",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "COLPCOBB"
+        },
+        {
+            "id": 14,
+            "bank": "BANCO CORPBANCA COLOMBIA S.A.",
+            "city": "BARRANQUILLA",
+            "branch": null,
+            "swift_code": "BCTOCOBBBAQ"
+        },
+        {
+            "id": 15,
+            "bank": "BANCO CORPBANCA COLOMBIA S.A.",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "BCTOCOBB"
+        },
+        {
+            "id": 16,
+            "bank": "BANCO CORPBANCA COLOMBIA S.A.",
+            "city": "CALI",
+            "branch": null,
+            "swift_code": "BCTOCOBBCL1"
+        },
+        {
+            "id": 17,
+            "bank": "BANCO CORPBANCA COLOMBIA S.A.",
+            "city": "MEDELLIN",
+            "branch": null,
+            "swift_code": "BCTOCOBBMD1"
+        },
+        {
+            "id": 18,
+            "bank": "BANCO DAVIVIENDA S.A.(FORMERLY GRANBANCO BANCAFE S.A.)",
+            "city": "BARRANQUILLA",
+            "branch": null,
+            "swift_code": "CAFECOBBBAQ"
+        },
+        {
+            "id": 19,
+            "bank": "BANCO DAVIVIENDA S.A.(FORMERLY GRANBANCO BANCAFE S.A.)",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "CAFECOBB"
+        },
+        {
+            "id": 20,
+            "bank": "BANCO DAVIVIENDA S.A.(FORMERLY GRANBANCO BANCAFE S.A.)",
+            "city": "CALI",
+            "branch": null,
+            "swift_code": "CAFECOBBCL1"
+        },
+        {
+            "id": 21,
+            "bank": "BANCO DAVIVIENDA S.A.(FORMERLY GRANBANCO BANCAFE S.A.)",
+            "city": "MEDELLIN",
+            "branch": null,
+            "swift_code": "CAFECOBBMD1"
+        },
+        {
+            "id": 22,
+            "bank": "BANCO DE BOGOTA",
+            "city": "BARRANQUILLA",
+            "branch": null,
+            "swift_code": "BBOGCOBBBAQ"
+        },
+        {
+            "id": 23,
+            "bank": "BANCO DE BOGOTA",
+            "city": "BOGOTA",
+            "branch": "(HEADQUARTERS OFFICES)",
+            "swift_code": "BBOGCOBBBO1"
+        },
+        {
+            "id": 24,
+            "bank": "BANCO DE BOGOTA",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "BBOGCOBB"
+        },
+        {
+            "id": 25,
+            "bank": "BANCO DE BOGOTA",
+            "city": "BUCARAMANGA",
+            "branch": null,
+            "swift_code": "BBOGCOBBBGA"
+        },
+        {
+            "id": 26,
+            "bank": "BANCO DE BOGOTA",
+            "city": "CALI",
+            "branch": null,
+            "swift_code": "BBOGCOBBCL1"
+        },
+        {
+            "id": 27,
+            "bank": "BANCO DE BOGOTA",
+            "city": "CARTAGENA",
+            "branch": null,
+            "swift_code": "BBOGCOBBCTG"
+        },
+        {
+            "id": 28,
+            "bank": "BANCO DE BOGOTA",
+            "city": "CUCUTA",
+            "branch": null,
+            "swift_code": "BBOGCOBBCUC"
+        },
+        {
+            "id": 29,
+            "bank": "BANCO DE BOGOTA",
+            "city": "MANIZALES",
+            "branch": null,
+            "swift_code": "BBOGCOBBMZ1"
+        },
+        {
+            "id": 30,
+            "bank": "BANCO DE BOGOTA",
+            "city": "MEDELLIN",
+            "branch": null,
+            "swift_code": "BBOGCOBBMD1"
+        },
+        {
+            "id": 31,
+            "bank": "BANCO DE BOGOTA",
+            "city": "PEREIRA",
+            "branch": null,
+            "swift_code": "BBOGCOBBPEI"
+        },
+        {
+            "id": 32,
+            "bank": "BANCO DE BOGOTA",
+            "city": "SAN ANDRES",
+            "branch": null,
+            "swift_code": "BBOGCOBBADZ"
+        },
+        {
+            "id": 33,
+            "bank": "BANCO DE COMERCIO EXTERIOR S.A.",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "BCEXCOBB"
+        },
+        {
+            "id": 34,
+            "bank": "BANCO DE LA REPUBLICA",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "BREPCOBB"
+        },
+        {
+            "id": 35,
+            "bank": "BANCO DE OCCIDENTE",
+            "city": "BARRANQUILLA",
+            "branch": null,
+            "swift_code": "OCCICOBCBAQ"
+        },
+        {
+            "id": 36,
+            "bank": "BANCO DE OCCIDENTE",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "OCCICOBCBO2"
+        },
+        {
+            "id": 37,
+            "bank": "BANCO DE OCCIDENTE",
+            "city": "BUCARAMANGA",
+            "branch": null,
+            "swift_code": "OCCICOBCBGA"
+        },
+        {
+            "id": 38,
+            "bank": "BANCO DE OCCIDENTE",
+            "city": "CALI",
+            "branch": "(BRANCH)",
+            "swift_code": "OCCICOBCCL1"
+        },
+        {
+            "id": 39,
+            "bank": "BANCO DE OCCIDENTE",
+            "city": "CALI",
+            "branch": "(HEADQUARTERS)",
+            "swift_code": "OCCICOBC"
+        },
+        {
+            "id": 40,
+            "bank": "BANCO DE OCCIDENTE",
+            "city": "CARTAGENA",
+            "branch": null,
+            "swift_code": "OCCICOBCCTG"
+        },
+        {
+            "id": 41,
+            "bank": "BANCO DE OCCIDENTE",
+            "city": "MEDELLIN",
+            "branch": null,
+            "swift_code": "OCCICOBCMD4"
+        },
+        {
+            "id": 42,
+            "bank": "BANCO DE OCCIDENTE",
+            "city": "SAN ANDRES",
+            "branch": null,
+            "swift_code": "OCCICOBCADZ"
+        },
+        {
+            "id": 43,
+            "bank": "BANCO FALABELLA S.A.",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "FALACOBB"
+        },
+        {
+            "id": 44,
+            "bank": "BANCO GNB SUDAMERIS",
+            "city": "BARRANQUILLA",
+            "branch": null,
+            "swift_code": "BSUDCOBBBAQ"
+        },
+        {
+            "id": 45,
+            "bank": "BANCO GNB SUDAMERIS",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "BSUDCOBB"
+        },
+        {
+            "id": 46,
+            "bank": "BANCO GNB SUDAMERIS",
+            "city": "BUCARAMANGA",
+            "branch": null,
+            "swift_code": "BSUDCOBBBGA"
+        },
+        {
+            "id": 47,
+            "bank": "BANCO GNB SUDAMERIS",
+            "city": "CALI",
+            "branch": null,
+            "swift_code": "BSUDCOBBCL1"
+        },
+        {
+            "id": 48,
+            "bank": "BANCO GNB SUDAMERIS",
+            "city": "CARTAGENA",
+            "branch": null,
+            "swift_code": "BSUDCOBBCTG"
+        },
+        {
+            "id": 49,
+            "bank": "BANCO GNB SUDAMERIS",
+            "city": "MANIZALES",
+            "branch": null,
+            "swift_code": "BSUDCOBBMZ1"
+        },
+        {
+            "id": 50,
+            "bank": "BANCO GNB SUDAMERIS",
+            "city": "MEDELLIN",
+            "branch": null,
+            "swift_code": "BSUDCOBBMD1"
+        },
+        {
+            "id": 51,
+            "bank": "BANCO MULTIBANK, COLOMBIA. (FORMERLY MACROFINANCIERA C.F S.A.)",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "MCTBCOBB"
+        },
+        {
+            "id": 52,
+            "bank": "BANCO PICHINCHA S.A.",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "PICHCOBB"
+        },
+        {
+            "id": 53,
+            "bank": "BANCO POPULAR-COLOMBIA",
+            "city": "ARMENIA",
+            "branch": null,
+            "swift_code": "BPOPCOBBAXM"
+        },
+        {
+            "id": 54,
+            "bank": "BANCO POPULAR-COLOMBIA",
+            "city": "BARRANQUILLA",
+            "branch": "(ZONA NORTE)",
+            "swift_code": "BPOPCOBBBAQ"
+        },
+        {
+            "id": 55,
+            "bank": "BANCO POPULAR-COLOMBIA",
+            "city": "BOGOTA",
+            "branch": "(HEADQUARTERS)",
+            "swift_code": "BPOPCOBB"
+        },
+        {
+            "id": 56,
+            "bank": "BANCO POPULAR-COLOMBIA",
+            "city": "BOGOTA",
+            "branch": "(ZONA 1)",
+            "swift_code": "BPOPCOBBBO1"
+        },
+        {
+            "id": 57,
+            "bank": "BANCO POPULAR-COLOMBIA",
+            "city": "BOGOTA",
+            "branch": "(ZONA 2)",
+            "swift_code": "BPOPCOBBBO2"
+        },
+        {
+            "id": 58,
+            "bank": "BANCO POPULAR-COLOMBIA",
+            "city": "BOGOTA",
+            "branch": "(ZONA 3)",
+            "swift_code": "BPOPCOBBBO3"
+        },
+        {
+            "id": 59,
+            "bank": "BANCO POPULAR-COLOMBIA",
+            "city": "BUCARAMANGA",
+            "branch": "(ZONA ORIENTAL)",
+            "swift_code": "BPOPCOBBBGA"
+        },
+        {
+            "id": 60,
+            "bank": "BANCO POPULAR-COLOMBIA",
+            "city": "CALI",
+            "branch": "(ZONA SUR)",
+            "swift_code": "BPOPCOBBCL1"
+        },
+        {
+            "id": 61,
+            "bank": "BANCO POPULAR-COLOMBIA",
+            "city": "CARTAGENA",
+            "branch": null,
+            "swift_code": "BPOPCOBBCTG"
+        },
+        {
+            "id": 62,
+            "bank": "BANCO POPULAR-COLOMBIA",
+            "city": "IBAGUE",
+            "branch": "(ZONA CENTRAL)",
+            "swift_code": "BPOPCOBBIBE"
+        },
+        {
+            "id": 63,
+            "bank": "BANCO POPULAR-COLOMBIA",
+            "city": "MANIZALES",
+            "branch": null,
+            "swift_code": "BPOPCOBBMZ1"
+        },
+        {
+            "id": 64,
+            "bank": "BANCO POPULAR-COLOMBIA",
+            "city": "MEDELLIN",
+            "branch": "(ZONA NOROCCIDENTAL)",
+            "swift_code": "BPOPCOBBMD1"
+        },
+        {
+            "id": 65,
+            "bank": "BANCO POPULAR-COLOMBIA",
+            "city": "PEREIRA",
+            "branch": null,
+            "swift_code": "BPOPCOBBPEI"
+        },
+        {
+            "id": 66,
+            "bank": "BANCO POPULAR-COLOMBIA",
+            "city": "SAN ANDRES",
+            "branch": null,
+            "swift_code": "BPOPCOBBADZ"
+        },
+        {
+            "id": 67,
+            "bank": "BANCO PROCREDIT COLOMBIA SA",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "PRCBCOBB"
+        },
+        {
+            "id": 68,
+            "bank": "BANCO SANTANDER DE NEGOCIOS COLOMBIA S.A.",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "SANTCOBB"
+        },
+        {
+            "id": 69,
+            "bank": "BANCOLOMBIA S.A.",
+            "city": "BARRANQUILLA",
+            "branch": null,
+            "swift_code": "COLOCOBMBAQ"
+        },
+        {
+            "id": 70,
+            "bank": "BANCOLOMBIA S.A.",
+            "city": "BUCARAMANGA",
+            "branch": null,
+            "swift_code": "COLOCOBMBGA"
+        },
+        {
+            "id": 71,
+            "bank": "BANCOLOMBIA S.A.",
+            "city": "CALI",
+            "branch": null,
+            "swift_code": "COLOCOBMCL1"
+        },
+        {
+            "id": 72,
+            "bank": "BANCOLOMBIA S.A.",
+            "city": "CARTAGENA",
+            "branch": null,
+            "swift_code": "COLOCOBMCTG"
+        },
+        {
+            "id": 73,
+            "bank": "BANCOLOMBIA S.A.",
+            "city": "MEDELLIN",
+            "branch": null,
+            "swift_code": "COLOCOBMMD1"
+        },
+        {
+            "id": 74,
+            "bank": "BANCOLOMBIA S.A.",
+            "city": "MEDELLIN",
+            "branch": null,
+            "swift_code": "COLOCOBM"
+        },
+        {
+            "id": 75,
+            "bank": "BANCOLOMBIA S.A.",
+            "city": "PEREIRA",
+            "branch": null,
+            "swift_code": "COLOCOBMPEI"
+        },
+        {
+            "id": 76,
+            "bank": "BBVA ASSET MANAGEMENT SOCIEDAD FIDUCIARIA",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "FBBVCOBB"
+        },
+        {
+            "id": 77,
+            "bank": "BNP PARIBAS COLOMBIA CORPORACION FINANCIERA S.A.",
+            "city": "BOGOTA",
+            "branch": "(SECURITIES SERVICES)",
+            "swift_code": "BNPACOBBB2S"
+        },
+        {
+            "id": 78,
+            "bank": "BNP PARIBAS COLOMBIA CORPORACION FINANCIERA S.A.",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "BNPACOBB"
+        },
+        {
+            "id": 79,
+            "bank": "BNP PARIBAS COLOMBIA CORPORACION FINANCIERA S.A.",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "BNPACOBBPEN"
+        },
+        {
+            "id": 80,
+            "bank": "CAJA COLOMBIANA DE SUBSIDIO FAMILIAR COLSUBSIDIO",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "CCSFCOBB"
+        },
+        {
+            "id": 81,
+            "bank": "CAMARA DE COMPENSACION DE DIVISAS DE COLOMBIA S.A.",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "CCDCCOBB"
+        },
+        {
+            "id": 82,
+            "bank": "CARVAJAL SERVICIOS S.AS.",
+            "city": "CALI",
+            "branch": null,
+            "swift_code": "CTYSCOBC"
+        },
+        {
+            "id": 83,
+            "bank": "CENIT TRANSPORTE Y LOGISTICA DE HIDROCARBUROS S.A.S.",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "CTLHCOBB"
+        },
+        {
+            "id": 84,
+            "bank": "CITIBANK COLOMBIA",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "CITICOBB"
+        },
+        {
+            "id": 85,
+            "bank": "COLOMBIA MOVIL SA ESP",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "TIGOCOBB"
+        },
+        {
+            "id": 86,
+            "bank": "COLTEFINANCIERA S.A. COMPANIA DE FINANCIAMIENTO COMERCIAL",
+            "city": "MEDELLIN",
+            "branch": null,
+            "swift_code": "CLTECOBM"
+        },
+        {
+            "id": 87,
+            "bank": "COMPANIA DE PROFESIONALES DE BOLSA S.A.",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "PDBCCOBB"
+        },
+        {
+            "id": 88,
+            "bank": "CORPBANCA INVESTMENT TRUST COLOMBIA S.A. SOCIEDAD FIDUCIARIA",
+            "city": "BARRANQUILLA",
+            "branch": null,
+            "swift_code": "BSCHCOBBBAQ"
+        },
+        {
+            "id": 89,
+            "bank": "CORPBANCA INVESTMENT TRUST COLOMBIA S.A. SOCIEDAD FIDUCIARIA",
+            "city": "BOGOTA",
+            "branch": "(SECURITY SERVICES COLOMBIA)",
+            "swift_code": "BSCHCOBBSSC"
+        },
+        {
+            "id": 90,
+            "bank": "CORPBANCA INVESTMENT TRUST COLOMBIA S.A. SOCIEDAD FIDUCIARIA",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "BSCHCOBB"
+        },
+        {
+            "id": 91,
+            "bank": "CORPBANCA INVESTMENT TRUST COLOMBIA S.A. SOCIEDAD FIDUCIARIA",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "BSCHCOBBBO1"
+        },
+        {
+            "id": 92,
+            "bank": "CORPBANCA INVESTMENT TRUST COLOMBIA S.A. SOCIEDAD FIDUCIARIA",
+            "city": "CALI",
+            "branch": null,
+            "swift_code": "BSCHCOBBCL1"
+        },
+        {
+            "id": 93,
+            "bank": "CORPORACION FINANCIERA COLOMBIANA (FORMERLY CORPORACION FINANCIERA DEL VALLE S.A.)",
+            "city": "BARRANQUILLA",
+            "branch": "(BARRANQUILLA AGENCY)",
+            "swift_code": "CFVACOBCBAQ"
+        },
+        {
+            "id": 94,
+            "bank": "CORPORACION FINANCIERA COLOMBIANA (FORMERLY CORPORACION FINANCIERA DEL VALLE S.A.)",
+            "city": "BOGOTA",
+            "branch": "(BOGOTA AGENCY)",
+            "swift_code": "CFVACOBCBO1"
+        },
+        {
+            "id": 95,
+            "bank": "CORPORACION FINANCIERA COLOMBIANA (FORMERLY CORPORACION FINANCIERA DEL VALLE S.A.)",
+            "city": "CALI",
+            "branch": "(HEADQUARTERS)",
+            "swift_code": "CFVACOBC"
+        },
+        {
+            "id": 96,
+            "bank": "CORPORACION FINANCIERA COLOMBIANA (FORMERLY CORPORACION FINANCIERA DEL VALLE S.A.)",
+            "city": "CALI",
+            "branch": "(INTERNATIONAL BRANCH)",
+            "swift_code": "CFVACOBCCL1"
+        },
+        {
+            "id": 97,
+            "bank": "CORPORACION FINANCIERA COLOMBIANA (FORMERLY CORPORACION FINANCIERA DEL VALLE S.A.)",
+            "city": "CALI",
+            "branch": null,
+            "swift_code": "CFVACOBCFXO"
+        },
+        {
+            "id": 98,
+            "bank": "CORPORACION FINANCIERA COLOMBIANA (FORMERLY CORPORACION FINANCIERA DEL VALLE S.A.)",
+            "city": "MEDELLIN",
+            "branch": "(MEDELLIN AGENCY)",
+            "swift_code": "CFVACOBCMD1"
+        },
+        {
+            "id": 99,
+            "bank": "CREDICORP CAPITAL COLOMBIA S.A.",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "CRVLCOBB"
+        },
+        {
+            "id": 100,
+            "bank": "ECOPETROL S.A.",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "ECOPCOBB"
+        },
+        {
+            "id": 101,
+            "bank": "EMPRESA DE TELECOMUNICACIONES DE BOGOTA S.A E.SP.",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "ETBCCOBB"
+        },
+        {
+            "id": 102,
+            "bank": "FIDUCIARIA BANCOLOMBIA",
+            "city": "MEDELLIN",
+            "branch": null,
+            "swift_code": "FDBCCOBM"
+        },
+        {
+            "id": 103,
+            "bank": "FIDUCIARIA BOGOTA",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "FBOGCOBB"
+        },
+        {
+            "id": 104,
+            "bank": "FINANCIERA DE DESARROLLO NACIONAL S.A. FORMALLY FINANCIERA ENERGETICA NACIONAL S.A.-FEN",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "FENSCOBB"
+        },
+        {
+            "id": 105,
+            "bank": "FONDO DE GARANTIAS DE INSTITUCIONES FINANCIERAS",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "FOGICOBB"
+        },
+        {
+            "id": 106,
+            "bank": "FONDO LATINOAMERICANO DE RESERVAS",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "FLARCOBB"
+        },
+        {
+            "id": 107,
+            "bank": "FONDO VOLUNTARIO DE PENSIONES  ADMINISTRADO POR ALLIANZ SEGUROS DE VIDA S.A.",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "FPVCCOBB"
+        },
+        {
+            "id": 108,
+            "bank": "GIROS Y FINANZAS C.F.C. S.A.",
+            "city": "CALI",
+            "branch": null,
+            "swift_code": "GYDVCOBC"
+        },
+        {
+            "id": 109,
+            "bank": "HOCOL S.A.",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "HCOLCOBB"
+        },
+        {
+            "id": 110,
+            "bank": "ITAU BBA COLOMBIA SA CORPORACION FINANCEIRA",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "CBBACOBB"
+        },
+        {
+            "id": 111,
+            "bank": "JPMORGAN CORPORACION FINANCIERA S.A.",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "CHASCOBB"
+        },
+        {
+            "id": 112,
+            "bank": "MAPFRE SEGUROS GENERALES DE COLOMBIA S.A.",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "MAPFCOBB"
+        },
+        {
+            "id": 113,
+            "bank": "MUNICIPIO DE MEDELLIN",
+            "city": "MEDELLIN",
+            "branch": null,
+            "swift_code": "MUMDCOBM"
+        },
+        {
+            "id": 114,
+            "bank": "OLEODUCTO CENTRAL S.A.",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "OCENCOBB"
+        },
+        {
+            "id": 115,
+            "bank": "OLEODUCTO DE COLOMBIA S.A.",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "ODCCCOBB"
+        },
+        {
+            "id": 116,
+            "bank": "POLIPROPILENO DEL CARIBE S.A.",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "PPCOCOBB"
+        },
+        {
+            "id": 117,
+            "bank": "PORVENIR S.A.",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "PORVCOBB"
+        },
+        {
+            "id": 118,
+            "bank": "REFINERIA DE CARTAGENA S.A.",
+            "city": "BOGOTA",
+            "branch": "(PATRIMONIO AUTONOMO)",
+            "swift_code": "RCARCOB2PTA"
+        },
+        {
+            "id": 119,
+            "bank": "REFINERIA DE CARTAGENA S.A.",
+            "city": "BOGOTA",
+            "branch": null,
+            "swift_code": "RCARCOB2"
+        },
+        {
+            "id": 120,
+            "bank": "UNE EPM TELECOMUNICACIONES S.A.",
+            "city": "MEDELLIN",
+            "branch": null,
+            "swift_code": "UNETCOBM"
+        },
+        {
+            "id": 121,
+            "bank": "VALORES BANCOLOMBIA",
+            "city": "MEDELLIN",
+            "branch": null,
+            "swift_code": "VABCCOBM"
+        }
+    ]
+}

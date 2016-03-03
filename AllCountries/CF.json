@@ -1,0 +1,41 @@
+{
+    "country": "Central African Republic",
+    "country_code": "CF",
+    "list": [
+        {
+            "id": 1,
+            "bank": "BANQUE DES ETATS DE L'AFRIQUE CENTRALE D.N. CENTRAFRIQUE",
+            "city": "BANGUI",
+            "branch": null,
+            "swift_code": "BEACCFCF"
+        },
+        {
+            "id": 2,
+            "bank": "BANQUE POPULAIRE MAROCO-CENTRAFRICAINE B.P.M.C.",
+            "city": "BANGUI",
+            "branch": null,
+            "swift_code": "BPMCCFCF"
+        },
+        {
+            "id": 3,
+            "bank": "BANQUE SAHELO-SAHARIENNE CENTRE AFRIQUE",
+            "city": "BANGUI",
+            "branch": null,
+            "swift_code": "BSAHCFCF"
+        },
+        {
+            "id": 4,
+            "bank": "COMMERCIAL BANK CENTRAFRIQUE",
+            "city": "BANGUI",
+            "branch": null,
+            "swift_code": "CBCACFCF"
+        },
+        {
+            "id": 5,
+            "bank": "ECOBANK CENTRAFRIQUE",
+            "city": "BANGUI",
+            "branch": null,
+            "swift_code": "ECOCCFCF"
+        }
+    ]
+}

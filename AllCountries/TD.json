@@ -1,0 +1,83 @@
+{
+    "country": "Chad",
+    "country_code": "TD",
+    "list": [
+        {
+            "id": 1,
+            "bank": "BANQUE AGRICOLE ET COMMERCIALE",
+            "city": "N'DJAMENA",
+            "branch": null,
+            "swift_code": "BAGCTDND"
+        },
+        {
+            "id": 2,
+            "bank": "BANQUE COMMERCIALE DU CHARI",
+            "city": "N'DJAMENA",
+            "branch": null,
+            "swift_code": "BCCXTDND"
+        },
+        {
+            "id": 3,
+            "bank": "BANQUE DES ETATS DE L'AFRIQUE CENTRALE D.N. TCHAD",
+            "city": "MOUNDOU",
+            "branch": "(AGENCE DE MOUNDOU)",
+            "swift_code": "BEACTDND210"
+        },
+        {
+            "id": 4,
+            "bank": "BANQUE DES ETATS DE L'AFRIQUE CENTRALE D.N. TCHAD",
+            "city": "N'DJAMENA",
+            "branch": null,
+            "swift_code": "BEACTDND"
+        },
+        {
+            "id": 5,
+            "bank": "BANQUE DES ETATS DE L'AFRIQUE CENTRALE D.N. TCHAD",
+            "city": "SARH",
+            "branch": "(AGENCE DE SARH)",
+            "swift_code": "BEACTDND220"
+        },
+        {
+            "id": 6,
+            "bank": "BANQUE SAHELO-SAHARIENNE POUR L'INVESTISSEMENT ET LE COMMERCE (TCHAD) S.A.",
+            "city": "N'DJAMENA",
+            "branch": null,
+            "swift_code": "BSAHTDND"
+        },
+        {
+            "id": 7,
+            "bank": "COMMERCIAL BANK TCHAD",
+            "city": "N'DJAMENA",
+            "branch": null,
+            "swift_code": "CBTNTDND"
+        },
+        {
+            "id": 8,
+            "bank": "ECOBANK TCHAD",
+            "city": "N'DJAMENA",
+            "branch": null,
+            "swift_code": "ECOCTDND"
+        },
+        {
+            "id": 9,
+            "bank": "ORABANK TCHAD",
+            "city": "N'DJAMENA",
+            "branch": null,
+            "swift_code": "ORBKTDND"
+        },
+        {
+            "id": 10,
+            "bank": "SOCIETE GENERALE TCHAD",
+            "city": "N'DJAMENA",
+            "branch": null,
+            "swift_code": "SOGETDND"
+        },
+        {
+            "id": 11,
+            "bank": "UNITED BANK FOR AFRICA - TCHAD",
+            "city": "N'DJAMENA",
+            "branch": null,
+            "swift_code": "UNAFTDND"
+        }
+    ]
+}

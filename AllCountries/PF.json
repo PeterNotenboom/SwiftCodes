@@ -3,28 +3,28 @@
     "country_code": "PF",
     "list": [
         {
-            "id": "1",
+            "id": 1,
             "bank": "BANQUE DE POLYNESIE",
             "city": "PAPEETE",
             "branch": null,
             "swift_code": "BPOLPFTP"
         },
         {
-            "id": "2",
+            "id": 2,
             "bank": "BANQUE DE TAHITI S.A.",
             "city": "PAPEETE",
             "branch": null,
             "swift_code": "CEPAPFTP"
         },
         {
-            "id": "3",
+            "id": 3,
             "bank": "CAISSE DES DEPOTS ET CONSIGNATIONS",
             "city": "PAPEETE",
             "branch": null,
             "swift_code": "CDCGPFTP"
         },
         {
-            "id": "4",
+            "id": 4,
             "bank": "SOCREDO",
             "city": "PAPEETE",
             "branch": null,

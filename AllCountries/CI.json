@@ -1,0 +1,412 @@
+{
+    "country": "C\u00f4te d\u2019Ivoire",
+    "country_code": "CI",
+    "list": [
+        {
+            "id": 1,
+            "bank": "AFRICAN DEVELOPMENT BANK",
+            "city": "ABIDJAN",
+            "branch": "(AFRICAN LEGAL SUPPORT FACILITY)",
+            "swift_code": "AFDBCIABALS"
+        },
+        {
+            "id": 2,
+            "bank": "AFRICAN DEVELOPMENT BANK",
+            "city": "ABIDJAN",
+            "branch": "(MAKING FINANCE)",
+            "swift_code": "AFDBCIABMFW"
+        },
+        {
+            "id": 3,
+            "bank": "AFRICAN DEVELOPMENT BANK",
+            "city": "ABIDJAN",
+            "branch": "(PIDA ACCOUNT)",
+            "swift_code": "AFDBCIABPID"
+        },
+        {
+            "id": 4,
+            "bank": "AFRICAN DEVELOPMENT BANK",
+            "city": "ABIDJAN",
+            "branch": "(TREASURY DEPARTMENT)",
+            "swift_code": "AFDBCIABTRY"
+        },
+        {
+            "id": 5,
+            "bank": "AFRICAN DEVELOPMENT BANK",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "AFDBCIAB"
+        },
+        {
+            "id": 6,
+            "bank": "AFRICAN DEVELOPMENT BANK",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "AFDBCIABAGT"
+        },
+        {
+            "id": 7,
+            "bank": "AFRICAN DEVELOPMENT BANK",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "AFDBCIABAMI"
+        },
+        {
+            "id": 8,
+            "bank": "AFRICAN DEVELOPMENT BANK",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "AFDBCIABFSF"
+        },
+        {
+            "id": 9,
+            "bank": "AFRICAN DEVELOPMENT BANK",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "AFDBCIABITF"
+        },
+        {
+            "id": 10,
+            "bank": "AFRICAN DEVELOPMENT BANK",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "AFDBCIABLTW"
+        },
+        {
+            "id": 11,
+            "bank": "AFRICAN DEVELOPMENT BANK",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "AFDBCIABMDT"
+        },
+        {
+            "id": 12,
+            "bank": "AFRICAN DEVELOPMENT BANK",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "AFDBCIABMIC"
+        },
+        {
+            "id": 13,
+            "bank": "AFRICAN DEVELOPMENT BANK",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "AFDBCIABNTF"
+        },
+        {
+            "id": 14,
+            "bank": "AFRICAN DEVELOPMENT BANK",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "AFDBCIABPRS"
+        },
+        {
+            "id": 15,
+            "bank": "AFRICAN DEVELOPMENT BANK",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "AFDBCIABSRP"
+        },
+        {
+            "id": 16,
+            "bank": "AFRICAN DEVELOPMENT BANK",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "AFDBCIABWAT"
+        },
+        {
+            "id": 17,
+            "bank": "AFRILAND FIRST BANK COTE D'IVOIRE",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "OMFNCIAB"
+        },
+        {
+            "id": 18,
+            "bank": "BANK OF AFRICA - COTE D'IVOIRE",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "AFRICIAB"
+        },
+        {
+            "id": 19,
+            "bank": "BANQUE ATLANTIQUE COTE D'IVOIRE",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "ATCICIAB"
+        },
+        {
+            "id": 20,
+            "bank": "BANQUE ATLANTIQUE COTE D'IVOIRE",
+            "city": "SAN PEDRO",
+            "branch": null,
+            "swift_code": "ATCICIABSAN"
+        },
+        {
+            "id": 21,
+            "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
+            "city": "ABENGOUROU",
+            "branch": "(ABENGOUROU BRANCH)",
+            "swift_code": "BCAOCIABABE"
+        },
+        {
+            "id": 22,
+            "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "BCAOCIAB"
+        },
+        {
+            "id": 23,
+            "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
+            "city": "BOUAKE",
+            "branch": "(BOUAKE BRANCH)",
+            "swift_code": "BCAOCIABBOU"
+        },
+        {
+            "id": 24,
+            "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
+            "city": "DALOA",
+            "branch": "(DALOA BRANCH)",
+            "swift_code": "BCAOCIABDAL"
+        },
+        {
+            "id": 25,
+            "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
+            "city": "KORHOGO",
+            "branch": "(KORHOGO BRANCH)",
+            "swift_code": "BCAOCIABKOR"
+        },
+        {
+            "id": 26,
+            "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
+            "city": "MAN",
+            "branch": "(MAN BRANCH)",
+            "swift_code": "BCAOCIABMAN"
+        },
+        {
+            "id": 27,
+            "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
+            "city": "SAN PEDRO",
+            "branch": "(SAN PEDRO BRANCH)",
+            "swift_code": "BCAOCIABSAN"
+        },
+        {
+            "id": 28,
+            "bank": "BANQUE DE L'HABITAT DE COTE D'IVOIRE",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "BHCICIAB"
+        },
+        {
+            "id": 29,
+            "bank": "BANQUE DE L'UNION - COTE D'IVOIRE",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "BDUTCIAB"
+        },
+        {
+            "id": 30,
+            "bank": "BANQUE DES DEPOTS DU TRESOR PUBLIC",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "BQTRCIAD"
+        },
+        {
+            "id": 31,
+            "bank": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA COTE D'IVOIRE",
+            "city": "ABIDJAN",
+            "branch": "(PLATEAU)",
+            "swift_code": "BICICIABPLT"
+        },
+        {
+            "id": 32,
+            "bank": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA COTE D'IVOIRE",
+            "city": "ABIDJAN",
+            "branch": "(SUD)",
+            "swift_code": "BICICIABSUD"
+        },
+        {
+            "id": 33,
+            "bank": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA COTE D'IVOIRE",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "BICICIAB"
+        },
+        {
+            "id": 34,
+            "bank": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA COTE D'IVOIRE",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "BICICIABBSE"
+        },
+        {
+            "id": 35,
+            "bank": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA COTE D'IVOIRE",
+            "city": "BOUAKE",
+            "branch": null,
+            "swift_code": "BICICIABBKE"
+        },
+        {
+            "id": 36,
+            "bank": "BANQUE NATIONALE D'INVESTISSEMENT",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "CSSSCIAB"
+        },
+        {
+            "id": 37,
+            "bank": "BGFIBANK COTE D'IVOIRE",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "BGFICIAB"
+        },
+        {
+            "id": 38,
+            "bank": "BRIDGE BANK GROUP COTE D'IVOIRE",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "BGCDCIAB"
+        },
+        {
+            "id": 39,
+            "bank": "BSIC COTE D'IVOIRE",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "BSAHCIAB"
+        },
+        {
+            "id": 40,
+            "bank": "CAISSE NATIONALE DES CAISSE EPARGNE",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "CNCGCIAB"
+        },
+        {
+            "id": 41,
+            "bank": "CITIBANK N.A.",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "CITICIAX"
+        },
+        {
+            "id": 42,
+            "bank": "COFIPA INVESTMENT BANK CI",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "IBCICIAB"
+        },
+        {
+            "id": 43,
+            "bank": "CORIS BANK INTERNATIONAL",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "CORICIAB"
+        },
+        {
+            "id": 44,
+            "bank": "DIAMONDBANK COTE D'IVOIRE",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "DBLNCIAB"
+        },
+        {
+            "id": 45,
+            "bank": "ECOBANK - COTE D'IVOIRE S.A.",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "ECOCCIAB"
+        },
+        {
+            "id": 46,
+            "bank": "GUARANTY TRUST BANK COTE D'IVOIRE",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "GTBICIAB"
+        },
+        {
+            "id": 47,
+            "bank": "NSIA BANQUE COTE D'IVOIRE (NSIA BANQUE CI)",
+            "city": "ABIDJAN",
+            "branch": "(HEAD OFFICE)",
+            "swift_code": "BIAOCIAB"
+        },
+        {
+            "id": 48,
+            "bank": "NSIA BANQUE COTE D'IVOIRE (NSIA BANQUE CI)",
+            "city": "BOUAKE",
+            "branch": null,
+            "swift_code": "BIAOCIAB032"
+        },
+        {
+            "id": 49,
+            "bank": "NSIA BANQUE COTE D'IVOIRE (NSIA BANQUE CI)",
+            "city": "DALOA",
+            "branch": null,
+            "swift_code": "BIAOCIAB034"
+        },
+        {
+            "id": 50,
+            "bank": "NSIA BANQUE COTE D'IVOIRE (NSIA BANQUE CI)",
+            "city": "KORHOGO",
+            "branch": null,
+            "swift_code": "BIAOCIAB033"
+        },
+        {
+            "id": 51,
+            "bank": "ORABANK COTE D'IVOIRE",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "ORBKCIAB"
+        },
+        {
+            "id": 52,
+            "bank": "SOCIETE GENERALE DE BANQUES EN COTE D'IVOIRE",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "SGCICIAB"
+        },
+        {
+            "id": 53,
+            "bank": "SOCIETE IVOIRIENNE DE BANQUE",
+            "city": "ABIDJAN",
+            "branch": "(SIEGE)",
+            "swift_code": "SIVBCIAB"
+        },
+        {
+            "id": 54,
+            "bank": "STANDARD CHARTERED BANK COTE D'IVOIRE",
+            "city": "ABIDJAN",
+            "branch": "(SECURITIES SERVICES)",
+            "swift_code": "SCBLCIABSSU"
+        },
+        {
+            "id": 55,
+            "bank": "STANDARD CHARTERED BANK COTE D'IVOIRE",
+            "city": "ABIDJAN",
+            "branch": "(STORM II)",
+            "swift_code": "SCBLCIABSTM"
+        },
+        {
+            "id": 56,
+            "bank": "STANDARD CHARTERED BANK COTE D'IVOIRE",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "SCBLCIAB"
+        },
+        {
+            "id": 57,
+            "bank": "UNITED BANK FOR AFRICA COTE D'IVOIRE",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "UNAFCIAB"
+        },
+        {
+            "id": 58,
+            "bank": "VERSUS BANK",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "VSBKCIAB"
+        }
+    ]
+}

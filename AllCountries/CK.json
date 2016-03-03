@@ -1,0 +1,41 @@
+{
+    "country": "Cook Islands",
+    "country_code": "CK",
+    "list": [
+        {
+            "id": 1,
+            "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LTD.",
+            "city": "RAROTONGA",
+            "branch": null,
+            "swift_code": "ANZBCKCR"
+        },
+        {
+            "id": 2,
+            "bank": "BANK OF SOUTH PACIFIC LIMITED",
+            "city": "RAROTONGA",
+            "branch": null,
+            "swift_code": "BOSPCKCR"
+        },
+        {
+            "id": 3,
+            "bank": "BANK OF THE COOK ISLANDS LIMITED",
+            "city": "RAROTONGA",
+            "branch": null,
+            "swift_code": "BCKICKCR"
+        },
+        {
+            "id": 4,
+            "bank": "CAPITAL SECURITY BANK COOK ISLANDS LIMITED",
+            "city": "AVARUA",
+            "branch": null,
+            "swift_code": "CPSBCKCK"
+        },
+        {
+            "id": 5,
+            "bank": "CAPITAL SECURITY BANK LIMITED",
+            "city": "AVARUA",
+            "branch": null,
+            "swift_code": "CPSBCKCA"
+        }
+    ]
+}
