@@ -4,293 +4,979 @@
     "list": [
         {
             "id": 1,
+            "bank": "42 FINANCIAL SERVICES",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "FNSECZP1"
+        },
+        {
+            "id": 2,
+            "bank": "A AND CE GLOBAL FINANCE, A.S.",
+            "city": "BRNO",
+            "branch": null,
+            "swift_code": "GLFNCZ21"
+        },
+        {
+            "id": 3,
             "bank": "AIR BANK A.S.",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "AIRACZPP"
         },
         {
-            "id": 2,
+            "id": 4,
+            "bank": "AKCENTA, SPORITELNI A UVERNI DRUZSTVO",
+            "city": "HRADEC KRALOVE",
+            "branch": null,
+            "swift_code": "AKCTCZ21"
+        },
+        {
+            "id": 5,
+            "bank": "AKRO INVESTICNLSPOLECNOST, A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "AKINCZP1"
+        },
+        {
+            "id": 6,
+            "bank": "ARCELORMITTAL OSTRAVA A.S.",
+            "city": "OSTRAVA",
+            "branch": null,
+            "swift_code": "USINCZ21"
+        },
+        {
+            "id": 7,
             "bank": "ARTESA, SPORITELNI DRUZSTVO",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "ARTTCZPP"
         },
         {
-            "id": 3,
+            "id": 8,
+            "bank": "ATLANTA SAFE, A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "ATAFCZP1"
+        },
+        {
+            "id": 9,
+            "bank": "ATLANTIK ASSET MANAGEMENT INVESTICNI SPOLECNOST,A.S",
+            "city": "BRNO",
+            "branch": null,
+            "swift_code": "AAMVCZ21"
+        },
+        {
+            "id": 10,
+            "bank": "ATLANTIK FINANCNI TRHY, A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "ATLKCZP1"
+        },
+        {
+            "id": 11,
+            "bank": "AXA INVESTICNI SPOLECNOST A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "AXILCZP1"
+        },
+        {
+            "id": 12,
             "bank": "BANK OF CHINA (HUNGARY) CLOSE LTD. PRAGUE BRANCH, ODSTEPNY ZAVOD",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "BKCHCZPP"
         },
         {
-            "id": 4,
+            "id": 13,
             "bank": "BANK OF TOKYO-MITSUBISHI UFJ (HOLLAND) N.V., PRAGUE BRANCH",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "BOTKCZPP"
         },
         {
-            "id": 5,
+            "id": 14,
+            "bank": "BH SECURITIES A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "SEESCZP1"
+        },
+        {
+            "id": 15,
             "bank": "BNP PARIBAS FORTIS SA\/NV POBOCKA CESKA REPUBLIKA",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "GEBACZPP"
         },
         {
-            "id": 6,
+            "id": 16,
+            "bank": "BODY INTERNATIONAL BROKERS A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "BOIOCZP1"
+        },
+        {
+            "id": 17,
+            "bank": "BOHM AND PARTNER, A.S.",
+            "city": "BRNO",
+            "branch": null,
+            "swift_code": "BOPACZ21"
+        },
+        {
+            "id": 18,
+            "bank": "BROKERJET CESKE SPORITELNY, A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "BRCYCZP1"
+        },
+        {
+            "id": 19,
+            "bank": "BURZOVNI SPOLECNOST PRO KAPITALOVY TRH, A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "BSPKCZP1"
+        },
+        {
+            "id": 20,
+            "bank": "CAPITAL PARTNERS A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "CPPRCZP1"
+        },
+        {
+            "id": 21,
+            "bank": "CARDUUS ASSET MANAGEMENT, INVESTICNI SPOLECNOST, A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "CSMVCZP1"
+        },
+        {
+            "id": 22,
             "bank": "CENTRALNI DEPOZITAR CENNYCH PAPIRU, A.S.",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "UNIYCZPP"
         },
         {
-            "id": 7,
+            "id": 23,
+            "bank": "CESKA BANKA A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "CSKBCZP1"
+        },
+        {
+            "id": 24,
             "bank": "CESKA NARODNI BANKA",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "CNBACZPP"
         },
         {
-            "id": 8,
+            "id": 25,
             "bank": "CESKA SPORITELNA A.S.",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "GIBACZPX"
         },
         {
-            "id": 9,
+            "id": 26,
+            "bank": "CESKOMORAVSKA ZARUCNI A ROZVOJOVA BANKA, A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "CMZRCZP1"
+        },
+        {
+            "id": 27,
             "bank": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
             "city": "PRAGUE",
             "branch": "(HEAD OFFICE)",
             "swift_code": "CEKOCZPP"
         },
         {
-            "id": 10,
+            "id": 28,
             "bank": "CITFIN, SPORITELNI DRUZSTVO",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "CITFCZPP"
         },
         {
-            "id": 11,
+            "id": 29,
+            "bank": "CITFIN-FINANCNI TRHY, A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "CIIHCZP1"
+        },
+        {
+            "id": 30,
             "bank": "CITIBANK EUROPE PLC, ORGANIZACNI SLOZKA",
             "city": "PRAGUE",
             "branch": "(TRADE SERVICES DEPT.)",
             "swift_code": "CITICZPXTRD"
         },
         {
-            "id": 12,
+            "id": 31,
             "bank": "CITIBANK EUROPE PLC, ORGANIZACNI SLOZKA",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "CITICZPX"
         },
         {
-            "id": 13,
+            "id": 32,
+            "bank": "COLOSSEUM, A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "CLLSCZP1"
+        },
+        {
+            "id": 33,
             "bank": "COMMERZBANK AG",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "COBACZPX"
         },
         {
-            "id": 14,
+            "id": 34,
+            "bank": "CONSEQ INVESTMENT MANAGEMENT,A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "COVGCZP1"
+        },
+        {
+            "id": 35,
+            "bank": "CP INVEST INVESTICNI SPOLECNOST, A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "INNLCZP1"
+        },
+        {
+            "id": 36,
+            "bank": "CREDITANSTALT SECURITIES",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "CAIBCZP1"
+        },
+        {
+            "id": 37,
+            "bank": "CSOB ASSET MANAGEMENT",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "CSOBCZP1"
+        },
+        {
+            "id": 38,
+            "bank": "CSOB INVESTICNLSPOLECNOST, A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "CSIVCZP1"
+        },
+        {
+            "id": 39,
+            "bank": "CYRRUS CORPORATE FINANCE, A.S.",
+            "city": "BRNO",
+            "branch": null,
+            "swift_code": "CYCFCZ21"
+        },
+        {
+            "id": 40,
+            "bank": "CYRRUS, A.S.",
+            "city": "BRNO",
+            "branch": null,
+            "swift_code": "CYRRCZ21"
+        },
+        {
+            "id": 41,
+            "bank": "CZECH ENERGY HOLDING, A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "CZEHCZP1"
+        },
+        {
+            "id": 42,
             "bank": "CZECH EXPORT BANK",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "CZEECZPP"
         },
         {
-            "id": 15,
+            "id": 43,
             "bank": "DEUTSCHE BANK AG",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "DEUTCZPX"
         },
         {
-            "id": 16,
+            "id": 44,
+            "bank": "DOM MAKLERSKI BANKU OCHRONY SRODOWISKA SPOLKA AKCYJNA, ORGANIZACNI SLOZKA CESKA REPUBLIKA",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "DMORCZP1"
+        },
+        {
+            "id": 45,
             "bank": "EEPAYS S.R.O.",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "EEPSCZPP"
         },
         {
-            "id": 17,
+            "id": 46,
+            "bank": "EFEKTA CONSULTING, A.S.",
+            "city": "BRNO",
+            "branch": null,
+            "swift_code": "EFCOCZ21"
+        },
+        {
+            "id": 47,
             "bank": "EQUA BANK A.S.",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "EQBKCZPP"
         },
         {
-            "id": 18,
+            "id": 48,
+            "bank": "EQUITY HOLDING, A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "EQHOCZP1"
+        },
+        {
+            "id": 49,
             "bank": "ERB BANK, A.S.",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "FICHCZPP"
         },
         {
-            "id": 19,
+            "id": 50,
+            "bank": "EURO FINANCIAL CORPORATION S.R.O.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "EFCPCZP1"
+        },
+        {
+            "id": 51,
+            "bank": "EUROPEAN INVESTMENT CENTRE O.C.P., A.S. - ORGANIZACNI SLOZKA",
+            "city": "BRNO",
+            "branch": null,
+            "swift_code": "EICOCZ21"
+        },
+        {
+            "id": 52,
+            "bank": "EXCHANGE S.R.O.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "EXSOCZP1"
+        },
+        {
+            "id": 53,
             "bank": "EXPOBANK CZ A.S.",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "EXPNCZPP"
         },
         {
-            "id": 20,
+            "id": 54,
+            "bank": "EZPADA S.R.O.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "EZSRCZP1"
+        },
+        {
+            "id": 55,
+            "bank": "FINANCE ZLIN, A.S.",
+            "city": "ZLIN",
+            "branch": null,
+            "swift_code": "FIZLCZ21"
+        },
+        {
+            "id": 56,
             "bank": "FIO BANKA, A.S.",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "FIOBCZPP"
         },
         {
-            "id": 21,
+            "id": 57,
+            "bank": "FIO, DRUZSTEVNI ZALOZNA",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "FIOZCZP1"
+        },
+        {
+            "id": 58,
+            "bank": "GARFIELD A.S.",
+            "city": "OSTRAVA",
+            "branch": null,
+            "swift_code": "GARFCZ21"
+        },
+        {
+            "id": 59,
+            "bank": "GAUDEA A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "GAUDCZP1"
+        },
+        {
+            "id": 60,
             "bank": "GE MONEY BANK, A.S.(FORMERLY GE CAPITAL BANK A.S.)",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "AGBACZPP"
         },
         {
-            "id": 22,
+            "id": 61,
+            "bank": "GENERALI PPF ASSET MANAGEMENT A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "PPAMCZP1"
+        },
+        {
+            "id": 62,
+            "bank": "GLOBAL BROKERS, A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "GLBOCZP1"
+        },
+        {
+            "id": 63,
+            "bank": "HIGHSKY BROKERS, A. S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "HIBRCZP1"
+        },
+        {
+            "id": 64,
+            "bank": "HONOR INVEST, A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "HOIVCZP1"
+        },
+        {
+            "id": 65,
             "bank": "HSBC BANK PLC",
             "city": "PRAGUE",
             "branch": "(SEPA DIRECT DEBITS)",
             "swift_code": "MIDLCZPPSDD"
         },
         {
-            "id": 23,
+            "id": 66,
             "bank": "HSBC BANK PLC",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "MIDLCZPP"
         },
         {
-            "id": 24,
+            "id": 67,
             "bank": "ING BANK N.V.",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "INGBCZPP"
         },
         {
-            "id": 25,
+            "id": 68,
+            "bank": "ING INVESTMENT MANAGEMENT (C.R.), A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "IGINCZP1"
+        },
+        {
+            "id": 69,
+            "bank": "INVESTICNI KAPITALOVA SPOLECNOST KB, A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "INPKCZP1"
+        },
+        {
+            "id": 70,
+            "bank": "INVESTICNLSPOLECNOST CESKE SPORITELNY, A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "INEYCZP1"
+        },
+        {
+            "id": 71,
+            "bank": "J AND T ASSET MANAGEMENT, INVESTICNI SPOLECNOST, A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "ASMVCZP1"
+        },
+        {
+            "id": 72,
             "bank": "J AND T BANKA A.S.",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "JTBPCZPP"
         },
         {
-            "id": 26,
+            "id": 73,
+            "bank": "J AND T FINANCE GROUP II, A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "FIOUCZP1"
+        },
+        {
+            "id": 74,
+            "bank": "J AND T FINANCE, A.S",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "FNENCZP1"
+        },
+        {
+            "id": 75,
+            "bank": "J AND T INVESTMENT HOLDING, A.S.",
+            "city": "BRNO",
+            "branch": null,
+            "swift_code": "INHOCZ21"
+        },
+        {
+            "id": 76,
+            "bank": "JER REAL ESTATE ADVISORS (UK) LTD",
+            "city": "PRAGUE",
+            "branch": "(BRANCH)",
+            "swift_code": "JREACZP1BRA"
+        },
+        {
+            "id": 77,
+            "bank": "JER REAL ESTATE ADVISORS (UK) LTD",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "JREACZP1"
+        },
+        {
+            "id": 78,
+            "bank": "JUNG, DMS AND CIE.",
+            "city": "BRNO",
+            "branch": null,
+            "swift_code": "JDMSCZ21"
+        },
+        {
+            "id": 79,
+            "bank": "KEY INVESTMENTS A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "KEIECZP1"
+        },
+        {
+            "id": 80,
             "bank": "KOMERCNI BANKA A.S.",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "KOMBCZPP"
         },
         {
-            "id": 27,
+            "id": 81,
+            "bank": "LASALLE INVESTMENT MANAGEMENT, ORGANIZACNI SLOZKA",
+            "city": "PRAGUE",
+            "branch": "(PRAGUE BRANCH)",
+            "swift_code": "LIMOCZ21BRA"
+        },
+        {
+            "id": 82,
+            "bank": "LASALLE INVESTMENT MANAGEMENT, ORGANIZACNI SLOZKA",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "LIMOCZ21"
+        },
+        {
+            "id": 83,
             "bank": "MBANK S.A., ORGANIZACNI SLOZKA",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "BREXCZPP"
         },
         {
-            "id": 28,
+            "id": 84,
+            "bank": "MERX A.S.",
+            "city": "MORAVSKE BUDEJOVICE",
+            "branch": null,
+            "swift_code": "MERXCZ21"
+        },
+        {
+            "id": 85,
+            "bank": "MINISTRY OF FINANCE OF THE CZECH REPUBLIC",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "MFCRCZP1"
+        },
+        {
+            "id": 86,
+            "bank": "MOBIS AUTOMOTIVE CZECH S.R.O",
+            "city": "OSTRAVA",
+            "branch": null,
+            "swift_code": "HYMOCZ21"
+        },
+        {
+            "id": 87,
             "bank": "MORAVSKY PENEZNI USTAV-SPORITELNI DRUZSTVO",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "MPUBCZPP"
         },
         {
-            "id": 29,
+            "id": 88,
+            "bank": "NOBLE SECURITIES S.A. ORGANIZACNI SLOZKA CESKA REPUBLIKA",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "NSOSCZP1"
+        },
+        {
+            "id": 89,
             "bank": "OBERBANK AG",
             "city": "CESKE BUDEJOVICE",
             "branch": null,
             "swift_code": "OBKLCZ2X"
         },
         {
-            "id": 30,
+            "id": 90,
+            "bank": "PARTNERS INVESTICNI SPOLECNOST, A.S",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "PAVSCZP1"
+        },
+        {
+            "id": 91,
+            "bank": "PATRIA FINANCE, A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "PADICZP1"
+        },
+        {
+            "id": 92,
+            "bank": "PAYMENT EXECUTION S.R.O.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "PAERCZP1"
+        },
+        {
+            "id": 93,
+            "bank": "PAYMENT EXECUTION S.R.O.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "PAERCZP1CMB"
+        },
+        {
+            "id": 94,
+            "bank": "PAYMENT EXECUTION S.R.O.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "PAERCZP1DEU"
+        },
+        {
+            "id": 95,
+            "bank": "PAYMENT EXECUTION S.R.O.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "PAERCZP1ETF"
+        },
+        {
+            "id": 96,
+            "bank": "PAYMENT EXECUTION S.R.O.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "PAERCZP1ING"
+        },
+        {
+            "id": 97,
+            "bank": "PAYMENT EXECUTION S.R.O.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "PAERCZP1POF"
+        },
+        {
+            "id": 98,
+            "bank": "PAYMENT EXECUTION S.R.O.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "PAERCZP1PRG"
+        },
+        {
+            "id": 99,
+            "bank": "PAYMENT EXECUTION S.R.O.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "PAERCZP1UBS"
+        },
+        {
+            "id": 100,
             "bank": "PIONEER ASSET MANAGEMENT, A.S.",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "PIAMCZPP"
         },
         {
-            "id": 31,
+            "id": 101,
+            "bank": "PIONEER INVESTICNI SPOLECNOST, A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "PISPCZP1"
+        },
+        {
+            "id": 102,
+            "bank": "PLZENSKA BANKA, A.S.",
+            "city": "PLZEN",
+            "branch": null,
+            "swift_code": "PLBACZP1"
+        },
+        {
+            "id": 103,
             "bank": "POSTOVA BANKA, A.S.,POBOCKA CESKA REPUBLIKA",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "POBNCZPP"
         },
         {
-            "id": 32,
+            "id": 104,
             "bank": "PPF BANKA A.S.",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "PMBPCZPP"
         },
         {
-            "id": 33,
+            "id": 105,
+            "bank": "PROVENTUS FINANCE A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "PRNICZP1"
+        },
+        {
+            "id": 106,
             "bank": "RAIFFEISENBANK A.S.",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "RZBCCZPP"
         },
         {
-            "id": 34,
+            "id": 107,
+            "bank": "RAIFFEISENBANK IM STIFTLAND EG",
+            "city": "CHEB",
+            "branch": null,
+            "swift_code": "GENOCZ21"
+        },
+        {
+            "id": 108,
+            "bank": "RELIANTCO INVESTMENTS LTD ORGANIZACNI SLOZKA",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "RIOLCZP1"
+        },
+        {
+            "id": 109,
+            "bank": "RM-S HOLDING, A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "RMHOCZP1"
+        },
+        {
+            "id": 110,
+            "bank": "RM-SYSTEM, A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "RMSYCZP1"
+        },
+        {
+            "id": 111,
+            "bank": "RSJ INVEST,A.S.",
+            "city": "PLZEN",
+            "branch": null,
+            "swift_code": "RSIVCZ21"
+        },
+        {
+            "id": 112,
+            "bank": "SAMSUNG ELEC. HUNGARIAN-CZECH",
+            "city": "PRAGUE",
+            "branch": "(SECZ)",
+            "swift_code": "SECTCZP1493"
+        },
+        {
+            "id": 113,
+            "bank": "SAMSUNG ELEC. HUNGARIAN-CZECH",
+            "city": "PRAGUE",
+            "branch": "(SEH-CZ)",
+            "swift_code": "SECTCZP1491"
+        },
+        {
+            "id": 114,
+            "bank": "SAMSUNG ELEC. HUNGARIAN-CZECH",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "SECTCZP1"
+        },
+        {
+            "id": 115,
+            "bank": "SARF A.S.",
+            "city": "VELICHOVKY",
+            "branch": null,
+            "swift_code": "SAFFCZ21"
+        },
+        {
+            "id": 116,
+            "bank": "SAXO BANK PRAGUE",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "SAXPCZP1"
+        },
+        {
+            "id": 117,
             "bank": "SBERBANK CZ, A.S.",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "VBOECZ2X"
         },
         {
-            "id": 35,
+            "id": 118,
+            "bank": "SKO ENERGO",
+            "city": "MLADA BOLESLAV",
+            "branch": null,
+            "swift_code": "SKENCZ21"
+        },
+        {
+            "id": 119,
+            "bank": "SKO ENERGO FIN.",
+            "city": "MLADA BOLESLAV",
+            "branch": null,
+            "swift_code": "SKEFCZ21"
+        },
+        {
+            "id": 120,
+            "bank": "SKODA AUTO A.S.",
+            "city": "MLADA BOLESLAV",
+            "branch": null,
+            "swift_code": "SKOACZ21"
+        },
+        {
+            "id": 121,
+            "bank": "STOCK EXCHANGE PRAGUE CO. LTD, THE",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "XPRACZP1"
+        },
+        {
+            "id": 122,
+            "bank": "STREDISKO CENNYCH PAPIRU",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "STCUCZP1"
+        },
+        {
+            "id": 123,
+            "bank": "THE CZECH REGISTRY FOR EMISSION ALLOWANCES TRADING",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "CRMWCZP1"
+        },
+        {
+            "id": 124,
             "bank": "THE ROYAL BANK OF SCOTLAND PLC CZECH REPUBLIC (FORMERLY KNOWN AS RBS NV)",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "ABNACZPP"
         },
         {
-            "id": 36,
+            "id": 125,
+            "bank": "TOTAL SOLUTIONS S.R.O.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "TOSOCZP1"
+        },
+        {
+            "id": 126,
             "bank": "UNICREDIT BANK CZECH REPUBLIC AND SLOVAKIA, A.S.",
             "city": "PRAGUE",
             "branch": "(INTERNAL FILE ACT ROUTING)",
             "swift_code": "BACXCZPPFAR"
         },
         {
-            "id": 37,
+            "id": 127,
             "bank": "UNICREDIT BANK CZECH REPUBLIC AND SLOVAKIA, A.S.",
             "city": "PRAGUE",
             "branch": "(SECURITIES SETTLEMENT)",
             "swift_code": "BACXCZPPRET"
         },
         {
-            "id": 38,
+            "id": 128,
             "bank": "UNICREDIT BANK CZECH REPUBLIC AND SLOVAKIA, A.S.",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "BACXCZPP"
         },
         {
-            "id": 39,
+            "id": 129,
+            "bank": "VIRTUSE ENERGY S.R.O EMPIRIA CENTRE",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "VESECZP1"
+        },
+        {
+            "id": 130,
             "bank": "VSEOBECNA UVEROVA BANKA, A.S. BRANCH PRAHA",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "SUBACZPP"
         },
         {
-            "id": 40,
+            "id": 131,
+            "bank": "WALDVIERTLER SPARKASSE BANK AG",
+            "city": "JINDRICHUV HRADEC",
+            "branch": null,
+            "swift_code": "SPWTCZ21"
+        },
+        {
+            "id": 132,
+            "bank": "WALLICH AND MATTHES CZECH REPUBLIC",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "WMCRCZP1"
+        },
+        {
+            "id": 133,
+            "bank": "WEST BROKERS A.S.",
+            "city": "PLZEN",
+            "branch": null,
+            "swift_code": "WERRCZ21"
+        },
+        {
+            "id": 134,
+            "bank": "WESTERN UNION INTERNATIONAL BANK GMBH ORGANIZACNI SLOZKA",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "WEUICZP1"
+        },
+        {
+            "id": 135,
             "bank": "WOOD AND COMPANY",
             "city": "PRAGUE",
             "branch": null,
             "swift_code": "WOODCZPP"
         },
         {
-            "id": 41,
+            "id": 136,
+            "bank": "WOOD AND COMPANY INVESTICNI SPOLECNOST, A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "WCISCZP1"
+        },
+        {
+            "id": 137,
+            "bank": "X-TRADE BROKERS DOM MAKLERSKI SPOLKA AKCYJNA,ORGANIZACNI SLOZKA",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "TRBDCZP1"
+        },
+        {
+            "id": 138,
             "bank": "ZALOZNA CREDITAS SPORITELNI DRUZSTVO",
             "city": "OLOMOUC",
             "branch": null,
             "swift_code": "CTASCZ22"
         },
         {
-            "id": 42,
+            "id": 139,
+            "bank": "ZFP INVESTMENTS INVESTICNI SPOLECNOST, A.S.",
+            "city": "PRAGUE",
+            "branch": null,
+            "swift_code": "ZFPICZP1"
+        },
+        {
+            "id": 140,
             "bank": "ZUNO BANK AG, ORGANIZACNI SLOZKA",
             "city": "PRAGUE",
             "branch": null,

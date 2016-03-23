@@ -11,24 +11,80 @@
         },
         {
             "id": 2,
+            "bank": "C.C.P.B ANTILLE GUYANE",
+            "city": "FORT DE FRANCE",
+            "branch": null,
+            "swift_code": "CCNGMQM1"
+        },
+        {
+            "id": 3,
+            "bank": "CAISSE EPARGNE MARTINIQUE",
+            "city": "FORT DE FRANCE",
+            "branch": null,
+            "swift_code": "CAEQMQM1"
+        },
+        {
+            "id": 4,
+            "bank": "CAISSE EPARGNE PREVOYANCE MARTINIQUE",
+            "city": "FORT DE FRANCE",
+            "branch": null,
+            "swift_code": "CERIMQM1"
+        },
+        {
+            "id": 5,
+            "bank": "CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL DE LA MARTINIQUE ET DE LA GUYANE",
+            "city": "LE LAMENTIN",
+            "branch": null,
+            "swift_code": "CGRLMQM1"
+        },
+        {
+            "id": 6,
             "bank": "CREDIT AGRICOLE",
             "city": "FORT DE FRANCE",
             "branch": null,
             "swift_code": "AGRIMQMX"
         },
         {
-            "id": 3,
+            "id": 7,
             "bank": "CREDIT AGRICOLE",
             "city": "LE LAMENTIN",
             "branch": null,
             "swift_code": "AGRIMQMXLEL"
         },
         {
-            "id": 4,
+            "id": 8,
+            "bank": "CREDIT MUTUEL-CAISSE FEDERALE ANTILLES GUYANE",
+            "city": "FORT DE FRANCE",
+            "branch": null,
+            "swift_code": "CMCIMQM1"
+        },
+        {
+            "id": 9,
             "bank": "GROUPE BERNARD HAYOT",
             "city": "LE LAMENTIN",
             "branch": null,
             "swift_code": "GBHAMQMM"
+        },
+        {
+            "id": 10,
+            "bank": "SOCIETE GENERALE DE BANQUE AUX ANTILLES",
+            "city": "FORT DE FRANCE",
+            "branch": null,
+            "swift_code": "SOGEMQM1"
+        },
+        {
+            "id": 11,
+            "bank": "SOCIETE MARTINIQUAISE DE FINT-SOMAFI",
+            "city": "LE LAMENTIN",
+            "branch": null,
+            "swift_code": "SMFSMQM1"
+        },
+        {
+            "id": 12,
+            "bank": "SOFIAG",
+            "city": "FORT DE FRANCE",
+            "branch": null,
+            "swift_code": "SOAIMQM1"
         }
     ]
 }

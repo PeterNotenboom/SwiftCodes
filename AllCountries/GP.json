@@ -39,38 +39,80 @@
         },
         {
             "id": 6,
+            "bank": "CAISSE EPARGNE PREVOYANCE GUADELOUPE",
+            "city": "ABYMES",
+            "branch": null,
+            "swift_code": "CEPGGPG1"
+        },
+        {
+            "id": 7,
+            "bank": "CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL DE GUADELOUPE",
+            "city": "ABYMES",
+            "branch": null,
+            "swift_code": "CGCTGPG1"
+        },
+        {
+            "id": 8,
+            "bank": "CAISSE REGIONALE DE CREDIT MARITIME MUTUEL D'OUTRE MER",
+            "city": "POINTE-A-PITRE",
+            "branch": null,
+            "swift_code": "CMDMGPG1"
+        },
+        {
+            "id": 9,
             "bank": "CREDIT AGRICOLE",
             "city": "BASSE TERRE",
             "branch": null,
             "swift_code": "AGRIGPGXBTR"
         },
         {
-            "id": 7,
+            "id": 10,
             "bank": "CREDIT AGRICOLE",
             "city": "POINTE-A-PITRE",
             "branch": null,
             "swift_code": "AGRIGPGX"
         },
         {
-            "id": 8,
+            "id": 11,
+            "bank": "CREDIT MODERNE ANTILLES",
+            "city": "BAIE MAHAULT",
+            "branch": null,
+            "swift_code": "CRMSGPG1"
+        },
+        {
+            "id": 12,
+            "bank": "SOCIETE ANONYME DE GESTION ET DE FINANCEMENT - SAGEFI",
+            "city": "ABYMES",
+            "branch": null,
+            "swift_code": "SGFAGPG1"
+        },
+        {
+            "id": 13,
             "bank": "SOCIETE GENERALE DE BANQUE AUX ANTILLES",
             "city": "POINTE-A-PITRE",
             "branch": "(GUADELOUPE BRANCH)",
             "swift_code": "SOGEGPGPGUA"
         },
         {
-            "id": 9,
+            "id": 14,
             "bank": "SOCIETE GENERALE DE BANQUE AUX ANTILLES",
             "city": "POINTE-A-PITRE",
             "branch": null,
             "swift_code": "SOGEGPGP"
         },
         {
-            "id": 10,
+            "id": 15,
             "bank": "SOCIETE GENERALE DE BANQUE AUX ANTILLES",
             "city": "POINTE-A-PITRE",
             "branch": null,
             "swift_code": "SOGEGPGPMAR"
+        },
+        {
+            "id": 16,
+            "bank": "SOCIETE GUADELOUPEENNE DE FINANCEMENT - SOGUAFI",
+            "city": "BAIE MAHAULT",
+            "branch": null,
+            "swift_code": "SGFOGPG1"
         }
     ]
 }

@@ -25,13 +25,20 @@
         },
         {
             "id": 4,
+            "bank": "MALUTI MOUNTAIN BREWERY LIMITED",
+            "city": "MASERU",
+            "branch": null,
+            "swift_code": "SABMLSM1"
+        },
+        {
+            "id": 5,
             "bank": "NEDBANK (LESOTHO) LIMITED",
             "city": "MASERU",
             "branch": null,
             "swift_code": "NEDLLSMX"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "STANDARD LESOTHO BANK LTD.",
             "city": "MASERU",
             "branch": null,

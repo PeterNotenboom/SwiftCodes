@@ -11,136 +11,423 @@
         },
         {
             "id": 2,
+            "bank": "BANCO AMERICA CENTRAL",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "AMCNGTG1"
+        },
+        {
+            "id": 3,
             "bank": "BANCO AMERICA CENTRAL SOCIEDAD ANONIMA",
             "city": "GUATEMALA",
             "branch": null,
             "swift_code": "AMCNGTGT"
         },
         {
-            "id": 3,
+            "id": 4,
+            "bank": "BANCO AMERICANO, S.A",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "AMRIGTG1"
+        },
+        {
+            "id": 5,
             "bank": "BANCO AZTECA DE GUATEMALA",
             "city": "GUATEMALA",
             "branch": null,
             "swift_code": "AZTKGTGC"
         },
         {
-            "id": 4,
+            "id": 6,
+            "bank": "BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "BCIEGTG1"
+        },
+        {
+            "id": 7,
             "bank": "BANCO CITIBANK DE GUATEMALA, S.A.",
             "city": "GUATEMALA",
             "branch": null,
             "swift_code": "CITBGTGC"
         },
         {
-            "id": 5,
+            "id": 8,
+            "bank": "BANCO CORPORATIVO, S.A.",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "COPVGTG1"
+        },
+        {
+            "id": 9,
+            "bank": "BANCO DE ANTIGUA, S A",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "ANTGGTG1"
+        },
+        {
+            "id": 10,
+            "bank": "BANCO DE COMERCIO S.A.",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "CMMEGTG1"
+        },
+        {
+            "id": 11,
             "bank": "BANCO DE CREDITO, S.A.",
             "city": "GUATEMALA",
             "branch": null,
             "swift_code": "BDCTGTGT"
         },
         {
-            "id": 6,
+            "id": 12,
             "bank": "BANCO DE GUATEMALA",
             "city": "GUATEMALA",
             "branch": null,
             "swift_code": "BAGUGTGC"
         },
         {
-            "id": 7,
+            "id": 13,
             "bank": "BANCO DE GUATEMALA",
             "city": "GUATEMALA",
             "branch": null,
             "swift_code": "BAGUGTGB"
         },
         {
-            "id": 8,
+            "id": 14,
+            "bank": "BANCO DE LA REPUBLICA S.A.",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "REBLGTG1"
+        },
+        {
+            "id": 15,
             "bank": "BANCO DE LOS TRABAJADORES",
             "city": "GUATEMALA",
             "branch": null,
             "swift_code": "TRAJGTGC"
         },
         {
-            "id": 9,
+            "id": 16,
+            "bank": "BANCO DEL EJERCITO S.A.",
+            "city": "CHICHICASTENANGO",
+            "branch": "(AGENCIA CHICHICASTENANGO)",
+            "swift_code": "BAEJGTG10G6"
+        },
+        {
+            "id": 17,
+            "bank": "BANCO DEL EJERCITO S.A.",
+            "city": "COBAN",
+            "branch": "(AGENCIA COBAN)",
+            "swift_code": "BAEJGTG10GA"
+        },
+        {
+            "id": 18,
+            "bank": "BANCO DEL EJERCITO S.A.",
+            "city": "ESQUIPULAS",
+            "branch": "(AGENCIA ESQUIPULAS)",
+            "swift_code": "BAEJGTG10G7"
+        },
+        {
+            "id": 19,
+            "bank": "BANCO DEL EJERCITO S.A.",
+            "city": "GUALAN ZACAPA",
+            "branch": "(AGENCIA GUALAN ZACAPA)",
+            "swift_code": "BAEJGTG10G8"
+        },
+        {
+            "id": 20,
+            "bank": "BANCO DEL EJERCITO S.A.",
+            "city": "GUATEMALA",
+            "branch": "(AGENCIA AGUILAR BATRES)",
+            "swift_code": "BAEJGTG10G3"
+        },
+        {
+            "id": 21,
+            "bank": "BANCO DEL EJERCITO S.A.",
+            "city": "GUATEMALA",
+            "branch": "(AGENCIA EL PATIO)",
+            "swift_code": "BAEJGTG1"
+        },
+        {
+            "id": 22,
+            "bank": "BANCO DEL EJERCITO S.A.",
+            "city": "GUATEMALA",
+            "branch": "(AGENCIA GEMINIS 10)",
+            "swift_code": "BAEJGTG10G4"
+        },
+        {
+            "id": 23,
+            "bank": "BANCO DEL EJERCITO S.A.",
+            "city": "GUATEMALA",
+            "branch": "(AGENCIA ROOSEVELT)",
+            "swift_code": "BAEJGTG10G2"
+        },
+        {
+            "id": 24,
+            "bank": "BANCO DEL EJERCITO S.A.",
+            "city": "QUEZALTENANGO",
+            "branch": "(AGENCIA QUEZALTENANGO)",
+            "swift_code": "BAEJGTG10G5"
+        },
+        {
+            "id": 25,
             "bank": "BANCO FICOHSA GUATEMALA",
             "city": "GUATEMALA",
             "branch": null,
             "swift_code": "FCOHGTGC"
         },
         {
-            "id": 10,
+            "id": 26,
             "bank": "BANCO G AND T CONTINENTAL, S.A.",
             "city": "GUATEMALA",
             "branch": null,
             "swift_code": "GTCOGTGC"
         },
         {
-            "id": 11,
+            "id": 27,
             "bank": "BANCO INDUSTRIAL, S.A.",
             "city": "GUATEMALA",
             "branch": null,
             "swift_code": "INDLGTGC"
         },
         {
-            "id": 12,
+            "id": 28,
             "bank": "BANCO INMOBILIARIO, S.A.",
             "city": "GUATEMALA",
             "branch": null,
             "swift_code": "BINMGTGC"
         },
         {
-            "id": 13,
+            "id": 29,
             "bank": "BANCO INTERNACIONAL, S.A.",
             "city": "GUATEMALA",
             "branch": null,
             "swift_code": "DIBIGTGC"
         },
         {
-            "id": 14,
+            "id": 30,
+            "bank": "BANCO INV, S.A.",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "FIVNGTG1"
+        },
+        {
+            "id": 31,
+            "bank": "BANCO METROPOLITANO S.A.",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "BMETGTG1"
+        },
+        {
+            "id": 32,
+            "bank": "BANCO NACIONAL DE LA VIVIENDA",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "BNVIGTG1"
+        },
+        {
+            "id": 33,
+            "bank": "BANCO PROMERICA, S.A.",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "BPRKGTG1"
+        },
+        {
+            "id": 34,
             "bank": "BANCO PROMERICA, S.A.",
             "city": "GUATEMALA",
             "branch": null,
             "swift_code": "BPRCGTGC"
         },
         {
-            "id": 15,
+            "id": 35,
             "bank": "BANCO REFORMADOR, S.A.",
             "city": "GUATEMALA",
             "branch": null,
             "swift_code": "CTRCGTGC"
         },
         {
-            "id": 16,
+            "id": 36,
+            "bank": "BANCO SCI S. A.",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "CIICGTG1"
+        },
+        {
+            "id": 37,
             "bank": "BANRURAL S.A.",
             "city": "GUATEMALA",
             "branch": null,
             "swift_code": "BRRLGTGC"
         },
         {
-            "id": 17,
+            "id": 38,
+            "bank": "BOLSA DE VALORES NACIONAL SA",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "XGTGGTG1"
+        },
+        {
+            "id": 39,
+            "bank": "BRITISH AMERICAN TOBACCO CENTRAL AMERICA S.A., SUCURSAL GUATEMALA",
+            "city": "CALZADA ATANASIO TZUL",
+            "branch": null,
+            "swift_code": "BATSGTG1"
+        },
+        {
+            "id": 40,
+            "bank": "CENTRAL DE VALORES NACIONAL, S.A.",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "CEVIGTG1"
+        },
+        {
+            "id": 41,
             "bank": "CITIBANK N.A. GUATEMALA",
             "city": "GUATEMALA",
             "branch": null,
             "swift_code": "CITIGTGC"
         },
         {
-            "id": 18,
+            "id": 42,
+            "bank": "CORPORACION BURSATIL SA",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "CORRGTG1"
+        },
+        {
+            "id": 43,
             "bank": "EL CREDITO HIPOTECARIO NACIONAL DE GUATEMALA",
             "city": "GUATEMALA",
             "branch": null,
             "swift_code": "CHNAGTGC"
         },
         {
-            "id": 19,
+            "id": 44,
+            "bank": "FINANCIERA AGROMERCANTIL S.A.",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "FAGOGTG1"
+        },
+        {
+            "id": 45,
+            "bank": "FINANCIERA CONSOLIDADA, S.A",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "FCOOGTG1"
+        },
+        {
+            "id": 46,
+            "bank": "FINANCIERA CORPORATIVA S.A.",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "FCORGTG1"
+        },
+        {
+            "id": 47,
+            "bank": "FINANCIERA DE CAPITALES, S. A.",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "FIRCGTG1"
+        },
+        {
+            "id": 48,
+            "bank": "FINANCIERA DE CREDITO S.A",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "FCREGTG1"
+        },
+        {
+            "id": 49,
             "bank": "FINANCIERA DE OCCIDENTE, S.A.",
             "city": "GUATEMALA",
             "branch": null,
             "swift_code": "OCICGTGC"
         },
         {
-            "id": 20,
+            "id": 50,
+            "bank": "FINANCIERA DE OCCIDENTE, S.A.",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "FIOCGTG1"
+        },
+        {
+            "id": 51,
+            "bank": "FINANCIERA DEL PAIS S A",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "FNPAGTG1"
+        },
+        {
+            "id": 52,
+            "bank": "FINANCIERA GUATEMALTECA S.A.",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "FIGAGTG1"
+        },
+        {
+            "id": 53,
+            "bank": "FINANCIERA INDUSTRIAL, S.A.",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "FIUDGTG1"
+        },
+        {
+            "id": 54,
+            "bank": "FINANCIERA LATINOAMERICANA, S. A",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "FILMGTG1"
+        },
+        {
+            "id": 55,
+            "bank": "FINANCIERA REFORMA S.A.",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "FIRFGTG1"
+        },
+        {
+            "id": 56,
+            "bank": "FINANCIERA SAN MIGUEL, S. A",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "FSMCGTG1"
+        },
+        {
+            "id": 57,
+            "bank": "FINANCIERA SUMMA, S.A. CENTRO GERENCIAL LAS MARGARITAS",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "FSCGGTG1"
+        },
+        {
+            "id": 58,
+            "bank": "FINANCIERA UNO S.A.",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "FIUNGTG1"
+        },
+        {
+            "id": 59,
+            "bank": "FITCH CENTROAMERICA (GUATEMALA)",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "FRIPGTG1"
+        },
+        {
+            "id": 60,
             "bank": "IMAGENES COMPUTARIZADAS DE GUATEMALA, S. A.",
             "city": "GUATEMALA",
             "branch": null,
             "swift_code": "ICGSGTGC"
+        },
+        {
+            "id": 61,
+            "bank": "PRIMER BANCO DE AHORRO Y PRSTAMO PARA LA VIVIENDA FAMILIAR, S.A.",
+            "city": "GUATEMALA",
+            "branch": null,
+            "swift_code": "VIVBGTG1"
         }
     ]
 }

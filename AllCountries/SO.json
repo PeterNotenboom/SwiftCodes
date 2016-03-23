@@ -18,20 +18,27 @@
         },
         {
             "id": 3,
+            "bank": "NATIONAL BANK OF SOMALIA LIMITED",
+            "city": "MOGADISCIO",
+            "branch": null,
+            "swift_code": "NASISOS1"
+        },
+        {
+            "id": 4,
             "bank": "PREMIER BANK LIMITED",
             "city": "MOGADISCIO",
             "branch": null,
             "swift_code": "PBSMSOSM"
         },
         {
-            "id": 4,
+            "id": 5,
             "bank": "SALAAM SOMALI BANK",
             "city": "MOGADISCIO",
             "branch": null,
             "swift_code": "SSBMSOSM"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "TRUST AFRICAN BANK",
             "city": "MOGADISCIO",
             "branch": null,

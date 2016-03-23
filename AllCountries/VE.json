@@ -11,290 +11,661 @@
         },
         {
             "id": 2,
+            "bank": "ACTIVALORES SOCIEDAD DE CORRETAJE S.A.,",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "ASDCVEC1"
+        },
+        {
+            "id": 3,
+            "bank": "ARAVEN FINANCE LTD.",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "ARAFVEC1"
+        },
+        {
+            "id": 4,
+            "bank": "ARRENDADORA CONSOLIDADO",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "ACONVEC1"
+        },
+        {
+            "id": 5,
+            "bank": "ARRENDADORA DE VENEZUELA BANVENEZ, SACA",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "ARBZVEC1"
+        },
+        {
+            "id": 6,
+            "bank": "ARRENDADORA DEL ORINOCO, CA",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "AORIVEC1"
+        },
+        {
+            "id": 7,
+            "bank": "ARRENDADORA PROVINCIAL",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "ARPRVEC1"
+        },
+        {
+            "id": 8,
+            "bank": "BAMERINVEST",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "BAMTVEC1"
+        },
+        {
+            "id": 9,
             "bank": "BANCAMIGA BANCO MICROFINANCIERO",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "BMIGVECA"
         },
         {
-            "id": 3,
+            "id": 10,
+            "bank": "BANCARACAS CASA DE BOLSA, C.A.",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "BCBOVEC1"
+        },
+        {
+            "id": 11,
             "bank": "BANCO ACTIVO, C.A. BANCO UNIVERSAL",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "ACTIVECA"
         },
         {
-            "id": 4,
+            "id": 12,
             "bank": "BANCO AGRICOLA DE VENEZUELA, C.A. BANCO UNIVERSAL",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "BAVEVECA"
         },
         {
-            "id": 5,
+            "id": 13,
             "bank": "BANCO BICENTENARIO BANCO UNIVERSAL, C.A.",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "CONDVECP"
         },
         {
-            "id": 6,
+            "id": 14,
+            "bank": "BANCO CANARIAS DE VENEZUELA C.A.",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "BOCAVEC1"
+        },
+        {
+            "id": 15,
             "bank": "BANCO CARONI, C.A. BANCO UNIVERSAL",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "CAROVECA"
         },
         {
-            "id": 7,
+            "id": 16,
             "bank": "BANCO CARONI, C.A. BANCO UNIVERSAL",
             "city": "PUERTO ORDAZ",
             "branch": null,
             "swift_code": "CAROVECA022"
         },
         {
-            "id": 8,
+            "id": 17,
             "bank": "BANCO CENTRAL DE VENEZUELA",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "BCVEVECA"
         },
         {
-            "id": 9,
+            "id": 18,
             "bank": "BANCO DE COMERCIO EXTERIOR",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "BCEVVECA"
         },
         {
-            "id": 10,
+            "id": 19,
+            "bank": "BANCO DE DESARROLLO AGROPECUARIO",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "BDAGVEC1"
+        },
+        {
+            "id": 20,
             "bank": "BANCO DE DESARROLLO ECONOMICO Y SOCIAL DE VENEZUELA",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "FIVVVECA"
         },
         {
-            "id": 11,
+            "id": 21,
             "bank": "BANCO DE EXPORTACION Y COMERCIO C.A.",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "BECUVECA"
         },
         {
-            "id": 12,
+            "id": 22,
+            "bank": "BANCO DE FOMENTO REGIONAL CORO, C.A.",
+            "city": "CORO",
+            "branch": null,
+            "swift_code": "BFRCVE21"
+        },
+        {
+            "id": 23,
+            "bank": "BANCO DE FOMENTO REGIONAL LOS ANDES",
+            "city": "SAN CRISTOBAL",
+            "branch": null,
+            "swift_code": "BFRAVE21"
+        },
+        {
+            "id": 24,
             "bank": "BANCO DE LA FUERZA ARMADA NACIONAL BOLIVARIANA, BANCO UNIVERSAL, C.A. (BANFANB)",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "BFANVECA"
         },
         {
-            "id": 13,
+            "id": 25,
+            "bank": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "PRBAVEC1"
+        },
+        {
+            "id": 26,
             "bank": "BANCO DE VENEZUELA, S.A. BANCO UNIVERSAL",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "VZLAVECA"
         },
         {
-            "id": 14,
+            "id": 27,
             "bank": "BANCO DEL ALBA",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "LLBAVECA"
         },
         {
-            "id": 15,
+            "id": 28,
             "bank": "BANCO DEL CARIBE C.A. BANCO UNIVERSAL",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "CARBVECA"
         },
         {
-            "id": 16,
+            "id": 29,
             "bank": "BANCO DEL PUEBLO SOBERANO, C.A.",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "PBLOVECA"
         },
         {
-            "id": 17,
+            "id": 30,
             "bank": "BANCO DEL TESORO, C.A. BANCO UNIVERSAL",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "BDTEVECA"
         },
         {
-            "id": 18,
+            "id": 31,
             "bank": "BANCO EXTERIOR, C.A. BANCO UNIVERSAL",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "BEXTVECA"
         },
         {
-            "id": 19,
+            "id": 32,
+            "bank": "BANCO FINANCIERO",
+            "city": "BARQUISIMETO",
+            "branch": null,
+            "swift_code": "BANFVEC1022"
+        },
+        {
+            "id": 33,
+            "bank": "BANCO FINANCIERO",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "BANFVEC1"
+        },
+        {
+            "id": 34,
+            "bank": "BANCO FINANCIERO",
+            "city": "MARACAIBO",
+            "branch": null,
+            "swift_code": "BANFVEC102M"
+        },
+        {
+            "id": 35,
+            "bank": "BANCO FINANCIERO",
+            "city": "PORLAMAR",
+            "branch": null,
+            "swift_code": "BANFVEC102P"
+        },
+        {
+            "id": 36,
+            "bank": "BANCO FINANCIERO",
+            "city": "PUERTO LA CRUZ",
+            "branch": null,
+            "swift_code": "BANFVEC102C"
+        },
+        {
+            "id": 37,
+            "bank": "BANCO HIPOTECARIO DE ARAGUA",
+            "city": "MARACAY",
+            "branch": null,
+            "swift_code": "BHARVEC1"
+        },
+        {
+            "id": 38,
+            "bank": "BANCO HIPOTECARIO DE LA VIVIENDA",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "BHVIVEC1"
+        },
+        {
+            "id": 39,
+            "bank": "BANCO HIPOTECARIO DEL ORINOCO, C.A",
+            "city": "PUERTO ORDAZ",
+            "branch": null,
+            "swift_code": "HBORVEC1"
+        },
+        {
+            "id": 40,
+            "bank": "BANCO HIPOTECARIO DEL ZULIA C A",
+            "city": "MARACAIBO",
+            "branch": null,
+            "swift_code": "BHZUVE21"
+        },
+        {
+            "id": 41,
+            "bank": "BANCO HIPOTECARIO VENEZOLANO, C.A.",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "BHVEVEC1"
+        },
+        {
+            "id": 42,
             "bank": "BANCO INDUSTRIAL DE VENEZUELA, C.A.",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "INDSVECA"
         },
         {
-            "id": 20,
+            "id": 43,
+            "bank": "BANCO INTERAMERICANO DE AHORRO Y PRESTAMO, S A",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "BIAPVEC1"
+        },
+        {
+            "id": 44,
             "bank": "BANCO NACIONAL DE AHORRO Y PRESTAMO",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "BNAPVECA"
         },
         {
-            "id": 21,
+            "id": 45,
             "bank": "BANCO NACIONAL DE CREDITO, C.A.",
             "city": "CARACAS",
             "branch": "(SUCURSAL 001)",
             "swift_code": "NCRTVECA001"
         },
         {
-            "id": 22,
+            "id": 46,
             "bank": "BANCO NACIONAL DE CREDITO, C.A.",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "NCRTVECA"
         },
         {
-            "id": 23,
+            "id": 47,
+            "bank": "BANCO NOR-ORIENTAL DE VENEZUELA",
+            "city": "PUERTO LA CRUZ",
+            "branch": null,
+            "swift_code": "BNOVVE21"
+        },
+        {
+            "id": 48,
             "bank": "BANCO OCCIDENTAL DE DESCUENTO BU C.A.",
             "city": "CARACAS",
             "branch": "(SUCURSAL CARACAS)",
             "swift_code": "BODEVE2MCCS"
         },
         {
-            "id": 24,
+            "id": 49,
             "bank": "BANCO OCCIDENTAL DE DESCUENTO BU C.A.",
             "city": "MARACAIBO",
             "branch": null,
             "swift_code": "BODEVE2M"
         },
         {
-            "id": 25,
+            "id": 50,
             "bank": "BANCO PLAZA",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "PLZAVECA"
         },
         {
-            "id": 26,
+            "id": 51,
             "bank": "BANCO PROVINCIAL S.A.",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "BPROVECASUC"
         },
         {
-            "id": 27,
+            "id": 52,
             "bank": "BANCO PROVINCIAL S.A. BANCO UNIVERSAL",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "BPROVECA"
         },
         {
-            "id": 28,
+            "id": 53,
             "bank": "BANCO PROVINCIAL S.A. BANCO UNIVERSAL",
             "city": "MARACAIBO",
             "branch": null,
             "swift_code": "BPROVECAMAR"
         },
         {
-            "id": 29,
+            "id": 54,
             "bank": "BANCO PROVINCIAL S.A. BANCO UNIVERSAL",
             "city": "PUERTO ORDAZ",
             "branch": null,
             "swift_code": "BPROVECAPZO"
         },
         {
-            "id": 30,
+            "id": 55,
             "bank": "BANCO SOFITASA",
             "city": "SAN CRISTOBAL",
             "branch": null,
             "swift_code": "SFTAVE22"
         },
         {
-            "id": 31,
+            "id": 56,
             "bank": "BANCRECER S.A. BANCO MICROFINANCIERO",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "CCERVECA"
         },
         {
-            "id": 32,
+            "id": 57,
             "bank": "BANESCO BANCO UNIVERSAL C.A.",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "UNIOVECA"
         },
         {
-            "id": 33,
+            "id": 58,
+            "bank": "BANEX MERCADO DE CAPITALES SA",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "BMDCVEC1"
+        },
+        {
+            "id": 59,
             "bank": "BANPLUS BANCO UNIVERSAL, C.A.",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "BEHRVECA"
         },
         {
-            "id": 34,
+            "id": 60,
             "bank": "BFC BANCO FONDO COMUN, C.A. BANCO UNIVERSAL",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "REPBVECA"
         },
         {
-            "id": 35,
+            "id": 61,
+            "bank": "CAJA VENEZOLANA DE VALORES, S.A.",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "CVVCVEA1"
+        },
+        {
+            "id": 62,
+            "bank": "CARACAS STOCK EXCHANGE",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "XCARVEC1"
+        },
+        {
+            "id": 63,
             "bank": "CITIBANK N.A. SUCURSAL VENEZUELA",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "CITIVECA"
         },
         {
-            "id": 36,
+            "id": 64,
+            "bank": "CITIBANK N.A. SUCURSAL VENEZUELA",
+            "city": "MARACAIBO",
+            "branch": null,
+            "swift_code": "CITIVEC102M"
+        },
+        {
+            "id": 65,
+            "bank": "CITIBANK N.A. SUCURSAL VENEZUELA",
+            "city": "VALENCIA",
+            "branch": null,
+            "swift_code": "CITIVEC102V"
+        },
+        {
+            "id": 66,
+            "bank": "CORP HIPOTECARIO CA",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "BHCOVEC1"
+        },
+        {
+            "id": 67,
             "bank": "CORPORACION ANDINA DE FOMENTO",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "CAFCVECA"
         },
         {
-            "id": 37,
+            "id": 68,
             "bank": "DEL SUR BANCO UNIVERSAL, C.A.",
             "city": "PUERTO ORDAZ",
             "branch": null,
             "swift_code": "DSURVECP"
         },
         {
-            "id": 38,
+            "id": 69,
+            "bank": "FINANCORP VALORES, C.A",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "FIVAVEC1"
+        },
+        {
+            "id": 70,
+            "bank": "FITCH VENEZUELA, SOCIEDAD CALIFICADORA DE RIESGO, S.A.",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "FRIPVEC1"
+        },
+        {
+            "id": 71,
+            "bank": "INTERACCIONES MERCADO DE CAPITALES S.A.",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "IMDCVEC1"
+        },
+        {
+            "id": 72,
+            "bank": "INVERCAPITAL CASA DE BOLSA C.A.",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "ICBOVEC1"
+        },
+        {
+            "id": 73,
+            "bank": "ITALBURSATIL CASA DE BOLSA, C.A.",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "ITBUVEC1"
+        },
+        {
+            "id": 74,
+            "bank": "ITALCAMBIO, C.A",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "ITALVEB1"
+        },
+        {
+            "id": 75,
             "bank": "ITALCAMBIO, C.A.",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "ITALVECA"
         },
         {
-            "id": 39,
+            "id": 76,
             "bank": "MERCANTIL C.A. BANCO UNIVERSAL",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "BAMRVECA"
         },
         {
-            "id": 40,
+            "id": 77,
             "bank": "MERCANTIL MERINVEST CASA DE BOLSA",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "MMCBVECA"
         },
         {
-            "id": 41,
+            "id": 78,
+            "bank": "MERINVEST SOCIEDAD DE CORRETAJE C.A.",
+            "city": "SAN BERNARDINO",
+            "branch": null,
+            "swift_code": "MSDEVEC1"
+        },
+        {
+            "id": 79,
+            "bank": "MINISTERIO DEL PP PARA LA ECONOMIA Y FINANZAS",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "TSORVEC1"
+        },
+        {
+            "id": 80,
             "bank": "NOVO BANCO S.A. SUCURSAL VENEZUELA, BANCO UNIVERSAL",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "BESCVECA"
         },
         {
-            "id": 42,
+            "id": 81,
+            "bank": "PROVINCIAL BANCO DE INVERSION, S.A.",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "SFPRVEC1"
+        },
+        {
+            "id": 82,
+            "bank": "PROVINCIAL DE VALORES CASA DE BOLSA, C.A.",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "PVALVEC1"
+        },
+        {
+            "id": 83,
+            "bank": "SOCIEDAD FINANCIERA CONSOLIDADA",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "SOFCVEC1"
+        },
+        {
+            "id": 84,
+            "bank": "SOCIEDAD FINANCIERA CONSOLIDADA",
+            "city": "VALENCIA",
+            "branch": null,
+            "swift_code": "SOFCVEC102V"
+        },
+        {
+            "id": 85,
+            "bank": "SOCIEDAD FINANCIERA DE OCCIDENTE",
+            "city": "MARACAIBO",
+            "branch": null,
+            "swift_code": "SFOCVE21"
+        },
+        {
+            "id": 86,
+            "bank": "SOCIEDAD FINANCIERA DE VENEZUELA CA",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "SFVEVEC1"
+        },
+        {
+            "id": 87,
+            "bank": "SOCIEDAD FINANCIERA VALINVENCA",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "SFVAVEC1"
+        },
+        {
+            "id": 88,
+            "bank": "SOFICREDITO",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "SFCRVEC1"
+        },
+        {
+            "id": 89,
+            "bank": "SOFIMERCA CASA DE BOLSA, C.A.",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "SOMEVEC1"
+        },
+        {
+            "id": 90,
+            "bank": "TRADIMPEX BIENES RAICES C.A.",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "TRBRVEC1"
+        },
+        {
+            "id": 91,
+            "bank": "VALINBANK",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "VALKVEC1"
+        },
+        {
+            "id": 92,
+            "bank": "VALORES SANTANDER CASA DE CORRETAJE",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "VSCCVEC1"
+        },
+        {
+            "id": 93,
+            "bank": "VALORES VENCRED SA",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "VAVEVEC1"
+        },
+        {
+            "id": 94,
             "bank": "VENEZOLANO DE CREDITO, S.A. BANCO UNIVERSAL",
             "city": "CARACAS",
             "branch": null,
             "swift_code": "VZCRVECA"
+        },
+        {
+            "id": 95,
+            "bank": "VESTCORPARTNERS C.A.",
+            "city": "CARACAS",
+            "branch": null,
+            "swift_code": "VECOVEC1"
         }
     ]
 }

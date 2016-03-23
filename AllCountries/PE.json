@@ -4,132 +4,279 @@
     "list": [
         {
             "id": 1,
+            "bank": "AMERIKA FINANCIERA S.A.",
+            "city": "LIMA",
+            "branch": null,
+            "swift_code": "AMRKPEP1"
+        },
+        {
+            "id": 2,
             "bank": "BANCO AZTECA DEL PERU, S.A.",
             "city": "LIMA",
             "branch": null,
             "swift_code": "AZTKPEPL"
         },
         {
-            "id": 2,
+            "id": 3,
             "bank": "BANCO CENTRAL DE RESERVA DEL PERU",
             "city": "LIMA",
             "branch": null,
             "swift_code": "CRPEPEPL"
         },
         {
-            "id": 3,
+            "id": 4,
             "bank": "BANCO CONTINENTAL",
             "city": "LIMA",
             "branch": null,
             "swift_code": "BCONPEPL"
         },
         {
-            "id": 4,
+            "id": 5,
             "bank": "BANCO DE COMERCIO",
             "city": "LIMA",
             "branch": null,
             "swift_code": "BDCMPEPL"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "BANCO DE CREDITO DEL PERU",
             "city": "LIMA",
             "branch": null,
             "swift_code": "BCPLPEPL"
         },
         {
-            "id": 6,
+            "id": 7,
             "bank": "BANCO DE LA NACION",
             "city": "LIMA",
             "branch": null,
             "swift_code": "BANCPEPL"
         },
         {
-            "id": 7,
+            "id": 8,
             "bank": "BANCO FINANCIERO DEL PERU",
             "city": "LIMA",
             "branch": null,
             "swift_code": "FINAPEPL"
         },
         {
-            "id": 8,
+            "id": 9,
             "bank": "BANCO GNB PERU SA",
             "city": "LIMA",
             "branch": null,
             "swift_code": "HBPEPEPL"
         },
         {
-            "id": 9,
+            "id": 10,
+            "bank": "BANCO IBEROAMERICANO",
+            "city": "LIMA",
+            "branch": null,
+            "swift_code": "BAIOPEP1"
+        },
+        {
+            "id": 11,
             "bank": "BANCO INTERAMERICANO DE FINANZAS",
             "city": "LIMA",
             "branch": null,
             "swift_code": "BIFSPEPL"
         },
         {
-            "id": 10,
+            "id": 12,
             "bank": "BANCO INTERNACIONAL DEL PERU (INTERBANK)",
             "city": "LIMA",
             "branch": null,
             "swift_code": "BINPPEPL"
         },
         {
-            "id": 11,
+            "id": 13,
+            "bank": "BANCO NOR PERU",
+            "city": "TRUJILLO",
+            "branch": null,
+            "swift_code": "BNPEPEP1"
+        },
+        {
+            "id": 14,
             "bank": "BANCO SANTANDER PERU S.A.",
             "city": "LIMA",
             "branch": null,
             "swift_code": "BSAPPEPL"
         },
         {
-            "id": 12,
+            "id": 15,
+            "bank": "BRITISH AMERICAN TOBACCO DEL PERU HOLDINGS S.A.",
+            "city": "LIMA",
+            "branch": null,
+            "swift_code": "BATSPE31"
+        },
+        {
+            "id": 16,
+            "bank": "BRITISH AMERICAN TOBACCO DEL PERU S.A.C.",
+            "city": "LIMA",
+            "branch": null,
+            "swift_code": "BATSPEP1"
+        },
+        {
+            "id": 17,
+            "bank": "CAJA RURAL DE AHORRO Y CREDITO CHAVIN SAA",
+            "city": "HUARAZ",
+            "branch": "(PRINCIPAL)",
+            "swift_code": "CRHCPEP1001"
+        },
+        {
+            "id": 18,
+            "bank": "CAJA RURAL DE AHORRO Y CREDITO CHAVIN SAA",
+            "city": "TRUJILLO",
+            "branch": "(OFICINA TRUJILLO)",
+            "swift_code": "CRHCPEP1002"
+        },
+        {
+            "id": 19,
+            "bank": "CAJA RURAL DE AHORRO Y CREDITO CHAVIN SAA",
+            "city": "TRUJILLO",
+            "branch": null,
+            "swift_code": "CRHCPEP1"
+        },
+        {
+            "id": 20,
             "bank": "CAVALI S.A. I.C.L.V.",
             "city": "LIMA",
             "branch": null,
             "swift_code": "CVLIPEPL"
         },
         {
-            "id": 13,
+            "id": 21,
+            "bank": "CELFIN CAPITAL S.A. SOCIEDAD AGENTE DE BOLSA",
+            "city": "LIMA",
+            "branch": null,
+            "swift_code": "CCSTPEP1"
+        },
+        {
+            "id": 22,
             "bank": "CETCO S.A.",
             "city": "LIMA",
             "branch": null,
             "swift_code": "BELPPEPL"
         },
         {
-            "id": 14,
+            "id": 23,
             "bank": "CITIBANK DEL PERU S.A.",
             "city": "LIMA",
             "branch": null,
             "swift_code": "CITIPEPL"
         },
         {
-            "id": 15,
+            "id": 24,
+            "bank": "COOPERATIVA DE AHORRO Y CREDITO PACIFICO",
+            "city": "LIMA",
+            "branch": null,
+            "swift_code": "PACCPEP1"
+        },
+        {
+            "id": 25,
             "bank": "CORPORACION FINANCIERA DE DESARROLLO S.A. - COFIDE",
             "city": "LIMA",
             "branch": null,
             "swift_code": "COFDPEPL"
         },
         {
-            "id": 16,
+            "id": 26,
+            "bank": "CREDIBOLSA SOCIEDAD AGENTE DE BOLSA S.A.",
+            "city": "LIMA",
+            "branch": null,
+            "swift_code": "CBOLPEP1"
+        },
+        {
+            "id": 27,
             "bank": "DEUTSCHE BANK (PERU) S.A.",
             "city": "LIMA",
             "branch": null,
             "swift_code": "DEUTPEPL"
         },
         {
-            "id": 17,
+            "id": 28,
+            "bank": "FINANCIERA DE CREDITO DEL PERU",
+            "city": "LIMA",
+            "branch": null,
+            "swift_code": "FCPEPEP1"
+        },
+        {
+            "id": 29,
             "bank": "ICBC PERU BANK",
             "city": "LIMA",
             "branch": null,
             "swift_code": "ICBKPEPL"
         },
         {
-            "id": 18,
+            "id": 30,
+            "bank": "INTERVALORES",
+            "city": "LIMA",
+            "branch": null,
+            "swift_code": "INTVPEP1"
+        },
+        {
+            "id": 31,
+            "bank": "JP MORGAN BANK PERU",
+            "city": "LIMA",
+            "branch": null,
+            "swift_code": "CHASPEP1"
+        },
+        {
+            "id": 32,
+            "bank": "KALLPA SECURITIES S.A.B",
+            "city": "LIMA",
+            "branch": null,
+            "swift_code": "KAESPEP1"
+        },
+        {
+            "id": 33,
             "bank": "MIBANCO, BANCO DE LA MICRO EMPRESA S.A.",
             "city": "LIMA",
             "branch": null,
             "swift_code": "MIBAPEPL"
         },
         {
-            "id": 19,
+            "id": 34,
+            "bank": "SABMILLER PERU",
+            "city": "LIMA",
+            "branch": null,
+            "swift_code": "SABMPEP1"
+        },
+        {
+            "id": 35,
+            "bank": "SABMILLER PERU",
+            "city": "LIMA",
+            "branch": null,
+            "swift_code": "SABMPEP1CSJ"
+        },
+        {
+            "id": 36,
+            "bank": "SABMILLER PERU",
+            "city": "LIMA",
+            "branch": null,
+            "swift_code": "SABMPEP1BYJ"
+        },
+        {
+            "id": 37,
+            "bank": "SABMILLER PERU",
+            "city": "LIMA",
+            "branch": null,
+            "swift_code": "SABMPEP1CSC"
+        },
+        {
+            "id": 38,
+            "bank": "SAMSUNG ELECTRONICS PERU S.A.C",
+            "city": "LIMA",
+            "branch": null,
+            "swift_code": "SECTPEP1860"
+        },
+        {
+            "id": 39,
+            "bank": "SAMSUNG ELECTRONICS PERU S.A.C",
+            "city": "LIMA",
+            "branch": null,
+            "swift_code": "SECTPEP1"
+        },
+        {
+            "id": 40,
             "bank": "SCOTIABANK PERU S.A.A.",
             "city": "LIMA",
             "branch": null,

@@ -102,13 +102,20 @@
         },
         {
             "id": 15,
+            "bank": "TRANSPORT DEVELOPMENT BANK OF MONGOLIA",
+            "city": "ULAANBAATAR",
+            "branch": null,
+            "swift_code": "TRDMMNU1"
+        },
+        {
+            "id": 16,
             "bank": "ULAANBAATAR CITY BANK",
             "city": "ULAANBAATAR",
             "branch": null,
             "swift_code": "CIBMMNUB"
         },
         {
-            "id": 16,
+            "id": 17,
             "bank": "XACBANK",
             "city": "ULAANBAATAR",
             "branch": null,

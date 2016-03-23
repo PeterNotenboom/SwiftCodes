@@ -18,27 +18,34 @@
         },
         {
             "id": 3,
+            "bank": "BAT TONGA",
+            "city": "TONGA",
+            "branch": null,
+            "swift_code": "BATSTOA1"
+        },
+        {
+            "id": 4,
             "bank": "MBF BANK LIMITED",
             "city": "NUKU'ALOFA",
             "branch": null,
             "swift_code": "MBFMTONU"
         },
         {
-            "id": 4,
+            "id": 5,
             "bank": "NATIONAL RESERVE BANK OF TONGA",
             "city": "NUKU'ALOFA",
             "branch": null,
             "swift_code": "NRBTTONU"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "PACIFIC INTERNATIONAL COMMERCIAL BANK",
             "city": "NUKU'ALOFA",
             "branch": null,
             "swift_code": "PICBTONU"
         },
         {
-            "id": 6,
+            "id": 7,
             "bank": "TONGA DEVELOPMENT BANK",
             "city": "NUKU'ALOFA",
             "branch": null,

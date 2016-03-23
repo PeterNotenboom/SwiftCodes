@@ -4,689 +4,808 @@
     "list": [
         {
             "id": 1,
+            "bank": "AL AMOUNDI EXCHANGE AND TRADING",
+            "city": "JEDDAH",
+            "branch": null,
+            "swift_code": "AMETSAJ1"
+        },
+        {
+            "id": 2,
             "bank": "AL INMA BANK",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "INMASARI"
         },
         {
-            "id": 2,
+            "id": 3,
             "bank": "AL RAJHI BANK",
             "city": "RIYADH",
             "branch": "(HEAD OFFICE)",
             "swift_code": "RJHISARI"
         },
         {
-            "id": 3,
+            "id": 4,
             "bank": "ALAMOUDI EXCHANGE COMPANY",
             "city": "JEDDAH",
             "branch": null,
             "swift_code": "AMDISAJE"
         },
         {
-            "id": 4,
+            "id": 5,
             "bank": "ALMARAI COMPANY",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "ALMRSARI"
         },
         {
-            "id": 5,
+            "id": 6,
+            "bank": "ALRAJHI COMMERCIAL FOREIGN EXCHANGE",
+            "city": "JEDDAH",
+            "branch": null,
+            "swift_code": "AFEXSAJ1"
+        },
+        {
+            "id": 7,
             "bank": "ARAB NATIONAL BANK",
             "city": "RIYADH",
             "branch": "(HEAD OFFICE)",
             "swift_code": "ARNBSARI"
         },
         {
-            "id": 6,
+            "id": 8,
             "bank": "ARAB PETROLEM INVESTMENTS CORPORATION",
             "city": "DAMMAM",
             "branch": null,
             "swift_code": "APICSADM"
         },
         {
-            "id": 7,
+            "id": 9,
+            "bank": "ARAB PETROLEUM INVESTMENTS CORPORATION",
+            "city": "DAMMAM",
+            "branch": null,
+            "swift_code": "APIASAR1"
+        },
+        {
+            "id": 10,
+            "bank": "BANK AL BILAD",
+            "city": "DAMMAM",
+            "branch": "(DAMMAM)",
+            "swift_code": "ALBISAR1DAM"
+        },
+        {
+            "id": 11,
             "bank": "BANK AL BILAD",
             "city": "JEDDAH",
             "branch": "(JEDDAH)",
             "swift_code": "ALBISARIJED"
         },
         {
-            "id": 8,
+            "id": 12,
             "bank": "BANK AL BILAD",
             "city": "RIYADH",
             "branch": "(TRADE FINANCE CENTER)",
             "swift_code": "ALBISARITFC"
         },
         {
-            "id": 9,
+            "id": 13,
             "bank": "BANK AL BILAD",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "ALBISARI"
         },
         {
-            "id": 10,
+            "id": 14,
             "bank": "BANK AL-JAZIRA",
             "city": "ALKHOBAR",
             "branch": "(ALKHOBAR BRANCH)",
             "swift_code": "BJAZSAJE013"
         },
         {
-            "id": 11,
+            "id": 15,
             "bank": "BANK AL-JAZIRA",
             "city": "BURAIDAH",
             "branch": "(BURAIDAH BRANCH)",
             "swift_code": "BJAZSAJE026"
         },
         {
-            "id": 12,
+            "id": 16,
             "bank": "BANK AL-JAZIRA",
             "city": "DAMMAM",
             "branch": "(DAMMAM BRANCH)",
             "swift_code": "BJAZSAJE009"
         },
         {
-            "id": 13,
+            "id": 17,
             "bank": "BANK AL-JAZIRA",
             "city": "HOFUF",
             "branch": "(HOFUF BRANCH)",
             "swift_code": "BJAZSAJE025"
         },
         {
-            "id": 14,
+            "id": 18,
             "bank": "BANK AL-JAZIRA",
             "city": "JEDDAH",
             "branch": "(HEAD OFFICE)",
             "swift_code": "BJAZSAJE002"
         },
         {
-            "id": 15,
+            "id": 19,
             "bank": "BANK AL-JAZIRA",
             "city": "JEDDAH",
             "branch": "(KHALID BIN WALEED STREET BRANCH)",
             "swift_code": "BJAZSAJE007"
         },
         {
-            "id": 16,
+            "id": 20,
             "bank": "BANK AL-JAZIRA",
             "city": "JEDDAH",
             "branch": "(KING ABDUL AZIZ STREET BR.)",
             "swift_code": "BJAZSAJE006"
         },
         {
-            "id": 17,
+            "id": 21,
             "bank": "BANK AL-JAZIRA",
             "city": "JEDDAH",
             "branch": "(MADINA ROAD BRANCH)",
             "swift_code": "BJAZSAJE021"
         },
         {
-            "id": 18,
+            "id": 22,
             "bank": "BANK AL-JAZIRA",
             "city": "JEDDAH",
             "branch": null,
             "swift_code": "BJAZSAJE"
         },
         {
-            "id": 19,
+            "id": 23,
             "bank": "BANK AL-JAZIRA",
             "city": "JUBAIL",
             "branch": "(JUBAIL BRANCH)",
             "swift_code": "BJAZSAJE019"
         },
         {
-            "id": 20,
+            "id": 24,
             "bank": "BANK AL-JAZIRA",
             "city": "MADINA MUNAWWARA",
             "branch": "(MADINA MUNAWWARA BRANCH)",
             "swift_code": "BJAZSAJE011"
         },
         {
-            "id": 21,
+            "id": 25,
             "bank": "BANK AL-JAZIRA",
             "city": "MAKKAH AL-MUKARRAMA",
             "branch": "(MAKKAH MUKARRAMA BRANCH)",
             "swift_code": "BJAZSAJE010"
         },
         {
-            "id": 22,
+            "id": 26,
             "bank": "BANK AL-JAZIRA",
             "city": "RIYADH",
             "branch": "(OLAYYAH BRANCH)",
             "swift_code": "BJAZSAJE016"
         },
         {
-            "id": 23,
+            "id": 27,
             "bank": "BANK AL-JAZIRA",
             "city": "RIYADH",
             "branch": "(SITTEEN STREET BRANCH)",
             "swift_code": "BJAZSAJE027"
         },
         {
-            "id": 24,
+            "id": 28,
             "bank": "BANKMUSCAT",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "BMUSSARI"
         },
         {
-            "id": 25,
+            "id": 29,
             "bank": "BANQUE SAUDI FRANSI",
             "city": "ALKHOBAR",
             "branch": "(EASTERN REGION)",
             "swift_code": "BSFRSARIEST"
         },
         {
-            "id": 26,
+            "id": 30,
             "bank": "BANQUE SAUDI FRANSI",
             "city": "JEDDAH",
             "branch": "(WESTERN REGION)",
             "swift_code": "BSFRSARIWST"
         },
         {
-            "id": 27,
+            "id": 31,
             "bank": "BANQUE SAUDI FRANSI",
             "city": "RIYADH",
             "branch": "(CENTRAL REGION)",
             "swift_code": "BSFRSARIRYD"
         },
         {
-            "id": 28,
+            "id": 32,
             "bank": "BANQUE SAUDI FRANSI",
             "city": "RIYADH",
             "branch": "(HEAD OFFICE)",
             "swift_code": "BSFRSARIGEM"
         },
         {
-            "id": 29,
+            "id": 33,
             "bank": "BANQUE SAUDI FRANSI",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "BSFRSARI"
         },
         {
-            "id": 30,
+            "id": 34,
             "bank": "BNP PARIBAS INVESTMENT COMPANY KSA",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "BNPASARB"
         },
         {
-            "id": 31,
+            "id": 35,
             "bank": "BNP PARIBAS INVESTMENT COMPANY KSA",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "BNPASARBWMI"
         },
         {
-            "id": 32,
+            "id": 36,
             "bank": "BNP PARIBAS SAUDI ARABIA",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "BNPASARI"
         },
         {
-            "id": 33,
+            "id": 37,
             "bank": "DEUTSCHE BANK AG, RIYADH BRANCH",
             "city": "RIYADH",
             "branch": "(DOMESTIC CUSTODY SERVICES)",
             "swift_code": "DEUTSARICUS"
         },
         {
-            "id": 34,
+            "id": 38,
             "bank": "DEUTSCHE BANK AG, RIYADH BRANCH",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "DEUTSARI"
         },
         {
-            "id": 35,
+            "id": 39,
             "bank": "DEUTSCHE BANK AG, RIYADH BRANCH",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "DEUTSARA"
         },
         {
-            "id": 36,
+            "id": 40,
             "bank": "DEUTSCHE BANK AG, RIYADH BRANCH",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "DEUTSARAAWM"
         },
         {
-            "id": 37,
+            "id": 41,
             "bank": "DEUTSCHE BANK AG, RIYADH BRANCH",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "DEUTSARACUS"
         },
         {
-            "id": 38,
+            "id": 42,
             "bank": "DEUTSCHE BANK AG, RIYADH BRANCH",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "DEUTSARIGES"
         },
         {
-            "id": 39,
+            "id": 43,
+            "bank": "EAST AFRICA MARITIME",
+            "city": "JEDDAH",
+            "branch": null,
+            "swift_code": "EAAMSAJ1"
+        },
+        {
+            "id": 44,
+            "bank": "EFG-HERMES KSA",
+            "city": "RIYADH",
+            "branch": null,
+            "swift_code": "EFKSSAR1"
+        },
+        {
+            "id": 45,
             "bank": "EMIRATES NBD PJSC",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "EBILSARI"
         },
         {
-            "id": 40,
+            "id": 46,
             "bank": "GULF INTERNATIONAL BANK B.S.C., RIYADH",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "GULFSARI"
         },
         {
-            "id": 41,
+            "id": 47,
             "bank": "HOSHANCO HOLDING",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "HOSHSARI"
         },
         {
-            "id": 42,
+            "id": 48,
             "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA RIYADH BRANCH, SA",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "ICBKSARI"
         },
         {
-            "id": 43,
+            "id": 49,
             "bank": "INTERNATIONAL ISLAMIC TRADE FINANCE CORPORATION (MEMBER ISLAMIC DEVELOPMENT BANK GROUP)",
             "city": "JEDDAH",
             "branch": null,
             "swift_code": "ITFKSAJE"
         },
         {
-            "id": 44,
+            "id": 50,
             "bank": "ISLAMIC CORPORATION FOR THE DEVELOPMENT OF THE PRIVATE SECTOR (MEMBER, ISLAMIC DEVELOPMENT BANK GROUP)",
             "city": "JEDDAH",
             "branch": null,
             "swift_code": "ICDKSAJE"
         },
         {
-            "id": 45,
+            "id": 51,
             "bank": "ISLAMIC DEVELOPMENT BANK",
             "city": "JEDDAH",
             "branch": "(INTERNATIONAL TRADE FINANCE)",
             "swift_code": "ISLDSAJEITF"
         },
         {
-            "id": 46,
+            "id": 52,
             "bank": "ISLAMIC DEVELOPMENT BANK",
             "city": "JEDDAH",
             "branch": null,
             "swift_code": "ISLDSAJE"
         },
         {
-            "id": 47,
+            "id": 53,
             "bank": "ISLAMIC DEVELOPMENT BANK",
             "city": "JEDDAH",
             "branch": null,
             "swift_code": "ISLDSAJEICD"
         },
         {
-            "id": 48,
+            "id": 54,
             "bank": "J.P. MORGAN SAUDI ARABIA LIMITED",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "JPMGSARY"
         },
         {
-            "id": 49,
+            "id": 55,
             "bank": "JPMORGAN CHASE BANK, N.A. RIYADH",
             "city": "RIYADH",
             "branch": "(SAUDI ARABIA EXPENSES)",
             "swift_code": "CHASSARISAU"
         },
         {
-            "id": 50,
+            "id": 56,
             "bank": "JPMORGAN CHASE BANK, N.A. RIYADH",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "CHASSARI"
         },
         {
-            "id": 51,
+            "id": 57,
             "bank": "KING ABDULLAH PETROLEUM STUDIES AND RESEARCH CENTER",
             "city": "DHAHRAN",
             "branch": null,
             "swift_code": "KPSRSADD"
         },
         {
-            "id": 52,
+            "id": 58,
+            "bank": "M. MOUNIR HALAWANI SONS, EXCHANGE COMPANY",
+            "city": "JEDDAH",
+            "branch": null,
+            "swift_code": "HFEXSAJ1"
+        },
+        {
+            "id": 59,
             "bank": "MERRILL LYNCH KINGDOM OF SAUDI ARABIA",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "MLSASARI"
         },
         {
-            "id": 53,
+            "id": 60,
             "bank": "MOHAMMED HASSAN YELLA AND SONS EXCHANGE COMPANY",
             "city": "JEDDAH",
             "branch": null,
             "swift_code": "MHYCSAJE"
         },
         {
-            "id": 54,
+            "id": 61,
+            "bank": "MORGAN STANLEY SAUDI ARABIA",
+            "city": "RIYADH",
+            "branch": null,
+            "swift_code": "MSSRSAR1"
+        },
+        {
+            "id": 62,
+            "bank": "MORGAN STANLEY SAUDI ARABIA",
+            "city": "RIYADH",
+            "branch": null,
+            "swift_code": "MSRISAR1"
+        },
+        {
+            "id": 63,
             "bank": "NATIONAL BANK OF BAHRAIN",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "NBOBSARI"
         },
         {
-            "id": 55,
+            "id": 64,
             "bank": "NATIONAL BANK OF KUWAIT",
             "city": "JEDDAH",
             "branch": null,
             "swift_code": "NBOKSAJE"
         },
         {
-            "id": 56,
+            "id": 65,
             "bank": "NATIONAL BANK OF PAKISTAN",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "NBPASARI"
         },
         {
-            "id": 57,
+            "id": 66,
             "bank": "NATIONAL BISCUITS AND CONFECTIONERY COMPANY",
             "city": "JEDDAH",
             "branch": null,
             "swift_code": "NBCCSAJE"
         },
         {
-            "id": 58,
+            "id": 67,
             "bank": "NATIONAL COMMERCIAL BANK, THE",
             "city": "DAMMAM",
             "branch": "(TRADE SERVICES-EAST)",
             "swift_code": "NCBKSAJE615"
         },
         {
-            "id": 59,
+            "id": 68,
             "bank": "NATIONAL COMMERCIAL BANK, THE",
             "city": "JEDDAH",
             "branch": "(HEAD OFFICE)",
             "swift_code": "NCBKSAJE"
         },
         {
-            "id": 60,
+            "id": 69,
             "bank": "NATIONAL COMMERCIAL BANK, THE",
             "city": "JEDDAH",
             "branch": "(JEDDAH, MAIN BRANCH)",
             "swift_code": "NCBKSAJE101"
         },
         {
-            "id": 61,
+            "id": 70,
             "bank": "NATIONAL COMMERCIAL BANK, THE",
             "city": "JEDDAH",
             "branch": "(TRADE SERVICES-WEST)",
             "swift_code": "NCBKSAJE613"
         },
         {
-            "id": 62,
+            "id": 71,
             "bank": "NATIONAL COMMERCIAL BANK, THE",
             "city": "JEDDAH",
             "branch": "(TREASURY DIVISION)",
             "swift_code": "NCBKSAJE555"
         },
         {
-            "id": 63,
+            "id": 72,
             "bank": "NATIONAL COMMERCIAL BANK, THE",
             "city": "RIYADH",
             "branch": "(TRADE SERVICES-CENTRAL)",
             "swift_code": "NCBKSAJE614"
         },
         {
-            "id": 64,
+            "id": 73,
             "bank": "NATIONAL FOOD INDUSTRIES CO. LTD",
             "city": "JEDDAH",
             "branch": null,
             "swift_code": "NAFDSAJE"
         },
         {
-            "id": 65,
+            "id": 74,
             "bank": "NCB CAPITAL COMPANY",
             "city": "JEDDAH",
             "branch": null,
             "swift_code": "NCCOSAJE"
         },
         {
-            "id": 66,
+            "id": 75,
             "bank": "OMAR KASSEM ALESAYI MARKETING CO. LIMITED",
             "city": "JEDDAH",
             "branch": null,
             "swift_code": "OKAMSARI"
         },
         {
-            "id": 67,
+            "id": 76,
+            "bank": "QINVEST SAUDI ARABIA",
+            "city": "RIYADH",
+            "branch": null,
+            "swift_code": "QINVSAR1"
+        },
+        {
+            "id": 77,
             "bank": "RIYAD BANK",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "RIBLSARI"
         },
         {
-            "id": 68,
+            "id": 78,
             "bank": "SADARA CHEMICAL COMPANY",
             "city": "DHAHRAN",
             "branch": null,
             "swift_code": "SDCCSADA"
         },
         {
-            "id": 69,
+            "id": 79,
             "bank": "SAHARA PETROCHEMICALS COMPANY SAUDI JOINT STOCK COMPANY",
             "city": "JUBAIL",
             "branch": null,
             "swift_code": "SPCUSAJB"
         },
         {
-            "id": 70,
+            "id": 80,
             "bank": "SAMBA FINANCIAL GROUP",
             "city": "ALKHOBAR",
             "branch": "(EASTERN REGION BRANCH)",
             "swift_code": "SAMBSARIACS"
         },
         {
-            "id": 71,
+            "id": 81,
             "bank": "SAMBA FINANCIAL GROUP",
             "city": "JEDDAH",
             "branch": "(WESTERN REGION BRANCH)",
             "swift_code": "SAMBSARIJCS"
         },
         {
-            "id": 72,
+            "id": 82,
             "bank": "SAMBA FINANCIAL GROUP",
             "city": "RIYADH",
             "branch": "(CENTRAL REGION BRANCH)",
             "swift_code": "SAMBSARIRCS"
         },
         {
-            "id": 73,
+            "id": 83,
             "bank": "SAMBA FINANCIAL GROUP",
             "city": "RIYADH",
             "branch": "(CONSUMERS BRANCH)",
             "swift_code": "SAMBSARIRCP"
         },
         {
-            "id": 74,
+            "id": 84,
             "bank": "SAMBA FINANCIAL GROUP",
             "city": "RIYADH",
             "branch": "(RIYADH BRANCH)",
             "swift_code": "SAMBSARIRFX"
         },
         {
-            "id": 75,
+            "id": 85,
             "bank": "SAMBA FINANCIAL GROUP",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "SAMBSARI"
         },
         {
-            "id": 76,
+            "id": 86,
             "bank": "SAUDI ARABIAN MONETARY AGENCY",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "SAMASARI"
         },
         {
-            "id": 77,
+            "id": 87,
             "bank": "SAUDI ARAMCO",
             "city": "DHAHRAN",
             "branch": null,
             "swift_code": "ARAMSADH"
         },
         {
-            "id": 78,
+            "id": 88,
             "bank": "SAUDI ARAMCO LUBRICATING OIL REFINING COMPANY (LUBEREF)",
             "city": "JEDDAH",
             "branch": null,
             "swift_code": "LBRFSAJD"
         },
         {
-            "id": 79,
+            "id": 89,
+            "bank": "SAUDI ARAMCO MOBIL REFINERY COMPANY LIMITED (SAMREF)",
+            "city": "YANBU",
+            "branch": null,
+            "swift_code": "SRMRSAD1"
+        },
+        {
+            "id": 90,
             "bank": "SAUDI ARAMCO PRODUCT TRADING CO.",
             "city": "DHAHRAN",
             "branch": null,
             "swift_code": "SAPCSADH"
         },
         {
-            "id": 80,
+            "id": 91,
             "bank": "SAUDI BASIC INDUSTRIES CORPORATION (SABIC)",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "SBHQSARR"
         },
         {
-            "id": 81,
+            "id": 92,
             "bank": "SAUDI BRITISH BANK, THE",
             "city": "RIYADH",
             "branch": "(HEAD OFFICE)",
             "swift_code": "SABBSARI"
         },
         {
-            "id": 82,
+            "id": 93,
+            "bank": "SAUDI CERAMIC COMPANY",
+            "city": "RIYADH",
+            "branch": null,
+            "swift_code": "SACYSAR1"
+        },
+        {
+            "id": 94,
             "bank": "SAUDI CHEVRON PHILLIPS CO.",
             "city": "JUBAIL",
             "branch": null,
             "swift_code": "SCHMSADE"
         },
         {
-            "id": 83,
+            "id": 95,
             "bank": "SAUDI ECONOMIC AND DEVELOPMENT COMPANY FOR SECURITIES",
             "city": "JEDDAH",
             "branch": "(AIM\/POMS SERVICE)",
             "swift_code": "SEDPSAJE"
         },
         {
-            "id": 84,
+            "id": 96,
             "bank": "SAUDI HOLLANDI BANK",
             "city": "ALKHOBAR",
             "branch": "(EASTERN AREA ALKHOBAR)",
             "swift_code": "AAALSARIALK"
         },
         {
-            "id": 85,
+            "id": 97,
             "bank": "SAUDI HOLLANDI BANK",
             "city": "JEDDAH",
             "branch": "(WESTERN AREA JEDDAH)",
             "swift_code": "AAALSARIJED"
         },
         {
-            "id": 86,
+            "id": 98,
             "bank": "SAUDI HOLLANDI BANK",
             "city": "RIYADH",
             "branch": "(CENTRAL AREA RIYADH)",
             "swift_code": "AAALSARIRYD"
         },
         {
-            "id": 87,
+            "id": 99,
             "bank": "SAUDI HOLLANDI BANK",
             "city": "RIYADH",
             "branch": "(CENTRAL TREASURY DEPT.)",
             "swift_code": "AAALSARICTD"
         },
         {
-            "id": 88,
+            "id": 100,
             "bank": "SAUDI HOLLANDI BANK",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "AAALSARI"
         },
         {
-            "id": 89,
+            "id": 101,
             "bank": "SAUDI HOLLANDI CAPITAL",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "SAHCSARI"
         },
         {
-            "id": 90,
+            "id": 102,
             "bank": "SAUDI INTERNATIONAL PETROCHEMICAL CO. (SIPCHEM)",
             "city": "JUBAIL",
             "branch": null,
             "swift_code": "SIPHSADB"
         },
         {
-            "id": 91,
+            "id": 103,
             "bank": "SAUDI INVESTMENT BANK, THE",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "SIBCSARI"
         },
         {
-            "id": 92,
+            "id": 104,
+            "bank": "SAUDI STOCK EXCHANGE",
+            "city": "RIYADH",
+            "branch": null,
+            "swift_code": "TSSMSAR1"
+        },
+        {
+            "id": 105,
             "bank": "SAUDI TELECOM COMPANY",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "STCOSARI"
         },
         {
-            "id": 93,
+            "id": 106,
+            "bank": "SHUAA CAPITAL SAUDI ARABIA",
+            "city": "RIYADH",
+            "branch": null,
+            "swift_code": "SHUASAR1"
+        },
+        {
+            "id": 107,
             "bank": "STANDARD CHARTERED CAPITAL (SAUDI ARABIA)",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "SCBLSARI"
         },
         {
-            "id": 94,
+            "id": 108,
             "bank": "STATE BANK OF INDIA",
             "city": "JEDDAH",
             "branch": null,
             "swift_code": "SBINSAJE"
         },
         {
-            "id": 95,
+            "id": 109,
+            "bank": "SUPREME FOODS COMPANY LIMITED",
+            "city": "RIYADH",
+            "branch": null,
+            "swift_code": "SUFCSAR1"
+        },
+        {
+            "id": 110,
             "bank": "T.C. ZIRAAT BANKASI A.S.",
             "city": "JEDDAH",
             "branch": null,
             "swift_code": "TCZBSAJE"
         },
         {
-            "id": 96,
+            "id": 111,
             "bank": "THE ISLAMIC CORP FOR THE INSURANCE OF INVESTMENT AND EXPORT CREDIT (MEMBER ISLAMIC DEVELOPMENT BANKGROUP)",
             "city": "JEDDAH",
             "branch": null,
             "swift_code": "ICECSAJE"
         },
         {
-            "id": 97,
+            "id": 112,
             "bank": "THE NATIONAL AGRICULTURAL DEVELOPMENT COMPANY (NADEC)",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "NADESARI"
         },
         {
-            "id": 98,
+            "id": 113,
             "bank": "THE SAUDI FUND FOR DEVELOPMENT",
             "city": "RIYADH",
             "branch": null,
             "swift_code": "SFFDSARI"
+        },
+        {
+            "id": 114,
+            "bank": "UNITED CARTON INDUSTRIES COMPANY",
+            "city": "JEDDAH",
+            "branch": null,
+            "swift_code": "UCSASAJ1"
+        },
+        {
+            "id": 115,
+            "bank": "YANBU ARAMCO SINOPEC REFINING (YASREF) LIMITED",
+            "city": "YANBU",
+            "branch": null,
+            "swift_code": "YASRSAD1"
         }
     ]
 }

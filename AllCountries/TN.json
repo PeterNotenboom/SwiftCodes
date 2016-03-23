@@ -74,433 +74,475 @@
         },
         {
             "id": 11,
-            "bank": "BANQUE CENTRALE DE TUNISIE",
+            "bank": "BANKERS TRUST COMPANY",
             "city": "TUNIS",
             "branch": null,
-            "swift_code": "BCTNTNTT"
+            "swift_code": "BKTRTNT1"
         },
         {
             "id": 12,
             "bank": "BANQUE CENTRALE DE TUNISIE",
             "city": "TUNIS",
             "branch": null,
-            "swift_code": "BCTNTNTTVGM"
+            "swift_code": "BCTNTNTT"
         },
         {
             "id": 13,
+            "bank": "BANQUE CENTRALE DE TUNISIE",
+            "city": "TUNIS",
+            "branch": null,
+            "swift_code": "BCTNTNTTVGM"
+        },
+        {
+            "id": 14,
             "bank": "BANQUE DE FINANCEMENT DES PME",
             "city": "TUNIS",
             "branch": null,
             "swift_code": "BFPMTNTT"
         },
         {
-            "id": 14,
+            "id": 15,
             "bank": "BANQUE DE L'HABITAT",
             "city": "TUNIS",
             "branch": null,
             "swift_code": "BHBKTNTT"
         },
         {
-            "id": 15,
+            "id": 16,
             "bank": "BANQUE DE TUNISIE",
             "city": "TUNIS",
             "branch": null,
             "swift_code": "BTBKTNTT"
         },
         {
-            "id": 16,
+            "id": 17,
             "bank": "BANQUE DE TUNISIE",
             "city": "TUNIS",
             "branch": null,
             "swift_code": "BTBKTNTTVGM"
         },
         {
-            "id": 17,
+            "id": 18,
             "bank": "BANQUE DE TUNISIE ET DES EMIRATS",
             "city": "TUNIS",
             "branch": null,
             "swift_code": "BTEXTNTT"
         },
         {
-            "id": 18,
+            "id": 19,
             "bank": "BANQUE FRANCO TUNISIENNE",
             "city": "TUNIS",
             "branch": "(TRESORERIE)",
             "swift_code": "BFTNTNTTTRS"
         },
         {
-            "id": 19,
+            "id": 20,
             "bank": "BANQUE FRANCO TUNISIENNE",
             "city": "TUNIS",
             "branch": null,
             "swift_code": "BFTNTNTT"
         },
         {
-            "id": 20,
+            "id": 21,
             "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
             "city": "SFAX",
             "branch": "(CREDIT DOCUMENTAIRE EXPORT SFAX)",
             "swift_code": "BIATTNTTDXS"
         },
         {
-            "id": 21,
+            "id": 22,
             "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
             "city": "SFAX",
             "branch": "(CREDIT DOCUMENTAIRE IMPORT SFAX)",
             "swift_code": "BIATTNTTDMS"
         },
         {
-            "id": 22,
+            "id": 23,
             "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
             "city": "SFAX",
             "branch": "(REMISE EXPORT SFAX)",
             "swift_code": "BIATTNTTRXS"
         },
         {
-            "id": 23,
+            "id": 24,
             "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
             "city": "SFAX",
             "branch": "(REMISE IMPORT SFAX)",
             "swift_code": "BIATTNTTRMS"
         },
         {
-            "id": 24,
+            "id": 25,
             "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
             "city": "SFAX",
             "branch": "(TRANSFERT EMIS SFAX)",
             "swift_code": "BIATTNTTTES"
         },
         {
-            "id": 25,
+            "id": 26,
             "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
             "city": "SFAX",
             "branch": "(TRANSFERT RECU SFAX)",
             "swift_code": "BIATTNTTTRS"
         },
         {
-            "id": 26,
+            "id": 27,
             "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
             "city": "SFAX",
             "branch": null,
             "swift_code": "BIATTNTTSFX"
         },
         {
-            "id": 27,
+            "id": 28,
             "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
             "city": "TUNIS",
             "branch": "(CREDIT DOCUMENTAIRE EXPORT TUNIS)",
             "swift_code": "BIATTNTTDXT"
         },
         {
-            "id": 28,
+            "id": 29,
             "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
             "city": "TUNIS",
             "branch": "(CREDIT DOCUMENTAIRE IMPORT TUNIS)",
             "swift_code": "BIATTNTTDMT"
         },
         {
-            "id": 29,
+            "id": 30,
             "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
             "city": "TUNIS",
             "branch": "(ENCAISSEMENT CHEQUE INTERNATIONALE)",
             "swift_code": "BIATTNTTECI"
         },
         {
-            "id": 30,
+            "id": 31,
             "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
             "city": "TUNIS",
             "branch": "(FINANCEMENT EN DEVISE EXPORT)",
             "swift_code": "BIATTNTTFDE"
         },
         {
-            "id": 31,
+            "id": 32,
             "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
             "city": "TUNIS",
             "branch": "(FINANCEMENT EN DEVISE IMPORT)",
             "swift_code": "BIATTNTTFDI"
         },
         {
-            "id": 32,
+            "id": 33,
             "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
             "city": "TUNIS",
             "branch": "(GARANTIE INTERNATIONALE EMISE)",
             "swift_code": "BIATTNTTGIE"
         },
         {
-            "id": 33,
+            "id": 34,
             "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
             "city": "TUNIS",
             "branch": "(GARANTIE INTERNATIONALE RECUE)",
             "swift_code": "BIATTNTTGIR"
         },
         {
-            "id": 34,
+            "id": 35,
             "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
             "city": "TUNIS",
             "branch": "(PAIEMENT CHEQUE INTERNATIONALE)",
             "swift_code": "BIATTNTTPCI"
         },
         {
-            "id": 35,
+            "id": 36,
             "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
             "city": "TUNIS",
             "branch": "(REMISE EXPORT TUNIS)",
             "swift_code": "BIATTNTTRXT"
         },
         {
-            "id": 36,
+            "id": 37,
             "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
             "city": "TUNIS",
             "branch": "(REMISE IMPORT TUNIS)",
             "swift_code": "BIATTNTTRMT"
         },
         {
-            "id": 37,
+            "id": 38,
             "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
             "city": "TUNIS",
             "branch": "(TRANSFERT EMIS TUNIS)",
             "swift_code": "BIATTNTTTET"
         },
         {
-            "id": 38,
+            "id": 39,
             "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
             "city": "TUNIS",
             "branch": "(TRANSFERT RECU TUNIS)",
             "swift_code": "BIATTNTTTRT"
         },
         {
-            "id": 39,
+            "id": 40,
             "bank": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
             "city": "TUNIS",
             "branch": null,
             "swift_code": "BIATTNTT"
         },
         {
-            "id": 40,
+            "id": 41,
             "bank": "BANQUE NATIONALE AGRICOLE",
             "city": "SFAX",
             "branch": "(DIRECTION REGIONALE)",
             "swift_code": "BNTETNTTSFX"
         },
         {
-            "id": 41,
+            "id": 42,
             "bank": "BANQUE NATIONALE AGRICOLE",
             "city": "SOUSSE",
             "branch": "(DIRECTION REGIONALE)",
             "swift_code": "BNTETNTTSSE"
         },
         {
-            "id": 42,
+            "id": 43,
             "bank": "BANQUE NATIONALE AGRICOLE",
             "city": "TUNIS",
             "branch": null,
             "swift_code": "BNTETNTT"
         },
         {
-            "id": 43,
+            "id": 44,
+            "bank": "BANQUE TUNISIENNE DE SOLIDARITE",
+            "city": "TUNIS",
+            "branch": null,
+            "swift_code": "TUSOTNT1"
+        },
+        {
+            "id": 45,
             "bank": "BANQUE TUNISO-KOWEITIENNE",
             "city": "TUNIS",
             "branch": null,
             "swift_code": "BTKOTNTT"
         },
         {
-            "id": 44,
+            "id": 46,
             "bank": "BANQUE TUNISO-LIBYENNE",
             "city": "TUNIS",
             "branch": null,
             "swift_code": "ATLDTNTT"
         },
         {
-            "id": 45,
+            "id": 47,
             "bank": "BANQUE ZITOUNA",
             "city": "TUNIS",
             "branch": "(SALLE DES MARCHES)",
             "swift_code": "BZITTNTTSDM"
         },
         {
-            "id": 46,
+            "id": 48,
             "bank": "BANQUE ZITOUNA",
             "city": "TUNIS",
             "branch": "(VIREMENTS GROS MONTANTS)",
             "swift_code": "BZITTNTTVGM"
         },
         {
-            "id": 47,
+            "id": 49,
             "bank": "BANQUE ZITOUNA",
             "city": "TUNIS",
             "branch": null,
             "swift_code": "BZITTNTT"
         },
         {
-            "id": 48,
+            "id": 50,
+            "bank": "BOURSE DES VALEURS MOBILIERES DE TUNIS",
+            "city": "TUNIS",
+            "branch": null,
+            "swift_code": "XTUNTNT1"
+        },
+        {
+            "id": 51,
             "bank": "CITIBANK N.A.",
             "city": "TUNIS",
             "branch": "(ON SHORE BRANCH)",
             "swift_code": "CITITNTXONS"
         },
         {
-            "id": 49,
+            "id": 52,
             "bank": "CITIBANK N.A.",
             "city": "TUNIS",
             "branch": null,
             "swift_code": "CITITNTX"
         },
         {
-            "id": 50,
+            "id": 53,
+            "bank": "FITCH NORTH AFRICA SA",
+            "city": "TUNIS",
+            "branch": null,
+            "swift_code": "FRIPTNT1"
+        },
+        {
+            "id": 54,
             "bank": "LA POSTE TUNISIENNE",
             "city": "TUNIS",
             "branch": null,
             "swift_code": "LPTNTNTT"
         },
         {
-            "id": 51,
+            "id": 55,
             "bank": "NORTH AFRICA INTERNATIONAL BANK",
             "city": "TUNIS",
             "branch": null,
             "swift_code": "NOAFTNTT"
         },
         {
-            "id": 52,
+            "id": 56,
             "bank": "QATAR NATIONAL BANK-TUNISIA",
             "city": "ARIANA",
             "branch": null,
             "swift_code": "BTQITNTT"
         },
         {
-            "id": 53,
+            "id": 57,
             "bank": "SOCIETE TUNISIENNE DE BANQUE",
             "city": "MONASTIR",
             "branch": "(MONASTIR)",
             "swift_code": "STBKTNTT017"
         },
         {
-            "id": 54,
+            "id": 58,
             "bank": "SOCIETE TUNISIENNE DE BANQUE",
             "city": "NABEUL",
             "branch": "(DIRECTION REGIONALE)",
             "swift_code": "STBKTNTT925"
         },
         {
-            "id": 55,
+            "id": 59,
             "bank": "SOCIETE TUNISIENNE DE BANQUE",
             "city": "SFAX",
             "branch": "(DIRECTION REGIONALE)",
             "swift_code": "STBKTNTT940"
         },
         {
-            "id": 56,
+            "id": 60,
             "bank": "SOCIETE TUNISIENNE DE BANQUE",
             "city": "SOUSSE",
             "branch": "(DIRECTION REGIONALE)",
             "swift_code": "STBKTNTT930"
         },
         {
-            "id": 57,
+            "id": 61,
             "bank": "SOCIETE TUNISIENNE DE BANQUE",
             "city": "TUNIS",
             "branch": "(DIRECTION DE LA SUCCURSALE THAMEUR)",
             "swift_code": "STBKTNTT000"
         },
         {
-            "id": 58,
+            "id": 62,
             "bank": "SOCIETE TUNISIENNE DE BANQUE",
             "city": "TUNIS",
             "branch": "(HEAD OFFICE AND ALL OTHER DEPARTMENTS)",
             "swift_code": "STBKTNTT"
         },
         {
-            "id": 59,
+            "id": 63,
+            "bank": "SOCIETE TUNISIENNE INTERPROFESSIONNELLE POUR LA COMPENSATION ET LE DEPOT DES VALEURS MOBILIERES",
+            "city": "TUNIS",
+            "branch": null,
+            "swift_code": "STICTNT1"
+        },
+        {
+            "id": 64,
             "bank": "STUSID BANK",
             "city": "TUNIS",
             "branch": null,
             "swift_code": "TSIDTNTT"
         },
         {
-            "id": 60,
+            "id": 65,
             "bank": "TUNIS INTERNATIONAL BANK",
             "city": "TUNIS",
             "branch": null,
             "swift_code": "TUIBTNTT"
         },
         {
-            "id": 61,
+            "id": 66,
             "bank": "TUNISIAN FOREIGN BANK",
             "city": "TUNIS",
             "branch": null,
             "swift_code": "UTUBTNTT"
         },
         {
-            "id": 62,
+            "id": 67,
+            "bank": "TUNISIE VALEURS",
+            "city": "TUNIS",
+            "branch": null,
+            "swift_code": "TUNVTNT1"
+        },
+        {
+            "id": 68,
             "bank": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE (GROUPE BNP PARIBAS)",
             "city": "NABEUL",
             "branch": "(NABEUL BRANCH)",
             "swift_code": "UBCITNTTNBL"
         },
         {
-            "id": 63,
+            "id": 69,
             "bank": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE (GROUPE BNP PARIBAS)",
             "city": "SFAX",
             "branch": "(SFAX BRANCH)",
             "swift_code": "UBCITNTTSFX"
         },
         {
-            "id": 64,
+            "id": 70,
             "bank": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE (GROUPE BNP PARIBAS)",
             "city": "SOUSSE",
             "branch": "(SOUSSE BRANCH)",
             "swift_code": "UBCITNTTSSE"
         },
         {
-            "id": 65,
+            "id": 71,
             "bank": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE (GROUPE BNP PARIBAS)",
             "city": "TUNIS",
             "branch": "(ENGAGEMENT)",
             "swift_code": "UBCITNTTENG"
         },
         {
-            "id": 66,
+            "id": 72,
             "bank": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE (GROUPE BNP PARIBAS)",
             "city": "TUNIS",
             "branch": "(SALLE DES MARCHES)",
             "swift_code": "UBCITNTTSDM"
         },
         {
-            "id": 67,
+            "id": 73,
             "bank": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE (GROUPE BNP PARIBAS)",
             "city": "TUNIS",
             "branch": "(VIREMENTS GROS MONTANTS)",
             "swift_code": "UBCITNTTVGM"
         },
         {
-            "id": 68,
+            "id": 74,
             "bank": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE (GROUPE BNP PARIBAS)",
             "city": "TUNIS",
             "branch": null,
             "swift_code": "UBCITNTT"
         },
         {
-            "id": 69,
+            "id": 75,
             "bank": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE (GROUPE BNP PARIBAS)",
             "city": "TUNIS",
             "branch": null,
             "swift_code": "UBCITNTTCHG"
         },
         {
-            "id": 70,
+            "id": 76,
             "bank": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE (GROUPE BNP PARIBAS)",
             "city": "TUNIS",
             "branch": null,
             "swift_code": "UBCITNTTPST"
         },
         {
-            "id": 71,
+            "id": 77,
             "bank": "UNION BANCAIRE POUR LE COMMERCE ET L'INDUSTRIE (GROUPE BNP PARIBAS)",
             "city": "TUNIS",
             "branch": null,
             "swift_code": "UBCITNTTTCE"
         },
         {
-            "id": 72,
+            "id": 78,
             "bank": "UNION INTERNATIONALE DE BANQUE",
             "city": "TUNIS",
             "branch": null,

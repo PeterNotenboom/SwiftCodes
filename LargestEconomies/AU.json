@@ -4,2180 +4,5141 @@
     "list": [
         {
             "id": 1,
+            "bank": "1770 CAPITAL PARTNERS",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "CPANAU21"
+        },
+        {
+            "id": 2,
+            "bank": "90 WEST ASSET MANAGEMENT LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "WEAEAU31"
+        },
+        {
+            "id": 3,
+            "bank": "A.B.S. WHITE AND CO. LTD.",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "ABWHAU21"
+        },
+        {
+            "id": 4,
+            "bank": "AAA SHARES PTY LTD",
+            "city": "ADELAIDE",
+            "branch": null,
+            "swift_code": "MOFCAU51"
+        },
+        {
+            "id": 5,
+            "bank": "ABERDEEN ASSET MANAGEMENT LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "ABEMAU21"
+        },
+        {
+            "id": 6,
+            "bank": "ABN AMRO CLEARING SYDNEY PTY LTD. (FORMELY KNOWN AS FORTIS CLEARING SYDNEY PTY LTD)",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "FCSPAU21"
+        },
+        {
+            "id": 7,
+            "bank": "ACORN CAPITAL",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "ACCAAU31"
+        },
+        {
+            "id": 8,
+            "bank": "ACS BROKER SERVICES LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "ACBRAU31"
+        },
+        {
+            "id": 9,
+            "bank": "ADVANCE ASSET MANAGEMENT LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "AAMNAU21"
+        },
+        {
+            "id": 10,
+            "bank": "AGORA ASSET MANAGEMENT PTY LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "AGAMAU31"
+        },
+        {
+            "id": 11,
             "bank": "AGRICULTURAL BANK OF CHINA SYDNEY BRANCH",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "ABOCAU2S"
         },
         {
-            "id": 2,
+            "id": 12,
+            "bank": "AIRLIE FUNDS MANAGEMENT PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "AFMTAUS1"
+        },
+        {
+            "id": 13,
+            "bank": "ALPHA INVESTMENT MANAGEMENT PTY LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "AIMPAU31"
+        },
+        {
+            "id": 14,
             "bank": "AMP BANK LIMITED",
             "city": "SYDNEY",
             "branch": "(RET BRANCH)",
             "swift_code": "AMPBAU2SRET"
         },
         {
-            "id": 3,
+            "id": 15,
             "bank": "AMP BANK LIMITED",
             "city": "SYDNEY",
             "branch": "(TRY BRANCH)",
             "swift_code": "AMPBAU2STRY"
         },
         {
-            "id": 4,
+            "id": 16,
             "bank": "AMP BANK LIMITED",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "AMPBAU2S"
         },
         {
-            "id": 5,
+            "id": 17,
+            "bank": "AMP CAPITAL INVESTORS LIMTED",
+            "city": "SYDNEY",
+            "branch": "(BASKET SWAPS TRANS)",
+            "swift_code": "AMCIAU21BSW"
+        },
+        {
+            "id": 18,
+            "bank": "AMP CAPITAL INVESTORS LIMTED",
+            "city": "SYDNEY",
+            "branch": "(COLLATERAL MGMT)",
+            "swift_code": "AMCIAU21COL"
+        },
+        {
+            "id": 19,
+            "bank": "AMP CAPITAL INVESTORS LIMTED",
+            "city": "SYDNEY",
+            "branch": "(UT NO CASH)",
+            "swift_code": "AMCIAU21UNC"
+        },
+        {
+            "id": 20,
+            "bank": "AMP CAPITAL INVESTORS LIMTED",
+            "city": "SYDNEY",
+            "branch": "(UT PAY DIRECTION)",
+            "swift_code": "AMCIAU21UDP"
+        },
+        {
+            "id": 21,
+            "bank": "AMP CAPITAL INVESTORS LIMTED",
+            "city": "SYDNEY",
+            "branch": "(UT STANDARD)",
+            "swift_code": "AMCIAU21UST"
+        },
+        {
+            "id": 22,
             "bank": "AMP CAPITAL INVESTORS LIMTED",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "AMCIAU2X"
         },
         {
-            "id": 6,
+            "id": 23,
+            "bank": "AMP LIFE LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "AMLIAU21"
+        },
+        {
+            "id": 24,
+            "bank": "AMP LIFE LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "AMLIAU21CMT"
+        },
+        {
+            "id": 25,
+            "bank": "ANDREW WEST AND CO LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "ANWEAU21"
+        },
+        {
+            "id": 26,
+            "bank": "ANZ SECURITIES LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "ANZSAU31"
+        },
+        {
+            "id": 27,
+            "bank": "AOT AUSTRALIA PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "AOAPAU21"
+        },
+        {
+            "id": 28,
+            "bank": "APN FUNDS MANAGEMENT LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "APFNAU31"
+        },
+        {
+            "id": 29,
+            "bank": "APP SECURITIES PTY LTD",
+            "city": "SYDNEY",
+            "branch": "(NON-PERSHING CONFIRMATION)",
+            "swift_code": "APSPAUS1APP"
+        },
+        {
+            "id": 30,
+            "bank": "APP SECURITIES PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "APSPAUS1"
+        },
+        {
+            "id": 31,
             "bank": "ARAB BANK AUSTRALIA LIMITED",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "ARABAU2S"
         },
         {
-            "id": 7,
+            "id": 32,
+            "bank": "ARGONAUT SECURITIES PTY LIMITED",
+            "city": "PERTH",
+            "branch": null,
+            "swift_code": "AREEAU61"
+        },
+        {
+            "id": 33,
+            "bank": "ARNHEM INVESTMENT MANAGEMENT",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "AIMGAU21"
+        },
+        {
+            "id": 34,
             "bank": "ARRIUM FINANCE PTY LIMITED",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "ARUMAU2S"
         },
         {
-            "id": 8,
+            "id": 35,
+            "bank": "ASTERON",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "ASTEAU21"
+        },
+        {
+            "id": 36,
+            "bank": "ASX CLEAR (FUTURES) PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "AXCFAU21"
+        },
+        {
+            "id": 37,
             "bank": "ASX OPERATIONS PTY LIMITED",
             "city": "SYDNEY",
             "branch": "(RTGS SETTLEMENT)",
             "swift_code": "XASXAU2SRTG"
         },
         {
-            "id": 9,
+            "id": 38,
             "bank": "ASX OPERATIONS PTY LIMITED",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "XASXAU2S"
         },
         {
-            "id": 10,
+            "id": 39,
+            "bank": "ASX SETTLEMENT AND TRANSFER CORPORATION PTY LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "CAETAU21"
+        },
+        {
+            "id": 40,
+            "bank": "ATOM FUNDS MANAGEMENT LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "ATFAAU21"
+        },
+        {
+            "id": 41,
+            "bank": "ATTUNGA CAPITAL PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "ATCYAU21"
+        },
+        {
+            "id": 42,
+            "bank": "AUSBIL DEXIA LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "AUSDAU21"
+        },
+        {
+            "id": 43,
+            "bank": "AUSPAC SECURITIES LTD.",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "AUSEAU21"
+        },
+        {
+            "id": 44,
+            "bank": "AUSTOCK SECURITIES LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "AUBPAU31"
+        },
+        {
+            "id": 45,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 201)",
             "swift_code": "ACLRAU2S201"
         },
         {
-            "id": 11,
+            "id": 46,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 202)",
             "swift_code": "ACLRAU2S202"
         },
         {
-            "id": 12,
+            "id": 47,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 203)",
             "swift_code": "ACLRAU2S203"
         },
         {
-            "id": 13,
+            "id": 48,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 204)",
             "swift_code": "ACLRAU2S204"
         },
         {
-            "id": 14,
+            "id": 49,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 205)",
             "swift_code": "ACLRAU2S205"
         },
         {
-            "id": 15,
+            "id": 50,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 207)",
             "swift_code": "ACLRAU2S207"
         },
         {
-            "id": 16,
+            "id": 51,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 208)",
             "swift_code": "ACLRAU2S208"
         },
         {
-            "id": 17,
+            "id": 52,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 209)",
             "swift_code": "ACLRAU2S209"
         },
         {
-            "id": 18,
+            "id": 53,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 210)",
             "swift_code": "ACLRAU2S210"
         },
         {
-            "id": 19,
+            "id": 54,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 211)",
             "swift_code": "ACLRAU2S211"
         },
         {
-            "id": 20,
+            "id": 55,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 212)",
             "swift_code": "ACLRAU2S212"
         },
         {
-            "id": 21,
+            "id": 56,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 213)",
             "swift_code": "ACLRAU2S213"
         },
         {
-            "id": 22,
+            "id": 57,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 214)",
             "swift_code": "ACLRAU2S214"
         },
         {
-            "id": 23,
+            "id": 58,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 215)",
             "swift_code": "ACLRAU2S215"
         },
         {
-            "id": 24,
+            "id": 59,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 216)",
             "swift_code": "ACLRAU2S216"
         },
         {
-            "id": 25,
+            "id": 60,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 217)",
             "swift_code": "ACLRAU2S217"
         },
         {
-            "id": 26,
+            "id": 61,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 218)",
             "swift_code": "ACLRAU2S218"
         },
         {
-            "id": 27,
+            "id": 62,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 219)",
             "swift_code": "ACLRAU2S219"
         },
         {
-            "id": 28,
+            "id": 63,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 220)",
             "swift_code": "ACLRAU2S220"
         },
         {
-            "id": 29,
+            "id": 64,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 221)",
             "swift_code": "ACLRAU2S221"
         },
         {
-            "id": 30,
+            "id": 65,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 222)",
             "swift_code": "ACLRAU2S222"
         },
         {
-            "id": 31,
+            "id": 66,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 223)",
             "swift_code": "ACLRAU2S223"
         },
         {
-            "id": 32,
+            "id": 67,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 224)",
             "swift_code": "ACLRAU2S224"
         },
         {
-            "id": 33,
+            "id": 68,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 225)",
             "swift_code": "ACLRAU2S225"
         },
         {
-            "id": 34,
+            "id": 69,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 226)",
             "swift_code": "ACLRAU2S226"
         },
         {
-            "id": 35,
+            "id": 70,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 227)",
             "swift_code": "ACLRAU2S227"
         },
         {
-            "id": 36,
+            "id": 71,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 228)",
             "swift_code": "ACLRAU2S228"
         },
         {
-            "id": 37,
+            "id": 72,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 229)",
             "swift_code": "ACLRAU2S229"
         },
         {
-            "id": 38,
+            "id": 73,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 230)",
             "swift_code": "ACLRAU2S230"
         },
         {
-            "id": 39,
+            "id": 74,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 231)",
             "swift_code": "ACLRAU2S231"
         },
         {
-            "id": 40,
+            "id": 75,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 232)",
             "swift_code": "ACLRAU2S232"
         },
         {
-            "id": 41,
+            "id": 76,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 233)",
             "swift_code": "ACLRAU2S233"
         },
         {
-            "id": 42,
+            "id": 77,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 234)",
             "swift_code": "ACLRAU2S234"
         },
         {
-            "id": 43,
+            "id": 78,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 235)",
             "swift_code": "ACLRAU2S235"
         },
         {
-            "id": 44,
+            "id": 79,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 236)",
             "swift_code": "ACLRAU2S236"
         },
         {
-            "id": 45,
+            "id": 80,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 237)",
             "swift_code": "ACLRAU2S237"
         },
         {
-            "id": 46,
+            "id": 81,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 238)",
             "swift_code": "ACLRAU2S238"
         },
         {
-            "id": 47,
+            "id": 82,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 239)",
             "swift_code": "ACLRAU2S239"
         },
         {
-            "id": 48,
+            "id": 83,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 240)",
             "swift_code": "ACLRAU2S240"
         },
         {
-            "id": 49,
+            "id": 84,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 241)",
             "swift_code": "ACLRAU2S241"
         },
         {
-            "id": 50,
+            "id": 85,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 242)",
             "swift_code": "ACLRAU2S242"
         },
         {
-            "id": 51,
+            "id": 86,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 243)",
             "swift_code": "ACLRAU2S243"
         },
         {
-            "id": 52,
+            "id": 87,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 244)",
             "swift_code": "ACLRAU2S244"
         },
         {
-            "id": 53,
+            "id": 88,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 245)",
             "swift_code": "ACLRAU2S245"
         },
         {
-            "id": 54,
+            "id": 89,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 247)",
             "swift_code": "ACLRAU2S247"
         },
         {
-            "id": 55,
+            "id": 90,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": "(BKO 260)",
             "swift_code": "ACLRAU2S206"
         },
         {
-            "id": 56,
+            "id": 91,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "ACLRAUSS"
         },
         {
-            "id": 57,
+            "id": 92,
             "bank": "AUSTRACLEAR LIMITED",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "ACLRAU2S"
         },
         {
-            "id": 58,
+            "id": 93,
             "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
             "city": "ADELAIDE",
             "branch": "(TRADE AND SUPPLY CHAIN ADELAIDE)",
             "swift_code": "ANZBAU3MTRA"
         },
         {
-            "id": 59,
+            "id": 94,
+            "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
+            "city": "ADELAIDE",
+            "branch": null,
+            "swift_code": "ANZBAU51"
+        },
+        {
+            "id": 95,
+            "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
+            "city": "ALICE SPRINGS",
+            "branch": null,
+            "swift_code": "ANZBAU81881"
+        },
+        {
+            "id": 96,
             "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
             "city": "BALLARAT",
             "branch": null,
             "swift_code": "ANZBAU3M516"
         },
         {
-            "id": 60,
+            "id": 97,
             "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
             "city": "BENDIGO",
             "branch": null,
             "swift_code": "ANZBAU3M535"
         },
         {
-            "id": 61,
+            "id": 98,
             "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
             "city": "BRISBANE",
             "branch": "(TRADE AND SUPPLY CHAIN BRISBANE)",
             "swift_code": "ANZBAU3MTRB"
         },
         {
-            "id": 62,
+            "id": 99,
+            "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
+            "city": "BRISBANE",
+            "branch": null,
+            "swift_code": "ANZBAU41"
+        },
+        {
+            "id": 100,
+            "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
+            "city": "CAIRNS",
+            "branch": null,
+            "swift_code": "ANZBAU41530"
+        },
+        {
+            "id": 101,
+            "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
+            "city": "CANBERRA",
+            "branch": null,
+            "swift_code": "ANZBAUC1"
+        },
+        {
+            "id": 102,
+            "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
+            "city": "DARWIN",
+            "branch": null,
+            "swift_code": "ANZBAU81"
+        },
+        {
+            "id": 103,
+            "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
+            "city": "FREMANTLE",
+            "branch": null,
+            "swift_code": "ANZBAU61307"
+        },
+        {
+            "id": 104,
             "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
             "city": "GEELONG",
             "branch": null,
             "swift_code": "ANZBAU3M645"
         },
         {
-            "id": 63,
+            "id": 105,
+            "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
+            "city": "HOBART",
+            "branch": null,
+            "swift_code": "ANZBAU71"
+        },
+        {
+            "id": 106,
+            "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
+            "city": "LAUNCESTON",
+            "branch": null,
+            "swift_code": "ANZBAU71042"
+        },
+        {
+            "id": 107,
             "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
             "city": "MELBOURNE",
             "branch": "(CUSTODIAN SERVICES)",
             "swift_code": "ANZBAU3MNOM"
         },
         {
-            "id": 64,
+            "id": 108,
             "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
             "city": "MELBOURNE",
             "branch": "(FUNDS MANAGEMENT)",
             "swift_code": "ANZBAU3MAFM"
         },
         {
-            "id": 65,
+            "id": 109,
             "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
             "city": "MELBOURNE",
             "branch": "(GROUP TREASURY OPERATIONS)",
             "swift_code": "ANZBAU3MGTO"
         },
         {
-            "id": 66,
+            "id": 110,
             "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
             "city": "MELBOURNE",
             "branch": null,
             "swift_code": "ANZBAU3M"
         },
         {
-            "id": 67,
+            "id": 111,
             "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
             "city": "MELBOURNE",
             "branch": null,
             "swift_code": "ANZBAU3MCLS"
         },
         {
-            "id": 68,
+            "id": 112,
             "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
             "city": "MELBOURNE",
             "branch": null,
             "swift_code": "ANZBAU3MCFX"
         },
         {
-            "id": 69,
+            "id": 113,
+            "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
+            "city": "NEWCASTLE",
+            "branch": null,
+            "swift_code": "ANZBAUS1780"
+        },
+        {
+            "id": 114,
             "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
             "city": "PERTH",
             "branch": "(TRADE AND SUPPLY CHAIN PERTH)",
             "swift_code": "ANZBAU3MTRP"
         },
         {
-            "id": 70,
+            "id": 115,
+            "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
+            "city": "PERTH",
+            "branch": null,
+            "swift_code": "ANZBAU61"
+        },
+        {
+            "id": 116,
+            "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
+            "city": "SURFERS PARADISE",
+            "branch": null,
+            "swift_code": "ANZBAU41704"
+        },
+        {
+            "id": 117,
             "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
             "city": "SYDNEY",
             "branch": "(TRADE AND SUPPLY CHAIN SYDNEY)",
             "swift_code": "ANZBAU3MTRS"
         },
         {
-            "id": 71,
+            "id": 118,
+            "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "ANZBAUS1"
+        },
+        {
+            "id": 119,
+            "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
+            "city": "TOWNSVILLE",
+            "branch": null,
+            "swift_code": "ANZBAU41730"
+        },
+        {
+            "id": 120,
+            "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
+            "city": "WOLLONGONG",
+            "branch": null,
+            "swift_code": "ANZBAUS1878"
+        },
+        {
+            "id": 121,
+            "bank": "AUSTRALIAN BULLION EXCHANGE LIMITED TRADING AS ABX GLOBAL",
+            "city": "BRISBANE",
+            "branch": null,
+            "swift_code": "ABXAAU41"
+        },
+        {
+            "id": 122,
+            "bank": "AUSTRALIAN CLEARING EXCHANGE PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "RDSPAU21"
+        },
+        {
+            "id": 123,
+            "bank": "AUSTRALIAN ETHICAL INVESTMENT LTD",
+            "city": "CANBERRA",
+            "branch": null,
+            "swift_code": "AUEIAU21"
+        },
+        {
+            "id": 124,
             "bank": "AUSTRALIAN EXECUTOR TRUSTEES LIMITE",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "AETLAUSX"
         },
         {
-            "id": 72,
+            "id": 125,
+            "bank": "AUSTRALIAN INDUSTRY DEVELOPMENT CORPORATION",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "AUIDAU21"
+        },
+        {
+            "id": 126,
+            "bank": "AUSTRALIAN INVESTMENT EXCHANGE",
+            "city": "PERTH",
+            "branch": null,
+            "swift_code": "AUIEAU61"
+        },
+        {
+            "id": 127,
+            "bank": "AUSTRALIAN MARKET AUTOMATED QUOTATION (AUSMAQ) SYSTEM LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "AUSQAU21"
+        },
+        {
+            "id": 128,
             "bank": "AUSTRALIAN SETTLEMENTS LIMITED",
             "city": "ARMIDALE",
             "branch": null,
             "swift_code": "ASLLAU2CNEC"
         },
         {
-            "id": 73,
+            "id": 129,
             "bank": "AUSTRALIAN SETTLEMENTS LIMITED",
             "city": "CANBERRA",
             "branch": null,
             "swift_code": "ASLLAU2C"
         },
         {
-            "id": 74,
+            "id": 130,
             "bank": "AUSTRALIAN SETTLEMENTS LIMITED",
             "city": "CANBERRA",
             "branch": null,
             "swift_code": "ASLLAU2CASL"
         },
         {
-            "id": 75,
+            "id": 131,
             "bank": "AUSTRALIAN SETTLEMENTS LIMITED",
             "city": "CANBERRA",
             "branch": null,
             "swift_code": "ASLLAU2CGIO"
         },
         {
-            "id": 76,
+            "id": 132,
             "bank": "AUSTRALIAN SETTLEMENTS LIMITED",
             "city": "CANBERRA",
             "branch": null,
             "swift_code": "ASLLAU2CHBS"
         },
         {
-            "id": 77,
+            "id": 133,
             "bank": "AUSTRALIAN SETTLEMENTS LIMITED",
             "city": "LISMORE",
             "branch": null,
             "swift_code": "ASLLAU2CSCU"
         },
         {
-            "id": 78,
+            "id": 134,
             "bank": "AUSTRALIAN SETTLEMENTS LIMITED",
             "city": "NEWCASTLE",
             "branch": null,
             "swift_code": "ASLLAU2CGBS"
         },
         {
-            "id": 79,
+            "id": 135,
             "bank": "AUSTRALIAN SETTLEMENTS LIMITED",
             "city": "SYDNEY",
             "branch": "(GATEWAY CREDIT UNION)",
             "swift_code": "ASLLAU2CGTW"
         },
         {
-            "id": 80,
+            "id": 136,
             "bank": "AUSTRALIAN SETTLEMENTS LIMITED",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "ASLLAU2CSGE"
         },
         {
-            "id": 81,
+            "id": 137,
             "bank": "AUSTRALIAN UNITY FUNDS MANAGEMENT",
             "city": "MELBOURNE",
             "branch": "(AIM\/POMS SERVICE)",
             "swift_code": "AUUNAU3M"
         },
         {
-            "id": 82,
+            "id": 138,
+            "bank": "AVIVA INVESTORS AUSTRALIA LIMITED",
+            "city": "SOUTHBANK",
+            "branch": null,
+            "swift_code": "AVIUAU31"
+        },
+        {
+            "id": 139,
             "bank": "AYERS ALLIANCE FINANCIAL SERVICES LIMITED",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "AYAHAU24"
         },
         {
-            "id": 83,
+            "id": 140,
             "bank": "BAILLIEU HOLST LTD",
             "city": "MELBOURNE",
             "branch": null,
             "swift_code": "BAHOAU3M"
         },
         {
-            "id": 84,
+            "id": 141,
+            "bank": "BAKER YOUNG STOCKBROKERS LIMITED",
+            "city": "ADELAIDE",
+            "branch": null,
+            "swift_code": "BAYSAU51"
+        },
+        {
+            "id": 142,
+            "bank": "BALANCED EQUITY MANAGEMENT PTY LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "BEMTAU31"
+        },
+        {
+            "id": 143,
             "bank": "BANCO SANTANDER, S.A. SYDNEY BRANCH",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "BSCHAU2S"
         },
         {
-            "id": 85,
+            "id": 144,
             "bank": "BANK OF AMERICA, N.A. SYDNEY",
             "city": "SYDNEY",
             "branch": "(BA SECURITIES AUSTRALIA LTD)",
             "swift_code": "BOFAAUSXSAL"
         },
         {
-            "id": 86,
+            "id": 145,
             "bank": "BANK OF AMERICA, N.A. SYDNEY",
             "city": "SYDNEY",
             "branch": "(HEAD OFFICE)",
             "swift_code": "BOFAAUSX"
         },
         {
-            "id": 87,
+            "id": 146,
             "bank": "BANK OF AMERICA, N.A. SYDNEY",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "BOFAAUSXOBU"
         },
         {
-            "id": 88,
+            "id": 147,
             "bank": "BANK OF BARODA",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "BARBAU2S"
         },
         {
-            "id": 89,
+            "id": 148,
             "bank": "BANK OF CHINA",
             "city": "MELBOURNE",
             "branch": "(MELBOURNE BRANCH)",
             "swift_code": "BKCHAU2SMEL"
         },
         {
-            "id": 90,
+            "id": 149,
             "bank": "BANK OF CHINA",
             "city": "SYDNEY",
             "branch": "(HAYMARKET BRANCH)",
             "swift_code": "BKCHAU2SHMB"
         },
         {
-            "id": 91,
+            "id": 150,
             "bank": "BANK OF CHINA (AUSTRALIA) LIMITED",
             "city": "BOX HILL",
             "branch": "(BOX HILL BRANCH)",
             "swift_code": "BKCHAU2ABXH"
         },
         {
-            "id": 92,
+            "id": 151,
             "bank": "BANK OF CHINA (AUSTRALIA) LIMITED",
             "city": "BRISBANE",
             "branch": "(BRISBANE BRANCH)",
             "swift_code": "BKCHAU2ABRI"
         },
         {
-            "id": 93,
+            "id": 152,
             "bank": "BANK OF CHINA (AUSTRALIA) LIMITED",
             "city": "CHATSWOOD",
             "branch": "(CHATSWOOD)",
             "swift_code": "BKCHAU2ACWD"
         },
         {
-            "id": 94,
+            "id": 153,
             "bank": "BANK OF CHINA (AUSTRALIA) LIMITED",
             "city": "HURSTVILLE",
             "branch": "(HURSTVILLE BRANCH)",
             "swift_code": "BKCHAU2AHSV"
         },
         {
-            "id": 95,
+            "id": 154,
             "bank": "BANK OF CHINA (AUSTRALIA) LIMITED",
             "city": "MELBOURNE",
             "branch": "(MELBOURNE BRANCH)",
             "swift_code": "BKCHAU2AMEL"
         },
         {
-            "id": 96,
+            "id": 155,
             "bank": "BANK OF CHINA (AUSTRALIA) LIMITED",
             "city": "PERTH",
             "branch": "(PERTH)",
             "swift_code": "BKCHAU2APTH"
         },
         {
-            "id": 97,
+            "id": 156,
             "bank": "BANK OF CHINA (AUSTRALIA) LIMITED",
             "city": "SYDNEY",
             "branch": "(BANKING DEPT.)",
             "swift_code": "BKCHAU2ABKG"
         },
         {
-            "id": 98,
+            "id": 157,
             "bank": "BANK OF CHINA (AUSTRALIA) LIMITED",
             "city": "SYDNEY",
             "branch": "(HAYMARKET)",
             "swift_code": "BKCHAU2AHMB"
         },
         {
-            "id": 99,
+            "id": 158,
             "bank": "BANK OF CHINA (AUSTRALIA) LIMITED",
             "city": "SYDNEY",
             "branch": "(PARRAMATTA )",
             "swift_code": "BKCHAU2APAR"
         },
         {
-            "id": 100,
+            "id": 159,
             "bank": "BANK OF CHINA (AUSTRALIA) LIMITED",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "BKCHAU2A"
         },
         {
-            "id": 101,
+            "id": 160,
             "bank": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
             "city": "BOX HILL",
             "branch": "(BOX HILL BRANCH)",
             "swift_code": "BKCHAU2SBXH"
         },
         {
-            "id": 102,
+            "id": 161,
             "bank": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
             "city": "BRISBANE",
             "branch": "(BRISBANE BRANCH)",
             "swift_code": "BKCHAU2SBRI"
         },
         {
-            "id": 103,
+            "id": 162,
             "bank": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
             "city": "CHATSWOOD",
             "branch": "(CHATSWOOD)",
             "swift_code": "BKCHAU2SCWD"
         },
         {
-            "id": 104,
+            "id": 163,
             "bank": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
             "city": "HURSTVILLE",
             "branch": "(HURSTVILLE BRANCH)",
             "swift_code": "BKCHAU2SHSV"
         },
         {
-            "id": 105,
+            "id": 164,
             "bank": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
             "city": "PERTH",
             "branch": "(PERTH BRANCH)",
             "swift_code": "BKCHAU2SPTH"
         },
         {
-            "id": 106,
+            "id": 165,
             "bank": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
             "city": "SYDNEY",
             "branch": "(ACCOUNTING DEPT.)",
             "swift_code": "BKCHAU2SACC"
         },
         {
-            "id": 107,
+            "id": 166,
             "bank": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
             "city": "SYDNEY",
             "branch": "(BANKING DEPT.)",
             "swift_code": "BKCHAU2SBKG"
         },
         {
-            "id": 108,
+            "id": 167,
             "bank": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
             "city": "SYDNEY",
             "branch": "(BILLS DEPARTMENT)",
             "swift_code": "BKCHAU2SBLS"
         },
         {
-            "id": 109,
+            "id": 168,
             "bank": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
             "city": "SYDNEY",
             "branch": "(FOREIGN EXCHANGE DEPT.)",
             "swift_code": "BKCHAU2SFEX"
         },
         {
-            "id": 110,
+            "id": 169,
             "bank": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
             "city": "SYDNEY",
             "branch": "(OBU)",
             "swift_code": "BKCHAU2SOBU"
         },
         {
-            "id": 111,
+            "id": 170,
             "bank": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
             "city": "SYDNEY",
             "branch": "(PARRAMATTA DEPT.)",
             "swift_code": "BKCHAU2SPAR"
         },
         {
-            "id": 112,
+            "id": 171,
             "bank": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
             "city": "SYDNEY",
             "branch": "(RISK MANAGEMENT DEPT.)",
             "swift_code": "BKCHAU2SRMD"
         },
         {
-            "id": 113,
+            "id": 172,
             "bank": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "BKCHAU2S"
         },
         {
-            "id": 114,
+            "id": 173,
             "bank": "BANK OF COMMUNICATIONS CO.,LTD SYDNEY BRANCH",
             "city": "BRISBANE",
             "branch": "(BRISBANE BRANCH)",
             "swift_code": "COMMAU2SBRI"
         },
         {
-            "id": 115,
+            "id": 174,
             "bank": "BANK OF COMMUNICATIONS CO.,LTD SYDNEY BRANCH",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "COMMAU2S"
         },
         {
-            "id": 116,
+            "id": 175,
+            "bank": "BANK OF MONTREAL",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "BOFMAU21"
+        },
+        {
+            "id": 176,
             "bank": "BANK OF QUEENSLAND LTD.",
             "city": "NEWSTEAD",
             "branch": null,
             "swift_code": "QBANAU4B"
         },
         {
-            "id": 117,
+            "id": 177,
             "bank": "BANK OF SYDNEY LTD",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "LIKIAU2S"
         },
         {
-            "id": 118,
+            "id": 178,
             "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
             "city": "SYDNEY",
             "branch": "(SYDNEY BRANCH)",
             "swift_code": "BOTKAU2X"
         },
         {
-            "id": 119,
+            "id": 179,
+            "bank": "BANKINVEST",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "BSYDAU21"
+        },
+        {
+            "id": 180,
             "bank": "BANKWEST A DIVISION OF COMMONWEALTH BANK OF AUSTRALIA",
             "city": "PERTH",
             "branch": null,
             "swift_code": "BKWAAU6P"
         },
         {
-            "id": 120,
+            "id": 181,
             "bank": "BARCLAYS BANK PLC",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "BARCAU2S"
         },
         {
-            "id": 121,
+            "id": 182,
+            "bank": "BELL FIRST PACIFIC LIMITED",
+            "city": "BRISBANE",
+            "branch": null,
+            "swift_code": "HENDAU41"
+        },
+        {
+            "id": 183,
+            "bank": "BELL POTTER SECURITIES",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "BPFXAU31"
+        },
+        {
+            "id": 184,
+            "bank": "BELL POTTER SECURITIES LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "JOTPAU31"
+        },
+        {
+            "id": 185,
+            "bank": "BELL POTTER SECURITIES LIMITED",
+            "city": "SYDNEY",
+            "branch": "(SYDNEY WHOLESALE)",
+            "swift_code": "JOTPAU31ADM"
+        },
+        {
+            "id": 186,
+            "bank": "BELLWETHER PARTNERS LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "BEPTAU31"
+        },
+        {
+            "id": 187,
             "bank": "BENDIGO BANK LIMITED",
             "city": "BENDIGO",
             "branch": null,
             "swift_code": "BENDAU3B"
         },
         {
-            "id": 122,
+            "id": 188,
+            "bank": "BENNELONG FUNDS MANAGEMENT LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "BEFMAU31"
+        },
+        {
+            "id": 189,
+            "bank": "BESTEX PTY LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "BEPYAU31"
+        },
+        {
+            "id": 190,
+            "bank": "BETASHARES CAPITAL LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "BEAIAUS1"
+        },
+        {
+            "id": 191,
+            "bank": "BEULAH CAPITAL",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "BEUAAU31"
+        },
+        {
+            "id": 192,
+            "bank": "BGC PARTNERS (AUSTRALIA) PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "BPUPAU21"
+        },
+        {
+            "id": 193,
+            "bank": "BIAM AUSTRALIA PTY LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "BAUPAU31"
+        },
+        {
+            "id": 194,
             "bank": "BLACKROCK ASSET MANAGEMENT AUSTRALIA LIMITED",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "BGIAAU2S"
         },
         {
-            "id": 123,
+            "id": 195,
+            "bank": "BLUE OCEAN EQUITIES",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "BLOEAU21"
+        },
+        {
+            "id": 196,
             "bank": "BNP PARIBAS AUSTRALIA",
             "city": "SYDNEY",
             "branch": "(FIXED INCOME AND TREASURY)",
             "swift_code": "BNPAAU2S200"
         },
         {
-            "id": 124,
+            "id": 197,
             "bank": "BNP PARIBAS AUSTRALIA",
             "city": "SYDNEY",
             "branch": "(SYDNEY OFFSHORE BANKING UNIT) (OBU)",
             "swift_code": "BNPAAU2SOBU"
         },
         {
-            "id": 125,
+            "id": 198,
             "bank": "BNP PARIBAS AUSTRALIA",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "BNPAAU2S"
         },
         {
-            "id": 126,
+            "id": 199,
             "bank": "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH)",
             "city": "SYDNEY",
             "branch": "( SECURITIES SERVICES SYDNEY LOCAL CUSTODY)",
             "swift_code": "PARBAU2SLCC"
         },
         {
-            "id": 127,
+            "id": 200,
             "bank": "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH)",
             "city": "SYDNEY",
             "branch": "(BP2S AUSTRALIA - NEW ZEALAND ACTIVITY)",
             "swift_code": "PARBAU2SNZL"
         },
         {
-            "id": 128,
+            "id": 201,
             "bank": "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH)",
             "city": "SYDNEY",
             "branch": "(BP2S SYDNEY FUNDS)",
             "swift_code": "PARBAU2SREC"
         },
         {
-            "id": 129,
+            "id": 202,
             "bank": "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH)",
             "city": "SYDNEY",
             "branch": "(SECURITIES SERVICES SYDNEY GLOBAL CUSTODY)",
             "swift_code": "PARBAU2SISI"
         },
         {
-            "id": 130,
+            "id": 203,
             "bank": "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH)",
             "city": "SYDNEY",
             "branch": "(SECURITIES SERVICES SYDNEY MASTER CUSTODY)",
             "swift_code": "PARBAU2SMCY"
         },
         {
-            "id": 131,
+            "id": 204,
             "bank": "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH)",
             "city": "SYDNEY",
             "branch": "(SECURITIES SERVICES)",
             "swift_code": "PARBAU2SMIO"
         },
         {
-            "id": 132,
+            "id": 205,
             "bank": "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH)",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "PARBAU2S"
         },
         {
-            "id": 133,
+            "id": 206,
+            "bank": "BNY AUSTRALIA LTD.",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "BONYAU21"
+        },
+        {
+            "id": 207,
+            "bank": "BNY MELLON ASSET MANAGEMENT AUSTRALIA LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "MGIVAU21"
+        },
+        {
+            "id": 208,
+            "bank": "BRIDGES FINANCIAL SERVICES PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "BFSPAU21"
+        },
+        {
+            "id": 209,
+            "bank": "BRITISH AMERICAN TOBACCO AUSTRALIA LTD",
+            "city": "EASTGARDENS",
+            "branch": null,
+            "swift_code": "BATSAUA1"
+        },
+        {
+            "id": 210,
+            "bank": "BRITISH AMERICAN TOBACCO MANUFACTURING AUSTRALIA PTY LTD",
+            "city": "EASTGARDENS",
+            "branch": null,
+            "swift_code": "BATSAUB1"
+        },
+        {
+            "id": 211,
+            "bank": "BT AUSTRALIA PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "BUTAAU21"
+        },
+        {
+            "id": 212,
+            "bank": "BT FUNDS MANAGEMENT LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "FUMAAU21"
+        },
+        {
+            "id": 213,
+            "bank": "BT INVESTMENT MANAGEMENT (RE) LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "IVMMAUS1"
+        },
+        {
+            "id": 214,
             "bank": "BT PORTFOLIO SERVICES PTY LTD",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "BTFGAU22"
         },
         {
-            "id": 134,
+            "id": 215,
             "bank": "BT PORTFOLIO SERVICES PTY LTD",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "BTFGAU2S"
         },
         {
-            "id": 135,
+            "id": 216,
+            "bank": "BTIG AUSTRALIA LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "BTAUAU21"
+        },
+        {
+            "id": 217,
+            "bank": "BUNGEELTAP INVESTMENTS PTY LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "FASTAU31"
+        },
+        {
+            "id": 218,
+            "bank": "BURDETT BUCKERIDGE YOUNG LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "BUBYAU21"
+        },
+        {
+            "id": 219,
+            "bank": "CALEDONIA INVESTMENTS PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "CALIAU21"
+        },
+        {
+            "id": 220,
+            "bank": "CAMERON SECURITIES PTY. LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "CMSCAU21"
+        },
+        {
+            "id": 221,
+            "bank": "CANACCORD GENUITY (AUSTRALIA) LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "CAYAAU31"
+        },
+        {
+            "id": 222,
+            "bank": "CANADIAN IMPERIAL BANK OF COMMERCE",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "CIBCAU21"
+        },
+        {
+            "id": 223,
+            "bank": "CASS COMM LIMITED",
+            "city": "ADELAIDE",
+            "branch": null,
+            "swift_code": "ICLFAU3105A"
+        },
+        {
+            "id": 224,
+            "bank": "CASS COMM LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "ICLFAU31"
+        },
+        {
+            "id": 225,
+            "bank": "CBA EQUITIES LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "CBEQAU21"
+        },
+        {
+            "id": 226,
+            "bank": "CB-CLPF LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "IMORAU21"
+        },
+        {
+            "id": 227,
+            "bank": "CCZ STATTON EQUITIES PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "CSEPAU21"
+        },
+        {
+            "id": 228,
+            "bank": "CERES CAPITAL PTY LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "CECYAU31"
+        },
+        {
+            "id": 229,
+            "bank": "CHALLENGER FINANCIAL SERVICES GROUP LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "CFSGAU21"
+        },
+        {
+            "id": 230,
             "bank": "CHALLENGER GROUP SERVICES PTY LTD",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "CHLGAU2S"
         },
         {
-            "id": 136,
+            "id": 231,
+            "bank": "CHANNEL CAPITAL PTY LTD",
+            "city": "BRISBANE",
+            "branch": null,
+            "swift_code": "CHAYAU41"
+        },
+        {
+            "id": 232,
+            "bank": "CHIFLEY FINANCIAL SERVICES LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "CFSEAU21"
+        },
+        {
+            "id": 233,
+            "bank": "CHIMAERA CAPITAL LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "CHPTAU31"
+        },
+        {
+            "id": 234,
             "bank": "CHINA CONSTRUCTION BANK CORPORATION SYDNEY BRANCH",
             "city": "SYDNEY",
             "branch": "(OFFSHORE BANKING UNIT)",
             "swift_code": "PCBCAU2SOBU"
         },
         {
-            "id": 137,
+            "id": 235,
             "bank": "CHINA CONSTRUCTION BANK CORPORATION SYDNEY BRANCH",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "PCBCAU2S"
         },
         {
-            "id": 138,
+            "id": 236,
+            "bank": "CITI SMITH BARNEY PTY LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "SBCUAU21"
+        },
+        {
+            "id": 237,
             "bank": "CITIBANK N.A.",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "CITIAUSX"
         },
         {
-            "id": 139,
+            "id": 238,
             "bank": "CITIC PACIFIC MINING MANAGEMENT PTY LIMITED",
             "city": "PERTH",
             "branch": null,
             "swift_code": "CPMMAU6P"
         },
         {
-            "id": 140,
+            "id": 239,
+            "bank": "CITIGROUP GLOBAL MARKETS AUSTRALIA PTY LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "CNSLAU21"
+        },
+        {
+            "id": 240,
             "bank": "CITIGROUP GLOBAL MARKETS AUSTRALIA PTY LIMITED",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "SSBSAU2S"
         },
         {
-            "id": 141,
+            "id": 241,
             "bank": "CITIGROUP PTY LIMITED",
             "city": "MELBOURNE",
             "branch": null,
             "swift_code": "CITIAU3X"
         },
         {
-            "id": 142,
+            "id": 242,
             "bank": "CITIGROUP PTY LIMITED, SYDNEY",
             "city": "SYDNEY",
             "branch": "(GLOBAL CONSUMER BANKING)",
             "swift_code": "CITIAU2XGCB"
         },
         {
-            "id": 143,
+            "id": 243,
             "bank": "CITIGROUP PTY LIMITED, SYDNEY",
             "city": "SYDNEY",
             "branch": "(REAL TIME GROSS SETTLEMENT)",
             "swift_code": "CITIAU2XRTG"
         },
         {
-            "id": 144,
+            "id": 244,
             "bank": "CITIGROUP PTY LIMITED, SYDNEY",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "CITIAU2X"
         },
         {
-            "id": 145,
+            "id": 245,
+            "bank": "CLSA AUSTRALIA PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "CLSAAU21"
+        },
+        {
+            "id": 246,
+            "bank": "CMC MARKETS STOCKBROKING LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "CMMTAU21"
+        },
+        {
+            "id": 247,
             "bank": "COLONIAL FIRST STATE INVESTMENT LTD",
             "city": "MELBOURNE",
             "branch": null,
             "swift_code": "CFSMAU3M"
         },
         {
-            "id": 146,
+            "id": 248,
             "bank": "COLONIAL FIRST STATE INVESTMENT LTD",
             "city": "SYDNEY",
             "branch": "(EXCHANGE TRADED DERIVATIVES)",
             "swift_code": "CFSMAU3METD"
         },
         {
-            "id": 147,
+            "id": 249,
             "bank": "COLONIAL FIRST STATE INVESTMENT LTD",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "CFSMAU2S"
         },
         {
-            "id": 148,
+            "id": 250,
             "bank": "COMMONWEALTH BANK OF AUSTRALIA SYDNEY",
             "city": "ADELAIDE",
             "branch": null,
             "swift_code": "CTBAAU2S500"
         },
         {
-            "id": 149,
+            "id": 251,
             "bank": "COMMONWEALTH BANK OF AUSTRALIA SYDNEY",
             "city": "BRISBANE",
             "branch": null,
             "swift_code": "CTBAAU2S400"
         },
         {
-            "id": 150,
+            "id": 252,
             "bank": "COMMONWEALTH BANK OF AUSTRALIA SYDNEY",
             "city": "DARWIN",
             "branch": null,
             "swift_code": "CTBAAU2S800"
         },
         {
-            "id": 151,
+            "id": 253,
             "bank": "COMMONWEALTH BANK OF AUSTRALIA SYDNEY",
             "city": "HOBART",
             "branch": null,
             "swift_code": "CTBAAU2S700"
         },
         {
-            "id": 152,
+            "id": 254,
             "bank": "COMMONWEALTH BANK OF AUSTRALIA SYDNEY",
             "city": "MELBOURNE",
             "branch": "(EXPORT\/IMPORT COLLECTIONS AND DOCUMENTARY CREDITS)",
             "swift_code": "CTBAAU2S3OT"
         },
         {
-            "id": 153,
+            "id": 255,
             "bank": "COMMONWEALTH BANK OF AUSTRALIA SYDNEY",
             "city": "MELBOURNE",
             "branch": "(MELBOURNE GROUP TREASURY CENTRE)",
             "swift_code": "CTBAAU2S3FX"
         },
         {
-            "id": 154,
+            "id": 256,
             "bank": "COMMONWEALTH BANK OF AUSTRALIA SYDNEY",
             "city": "PERTH",
             "branch": null,
             "swift_code": "CTBAAU2S600"
         },
         {
-            "id": 155,
+            "id": 257,
             "bank": "COMMONWEALTH BANK OF AUSTRALIA SYDNEY",
             "city": "SYDNEY",
             "branch": "(CLS CONTROL FUNCTION)",
             "swift_code": "CTBAAU2SCLS"
         },
         {
-            "id": 156,
+            "id": 258,
             "bank": "COMMONWEALTH BANK OF AUSTRALIA SYDNEY",
             "city": "SYDNEY",
             "branch": "(FOR HEAD OFFICE AND ALL AUSTRALIAN BRANCHES)",
             "swift_code": "CTBAAU2S"
         },
         {
-            "id": 157,
+            "id": 259,
             "bank": "COMMONWEALTH BANK OF AUSTRALIA SYDNEY",
             "city": "SYDNEY",
             "branch": "(GROUP TREASURY FOREIGN EXCHANGE ACCOUNTING AND SETTLEMENTS)",
             "swift_code": "CTBAAU2SFXD"
         },
         {
-            "id": 158,
+            "id": 260,
             "bank": "COMMONWEALTH BANK OF AUSTRALIA SYDNEY",
             "city": "SYDNEY",
             "branch": "(INTERNATIONAL TRADE PROCESSING CENTRE)",
             "swift_code": "CTBAAU2SITS"
         },
         {
-            "id": 159,
+            "id": 261,
             "bank": "COMMONWEALTH BANK OF AUSTRALIA SYDNEY",
             "city": "SYDNEY",
             "branch": "(OFFSHORE BANKING UNIT)",
             "swift_code": "CTBAAU2SOBU"
         },
         {
-            "id": 160,
+            "id": 262,
+            "bank": "COMMONWEALTH FUNDS MANAGEMENT LIMITED",
+            "city": "CANBERRA",
+            "branch": null,
+            "swift_code": "COFGAU21"
+        },
+        {
+            "id": 263,
+            "bank": "COMMONWEALTH SECURITIES LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "COEEAU21"
+        },
+        {
+            "id": 264,
             "bank": "COMPASS GLOBAL HOLDINGS PTY LTD",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "CGHPAUS2"
         },
         {
-            "id": 161,
+            "id": 265,
+            "bank": "COMPUTERSHARE FUND SERVICES",
+            "city": "ABBOTSFORD",
+            "branch": null,
+            "swift_code": "CPUFAU31"
+        },
+        {
+            "id": 266,
+            "bank": "COMSEC TRADING LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "FISSAU21"
+        },
+        {
+            "id": 267,
+            "bank": "CONCORD CAPITAL LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "CCPAAU21"
+        },
+        {
+            "id": 268,
+            "bank": "CONQUEST SECURITIES PTY LTD",
+            "city": "HOBART",
+            "branch": null,
+            "swift_code": "COCYAU71"
+        },
+        {
+            "id": 269,
+            "bank": "CONSTELLATION CAPITAL MANAGEMENT LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "COOAAU21"
+        },
+        {
+            "id": 270,
             "bank": "CONTANGO ASSET MANAGEMENT LIMITED",
             "city": "MELBOURNE",
             "branch": null,
             "swift_code": "CNANAU3B"
         },
         {
-            "id": 162,
+            "id": 271,
+            "bank": "CONTANGO ASSET MANAGEMENT LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "CNANAU31"
+        },
+        {
+            "id": 272,
+            "bank": "CONTINUUM CAPITAL MANAGEMENT LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "CNCMAU21"
+        },
+        {
+            "id": 273,
             "bank": "CREDIT AGRICOLE CIB AUSTRALIA LIMITED",
             "city": "SYDNEY",
             "branch": "(OFF SHORE BANKING UNIT)",
             "swift_code": "BSUIAU2SOBU"
         },
         {
-            "id": 163,
+            "id": 274,
             "bank": "CREDIT AGRICOLE CIB AUSTRALIA LIMITED",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "BSUIAU2S"
         },
         {
-            "id": 164,
+            "id": 275,
             "bank": "CREDIT SUISSE AG, SYDNEY BRANCH",
             "city": "SYDNEY",
             "branch": "(PRIVATE BANKING)",
             "swift_code": "CRESAU2SPBS"
         },
         {
-            "id": 165,
+            "id": 276,
             "bank": "CREDIT SUISSE AG, SYDNEY BRANCH",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "CRESAU2S"
         },
         {
-            "id": 166,
+            "id": 277,
             "bank": "CREDIT SUISSE EQUITIES (AUSTRALIA) LIMITED",
             "city": "MELBOURNE",
             "branch": null,
             "swift_code": "FPSLAU3M"
         },
         {
-            "id": 167,
+            "id": 278,
             "bank": "CREDIT SUISSE INVESTMENT SERVICES (AUSTRALIA) LTD",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "CRESAU2D"
         },
         {
-            "id": 168,
+            "id": 279,
             "bank": "CUSCAL LIMITED",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "CUSCAU2S"
         },
         {
-            "id": 169,
+            "id": 280,
+            "bank": "CUSTODY EXECUTION AND CLEARING SERVICES (AUSTRALIA) PTY LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "HSAPAU21"
+        },
+        {
+            "id": 281,
+            "bank": "CUSTOM CREDIT COPR. LTD.",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "CUCCAU21"
+        },
+        {
+            "id": 282,
             "bank": "CUSTOM HOUSE CURRENCY EXCHANGE (AUSTRALIA) PTY LTD",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "CHFXAU2S"
         },
         {
-            "id": 170,
+            "id": 283,
+            "bank": "D J CARMICHAEL PTY LIMITED",
+            "city": "PERTH",
+            "branch": null,
+            "swift_code": "CARHAU61"
+        },
+        {
+            "id": 284,
+            "bank": "D2MX PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "DTMXAU21"
+        },
+        {
+            "id": 285,
+            "bank": "DAIWA CAPITAL MARKETS AUSTRALIA LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "DWHKAU31"
+        },
+        {
+            "id": 286,
+            "bank": "DAIWA CAPITAL MARKETS STOCKBROKING LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "DWSBAU31"
+        },
+        {
+            "id": 287,
+            "bank": "DALTON NICOL REID",
+            "city": "BRISBANE",
+            "branch": null,
+            "swift_code": "DANDAU41"
+        },
+        {
+            "id": 288,
+            "bank": "DARLINGTON INVESTMENT SERVICES",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "DISEAU21"
+        },
+        {
+            "id": 289,
             "bank": "DBS BANK LTD., AUSTRALIA BRANCH",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "DBSSAU2S"
         },
         {
-            "id": 171,
+            "id": 290,
+            "bank": "DEUTSCHE ASSET MANAGEMENT (AUSTRALIA) LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "MGALAU21"
+        },
+        {
+            "id": 291,
             "bank": "DEUTSCHE BANK AG",
             "city": "SYDNEY",
             "branch": "(DEBT SECURITIES OPS)",
             "swift_code": "DEUTAU2SDSO"
         },
         {
-            "id": 172,
+            "id": 292,
             "bank": "DEUTSCHE BANK AG",
             "city": "SYDNEY",
             "branch": "(OFFSHORE BANKING UNIT)",
             "swift_code": "DEUTAU2SOBU"
         },
         {
-            "id": 173,
+            "id": 293,
             "bank": "DEUTSCHE BANK AG",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "DEUTAU2S"
         },
         {
-            "id": 174,
+            "id": 294,
             "bank": "DEUTSCHE CAPITAL MARKETS AUSTRALIA LTD.",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "DCMAAU2S"
         },
         {
-            "id": 175,
+            "id": 295,
+            "bank": "DEUTSCHE HOLDINGS AUSTRALIA LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "BACLAU21"
+        },
+        {
+            "id": 296,
+            "bank": "DEUTSCHE SECURITIES",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "DEECAU21"
+        },
+        {
+            "id": 297,
+            "bank": "DEUTSCHE SECURITIES AUSTRALIA LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "DEUTAUT1"
+        },
+        {
+            "id": 298,
             "bank": "DEUTSCHE SECURITIES AUSTRALIA LIMITED",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "DMGSAU2S"
         },
         {
-            "id": 176,
+            "id": 299,
+            "bank": "DICKSONS LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "DICSAU21"
+        },
+        {
+            "id": 300,
+            "bank": "DIRECT PORTFOLIO SERVICES LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "DIPSAU21"
+        },
+        {
+            "id": 301,
+            "bank": "DMP ASSET MANAGEMENT LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "DMAAAU31"
+        },
+        {
+            "id": 302,
+            "bank": "E TRADE AUSTRALIA SECURITIES LTD.",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "TRUUAU21"
+        },
+        {
+            "id": 303,
+            "bank": "EAUSTBOND PROPRIETARY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "EAUSAU21"
+        },
+        {
+            "id": 304,
+            "bank": "EC POHL AND CO",
+            "city": "GOLD COAST",
+            "branch": null,
+            "swift_code": "POHLAU41"
+        },
+        {
+            "id": 305,
+            "bank": "EIGHT INVESTMENT PARTNERS PTY LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "EIPPAU21"
+        },
+        {
+            "id": 306,
+            "bank": "EL AND C. BAILLIEU STOCKBROKING LTD.",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "BAILAU31"
+        },
+        {
+            "id": 307,
+            "bank": "ELSTREE INVESTMENT MANAGEMENT LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "EIMPAU21"
+        },
+        {
+            "id": 308,
+            "bank": "ENDEAVOR ASSET MANAGEMENT",
+            "city": "ALBERT PARK",
+            "branch": null,
+            "swift_code": "ENAMAU31"
+        },
+        {
+            "id": 309,
+            "bank": "ENFINIUM PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "ENPTAUS1"
+        },
+        {
+            "id": 310,
+            "bank": "EQUICLEAR PTY LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "EQPTAU31"
+        },
+        {
+            "id": 311,
+            "bank": "EQUITY TRUSTEES LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "EQTRAU31"
+        },
+        {
+            "id": 312,
+            "bank": "EUROZ SECURITIES LIMITED",
+            "city": "PERTH",
+            "branch": null,
+            "swift_code": "EUSUAU61"
+        },
+        {
+            "id": 313,
+            "bank": "EVANS AND PARTNERS PTY LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "EVPPAU31"
+        },
+        {
+            "id": 314,
+            "bank": "EVERGREEN CAPITAL",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "EVCPAU31"
+        },
+        {
+            "id": 315,
+            "bank": "FAIRVIEW EQUITY PARTNERS PTY LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "FEPTAU31"
+        },
+        {
+            "id": 316,
+            "bank": "FIDELITY INVESTMENTS AUSTRALIA LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "FIILAU21"
+        },
+        {
+            "id": 317,
+            "bank": "FIDUCIAN PORTFOLIO SERVICES LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "FPOSAU21"
+        },
+        {
+            "id": 318,
+            "bank": "FIIG SECURITIES LIMITED",
+            "city": "BRISBANE",
+            "branch": null,
+            "swift_code": "FIURAU41"
+        },
+        {
+            "id": 319,
+            "bank": "FINDLAY AND CO STOCKBROKERS LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "FITOAU21"
+        },
+        {
+            "id": 320,
             "bank": "FIRST COMMERCIAL BANK",
             "city": "BRISBANE",
             "branch": null,
             "swift_code": "FCBKAU4B"
         },
         {
-            "id": 177,
+            "id": 321,
+            "bank": "FITCH AUSTRALIA PTY LTD.",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "FRIPAUS1"
+        },
+        {
+            "id": 322,
+            "bank": "FOCUS ASSET MANAGEMENT PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "FAMYAU21"
+        },
+        {
+            "id": 323,
             "bank": "FORTESCUE METALS GROUP LTD",
             "city": "PERTH",
             "branch": null,
             "swift_code": "FMGLAU6P"
         },
         {
-            "id": 178,
+            "id": 324,
+            "bank": "FORTITUDE CAPITAL PTY LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "FOCPAU21"
+        },
+        {
+            "id": 325,
+            "bank": "FOSTER STOCKBROKING PTY LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "FSTPAU21"
+        },
+        {
+            "id": 326,
+            "bank": "FRANKLIN TEMPLETON INVESTMENTS AUSTRALIA LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "FTIAAU31"
+        },
+        {
+            "id": 327,
+            "bank": "FREEMAN FOX LTD",
+            "city": "BRISBANE",
+            "branch": null,
+            "swift_code": "LANCAU41"
+        },
+        {
+            "id": 328,
+            "bank": "FSP EQUITIES MANAGEMENT LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "FSEMAU21"
+        },
+        {
+            "id": 329,
+            "bank": "FUNDBPO",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "FBPOAU21"
+        },
+        {
+            "id": 330,
             "bank": "FUNDBPO PTY LTD",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "FUNPAU2S"
         },
         {
-            "id": 179,
+            "id": 331,
+            "bank": "FW HOLST AND CO PTY LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "HOLPAU31"
+        },
+        {
+            "id": 332,
+            "bank": "GENESIS INVESTMENT MANAGEMENT AUSTRALIA LTD",
+            "city": "CRAIGIEBURN",
+            "branch": null,
+            "swift_code": "GIMUAU21"
+        },
+        {
+            "id": 333,
+            "bank": "GIORGIO ARMANI AUSTRALIA PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "GAFIAU21"
+        },
+        {
+            "id": 334,
+            "bank": "GLEBE ASSET MANAGEMENT LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "GLAGAU21"
+        },
+        {
+            "id": 335,
+            "bank": "GLOBAL VALUE INVESTORS LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "GLVIAU21"
+        },
+        {
+            "id": 336,
+            "bank": "GMO AUSTRALIA LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "GMOAAU21"
+        },
+        {
+            "id": 337,
+            "bank": "GMP SECURITIES AUSTRALIA PTY LTD",
+            "city": "PERTH",
+            "branch": null,
+            "swift_code": "GSAPAU61"
+        },
+        {
+            "id": 338,
+            "bank": "GOLD CORPORATION",
+            "city": "PERTH",
+            "branch": null,
+            "swift_code": "GCOPAU61"
+        },
+        {
+            "id": 339,
+            "bank": "GOLDMAN SACHS AUSTRALIA FUTURES PTY LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "GSPAAU31"
+        },
+        {
+            "id": 340,
+            "bank": "GOLDMAN SACHS AUSTRALIA LLC",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "GOLDAU21"
+        },
+        {
+            "id": 341,
+            "bank": "GOLDMAN SACHS AUSTRALIA PTY LTD",
+            "city": "MELBOURNE",
+            "branch": "(HEAD OFFICE)",
+            "swift_code": "JBWLAU31"
+        },
+        {
+            "id": 342,
+            "bank": "GOLDMAN SACHS AUSTRALIA PTY LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "JBWLAU31GSA"
+        },
+        {
+            "id": 343,
             "bank": "GOLDMAN SACHS FINANCIAL MARKETS PTY LTD",
             "city": "MELBOURNE",
             "branch": null,
             "swift_code": "GOLDAU2S"
         },
         {
-            "id": 180,
+            "id": 344,
+            "bank": "GOLDMAN SACHS JBWERE CAPITAL MARKETS LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "JBWEAU31"
+        },
+        {
+            "id": 345,
+            "bank": "GREEN LINE INVESTOR SERVICES LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "POSEAU21"
+        },
+        {
+            "id": 346,
+            "bank": "GRESHAM SECURITIES PTY LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "GSELAU21"
+        },
+        {
+            "id": 347,
+            "bank": "GUILD CAPITAL ASSET MANAGEMENT LIMITED",
+            "city": "HAWTHORN",
+            "branch": null,
+            "swift_code": "GCAMAU31"
+        },
+        {
+            "id": 348,
+            "bank": "HAMBROS EQUITIES LTD.",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "HAEQAU21"
+        },
+        {
+            "id": 349,
+            "bank": "HARTLEYS LIMITED",
+            "city": "PERTH",
+            "branch": null,
+            "swift_code": "HARPAU61"
+        },
+        {
+            "id": 350,
+            "bank": "HARVEY BAYLEY AND CO.",
+            "city": "HOBART",
+            "branch": null,
+            "swift_code": "HAEYAU71"
+        },
+        {
+            "id": 351,
+            "bank": "HASTINGS FUNDS MANAGEMENT LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "HAFNAU21"
+        },
+        {
+            "id": 352,
+            "bank": "HEADLAND CAPITAL PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "HECTAU21"
+        },
+        {
+            "id": 353,
             "bank": "HERITAGE BANK LIMITED",
             "city": "TOOWOOMBA",
             "branch": null,
             "swift_code": "HBSLAU4T"
         },
         {
-            "id": 181,
+            "id": 354,
+            "bank": "HERSCHEL ASSET MANAGEMENT LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "HEAMAU31"
+        },
+        {
+            "id": 355,
+            "bank": "HEWLETT-PACKARD AUSTRALIA PTY. LIMITED",
+            "city": "BLACKBURN",
+            "branch": null,
+            "swift_code": "HEAPAU31"
+        },
+        {
+            "id": 356,
+            "bank": "HFA ASSET MANAGEMENT",
+            "city": "BRISBANE",
+            "branch": null,
+            "swift_code": "HFAMAU41"
+        },
+        {
+            "id": 357,
+            "bank": "HG ASIA LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "ASAAAU21"
+        },
+        {
+            "id": 358,
+            "bank": "HOGAN AND PARTNERS",
+            "city": "PERTH",
+            "branch": null,
+            "swift_code": "HOGPAU61"
+        },
+        {
+            "id": 359,
             "bank": "HSBC BANK AUSTRALIA LIMITED",
             "city": "ADELAIDE",
             "branch": "(ADELAIDE BRANCH)",
             "swift_code": "HKBAAU2SADL"
         },
         {
-            "id": 182,
+            "id": 360,
             "bank": "HSBC BANK AUSTRALIA LIMITED",
             "city": "BRISBANE",
             "branch": "(BRISBANE BRANCH)",
             "swift_code": "HKBAAU2SBNE"
         },
         {
-            "id": 183,
+            "id": 361,
             "bank": "HSBC BANK AUSTRALIA LIMITED",
             "city": "MELBOURNE",
             "branch": null,
             "swift_code": "HKBAAU2SMEL"
         },
         {
-            "id": 184,
+            "id": 362,
             "bank": "HSBC BANK AUSTRALIA LIMITED",
             "city": "PERTH",
             "branch": "(PERTH BRANCH)",
             "swift_code": "HKBAAU2SPTH"
         },
         {
-            "id": 185,
+            "id": 363,
             "bank": "HSBC BANK AUSTRALIA LIMITED",
             "city": "SYDNEY",
             "branch": "(CLS DIVISION)",
             "swift_code": "HKBAAU2SCLS"
         },
         {
-            "id": 186,
+            "id": 364,
             "bank": "HSBC BANK AUSTRALIA LIMITED",
             "city": "SYDNEY",
             "branch": "(HSBC BANK AUSTRALIA LTD)",
             "swift_code": "HKBAAU2SBAU"
         },
         {
-            "id": 187,
+            "id": 365,
             "bank": "HSBC BANK AUSTRALIA LIMITED",
             "city": "SYDNEY",
             "branch": "(SYDNEY HAYMARKET BRANCH)",
             "swift_code": "HKBAAU2SSYC"
         },
         {
-            "id": 188,
+            "id": 366,
             "bank": "HSBC BANK AUSTRALIA LIMITED",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "HKBAAU2S"
         },
         {
-            "id": 189,
+            "id": 367,
             "bank": "HSBC BANK AUSTRALIA LIMITED",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "HKBAAU2SSYD"
         },
         {
-            "id": 190,
+            "id": 368,
+            "bank": "HSBC SECURITIES",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "JACAAU21"
+        },
+        {
+            "id": 369,
             "bank": "HUA NAN COMMERCIAL BANK SYDNEY BRANCH",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "HNBKAU2S"
         },
         {
-            "id": 191,
+            "id": 370,
+            "bank": "HUB24 CUSTODIAL SERVICES PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "HSEPAU21"
+        },
+        {
+            "id": 371,
+            "bank": "HUDSON CONWAY INVESTMENTS PTY LTD",
+            "city": "SOUTHBANK",
+            "branch": null,
+            "swift_code": "HCIPAU31"
+        },
+        {
+            "id": 372,
+            "bank": "HUNTER HALL INVESTMENT MANAGEMENT LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "HHIMAU21"
+        },
+        {
+            "id": 373,
+            "bank": "ICAP FUTURES (AUSTRALIA) PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "IFAYAU21"
+        },
+        {
+            "id": 374,
+            "bank": "IFM AUSTRALIAN SUPER BUYBACK PORTFOLIO",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "IASBAU31"
+        },
+        {
+            "id": 375,
+            "bank": "IFM AUSTRALIAN SUPER PASSIVE AUSTRALIAN EQUITIES",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "IASPAU31"
+        },
+        {
+            "id": 376,
+            "bank": "IFM CBUS BUYBACK PORTFOLIO",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "ICBFAU31"
+        },
+        {
+            "id": 377,
+            "bank": "IFM CBUS PASSIVE AUSTRALIAN EQUITIES",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "ICPAAU31"
+        },
+        {
+            "id": 378,
+            "bank": "IFM HESTA BUYBACK PORTFOLIO",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "IHBOAU31"
+        },
+        {
+            "id": 379,
+            "bank": "IFM HESTA PASSIVE AUSTRALIAN EQUITIES",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "IHPAAU31"
+        },
+        {
+            "id": 380,
+            "bank": "IFM HOSTPLUS BUYBACK PORTFOLIO",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "IHBPAU31"
+        },
+        {
+            "id": 381,
+            "bank": "IFM HOSTPLUS PASSIVE AUSTRALIAN EQUITIES",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "IHPUAU31"
+        },
+        {
+            "id": 382,
             "bank": "IFM INVESTORS PTY LTD",
             "city": "MELBOURNE",
             "branch": null,
             "swift_code": "IFMPAU3A"
         },
         {
-            "id": 192,
+            "id": 383,
+            "bank": "IFM LEF PST TAX EXEMPT OPTION",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "ILPAAU31"
+        },
+        {
+            "id": 384,
+            "bank": "IFM LEF PST TAXED OPTION",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "ILPTAU31"
+        },
+        {
+            "id": 385,
+            "bank": "IFM VISION SUPER BUYBACK PORTFOLIO",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "IVSUAU31"
+        },
+        {
+            "id": 386,
+            "bank": "IMPERIA INVESTMENT GROUP PTY LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "IIGPAU31"
+        },
+        {
+            "id": 387,
             "bank": "INCITEC PIVOT LIMITED",
             "city": "SOUTHBANK",
             "branch": null,
             "swift_code": "IPLXAU3M"
         },
         {
-            "id": 193,
+            "id": 388,
             "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA SYDNEY BRANCH",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "ICBKAU2S"
         },
         {
-            "id": 194,
+            "id": 389,
+            "bank": "INDUSTRY FUNDS MANAGEMENT PTY LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "IFMPAU31"
+        },
+        {
+            "id": 390,
             "bank": "ING BANK (AUSTRALIA) LIMITED",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "INGBAU2S"
         },
         {
-            "id": 195,
+            "id": 391,
             "bank": "ING BANK NV, SYDNEY BRANCH",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "INGAAU2S"
         },
         {
-            "id": 196,
+            "id": 392,
             "bank": "INPEX OPERATIONS AUSTRALIA PTY LTD",
             "city": "PERTH",
             "branch": null,
             "swift_code": "INPXAU6P"
         },
         {
-            "id": 197,
+            "id": 393,
+            "bank": "INSTINET AUSTRALIA PTY LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "ISNTAU21"
+        },
+        {
+            "id": 394,
+            "bank": "INSTINET AUSTRALIA PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "IACSAU21"
+        },
+        {
+            "id": 395,
+            "bank": "INTELLIGENT INVESTOR FUNDS",
+            "city": "RUSHCUTTERS BAY",
+            "branch": null,
+            "swift_code": "ITIFAU21"
+        },
+        {
+            "id": 396,
+            "bank": "INTERSUISSE LTD.",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "INSUAU21"
+        },
+        {
+            "id": 397,
+            "bank": "INTRINSIC INVESTMENT MANAGEMENT PTY LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "IIMYAU31"
+        },
+        {
+            "id": 398,
             "bank": "INVESTEC AUSTRALIA LIMITED",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "IVESAU22"
         },
         {
-            "id": 198,
+            "id": 399,
+            "bank": "INVESTEC SECURITIES",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "IVECAU21"
+        },
+        {
+            "id": 400,
+            "bank": "INVESTMENT ADMINISTRATION SERVICES PTY LIMITED",
+            "city": "MANLY",
+            "branch": null,
+            "swift_code": "MOPTAU21"
+        },
+        {
+            "id": 401,
+            "bank": "INVESTORS MUTUAL LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "INMUAU21"
+        },
+        {
+            "id": 402,
+            "bank": "INVIA CUSTODIAN PTY LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "INUPAU31"
+        },
+        {
+            "id": 403,
+            "bank": "IOOF FUNDS MANAGEMENT",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "IOFMAU31"
+        },
+        {
+            "id": 404,
             "bank": "IRESS MARKET TECHNOLOGY LIMITED",
             "city": "MELBOURNE",
             "branch": null,
             "swift_code": "IRESAU2S"
         },
         {
-            "id": 199,
+            "id": 405,
+            "bank": "ITG AUSTRALIA LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "ITGAAU31"
+        },
+        {
+            "id": 406,
+            "bank": "ITG AUSTRALIA LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "BUROAU21"
+        },
+        {
+            "id": 407,
             "bank": "J.P. MORGAN AUSTRALIA LIMITED",
             "city": "SYDNEY",
             "branch": "(SYDNEY MONEY MARKETS)",
             "swift_code": "JPMAAU2XSMM"
         },
         {
-            "id": 200,
+            "id": 408,
             "bank": "J.P. MORGAN AUSTRALIA LIMITED",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "JPMAAU2X"
         },
         {
-            "id": 201,
+            "id": 409,
+            "bank": "JARDINE FLEMING AUSTRALIA SECURITIES LTD.",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "JFASAU21"
+        },
+        {
+            "id": 410,
+            "bank": "JDV LIMITED",
+            "city": "PERTH",
+            "branch": null,
+            "swift_code": "JDVDAU61"
+        },
+        {
+            "id": 411,
+            "bank": "JF CAPITAL PARTNERS LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "CPPNAU31"
+        },
+        {
+            "id": 412,
+            "bank": "JFOM PTY LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "JARDAU21"
+        },
+        {
+            "id": 413,
+            "bank": "JM ASSET MANAGEMENT",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "ASMEAU31"
+        },
+        {
+            "id": 414,
+            "bank": "JOSEPH PALMER AND SONS",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "JPALAU21"
+        },
+        {
+            "id": 415,
+            "bank": "JP MORGAN INVESTMENT MANAGEMENT LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "MOIMAU31"
+        },
+        {
+            "id": 416,
+            "bank": "JP MORGAN SECURITIES AUSTRALIA LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "JPMSAU2103M"
+        },
+        {
+            "id": 417,
+            "bank": "JP MORGAN SECURITIES AUSTRALIA LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "JPMSAU21"
+        },
+        {
+            "id": 418,
             "bank": "JPMORGAN CHASE BANK, N.A.",
             "city": "SYDNEY",
             "branch": "(DIRECT CUSTODY AND CLEARING)",
             "swift_code": "CHASAU2XDCC"
         },
         {
-            "id": 202,
+            "id": 419,
             "bank": "JPMORGAN CHASE BANK, N.A.",
             "city": "SYDNEY",
             "branch": "(GLOBAL SECURITY SERVICES)",
             "swift_code": "CHASAU2XGSS"
         },
         {
-            "id": 203,
+            "id": 420,
             "bank": "JPMORGAN CHASE BANK, N.A.",
             "city": "SYDNEY",
             "branch": "(HEAD OFFICE)",
             "swift_code": "CHASAU2X"
         },
         {
-            "id": 204,
+            "id": 421,
             "bank": "JPMORGAN CHASE BANK, N.A.",
             "city": "SYDNEY",
             "branch": "(LOCAL CUSTODY OPERATIONS)",
             "swift_code": "CHASAU2XLCO"
         },
         {
-            "id": 205,
+            "id": 422,
             "bank": "JPMORGAN CHASE BANK, N.A.",
             "city": "SYDNEY",
             "branch": "(SYDNEY MONEY MARKET)",
             "swift_code": "CHASAU2XSMM"
         },
         {
-            "id": 206,
+            "id": 423,
             "bank": "JPMORGAN CHASE BANK, N.A.",
             "city": "SYDNEY",
             "branch": "(SYDNEY PAYMENT OPERATIONS)",
             "swift_code": "CHASAU2XSPO"
         },
         {
-            "id": 207,
+            "id": 424,
             "bank": "JPMORGAN CHASE BANK, N.A.",
             "city": "SYDNEY",
             "branch": "(SYDNEY TREASURY OPERATIONS)",
             "swift_code": "CHASAU2XSTO"
         },
         {
-            "id": 208,
+            "id": 425,
             "bank": "JPMORGAN CHASE BANK, N.A.",
             "city": "SYDNEY",
             "branch": "(TEST KEY AND BKE ADMINISTRATION)",
             "swift_code": "CHASAU2XKEY"
         },
         {
-            "id": 209,
+            "id": 426,
             "bank": "JPMORGAN CHASE BANK, N.A.",
             "city": "SYDNEY",
             "branch": "(TRADE SERVICES DESK)",
             "swift_code": "CHASAU2XTSD"
         },
         {
-            "id": 210,
+            "id": 427,
             "bank": "JPMORGAN CHASE BANK, N.A.",
             "city": "SYDNEY",
             "branch": "(WSS LOCAL CUSTODIAN SERVICES)",
             "swift_code": "CHASAU2XCCS"
         },
         {
-            "id": 211,
+            "id": 428,
+            "bank": "K.J. POLKINGHORNE AND CO. PTY. LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "POLKAU21"
+        },
+        {
+            "id": 429,
+            "bank": "K2 ASSET MANAGEMENT",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "ASNTAU31"
+        },
+        {
+            "id": 430,
+            "bank": "KARARA CAPITAL LTD.",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "KARAAU31"
+        },
+        {
+            "id": 431,
+            "bank": "KATANA CAPITAL LIMITED",
+            "city": "PERTH",
+            "branch": null,
+            "swift_code": "KATAAU61"
+        },
+        {
+            "id": 432,
             "bank": "KEB HANA BANK SYDNEY BRANCH (FORMERLY KOREA EXCHANGE BANK SYDNEY BRANCH)",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "KOEXAU2S"
         },
         {
-            "id": 212,
+            "id": 433,
+            "bank": "KELBOURNE SECURITIES LTD.",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "KESEAU21"
+        },
+        {
+            "id": 434,
+            "bank": "KIMA CAPITAL MANAGEMENT PTY LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "KICAAU31"
+        },
+        {
+            "id": 435,
+            "bank": "KIRKE SECURITIES LIMITED",
+            "city": "PERTH",
+            "branch": null,
+            "swift_code": "KIRKAU61"
+        },
+        {
+            "id": 436,
+            "bank": "KIS CAPITAL PARTNERS PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "KCPPAU21"
+        },
+        {
+            "id": 437,
+            "bank": "L1 CAPITAL",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "CTPAAU31"
+        },
+        {
+            "id": 438,
+            "bank": "LAMINAR GROUP PTY LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "LAGPAU31"
+        },
+        {
+            "id": 439,
+            "bank": "LANDS KIRWAN TONG STOCKBROKERS PTY LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "LKTSAU31"
+        },
+        {
+            "id": 440,
+            "bank": "LAZARD ASSET MANAGEMENT",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "LAMNAU21"
+        },
+        {
+            "id": 441,
+            "bank": "LB MANAGEMENT PTY LTD AS TRUSTEE LAGUNA BAY CAPITAL MT",
+            "city": "BRISBANE",
+            "branch": null,
+            "swift_code": "MPTLAU41"
+        },
+        {
+            "id": 442,
+            "bank": "LEGG MASON ASSET MANAGEMENT AUSTRALIA LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "CAGUAU31"
+        },
+        {
+            "id": 443,
+            "bank": "LEHMAN BROTHERS AUSTRALIA LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "GRSUAU21"
+        },
+        {
+            "id": 444,
+            "bank": "LEHMAN BROTHERS AUSTRALIA SECURITIES PTY LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "LBATAU21"
+        },
+        {
+            "id": 445,
+            "bank": "LFG HOLDINGS PTY LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "LFGHAU21"
+        },
+        {
+            "id": 446,
+            "bank": "LHC CAPITAL",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "LHCCAU21"
+        },
+        {
+            "id": 447,
+            "bank": "LINCOLN INDICATORS PTY LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "LIIDAU31"
+        },
+        {
+            "id": 448,
+            "bank": "LINWAR SECURITIES PTY LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "LIEPAU21"
+        },
+        {
+            "id": 449,
+            "bank": "LIQUID CAPITAL AUSTRALIA PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "LCATAU21"
+        },
+        {
+            "id": 450,
+            "bank": "LIQUIDNET AUSTRALIA PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "LIAPAU21"
+        },
+        {
+            "id": 451,
+            "bank": "LODESTAR CAPITAL PARTNERS PTY LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "LCPPAU21"
+        },
+        {
+            "id": 452,
+            "bank": "LODGE PARTNERS PTY LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "LODGAU31"
+        },
+        {
+            "id": 453,
+            "bank": "LONSEC LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "LONSAU31"
+        },
+        {
+            "id": 454,
+            "bank": "MACARTHURCOOK FUNDS MANAGEMENT REAL ESTATE INVESTMENT MANAGERS",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "MFUGAU31"
+        },
+        {
+            "id": 455,
+            "bank": "MACQUARIE - PRIVATE BROKING",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "MAPBAU21"
+        },
+        {
+            "id": 456,
             "bank": "MACQUARIE BANK LIMITED",
             "city": "SYDNEY",
             "branch": "(FUTURES BROKERAGE)",
             "swift_code": "MACQAU2STC2"
         },
         {
-            "id": 213,
+            "id": 457,
             "bank": "MACQUARIE BANK LIMITED",
             "city": "SYDNEY",
             "branch": "(FUTURES CLEARING)",
             "swift_code": "MACQAU2STC1"
         },
         {
-            "id": 214,
+            "id": 458,
             "bank": "MACQUARIE BANK LIMITED",
             "city": "SYDNEY",
             "branch": "(SECURITIES)",
             "swift_code": "MACQAU2SSMK"
         },
         {
-            "id": 215,
+            "id": 459,
             "bank": "MACQUARIE BANK LIMITED",
             "city": "SYDNEY",
             "branch": "(VOSTRO ACCOUNT PROCESSING)",
             "swift_code": "MACQAU2SVOS"
         },
         {
-            "id": 216,
+            "id": 460,
             "bank": "MACQUARIE BANK LIMITED",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "MACQAU2S"
         },
         {
-            "id": 217,
+            "id": 461,
             "bank": "MACQUARIE BANK LIMITED",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "MACQAU2SOBU"
         },
         {
-            "id": 218,
+            "id": 462,
+            "bank": "MACQUARIE CAPITAL SECURITIES (AUSTRALIA) LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "MSAUAU21"
+        },
+        {
+            "id": 463,
             "bank": "MACQUARIE INVESTMENT MANAGEMENT LTD.",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "MACQAU2I"
         },
         {
-            "id": 219,
+            "id": 464,
+            "bank": "MAGELLAN ASSET MANAGEMENT",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "MGAGAU21"
+        },
+        {
+            "id": 465,
             "bank": "MAPLE-BROWN ABBOTT LTD",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "MBBAAU2S"
         },
         {
-            "id": 220,
+            "id": 466,
+            "bank": "MARATHON ASSET MANAGEMENT AUSTRALIA LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "MAMUAU21"
+        },
+        {
+            "id": 467,
+            "bank": "MARVIN AND PALMER ASSOCIATES INC",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "MAPSAU21"
+        },
+        {
+            "id": 468,
+            "bank": "MASON STEVENS PTY LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "MATYAU21"
+        },
+        {
+            "id": 469,
+            "bank": "MAXIM ASSET MANAGEMENT LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "SIMPAU21"
+        },
+        {
+            "id": 470,
+            "bank": "MBA INVESTMENTS PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "MBIPAU21"
+        },
+        {
+            "id": 471,
+            "bank": "MCKINLEY WILSON LTD.",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "MCWIAU31"
+        },
+        {
+            "id": 472,
             "bank": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD, SYDNEY BRANCH",
             "city": "BRISBANE",
             "branch": "(BRISBANE BRANCH)",
             "swift_code": "ICBCAU2SBRI"
         },
         {
-            "id": 221,
+            "id": 473,
             "bank": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD, SYDNEY BRANCH",
             "city": "MELBOURNE",
             "branch": "(MELBOURNE BRANCH)",
             "swift_code": "ICBCAU2SMEL"
         },
         {
-            "id": 222,
+            "id": 474,
             "bank": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD, SYDNEY BRANCH",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "ICBCAU2S"
         },
         {
-            "id": 223,
+            "id": 475,
             "bank": "MEMBERS EQUITY BANK PTY LTD",
             "city": "MELBOURNE",
             "branch": null,
             "swift_code": "MEQBAU3M"
         },
         {
-            "id": 224,
+            "id": 476,
+            "bank": "MERCANTILE CREDITS PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "MECSAU21"
+        },
+        {
+            "id": 477,
             "bank": "MERCEDES-BENZ AUSTRALIA\/PACIFIC PTY LTD",
             "city": "MULGRAVE",
             "branch": null,
             "swift_code": "DCAGAU33"
         },
         {
-            "id": 225,
+            "id": 478,
             "bank": "MERCEDES-BENZ FINANCIAL SERVICES AUSTRALIA PTY. LTD.",
             "city": "MULGRAVE",
             "branch": null,
             "swift_code": "DCFSAU33"
         },
         {
-            "id": 226,
+            "id": 479,
+            "bank": "MERCER INVESTMENT CONSULTING",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "MICTAU31"
+        },
+        {
+            "id": 480,
+            "bank": "MERRILL LYNCH (AUSTRALIA) PTY LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "MELMAU31"
+        },
+        {
+            "id": 481,
             "bank": "MERRILL LYNCH EQUITIES (AUSTRALIA) LTD",
             "city": "MELBOURNE",
             "branch": "(ML AUSTRALIA NOMINEES OPERATIONS)",
             "swift_code": "MLEQAU2SMLN"
         },
         {
-            "id": 227,
+            "id": 482,
             "bank": "MERRILL LYNCH EQUITIES (AUSTRALIA) LTD",
             "city": "MELBOURNE",
             "branch": "(ML EQUITIES SETTLEMENT OPERATIONS)",
             "swift_code": "MLEQAU2SMLS"
         },
         {
-            "id": 228,
+            "id": 483,
             "bank": "MERRILL LYNCH EQUITIES (AUSTRALIA) LTD",
             "city": "SYDNEY",
             "branch": "(FUTURES AND OPTIONS OPERATIONS)",
             "swift_code": "MLEQAU2SFFO"
         },
         {
-            "id": 229,
+            "id": 484,
             "bank": "MERRILL LYNCH EQUITIES (AUSTRALIA) LTD",
             "city": "SYDNEY",
             "branch": "(ML MARKETS)",
             "swift_code": "MLEQAU2SMLM"
         },
         {
-            "id": 230,
+            "id": 485,
             "bank": "MERRILL LYNCH EQUITIES (AUSTRALIA) LTD",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "MLEQAU2S"
         },
         {
-            "id": 231,
+            "id": 486,
             "bank": "MERRILL LYNCH EQUITIES (AUSTRALIA) LTD",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "MLEQAU2SMLT"
         },
         {
-            "id": 232,
+            "id": 487,
+            "bank": "MERRILL LYNCH EQUITIES AUSTRAILIA LTD. MELBOURNE",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "MLEAAU31"
+        },
+        {
+            "id": 488,
+            "bank": "MERRILL LYNCH PRIVATE (AUSTRALIA) LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "ROACAU31"
+        },
+        {
+            "id": 489,
+            "bank": "MF GLOBAL AUSTRALIA LIMITED",
+            "city": "BRISBANE",
+            "branch": null,
+            "swift_code": "MFAUAU41"
+        },
+        {
+            "id": 490,
+            "bank": "MIDLAND SECURITIES LTD.",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "MSLAAU21"
+        },
+        {
+            "id": 491,
+            "bank": "MILLENNIUM WEALTH",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "MILWAU21"
+        },
+        {
+            "id": 492,
+            "bank": "MIR INVESTMENT MANAGEMENT PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "MIMAAU21"
+        },
+        {
+            "id": 493,
             "bank": "MIZUHO BANK, LTD. SYDNEY BRANCH",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "MHCBAU2S"
         },
         {
-            "id": 233,
+            "id": 494,
+            "bank": "MM AND E CAPITAL",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "MMECAU31"
+        },
+        {
+            "id": 495,
+            "bank": "MMC ASSET MANAGEMENT LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "MMAMAU21"
+        },
+        {
+            "id": 496,
+            "bank": "MOBIS PARTS AUSTRALIA, PTY LTD.",
+            "city": "BLACK ROCK",
+            "branch": null,
+            "swift_code": "HYMOAU21"
+        },
+        {
+            "id": 497,
+            "bank": "MOELIS AUSTRALIA SECURITIES PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "MASYAU21"
+        },
+        {
+            "id": 498,
+            "bank": "MONTAGU STOCKBROKERS PTY LTD",
+            "city": "PERTH",
+            "branch": null,
+            "swift_code": "MONPAU61"
+        },
+        {
+            "id": 499,
+            "bank": "MONTERREY INVESTMENT MANAGEMENT LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "MIMGAU31"
+        },
+        {
+            "id": 500,
+            "bank": "MONTGOMERY INVESTMENT MANAGEMENT",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "MOIGAU21"
+        },
+        {
+            "id": 501,
+            "bank": "MOODY'S INVESTORS SERVICE PTY. LTD.",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "MIEPAU21"
+        },
+        {
+            "id": 502,
+            "bank": "MORGAN STANLEY AUSTRALIA SECURITIES LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "MSDIAU21"
+        },
+        {
+            "id": 503,
+            "bank": "MORGAN STANLEY INTERNATIONAL INCORPORATED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "MSIIAU21"
+        },
+        {
+            "id": 504,
+            "bank": "MORGAN STANLEY INVESTMENT MANAGEMENT",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "MSIMAU31"
+        },
+        {
+            "id": 505,
+            "bank": "MORGAN STANLEY WEALTH MANAGEMENT AUSTRALIA PTY LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "MSSYAU31"
+        },
+        {
+            "id": 506,
+            "bank": "MORGANS FINANCIAL LIMITED",
+            "city": "BRISBANE",
+            "branch": null,
+            "swift_code": "ABAOAU41"
+        },
+        {
+            "id": 507,
+            "bank": "MORGANS FINANCIAL LIMITED",
+            "city": "BRISBANE",
+            "branch": null,
+            "swift_code": "ABAOAU41BNE"
+        },
+        {
+            "id": 508,
+            "bank": "MORPHIC ASSET MANAGEMENT PTY LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "MAAYAU21"
+        },
+        {
+            "id": 509,
+            "bank": "MORRISON SECURITIES PTY LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "MOEPAU21"
+        },
+        {
+            "id": 510,
+            "bank": "MST CAPITAL PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "MSCTAUS1"
+        },
+        {
+            "id": 511,
+            "bank": "MWH CAPITAL PTY LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "MWCPAU31"
+        },
+        {
+            "id": 512,
             "bank": "NABINVEST CAPITAL PARTNERS PTY LTD",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "NBNVAU2S"
         },
         {
-            "id": 234,
+            "id": 513,
+            "bank": "NAOS ASSET MANAGEMENT LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "NAOSAU21"
+        },
+        {
+            "id": 514,
             "bank": "NATIONAL AUSTRALIA BANK LIMITED",
             "city": "ADELAIDE",
             "branch": "(TRADE AND INTERNATIONAL PAYMENTS)",
             "swift_code": "NATAAU3305A"
         },
         {
-            "id": 235,
+            "id": 515,
             "bank": "NATIONAL AUSTRALIA BANK LIMITED",
             "city": "BRISBANE",
             "branch": "(TRADE AND INTERNATIONAL PAYMENTS)",
             "swift_code": "NATAAU3304B"
         },
         {
-            "id": 236,
+            "id": 516,
             "bank": "NATIONAL AUSTRALIA BANK LIMITED",
             "city": "DARWIN",
             "branch": null,
             "swift_code": "NATAAU3308D"
         },
         {
-            "id": 237,
+            "id": 517,
             "bank": "NATIONAL AUSTRALIA BANK LIMITED",
             "city": "HOBART",
             "branch": "(TASMANIA INTERNATIONAL SERVICE CENTRE)",
             "swift_code": "NATAAU3307H"
         },
         {
-            "id": 238,
+            "id": 518,
             "bank": "NATIONAL AUSTRALIA BANK LIMITED",
             "city": "MELBOURNE",
             "branch": "(ASSET SERVICING)",
             "swift_code": "NATAAU3303X"
         },
         {
-            "id": 239,
+            "id": 519,
             "bank": "NATIONAL AUSTRALIA BANK LIMITED",
             "city": "MELBOURNE",
             "branch": "(CLS CONTROL BRANCH)",
             "swift_code": "NATAAU33CLS"
         },
         {
-            "id": 240,
+            "id": 520,
             "bank": "NATIONAL AUSTRALIA BANK LIMITED",
             "city": "MELBOURNE",
             "branch": "(HEAD OFFICE)",
             "swift_code": "NATAAU33033"
         },
         {
-            "id": 241,
+            "id": 521,
             "bank": "NATIONAL AUSTRALIA BANK LIMITED",
             "city": "MELBOURNE",
             "branch": "(OFFSHORE BANKING UNIT)",
             "swift_code": "NATAAU33OBU"
         },
         {
-            "id": 242,
+            "id": 522,
             "bank": "NATIONAL AUSTRALIA BANK LIMITED",
             "city": "MELBOURNE",
             "branch": "(TRADE AND INTERNATIONAL PAYMENTS)",
             "swift_code": "NATAAU3303M"
         },
         {
-            "id": 243,
+            "id": 523,
             "bank": "NATIONAL AUSTRALIA BANK LIMITED",
             "city": "MELBOURNE",
             "branch": "(TREASURY OPERATIONS)",
             "swift_code": "NATAAU3303T"
         },
         {
-            "id": 244,
+            "id": 524,
             "bank": "NATIONAL AUSTRALIA BANK LIMITED",
             "city": "MELBOURNE",
             "branch": "(VOSTRO CLIENT SERVICES)",
             "swift_code": "NATAAU33032"
         },
         {
-            "id": 245,
+            "id": 525,
             "bank": "NATIONAL AUSTRALIA BANK LIMITED",
             "city": "MELBOURNE",
             "branch": null,
             "swift_code": "NATAAU33"
         },
         {
-            "id": 246,
+            "id": 526,
             "bank": "NATIONAL AUSTRALIA BANK LIMITED",
             "city": "PERTH",
             "branch": "(PERTH, BNZA DIVISION)",
             "swift_code": "NATAAU3306Z"
         },
         {
-            "id": 247,
+            "id": 527,
             "bank": "NATIONAL AUSTRALIA BANK LIMITED",
             "city": "PERTH",
             "branch": "(TRADE AND INTERNATIONAL PAYMENTS)",
             "swift_code": "NATAAU3306P"
         },
         {
-            "id": 248,
+            "id": 528,
             "bank": "NATIONAL AUSTRALIA BANK LIMITED",
             "city": "SYDNEY",
             "branch": "(CUSTODIAN SERVICES)",
             "swift_code": "NATAAU3302X"
         },
         {
-            "id": 249,
+            "id": 529,
             "bank": "NATIONAL AUSTRALIA BANK LIMITED",
             "city": "SYDNEY",
             "branch": "(SYDNEY, BNZA DIVISION)",
             "swift_code": "NATAAU3302Z"
         },
         {
-            "id": 250,
+            "id": 530,
             "bank": "NATIONAL AUSTRALIA BANK LIMITED",
             "city": "SYDNEY",
             "branch": "(TRADE AND INTERNATIONAL PAYMENTS)",
             "swift_code": "NATAAU3302S"
         },
         {
-            "id": 251,
+            "id": 531,
             "bank": "NATIONAL AUSTRALIA BANK LIMITED",
             "city": "WANTIRNA SOUTH",
             "branch": "(BILATERAL AUTHENTICATION KEY MANAGEMENT OFFICE)",
             "swift_code": "NATAAU3302J"
         },
         {
-            "id": 252,
+            "id": 532,
+            "bank": "NATIONAL AUSTRALIA SECURITIES LIMITED",
+            "city": "DOCKLANDS",
+            "branch": null,
+            "swift_code": "NAAEAU31"
+        },
+        {
+            "id": 533,
+            "bank": "NATIONAL ONLINE TRADING LIMITED",
+            "city": "PERTH",
+            "branch": null,
+            "swift_code": "NAOTAU61"
+        },
+        {
+            "id": 534,
+            "bank": "NATIONAL WESTMINSTER FINANCE AUSTRALIA LTD.",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "NWFAAU21"
+        },
+        {
+            "id": 535,
+            "bank": "NEW SOUTH WALES TREASURY CORPORATION",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "NSWTAU21"
+        },
+        {
+            "id": 536,
+            "bank": "NICHOLAS-APPLEGATE CAPITAL MANAGEMENT-A CALIFORNIALIMITED PARTNERSHIP",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "NACAAU31"
+        },
+        {
+            "id": 537,
+            "bank": "NIKE AUSTRALIA PTY. LTD.",
+            "city": "ABBOTSFORD",
+            "branch": null,
+            "swift_code": "NIKEAU31"
+        },
+        {
+            "id": 538,
+            "bank": "NIKKO SECURITIES (AUSTRALIA) LTD.",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "NSEAAU21"
+        },
+        {
+            "id": 539,
             "bank": "NOMURA AUSTRALIA LIMITED",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "NOAUAU2S"
         },
         {
-            "id": 253,
+            "id": 540,
+            "bank": "NORTHCAPE CAPITAL PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "HICTAU21"
+        },
+        {
+            "id": 541,
+            "bank": "OASIS ASSET MANAGEMENT LIMITED",
+            "city": "WOLLONGONG",
+            "branch": null,
+            "swift_code": "OAAMAU21"
+        },
+        {
+            "id": 542,
+            "bank": "OC FUNDS MANAGEMENT",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "OPCAAU31"
+        },
+        {
+            "id": 543,
+            "bank": "OLIVETREE SECURITIES (ASIA)",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "OLVTAU21"
+        },
+        {
+            "id": 544,
+            "bank": "OMEGA GLOBAL INVESTORS",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "OMGIAU31"
+        },
+        {
+            "id": 545,
+            "bank": "OPENMARKETS AUSTRALIA LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "OPAUAU31"
+        },
+        {
+            "id": 546,
+            "bank": "OPES PRIME STOCKBROKING LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "OPPSAU31"
+        },
+        {
+            "id": 547,
+            "bank": "OPHIR ASSET MANAGEMENT",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "OPANAU21"
+        },
+        {
+            "id": 548,
+            "bank": "OPTIONS CLEARING HOUSE PTY LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "XAOMAU21"
+        },
+        {
+            "id": 549,
+            "bank": "OPTIVER AUSTRALIA PTY LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "OPAPAU21"
+        },
+        {
+            "id": 550,
+            "bank": "ORCHARD FUNDS MANAGEMENT LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "ORFMAU31"
+        },
+        {
+            "id": 551,
+            "bank": "ORD MINNETT LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "ORDSAU21"
+        },
+        {
+            "id": 552,
+            "bank": "ORION ASSET MANAGEMENT LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "ORAMAU21"
+        },
+        {
+            "id": 553,
             "bank": "OVERSEA-CHINESE BANKING CORPORATION LIMITED",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "OCBCAU2S"
         },
         {
-            "id": 254,
+            "id": 554,
             "bank": "OZFOREX PTY LTD",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "OZFXAU2S"
         },
         {
-            "id": 255,
+            "id": 555,
+            "bank": "P.M. CAPITAL LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "CPPAAU21"
+        },
+        {
+            "id": 556,
+            "bank": "PARADICE INVESTMENT MANAGEMENT PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "PIMTAU21"
+        },
+        {
+            "id": 557,
+            "bank": "PATERSON ORD MINNETT LTD",
+            "city": "PERTH",
+            "branch": null,
+            "swift_code": "OMGLAU61"
+        },
+        {
+            "id": 558,
+            "bank": "PATERSONS ASSET MANAGEMENT",
+            "city": "PERTH",
+            "branch": null,
+            "swift_code": "PAEMAU61"
+        },
+        {
+            "id": 559,
+            "bank": "PATERSONS SECURITIES LIMITED",
+            "city": "PERTH",
+            "branch": null,
+            "swift_code": "PSECAU61"
+        },
+        {
+            "id": 560,
+            "bank": "PCF SECURITIES PTY LTD",
+            "city": "PERTH",
+            "branch": null,
+            "swift_code": "PCSPAU61"
+        },
+        {
+            "id": 561,
+            "bank": "PEGASUS ASSET MANAGEMENT LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "PEGAAU31"
+        },
+        {
+            "id": 562,
+            "bank": "PEREGRINE CAPITAL AUSTRALIA PTY LIMITED",
+            "city": "BRISBANE",
+            "branch": null,
+            "swift_code": "PEGRAU41"
+        },
+        {
+            "id": 563,
+            "bank": "PERENNIAL INVESTMENT PARTNERS",
+            "city": "MELBOURNE",
+            "branch": "(PERENNIAL INVESTMENT PARTNERS - DOMESTIC)",
+            "swift_code": "PEIPAU31MEL"
+        },
+        {
+            "id": 564,
+            "bank": "PERENNIAL INVESTMENT PARTNERS",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "PEIPAU31"
+        },
+        {
+            "id": 565,
+            "bank": "PERENNIAL INVESTMENT PARTNERS LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "PEIAAU31"
+        },
+        {
+            "id": 566,
+            "bank": "PERPETUAL INVESTMENTS",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "PERNAU21"
+        },
+        {
+            "id": 567,
+            "bank": "PERSHING SECURITIES AUSTRALIA PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "PFSAAU21"
+        },
+        {
+            "id": 568,
+            "bank": "PERSHING SECURITIES AUSTRALIA PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "PSALAU21"
+        },
+        {
+            "id": 569,
+            "bank": "PETRA CAPITAL PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "PEAPAU21"
+        },
+        {
+            "id": 570,
+            "bank": "PHOENIX SOFT CORP LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "PSCLAU21"
+        },
+        {
+            "id": 571,
+            "bank": "PIMCO AUSTRALIA PTY LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "PIMAAU21"
+        },
+        {
+            "id": 572,
+            "bank": "PINNACLE INTERNATIONAL EQUITIES LTD",
+            "city": "BRISBANE",
+            "branch": null,
+            "swift_code": "PIIEAU41"
+        },
+        {
+            "id": 573,
+            "bank": "PLAN B",
+            "city": "PERTH",
+            "branch": null,
+            "swift_code": "PLNNAU61"
+        },
+        {
+            "id": 574,
+            "bank": "PLAN B TRUSTEES LIMITED",
+            "city": "PERTH",
+            "branch": null,
+            "swift_code": "PLANAU61"
+        },
+        {
+            "id": 575,
+            "bank": "PLATINIUM ASSET MANAGEMENT",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "PLAGAU21"
+        },
+        {
+            "id": 576,
+            "bank": "PLATO INVESTMENT MANAGEMENT LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "PLIMAU21"
+        },
+        {
+            "id": 577,
+            "bank": "PLATYPUS ASSET MANAGEMENT PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "PLSMAU21"
+        },
+        {
+            "id": 578,
+            "bank": "PORTFOLIO PARTNERS LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "PORPAU31"
+        },
+        {
+            "id": 579,
             "bank": "PORTIGON AG",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "WELAAU2S"
         },
         {
-            "id": 256,
+            "id": 580,
+            "bank": "PREMA CAPITAL LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "ODDLAU21"
+        },
+        {
+            "id": 581,
+            "bank": "PRIME PARTNERS",
+            "city": "GLADESVILLE",
+            "branch": null,
+            "swift_code": "PRRAAU21"
+        },
+        {
+            "id": 582,
+            "bank": "PRIME VALUE ASSET MANAGEMENT LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "PVAAAU31"
+        },
+        {
+            "id": 583,
+            "bank": "PRODIGAL PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "PPTYAU21"
+        },
+        {
+            "id": 584,
             "bank": "QBE INSURANCE",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "QBEGAU2S"
         },
         {
-            "id": 257,
+            "id": 585,
+            "bank": "QBE MANAGEMENT SERVICES PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "QMSPAU21"
+        },
+        {
+            "id": 586,
+            "bank": "QED CAPITAL PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "QECPAU21"
+        },
+        {
+            "id": 587,
+            "bank": "QIC LIMITED",
+            "city": "BRISBANE",
+            "branch": null,
+            "swift_code": "QICBAU41"
+        },
+        {
+            "id": 588,
+            "bank": "QSUPER LIMITED",
+            "city": "BRISBANE",
+            "branch": null,
+            "swift_code": "QSUPAU41"
+        },
+        {
+            "id": 589,
             "bank": "QUEENSLAND TREASURY CORPORATION",
             "city": "BRISBANE",
             "branch": null,
             "swift_code": "QLDTAU4B"
         },
         {
-            "id": 258,
+            "id": 590,
+            "bank": "R AND D HESLOP HOLDINGS PTY LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "AXAAAU31"
+        },
+        {
+            "id": 591,
             "bank": "RABOBANK AUSTRALIA BRANCH",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "RABOAUSS"
         },
         {
-            "id": 259,
+            "id": 592,
             "bank": "RABOBANK AUSTRALIA LIMITED (FORMERLY PIBA)",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "RABOAU2B"
         },
         {
-            "id": 260,
+            "id": 593,
+            "bank": "RARE INFRASTRUCTURE LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "RAIRAU21"
+        },
+        {
+            "id": 594,
+            "bank": "RBC CAPITAL MARKETS",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "RBCMAU21"
+        },
+        {
+            "id": 595,
             "bank": "RBC INVESTOR SERVICES TRUST, AUSTRALIAN BRANCH",
             "city": "SYDNEY",
             "branch": "(RBC DEXIA PLATFORM CLIENT)",
             "swift_code": "ROYCAUSGNTH"
         },
         {
-            "id": 261,
+            "id": 596,
             "bank": "RBC INVESTOR SERVICES TRUST, AUSTRALIAN BRANCH",
             "city": "SYDNEY",
             "branch": "(RBC DEXIA PLATFORM CLIENT)",
             "swift_code": "ROYCAUSGPWF"
         },
         {
-            "id": 262,
+            "id": 597,
             "bank": "RBC INVESTOR SERVICES TRUST, AUSTRALIAN BRANCH",
             "city": "SYDNEY",
             "branch": "(RBC DEXIA PLATFORM CLIENT)",
             "swift_code": "ROYCAUSGSUM"
         },
         {
-            "id": 263,
+            "id": 598,
             "bank": "RBC INVESTOR SERVICES TRUST, AUSTRALIAN BRANCH",
             "city": "SYDNEY",
             "branch": "(RBC DEXIA PLATFORM CLIENT)",
             "swift_code": "ROYCAUSGCSL"
         },
         {
-            "id": 264,
+            "id": 599,
             "bank": "RBC INVESTOR SERVICES TRUST, AUSTRALIAN BRANCH",
             "city": "SYDNEY",
             "branch": "(RBC DEXIA PLATFORM CLIENT)",
             "swift_code": "ROYCAUSGTLK"
         },
         {
-            "id": 265,
+            "id": 600,
             "bank": "RBC INVESTOR SERVICES TRUST, AUSTRALIAN BRANCH",
             "city": "SYDNEY",
             "branch": "(RBC DEXIA PLATFORM CLIENT)",
             "swift_code": "ROYCAUSGMPT"
         },
         {
-            "id": 266,
+            "id": 601,
             "bank": "RBC INVESTOR SERVICES TRUST, AUSTRALIAN BRANCH",
             "city": "SYDNEY",
             "branch": "(RBC DEXIA PLATFORM CLIENT)",
             "swift_code": "ROYCAUSGSYN"
         },
         {
-            "id": 267,
+            "id": 602,
             "bank": "RBC INVESTOR SERVICES TRUST, AUSTRALIAN BRANCH",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "ROYCAUSS"
         },
         {
-            "id": 268,
+            "id": 603,
             "bank": "RBC INVESTOR SERVICES TRUST, AUSTRALIAN BRANCH",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "ROYCAUSG"
         },
         {
-            "id": 269,
+            "id": 604,
+            "bank": "RCM CAPITAL MANAGEMENT LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "ADSAAU21"
+        },
+        {
+            "id": 605,
+            "bank": "REDPOINT INVESTMENT MANAGEMENT PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "REDTAU21"
+        },
+        {
+            "id": 606,
             "bank": "RESERVE BANK OF AUSTRALIA",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "RSBKAU2S"
         },
         {
-            "id": 270,
+            "id": 607,
+            "bank": "RESOLUTION CAPITAL LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "RECPAU21"
+        },
+        {
+            "id": 608,
+            "bank": "RESOURCE REAL ESTATE GLOBAL PROPERTY SECURITIES (AUSTRALIA) LTD",
+            "city": "BRISBANE",
+            "branch": null,
+            "swift_code": "RREGAU41"
+        },
+        {
+            "id": 609,
+            "bank": "REYNOLDS AND CO. PTY LTD.",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "REYNAU21"
+        },
+        {
+            "id": 610,
+            "bank": "ROYAL BANK OF CANADA",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "RBDOAUB1"
+        },
+        {
+            "id": 611,
             "bank": "ROYAL BANK OF CANADA",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "ROYCAU2S"
         },
         {
-            "id": 271,
+            "id": 612,
             "bank": "ROYAL BANK OF SCOTLAND PLC",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "RBOSAU2X"
         },
         {
-            "id": 272,
+            "id": 613,
+            "bank": "RSLE HOLDINGS CORPORATION PTY LIMITED",
+            "city": "MIRRABOOKA",
+            "branch": null,
+            "swift_code": "RHCPAU61"
+        },
+        {
+            "id": 614,
+            "bank": "RUSSELL INVESTMENT GROUP PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "RUIGAU21"
+        },
+        {
+            "id": 615,
+            "bank": "SAMSUNG ELECTRONICS AUSTRALIA PTY. LTD.",
+            "city": "HOMEBUSH BAY",
+            "branch": "(SEAU)",
+            "swift_code": "SECTAU21560"
+        },
+        {
+            "id": 616,
+            "bank": "SAMSUNG ELECTRONICS AUSTRALIA PTY. LTD.",
+            "city": "HOMEBUSH BAY",
+            "branch": null,
+            "swift_code": "SECTAU21"
+        },
+        {
+            "id": 617,
+            "bank": "SANDHURST TRUSTEES LIMITED",
+            "city": "BENDIGO",
+            "branch": null,
+            "swift_code": "SATRAU31"
+        },
+        {
+            "id": 618,
+            "bank": "SCHRODER INVESTMENT MANAGEMENT AUSTRALIA LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "SIMAAU21"
+        },
+        {
+            "id": 619,
+            "bank": "SCHRODERS INVESTMENT MANAGEMENT AUSTRALIA LTD.",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "SIASAU21"
+        },
+        {
+            "id": 620,
+            "bank": "SCOTT FOSTER AND PARTNERS",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "SCOTAU21"
+        },
+        {
+            "id": 621,
+            "bank": "SELECT ASSET MANAGEMENT LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "SESMAU21"
+        },
+        {
+            "id": 622,
+            "bank": "SENECA TRADING PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "STPYAU21"
+        },
+        {
+            "id": 623,
+            "bank": "SENTINEL FINANCIAL GROUP PTY LTD",
+            "city": "PERTH",
+            "branch": null,
+            "swift_code": "SFGPAU61"
+        },
+        {
+            "id": 624,
+            "bank": "SG HISCOCK AND COMPANY LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "HICNAU31"
+        },
+        {
+            "id": 625,
+            "bank": "SHADFORTHS LTD.",
+            "city": "HOBART",
+            "branch": null,
+            "swift_code": "SHADAU71"
+        },
+        {
+            "id": 626,
+            "bank": "SHAW STOCKBROKING LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "SHSGAU21"
+        },
+        {
+            "id": 627,
+            "bank": "SINCLAIR KNIGHT MERZ PTY LTD",
+            "city": "ST. LEONARDS",
+            "branch": null,
+            "swift_code": "SKMGAU21"
+        },
+        {
+            "id": 628,
+            "bank": "SMALLCO INVESTMENT MANAGER LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "SMIAAU21"
+        },
+        {
+            "id": 629,
+            "bank": "SMF FUNDS MANAGEMENT LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "SMFMAU31"
+        },
+        {
+            "id": 630,
+            "bank": "SMF SUPEROPTIONS PROPRIETARY LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "HAMRAU31"
+        },
+        {
+            "id": 631,
+            "bank": "SMITH NEW COURT AUSTRALIA LTD.",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "SNCAAU21"
+        },
+        {
+            "id": 632,
             "bank": "SOCIETE GENERALE SECURITIES AUSTRALIA PTY LTD",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "NEWGAU2S"
         },
         {
-            "id": 273,
+            "id": 633,
+            "bank": "SOCIETE GENERALE, AUSTRALIA BRANCH",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "SOGEAU21"
+        },
+        {
+            "id": 634,
+            "bank": "SOLARIS INVESTMENT MANAGEMENT LIMITED",
+            "city": "BRISBANE",
+            "branch": null,
+            "swift_code": "SOITAU41"
+        },
+        {
+            "id": 635,
+            "bank": "SOULS FUNDS MANAGEMENT LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "SOFGAU21"
+        },
+        {
+            "id": 636,
+            "bank": "SOUTH WEST SLOPES CREDIT UNION LTD",
+            "city": "YOUNG",
+            "branch": null,
+            "swift_code": "SWSRAU21"
+        },
+        {
+            "id": 637,
             "bank": "SOUTH32 LIMITED",
             "city": "BRISBANE",
             "branch": null,
             "swift_code": "STHHAU4B"
         },
         {
-            "id": 274,
+            "id": 638,
+            "bank": "SOUTHERN CROSS EQUITIES LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "SOCQAU21"
+        },
+        {
+            "id": 639,
+            "bank": "SOUTHERN CROSS EQUITIES LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "INARAU21"
+        },
+        {
+            "id": 640,
+            "bank": "SPECTRUM ASSET MANAGEMENT LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "SPAGAU21"
+        },
+        {
+            "id": 641,
+            "bank": "ST HELENS CAPITAL PTY LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "STHEAU21"
+        },
+        {
+            "id": 642,
             "bank": "ST.GEORGE BANK, A DIVISION OF WESTPAC BANKING CORPORATION",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "SGBLAU2S"
         },
         {
-            "id": 275,
+            "id": 643,
             "bank": "STANDARD CHARTERED BANK, AUSTRALIA",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "SCBLAU2S"
         },
         {
-            "id": 276,
+            "id": 644,
             "bank": "STATE BANK OF INDIA",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "SBINAU2S"
         },
         {
-            "id": 277,
+            "id": 645,
+            "bank": "STATE ONE STOCKBROKING LIMITED",
+            "city": "PERTH",
+            "branch": null,
+            "swift_code": "STOTAU61"
+        },
+        {
+            "id": 646,
             "bank": "STATE STREET AUSTRALIA LIMITED",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "SSALAU2X"
         },
         {
-            "id": 278,
+            "id": 647,
             "bank": "STATE STREET BANK AND TRUST COMPANY, SYDNEY BRANCH",
             "city": "SYDNEY",
             "branch": "(OFFSHORE BANKING UNIT)",
             "swift_code": "SBOSAU2XOBU"
         },
         {
-            "id": 279,
+            "id": 648,
             "bank": "STATE STREET BANK AND TRUST COMPANY, SYDNEY BRANCH",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "SBOSAU2X"
         },
         {
-            "id": 280,
+            "id": 649,
+            "bank": "STATE STREET GLOBAL ADVISORS AUSTRALIA LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "SSGDAU21"
+        },
+        {
+            "id": 650,
+            "bank": "STATTON SECURITIES",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "STATAU21"
+        },
+        {
+            "id": 651,
             "bank": "SUMITOMO MITSUI BANKING CORPORATION SYDNEY BRANCH",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "SMBCAU2S"
         },
         {
-            "id": 281,
+            "id": 652,
+            "bank": "SUMITOMO MITSUI FINANCE AUSTRALIA LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "SIFAAU21"
+        },
+        {
+            "id": 653,
+            "bank": "SUMITOMO TRUST FINANCE (AUSTRALIA) LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "SUMAAU21"
+        },
+        {
+            "id": 654,
+            "bank": "SUNCORP CUSTODIAN SERVICES",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "SUCVAU21"
+        },
+        {
+            "id": 655,
+            "bank": "SUNCORP LIFE AND SUPER",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "SULUAU21"
+        },
+        {
+            "id": 656,
             "bank": "SUNCORP-METWAY LIMITED",
             "city": "BRISBANE",
             "branch": "(INTERNATIONAL TRADE FINANCE)",
             "swift_code": "METWAU4BITF"
         },
         {
-            "id": 282,
+            "id": 657,
             "bank": "SUNCORP-METWAY LIMITED",
             "city": "BRISBANE",
             "branch": "(RETAIL FOREIGN CURRENCY SERVICES)",
             "swift_code": "METWAU4BFCS"
         },
         {
-            "id": 283,
+            "id": 658,
             "bank": "SUNCORP-METWAY LIMITED",
             "city": "BRISBANE",
             "branch": "(TREASURY OPERATIONS)",
             "swift_code": "METWAU4BTSY"
         },
         {
-            "id": 284,
+            "id": 659,
             "bank": "SUNCORP-METWAY LIMITED",
             "city": "BRISBANE",
             "branch": null,
             "swift_code": "METWAU4B"
         },
         {
-            "id": 285,
+            "id": 660,
+            "bank": "SUPER INVESTMENT MANAGEMENT PTY LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "SIAYAU31"
+        },
+        {
+            "id": 661,
             "bank": "SWISS REINSURANCE COMPANY",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "SWREAU2S"
         },
         {
-            "id": 286,
+            "id": 662,
             "bank": "TAIWAN BUSINESS BANK, SYDNEY BRANCH",
             "city": "BRISBANE",
             "branch": "(BRISBANE BRANCH)",
             "swift_code": "MBBTAU2SBRI"
         },
         {
-            "id": 287,
+            "id": 663,
             "bank": "TAIWAN BUSINESS BANK, SYDNEY BRANCH",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "MBBTAU2S"
         },
         {
-            "id": 288,
+            "id": 664,
             "bank": "TAIWAN COOPERATIVE BANK SYDNEY BRANCH",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "TACBAU2S"
         },
         {
-            "id": 289,
+            "id": 665,
+            "bank": "TASMAN FOREIGN EXCHANGE PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "TFEPAUS1"
+        },
+        {
+            "id": 666,
+            "bank": "TAURUS FUNDS MANAGEMENT",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "TAFGAU21"
+        },
+        {
+            "id": 667,
+            "bank": "TAYLOR COLLISON LTD.",
+            "city": "ADELAIDE",
+            "branch": null,
+            "swift_code": "TAYLAU51"
+        },
+        {
+            "id": 668,
+            "bank": "TELSTRA SUPER PTY LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "TSUPAU31"
+        },
+        {
+            "id": 669,
             "bank": "TELSTRA SUPER PTY LTD",
             "city": "MELBOURNE",
             "branch": null,
             "swift_code": "TSUPAU3B"
         },
         {
-            "id": 290,
+            "id": 670,
+            "bank": "TFP GROUP (WA) PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "TFGPAU21"
+        },
+        {
+            "id": 671,
+            "bank": "THE AUSTRALIAN NATIONAL REGISTRY OF EMISSIONS UNITS",
+            "city": "CANBERRA",
+            "branch": null,
+            "swift_code": "ANRMAU21"
+        },
+        {
+            "id": 672,
             "bank": "THE BANK OF NEW YORK MELLON, SYDNEY",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "BNYMAU2S"
         },
         {
-            "id": 291,
+            "id": 673,
             "bank": "THE BANK OF NEW YORK MELLON, SYDNEY",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "BNYMAU2SCTA"
         },
         {
-            "id": 292,
+            "id": 674,
             "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, AUSTRALIAN BRANCH",
             "city": "SYDNEY",
             "branch": "(AUSTRALIAN BRANCH)",
             "swift_code": "HSBCAU2SBAP"
         },
         {
-            "id": 293,
+            "id": 675,
             "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, AUSTRALIAN BRANCH",
             "city": "SYDNEY",
             "branch": "(CLS DIVISION)",
             "swift_code": "HSBCAU2SCLS"
         },
         {
-            "id": 294,
+            "id": 676,
             "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, AUSTRALIAN BRANCH",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "HSBCAU2S"
         },
         {
-            "id": 295,
+            "id": 677,
+            "bank": "THE PORTLAND HOUSE GROUP PTY LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "PHGYAU31"
+        },
+        {
+            "id": 678,
             "bank": "THE ROYAL BANK OF SCOTLAND N.V. (AUSTRALIA)",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "ABNAAU2B"
         },
         {
-            "id": 296,
+            "id": 679,
             "bank": "THE ROYAL BANK OF SCOTLAND PLC",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "RBOSAU2S"
         },
         {
-            "id": 297,
+            "id": 680,
+            "bank": "THE TRUST COMPANY LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "TRCUAU21"
+        },
+        {
+            "id": 681,
+            "bank": "THE VAULT AUSTRALIA PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "VAAPAU21"
+        },
+        {
+            "id": 682,
+            "bank": "THIRD PARTY PLATFORM PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "TPPPAUS1"
+        },
+        {
+            "id": 683,
+            "bank": "THONEMANN ROBERTSON THOMPSON PTY LTD.",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "THONAU31"
+        },
+        {
+            "id": 684,
+            "bank": "THREE FISH ASSET MANAGEMENT PTY LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "TFAAAU31"
+        },
+        {
+            "id": 685,
+            "bank": "TIMBER HILL AUSTRALIA PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "THAPAU21"
+        },
+        {
+            "id": 686,
+            "bank": "TIR SECURITIES (AUSTRALIA) PTY. LTD.",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "STIRAU31"
+        },
+        {
+            "id": 687,
+            "bank": "TOLHURST LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "TOLNAU31"
+        },
+        {
+            "id": 688,
+            "bank": "TOTUS ALPHA MANAGEMENT PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "TAMTAU21"
+        },
+        {
+            "id": 689,
+            "bank": "TOWER AUSTRALIA LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "TOAUAU21"
+        },
+        {
+            "id": 690,
+            "bank": "TRANSMARKET TRADING PTY LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "TRTPAU21"
+        },
+        {
+            "id": 691,
+            "bank": "TRAVELEX LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "TRAVAU21"
+        },
+        {
+            "id": 692,
+            "bank": "TREASURY GROUP",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "TRGPAU21"
+        },
+        {
+            "id": 693,
+            "bank": "TRIBECA INVESTMENT PARTNERS PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "JIMPAU21"
+        },
+        {
+            "id": 694,
+            "bank": "TRICOM EQUITIES LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "TREQAU21"
+        },
+        {
+            "id": 695,
             "bank": "TRONOX GLOBAL HOLDINGS PTY LIMITED",
             "city": "BENTLEY",
             "branch": null,
             "swift_code": "TGHPAU66"
         },
         {
-            "id": 298,
+            "id": 696,
+            "bank": "TYNDALL INVESTMENT MANAGEMENT",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "TYINAU21"
+        },
+        {
+            "id": 697,
             "bank": "UBS AG AUSTRALIA BRANCH",
             "city": "SYDNEY",
             "branch": "(BRANCH FOA)",
             "swift_code": "UBSWAU2SFOA"
         },
         {
-            "id": 299,
+            "id": 698,
             "bank": "UBS AG AUSTRALIA BRANCH",
             "city": "SYDNEY",
             "branch": "(OFF. BANK. UNIT)",
             "swift_code": "UBSWAU2SOBU"
         },
         {
-            "id": 300,
+            "id": 699,
             "bank": "UBS AG AUSTRALIA BRANCH",
             "city": "SYDNEY",
             "branch": "(WMA DEPT)",
             "swift_code": "UBSWAU2SWMA"
         },
         {
-            "id": 301,
+            "id": 700,
             "bank": "UBS AG AUSTRALIA BRANCH",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "UBSWAU2S"
         },
         {
-            "id": 302,
+            "id": 701,
+            "bank": "UBS GLOBAL ASSET MANAGEMENT (AUSTRALIA) LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "UGAMAU21"
+        },
+        {
+            "id": 702,
+            "bank": "UBS SECURITIES AUSTRALIA LTD",
+            "city": "SYDNEY",
+            "branch": "(NEW UBS AUST BIC POST SETTLEMENT SYSTEM MIGRATION)",
+            "swift_code": "UWAEAU21SSE"
+        },
+        {
+            "id": 703,
+            "bank": "UBS SECURITIES AUSTRALIA LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "UWAEAU21"
+        },
+        {
+            "id": 704,
+            "bank": "UBS WEALTH MANAGEMENT AUSTRALIA LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "UPCAAU31"
+        },
+        {
+            "id": 705,
+            "bank": "UGL ENGINEERING PTY LTD",
+            "city": "NORTH SYDNEY",
+            "branch": null,
+            "swift_code": "UGLLAU21"
+        },
+        {
+            "id": 706,
+            "bank": "UGL SERVICES PTY LTD",
+            "city": "NORTH SYDNEY",
+            "branch": null,
+            "swift_code": "DTZLAU21"
+        },
+        {
+            "id": 707,
+            "bank": "UNAVAL HOLDINGS PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "HECSAU21"
+        },
+        {
+            "id": 708,
             "bank": "UNISUPER LIMITED",
             "city": "MELBOURNE",
             "branch": "(AIM\/POMS SERVICE)",
             "swift_code": "UNMAAU3M"
         },
         {
-            "id": 303,
+            "id": 709,
+            "bank": "UNISUPER LIMITED",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "UNMAAU31"
+        },
+        {
+            "id": 710,
             "bank": "UNITED OVERSEAS BANK LTD.",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "UOVBAU2S"
         },
         {
-            "id": 304,
+            "id": 711,
             "bank": "VANGUARD INVESTMENTS AUSTRALIA LTD",
             "city": "SOUTHBANK",
             "branch": null,
             "swift_code": "VGRDAU3M"
         },
         {
-            "id": 305,
+            "id": 712,
+            "bank": "VERITAS SECURITIES LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "VERCAU21"
+        },
+        {
+            "id": 713,
+            "bank": "VERTEX CAPITAL MANAGEMENT LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "VECMAU21"
+        },
+        {
+            "id": 714,
+            "bank": "VICHINGO GLOBAL INVESTORS FUND",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "VGIFAU21"
+        },
+        {
+            "id": 715,
+            "bank": "VICTORIAN FUNDS MANAGEMENT CORPORATION",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "VFMCAU31"
+        },
+        {
+            "id": 716,
+            "bank": "VINTON SMITH, DOUGALL LTD.",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "VINTAU31"
+        },
+        {
+            "id": 717,
+            "bank": "WALLARA ASSET MANAGEMENT PTY. LTD.",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "WALAAU31"
+        },
+        {
+            "id": 718,
+            "bank": "WARAKIRRI ASSET MANAGEMENT PTY LTD",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "WAMAAU31"
+        },
+        {
+            "id": 719,
             "bank": "WESFARMERS LIMITED",
             "city": "PERTH",
             "branch": null,
             "swift_code": "WEFFAU6P"
         },
         {
-            "id": 306,
+            "id": 720,
             "bank": "WESTERN UNION BUSINESS SOLUTIONS (AUSTRALIA) PTY LTD",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "COOKAU2S"
         },
         {
-            "id": 307,
+            "id": 721,
+            "bank": "WESTOZ INVESTMENT MANAGEMENT",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "WEIMAU51"
+        },
+        {
+            "id": 722,
             "bank": "WESTPAC BANKING CORPORATION",
             "city": "SYDNEY",
             "branch": "(FOR ALL NEW SOUTH WALES BRANCHES)",
             "swift_code": "WPACAU2S"
         },
         {
-            "id": 308,
+            "id": 723,
             "bank": "WESTPAC BANKING CORPORATION",
             "city": "SYDNEY",
             "branch": "(OFFSHORE BANKING UNIT)",
             "swift_code": "WPACAU2FOBU"
         },
         {
-            "id": 309,
+            "id": 724,
             "bank": "WESTPAC BANKING CORPORATION",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "WPACAU2F"
         },
         {
-            "id": 310,
+            "id": 725,
+            "bank": "WESTPAC RE LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "WETPAUS1"
+        },
+        {
+            "id": 726,
+            "bank": "WESTPAC SECURITIES LIMITED",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "WSECAU21"
+        },
+        {
+            "id": 727,
             "bank": "WHITE OUTSOURCING PTY LIMITED",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "WHTEAU2S"
         },
         {
-            "id": 311,
+            "id": 728,
+            "bank": "WHITE OUTSOURCING PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "WFMPAU21"
+        },
+        {
+            "id": 729,
+            "bank": "WILLIAM NOALL LTD.",
+            "city": "MELBOURNE",
+            "branch": null,
+            "swift_code": "NOALAU31"
+        },
+        {
+            "id": 730,
+            "bank": "WILSON ASSET MANAGEMENT (INTERNATIONAL) PTY LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "WAMIAUS1"
+        },
+        {
+            "id": 731,
+            "bank": "WILSON HTM LTD.",
+            "city": "BRISBANE",
+            "branch": null,
+            "swift_code": "WIHTAU41"
+        },
+        {
+            "id": 732,
+            "bank": "WKJ PTY LTD",
+            "city": "BRISBANE",
+            "branch": null,
+            "swift_code": "PEJOAU41"
+        },
+        {
+            "id": 733,
             "bank": "WOORI BANK SYDNEY BRANCH",
             "city": "SYDNEY",
             "branch": null,
             "swift_code": "HVBKAU2S"
+        },
+        {
+            "id": 734,
+            "bank": "ZURICH FINANCIAL SERVICES AUSTRALIA LTD",
+            "city": "SYDNEY",
+            "branch": null,
+            "swift_code": "ZFSSAU21"
         }
     ]
 }

@@ -18,227 +18,423 @@
         },
         {
             "id": 3,
+            "bank": "AL AHLIA ASSET MGT CO. (SAOC)",
+            "city": "RUWI",
+            "branch": null,
+            "swift_code": "AAMOOMR1"
+        },
+        {
+            "id": 4,
+            "bank": "AL AMIN SECURITIES COMPANY LLC",
+            "city": "RUWI",
+            "branch": null,
+            "swift_code": "ASMLOMR1"
+        },
+        {
+            "id": 5,
+            "bank": "AL MADINA FINANCIAL AND INVESTMENT SERVICES CO. (S.A.O.G)",
+            "city": "RUWI",
+            "branch": null,
+            "swift_code": "MFIEOMR1"
+        },
+        {
+            "id": 6,
+            "bank": "AL QURUM INVESTMENT SERVICES (SAOC)",
+            "city": "RUWI",
+            "branch": null,
+            "swift_code": "QURUOMR1"
+        },
+        {
+            "id": 7,
+            "bank": "AL SHALMAN SECURITIES CO (SAOG)",
+            "city": "MUTTRAH",
+            "branch": null,
+            "swift_code": "SHEAOMR1"
+        },
+        {
+            "id": 8,
+            "bank": "AL SHUROOQ SECURITIES CO LLC",
+            "city": "RUWI",
+            "branch": null,
+            "swift_code": "SHUROMR1"
+        },
+        {
+            "id": 9,
             "bank": "ALIZZ ISLAMIC BANK",
             "city": "MUSCAT",
             "branch": null,
             "swift_code": "IZZBOMRU"
         },
         {
-            "id": 4,
+            "id": 10,
             "bank": "BANK DHOFAR (S.A.O.G.)",
             "city": "RUWI",
             "branch": "(MAISARAH ISLAMIC BANKING SERVICES)",
             "swift_code": "BDOFOMRUMIB"
         },
         {
-            "id": 5,
+            "id": 11,
             "bank": "BANK DHOFAR (S.A.O.G.)",
             "city": "RUWI",
             "branch": null,
             "swift_code": "BDOFOMRU"
         },
         {
-            "id": 6,
+            "id": 12,
             "bank": "BANK DHOFAR (S.A.O.G.)",
             "city": "RUWI",
             "branch": null,
             "swift_code": "BDOFOMRUTFD"
         },
         {
-            "id": 7,
+            "id": 13,
             "bank": "BANK NIZWA",
             "city": "MUSCAT",
             "branch": null,
             "swift_code": "BNZWOMRX"
         },
         {
-            "id": 8,
+            "id": 14,
             "bank": "BANK OF BARODA, GREATER MUTTRAH BRANCH",
             "city": "MUTTRAH",
             "branch": "(MUTRAH BRANCH)",
             "swift_code": "BARBOMMXMUT"
         },
         {
-            "id": 9,
+            "id": 15,
             "bank": "BANK OF BARODA, GREATER MUTTRAH BRANCH",
             "city": "MUTTRAH",
             "branch": "(SALALAH BRANCH)",
             "swift_code": "BARBOMMXSAL"
         },
         {
-            "id": 10,
+            "id": 16,
             "bank": "BANK OF BARODA, GREATER MUTTRAH BRANCH",
             "city": "RUWI",
             "branch": null,
             "swift_code": "BARBOMMX"
         },
         {
-            "id": 11,
+            "id": 17,
             "bank": "BANK OF BARODA, GREATER MUTTRAH BRANCH",
             "city": "SOHAR",
             "branch": "(SOHAR BRANCH)",
             "swift_code": "BARBOMMXSOH"
         },
         {
-            "id": 12,
+            "id": 18,
             "bank": "BANK OF BEIRUT S.A.L.- OMAN BRANCH",
             "city": "MUSCAT",
             "branch": null,
             "swift_code": "BABEOMRX"
         },
         {
-            "id": 13,
+            "id": 19,
             "bank": "BANK SOHAR S.A.O.G",
             "city": "RUWI",
             "branch": "(SOHAR ISLAMIC)",
             "swift_code": "BSHROMRUISL"
         },
         {
-            "id": 14,
+            "id": 20,
             "bank": "BANK SOHAR S.A.O.G",
             "city": "RUWI",
             "branch": null,
             "swift_code": "BSHROMRU"
         },
         {
-            "id": 15,
+            "id": 21,
             "bank": "BANKMUSCAT SAOG",
             "city": "MUSCAT",
             "branch": "(ISLAMIC BANKING)",
             "swift_code": "BMUSOMRXISL"
         },
         {
-            "id": 16,
+            "id": 22,
             "bank": "BANKMUSCAT SAOG",
             "city": "MUSCAT",
             "branch": null,
             "swift_code": "BMUSOMRX"
         },
         {
-            "id": 17,
+            "id": 23,
             "bank": "CENTRAL BANK OF OMAN",
             "city": "RUWI",
             "branch": null,
             "swift_code": "CBOMOMRU"
         },
         {
-            "id": 18,
+            "id": 24,
+            "bank": "EFG HERMES OMAN LLC",
+            "city": "MUSCAT",
+            "branch": null,
+            "swift_code": "EFGHOMM1"
+        },
+        {
+            "id": 25,
+            "bank": "FINANCIAL SERVICES COMPANY SAOG",
+            "city": "RUWI",
+            "branch": null,
+            "swift_code": "FIVOOMR1"
+        },
+        {
+            "id": 26,
+            "bank": "GLOBAL FINANCIAL INVESTMENTS S.A.O.G",
+            "city": "MUSCAT",
+            "branch": null,
+            "swift_code": "GFISOMR1"
+        },
+        {
+            "id": 27,
+            "bank": "GLOBAL FINANCIAL SERVICES CO.",
+            "city": "RUWI",
+            "branch": null,
+            "swift_code": "FISOOMR1"
+        },
+        {
+            "id": 28,
+            "bank": "GULF INVESTMENT SERVICES CO. (S.A.O.G)",
+            "city": "RUWI",
+            "branch": null,
+            "swift_code": "GISCOMR1"
+        },
+        {
+            "id": 29,
+            "bank": "HABIB BANK LIMITED",
+            "city": "MUTTRAH",
+            "branch": null,
+            "swift_code": "HBZUOMM1"
+        },
+        {
+            "id": 30,
             "bank": "HABIB BANK OMAN",
             "city": "RUWI",
             "branch": null,
             "swift_code": "HABBOMRX"
         },
         {
-            "id": 19,
+            "id": 31,
             "bank": "HSBC BANK OMAN S.A.O.G (FORMERLY HSBC BANK MIDDLE EAST)",
             "city": "RUWI",
             "branch": null,
             "swift_code": "BBMEOMRX"
         },
         {
-            "id": 20,
+            "id": 32,
+            "bank": "INTERNATIONAL FINANCIAL SERVICES",
+            "city": "RUWI",
+            "branch": null,
+            "swift_code": "IFELOMR1"
+        },
+        {
+            "id": 33,
+            "bank": "MIDDLE EAST BROKERAGE COMPANY",
+            "city": "RUWI",
+            "branch": null,
+            "swift_code": "MEBCOMR1"
+        },
+        {
+            "id": 34,
             "bank": "MINISTRY OF FINANCE",
             "city": "MUSCAT",
             "branch": null,
             "swift_code": "MINIOMRU"
         },
         {
-            "id": 21,
+            "id": 35,
+            "bank": "MUSCAT DEPOSITORY AND SECURITIES REGISTRATION CO SAOC",
+            "city": "RUWI",
+            "branch": null,
+            "swift_code": "MDSROMR1"
+        },
+        {
+            "id": 36,
+            "bank": "MUSCAT SECURITIES MARKET",
+            "city": "MUSCAT",
+            "branch": null,
+            "swift_code": "XMUSOMM1"
+        },
+        {
+            "id": 37,
+            "bank": "MUZN ISLAMIC BANKING TRADING UNDER NATIONAL BANK OF OMAN",
+            "city": "RUWI",
+            "branch": null,
+            "swift_code": "MUZNOMR1"
+        },
+        {
+            "id": 38,
             "bank": "NATIONAL BANK OF ABU DHABI, OMAN MAIN BRANCH",
             "city": "MUSCAT",
             "branch": null,
             "swift_code": "NBADOMRX"
         },
         {
-            "id": 22,
+            "id": 39,
             "bank": "NATIONAL BANK OF ABU DHABI, OMAN MAIN BRANCH",
             "city": "MUTTRAH",
             "branch": "(TRADE FINANCE DEPARTMENT)",
             "swift_code": "NBADOMRXTFO"
         },
         {
-            "id": 23,
+            "id": 40,
             "bank": "NATIONAL BANK OF OMAN",
             "city": "MUSCAT",
             "branch": "(TRADE SERVICES)",
             "swift_code": "NBOMOMRXTSS"
         },
         {
-            "id": 24,
+            "id": 41,
             "bank": "NATIONAL BANK OF OMAN",
             "city": "MUSCAT",
             "branch": null,
             "swift_code": "NBOMOMRX"
         },
         {
-            "id": 25,
+            "id": 42,
             "bank": "NATIONAL BANK OF OMAN",
             "city": "RUWI",
             "branch": "(MUZN ISLAMIC BANKING)",
             "swift_code": "NBOMOMRXIBS"
         },
         {
-            "id": 26,
+            "id": 43,
             "bank": "NATIONAL BANK OF OMAN",
             "city": "RUWI",
             "branch": "(MUZN ISLAMIC TRADE FINANCE)",
             "swift_code": "NBOMOMRXITF"
         },
         {
-            "id": 27,
+            "id": 44,
+            "bank": "NATIONAL SECURITIES COMPANY SAOG",
+            "city": "AL HARTHY COMPLEX",
+            "branch": null,
+            "swift_code": "NASGOMR1"
+        },
+        {
+            "id": 45,
             "bank": "OCTAL PETROCHEMICALS FZC",
             "city": "MUSCAT",
             "branch": null,
             "swift_code": "OPCFOMRX"
         },
         {
-            "id": 28,
+            "id": 46,
+            "bank": "OMAN AND EMIRATES INVESTMENT HOLDING CO SAOG",
+            "city": "RUWI",
+            "branch": null,
+            "swift_code": "OMEMOMR1"
+        },
+        {
+            "id": 47,
             "bank": "OMAN AND UAE EXCHANGE CENTRE CO LLC",
             "city": "RUWI",
             "branch": null,
             "swift_code": "OUAEOMRU"
         },
         {
-            "id": 29,
+            "id": 48,
             "bank": "OMAN ARAB BANK SAOC",
             "city": "RUWI",
             "branch": "(AL-YUSR ISLAMIC BANKING)",
             "swift_code": "OMABOMRUYSR"
         },
         {
-            "id": 30,
+            "id": 49,
             "bank": "OMAN ARAB BANK SAOC",
             "city": "RUWI",
             "branch": null,
             "swift_code": "OMABOMRU"
         },
         {
-            "id": 31,
+            "id": 50,
+            "bank": "OMAN BANKING CORP.",
+            "city": "RUWI",
+            "branch": null,
+            "swift_code": "BOGUOMR1"
+        },
+        {
+            "id": 51,
+            "bank": "OMAN INTERNATIONAL DEVELOPMENT AND INVESTMENT COMPANY SAOG",
+            "city": "RUWI",
+            "branch": null,
+            "swift_code": "OIDIOMR1"
+        },
+        {
+            "id": 52,
+            "bank": "OMAN INVESTMENTS SERVICES (SAOC)",
+            "city": "RUWI",
+            "branch": null,
+            "swift_code": "OISOOMR1"
+        },
+        {
+            "id": 53,
+            "bank": "OMAN SECURITY PORTFOLIO CO. (SAOG)",
+            "city": "RUWI",
+            "branch": null,
+            "swift_code": "OSPOOMR1"
+        },
+        {
+            "id": 54,
+            "bank": "OMAN UNITED EXCHANGE CO. LLC",
+            "city": "MUSCAT",
+            "branch": null,
+            "swift_code": "OMUEOMR1"
+        },
+        {
+            "id": 55,
             "bank": "QATAR NATIONAL BANK",
             "city": "MUSCAT",
             "branch": null,
             "swift_code": "QNBAOMRX"
         },
         {
-            "id": 32,
+            "id": 56,
             "bank": "STANDARD CHARTERED BANK",
             "city": "MUSCAT",
             "branch": null,
             "swift_code": "SCBLOMRX"
         },
         {
-            "id": 33,
+            "id": 57,
             "bank": "STATE BANK OF INDIA, MUSCAT, OMAN",
             "city": "MUSCAT",
             "branch": null,
             "swift_code": "SBINOMRX"
         },
         {
-            "id": 34,
+            "id": 58,
             "bank": "STATE GENERAL RESERVE FUND - MINISTRY OF FINANCE",
             "city": "MUSCAT",
             "branch": "(AIM\/POMS SERVICE)",
             "swift_code": "SGRFOMRA"
+        },
+        {
+            "id": 59,
+            "bank": "STATE GENERAL RESERVE FUND - MINISTRY OF FINANCE",
+            "city": "MUSCAT",
+            "branch": null,
+            "swift_code": "SGRFOMR1"
+        },
+        {
+            "id": 60,
+            "bank": "UNITED SECURITIES L.L.C.",
+            "city": "RUWI",
+            "branch": null,
+            "swift_code": "USECOMR1"
+        },
+        {
+            "id": 61,
+            "bank": "VISION INVESTMENT SERVICES CO (S.A.O.C)",
+            "city": "RUWI",
+            "branch": null,
+            "swift_code": "VISIOMR1"
+        },
+        {
+            "id": 62,
+            "bank": "VISION SECURITIES COMPANY LLC",
+            "city": "MUSCAT",
+            "branch": null,
+            "swift_code": "VSCLOMR1"
         }
     ]
 }

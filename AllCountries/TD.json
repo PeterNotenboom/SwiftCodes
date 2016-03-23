@@ -46,34 +46,41 @@
         },
         {
             "id": 7,
+            "bank": "BANQUE TCHADIENNE DE CREDIT ET DE DEPOTS S.A. (B.T.C.D.)",
+            "city": "N'DJAMENA",
+            "branch": null,
+            "swift_code": "BTCHTDN1"
+        },
+        {
+            "id": 8,
             "bank": "COMMERCIAL BANK TCHAD",
             "city": "N'DJAMENA",
             "branch": null,
             "swift_code": "CBTNTDND"
         },
         {
-            "id": 8,
+            "id": 9,
             "bank": "ECOBANK TCHAD",
             "city": "N'DJAMENA",
             "branch": null,
             "swift_code": "ECOCTDND"
         },
         {
-            "id": 9,
+            "id": 10,
             "bank": "ORABANK TCHAD",
             "city": "N'DJAMENA",
             "branch": null,
             "swift_code": "ORBKTDND"
         },
         {
-            "id": 10,
+            "id": 11,
             "bank": "SOCIETE GENERALE TCHAD",
             "city": "N'DJAMENA",
             "branch": null,
             "swift_code": "SOGETDND"
         },
         {
-            "id": 11,
+            "id": 12,
             "bank": "UNITED BANK FOR AFRICA - TCHAD",
             "city": "N'DJAMENA",
             "branch": null,

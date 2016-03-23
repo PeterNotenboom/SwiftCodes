@@ -74,6 +74,41 @@
         },
         {
             "id": 11,
+            "bank": "BNI MADAGASCAR",
+            "city": "ANTSIRANANA",
+            "branch": null,
+            "swift_code": "CLMDMGM10MA"
+        },
+        {
+            "id": 12,
+            "bank": "BNI MADAGASCAR",
+            "city": "MAHAJANGA",
+            "branch": null,
+            "swift_code": "CLMDMGM10MM"
+        },
+        {
+            "id": 13,
+            "bank": "BNI MADAGASCAR",
+            "city": "TOAMASINA",
+            "branch": null,
+            "swift_code": "CLMDMGM10MT"
+        },
+        {
+            "id": 14,
+            "bank": "MARCHE INTERBANCAIRE DES DEVISES M.I.D.",
+            "city": "ANTANANARIVO",
+            "branch": null,
+            "swift_code": "XMDGMGM1"
+        },
+        {
+            "id": 15,
+            "bank": "PAOSITRA MALAGASY",
+            "city": "ANTANANARIVO",
+            "branch": null,
+            "swift_code": "PAMLMGM1"
+        },
+        {
+            "id": 16,
             "bank": "THE MAURITIUS COMMERCIAL BANK (MADAGASCAR) SA",
             "city": "ANTANANARIVO",
             "branch": null,

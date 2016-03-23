@@ -39,41 +39,55 @@
         },
         {
             "id": 6,
+            "bank": "SAVINGS BANK OF TURKMENISTAN",
+            "city": "ASHKHABAD",
+            "branch": null,
+            "swift_code": "SATUTM21"
+        },
+        {
+            "id": 7,
             "bank": "SENAGAT BANK JSCB",
             "city": "ASHKHABAD",
             "branch": null,
             "swift_code": "SENBTM22"
         },
         {
-            "id": 7,
+            "id": 8,
             "bank": "STATE BANK FOR FOREIGN ECONOMIC AFFAIRS OF TURKMENISTAN",
             "city": "ASHKHABAD",
             "branch": null,
             "swift_code": "SBFETM22"
         },
         {
-            "id": 8,
+            "id": 9,
+            "bank": "STATE COMMERCIAL BANK 'GARASHSYZLYK '",
+            "city": "ASHKHABAD",
+            "branch": null,
+            "swift_code": "STCGTM21"
+        },
+        {
+            "id": 10,
             "bank": "STATE COMMERCIAL BANK OF TURKMENISTAN PRESIDENTBANK",
             "city": "ASHKHABAD",
             "branch": null,
             "swift_code": "PRESTM22"
         },
         {
-            "id": 9,
+            "id": 11,
             "bank": "TURKMEN TURKISH JOINT STOCK COMMERCIAL BANK",
             "city": "ASHKHABAD",
             "branch": null,
             "swift_code": "TUTCTM2X"
         },
         {
-            "id": 10,
+            "id": 12,
             "bank": "TURKMENBANK",
             "city": "ASHKHABAD",
             "branch": null,
             "swift_code": "TNBKTM2X"
         },
         {
-            "id": 11,
+            "id": 13,
             "bank": "TURKMENBASHIBANK",
             "city": "ASHKHABAD",
             "branch": null,

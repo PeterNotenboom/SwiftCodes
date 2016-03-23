@@ -19,117 +19,208 @@
         {
             "id": 3,
             "bank": "BANCO DE MOCAMBIQUE",
+            "city": "BEIRA",
+            "branch": null,
+            "swift_code": "BMOCMZM10MB"
+        },
+        {
+            "id": 4,
+            "bank": "BANCO DE MOCAMBIQUE",
             "city": "MAPUTO",
             "branch": null,
             "swift_code": "BMOCMZMA"
         },
         {
-            "id": 4,
+            "id": 5,
+            "bank": "BANCO DE MOCAMBIQUE",
+            "city": "NAMPULA",
+            "branch": null,
+            "swift_code": "BMOCMZM10MN"
+        },
+        {
+            "id": 6,
             "bank": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A",
             "city": "MAPUTO",
             "branch": "(DIRECCAO FINANCEIRA)",
             "swift_code": "BIMOMZMXFIN"
         },
         {
-            "id": 5,
+            "id": 7,
             "bank": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A",
             "city": "MAPUTO",
             "branch": "(DIRECCAO INTERNACIONAL)",
             "swift_code": "BIMOMZMXINT"
         },
         {
-            "id": 6,
+            "id": 8,
             "bank": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A",
             "city": "MAPUTO",
             "branch": null,
             "swift_code": "BIMOMZMX"
         },
         {
-            "id": 7,
+            "id": 9,
             "bank": "BANCO MAIS, SA",
             "city": "MAPUTO",
             "branch": null,
             "swift_code": "MAISMZMA"
         },
         {
-            "id": 8,
+            "id": 10,
             "bank": "BANCO MERCANTIL E DE INVESTIMENTOS",
             "city": "MAPUTO",
             "branch": null,
             "swift_code": "MERVMZMA"
         },
         {
-            "id": 9,
+            "id": 11,
             "bank": "BANCO NACIONAL DE INVESTIMENTO, SA",
             "city": "MAPUTO",
             "branch": null,
             "swift_code": "BNIMMZMP"
         },
         {
-            "id": 10,
+            "id": 12,
+            "bank": "BANCO PORTUGUES ATLANTICO",
+            "city": "MAPUTO",
+            "branch": null,
+            "swift_code": "ILBKMZM1"
+        },
+        {
+            "id": 13,
             "bank": "BANCO SOCIETE GENERALE (MOCAMBIQUE) S.A.",
             "city": "MAPUTO",
             "branch": null,
             "swift_code": "MCBLMZMA"
         },
         {
-            "id": 11,
+            "id": 14,
             "bank": "BANCO TERRA, SA",
             "city": "MAPUTO",
             "branch": null,
             "swift_code": "TERRMZMA"
         },
         {
-            "id": 12,
+            "id": 15,
             "bank": "BANCO UNICO, SA",
             "city": "MAPUTO",
             "branch": null,
             "swift_code": "UNICMZMX"
         },
         {
-            "id": 13,
+            "id": 16,
+            "bank": "BARCLAYS BANK MOCAMBIQUE, S.A.",
+            "city": "BEIRA",
+            "branch": null,
+            "swift_code": "ABMZMZM10MB"
+        },
+        {
+            "id": 17,
             "bank": "BARCLAYS BANK MOCAMBIQUE, S.A.",
             "city": "MAPUTO",
             "branch": null,
             "swift_code": "ABMZMZMA"
         },
         {
-            "id": 14,
+            "id": 18,
+            "bank": "BARCLAYS BANK MOCAMBIQUE, S.A.",
+            "city": "NAMPULA",
+            "branch": null,
+            "swift_code": "ABMZMZM10MN"
+        },
+        {
+            "id": 19,
+            "bank": "BRITISH AMERICAN TOBACCO MOZAMBIQUE LIMITADA",
+            "city": "MAPUTO",
+            "branch": null,
+            "swift_code": "BATSMZ31"
+        },
+        {
+            "id": 20,
             "bank": "CAPITAL BANK SA",
             "city": "MAPUTO",
             "branch": null,
             "swift_code": "IBICMZMA"
         },
         {
-            "id": 15,
+            "id": 21,
+            "bank": "CREDICOOP",
+            "city": "MAPUTO",
+            "branch": null,
+            "swift_code": "CRECMZM1"
+        },
+        {
+            "id": 22,
             "bank": "ECOBANK MOCAMBIQUE, S.A.",
             "city": "MAPUTO",
             "branch": null,
             "swift_code": "ECOCMZMP"
         },
         {
-            "id": 16,
+            "id": 23,
             "bank": "FNB MOZAMBIQUE,SA",
             "city": "MAPUTO",
             "branch": null,
             "swift_code": "FIRNMZMX"
         },
         {
-            "id": 17,
+            "id": 24,
             "bank": "MOZA BANCO SA",
             "city": "MAPUTO",
             "branch": null,
             "swift_code": "MOZAMZMA"
         },
         {
-            "id": 18,
+            "id": 25,
+            "bank": "SABMILLER MOZAMBIQUE",
+            "city": "MAPUTO",
+            "branch": null,
+            "swift_code": "SABMMZM1"
+        },
+        {
+            "id": 26,
+            "bank": "SABMILLER MOZAMBIQUE",
+            "city": "MAPUTO",
+            "branch": null,
+            "swift_code": "SABMMZM1CDM"
+        },
+        {
+            "id": 27,
+            "bank": "SOCIEDADE AGRICOLA DE TOBACOS LIMITADA",
+            "city": "MAPUTO",
+            "branch": null,
+            "swift_code": "BATSMZM1"
+        },
+        {
+            "id": 28,
+            "bank": "STANDARD BANK SARL",
+            "city": "BEIRA",
+            "branch": null,
+            "swift_code": "SBICMZM10MB"
+        },
+        {
+            "id": 29,
             "bank": "STANDARD BANK SARL",
             "city": "MAPUTO",
             "branch": null,
             "swift_code": "SBICMZMX"
         },
         {
-            "id": 19,
+            "id": 30,
+            "bank": "STANDARD BANK SARL",
+            "city": "NAMPULA",
+            "branch": null,
+            "swift_code": "SBICMZM10MN"
+        },
+        {
+            "id": 31,
+            "bank": "STANDARD CHARTERED BANK OF MOZAMBIQUE",
+            "city": "MAPUTO",
+            "branch": null,
+            "swift_code": "SCBLMZM1"
+        },
+        {
+            "id": 32,
             "bank": "UBA MOCAMBIQUE,SA",
             "city": "MAPUTO",
             "branch": null,

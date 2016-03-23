@@ -11,52 +11,220 @@
         },
         {
             "id": 2,
+            "bank": "ARTICA FINANCE HF.",
+            "city": "KOPAVOGUR",
+            "branch": null,
+            "swift_code": "ARNIISR1"
+        },
+        {
+            "id": 3,
+            "bank": "AUDUR CAPITAL HF.",
+            "city": "REYKJAVIK",
+            "branch": null,
+            "swift_code": "AUCAISR1"
+        },
+        {
+            "id": 4,
             "bank": "BORGUN HF",
             "city": "REYKJAVIK",
             "branch": null,
             "swift_code": "BORGISRE"
         },
         {
-            "id": 3,
+            "id": 5,
+            "bank": "BYR SECURITIES",
+            "city": "REYKJAVIK",
+            "branch": null,
+            "swift_code": "BYSEISR1"
+        },
+        {
+            "id": 6,
             "bank": "CENTRAL BANK OF ICELAND",
             "city": "REYKJAVIK",
             "branch": null,
             "swift_code": "SISLISRE"
         },
         {
-            "id": 4,
+            "id": 7,
+            "bank": "FOSSAR MARKADIR HF",
+            "city": "REYKJAVIK",
+            "branch": null,
+            "swift_code": "FOMRISR1"
+        },
+        {
+            "id": 8,
+            "bank": "HF VERDBREF",
+            "city": "REYKJAVIK",
+            "branch": null,
+            "swift_code": "VERRISR1"
+        },
+        {
+            "id": 9,
+            "bank": "ICELANDIC SECURITIES LTD.",
+            "city": "AKUREYRI",
+            "branch": null,
+            "swift_code": "ICSCISR1"
+        },
+        {
+            "id": 10,
             "bank": "ISLANDSBANKI HF",
             "city": "REYKJAVIK",
             "branch": null,
             "swift_code": "GLITISRE"
         },
         {
-            "id": 5,
+            "id": 11,
+            "bank": "ISLANDSBANKI SECURITIES",
+            "city": "REYKJAVIK",
+            "branch": null,
+            "swift_code": "VISLISR1"
+        },
+        {
+            "id": 12,
+            "bank": "ISLANDSPOSTUR HF",
+            "city": "REYKJAVIK",
+            "branch": null,
+            "swift_code": "ICGIISR1"
+        },
+        {
+            "id": 13,
+            "bank": "ISLENSKIR FJARFESTAR HF.",
+            "city": "REYKJAVIK",
+            "branch": null,
+            "swift_code": "ISFJISR1"
+        },
+        {
+            "id": 14,
+            "bank": "JOKLAR-VERDBREF HF",
+            "city": "REYKJAVIK",
+            "branch": null,
+            "swift_code": "JOKLISR1"
+        },
+        {
+            "id": 15,
             "bank": "KVIKA BANKI HF.",
             "city": "REYKJAVIK",
             "branch": null,
             "swift_code": "MPBAISRE"
         },
         {
-            "id": 6,
+            "id": 16,
             "bank": "LANDSBANKINN HF",
             "city": "REYKJAVIK",
             "branch": null,
             "swift_code": "NBIIISRE"
         },
         {
-            "id": 7,
+            "id": 17,
+            "bank": "NASDAQ OMX ICELAND HF",
+            "city": "REYKJAVIK",
+            "branch": null,
+            "swift_code": "XICEISR1"
+        },
+        {
+            "id": 18,
+            "bank": "NATIONAL REGISTRY OF ICELAND",
+            "city": "REYKJAVIK",
+            "branch": null,
+            "swift_code": "NARIISR1"
+        },
+        {
+            "id": 19,
+            "bank": "OSSUR HF",
+            "city": "REYKJAVIK",
+            "branch": null,
+            "swift_code": "OSSRISR1"
+        },
+        {
+            "id": 20,
+            "bank": "REYKJAVIK CAPITAL HF",
+            "city": "REYKJAVIK",
+            "branch": null,
+            "swift_code": "NOVEISR1"
+        },
+        {
+            "id": 21,
+            "bank": "SAGA CAPITAL FJARFESTINGARBANKI HF.",
+            "city": "AKUREYRI",
+            "branch": null,
+            "swift_code": "SACVISR1"
+        },
+        {
+            "id": 22,
+            "bank": "SPARISJOOUR MYRASYSLU",
+            "city": "BORGARNES",
+            "branch": null,
+            "swift_code": "SPMYISR1"
+        },
+        {
+            "id": 23,
+            "bank": "SPARISJOOURINN I KEFLAVIK",
+            "city": "REYKJANESBAE",
+            "branch": null,
+            "swift_code": "SPKFISR1"
+        },
+        {
+            "id": 24,
+            "bank": "SPH",
+            "city": "HAFNARFJORDUR",
+            "branch": null,
+            "swift_code": "SPPHISR1"
+        },
+        {
+            "id": 25,
+            "bank": "SPRON VERDBREF HF",
+            "city": "REYKJAVIK",
+            "branch": null,
+            "swift_code": "SPVRISR1"
+        },
+        {
+            "id": 26,
             "bank": "STRAUMUR FJARFESTINGABANKI HF",
             "city": "REYKJAVIK",
             "branch": null,
             "swift_code": "STRBISRE"
         },
         {
-            "id": 8,
+            "id": 27,
+            "bank": "THE ICELANDIC SECURITIES DEPOSITORY LTD.",
+            "city": "REYKJAVIK",
+            "branch": null,
+            "swift_code": "ICSDISR1"
+        },
+        {
+            "id": 28,
+            "bank": "TINDAR VERDBREF",
+            "city": "REYKJAVIK",
+            "branch": null,
+            "swift_code": "TIVEISR1"
+        },
+        {
+            "id": 29,
             "bank": "VALITOR HF",
             "city": "HAFNARFJORDUR",
             "branch": null,
             "swift_code": "VATOISRE"
+        },
+        {
+            "id": 30,
+            "bank": "VBS INVESTMENT BANK",
+            "city": "REYKJAVIK",
+            "branch": null,
+            "swift_code": "VBINISR1"
+        },
+        {
+            "id": 31,
+            "bank": "VIRDING HF.",
+            "city": "REYKJAVIK",
+            "branch": null,
+            "swift_code": "VIRDISR1"
+        },
+        {
+            "id": 32,
+            "bank": "VSP",
+            "city": "REYKJAVIK",
+            "branch": null,
+            "swift_code": "VSPVISR1"
         }
     ]
 }

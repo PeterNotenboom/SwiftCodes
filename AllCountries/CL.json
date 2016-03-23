@@ -11,325 +11,787 @@
         },
         {
             "id": 2,
+            "bank": "BANCHILE CORREDORES DE BOLSA S.A.",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "BCOSCLR1"
+        },
+        {
+            "id": 3,
             "bank": "BANCO BICE",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "BICECLRM"
         },
         {
-            "id": 3,
+            "id": 4,
             "bank": "BANCO BILBAO VIZCAYA ARGENTARIA, CHILE",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "BHIFCLRM"
         },
         {
-            "id": 4,
+            "id": 5,
             "bank": "BANCO BTG PACTUAL CHILE",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "BPABCLRM"
         },
         {
-            "id": 5,
-            "bank": "BANCO CENTRAL DE CHILE",
-            "city": "SANTIAGO",
-            "branch": null,
-            "swift_code": "BCECCLRF"
-        },
-        {
             "id": 6,
             "bank": "BANCO CENTRAL DE CHILE",
             "city": "SANTIAGO",
             "branch": null,
-            "swift_code": "BCECCLRM"
+            "swift_code": "BCECCLA1"
         },
         {
             "id": 7,
             "bank": "BANCO CENTRAL DE CHILE",
             "city": "SANTIAGO",
             "branch": null,
-            "swift_code": "BCECCLRD"
+            "swift_code": "BCECCLRF"
         },
         {
             "id": 8,
+            "bank": "BANCO CENTRAL DE CHILE",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "BCECCLRM"
+        },
+        {
+            "id": 9,
+            "bank": "BANCO CENTRAL DE CHILE",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "BCECCLRD"
+        },
+        {
+            "id": 10,
             "bank": "BANCO CONSORCIO",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "MNEXCLRM"
         },
         {
-            "id": 9,
+            "id": 11,
+            "bank": "BANCO DE CHILE",
+            "city": "ANTOFAGASTA",
+            "branch": null,
+            "swift_code": "BCHICLR10R5"
+        },
+        {
+            "id": 12,
+            "bank": "BANCO DE CHILE",
+            "city": "ARICA",
+            "branch": null,
+            "swift_code": "BCHICLR10R3"
+        },
+        {
+            "id": 13,
+            "bank": "BANCO DE CHILE",
+            "city": "CONCEPCION",
+            "branch": null,
+            "swift_code": "BCHICLR10RC"
+        },
+        {
+            "id": 14,
+            "bank": "BANCO DE CHILE",
+            "city": "COYHAIQUE",
+            "branch": null,
+            "swift_code": "BCHICLR10RY"
+        },
+        {
+            "id": 15,
+            "bank": "BANCO DE CHILE",
+            "city": "IQUIQUE",
+            "branch": null,
+            "swift_code": "BCHICLR10R4"
+        },
+        {
+            "id": 16,
+            "bank": "BANCO DE CHILE",
+            "city": "LA SERENA",
+            "branch": null,
+            "swift_code": "BCHICLR10R6"
+        },
+        {
+            "id": 17,
+            "bank": "BANCO DE CHILE",
+            "city": "PUERTO MONTT",
+            "branch": null,
+            "swift_code": "BCHICLR10R8"
+        },
+        {
+            "id": 18,
+            "bank": "BANCO DE CHILE",
+            "city": "PUNTA ARENAS",
+            "branch": null,
+            "swift_code": "BCHICLR10RA"
+        },
+        {
+            "id": 19,
             "bank": "BANCO DE CHILE",
             "city": "SANTIAGO",
             "branch": "(EXPORT)",
             "swift_code": "BCHICLRMEXP"
         },
         {
-            "id": 10,
+            "id": 20,
             "bank": "BANCO DE CHILE",
             "city": "SANTIAGO",
             "branch": "(IMPORT HEAD OFFICE)",
             "swift_code": "BCHICLRMIMP"
         },
         {
-            "id": 11,
+            "id": 21,
             "bank": "BANCO DE CHILE",
             "city": "SANTIAGO",
             "branch": "(IMPORT OTHER SANTIAGO BRANCHES)",
             "swift_code": "BCHICLRMIOB"
         },
         {
-            "id": 12,
+            "id": 22,
             "bank": "BANCO DE CHILE",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "BCHICLRM"
         },
         {
-            "id": 13,
+            "id": 23,
+            "bank": "BANCO DE CHILE",
+            "city": "TEMUCO",
+            "branch": null,
+            "swift_code": "BCHICLR10R7"
+        },
+        {
+            "id": 24,
+            "bank": "BANCO DE CHILE",
+            "city": "VALPARAISO",
+            "branch": null,
+            "swift_code": "BCHICLR10RV"
+        },
+        {
+            "id": 25,
+            "bank": "BANCO DE CHILE",
+            "city": "VINA DEL MAR",
+            "branch": null,
+            "swift_code": "BCHICLR10R2"
+        },
+        {
+            "id": 26,
             "bank": "BANCO DE CHILE, AS LEGAL SUCCESOR OF CITIBANK CHILE",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "CITICLRS"
         },
         {
-            "id": 14,
+            "id": 27,
             "bank": "BANCO DE CREDITO E INVERSIONES",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "CREDCLRM"
         },
         {
-            "id": 15,
+            "id": 28,
             "bank": "BANCO DE LA NACION ARGENTINA",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "NACNCLRM"
         },
         {
-            "id": 16,
+            "id": 29,
+            "bank": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "PRBACLR1"
+        },
+        {
+            "id": 30,
             "bank": "BANCO DEL ESTADO DE CHILE",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "BECHCLRM"
         },
         {
-            "id": 17,
+            "id": 31,
             "bank": "BANCO DO BRASIL S.A.",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "BRASCLRM"
         },
         {
-            "id": 18,
+            "id": 32,
             "bank": "BANCO FALABELLA",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "FALACLRM"
         },
         {
-            "id": 19,
+            "id": 33,
             "bank": "BANCO INTERNACIONAL",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "BICHCLRM"
         },
         {
-            "id": 20,
+            "id": 34,
             "bank": "BANCO ITAU CHILE",
             "city": "SANTIAGO",
             "branch": "(SECURITY SERVICES)",
             "swift_code": "ITAUCLRMSSO"
         },
         {
-            "id": 21,
+            "id": 35,
             "bank": "BANCO ITAU CHILE",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "ITAUCLRM"
         },
         {
-            "id": 22,
+            "id": 36,
             "bank": "BANCO PARIS",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "BCNPCLRM"
         },
         {
-            "id": 23,
+            "id": 37,
             "bank": "BANCO PENTA",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "BPENCLRM"
         },
         {
-            "id": 24,
+            "id": 38,
             "bank": "BANCO RIPLEY",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "RPLYCLRM"
         },
         {
-            "id": 25,
+            "id": 39,
+            "bank": "BANCO SANTANDER CHILE",
+            "city": "ANTOFAGASTA",
+            "branch": null,
+            "swift_code": "BSCHCLR10R2"
+        },
+        {
+            "id": 40,
+            "bank": "BANCO SANTANDER CHILE",
+            "city": "ARICA",
+            "branch": null,
+            "swift_code": "BSCHCLR10R3"
+        },
+        {
+            "id": 41,
+            "bank": "BANCO SANTANDER CHILE",
+            "city": "CHILLAN",
+            "branch": null,
+            "swift_code": "BSCHCLR10R4"
+        },
+        {
+            "id": 42,
+            "bank": "BANCO SANTANDER CHILE",
+            "city": "CONCEPCION",
+            "branch": null,
+            "swift_code": "BSCHCLR10R5"
+        },
+        {
+            "id": 43,
+            "bank": "BANCO SANTANDER CHILE",
+            "city": "COYHAIQUE",
+            "branch": null,
+            "swift_code": "BSCHCLR10R6"
+        },
+        {
+            "id": 44,
+            "bank": "BANCO SANTANDER CHILE",
+            "city": "CURICO",
+            "branch": null,
+            "swift_code": "BSCHCLR10R7"
+        },
+        {
+            "id": 45,
+            "bank": "BANCO SANTANDER CHILE",
+            "city": "IQUIQUE",
+            "branch": null,
+            "swift_code": "BSCHCLR10RA"
+        },
+        {
+            "id": 46,
+            "bank": "BANCO SANTANDER CHILE",
+            "city": "LA SERENA",
+            "branch": null,
+            "swift_code": "BSCHCLR10RB"
+        },
+        {
+            "id": 47,
+            "bank": "BANCO SANTANDER CHILE",
+            "city": "PUERTO MONTT",
+            "branch": null,
+            "swift_code": "BSCHCLR10RD"
+        },
+        {
+            "id": 48,
+            "bank": "BANCO SANTANDER CHILE",
+            "city": "PUNTA ARENAS",
+            "branch": null,
+            "swift_code": "BSCHCLR10RE"
+        },
+        {
+            "id": 49,
+            "bank": "BANCO SANTANDER CHILE",
+            "city": "RANCAGUA",
+            "branch": null,
+            "swift_code": "BSCHCLR10RF"
+        },
+        {
+            "id": 50,
             "bank": "BANCO SANTANDER CHILE",
             "city": "SANTIAGO",
             "branch": "(GLOBAL CUSTODY DEPARTMENT)",
             "swift_code": "BSCHCLRMGST"
         },
         {
-            "id": 26,
+            "id": 51,
             "bank": "BANCO SANTANDER CHILE",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "BSCHCLRM"
         },
         {
-            "id": 27,
+            "id": 52,
+            "bank": "BANCO SANTANDER CHILE",
+            "city": "TALCA",
+            "branch": null,
+            "swift_code": "BSCHCLR10RG"
+        },
+        {
+            "id": 53,
+            "bank": "BANCO SANTANDER CHILE",
+            "city": "TEMUCO",
+            "branch": null,
+            "swift_code": "BSCHCLR10RH"
+        },
+        {
+            "id": 54,
+            "bank": "BANCO SANTANDER CHILE",
+            "city": "VALDIVIA",
+            "branch": null,
+            "swift_code": "BSCHCLR10RJ"
+        },
+        {
+            "id": 55,
+            "bank": "BANCO SANTANDER CHILE",
+            "city": "VALPARAISO",
+            "branch": null,
+            "swift_code": "BSCHCLR10RK"
+        },
+        {
+            "id": 56,
+            "bank": "BANCO SANTANDER CHILE",
+            "city": "VINA DEL MAR",
+            "branch": null,
+            "swift_code": "BSCHCLR10RL"
+        },
+        {
+            "id": 57,
             "bank": "BANCO SECURITY",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "BSCLCLRM"
         },
         {
-            "id": 28,
+            "id": 58,
+            "bank": "BANK OF AMERICA, S.A. SANTIAGO",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "BOFACLR1"
+        },
+        {
+            "id": 59,
             "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
             "city": "SANTIAGO",
             "branch": "(SANTIAGO BRANCH)",
             "swift_code": "BOTKCLRM"
         },
         {
-            "id": 29,
+            "id": 60,
+            "bank": "BBVA CORREDORES DE BOLSA LIMITADA",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "BCBDCLR1"
+        },
+        {
+            "id": 61,
+            "bank": "BCI CORREDOR DE BOLSA S.A.",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "BCCSCLR1"
+        },
+        {
+            "id": 62,
+            "bank": "BOLSA DE COMERCIO DE SANTIAGO",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "XSGOCLR1"
+        },
+        {
+            "id": 63,
+            "bank": "BTG PACTUAL CHILE S.A. CORREDORES DE BOLSA",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "CCOACLR1"
+        },
+        {
+            "id": 64,
             "bank": "CASA DE CAMBIOS GUINAZU S.A.",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "GINACLRM"
         },
         {
-            "id": 30,
+            "id": 65,
+            "bank": "CASA DE MONEDA DE CHILE",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "CAMCCLR1"
+        },
+        {
+            "id": 66,
             "bank": "CCLV, CONTRAPARTE CENTRAL S.A.",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "ECCVCLRM"
         },
         {
-            "id": 31,
+            "id": 67,
+            "bank": "CELFIN S.A.",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "CELFCLR1"
+        },
+        {
+            "id": 68,
             "bank": "COMBANC S.A.",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "PCCACLRM"
         },
         {
-            "id": 32,
+            "id": 69,
             "bank": "COMDER CONTRAPARTE CENTRAL S.A.",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "CDERCLRM"
         },
         {
-            "id": 33,
+            "id": 70,
             "bank": "COMDER CONTRAPARTE CENTRAL S.A.",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "CDERCLRG"
         },
         {
-            "id": 34,
+            "id": 71,
+            "bank": "CONSORCIO CORREDORES DE BOLSA S.A.",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "CNCOCLR1"
+        },
+        {
+            "id": 72,
+            "bank": "COOPERATIVA DE CONSUMOS E DE AHORROS CARABINEROS DE CHILE LTD.",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "CCACCLR1"
+        },
+        {
+            "id": 73,
             "bank": "CORP BANCA",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "CONBCLRM"
         },
         {
-            "id": 35,
+            "id": 74,
+            "bank": "CORPCAPITAL CORREDORES DE BOLSA SA",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "CRRBCLR1"
+        },
+        {
+            "id": 75,
+            "bank": "CORPORACION FOMENTO DE LA PRODUCCION",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "CFPCCLR1"
+        },
+        {
+            "id": 76,
+            "bank": "CORPORACION NACIONAL DEL COBRE DE CHILE",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "CNCCCLR1"
+        },
+        {
+            "id": 77,
             "bank": "DEPOSITO CENTRAL DE VALORES S.A.",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "DCVVCLRM"
         },
         {
-            "id": 36,
+            "id": 78,
             "bank": "DEUTSCHE BANK (CHILE) S.A.",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "DEUTCLRM"
         },
         {
-            "id": 37,
+            "id": 79,
+            "bank": "DEUTSCHE SECURITIES CORREDORES DE BOLSA LIMITADA",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "DSCBCLR1"
+        },
+        {
+            "id": 80,
             "bank": "DNB BANK ASA, AGENCIA EN CHILE",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "DNBACLRM"
         },
         {
-            "id": 38,
+            "id": 81,
+            "bank": "EUROAMERICA CORREDORES DE BOLSA S.A",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "EUOBCLR1"
+        },
+        {
+            "id": 82,
+            "bank": "EXPORT-IMPORT BANK OF KOREA, THE",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "EXIKCLR1"
+        },
+        {
+            "id": 83,
+            "bank": "FITCH CHILE CLASIFICADORA DE REISGO LTD",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "FRIPCLR1"
+        },
+        {
+            "id": 84,
+            "bank": "GBM CORREDORES DE BOLSA LIMITADA",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "GCBMCLR1"
+        },
+        {
+            "id": 85,
             "bank": "HSBC BANK (CHILE)",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "BLICCLRM"
         },
         {
-            "id": 39,
+            "id": 86,
+            "bank": "IM TRUST S.A. CORREDORES DE BOLSA",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "TROBCLR1"
+        },
+        {
+            "id": 87,
+            "bank": "ITAU CHILE ADMINISTRADORA GENERAL DE FONDOS S.A.",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "ICDGCLR1"
+        },
+        {
+            "id": 88,
+            "bank": "ITAU CHILE CORREDOR DE BOLSA LTDA",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "ICCSCLR1"
+        },
+        {
+            "id": 89,
+            "bank": "J.P. MORGAN CORREDORES DE BOLSA SPA",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "MOCBCLR1"
+        },
+        {
+            "id": 90,
             "bank": "JPMORGAN CHASE BANK, N.A.",
             "city": "SANTIAGO",
             "branch": "(TEST KEY AND BKE ADMINISTRATION)",
             "swift_code": "CHASCLRMKEY"
         },
         {
-            "id": 40,
+            "id": 91,
             "bank": "JPMORGAN CHASE BANK, N.A.",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "CHASCLRM"
         },
         {
-            "id": 41,
+            "id": 92,
+            "bank": "LARRAIN VIAL",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "LARVCLR1"
+        },
+        {
+            "id": 93,
+            "bank": "LATCAM PAGOS INTERNACIONALES S.A.",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "LPITCLR1"
+        },
+        {
+            "id": 94,
+            "bank": "MBI CORREDORES DE BOLSA S.A.",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "MBCBCLR1"
+        },
+        {
+            "id": 95,
+            "bank": "MERRILL LYNCH CORREDORES DE BOLSA S.A.",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "MLOBCLR1"
+        },
+        {
+            "id": 96,
+            "bank": "MONEDA CORREDORES DE BOLSA DE BOLSA LIMITADA",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "MCBBCLR1"
+        },
+        {
+            "id": 97,
+            "bank": "NEGOCIOS Y VALORES S.A C DE B",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "NEVACLR1"
+        },
+        {
+            "id": 98,
+            "bank": "PACIFIC OVERSEAS INTERNATIONAL BANK LIMITED",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "PAONCLR1"
+        },
+        {
+            "id": 99,
+            "bank": "PENTA CORREDORES DE BOLSA S.A.",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "PCOLCLR1"
+        },
+        {
+            "id": 100,
             "bank": "RABOBANK CHILE",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "RABOCLRM"
         },
         {
-            "id": 42,
+            "id": 101,
+            "bank": "REDBANC S.A",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "REBCCLR1"
+        },
+        {
+            "id": 102,
+            "bank": "SAMSUNG ELECTRONICS CHILE LIMITADA (LTDA)",
+            "city": "SANTIAGO",
+            "branch": "(SECH)",
+            "swift_code": "SECTCLR1850"
+        },
+        {
+            "id": 103,
+            "bank": "SAMSUNG ELECTRONICS CHILE LIMITADA (LTDA)",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "SECTCLR1"
+        },
+        {
+            "id": 104,
+            "bank": "SANTANDER INVESTMENT S.A. CORREDORES DE BOLSA",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "SANMCLR1"
+        },
+        {
+            "id": 105,
+            "bank": "SCOTIA CORREDORA DE BOLSA",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "CBSCCLR1"
+        },
+        {
+            "id": 106,
             "bank": "SCOTIABANK CHILE",
             "city": "ARICA",
             "branch": null,
             "swift_code": "BKSACLRM064"
         },
         {
-            "id": 43,
+            "id": 107,
             "bank": "SCOTIABANK CHILE",
             "city": "CONCEPCION",
             "branch": null,
             "swift_code": "BKSACLRM068"
         },
         {
-            "id": 44,
+            "id": 108,
             "bank": "SCOTIABANK CHILE",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "BKSACLRM"
         },
         {
-            "id": 45,
+            "id": 109,
             "bank": "SCOTIABANK CHILE",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "BKSACLRM055"
         },
         {
-            "id": 46,
+            "id": 110,
             "bank": "SCOTIABANK CHILE",
             "city": "VALPARAISO",
             "branch": null,
             "swift_code": "BKSACLRM061"
         },
         {
-            "id": 47,
+            "id": 111,
+            "bank": "TANNER CORREDORES DE BOLSA",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "TCBOCLR1"
+        },
+        {
+            "id": 112,
             "bank": "TANNER SERVICIOS FINANCIEROS S.A.",
             "city": "SANTIAGO",
             "branch": null,
             "swift_code": "FTLNCLRM"
+        },
+        {
+            "id": 113,
+            "bank": "TESORERIA GENERAL DE LA REPUBLICA",
+            "city": "SANTIAGO",
+            "branch": null,
+            "swift_code": "TEGECLR1"
         }
     ]
 }

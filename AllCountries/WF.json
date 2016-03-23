@@ -4,10 +4,31 @@
     "list": [
         {
             "id": 1,
+            "bank": "BANQUE DE WALLIS ET FUTUNA SA",
+            "city": "MATA UTU",
+            "branch": null,
+            "swift_code": "WAFTWF21"
+        },
+        {
+            "id": 2,
             "bank": "CAISSE DES DEPOTS ET CONSIGNATIONS",
             "city": "MATA UTU",
             "branch": null,
             "swift_code": "CDCGWF2M"
+        },
+        {
+            "id": 3,
+            "bank": "IEOM MATA UTU",
+            "city": "MATA UTU",
+            "branch": null,
+            "swift_code": "INDDWF21"
+        },
+        {
+            "id": 4,
+            "bank": "TRESOR PUBLIC UVEA MATA UTU",
+            "city": "MATA UTU",
+            "branch": null,
+            "swift_code": "TRPUWF21"
         }
     ]
 }

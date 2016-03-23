@@ -4,3765 +4,5746 @@
     "list": [
         {
             "id": 1,
+            "bank": "3 CAPITAL TRADING (LUXEMBOURG) SARL",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "CTLSLUL1"
+        },
+        {
+            "id": 2,
             "bank": "ABLV BANK LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "ABLVLULL"
         },
         {
-            "id": 2,
+            "id": 3,
             "bank": "ABN AMRO BANK LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "ABNALU2A"
         },
         {
-            "id": 3,
+            "id": 4,
+            "bank": "ACM FUND SERVICES S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "ACMFLUL1"
+        },
+        {
+            "id": 5,
+            "bank": "AD SICAV",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "SIVALUL1"
+        },
+        {
+            "id": 6,
             "bank": "ADVANZIA BANK S.A.",
             "city": "MUNSBACH",
             "branch": null,
             "swift_code": "ADVZLULL"
         },
         {
-            "id": 4,
+            "id": 7,
+            "bank": "AETNA INTERNATIONAL GLOBAL INVESTMENT SERVICES",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "AIGNLUL1"
+        },
+        {
+            "id": 8,
             "bank": "AGRICULTURAL BANK OF CHINA (LUXEMBOURG) BRANCH",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "ABOCLULB"
         },
         {
-            "id": 5,
+            "id": 9,
             "bank": "AGRICULTURAL BANK OF CHINA (LUXEMBOURG) S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "ABOCLULL"
         },
         {
-            "id": 6,
+            "id": 10,
+            "bank": "AISM LUXEMBOURG",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "AILULUL1"
+        },
+        {
+            "id": 11,
+            "bank": "ALCEDA FUND MANAGEMENT S.A",
+            "city": "SENNINGERBERG",
+            "branch": null,
+            "swift_code": "ALUALUL1"
+        },
+        {
+            "id": 12,
+            "bank": "ALL TRADING COFIDEM LUXEMBOURG S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "ATCLLUL1"
+        },
+        {
+            "id": 13,
+            "bank": "ALLEGRO S.A R.L.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "ALLOLUL1"
+        },
+        {
+            "id": 14,
             "bank": "ALLFUNDS BANK INTERNATIONAL S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "ALLFLULL"
         },
         {
-            "id": 7,
+            "id": 15,
+            "bank": "ALPHA ONE SICAV-FIS",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "ALOVLUL1"
+        },
+        {
+            "id": 16,
+            "bank": "ALPHA WEALTH MANAGEMENT LUXEMBOURG S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "AWMULUL1"
+        },
+        {
+            "id": 17,
+            "bank": "AMAZON PAYMENTS EUROPE S.C.A",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "AEUSLUL1"
+        },
+        {
+            "id": 18,
             "bank": "ANDBANC LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "BACALULL"
         },
         {
-            "id": 8,
+            "id": 19,
             "bank": "ANDBANK ASSET MANAGEMENT LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": "(AIM\/POMS SERVICE)",
             "swift_code": "AAMALULL"
         },
         {
-            "id": 9,
+            "id": 20,
+            "bank": "ANOA CAPITAL S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "ANCILUL1"
+        },
+        {
+            "id": 21,
+            "bank": "ANPHIKO ASSET MANAGEMENT S.A.",
+            "city": "CAPELLEN",
+            "branch": null,
+            "swift_code": "ANANLUL1"
+        },
+        {
+            "id": 22,
             "bank": "APERAM TREASURY SCA",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "APAMLULL"
         },
         {
-            "id": 10,
+            "id": 23,
+            "bank": "APEX FUNDS SERVICES LUXEMBOURG",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "AFSXLUL1"
+        },
+        {
+            "id": 24,
+            "bank": "ARBITRAGE CHANGE S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "ARBILUL1"
+        },
+        {
+            "id": 25,
+            "bank": "ARCELORMITTAL",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "USINLUL1"
+        },
+        {
+            "id": 26,
+            "bank": "ARGENTABANK LUXEMBOURG S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "ARLULUL1"
+        },
+        {
+            "id": 27,
+            "bank": "ARPEGGIO INVESTMENT CORPORATION",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "SCBALUL1"
+        },
+        {
+            "id": 28,
+            "bank": "ASPECTA ASSURANCE INTERNATIONAL LUXEMBOURG S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "AAILLUL1"
+        },
+        {
+            "id": 29,
             "bank": "ASSOCIATION COOPERATIVE FINANCIERE DES FONCTIONNAIRES INTERNATIONAUX (AMFIE)",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "AMFELULL"
         },
         {
-            "id": 11,
+            "id": 30,
+            "bank": "ASSOCIATION DES BANQUES ET BANQUIERS, LUXEMBOURG",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "LBBALUL1"
+        },
+        {
+            "id": 31,
+            "bank": "ASSYA ASSET MANAGEMENT",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "ASENLUL1"
+        },
+        {
+            "id": 32,
+            "bank": "ATAG ASSET MANAGEMENT (LUXEMBOURG) S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "AAMLLUL1"
+        },
+        {
+            "id": 33,
+            "bank": "ATAG GESTION DE FORTUNE (LUXEMBOURG) S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "ATAGLUL1"
+        },
+        {
+            "id": 34,
+            "bank": "ATEL DERIVATIVES S.A.R.L.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "ATDSLUL1"
+        },
+        {
+            "id": 35,
+            "bank": "ATLANTICLUX LEBENSVERSICHERUNG S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "ATLELUL1"
+        },
+        {
+            "id": 36,
             "bank": "ATTRAX S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "ATRXLULL"
         },
         {
-            "id": 12,
+            "id": 37,
+            "bank": "AUREA FINANCE COMPANY",
+            "city": "STEINSEL",
+            "branch": null,
+            "swift_code": "AUFILUL1"
+        },
+        {
+            "id": 38,
+            "bank": "AVATRADE LUXEMBOURG S.A.R.L",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "AVLSLUL1"
+        },
+        {
+            "id": 39,
+            "bank": "AXA ASSURANCE VIE LUXEMBOURG SA",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "AAVULUL1"
+        },
+        {
+            "id": 40,
             "bank": "AZ EURO INVESTMENTS S.A.R.L.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "AZEULULL"
         },
         {
-            "id": 13,
+            "id": 41,
             "bank": "AZ FUND MANAGEMENT SA",
             "city": "LUXEMBOURG",
             "branch": "(AIM\/POMS SERVICE)",
             "swift_code": "AZFMLULL"
         },
         {
-            "id": 14,
+            "id": 42,
+            "bank": "AZ FUND MANAGEMENT SA",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "AZFMLU21"
+        },
+        {
+            "id": 43,
             "bank": "BANCA MARCH, S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "BMARLU2M"
         },
         {
-            "id": 15,
+            "id": 44,
             "bank": "BANCA POPOLARE DELL'EMILIA ROMAGNA (EUROPE) INTERNATIONAL S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "BPMOLULS"
         },
         {
-            "id": 16,
+            "id": 45,
             "bank": "BANCO BRADESCO EUROPA S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "BBDELULL"
         },
         {
-            "id": 17,
+            "id": 46,
+            "bank": "BANCO BTG PACTUAL LUXEMBOURG S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "BTGSLUL1"
+        },
+        {
+            "id": 47,
             "bank": "BANCO BTG PACTUAL SA LUXEMBOURG BRA",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "BTGBLULL"
         },
         {
-            "id": 18,
+            "id": 48,
             "bank": "BANCO POPOLARE LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "GRVRLULL"
         },
         {
-            "id": 19,
+            "id": 49,
             "bank": "BANCO SAFRA S.A. LUXEMBOURG BRANCH",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "SAFRLULL"
         },
         {
-            "id": 20,
+            "id": 50,
             "bank": "BANK GPB INTERNATIONAL S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "GAZPLULL"
         },
         {
-            "id": 21,
+            "id": 51,
             "bank": "BANK LEUMI (LUXEMBOURG) S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LUMILULL"
         },
         {
-            "id": 22,
+            "id": 52,
             "bank": "BANK OF CHINA (LUXEMBOURG) S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "BKCHLULA"
         },
         {
-            "id": 23,
+            "id": 53,
             "bank": "BANK OF CHINA, LUXEMBOURG BRANCH",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "BKCHLULL"
         },
         {
-            "id": 24,
+            "id": 54,
             "bank": "BANK OF COMMUNICATIONS (LUXEMBOURG)",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "COMMLULL"
         },
         {
-            "id": 25,
+            "id": 55,
             "bank": "BANKINTER LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "BKBKLULL"
         },
         {
-            "id": 26,
+            "id": 56,
             "bank": "BANQUE BCP, S.A.",
             "city": "BERTRANGE",
             "branch": null,
             "swift_code": "BMECLULL"
         },
         {
-            "id": 27,
+            "id": 57,
             "bank": "BANQUE CARNEGIE LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CARNLULL"
         },
         {
-            "id": 28,
+            "id": 58,
             "bank": "BANQUE CENTRALE DU LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": "(ANCILLIARY SYSTEM PAYMENT)",
             "swift_code": "BCLXLULLASP"
         },
         {
-            "id": 29,
+            "id": 59,
             "bank": "BANQUE CENTRALE DU LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": "(TRIPARTY DOMESTIC)",
             "swift_code": "BCLXLULLTP1"
         },
         {
-            "id": 30,
+            "id": 60,
             "bank": "BANQUE CENTRALE DU LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "BCLXLULL"
         },
         {
-            "id": 31,
+            "id": 61,
             "bank": "BANQUE CENTRALE DU LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "BCLXLULLTP2"
         },
         {
-            "id": 32,
+            "id": 62,
             "bank": "BANQUE DE COMMERCE ET DE PLACEMENTS S.A. SUCCURSALE DE LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "BPCPLULL"
         },
         {
-            "id": 33,
+            "id": 63,
             "bank": "BANQUE DE LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "BLUXLULL"
         },
         {
-            "id": 34,
+            "id": 64,
             "bank": "BANQUE DE LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "BLUXLULL590"
         },
         {
-            "id": 35,
+            "id": 65,
             "bank": "BANQUE DE PATRIMOINES PRIVES",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "BBPPLULL"
         },
         {
-            "id": 36,
+            "id": 66,
             "bank": "BANQUE DEGROOF LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": "(DEPT OPC)",
             "swift_code": "DEGRLULLOPC"
         },
         {
-            "id": 37,
+            "id": 67,
             "bank": "BANQUE DEGROOF LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "DEGRLULL"
         },
         {
-            "id": 38,
+            "id": 68,
             "bank": "BANQUE ET CAISSE D'EPARGNE DE L'ETAT",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "BCEELULL"
         },
         {
-            "id": 39,
+            "id": 69,
             "bank": "BANQUE EUROPEENNE D'INVESTISSEMENT- BEI\/EIB",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "BEILLULL"
         },
         {
-            "id": 40,
+            "id": 70,
             "bank": "BANQUE HAPOALIM (LUXEMBOURG) S.A",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "POALLUL2"
         },
         {
-            "id": 41,
+            "id": 71,
             "bank": "BANQUE HAPOALIM (SUISSE) SA SUCCURSALE DE LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "POALLULL"
         },
         {
-            "id": 42,
+            "id": 72,
             "bank": "BANQUE HAVILLAND S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "HAVLLULL"
         },
         {
-            "id": 43,
+            "id": 73,
             "bank": "BANQUE INTERNATIONALE A LUXEMBOURG SA",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "BILLLULL"
         },
         {
-            "id": 44,
+            "id": 74,
             "bank": "BANQUE J. SAFRA SARASIN (LUXEMBOURG) SA",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "BSAFLULL"
         },
         {
-            "id": 45,
+            "id": 75,
+            "bank": "BANQUE LBLUX S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "BYLALUL1"
+        },
+        {
+            "id": 76,
             "bank": "BANQUE PUILAETCO DEWAAY LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "PULALULL"
         },
         {
-            "id": 46,
+            "id": 77,
             "bank": "BANQUE RAIFFEISEN",
             "city": "LEUDELANGE",
             "branch": null,
             "swift_code": "CCRALULL"
         },
         {
-            "id": 47,
+            "id": 78,
+            "bank": "BANQUE TRANSATLANTIQUE (CM-CIC GROUP)",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "CMCILUL1"
+        },
+        {
+            "id": 79,
+            "bank": "BAUSPARKASSE, GEMEINSCHAFT DER FREUNDE WUESTENROT GEMEINNUETZIGE GMBH LUDWIGSBURG",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "BGFWLUL1"
+        },
+        {
+            "id": 80,
+            "bank": "BBG LUXEMBOURG S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "BBGULUS1"
+        },
+        {
+            "id": 81,
+            "bank": "BBL TRUST SERVICES LUXEMBOURG",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "BTSLLUL1"
+        },
+        {
+            "id": 82,
+            "bank": "BEARBULL (LUXEMBOURG) S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "BEBULUL1"
+        },
+        {
+            "id": 83,
+            "bank": "BEAUCHAMPS WALTON",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "PLETLUL1"
+        },
+        {
+            "id": 84,
             "bank": "BEMO EUROPE BANQUE PRIVEE",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "BEMOLULL"
         },
         {
-            "id": 48,
+            "id": 85,
             "bank": "BGL BNP PARIBAS",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "BGLLLULL"
         },
         {
-            "id": 49,
+            "id": 86,
             "bank": "BGL BNP PARIBAS (GLOBAL EQUITIES AND COMMODITY DERIVATIVES)",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "BGLLLULG"
         },
         {
-            "id": 50,
+            "id": 87,
+            "bank": "BGL-MEESPIERSON TRUST (LUXEMBOURG) SA",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "GENLLUL1"
+        },
+        {
+            "id": 88,
             "bank": "BHF-BANK INTERNATIONAL",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "BHFBLULL"
         },
         {
-            "id": 51,
+            "id": 89,
+            "bank": "BHW ALLGEMEINE BAUSPARKASSE AG, NIEDERLASSUNG LUXEMBURG",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "BHAHLUL1"
+        },
+        {
+            "id": 90,
+            "bank": "BISYS INVESTMENT SERVICES",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "BSYSLUL1"
+        },
+        {
+            "id": 91,
             "bank": "BNP PARIBAS LEASING SOLUTIONS S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LSHLLULL"
         },
         {
-            "id": 52,
+            "id": 92,
+            "bank": "BNP PARIBAS PERSONAL INVESTORS",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "BPPVLUL1"
+        },
+        {
+            "id": 93,
             "bank": "BNP PARIBAS SECURITIES SERVICES",
             "city": "LUXEMBOURG",
             "branch": "(BNP PARIBAS SECURITIES SERVICES, TAX PIVOT RECONCILIATION)",
             "swift_code": "PARBLULLITT"
         },
         {
-            "id": 53,
+            "id": 94,
             "bank": "BNP PARIBAS SECURITIES SERVICES",
             "city": "LUXEMBOURG",
             "branch": "(GLOBAL CUSTODY)",
             "swift_code": "PARBLULLISI"
         },
         {
-            "id": 54,
+            "id": 95,
             "bank": "BNP PARIBAS SECURITIES SERVICES",
             "city": "LUXEMBOURG",
             "branch": "(GTP LUXEMBOURG)",
             "swift_code": "PARBLULLGTP"
         },
         {
-            "id": 55,
+            "id": 96,
             "bank": "BNP PARIBAS SECURITIES SERVICES",
             "city": "LUXEMBOURG",
             "branch": "(LUXEMBOURG DEPOSITARY AND FIDUCIARY SERVICES)",
             "swift_code": "PARBLULLDFS"
         },
         {
-            "id": 56,
+            "id": 97,
             "bank": "BNP PARIBAS SECURITIES SERVICES",
             "city": "LUXEMBOURG",
             "branch": "(PRIVATE EQUITY AND REAL ESTATE)",
             "swift_code": "PARBLULLPER"
         },
         {
-            "id": 57,
+            "id": 98,
             "bank": "BNP PARIBAS SECURITIES SERVICES",
             "city": "LUXEMBOURG",
             "branch": "(SECURITIES SERVICES)",
             "swift_code": "PARBLULLDUB"
         },
         {
-            "id": 58,
+            "id": 99,
             "bank": "BNP PARIBAS SECURITIES SERVICES",
             "city": "LUXEMBOURG",
             "branch": "(SECURITIES SERVICES)",
             "swift_code": "PARBLULLFFY"
         },
         {
-            "id": 59,
+            "id": 100,
             "bank": "BNP PARIBAS SECURITIES SERVICES",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "PARBLULL"
         },
         {
-            "id": 60,
+            "id": 101,
             "bank": "BNP PARIBAS SECURITIES SERVICES",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "PARBLULLFDA"
         },
         {
-            "id": 61,
+            "id": 102,
             "bank": "BNP PARIBAS, SUCCURSALE DE LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "BNPALULS"
         },
         {
-            "id": 62,
+            "id": 103,
+            "bank": "BONNIER TREASURY S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "BOTELUL1"
+        },
+        {
+            "id": 104,
             "bank": "BROWN BROTHERS HARRIMAN (LUXEMBOURG) S.C.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "BBHCLULL"
         },
         {
-            "id": 63,
+            "id": 105,
             "bank": "BSI EUROPE S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "BSILLULX"
         },
         {
-            "id": 64,
+            "id": 106,
             "bank": "BUNT",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "BUNTLULL"
         },
         {
-            "id": 65,
+            "id": 107,
             "bank": "CACEIS BANK LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": "(CACEIS DUBLIN)",
             "swift_code": "BSUILULLDUB"
         },
         {
-            "id": 66,
+            "id": 108,
             "bank": "CACEIS BANK LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": "(CACEIS NORTH AMERICA)",
             "swift_code": "BSUILULLCNA"
         },
         {
-            "id": 67,
+            "id": 109,
             "bank": "CACEIS BANK LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": "(COMET ORDER)",
             "swift_code": "BSUILULLCOR"
         },
         {
-            "id": 68,
+            "id": 110,
             "bank": "CACEIS BANK LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": "(CUSTODIAN BANK)",
             "swift_code": "BSUILULLCUS"
         },
         {
-            "id": 69,
+            "id": 111,
             "bank": "CACEIS BANK LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": "(FASTNET DERIVATIVES)",
             "swift_code": "FNETLULLOTC"
         },
         {
-            "id": 70,
+            "id": 112,
             "bank": "CACEIS BANK LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": "(FASTNET PRESETTLEMENT)",
             "swift_code": "FNETLULLCMP"
         },
         {
-            "id": 71,
+            "id": 113,
             "bank": "CACEIS BANK LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": "(FUND ADMINISTRATION TAX REGISTRAR)",
             "swift_code": "FNETLULLFND"
         },
         {
-            "id": 72,
+            "id": 114,
             "bank": "CACEIS BANK LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": "(FUND ADMINISTRATION)",
             "swift_code": "BSUILULLADM"
         },
         {
-            "id": 73,
+            "id": 115,
             "bank": "CACEIS BANK LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": "(FUND PROCESSING)",
             "swift_code": "BSUILULLPRF"
         },
         {
-            "id": 74,
+            "id": 116,
             "bank": "CACEIS BANK LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": "(FUNDS OF FUNDS)",
             "swift_code": "BSUILULLFOF"
         },
         {
-            "id": 75,
+            "id": 117,
             "bank": "CACEIS BANK LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": "(FUNDS RECONCILIATION)",
             "swift_code": "BSUILULLFTM"
         },
         {
-            "id": 76,
+            "id": 118,
             "bank": "CACEIS BANK LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": "(PRIME TA ACTIVITY)",
             "swift_code": "FNETLULLPTA"
         },
         {
-            "id": 77,
+            "id": 119,
             "bank": "CACEIS BANK LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": "(REGISTRAR)",
             "swift_code": "BSUILULLFND"
         },
         {
-            "id": 78,
+            "id": 120,
             "bank": "CACEIS BANK LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": "(SERVICE REGISTRE)",
             "swift_code": "BSUILULLREG"
         },
         {
-            "id": 79,
+            "id": 121,
             "bank": "CACEIS BANK LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "BSUILULL"
         },
         {
-            "id": 80,
+            "id": 122,
             "bank": "CACEIS BANK LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "FNETLULL"
         },
         {
-            "id": 81,
+            "id": 123,
+            "bank": "CAIXA GERAL DE DEPOSITOS",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "CGDILUL1"
+        },
+        {
+            "id": 124,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(ABERDEEN ASSET MANAGEMENT)",
             "swift_code": "CLAOLU2LAAM"
         },
         {
-            "id": 82,
+            "id": 125,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(AJ BELL)",
             "swift_code": "CLAOLU2LAJB"
         },
         {
-            "id": 83,
+            "id": 126,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(ALICO ISLE OF MAN)",
             "swift_code": "CLAOLU2LAIM"
         },
         {
-            "id": 84,
+            "id": 127,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(ARTEMIS)",
             "swift_code": "CLAOLU2LART"
         },
         {
-            "id": 85,
+            "id": 128,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(AVIVA INVESTOR)",
             "swift_code": "CLAOLU2LAVI"
         },
         {
-            "id": 86,
+            "id": 129,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(AXA MONTEPASCHI)",
             "swift_code": "CLAOLU2LAXM"
         },
         {
-            "id": 87,
+            "id": 130,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(AXA UK)",
             "swift_code": "CLAOLU2LAXF"
         },
         {
-            "id": 88,
+            "id": 131,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(AZ LIFE)",
             "swift_code": "CLAOLU2LAZL"
         },
         {
-            "id": 89,
+            "id": 132,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(BLACKROCK UK)",
             "swift_code": "CLAOLU2LBLA"
         },
         {
-            "id": 90,
+            "id": 133,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(BNY MELLON INVESTMENT)",
             "swift_code": "CLAOLU2LBNY"
         },
         {
-            "id": 91,
+            "id": 134,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA ABRED LUX)",
             "swift_code": "CLAOLU2LABL"
         },
         {
-            "id": 92,
+            "id": 135,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2)",
             "swift_code": "CLAOLU2LASH"
         },
         {
-            "id": 93,
+            "id": 136,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2)",
             "swift_code": "CLAOLU2LFAC"
         },
         {
-            "id": 94,
+            "id": 137,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2)",
             "swift_code": "CLAOLU2LHDD"
         },
         {
-            "id": 95,
+            "id": 138,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2)",
             "swift_code": "CLAOLU2LPIO"
         },
         {
-            "id": 96,
+            "id": 139,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2)",
             "swift_code": "CLAOLU2LREN"
         },
         {
-            "id": 97,
+            "id": 140,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2)",
             "swift_code": "CLAOLU2LRTH"
         },
         {
-            "id": 98,
+            "id": 141,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2)",
             "swift_code": "CLAOLU2LSEB"
         },
         {
-            "id": 99,
+            "id": 142,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2)",
             "swift_code": "CLAOLU2LSSL"
         },
         {
-            "id": 100,
+            "id": 143,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2ABERDEEASSETMANAGEMENTDEALINGDESKDEPT)",
             "swift_code": "CLAOLU2LADD"
         },
         {
-            "id": 101,
+            "id": 144,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2ALLNZ)",
             "swift_code": "CLAOLU2LALU"
         },
         {
-            "id": 102,
+            "id": 145,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2AVIVA)",
             "swift_code": "CLAOLU2LAVW"
         },
         {
-            "id": 103,
+            "id": 146,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2AXW)",
             "swift_code": "CLAOLU2LAXW"
         },
         {
-            "id": 104,
+            "id": 147,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2AXZ)",
             "swift_code": "CLAOLU2LAXZ"
         },
         {
-            "id": 105,
+            "id": 148,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2BLACKROCKLUX)",
             "swift_code": "CLAOLU2LBLK"
         },
         {
-            "id": 106,
+            "id": 149,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2BLI)",
             "swift_code": "CLAOLU2LBLI"
         },
         {
-            "id": 107,
+            "id": 150,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2CFT)",
             "swift_code": "CLAOLU2LCFT"
         },
         {
-            "id": 108,
+            "id": 151,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2CLIENT)",
             "swift_code": "CLAOLU2LBOF"
         },
         {
-            "id": 109,
+            "id": 152,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2CLIENT)",
             "swift_code": "CLAOLU2LBON"
         },
         {
-            "id": 110,
+            "id": 153,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2CLIENT)",
             "swift_code": "CLAOLU2LWDB"
         },
         {
-            "id": 111,
+            "id": 154,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2COM)",
             "swift_code": "CLAOLU2LCOM"
         },
         {
-            "id": 112,
+            "id": 155,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2DALTONSP)",
             "swift_code": "CLAOLU2LDSP"
         },
         {
-            "id": 113,
+            "id": 156,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA-2-DISTINCTION)",
             "swift_code": "CLAOLU2LDST"
         },
         {
-            "id": 114,
+            "id": 157,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2DZ)",
             "swift_code": "CLAOLU2LDZB"
         },
         {
-            "id": 115,
+            "id": 158,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2EFA)",
             "swift_code": "CLAOLU2LEFA"
         },
         {
-            "id": 116,
+            "id": 159,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2FAREASTERN)",
             "swift_code": "CLAOLU2LFEB"
         },
         {
-            "id": 117,
+            "id": 160,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2FSL)",
             "swift_code": "CLAOLU2LFSL"
         },
         {
-            "id": 118,
+            "id": 161,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2GOL)",
             "swift_code": "CLAOLU2LGOL"
         },
         {
-            "id": 119,
+            "id": 162,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2HHL)",
             "swift_code": "CLAOLU2LHHL"
         },
         {
-            "id": 120,
+            "id": 163,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2HIF)",
             "swift_code": "CLAOLU2LHIF"
         },
         {
-            "id": 121,
+            "id": 164,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2IGL)",
             "swift_code": "CLAOLU2LIGL"
         },
         {
-            "id": 122,
+            "id": 165,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2IUP)",
             "swift_code": "CLAOLU2LIUP"
         },
         {
-            "id": 123,
+            "id": 166,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2JHP)",
             "swift_code": "CLAOLU2LJHP"
         },
         {
-            "id": 124,
+            "id": 167,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2JPMORGANCHASEFORSS)",
             "swift_code": "CLAOLU2LJPA"
         },
         {
-            "id": 125,
+            "id": 168,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2MANDGLUX)",
             "swift_code": "CLAOLU2LMGL"
         },
         {
-            "id": 126,
+            "id": 169,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2MANULIFELUX)",
             "swift_code": "CLAOLU2LMNL"
         },
         {
-            "id": 127,
+            "id": 170,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2MBK)",
             "swift_code": "CLAOLU2LMBK"
         },
         {
-            "id": 128,
+            "id": 171,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2MIR)",
             "swift_code": "CLAOLU2LMIR"
         },
         {
-            "id": 129,
+            "id": 172,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2MLB)",
             "swift_code": "CLAOLU2LMLB"
         },
         {
-            "id": 130,
+            "id": 173,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2NOV)",
             "swift_code": "CLAOLU2LNOV"
         },
         {
-            "id": 131,
+            "id": 174,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2OMAMUK)",
             "swift_code": "CLAOLU2LOMM"
         },
         {
-            "id": 132,
+            "id": 175,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2PGD)",
             "swift_code": "CLAOLU2LPGD"
         },
         {
-            "id": 133,
+            "id": 176,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2PICTETPAS)",
             "swift_code": "CLAOLU2LPAS"
         },
         {
-            "id": 134,
+            "id": 177,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2PIN)",
             "swift_code": "CLAOLU2LPIN"
         },
         {
-            "id": 135,
+            "id": 178,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2RLU)",
             "swift_code": "CLAOLU2LRLU"
         },
         {
-            "id": 136,
+            "id": 179,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2ROB)",
             "swift_code": "CLAOLU2LROB"
         },
         {
-            "id": 137,
+            "id": 180,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2ROYALSKANDIASINGAPORE)",
             "swift_code": "CLAOLU2LRSK"
         },
         {
-            "id": 138,
+            "id": 181,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2RWC)",
             "swift_code": "CLAOLU2LRWC"
         },
         {
-            "id": 139,
+            "id": 182,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2SEMPERCONSTANTIA)",
             "swift_code": "CLAOLU2LSPC"
         },
         {
-            "id": 140,
+            "id": 183,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2SKANDIA)",
             "swift_code": "CLAOLU2LSKA"
         },
         {
-            "id": 141,
+            "id": 184,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2SPS)",
             "swift_code": "CLAOLU2LSPS"
         },
         {
-            "id": 142,
+            "id": 185,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2SSG)",
             "swift_code": "CLAOLU2LSSG"
         },
         {
-            "id": 143,
+            "id": 186,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2STATESTREET)",
             "swift_code": "CLAOLU2LSTS"
         },
         {
-            "id": 144,
+            "id": 187,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2THREADNEEDLEUK)",
             "swift_code": "CLAOLU2LTHR"
         },
         {
-            "id": 145,
+            "id": 188,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2WAS)",
             "swift_code": "CLAOLU2LWAS"
         },
         {
-            "id": 146,
+            "id": 189,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA2ZURICHFINANCIALINV)",
             "swift_code": "CLAOLU2LZFL"
         },
         {
-            "id": 147,
+            "id": 190,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALA-LU-PROFONDOS)",
             "swift_code": "CLAOLU2LPRF"
         },
         {
-            "id": 148,
+            "id": 191,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALASTONE - CGL)",
             "swift_code": "CLAOLU2LCGL"
         },
         {
-            "id": 149,
+            "id": 192,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CALASTONE-CWH)",
             "swift_code": "CLAOLU2LCWH"
         },
         {
-            "id": 150,
+            "id": 193,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CAPITA FINANCIAL MANAGERS)",
             "swift_code": "CLAOLU2LCFM"
         },
         {
-            "id": 151,
+            "id": 194,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CAZENOVE)",
             "swift_code": "CLAOLU2LCAZ"
         },
         {
-            "id": 152,
+            "id": 195,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CF ECLECTICA)",
             "swift_code": "CLAOLU2LCEC"
         },
         {
-            "id": 153,
+            "id": 196,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CF LINDSELL TRAIN)",
             "swift_code": "CLAOLU2LCLI"
         },
         {
-            "id": 154,
+            "id": 197,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CF MIDAS)",
             "swift_code": "CLAOLU2LCMI"
         },
         {
-            "id": 155,
+            "id": 198,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CF MITON)",
             "swift_code": "CLAOLU2LMIT"
         },
         {
-            "id": 156,
+            "id": 199,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CF MORANT WRGHT)",
             "swift_code": "CLAOLU2LCHW"
         },
         {
-            "id": 157,
+            "id": 200,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CF NEPTUNE)",
             "swift_code": "CLAOLU2LCNE"
         },
         {
-            "id": 158,
+            "id": 201,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CF OCTOPUS)",
             "swift_code": "CLAOLU2LCOC"
         },
         {
-            "id": 159,
+            "id": 202,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CF ODEY)",
             "swift_code": "CLAOLU2LCOD"
         },
         {
-            "id": 160,
+            "id": 203,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CF RUFFER)",
             "swift_code": "CLAOLU2LCRF"
         },
         {
-            "id": 161,
+            "id": 204,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CF SEVEN INVESTMENT MANAGEMENT)",
             "swift_code": "CLAOLU2LSVN"
         },
         {
-            "id": 162,
+            "id": 205,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CF TROJAN)",
             "swift_code": "CLAOLU2LCTR"
         },
         {
-            "id": 163,
+            "id": 206,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CF WALKER CRIPS)",
             "swift_code": "CLAOLU2LCWC"
         },
         {
-            "id": 164,
+            "id": 207,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(CONSEQ)",
             "swift_code": "CLAOLU2LCEQ"
         },
         {
-            "id": 165,
+            "id": 208,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(COUTTS)",
             "swift_code": "CLAOLU2LCOU"
         },
         {
-            "id": 166,
+            "id": 209,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(DEUTSCHE PWM)",
             "swift_code": "CLAOLU2LDEU"
         },
         {
-            "id": 167,
+            "id": 210,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(DIMENSIONAL ONSHORE)",
             "swift_code": "CLAOLU2LDON"
         },
         {
-            "id": 168,
+            "id": 211,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(DWP)",
             "swift_code": "CLAOLU2LDWP"
         },
         {
-            "id": 169,
+            "id": 212,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(ECCLESIASTICAL)",
             "swift_code": "CLAOLU2LECC"
         },
         {
-            "id": 170,
+            "id": 213,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(F AND C)",
             "swift_code": "CLAOLU2LFNC"
         },
         {
-            "id": 171,
+            "id": 214,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(FIRST STATE INVESTMENTS UK IE)",
             "swift_code": "CLAOLU2LFIE"
         },
         {
-            "id": 172,
+            "id": 215,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(FIRST STATE UK)",
             "swift_code": "CLAOLU2LFSF"
         },
         {
-            "id": 173,
+            "id": 216,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(FRANKLIN TEMPLETON UK)",
             "swift_code": "CLAOLU2LFLN"
         },
         {
-            "id": 174,
+            "id": 217,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(FUNDIX)",
             "swift_code": "CLAOLU2LFUX"
         },
         {
-            "id": 175,
+            "id": 218,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(FUNDQUEST)",
             "swift_code": "CLAOLU2LFUQ"
         },
         {
-            "id": 176,
+            "id": 219,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(GLG PARTNERS OFFSHORE)",
             "swift_code": "CLAOLU2LGOS"
         },
         {
-            "id": 177,
+            "id": 220,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(GLG PARTNERS)",
             "swift_code": "CLAOLU2LGLG"
         },
         {
-            "id": 178,
+            "id": 221,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(HARGREAVES LANSDOWN)",
             "swift_code": "CLAOLU2LHGR"
         },
         {
-            "id": 179,
+            "id": 222,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(HENDERSON LUXEMBOURG)",
             "swift_code": "CLAOLU2LHLU"
         },
         {
-            "id": 180,
+            "id": 223,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(INTERNATIONAL FUND SERVICES AND ASSET MANAGEMENT)",
             "swift_code": "CLAOLU2LIFS"
         },
         {
-            "id": 181,
+            "id": 224,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(INVESCO)",
             "swift_code": "CLAOLU2LINV"
         },
         {
-            "id": 182,
+            "id": 225,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(INVESTEC)",
             "swift_code": "CLAOLU2LITC"
         },
         {
-            "id": 183,
+            "id": 226,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(IPSI FUND PROVIDER)",
             "swift_code": "CLAOLU2LIPS"
         },
         {
-            "id": 184,
+            "id": 227,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(JM FINN)",
             "swift_code": "CLAOLU2LJMF"
         },
         {
-            "id": 185,
+            "id": 228,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(JP MORGAN)",
             "swift_code": "CLAOLU2LJPM"
         },
         {
-            "id": 186,
+            "id": 229,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(JUPITER LUX)",
             "swift_code": "CLAOLU2LJPL"
         },
         {
-            "id": 187,
+            "id": 230,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(JUPITER)",
             "swift_code": "CLAOLU2LJUP"
         },
         {
-            "id": 188,
+            "id": 231,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(KAMES CAPITAL)",
             "swift_code": "CLAOLU2LKAM"
         },
         {
-            "id": 189,
+            "id": 232,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(LEGAL AND GENERAL)",
             "swift_code": "CLAOLU2LLNG"
         },
         {
-            "id": 190,
+            "id": 233,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(M AND G)",
             "swift_code": "CLAOLU2LMAG"
         },
         {
-            "id": 191,
+            "id": 234,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(MANULIFE)",
             "swift_code": "CLAOLU2LMAN"
         },
         {
-            "id": 192,
+            "id": 235,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(MARLBOROUGH)",
             "swift_code": "CLAOLU2LMAL"
         },
         {
-            "id": 193,
+            "id": 236,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(NEPTUNE INVESTMENT)",
             "swift_code": "CLAOLU2LNEP"
         },
         {
-            "id": 194,
+            "id": 237,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(NNEK)",
             "swift_code": "CLAOLU2LNNK"
         },
         {
-            "id": 195,
+            "id": 238,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(OCTOPUS)",
             "swift_code": "CLAOLU2LOCT"
         },
         {
-            "id": 196,
+            "id": 239,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(OLD MUTUAL)",
             "swift_code": "CLAOLU2LOLD"
         },
         {
-            "id": 197,
+            "id": 240,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(PARMENION CAPITAL PARTNERS)",
             "swift_code": "CLAOLU2LPCP"
         },
         {
-            "id": 198,
+            "id": 241,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(PERSHING)",
             "swift_code": "CLAOLU2LPER"
         },
         {
-            "id": 199,
+            "id": 242,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(PFS SOMERSET)",
             "swift_code": "CLAOLU2LSOM"
         },
         {
-            "id": 200,
+            "id": 243,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(PFS TWENTY FOUR)",
             "swift_code": "CLAOLU2LTWE"
         },
         {
-            "id": 201,
+            "id": 244,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(PREMIER PORTFOLIO FUNDS)",
             "swift_code": "CLAOLU2LPPF"
         },
         {
-            "id": 202,
+            "id": 245,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(QUILTER)",
             "swift_code": "CLAOLU2LQUT"
         },
         {
-            "id": 203,
+            "id": 246,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(RATHBONE UNIT TRUST MANAGERS)",
             "swift_code": "CLAOLU2LRAT"
         },
         {
-            "id": 204,
+            "id": 247,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(RAYMOND JAMES)",
             "swift_code": "CLAOLU2LRAJ"
         },
         {
-            "id": 205,
+            "id": 248,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(RBC DEXIA LUXEMBOURG)",
             "swift_code": "CLAOLU2LRDL"
         },
         {
-            "id": 206,
+            "id": 249,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(REDMAYNE BENTLEY)",
             "swift_code": "CLAOLU2LRED"
         },
         {
-            "id": 207,
+            "id": 250,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(RIVER AND MERCANTILE)",
             "swift_code": "CLAOLU2LRMT"
         },
         {
-            "id": 208,
+            "id": 251,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(ROYAL LONDON)",
             "swift_code": "CLAOLU2LROY"
         },
         {
-            "id": 209,
+            "id": 252,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(SARASIN)",
             "swift_code": "CLAOLU2LSAR"
         },
         {
-            "id": 210,
+            "id": 253,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(SC DAVIES)",
             "swift_code": "CLAOLU2LSCD"
         },
         {
-            "id": 211,
+            "id": 254,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(SCOTTISH WIDOWS)",
             "swift_code": "CLAOLU2LSWP"
         },
         {
-            "id": 212,
+            "id": 255,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(SGL)",
             "swift_code": "CLAOLU2LSOC"
         },
         {
-            "id": 213,
+            "id": 256,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(SMITH AND WILLIAMSON)",
             "swift_code": "CLAOLU2LSMW"
         },
         {
-            "id": 214,
+            "id": 257,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(STANDARD LIFE)",
             "swift_code": "CLAOLU2LSTN"
         },
         {
-            "id": 215,
+            "id": 258,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(SWISSQUOTE)",
             "swift_code": "CLAOLU2LSQN"
         },
         {
-            "id": 216,
+            "id": 259,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(SWISSQUOTE)",
             "swift_code": "CLAOLU2LSQT"
         },
         {
-            "id": 217,
+            "id": 260,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": "(TAYLOR FUNDS)",
             "swift_code": "CLAOLU2LTAY"
         },
         {
-            "id": 218,
+            "id": 261,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CLAOLU2L"
         },
         {
-            "id": 219,
+            "id": 262,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CLAOLU2LAIO"
         },
         {
-            "id": 220,
+            "id": 263,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CLAOLU2LALE"
         },
         {
-            "id": 221,
+            "id": 264,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CLAOLU2LBNP"
         },
         {
-            "id": 222,
+            "id": 265,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CLAOLU2LCTF"
         },
         {
-            "id": 223,
+            "id": 266,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CLAOLU2LHAW"
         },
         {
-            "id": 224,
+            "id": 267,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CLAOLU2LHEN"
         },
         {
-            "id": 225,
+            "id": 268,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CLAOLU2LLIO"
         },
         {
-            "id": 226,
+            "id": 269,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CLAOLU2LLOG"
         },
         {
-            "id": 227,
+            "id": 270,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CLAOLU2LNOR"
         },
         {
-            "id": 228,
+            "id": 271,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CLAOLU2LPIC"
         },
         {
-            "id": 229,
+            "id": 272,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CLAOLU2LSAD"
         },
         {
-            "id": 230,
+            "id": 273,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CLAOLU2LSCH"
         },
         {
-            "id": 231,
+            "id": 274,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CLAOLU2LSCL"
         },
         {
-            "id": 232,
+            "id": 275,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CLAOLU2LSCZ"
         },
         {
-            "id": 233,
+            "id": 276,
             "bank": "CALASTONE LIMITED",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CLAOLU2LTBY"
         },
         {
-            "id": 234,
+            "id": 277,
+            "bank": "CALI EUROPE",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "AGRHLUL1"
+        },
+        {
+            "id": 278,
             "bank": "CANDRIAM LUXEMBOURG SA",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "DXAMLULL"
         },
         {
-            "id": 235,
+            "id": 279,
+            "bank": "CAP GEMINI LUX",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "CAPALUL1"
+        },
+        {
+            "id": 280,
+            "bank": "CAPITAL AND WORK INTERNATIONAL",
+            "city": "STRASSEN",
+            "branch": null,
+            "swift_code": "CAWNLUS1"
+        },
+        {
+            "id": 281,
+            "bank": "CAPITAL MANAGEMENT S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "CAMALUL1"
+        },
+        {
+            "id": 282,
             "bank": "CAPITALAT WORK FOYER GROUP S.A.",
             "city": "LEUDELANGE",
             "branch": null,
             "swift_code": "FAMLLULL"
         },
         {
-            "id": 236,
+            "id": 283,
+            "bank": "CARDIF LUX INTERNATIONAL",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "CLUILUL1"
+        },
+        {
+            "id": 284,
             "bank": "CARDIF LUX VIE",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "FTSILULL"
         },
         {
-            "id": 237,
+            "id": 285,
+            "bank": "CAREY",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "CARYLUL1"
+        },
+        {
+            "id": 286,
+            "bank": "CARL KLIEM SA, LUXEMBOURG",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "CAKXLUL1"
+        },
+        {
+            "id": 287,
+            "bank": "CASA 4 FUNDS LUXEMBOURG EUROPEAN ASSET MANAGEMENT SA",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "CFLELUL1"
+        },
+        {
+            "id": 288,
             "bank": "CATELLA BANK S.A.",
             "city": "CAPELLEN",
             "branch": null,
             "swift_code": "INVKLULL"
         },
         {
-            "id": 238,
+            "id": 289,
             "bank": "CBP QUILVEST S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CBPXLULL"
         },
         {
-            "id": 239,
+            "id": 290,
+            "bank": "CDC GMBH SUCCURSALE DE LUXEMBOURG",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "CDCFLUL1"
+        },
+        {
+            "id": 291,
+            "bank": "CF FUND SERVICES S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "CFFULUL1"
+        },
+        {
+            "id": 292,
             "bank": "CHINA CONSTRUCTION BANK (EUROPE) S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "PCBCLULL"
         },
         {
-            "id": 240,
+            "id": 293,
             "bank": "CHINA CONSTRUCTION BANK CORPORATION LUXEMBOURG BRANCH",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "PCBCLULX"
         },
         {
-            "id": 241,
+            "id": 294,
             "bank": "CHINA MERCHANTS BANK CO., LIMITED LUXEMBOURG BRANCH",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CMBCLULL"
         },
         {
-            "id": 242,
+            "id": 295,
+            "bank": "CIGOGNE MANAGEMENT S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "CIGALUL1"
+        },
+        {
+            "id": 296,
             "bank": "CITCO BANK NEDERLAND NV, LUXEMBOURG BRANCH",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CITCLULL"
         },
         {
-            "id": 243,
+            "id": 297,
             "bank": "CITIBANK INTERNATIONAL LIMITED LUXEMBOURG BRANCH",
             "city": "BERTRANGE",
             "branch": null,
             "swift_code": "CITILULX"
         },
         {
-            "id": 244,
+            "id": 298,
             "bank": "CITIBANK INTERNATIONAL LIMITED LUXEMBOURG BRANCH",
             "city": "LUXEMBOURG",
             "branch": "(CITIBANK LUXEMBOURG EMFX CONFIRMATIONS)",
             "swift_code": "CITILULXEFX"
         },
         {
-            "id": 245,
+            "id": 299,
             "bank": "CITIBANK INTERNATIONAL LIMITED LUXEMBOURG BRANCH",
             "city": "LUXEMBOURG",
             "branch": "(FUNDS ADMINISTRATION TRANSFER AGENCY DEPARTMENT)",
             "swift_code": "CITILUL2CAM"
         },
         {
-            "id": 246,
+            "id": 300,
             "bank": "CITIBANK INTERNATIONAL LIMITED LUXEMBOURG BRANCH",
             "city": "LUXEMBOURG",
             "branch": "(GLOBAL FINANCE - BD. MARIE-THERESE)",
             "swift_code": "CITILULXGFL"
         },
         {
-            "id": 247,
+            "id": 301,
             "bank": "CITIBANK INTERNATIONAL LIMITED LUXEMBOURG BRANCH",
             "city": "LUXEMBOURG",
             "branch": "(PRIVATE BANKING GROUP\/IPB)",
             "swift_code": "CITILULXLUX"
         },
         {
-            "id": 248,
+            "id": 302,
+            "bank": "CITIGROUP GLOBAL MARKETS LUXEMBOURG SARL",
+            "city": "BERTRANGE",
+            "branch": null,
+            "swift_code": "CGMXLUL1"
+        },
+        {
+            "id": 303,
             "bank": "CLEARSTREAM BANKING S.A., LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": "(CLEARSTREAM BANKING COMMON SAFEKEEPER)",
             "swift_code": "CEDELULLCSK"
         },
         {
-            "id": 249,
+            "id": 304,
             "bank": "CLEARSTREAM BANKING S.A., LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": "(SPECIFIC CASH MANAGEMENT)",
             "swift_code": "CEDELULLDST"
         },
         {
-            "id": 250,
+            "id": 305,
             "bank": "CLEARSTREAM BANKING S.A., LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CEDELULL"
         },
         {
-            "id": 251,
+            "id": 306,
             "bank": "CLEARSTREAM BANKING S.A., LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CEDELULLACF"
         },
         {
-            "id": 252,
+            "id": 307,
             "bank": "CLEARSTREAM BANKING S.A., LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CEDELULLCPI"
         },
         {
-            "id": 253,
+            "id": 308,
             "bank": "CLEARSTREAM BANKING S.A., LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CEDELULLERF"
         },
         {
-            "id": 254,
+            "id": 309,
             "bank": "CLEARSTREAM BANKING S.A., LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CEDELULLLHB"
         },
         {
-            "id": 255,
+            "id": 310,
             "bank": "CLEARSTREAM BANKING S.A., LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CEDELULLLHC"
         },
         {
-            "id": 256,
+            "id": 311,
             "bank": "CLEARSTREAM BANKING S.A., LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CEDELULLOAS"
         },
         {
-            "id": 257,
+            "id": 312,
+            "bank": "CMI ASSET MANAGEMENT (LUXEMBOURG) S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "CMIALUL1"
+        },
+        {
+            "id": 313,
+            "bank": "CNH INDUSTRIAL FINANCE EUROPE S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "CNHELUL1"
+        },
+        {
+            "id": 314,
+            "bank": "CODALUX S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "CDLXLUL1"
+        },
+        {
+            "id": 315,
             "bank": "COMMERZBANK AG",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "COBALULU"
         },
         {
-            "id": 258,
+            "id": 316,
             "bank": "COMMERZBANK INTERNATIONAL S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "COBALULX"
         },
         {
-            "id": 259,
+            "id": 317,
             "bank": "COMMERZBANK INTERNATIONAL S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "COBALULXSEP"
         },
         {
-            "id": 260,
+            "id": 318,
             "bank": "COMMISSION OF THE EUROPEAN COMMUNITIES",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "EUCOLULL"
         },
         {
-            "id": 261,
+            "id": 319,
+            "bank": "COMPAGNIE DE GESTION (LUXEMBOURG) S.A.",
+            "city": "STRASSEN",
+            "branch": null,
+            "swift_code": "COGLLUL1"
+        },
+        {
+            "id": 320,
+            "bank": "COMPAGNIE FINANCIERE DE GESTION LUXEMBOURG S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "CFGLLUL1"
+        },
+        {
+            "id": 321,
             "bank": "COMPAGNIE FINANCIERE ET BOURSIERE LUXEMBOURGEOISE S.A. 'COFIBOL'",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CFBLLULL"
         },
         {
-            "id": 262,
+            "id": 322,
+            "bank": "COMPAGNIE FINANCIERE EUROPEENNE S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "ECFILUL1"
+        },
+        {
+            "id": 323,
+            "bank": "COMPAGNIE INTERNATIONALE DE RENTES S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "COIRLUL1"
+        },
+        {
+            "id": 324,
+            "bank": "COMPTOIR D'AGENTS DE CHANGE DU BENELUX S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "CDCBLUL1"
+        },
+        {
+            "id": 325,
+            "bank": "CONRAD HINRICH DONNER BANK, HAMBURG (ALLEMAGNE) SUCCURSALE DE LUXEMBOURG",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "CHDBLUL1"
+        },
+        {
+            "id": 326,
             "bank": "CORNER BANQUE (LUXEMBOURG) S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CBLULULX"
         },
         {
-            "id": 263,
+            "id": 327,
             "bank": "CQLT SAARGUMMI TECHNOLOGIES S.A.R.L",
             "city": "REMICH",
             "branch": null,
             "swift_code": "SGHQLULL"
         },
         {
-            "id": 264,
+            "id": 328,
             "bank": "CREDEM INTERNATIONAL (LUX) S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CRDMLULL"
         },
         {
-            "id": 265,
+            "id": 329,
             "bank": "CREDIT AGRICOLE LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "AGRILULA"
         },
         {
-            "id": 266,
+            "id": 330,
+            "bank": "CREDIT AGRICOLE LUXEMBOURG MULTIGESTION",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "CAUILUL1"
+        },
+        {
+            "id": 331,
             "bank": "CREDIT SUISSE (LUXEMBOURG) S.A., PRIVATE BANKING",
             "city": "LUXEMBOURG",
             "branch": "(CENTER OF EXCELLENCE)",
             "swift_code": "CRESLULLWRO"
         },
         {
-            "id": 267,
+            "id": 332,
             "bank": "CREDIT SUISSE (LUXEMBOURG) S.A., PRIVATE BANKING",
             "city": "LUXEMBOURG",
             "branch": "(DEPOSITORY BANK)",
             "swift_code": "CRESLULLDLX"
         },
         {
-            "id": 268,
+            "id": 333,
             "bank": "CREDIT SUISSE (LUXEMBOURG) S.A., PRIVATE BANKING",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CRESLULL"
         },
         {
-            "id": 269,
+            "id": 334,
             "bank": "CREDIT SUISSE AG, LUXEMBOURG BRANCH",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CRESLULX"
         },
         {
-            "id": 270,
+            "id": 335,
             "bank": "CREDIT SUISSE FUND SERVICES (LUXEMBOURG) SA",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CSAMLULL"
         },
         {
-            "id": 271,
+            "id": 336,
+            "bank": "CREUTZ AND PARTNERS, GLOBAL ASSET MANAGEMENT",
+            "city": "WEISWAMPACH",
+            "branch": null,
+            "swift_code": "CPGALUW1"
+        },
+        {
+            "id": 337,
             "bank": "DANIELI BANKING CORPORATION SA",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "DAINLULL"
         },
         {
-            "id": 272,
+            "id": 338,
             "bank": "DANSKE BANK INTERNATIONAL S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "DABALULL"
         },
         {
-            "id": 273,
+            "id": 339,
+            "bank": "DEGROOF PORTABELLA S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "GITFLUL1"
+        },
+        {
+            "id": 340,
             "bank": "DEKABANK DEUTSCHE GIROZENTRALE LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "DGZFLULI"
         },
         {
-            "id": 274,
+            "id": 341,
             "bank": "DEKABANK-DEUTSCHE GIROZENTRALE SUCCURSALE DE LUXEMBOURG, LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "DGZFLULL"
         },
         {
-            "id": 275,
+            "id": 342,
             "bank": "DELEN PRIVATE BANK LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "DELELULL"
         },
         {
-            "id": 276,
+            "id": 343,
             "bank": "DEPFA PFANDBRIEF BANK INTERNATIONAL S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "PBILLULL"
         },
         {
-            "id": 277,
+            "id": 344,
+            "bank": "DERIPARTNERS SICAV-SIF",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "DEIVLUL1"
+        },
+        {
+            "id": 345,
+            "bank": "DESTREM LUXEMBOURG S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "LUDELUL1"
+        },
+        {
+            "id": 346,
             "bank": "DEUTSCHE ASSET AND WEALTH MANAGEMENT INVESTMENT S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "DEUTLU2D"
         },
         {
-            "id": 278,
+            "id": 347,
             "bank": "DEUTSCHE BANK AG, FILIALE LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "DEUTLULB"
         },
         {
-            "id": 279,
+            "id": 348,
             "bank": "DEUTSCHE BANK LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": "(CORPORATE SERVICES DIVISION)",
             "swift_code": "DEUTLULLCSD"
         },
         {
-            "id": 280,
+            "id": 349,
             "bank": "DEUTSCHE BANK LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": "(GES BUSINESS)",
             "swift_code": "DEUTLULLGES"
         },
         {
-            "id": 281,
-            "bank": "DEUTSCHE BANK LUXEMBOURG S.A.",
-            "city": "LUXEMBOURG",
-            "branch": "(INSURANCE BRANCH)",
-            "swift_code": "DEUTLULLVIT"
-        },
-        {
-            "id": 282,
+            "id": 350,
             "bank": "DEUTSCHE BANK LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": "(INSURANCE BRANCH)",
             "swift_code": "DEUTLULLDRE"
         },
         {
-            "id": 283,
+            "id": 351,
             "bank": "DEUTSCHE BANK LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": "(INSURANCE BRANCH)",
             "swift_code": "DEUTLULLPRI"
         },
         {
-            "id": 284,
+            "id": 352,
+            "bank": "DEUTSCHE BANK LUXEMBOURG S.A.",
+            "city": "LUXEMBOURG",
+            "branch": "(INSURANCE BRANCH)",
+            "swift_code": "DEUTLULLVIT"
+        },
+        {
+            "id": 353,
             "bank": "DEUTSCHE BANK LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": "(INVESTMENT BRANCH)",
             "swift_code": "DEUTLULLDWS"
         },
         {
-            "id": 285,
+            "id": 354,
             "bank": "DEUTSCHE BANK LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": "(TARGET2)",
             "swift_code": "DEUTLULLTG2"
         },
         {
-            "id": 286,
+            "id": 355,
             "bank": "DEUTSCHE BANK LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "DEUTLULL"
         },
         {
-            "id": 287,
+            "id": 356,
             "bank": "DEUTSCHE BANK LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "DEUTLULLCTA"
         },
         {
-            "id": 288,
+            "id": 357,
             "bank": "DEUTSCHE HOLDINGS (LUXEMBOURG) SARL",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "DEUTLU2H"
         },
         {
-            "id": 289,
+            "id": 358,
             "bank": "DEUTSCHE POSTBANK AG ZWEIGNIEDERLASSUNG LUXEMBURG (FORMERLY DEUTSCHE POSTBANK INTERNATIONAL S.A.)",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "PBNKLULL"
         },
         {
-            "id": 290,
+            "id": 359,
+            "bank": "DEWAAY LUXEMBOURG S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "DEWYLUL1"
+        },
+        {
+            "id": 360,
+            "bank": "DIERICKX, LEYS LUXEMBOURG S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "DILLLUL1"
+        },
+        {
+            "id": 361,
+            "bank": "DILLEN AND DE SCHAETZEN LUXEMBOURG S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "DELILUL1"
+        },
+        {
+            "id": 362,
             "bank": "DNB LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "UBNLLULL"
         },
         {
-            "id": 291,
+            "id": 363,
+            "bank": "DRIEGE AND WEGHSTEEN INTERNATIONAL LUXEMBOURG S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "DWILLUL1"
+        },
+        {
+            "id": 364,
+            "bank": "DUEMME INT. LUXEMBOURG S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "DUIULU21"
+        },
+        {
+            "id": 365,
+            "bank": "DYNASTY ASSET MANAGEMENT",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "DNAGLUL1"
+        },
+        {
+            "id": 366,
             "bank": "DZ PRIVATBANK S.A., LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "GENOLULL"
         },
         {
-            "id": 292,
+            "id": 367,
             "bank": "DZ PRIVATBANK S.A., LUXEMBOURG",
             "city": "STRASSEN",
             "branch": "(SINGAPORE BRANCH)",
             "swift_code": "GENOLULLSGP"
         },
         {
-            "id": 293,
+            "id": 368,
+            "bank": "E. OHMAN J:OR (LUXEMBOURG) S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "OHMALUL1"
+        },
+        {
+            "id": 369,
+            "bank": "E.S. WEALTH",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "WELHLUL1"
+        },
+        {
+            "id": 370,
             "bank": "EASTNETS EUROPE S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "ESNTLULL"
         },
         {
-            "id": 294,
+            "id": 371,
             "bank": "EAST-WEST UNITED BANK S.A",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "EWUBLUL2"
         },
         {
-            "id": 295,
+            "id": 372,
             "bank": "EAST-WEST UNITED BANK S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "EWUBLULL"
         },
         {
-            "id": 296,
+            "id": 373,
+            "bank": "ECM REAL ESTATE INVESTMENTS A.G.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "EREILUL1"
+        },
+        {
+            "id": 374,
             "bank": "EDMOND DE ROTHSCHILD (EUROPE)",
             "city": "LUXEMBOURG",
             "branch": "(EDRAM)",
             "swift_code": "PRIBLULLRAM"
         },
         {
-            "id": 297,
+            "id": 375,
             "bank": "EDMOND DE ROTHSCHILD (EUROPE)",
             "city": "LUXEMBOURG",
             "branch": "(FUND OF FUNDS)",
             "swift_code": "PRIBLULBFOF"
         },
         {
-            "id": 298,
+            "id": 376,
             "bank": "EDMOND DE ROTHSCHILD (EUROPE)",
             "city": "LUXEMBOURG",
             "branch": "(TRANSFER AGENCY)",
             "swift_code": "PRIBLULLREG"
         },
         {
-            "id": 299,
+            "id": 377,
             "bank": "EDMOND DE ROTHSCHILD (EUROPE)",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "PRIBLULB"
         },
         {
-            "id": 300,
+            "id": 378,
             "bank": "EDMOND DE ROTHSCHILD (EUROPE)",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "PRIBLULL"
         },
         {
-            "id": 301,
+            "id": 379,
             "bank": "EDMOND DE ROTHSCHILD (EUROPE)",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "PRIBLULLEUX"
         },
         {
-            "id": 302,
+            "id": 380,
             "bank": "EDREAMS ODIGEO",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "EDRELULL"
         },
         {
-            "id": 303,
+            "id": 381,
             "bank": "EFG BANK LUXEMBOURG SA",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "EFGBLULX"
         },
         {
-            "id": 304,
+            "id": 382,
+            "bank": "EIGER SECURITIES",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "EISPLUL1"
+        },
+        {
+            "id": 383,
+            "bank": "EIGER SECURITIES",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "EISPLUL1LUX"
+        },
+        {
+            "id": 384,
+            "bank": "ELECTRABEL FINANCE AND TREASURY MANAGEMENT (EFTM)",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "EFTMLUL1"
+        },
+        {
+            "id": 385,
+            "bank": "ENIS SICAV",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "ENSILUL1"
+        },
+        {
+            "id": 386,
             "bank": "ENTREPRISE DES P ET T",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CCPLLULL"
         },
         {
-            "id": 305,
+            "id": 387,
+            "bank": "EQUITY TRUST FUND SERVICES (LUXEMBOURG) S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "ETFSLUL1"
+        },
+        {
+            "id": 388,
             "bank": "ERSTE EUROPAISCHE PFANDBRIEF-UND KOMMUNALKREDITBANK AG IN LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "EEPKLULL"
         },
         {
-            "id": 306,
+            "id": 389,
+            "bank": "ETHENEA INDEPENDENT INVESTORS S.A.",
+            "city": "MUNSBACH",
+            "branch": null,
+            "swift_code": "ETIILUL1"
+        },
+        {
+            "id": 390,
+            "bank": "EURESA LIFE",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "EURLLUL1"
+        },
+        {
+            "id": 391,
+            "bank": "EURIZON CAPITAL SA",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "EUAILUL1"
+        },
+        {
+            "id": 392,
+            "bank": "EURO FONDS SERVICE S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "EUFSLUL1"
+        },
+        {
+            "id": 393,
             "bank": "EUROBANK PRIVATE BANK LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "ERBKLULL"
         },
         {
-            "id": 307,
+            "id": 394,
+            "bank": "EUROFINANCIERE S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "EUFILUL1"
+        },
+        {
+            "id": 395,
+            "bank": "EUROPAEISCHE GENOSSENSCHAFTSBANK S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "EGBKLUL1"
+        },
+        {
+            "id": 396,
             "bank": "EUROPEAN FINANCIAL STABILITY FACILITY SA",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "EFSFLULL"
         },
         {
-            "id": 308,
+            "id": 397,
             "bank": "EUROPEAN FUND ADMINISTRATION S.A.",
             "city": "LUXEMBOURG",
             "branch": "(ACCOUNTING DEPARTMENT)",
             "swift_code": "EFALLULLACC"
         },
         {
-            "id": 309,
+            "id": 398,
             "bank": "EUROPEAN FUND ADMINISTRATION S.A.",
             "city": "LUXEMBOURG",
             "branch": "(FRA ENTITY)",
             "swift_code": "EFALLULLFRA"
         },
         {
-            "id": 310,
+            "id": 399,
             "bank": "EUROPEAN FUND ADMINISTRATION S.A.",
             "city": "LUXEMBOURG",
             "branch": "(GLOBAL DISTRIBUTION SERVICES)",
             "swift_code": "EFALLULLGDS"
         },
         {
-            "id": 311,
+            "id": 400,
             "bank": "EUROPEAN FUND ADMINISTRATION S.A.",
             "city": "LUXEMBOURG",
             "branch": "(TRANSFER AGENT DEPARTMENT)",
             "swift_code": "EFALLULLTRF"
         },
         {
-            "id": 312,
+            "id": 401,
             "bank": "EUROPEAN FUND ADMINISTRATION S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "EFALLULL"
         },
         {
-            "id": 313,
+            "id": 402,
+            "bank": "EUROPEAN FUNDS SERVICES S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "EFUSLUL1"
+        },
+        {
+            "id": 403,
             "bank": "EUROPEAN INVESTMENT FUND",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "EIFLLULL"
         },
         {
-            "id": 314,
+            "id": 404,
             "bank": "EUROPEAN INVESTMENT FUND - EIF",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "EIFLLULB"
         },
         {
-            "id": 315,
+            "id": 405,
             "bank": "EUROPEAN STABILITY MECHANISM",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "ESMELULL"
         },
         {
-            "id": 316,
+            "id": 406,
             "bank": "EVRAZ GROUP S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "EVRZLULL"
         },
         {
-            "id": 317,
+            "id": 407,
+            "bank": "FARAD INVESTMENT ADVISOR S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FAIVLUL1"
+        },
+        {
+            "id": 408,
             "bank": "FAREVA",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "FAVALULL"
         },
         {
-            "id": 318,
+            "id": 409,
             "bank": "FAREVA",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "FAVALULL"
         },
         {
-            "id": 319,
+            "id": 410,
+            "bank": "FERRERO TRADING SA",
+            "city": "SANDWEILER",
+            "branch": null,
+            "swift_code": "FERELUL1"
+        },
+        {
+            "id": 411,
             "bank": "FIA ASSET MANAGEMENT SA",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "FIASLULL"
         },
         {
-            "id": 320,
+            "id": 412,
+            "bank": "FIAT CHRYSLER FINANCE EUROPE",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FCFELUL1"
+        },
+        {
+            "id": 413,
+            "bank": "FIDELITY INVESTMENTS LUXEMBOURG S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FINLLUL1"
+        },
+        {
+            "id": 414,
+            "bank": "FIDESSA ASSET MANAGEMENT",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FDAMLUL1"
+        },
+        {
+            "id": 415,
             "bank": "FIDEURAM BANK (LUXEMBOURG) S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "FIBKLULL"
         },
         {
-            "id": 321,
+            "id": 416,
+            "bank": "FINANCE ET CONSEIL S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FACOLUL1"
+        },
+        {
+            "id": 417,
+            "bank": "FINEXIS S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FIXELUL1"
+        },
+        {
+            "id": 418,
+            "bank": "FLEMING ASSET MANAGEMENT (LUXEMBOURG)",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FLFMLUL1"
+        },
+        {
+            "id": 419,
             "bank": "FORTUNA BANQUE S.C.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "FOTNLULL"
         },
         {
-            "id": 322,
+            "id": 420,
             "bank": "FRANKLIN TEMPLETON INTERNATIONAL SERVICES S.A.R.L.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "FRIMLULL"
         },
         {
-            "id": 323,
+            "id": 421,
+            "bank": "FREIE INTERNATIONALE SPARKASSE S.A",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "SBRELUL1"
+        },
+        {
+            "id": 422,
             "bank": "FUCHS ET ASSOCIES FINANCE SA",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "FUASLULL"
         },
         {
-            "id": 324,
+            "id": 423,
             "bank": "FUND CHANNEL S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "FCHALULL"
         },
         {
-            "id": 325,
+            "id": 424,
+            "bank": "FUNDSQUARE S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "XLUXLUL1"
+        },
+        {
+            "id": 425,
             "bank": "FUNDSQUARE S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "XLUXLULB"
         },
         {
-            "id": 326,
+            "id": 426,
+            "bank": "GADD AND CIE LUXEMBOURG SA",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "GALULUL1"
+        },
+        {
+            "id": 427,
+            "bank": "GENERAL RE EUROPE LIMITED",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "GEERLUL1"
+        },
+        {
+            "id": 428,
+            "bank": "GENERALI FUND MANAGEMENT LUXEMBOURG",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "GFMLLUL1"
+        },
+        {
+            "id": 429,
             "bank": "GENERALI LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "GLUXLULL"
         },
         {
-            "id": 327,
+            "id": 430,
+            "bank": "GLENCORE FINANCE (EUROPE) SA",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "GFEULUL1"
+        },
+        {
+            "id": 431,
             "bank": "GLITNIR BANK LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "ISBALULL"
         },
         {
-            "id": 328,
+            "id": 432,
+            "bank": "GLOBAL EQUITY MANAGERS S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "GLEMLUL1"
+        },
+        {
+            "id": 433,
             "bank": "GLOBESETTLE S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LSEGLULL"
         },
         {
-            "id": 329,
+            "id": 434,
             "bank": "GLOBESETTLE S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LSEGLULLAUS"
         },
         {
-            "id": 330,
+            "id": 435,
             "bank": "GLOBESETTLE S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LSEGLULLBRA"
         },
         {
-            "id": 331,
+            "id": 436,
             "bank": "GLOBESETTLE S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LSEGLULLCAN"
         },
         {
-            "id": 332,
+            "id": 437,
             "bank": "GLOBESETTLE S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LSEGLULLCHE"
         },
         {
-            "id": 333,
+            "id": 438,
             "bank": "GLOBESETTLE S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LSEGLULLCUS"
         },
         {
-            "id": 334,
+            "id": 439,
             "bank": "GLOBESETTLE S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LSEGLULLDEU"
         },
         {
-            "id": 335,
+            "id": 440,
             "bank": "GLOBESETTLE S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LSEGLULLDNK"
         },
         {
-            "id": 336,
+            "id": 441,
             "bank": "GLOBESETTLE S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LSEGLULLESP"
         },
         {
-            "id": 337,
+            "id": 442,
             "bank": "GLOBESETTLE S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LSEGLULLEXP"
         },
         {
-            "id": 338,
+            "id": 443,
             "bank": "GLOBESETTLE S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LSEGLULLFRA"
         },
         {
-            "id": 339,
+            "id": 444,
             "bank": "GLOBESETTLE S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LSEGLULLGBR"
         },
         {
-            "id": 340,
+            "id": 445,
             "bank": "GLOBESETTLE S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LSEGLULLGRC"
         },
         {
-            "id": 341,
+            "id": 446,
             "bank": "GLOBESETTLE S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LSEGLULLHKG"
         },
         {
-            "id": 342,
+            "id": 447,
             "bank": "GLOBESETTLE S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LSEGLULLIRL"
         },
         {
-            "id": 343,
+            "id": 448,
             "bank": "GLOBESETTLE S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LSEGLULLITA"
         },
         {
-            "id": 344,
+            "id": 449,
             "bank": "GLOBESETTLE S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LSEGLULLJPN"
         },
         {
-            "id": 345,
+            "id": 450,
             "bank": "GLOBESETTLE S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LSEGLULLLUX"
         },
         {
-            "id": 346,
+            "id": 451,
             "bank": "GLOBESETTLE S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LSEGLULLNBB"
         },
         {
-            "id": 347,
+            "id": 452,
             "bank": "GLOBESETTLE S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LSEGLULLNLD"
         },
         {
-            "id": 348,
+            "id": 453,
             "bank": "GLOBESETTLE S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LSEGLULLSET"
         },
         {
-            "id": 349,
+            "id": 454,
             "bank": "GLOBESETTLE S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LSEGLULLSWE"
         },
         {
-            "id": 350,
+            "id": 455,
             "bank": "GLOBESETTLE S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LSEGLULLTEC"
         },
         {
-            "id": 351,
+            "id": 456,
             "bank": "GLOBESETTLE S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LSEGLULLUSA"
         },
         {
-            "id": 352,
+            "id": 457,
             "bank": "GOLD RUSH S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "GORSLULL"
         },
         {
-            "id": 353,
+            "id": 458,
+            "bank": "GROSSBOETZL, SCHMITZ, LOMPARSKI AND PARTNER INTER NATIONAL S.A.R.L.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "GSLPLUL1"
+        },
+        {
+            "id": 459,
+            "bank": "GROUP INDOSUEZ ADMINISTRATION COMPANY S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "GIACLUL1"
+        },
+        {
+            "id": 460,
+            "bank": "GROUPE INDOSUEZ FUNDS INVESTMENT SERVICES (LUXEMBOURG) S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "GIFILUL1"
+        },
+        {
+            "id": 461,
+            "bank": "HARLOW MEYER SAVAGE (LUXEMBOURG) S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "HMSLLUL1"
+        },
+        {
+            "id": 462,
             "bank": "HAUCK UND AUFHAEUSER PRIVATBANKIERS KGAA",
             "city": "MUNSBACH",
             "branch": null,
             "swift_code": "HAUKLULL"
         },
         {
-            "id": 354,
+            "id": 463,
+            "bank": "HAVAUX GESTION (LUXEMBOURG) S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "HVGLLUL1"
+        },
+        {
+            "id": 464,
+            "bank": "HAVAUX GESTION DE FORTUNE (LUXEMBOURG) S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "HAVOLUL1"
+        },
+        {
+            "id": 465,
             "bank": "HEDGESERV (LUXEMBOURG) S.A.R.L.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "HELRLUL2"
         },
         {
-            "id": 355,
+            "id": 466,
+            "bank": "HMS LUX S.A.",
+            "city": "LUXEMBOURG",
+            "branch": "(LUXEMBOURG BACKOFFICE)",
+            "swift_code": "HMLULUL1BKO"
+        },
+        {
+            "id": 467,
+            "bank": "HMS LUX S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "HMLULUL1"
+        },
+        {
+            "id": 468,
+            "bank": "HOTTINGER ET CIE",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "HOTTLUL1"
+        },
+        {
+            "id": 469,
+            "bank": "HOTTINGUER GESTION (LUXEMBOURG)",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "HOTGLUL1"
+        },
+        {
+            "id": 470,
+            "bank": "HOUSE OF FINANCE INTERNATIONAL, THE(THOFI)",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "HOFILUL1"
+        },
+        {
+            "id": 471,
             "bank": "HSBC BANK PLC LUXEMBOURG BRANCH",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "HSBCLULL"
         },
         {
-            "id": 356,
+            "id": 472,
             "bank": "HSBC BANK PLC, LUXEMBOURG BRANCH (FORMERLY HSBC SECURITIES SERVICES (LUXEMBOURG) S.A.)",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "BBDALULX"
         },
         {
-            "id": 357,
+            "id": 473,
             "bank": "HSBC PRIVATE BANK (LUXEMBOURG) S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "BLICLULX"
         },
         {
-            "id": 358,
+            "id": 474,
             "bank": "HSH NORDBANK AG",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "HSHNLULB"
         },
         {
-            "id": 359,
+            "id": 475,
             "bank": "HSH NORDBANK SECURITIES S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "HSHNLULL"
         },
         {
-            "id": 360,
+            "id": 476,
+            "bank": "HTTS SIMBA",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "HTSILUL1"
+        },
+        {
+            "id": 477,
+            "bank": "HYPO CAPITAL MANAGEMENT INVESTMENTGESELLSCHAFT LUXEMBOURG S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "HCMILUL1"
+        },
+        {
+            "id": 478,
+            "bank": "HYPOTHEKENBANK FRANKFURT INTERNATIONAL S.A. (FORMERLY EUROPAEISCHE HYPOTHEKENBANK S.A.)",
+            "city": "SENNINGERBERG",
+            "branch": null,
+            "swift_code": "EUHDLUL1"
+        },
+        {
+            "id": 479,
+            "bank": "IFS AM",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "IFSILUL1"
+        },
+        {
+            "id": 480,
+            "bank": "IKB DEUTSCHE INDUSTRIEBANK AG (LUXEMBOURG)",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "IKBDLUL1"
+        },
+        {
+            "id": 481,
+            "bank": "IKB INTERNATIONAL S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "IKBDLUA1"
+        },
+        {
+            "id": 482,
             "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (EUROPE) S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "ICBKLULU"
         },
         {
-            "id": 361,
+            "id": 483,
             "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LUXEMBOURG BRANCH",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "ICBKLULL"
         },
         {
-            "id": 362,
+            "id": 484,
             "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LUXEMBOURG BRANCH (RMB CLEARING BANK)",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "ICBKLULC"
         },
         {
-            "id": 363,
+            "id": 485,
             "bank": "ING LUXEMBOURG S.A. (FORMERLY CREDIT EUROPEEN S.A.)",
             "city": "LUXEMBOURG",
             "branch": "(CUSTOMER TRANSFERT DEPARTMENT)",
             "swift_code": "CELLLULLCTD"
         },
         {
-            "id": 364,
+            "id": 486,
             "bank": "ING LUXEMBOURG S.A. (FORMERLY CREDIT EUROPEEN S.A.)",
             "city": "LUXEMBOURG",
             "branch": "(GLOBAL SECURITIES DEPARTMENT)",
             "swift_code": "CELLLULLGSD"
         },
         {
-            "id": 365,
+            "id": 487,
             "bank": "ING LUXEMBOURG S.A. (FORMERLY CREDIT EUROPEEN S.A.)",
             "city": "LUXEMBOURG",
             "branch": "(TREASURY DEPARTMENT)",
             "swift_code": "CELLLULLTRD"
         },
         {
-            "id": 366,
+            "id": 488,
             "bank": "ING LUXEMBOURG S.A. (FORMERLY CREDIT EUROPEEN S.A.)",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CELLLULL"
         },
         {
-            "id": 367,
+            "id": 489,
             "bank": "INGRAM MICRO LUXEMBOURG SARL",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "INGRLULL"
         },
         {
-            "id": 368,
+            "id": 490,
+            "bank": "INSINGER ASSET MANAGEMENT S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "IAMLLUL1"
+        },
+        {
+            "id": 491,
+            "bank": "INTERFUND SA",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "INEFLUL1"
+        },
+        {
+            "id": 492,
+            "bank": "INTERINVEST",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "VESTLUL1"
+        },
+        {
+            "id": 493,
+            "bank": "INTERNATIONAL FINANCIAL DATA SERVICES (LUXEMBOURG) S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "IFDELUL1"
+        },
+        {
+            "id": 494,
+            "bank": "INTERNAXX BANK S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "INRXLUL1"
+        },
+        {
+            "id": 495,
             "bank": "INTESA SANPAOLO BANK LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "SEBKLULL"
         },
         {
-            "id": 369,
+            "id": 496,
+            "bank": "INTLUX S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "INTXLUL1"
+        },
+        {
+            "id": 497,
+            "bank": "INVESTOR LUXEMBOURG S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "INLULUL1"
+        },
+        {
+            "id": 498,
             "bank": "IPAY INTERNATIONAL S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "IPEULULL"
         },
         {
-            "id": 370,
+            "id": 499,
             "bank": "IWI INTERNATIONAL WEALTH INSURER",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "DXLPLULL"
         },
         {
-            "id": 371,
+            "id": 500,
             "bank": "J.P. MORGAN BANK LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": "(TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES)",
             "swift_code": "CHASLULXENQ"
         },
         {
-            "id": 372,
+            "id": 501,
             "bank": "J.P. MORGAN BANK LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": "(TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES)",
             "swift_code": "CHASLULXENQ"
         },
         {
-            "id": 373,
+            "id": 502,
             "bank": "J.P. MORGAN BANK LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CHASLULA"
         },
         {
-            "id": 374,
+            "id": 503,
             "bank": "J.P. MORGAN BANK LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CHASLULAMLM"
         },
         {
-            "id": 375,
+            "id": 504,
             "bank": "J.P. MORGAN BANK LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CHASLULAWAM"
         },
         {
-            "id": 376,
+            "id": 505,
             "bank": "J.P. MORGAN BANK LUXEMBOURG S.A.",
             "city": "SENNINGERBERG",
             "branch": "(JPM CORPORATE TREASURY)",
             "swift_code": "CHASLULXLUX"
         },
         {
-            "id": 377,
-            "bank": "J.P. MORGAN BANK LUXEMBOURG S.A.",
-            "city": "SENNINGERBERG",
-            "branch": null,
-            "swift_code": "CHASLULX"
-        },
-        {
-            "id": 378,
+            "id": 506,
             "bank": "J.P. MORGAN BANK LUXEMBOURG S.A.",
             "city": "SENNINGERBERG",
             "branch": null,
             "swift_code": "CHASLUL2"
         },
         {
-            "id": 379,
+            "id": 507,
+            "bank": "J.P. MORGAN BANK LUXEMBOURG S.A.",
+            "city": "SENNINGERBERG",
+            "branch": null,
+            "swift_code": "CHASLULX"
+        },
+        {
+            "id": 508,
+            "bank": "JOH. BERENBERG, GOSSLER AND CO.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "BEGOLUL1"
+        },
+        {
+            "id": 509,
+            "bank": "JOHN DEERE BANK S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "JODELUL1"
+        },
+        {
+            "id": 510,
             "bank": "JPMORGAN ASSET MANAGEMENT (EUROPE) S.A.R.L.",
             "city": "LUXEMBOURG",
             "branch": "(TEST KEY AND BKE ADMINISTRATION)",
             "swift_code": "RFLCLULXKEY"
         },
         {
-            "id": 380,
+            "id": 511,
             "bank": "JPMORGAN ASSET MANAGEMENT (EUROPE) S.A.R.L.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "RFLCLULX"
         },
         {
-            "id": 381,
+            "id": 512,
+            "bank": "KB CONSEIL-SERVICE S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "KBNSLUL1"
+        },
+        {
+            "id": 513,
             "bank": "KBC FINANCIAL PRODUCTS INTERNATIONAL SA",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "KBCFLULL"
         },
         {
-            "id": 382,
+            "id": 514,
             "bank": "KBC IFIMA S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "KBCILULL"
         },
         {
-            "id": 383,
+            "id": 515,
             "bank": "KBL EUROPEAN PRIVATE BANKERS S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "KBLXLULL"
         },
         {
-            "id": 384,
+            "id": 516,
             "bank": "KENNEDY FINANCEMENT LUXEMBOURG 2 SARL",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "KFLULULU"
         },
         {
-            "id": 385,
+            "id": 517,
+            "bank": "KEW CAPITAL LLP",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "KEALLUL1"
+        },
+        {
+            "id": 518,
+            "bank": "KREDIETRUST",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "KRETLUL1"
+        },
+        {
+            "id": 519,
+            "bank": "LA MONDIALE EUROPARTNER",
+            "city": "BERTRANGE",
+            "branch": null,
+            "swift_code": "MOEALUL1"
+        },
+        {
+            "id": 520,
             "bank": "LAPITHUS MANAGEMENT S.A R.L.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LTHULULL"
         },
         {
-            "id": 386,
+            "id": 521,
+            "bank": "LE FOYER AM",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FOYELUL1"
+        },
+        {
+            "id": 522,
+            "bank": "LETTERONE TREASURY SERVICES SA",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "LETSLUL1"
+        },
+        {
+            "id": 523,
+            "bank": "LGI SA",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "LVGILUL1"
+        },
+        {
+            "id": 524,
+            "bank": "LLOYDS TSB BANK PLC",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "LOYDLUL1"
+        },
+        {
+            "id": 525,
             "bank": "LOMBARD INTERNATIONAL ASSURANCE SA",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LIALLULL"
         },
         {
-            "id": 387,
+            "id": 526,
             "bank": "LOMBARD ODIER (EUROPE) S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LOCYLULL"
         },
         {
-            "id": 388,
+            "id": 527,
             "bank": "LRI INVEST S.A.",
             "city": "MUNSBACH",
             "branch": null,
             "swift_code": "LRIILULL"
         },
         {
-            "id": 389,
+            "id": 528,
+            "bank": "LUXBROKERS S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "LUXBLUL1"
+        },
+        {
+            "id": 529,
             "bank": "LUXCSD S.A.",
             "city": "LUXEMBOURG",
             "branch": "(DISTRIBUTION ACCOUNT)",
             "swift_code": "LUXCLULLDA0"
         },
         {
-            "id": 390,
+            "id": 530,
             "bank": "LUXCSD S.A.",
             "city": "LUXEMBOURG",
             "branch": "(ISSUANCE ACCOUNT)",
             "swift_code": "LUXCLULLIA0"
         },
         {
-            "id": 391,
+            "id": 531,
             "bank": "LUXCSD S.A.",
             "city": "LUXEMBOURG",
             "branch": "(MIRROR ACCOUNT)",
             "swift_code": "LUXCLULLMA0"
         },
         {
-            "id": 392,
+            "id": 532,
             "bank": "LUXCSD S.A.",
             "city": "LUXEMBOURG",
             "branch": "(OMNIBUS ACCOUNT)",
             "swift_code": "LUXCLULLMA1"
         },
         {
-            "id": 393,
+            "id": 533,
             "bank": "LUXCSD S.A.",
             "city": "LUXEMBOURG",
             "branch": "(OMNIBUS ACCOUNT)",
             "swift_code": "LUXCLULLOA0"
         },
         {
-            "id": 394,
+            "id": 534,
             "bank": "LUXCSD S.A.",
             "city": "LUXEMBOURG",
             "branch": "(OMNIBUS ACCOUNT)",
             "swift_code": "LUXCLULLOA1"
         },
         {
-            "id": 395,
+            "id": 535,
             "bank": "LUXCSD S.A.",
             "city": "LUXEMBOURG",
             "branch": "(VAULT OPERATIONS)",
             "swift_code": "LUXCLULLLVO"
         },
         {
-            "id": 396,
+            "id": 536,
             "bank": "LUXCSD S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LUXCLULL"
         },
         {
-            "id": 397,
+            "id": 537,
             "bank": "LUXCSD S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LUXCLULLCPN"
         },
         {
-            "id": 398,
+            "id": 538,
             "bank": "LUXCSD S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "LUXCLULLMIG"
         },
         {
-            "id": 399,
+            "id": 539,
+            "bank": "LUXEMBOURG FINANCIAL GROUP",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "LUFGLUL1"
+        },
+        {
+            "id": 540,
+            "bank": "LUXEMBOURG NATIONAL REGISTRY",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "LUNRLUL1"
+        },
+        {
+            "id": 541,
+            "bank": "LUXUMBRELLA",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "LUXULUL1"
+        },
+        {
+            "id": 542,
             "bank": "M.M. WARBURG U. CO LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "WBWCLULL"
         },
         {
-            "id": 400,
+            "id": 543,
             "bank": "MALLINCKRODT GROUP SARL",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "MALKLULL"
         },
         {
-            "id": 401,
+            "id": 544,
+            "bank": "MEDIOBANCA INTERNATIONAL (LUXEMBOURG) SA",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "MEOILUL1"
+        },
+        {
+            "id": 545,
+            "bank": "MERRILL LYNCH (LUXEMBOURG) S.A.R.L.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "MLIBLUL1"
+        },
+        {
+            "id": 546,
+            "bank": "MERRILL LYNCH EQUITY S.A.R.L.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "MLESLUL1"
+        },
+        {
+            "id": 547,
+            "bank": "METROPOLITAN BANK ASSOCIATES S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "MBASLUL1"
+        },
+        {
+            "id": 548,
+            "bank": "MIDAS ASSET MANAGEMENT S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "MIAALUL1"
+        },
+        {
+            "id": 549,
             "bank": "MIRABAUD ET CIE (EUROPE) SA",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "MIRALULL"
         },
         {
-            "id": 402,
+            "id": 550,
             "bank": "MITSUBISHI UFJ GLOBAL CUSTODY SA",
             "city": "LUXEMBOURG",
             "branch": "(BANK ACCOUNT SERVICE)",
             "swift_code": "MUGCLULLBAS"
         },
         {
-            "id": 403,
-            "bank": "MITSUBISHI UFJ GLOBAL CUSTODY SA",
-            "city": "LUXEMBOURG",
-            "branch": null,
-            "swift_code": "MUGCLULL"
-        },
-        {
-            "id": 404,
+            "id": 551,
             "bank": "MITSUBISHI UFJ GLOBAL CUSTODY SA",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "MUGCLUL2"
         },
         {
-            "id": 405,
+            "id": 552,
+            "bank": "MITSUBISHI UFJ GLOBAL CUSTODY SA",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "MUGCLULL"
+        },
+        {
+            "id": 553,
             "bank": "MIZUHO TRUST AND BANKING (LUXEMBOURG) S.A.",
             "city": "MUNSBACH",
             "branch": "(DERIVATIVE TRADES SETTLEMENT)",
             "swift_code": "MHTBLULLDTS"
         },
         {
-            "id": 406,
+            "id": 554,
             "bank": "MIZUHO TRUST AND BANKING (LUXEMBOURG) S.A.",
             "city": "MUNSBACH",
             "branch": null,
             "swift_code": "MHTBLULL"
         },
         {
-            "id": 407,
+            "id": 555,
+            "bank": "MOSAIC",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUDALUL1"
+        },
+        {
+            "id": 556,
+            "bank": "MOSAIC TRADING",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUABLUL1"
+        },
+        {
+            "id": 557,
             "bank": "MOVENTUM S.C.A.",
             "city": "HOWALD",
             "branch": "(NOSTRO ACCOUNT)",
             "swift_code": "MOVELULLGEB"
         },
         {
-            "id": 408,
+            "id": 558,
             "bank": "MOVENTUM S.C.A.",
             "city": "HOWALD",
             "branch": "(OMNIBUS ACCOUNT)",
             "swift_code": "MOVELULLPAY"
         },
         {
-            "id": 409,
+            "id": 559,
             "bank": "MOVENTUM S.C.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "MOVELULL"
         },
         {
-            "id": 410,
+            "id": 560,
+            "bank": "MZ FINANCE SA",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FIMZLUL1"
+        },
+        {
+            "id": 561,
             "bank": "NATIXIS BANK (FORMERLY NATIXIS PRIVATE BANKING INTERNATIONAL)",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "NATXLULL"
         },
         {
-            "id": 411,
+            "id": 562,
             "bank": "NATIXIS LIFE",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "NLIFLUL2"
         },
         {
-            "id": 412,
+            "id": 563,
+            "bank": "NATIXIS LIFE FRANCE",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "NLIFLUL1"
+        },
+        {
+            "id": 564,
+            "bank": "NATIXIS STRUCTURED ISSUANCE SA",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "NAUILUL1"
+        },
+        {
+            "id": 565,
             "bank": "NAVAXX S.A",
             "city": "GREVENMACHER",
             "branch": null,
             "swift_code": "AXXNLULL"
         },
         {
-            "id": 413,
+            "id": 566,
+            "bank": "NAVAXX S.A.",
+            "city": "MUNSBACH",
+            "branch": null,
+            "swift_code": "NAVXLUL1"
+        },
+        {
+            "id": 567,
             "bank": "NEWPAK S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "NPAKLULL"
         },
         {
-            "id": 414,
+            "id": 568,
+            "bank": "NIS SICAV",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "NSIALU21"
+        },
+        {
+            "id": 569,
             "bank": "NOMURA BANK (LUXEMBOURG) S.A.",
             "city": "HESPERANGE",
             "branch": "(ANCILLARY SYSTEM DEDICATED ACCOUNT)",
             "swift_code": "NBLXLULLEUX"
         },
         {
-            "id": 415,
+            "id": 570,
             "bank": "NOMURA BANK (LUXEMBOURG) S.A.",
             "city": "HESPERANGE",
             "branch": null,
             "swift_code": "NBLXLULL"
         },
         {
-            "id": 416,
+            "id": 571,
+            "bank": "NORD EUROPE LIFE LUXEMBOURG SA",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "NELXLUL1"
+        },
+        {
+            "id": 572,
             "bank": "NORD\/LB LUXEMBOURG S.A. COVERED BOND BANK",
             "city": "FINDEL",
             "branch": null,
             "swift_code": "NOLALULL"
         },
         {
-            "id": 417,
+            "id": 573,
             "bank": "NORDEA BANK S.A. LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "NDEALULL"
         },
         {
-            "id": 418,
+            "id": 574,
             "bank": "NORTHERN TRUST GLOBAL SERVICES LIMITED LUXEMBOURG BRANCH",
             "city": "SENNINGERBERG",
             "branch": null,
             "swift_code": "CNORLULX"
         },
         {
-            "id": 419,
+            "id": 575,
+            "bank": "NOTZ STUCKI ET CIE",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "NOTULUL1"
+        },
+        {
+            "id": 576,
+            "bank": "NOVACAP ASSET MANAGEMENT",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "NOTMLUL1"
+        },
+        {
+            "id": 577,
             "bank": "NOVARTIS INVESTMENTS S.A.R.L",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "NOVRLULL"
         },
         {
-            "id": 420,
+            "id": 578,
             "bank": "NOVO BANCO, SA SUCCURSALE LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "BESCLULL"
         },
         {
-            "id": 421,
+            "id": 579,
+            "bank": "ODYSSEY ASSET MANAGEMENT SYSTEMS",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "ODYSLUL1"
+        },
+        {
+            "id": 580,
             "bank": "OLKY PAYMENT SERVICE PROVIDER",
             "city": "LIVANGE",
             "branch": null,
             "swift_code": "OLKILULL"
         },
         {
-            "id": 422,
+            "id": 581,
+            "bank": "ORBIT PRIVATE ASSET MANAGEMENT",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "OPAALUL1"
+        },
+        {
+            "id": 582,
             "bank": "ORIFLAME COSMETICS GLOBAL S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "ORFLLULL"
         },
         {
-            "id": 423,
+            "id": 583,
+            "bank": "PACIFIC CAPITAL SARL",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "PAALLUL1"
+        },
+        {
+            "id": 584,
+            "bank": "PAF-COMMO",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUAFLUL1"
+        },
+        {
+            "id": 585,
+            "bank": "PAF-DISTRESSED",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUAGLUL1"
+        },
+        {
+            "id": 586,
+            "bank": "PAF-GLOBAL",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUAHLUL1"
+        },
+        {
+            "id": 587,
+            "bank": "PAF-MOSAIC EURO",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUDCLUL1"
+        },
+        {
+            "id": 588,
+            "bank": "PAF-PLEIAD CREDIT OPPORTUNITIES",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUAJLUL1"
+        },
+        {
+            "id": 589,
+            "bank": "PAF-WORLD EQUITY HEDGE",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUAKLUL1"
+        },
+        {
+            "id": 590,
+            "bank": "PAGEON BANK S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "PAGNLUL1"
+        },
+        {
+            "id": 591,
             "bank": "PAYPAL EUROPE, S.A R.L ET CIE, S.C.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "PPLXLULL"
         },
         {
-            "id": 424,
+            "id": 592,
             "bank": "PETERCAM (LUXEMBOURG) S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "PECSLULX"
         },
         {
-            "id": 425,
+            "id": 593,
+            "bank": "PICTET ARGD - CORTO",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUCZLUL1"
+        },
+        {
+            "id": 594,
             "bank": "PICTET ET CIE (EUROPE) S.A.",
             "city": "LUXEMBOURG",
             "branch": "(TRANSFER AGENT SERVICES DEPARTMENT)",
             "swift_code": "PICTLULXTAS"
         },
         {
-            "id": 426,
+            "id": 595,
             "bank": "PICTET ET CIE (EUROPE) S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "PICTLULX"
         },
         {
-            "id": 427,
+            "id": 596,
+            "bank": "PICTET INSTITUTIONAL EMERGING LOCAL CURRENCY DEBT",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUDRLUL1"
+        },
+        {
+            "id": 597,
+            "bank": "PICTET SELECT-CALLISTO",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUCJLUL1"
+        },
+        {
+            "id": 598,
+            "bank": "PICTET-ABSOLUTE RETURN GLOBAL CONSERVATIVE",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUACLUL1"
+        },
+        {
+            "id": 599,
+            "bank": "PICTET-ABSOLUTE RETURN GLOBAL DIVERSIFIED",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUDBLUL1"
+        },
+        {
+            "id": 600,
+            "bank": "PICTET-AGRICULTURE",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUAELUL1"
+        },
+        {
+            "id": 601,
+            "bank": "PICTET-ASIAN EQUITIES EX JAPAN",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUALLUL1"
+        },
+        {
+            "id": 602,
+            "bank": "PICTET-ASIAN LOCAL CURRENCY DEBT",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUAMLUL1"
+        },
+        {
+            "id": 603,
+            "bank": "PICTET-BIOTECH",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUANLUL1"
+        },
+        {
+            "id": 604,
+            "bank": "PICTET-BRAZIL INDEX",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUAOLUL1"
+        },
+        {
+            "id": 605,
+            "bank": "PICTET-CHF BONDS",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUAPLUL1"
+        },
+        {
+            "id": 606,
+            "bank": "PICTET-CHINA INDEX",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUAQLUL1"
+        },
+        {
+            "id": 607,
+            "bank": "PICTET-CLEAN ENERGY",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUARLUL1"
+        },
+        {
+            "id": 608,
+            "bank": "PICTET-EASTERN EUROPE",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUBCLUL1"
+        },
+        {
+            "id": 609,
+            "bank": "PICTET-EMERGING CORPORATE BONDS",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUBDLUL1"
+        },
+        {
+            "id": 610,
+            "bank": "PICTET-EMERGING LOCAL CURRENCY DEBT",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUBELUL1"
+        },
+        {
+            "id": 611,
+            "bank": "PICTET-EMERGING MARKETS",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUBFLUL1"
+        },
+        {
+            "id": 612,
+            "bank": "PICTET-EMERGING MARKETS HIGH DIVIDEND",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUBGLUL1"
+        },
+        {
+            "id": 613,
+            "bank": "PICTET-EMERGING MARKETS INDEX",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUBHLUL1"
+        },
+        {
+            "id": 614,
+            "bank": "PICTET-EMERGING MARKETS SUSTAINABLE EQUITIES",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUBILUL1"
+        },
+        {
+            "id": 615,
+            "bank": "PICTET-ENVIRONMENTAL MEGATREND SELECTION",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUBJLUL1"
+        },
+        {
+            "id": 616,
+            "bank": "PICTET-EUR BONDS",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUATLUL1"
+        },
+        {
+            "id": 617,
+            "bank": "PICTET-EUR CORPORATE BONDS",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUAVLUL1"
+        },
+        {
+            "id": 618,
+            "bank": "PICTET-EUR CORPORATE BONDS EX FINANCIAL",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUAULUL1"
+        },
+        {
+            "id": 619,
+            "bank": "PICTET-EUR CORPORATE BONDS POOL",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUDOLUL1"
+        },
+        {
+            "id": 620,
+            "bank": "PICTET-EUR GOVERNMENT BONDS",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUAWLUL1"
+        },
+        {
+            "id": 621,
+            "bank": "PICTET-EUR HIGH YIELD",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUAXLUL1"
+        },
+        {
+            "id": 622,
+            "bank": "PICTET-EUR INFLATION LINKED BONDS",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUAYLUL1"
+        },
+        {
+            "id": 623,
+            "bank": "PICTET-EUR SHORT MID-TERM BONDS",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUAZLUL1"
+        },
+        {
+            "id": 624,
+            "bank": "PICTET-EUR SHORT TERM CORPORATE BONDS",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUBALUL1"
+        },
+        {
+            "id": 625,
+            "bank": "PICTET-EUR SHORT TERM HIGH YIELD",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUDELUL1"
+        },
+        {
+            "id": 626,
+            "bank": "PICTET-EUROLAND INDEX",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUDFLUL1"
+        },
+        {
+            "id": 627,
+            "bank": "PICTET-EUROPEAN EQUITY SELECTION",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUBLLUL1"
+        },
+        {
+            "id": 628,
+            "bank": "PICTET-EUROPEAN SUSTAINABLE EQUITIES",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUBMLUL1"
+        },
+        {
+            "id": 629,
+            "bank": "PICTET-GENERICS",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUBNLUL1"
+        },
+        {
+            "id": 630,
+            "bank": "PICTET-GLOBAL BONDS FUNDAMENTAL",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUBOLUL1"
+        },
+        {
+            "id": 631,
+            "bank": "PICTET-GLOBAL EMERGING CURRENCIES",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUBPLUL1"
+        },
+        {
+            "id": 632,
+            "bank": "PICTET-GLOBAL EMERGING DEBT",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUBQLUL1"
+        },
+        {
+            "id": 633,
+            "bank": "PICTET-GLOBAL MEGATREND SELECTION",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUBRLUL1"
+        },
+        {
+            "id": 634,
+            "bank": "PICTET-GREATER CHINA",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUDGLUL1"
+        },
+        {
+            "id": 635,
+            "bank": "PICTET-HIGH DIVIDEND SELECTION",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUBTLUL1"
+        },
+        {
+            "id": 636,
+            "bank": "PICTET-INDIA INDEX",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUBULUL1"
+        },
+        {
+            "id": 637,
+            "bank": "PICTET-INDIAN EQUITIES",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUBVLUL1"
+        },
+        {
+            "id": 638,
+            "bank": "PICTET-JAPAN INDEX",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUBWLUL1"
+        },
+        {
+            "id": 639,
+            "bank": "PICTET-JAPANESE EQUITY OPPORTUNITIES",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUBXLUL1"
+        },
+        {
+            "id": 640,
+            "bank": "PICTET-JAPANESE EQUITY SELECTION",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUBYLUL1"
+        },
+        {
+            "id": 641,
+            "bank": "PICTET-LATAM INDEX",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUBZLUL1"
+        },
+        {
+            "id": 642,
+            "bank": "PICTET-LATIN AMERICAN LOCAL CURRENCY DEBT",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUCALUL1"
+        },
+        {
+            "id": 643,
+            "bank": "PICTET-MULTI ASSET GLOBAL OPPORTUNITIES",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUCBLUL1"
+        },
+        {
+            "id": 644,
+            "bank": "PICTET-PACIFIC EX JAPAN INDEX",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUDHLUL1"
+        },
+        {
+            "id": 645,
+            "bank": "PICTET-PICLIFE",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUCDLUL1"
+        },
+        {
+            "id": 646,
+            "bank": "PICTET-PREMIUM BRANDS",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUDILUL1"
+        },
+        {
+            "id": 647,
+            "bank": "PICTET-QUALITY GLOBAL EQUITIES",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUCFLUL1"
+        },
+        {
+            "id": 648,
+            "bank": "PICTET-RUSSIA INDEX",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUCGLUL1"
+        },
+        {
+            "id": 649,
+            "bank": "PICTET-RUSSIAN EQUITIES",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUCHLUL1"
+        },
+        {
+            "id": 650,
+            "bank": "PICTET-SECURITY",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUCILUL1"
+        },
+        {
+            "id": 651,
+            "bank": "PICTET-SHORT-TERM MONEY MARKET",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUDJLUL1"
+        },
+        {
+            "id": 652,
+            "bank": "PICTET-SMALL CAP EUROPE",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUCLLUL1"
+        },
+        {
+            "id": 653,
+            "bank": "PICTET-SOVEREIGN SHORT -TERM MONEY MARKET EUR",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUCMLUL1"
+        },
+        {
+            "id": 654,
+            "bank": "PICTET-TIMBER",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUCNLUL1"
+        },
+        {
+            "id": 655,
+            "bank": "PICTET-US EQUITY GROWTH SELECTION",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUDMLUL1"
+        },
+        {
+            "id": 656,
+            "bank": "PICTET-US EQUITY VALUE SELECTION",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUDNLUL1"
+        },
+        {
+            "id": 657,
+            "bank": "PICTET-US HIGH YIELD",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUCTLUL1"
+        },
+        {
+            "id": 658,
+            "bank": "PICTET-USA INDEX",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUCULUL1"
+        },
+        {
+            "id": 659,
+            "bank": "PICTET-USD GOVERNMENT BONDS",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUCVLUL1"
+        },
+        {
+            "id": 660,
+            "bank": "PICTET-USD SHORT MID-TERM BONDS",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUCWLUL1"
+        },
+        {
+            "id": 661,
+            "bank": "PICTET-WATER",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUCXLUL1"
+        },
+        {
+            "id": 662,
+            "bank": "PICTET-WORLD GOVERNMENT BONDS",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUCYLUL1"
+        },
+        {
+            "id": 663,
+            "bank": "POOL CHINESE EQUITIES LONG SHORT (USD)",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUDQLUL1"
+        },
+        {
+            "id": 664,
+            "bank": "POOL EUROPE EQUITIES STRATEGIES",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUDPLUL1"
+        },
+        {
+            "id": 665,
+            "bank": "PREBON YAMANE (LUXEMBOURG) S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "PREBLUL1"
+        },
+        {
+            "id": 666,
+            "bank": "PRUDENTIAL-BACHE INTERNATIONAL BANK LTD.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "PIBKLUL1"
+        },
+        {
+            "id": 667,
+            "bank": "PTR-BANYAN",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUDKLUL1"
+        },
+        {
+            "id": 668,
+            "bank": "PTR-CORTO EUROPE",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUDLLUL1"
+        },
+        {
+            "id": 669,
+            "bank": "PTR-KOSMOS",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "FUCQLUL1"
+        },
+        {
+            "id": 670,
+            "bank": "PURE CAPITAL S.A",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "PUCALUL1"
+        },
+        {
+            "id": 671,
+            "bank": "RAIFFEISEN-KOEPENICKER-BANK EG, NIEDERLASSUNG LUXEMBURG",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "DGNZLUL1"
+        },
+        {
+            "id": 672,
+            "bank": "RAKUTEN PAYMENTS SERVICES SA",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "RAPSLUL1"
+        },
+        {
+            "id": 673,
             "bank": "RAVAGO S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "RAVALULL"
         },
         {
-            "id": 428,
+            "id": 674,
             "bank": "RBC INVESTOR SERVICES BANK S.A.",
             "city": "ESCH-SUR-ALZETTE",
             "branch": "(FETA BRANCHES)",
             "swift_code": "FETALULLBRA"
         },
         {
-            "id": 429,
+            "id": 675,
             "bank": "RBC INVESTOR SERVICES BANK S.A.",
             "city": "ESCH-SUR-ALZETTE",
             "branch": "(GLOBAL FUND PLATFORM)",
             "swift_code": "FETALULLDIS"
         },
         {
-            "id": 430,
+            "id": 676,
             "bank": "RBC INVESTOR SERVICES BANK S.A.",
             "city": "ESCH-SUR-ALZETTE",
             "branch": "(INVESTORS SERVICES)",
             "swift_code": "FETALULLISV"
         },
         {
-            "id": 431,
+            "id": 677,
             "bank": "RBC INVESTOR SERVICES BANK S.A.",
             "city": "ESCH-SUR-ALZETTE",
             "branch": "(SHAREHOLDERS SERVICES)",
             "swift_code": "FETALULLSHS"
         },
         {
-            "id": 432,
+            "id": 678,
             "bank": "RBC INVESTOR SERVICES BANK S.A.",
             "city": "ESCH-SUR-ALZETTE",
             "branch": null,
             "swift_code": "FETALULL"
         },
         {
-            "id": 433,
+            "id": 679,
             "bank": "RBC INVESTOR SERVICES BANK S.A.",
             "city": "ESCH-SUR-ALZETTE",
             "branch": null,
             "swift_code": "FETALULLBEL"
         },
         {
-            "id": 434,
+            "id": 680,
             "bank": "RCB BANK LTD",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "RCBLLULL"
         },
         {
-            "id": 435,
+            "id": 681,
             "bank": "RTL GROUP SA",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "RTLGLULL"
         },
         {
-            "id": 436,
+            "id": 682,
+            "bank": "S.D.E.T. ADVISORS S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "SDETLUL1"
+        },
+        {
+            "id": 683,
             "bank": "SCHRODER INVESTMENT MANAGEMENT (LUXEMBOURG) S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "SCIMLULL"
         },
         {
-            "id": 437,
+            "id": 684,
+            "bank": "SCHUMANN-LA VEDRINE FINANCE S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "SCVFLUL1"
+        },
+        {
+            "id": 685,
+            "bank": "SELECTRA INVESTMENTS SICAV",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "SEVALUL1"
+        },
+        {
+            "id": 686,
+            "bank": "SG ISSUER",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "ISUULUL1"
+        },
+        {
+            "id": 687,
             "bank": "SGBT ASSET BASED FUNDING S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "SSBFLULL"
         },
         {
-            "id": 438,
+            "id": 688,
             "bank": "SGBT CREDIT INTERNATIONAL",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "SGCRLULL"
         },
         {
-            "id": 439,
+            "id": 689,
+            "bank": "SKANDIA INVEST",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "SKIELUL1"
+        },
+        {
+            "id": 690,
             "bank": "SKANDINAVISKA ENSKILDA BANKEN S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "ESSELULL"
         },
         {
-            "id": 440,
+            "id": 691,
             "bank": "SMBC NIKKO BANK (LUXEMBOURG) S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "NIKOLULL"
         },
         {
-            "id": 441,
+            "id": 692,
+            "bank": "SMS FINANCE SA",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "SMFILUL1"
+        },
+        {
+            "id": 693,
+            "bank": "SOCIETE BUSINESS SOLUTIONS BUILDERS",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "BSBDLUL1"
+        },
+        {
+            "id": 694,
             "bank": "SOCIETE GENERALE BANK AND TRUST S.A",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "SGABLU22"
         },
         {
-            "id": 442,
+            "id": 695,
             "bank": "SOCIETE GENERALE BANK AND TRUST S.A.",
             "city": "LUXEMBOURG",
             "branch": "(MIDDLE OFFICE TITR)",
             "swift_code": "SGABLULLMOF"
         },
         {
-            "id": 443,
+            "id": 696,
             "bank": "SOCIETE GENERALE BANK AND TRUST S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "SGABLULL"
         },
         {
-            "id": 444,
+            "id": 697,
             "bank": "SOCIETE GENERALE BANK AND TRUST S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "SGABLULLTAS"
         },
         {
-            "id": 445,
+            "id": 698,
             "bank": "SOCIETE GENERALE CAPITAL MARKET FINANCE S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "SGMFLULL"
         },
         {
-            "id": 446,
+            "id": 699,
             "bank": "SOCIETE GENERALE FINANCING AND DISTRIBUTION FINANCIAL DEPARTMENT",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "SGDILULL"
         },
         {
-            "id": 447,
+            "id": 700,
+            "bank": "SOCIETE NATIONALE DE CREDIT ET D'INVESTISSEMENT",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "SNCILUL1"
+        },
+        {
+            "id": 701,
+            "bank": "SOCIETE TARGET INTERNATIONAL S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "TINSLUL1"
+        },
+        {
+            "id": 702,
+            "bank": "SOGEN FINANCE LUXEMBOURG S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "SOLULUL1"
+        },
+        {
+            "id": 703,
+            "bank": "SOGEN FINANCE LUXEMBOURG S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "SOLULUL1"
+        },
+        {
+            "id": 704,
             "bank": "SPARINVEST S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "SINVLULL"
         },
         {
-            "id": 448,
+            "id": 705,
+            "bank": "SPLITART",
+            "city": "FOETZ",
+            "branch": null,
+            "swift_code": "SPLRLUL1"
+        },
+        {
+            "id": 706,
+            "bank": "SS AND C GLOBEOP (LUXEMBOURG) S.A.R.L",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "GLOPLUL1"
+        },
+        {
+            "id": 707,
             "bank": "STATE STREET BANK GMBH LUXEMBOURG BRANCH",
             "city": "LUXEMBOURG",
             "branch": "(FUND ADMINISTRATION)",
             "swift_code": "SBOSLULXLFA"
         },
         {
-            "id": 449,
+            "id": 708,
             "bank": "STATE STREET BANK GMBH LUXEMBOURG BRANCH",
             "city": "LUXEMBOURG",
             "branch": "(SHAREHOLDER ADMINISTRATION)",
             "swift_code": "SBOSLULXSHA"
         },
         {
-            "id": 450,
+            "id": 709,
             "bank": "STATE STREET BANK GMBH LUXEMBOURG BRANCH",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "SBOSLULX"
         },
         {
-            "id": 451,
+            "id": 710,
+            "bank": "STATE STREET BANK LUXEMBOURG S.A. (FORMERLY SANPAOLO BANK S.A.)",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "SPLBLUL1"
+        },
+        {
+            "id": 711,
+            "bank": "STEVENS, ZIMMER AND LAWAISSE",
+            "city": "STRASSEN",
+            "branch": null,
+            "swift_code": "STZLLUS1"
+        },
+        {
+            "id": 712,
             "bank": "SUMITOMO MITSUI TRUST BANK (LUXEMBOURG) S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "STBCLULL"
         },
         {
-            "id": 452,
+            "id": 713,
+            "bank": "SUXESKEY S.A.",
+            "city": "LAROCHETTE",
+            "branch": null,
+            "swift_code": "SUXKLUL1"
+        },
+        {
+            "id": 714,
             "bank": "SVENSKA HANDELSBANKEN AB(PUBL)LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "HANDLULB"
         },
         {
-            "id": 453,
+            "id": 715,
             "bank": "SWISS LIFE (LUXEMBOURG) S.A.",
             "city": "STRASSEN",
             "branch": "(ASSETS MANAGEMENT CONTROLLING)",
             "swift_code": "SLLULULLAMC"
         },
         {
-            "id": 454,
+            "id": 716,
             "bank": "SWISS LIFE (LUXEMBOURG) S.A.",
             "city": "STRASSEN",
             "branch": "(CMS001)",
             "swift_code": "SLLULULLCLI"
         },
         {
-            "id": 455,
+            "id": 717,
             "bank": "SWISS LIFE (LUXEMBOURG) S.A.",
             "city": "STRASSEN",
             "branch": "(FINANCE AND ACCOUTING)",
             "swift_code": "SLLULULLACC"
         },
         {
-            "id": 456,
+            "id": 718,
             "bank": "SWISS LIFE (LUXEMBOURG) S.A.",
             "city": "STRASSEN",
             "branch": null,
             "swift_code": "SLLULULL"
         },
         {
-            "id": 457,
+            "id": 719,
             "bank": "TD BANK INTERNATIONAL S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "TDWLLULL"
         },
         {
-            "id": 458,
+            "id": 720,
+            "bank": "TE WIND S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "WIDDLUL1"
+        },
+        {
+            "id": 721,
+            "bank": "TECH DATA LUXEMBOURG SARL",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "TDLSLUL1"
+        },
+        {
+            "id": 722,
             "bank": "TELECOM ITALIA CAPITAL SA",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "TLICLULL"
         },
         {
-            "id": 459,
+            "id": 723,
             "bank": "TELECOM ITALIA FINANCE SA",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "TIFLLULL"
         },
         {
-            "id": 460,
+            "id": 724,
+            "bank": "TEMPLETON GLOBAL STRATEGIC SERVICES S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "TGSSLUL1"
+        },
+        {
+            "id": 725,
             "bank": "THE BANK OF NEW YORK MELLON (INTERNATIONAL) LTD, LUXEMBOURG BRANCH",
             "city": "LUXEMBOURG",
             "branch": "(LUXEMBOURG BRANCH)",
             "swift_code": "SGWLLULX"
         },
         {
-            "id": 461,
+            "id": 726,
             "bank": "THE BANK OF NEW YORK MELLON (LUXEMBOURG) SA, LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": "(CORPORATE TRUST)",
             "swift_code": "IRVTLULXGTS"
         },
         {
-            "id": 462,
+            "id": 727,
             "bank": "THE BANK OF NEW YORK MELLON (LUXEMBOURG) SA, LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": "(TRANSFER AGENCY)",
             "swift_code": "IRVTLULXLTA"
         },
         {
-            "id": 463,
+            "id": 728,
             "bank": "THE BANK OF NEW YORK MELLON (LUXEMBOURG) SA, LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "IRVTLULX"
         },
         {
-            "id": 464,
+            "id": 729,
+            "bank": "THE BANK OF NEW YORK MELLON SA\/NV, LUXEMBOURG BRANCH",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "BNYMLUL1"
+        },
+        {
+            "id": 730,
             "bank": "THE ROYAL BANK OF SCOTLAND PLC LUXEMBOURG",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "ABNALULL"
         },
         {
-            "id": 465,
+            "id": 731,
+            "bank": "THREADNEEDLE INTERNATIONAL FUND MANAGEMENT S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "THIFLUL1"
+        },
+        {
+            "id": 732,
+            "bank": "TRADITION S.A. (LAUSANNE) (SUCCURSALE DE LUXEMBOURG)",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "TILULUL1"
+        },
+        {
+            "id": 733,
+            "bank": "TRIAX GLOBAL EXCHANGE GROUPE S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "TGEXLUL1"
+        },
+        {
+            "id": 734,
             "bank": "TURKIYE GARANTI BANKASI AS, LUXEMBOURG BRANCH",
             "city": "STRASSEN",
             "branch": null,
             "swift_code": "TGBALULL"
         },
         {
-            "id": 466,
+            "id": 735,
             "bank": "UBI BANCA INTERNATIONAL S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "CABILULL"
         },
         {
-            "id": 467,
+            "id": 736,
             "bank": "UBS FUND SERVICES (LUXEMBOURG) S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "UBSFLULL"
         },
         {
-            "id": 468,
+            "id": 737,
             "bank": "UBS LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": "(FUND SERVICES)",
             "swift_code": "UBSWLULLFSL"
         },
         {
-            "id": 469,
+            "id": 738,
             "bank": "UBS LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "UBSWLULL"
         },
         {
-            "id": 470,
+            "id": 739,
             "bank": "UBS LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "UBSWLULLTOP"
         },
         {
-            "id": 471,
+            "id": 740,
             "bank": "UNICREDIT INTERNATIONAL BANK-LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "UNCRLULL"
         },
         {
-            "id": 472,
+            "id": 741,
             "bank": "UNICREDIT LUXEMBOURG S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "HYVELULL"
         },
         {
-            "id": 473,
+            "id": 742,
             "bank": "UNION BANCAIRE PRIVEE (EUROPE) S.A.",
             "city": "LUXEMBOURG",
             "branch": "(FUND ADMINISTRATION DEPARTMENT)",
             "swift_code": "DBSALULLFND"
         },
         {
-            "id": 474,
+            "id": 743,
             "bank": "UNION BANCAIRE PRIVEE (EUROPE) S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "DBSALULL"
         },
         {
-            "id": 475,
+            "id": 744,
+            "bank": "UNION INVESTMENT EUROMARKETING S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "INEULUL1"
+        },
+        {
+            "id": 745,
             "bank": "UNION INVESTMENT FINANCIAL SERVICES S.A.",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "UFSLLULL"
         },
         {
-            "id": 476,
+            "id": 746,
+            "bank": "UNITED EUROPEAN BANK (LUXEMBOURG) S.A.(FORMERLY UNITED OVERSEAS BANK LUXEMBOURG)",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "UEBGLUL1"
+        },
+        {
+            "id": 747,
+            "bank": "VALUEINVEST ASSET MANAGEMENT S.A.",
+            "city": "STRASSEN",
+            "branch": null,
+            "swift_code": "LIPTLUS1"
+        },
+        {
+            "id": 748,
+            "bank": "VAN DOORN TRUST AND SECURITIES B.V. AMSTERDAM (PAYS-BAS), SUCCURSALE DE LUXEMBOURG",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "VDTSLUL1"
+        },
+        {
+            "id": 749,
+            "bank": "VAN MOER SANTERRE LUXEMBOURG S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "VMOSLUL1"
+        },
+        {
+            "id": 750,
+            "bank": "VICTORIA CAPITAL SA",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "VIAILUL1"
+        },
+        {
+            "id": 751,
+            "bank": "VITIS LIFE S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "VITILUL1"
+        },
+        {
+            "id": 752,
+            "bank": "VOLKSBANK HANNOVER EG, NIEDERLASSUNG LUXEMBURG",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "VOHALUL1"
+        },
+        {
+            "id": 753,
+            "bank": "VOLKSWAGEN FINANCE LUXEMBURG S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "VOFLLUL1"
+        },
+        {
+            "id": 754,
+            "bank": "VOLKSWAGEN INTERNATIONAL LUXEMBURG",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "VOILLUL1"
+        },
+        {
+            "id": 755,
+            "bank": "VORSORGE LUXEMBURG LEBENSVERSICHERUNG S.A.",
+            "city": "MUNSBACH",
+            "branch": null,
+            "swift_code": "VORSLUL1"
+        },
+        {
+            "id": 756,
             "bank": "VP BANK (LUXEMBOURG) SA",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPBVLULL"
         },
         {
-            "id": 477,
+            "id": 757,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": "(VPLUX AS ISSUER)",
             "swift_code": "VPLULULLISS"
         },
         {
-            "id": 478,
+            "id": 758,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL"
         },
         {
-            "id": 479,
+            "id": 759,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL001"
         },
         {
-            "id": 480,
+            "id": 760,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL016"
         },
         {
-            "id": 481,
+            "id": 761,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL031"
         },
         {
-            "id": 482,
+            "id": 762,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL032"
         },
         {
-            "id": 483,
+            "id": 763,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL033"
         },
         {
-            "id": 484,
+            "id": 764,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL034"
         },
         {
-            "id": 485,
+            "id": 765,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL035"
         },
         {
-            "id": 486,
+            "id": 766,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL040"
         },
         {
-            "id": 487,
+            "id": 767,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL041"
         },
         {
-            "id": 488,
+            "id": 768,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL042"
         },
         {
-            "id": 489,
+            "id": 769,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL043"
         },
         {
-            "id": 490,
+            "id": 770,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL044"
         },
         {
-            "id": 491,
+            "id": 771,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL045"
         },
         {
-            "id": 492,
+            "id": 772,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL046"
         },
         {
-            "id": 493,
+            "id": 773,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL046"
         },
         {
-            "id": 494,
+            "id": 774,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL048"
         },
         {
-            "id": 495,
+            "id": 775,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL049"
         },
         {
-            "id": 496,
+            "id": 776,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL050"
         },
         {
-            "id": 497,
+            "id": 777,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL051"
         },
         {
-            "id": 498,
+            "id": 778,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL052"
         },
         {
-            "id": 499,
+            "id": 779,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL053"
         },
         {
-            "id": 500,
+            "id": 780,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL054"
         },
         {
-            "id": 501,
+            "id": 781,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL055"
         },
         {
-            "id": 502,
+            "id": 782,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL056"
         },
         {
-            "id": 503,
+            "id": 783,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL057"
         },
         {
-            "id": 504,
+            "id": 784,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL058"
         },
         {
-            "id": 505,
+            "id": 785,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL059"
         },
         {
-            "id": 506,
+            "id": 786,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL101"
         },
         {
-            "id": 507,
+            "id": 787,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL102"
         },
         {
-            "id": 508,
+            "id": 788,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL103"
         },
         {
-            "id": 509,
+            "id": 789,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL104"
         },
         {
-            "id": 510,
+            "id": 790,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL105"
         },
         {
-            "id": 511,
+            "id": 791,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL106"
         },
         {
-            "id": 512,
+            "id": 792,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL107"
         },
         {
-            "id": 513,
+            "id": 793,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL108"
         },
         {
-            "id": 514,
+            "id": 794,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL109"
         },
         {
-            "id": 515,
+            "id": 795,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL110"
         },
         {
-            "id": 516,
+            "id": 796,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL111"
         },
         {
-            "id": 517,
+            "id": 797,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL112"
         },
         {
-            "id": 518,
+            "id": 798,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL113"
         },
         {
-            "id": 519,
+            "id": 799,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL114"
         },
         {
-            "id": 520,
+            "id": 800,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL115"
         },
         {
-            "id": 521,
+            "id": 801,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL500"
         },
         {
-            "id": 522,
+            "id": 802,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL501"
         },
         {
-            "id": 523,
+            "id": 803,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL502"
         },
         {
-            "id": 524,
+            "id": 804,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL503"
         },
         {
-            "id": 525,
+            "id": 805,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL504"
         },
         {
-            "id": 526,
+            "id": 806,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL505"
         },
         {
-            "id": 527,
+            "id": 807,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL506"
         },
         {
-            "id": 528,
+            "id": 808,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL507"
         },
         {
-            "id": 529,
+            "id": 809,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL508"
         },
         {
-            "id": 530,
+            "id": 810,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL509"
         },
         {
-            "id": 531,
+            "id": 811,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL510"
         },
         {
-            "id": 532,
+            "id": 812,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL600"
         },
         {
-            "id": 533,
+            "id": 813,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL700"
         },
         {
-            "id": 534,
+            "id": 814,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULL800"
         },
         {
-            "id": 535,
+            "id": 815,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULLDVP"
         },
         {
-            "id": 536,
+            "id": 816,
             "bank": "VP LUX",
             "city": "LUXEMBOURG",
             "branch": null,
             "swift_code": "VPLULULLMIG"
         },
         {
-            "id": 537,
+            "id": 817,
+            "bank": "VRWAY COMMUNICATION SA",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "VCSOLUL1"
+        },
+        {
+            "id": 818,
+            "bank": "WARMOES HIRTZ S.A.",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "WAHILUL1"
+        },
+        {
+            "id": 819,
+            "bank": "ZADIG GESTION (LUXEMBOURG) SA",
+            "city": "LUXEMBOURG",
+            "branch": null,
+            "swift_code": "ZAGLLUL1"
+        },
+        {
+            "id": 820,
             "bank": "ZURICH EUROLIFE S.A.",
             "city": "BERTRANGE",
             "branch": null,
             "swift_code": "ZURILULL"
         },
         {
-            "id": 538,
+            "id": 821,
             "bank": "ZURICH EUROLIFE S.A.",
             "city": "HOWALD",
             "branch": "(ZIL ISLE OF MAN)",

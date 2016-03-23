@@ -4,3247 +4,5655 @@
     "list": [
         {
             "id": 1,
+            "bank": "A AND G BANCA PRIVADA, S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "PRDVESM1"
+        },
+        {
+            "id": 2,
+            "bank": "A.B. ASESORES BURSATILES BOLSA, SA, S.V.B.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "ABABESM1"
+        },
+        {
+            "id": 3,
+            "bank": "A.T. EQUITIES SPAIN A.V. S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "ATECESM1"
+        },
+        {
+            "id": 4,
+            "bank": "A.T. EQUITIES SPAN A.V.B., S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "EQSAESM1"
+        },
+        {
+            "id": 5,
+            "bank": "AAREAL BANK AG",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "AARBESM1"
+        },
+        {
+            "id": 6,
             "bank": "ABANCA CORPORACION BANCARIA, S.A.",
             "city": "BETANZOS",
             "branch": null,
             "swift_code": "CAGLESMM"
         },
         {
-            "id": 2,
+            "id": 7,
             "bank": "ABANCA CORPORACION BANCARIA, S.A.",
             "city": "LA CORUNA (A CORUNA)",
             "branch": "(INTL. OPERATIONS AND FOREIGN TRADE)",
             "swift_code": "CAGLESMMCOP"
         },
         {
-            "id": 3,
+            "id": 8,
             "bank": "ABANCA CORPORACION BANCARIA, S.A.",
             "city": "LA CORUNA (A CORUNA)",
             "branch": "(PAYMENT SYSTEMS DEPT.)",
             "swift_code": "CAGLESMMLCO"
         },
         {
-            "id": 4,
+            "id": 9,
             "bank": "ABANCA CORPORACION BANCARIA, S.A.",
             "city": "MADRID",
             "branch": "(BACK OFFICE)",
             "swift_code": "CAGLESMMBAC"
         },
         {
-            "id": 5,
+            "id": 10,
             "bank": "ABANCA CORPORACION BANCARIA, S.A.",
             "city": "MADRID",
             "branch": "(FOREIGN TRADE AND INTL. OPERATIONS)",
             "swift_code": "CAGLESMMBOI"
         },
         {
-            "id": 6,
+            "id": 11,
             "bank": "ABANCA CORPORACION BANCARIA, S.A.",
             "city": "VIGO",
             "branch": "(EXTRANJERO - VIGO)",
             "swift_code": "CAGLESMMVOP"
         },
         {
-            "id": 7,
+            "id": 12,
             "bank": "ABANCA CORPORACION BANCARIA, S.A.",
             "city": "VIGO",
             "branch": null,
             "swift_code": "CAGLESMMVIG"
         },
         {
-            "id": 8,
+            "id": 13,
             "bank": "ABASIC SLU",
             "city": "BARCELONA",
             "branch": null,
             "swift_code": "DSGLESBB"
         },
         {
-            "id": 9,
+            "id": 14,
             "bank": "ABENGOA",
             "city": "SEVILLA",
             "branch": null,
             "swift_code": "ABGOESSE"
         },
         {
-            "id": 10,
+            "id": 15,
             "bank": "ABERTIS INFRAESTRUCTURAS, SA",
             "city": "BARCELONA",
             "branch": null,
             "swift_code": "ABIRESBB"
         },
         {
-            "id": 11,
+            "id": 16,
+            "bank": "ABN-AMRO, S.A. S.V.B.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "ABAMESM1"
+        },
+        {
+            "id": 17,
+            "bank": "ACA, S.A. SOCIEDAD DE VALORES",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "ACSVESB1"
+        },
+        {
+            "id": 18,
+            "bank": "ADVANTIC S.L",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "ADATESM1"
+        },
+        {
+            "id": 19,
+            "bank": "AFINA PENTOR, A.V., S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "AFPEESM1"
+        },
+        {
+            "id": 20,
+            "bank": "AGENBOLSA A.V.B. S.A.",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "AGAVESB1"
+        },
+        {
+            "id": 21,
+            "bank": "AGUILAR Y DE LA FUENTE, S.A. AGENCIA DE VALORES",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "AGFAESM1"
+        },
+        {
+            "id": 22,
             "bank": "AHORRO CORPORACION FINANCIERA, S.V., S.A.",
             "city": "BARCELONA",
             "branch": "(BARCELONA OFFICE)",
             "swift_code": "AHCFESMMBAR"
         },
         {
-            "id": 12,
+            "id": 23,
             "bank": "AHORRO CORPORACION FINANCIERA, S.V., S.A.",
             "city": "MADRID",
             "branch": "(MADRID OFFICE)",
             "swift_code": "AHCFESMMMAD"
         },
         {
-            "id": 13,
+            "id": 24,
             "bank": "AHORRO CORPORACION FINANCIERA, S.V., S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "AHCFESMM"
         },
         {
-            "id": 14,
+            "id": 25,
             "bank": "AHORRO CORPORACION FINANCIERA, S.V., S.A.",
             "city": "VALENCIA",
             "branch": "(VALENCIA OFFICE)",
             "swift_code": "AHCFESMMVAL"
         },
         {
-            "id": 15,
+            "id": 26,
             "bank": "ALDESA CONSTRUCCIONES S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "ACORESMM"
         },
         {
-            "id": 16,
+            "id": 27,
+            "bank": "ALL TRADING BROKERS EUROPE, A.V., S.A.U.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "ATBEESM1"
+        },
+        {
+            "id": 28,
             "bank": "ALLFUNDS BANK",
             "city": "ALCOBENDAS",
             "branch": null,
             "swift_code": "ALLFESMM"
         },
         {
-            "id": 17,
+            "id": 29,
+            "bank": "ALLIED BANKING CORPORATION",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "ABCMESM1"
+        },
+        {
+            "id": 30,
             "bank": "ALMIRALL, S.A.",
             "city": "BARCELONA",
             "branch": null,
             "swift_code": "PFPFESBB"
         },
         {
-            "id": 18,
+            "id": 31,
+            "bank": "ALTURA MARKETS, S.A, S.V.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "ALMTESM1"
+        },
+        {
+            "id": 32,
             "bank": "ALVEAN SUGAR, S.L., BILBAO",
             "city": "BILBAO",
             "branch": null,
             "swift_code": "ALVEES22"
         },
         {
-            "id": 19,
+            "id": 33,
+            "bank": "AMERICAN EXPRESS COMPANY OF SPAIN",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "AMESESM1"
+        },
+        {
+            "id": 34,
             "bank": "ANDBANK ESPANA S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "BACAESMM"
         },
         {
-            "id": 20,
+            "id": 35,
             "bank": "ANDBANK WEALTH MANAGEMENT SGIIC SA",
             "city": "MADRID",
             "branch": "(AIM\/POMS SERVICE)",
             "swift_code": "AAMAESMM"
         },
         {
-            "id": 21,
+            "id": 36,
+            "bank": "ANDINO, AGENCIA DE VALORES Y BOLSA, S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "ANDOESM1"
+        },
+        {
+            "id": 37,
             "bank": "APPLUS SERVICIOS TECNOLOGICOS,S.L.U",
             "city": "CERDANYOLA DEL VALLES",
             "branch": null,
             "swift_code": "APSTES22"
         },
         {
-            "id": 22,
+            "id": 38,
             "bank": "ARESBANK, S.A.",
             "city": "BARCELONA",
             "branch": null,
             "swift_code": "AREBESMMBAR"
         },
         {
-            "id": 23,
+            "id": 39,
             "bank": "ARESBANK, S.A.",
             "city": "LAS PALMAS DE GRAN CANARIA",
             "branch": null,
             "swift_code": "AREBESMMCAN"
         },
         {
-            "id": 24,
+            "id": 40,
             "bank": "ARESBANK, S.A.",
             "city": "MADRID",
             "branch": "(FINANCIAL DIVISION)",
             "swift_code": "AREBESMMINV"
         },
         {
-            "id": 25,
+            "id": 41,
             "bank": "ARESBANK, S.A.",
             "city": "MADRID",
             "branch": "(INTERNATIONAL DIVISION)",
             "swift_code": "AREBESMMINT"
         },
         {
-            "id": 26,
+            "id": 42,
             "bank": "ARESBANK, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "AREBESMM"
         },
         {
-            "id": 27,
+            "id": 43,
             "bank": "ARESBANK, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "AREBESMMMAD"
         },
         {
-            "id": 28,
+            "id": 44,
             "bank": "ARESBANK, S.A.",
             "city": "MARBELLA",
             "branch": null,
             "swift_code": "AREBESMMMAR"
         },
         {
-            "id": 29,
+            "id": 45,
+            "bank": "ARIBAU PRODUCTOS S L",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "LOCAESM1"
+        },
+        {
+            "id": 46,
+            "bank": "ARQUIA GESTION",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "ARGEESB1"
+        },
+        {
+            "id": 47,
+            "bank": "ARTECHE LANTEGI ELKARTEA S.A.",
+            "city": "MUNGIA",
+            "branch": null,
+            "swift_code": "ARLEES21"
+        },
+        {
+            "id": 48,
+            "bank": "ASSOCIATES CAPITAL CORPORATION PLC SUCURSAL EN ESPANA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "ASSCESM1"
+        },
+        {
+            "id": 49,
+            "bank": "ATL 12 CAPITAL INVERSIONES AV, SA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "ATCVESM1"
+        },
+        {
+            "id": 50,
             "bank": "ATTIJARIWAFA BANK EUROPE SUCURSAL EN ESPANA SA",
             "city": "MADRID",
             "branch": null,
             "swift_code": "BCMAESMM"
         },
         {
-            "id": 30,
+            "id": 51,
+            "bank": "AURIGA GLOBAL INVESTORS SOCIEDAD DE VALORES, S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "ASSVESM1"
+        },
+        {
+            "id": 52,
+            "bank": "AXA AURORA VIDA",
+            "city": "BILBAO",
+            "branch": null,
+            "swift_code": "AXAVES21"
+        },
+        {
+            "id": 53,
+            "bank": "AXA IBERCAPITAL",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "AXIBESM1"
+        },
+        {
+            "id": 54,
+            "bank": "AXA MEDITERRANEAN SERVICES",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "AXMSESB1"
+        },
+        {
+            "id": 55,
             "bank": "AXA SEGUROS GENERALES, SA DE SEGUROS Y RESEGUROS",
             "city": "BARCELONA",
             "branch": null,
             "swift_code": "AXIPESBB"
         },
         {
-            "id": 31,
+            "id": 56,
+            "bank": "AXESOR CONOCER PARA DECIDIR SA AXESOR",
+            "city": "ARMILLA",
+            "branch": null,
+            "swift_code": "ACDAES21"
+        },
+        {
+            "id": 57,
+            "bank": "B. AND T. ASOCIADOS FINANCIEROS, S.A., S.V.B.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "ASFIESM1"
+        },
+        {
+            "id": 58,
+            "bank": "B.I. CAPITAL A.V.B., S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "CATBESM1"
+        },
+        {
+            "id": 59,
+            "bank": "BANCA CARIGE SPA - CASSA DI RISPARMIO DI GENOVA E IMPERIA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "CRGEESM1"
+        },
+        {
+            "id": 60,
+            "bank": "BANCA FARMAFACTORING S.P.A SUCURSAL EN ESPAA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "FASNESM1"
+        },
+        {
+            "id": 61,
             "bank": "BANCA MARCH, SA",
             "city": "PALMA DE MALLORCA",
             "branch": null,
             "swift_code": "BMARES2M"
         },
         {
-            "id": 32,
+            "id": 62,
+            "bank": "BANCA NAZIONALE DEL LAVORO",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BNLIESM1"
+        },
+        {
+            "id": 63,
+            "bank": "BANCA POPOLARE ETICA",
+            "city": "BILBAO",
+            "branch": null,
+            "swift_code": "ETICES21"
+        },
+        {
+            "id": 64,
             "bank": "BANCA PUEYO, S.A.",
             "city": "VILLANUEVA DE LA SERENA",
             "branch": null,
             "swift_code": "BAPUES22"
         },
         {
-            "id": 33,
+            "id": 65,
             "bank": "BANCO ALCALA S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "ALCLESMM"
         },
         {
-            "id": 34,
+            "id": 66,
+            "bank": "BANCO ALICANTINO DE COMERCIO S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "ALCIESM1"
+        },
+        {
+            "id": 67,
             "bank": "BANCO BILBAO VIZCAYA ARGENTARIA S.A.",
             "city": "MADRID",
             "branch": "(BACKOFFICE - EQUITY EXECUTION)",
             "swift_code": "BBVAESMMRIM"
         },
         {
-            "id": 35,
+            "id": 68,
             "bank": "BANCO BILBAO VIZCAYA ARGENTARIA S.A.",
             "city": "MADRID",
             "branch": "(BANCO AGENTE)",
             "swift_code": "BBVAESMMBAG"
         },
         {
-            "id": 36,
+            "id": 69,
             "bank": "BANCO BILBAO VIZCAYA ARGENTARIA S.A.",
             "city": "MADRID",
             "branch": "(CLIENTE MULTIPAIS)",
             "swift_code": "BBVAESMMCMP"
         },
         {
-            "id": 37,
+            "id": 70,
+            "bank": "BANCO BILBAO VIZCAYA ARGENTARIA S.A.",
+            "city": "MADRID",
+            "branch": "(EQUITY EXECUTIONS CONFIRMATIONS NSV CTM)",
+            "swift_code": "BBVAESM1CTX"
+        },
+        {
+            "id": 71,
             "bank": "BANCO BILBAO VIZCAYA ARGENTARIA S.A.",
             "city": "MADRID",
             "branch": "(FOR ALL REMAINING UNLISTED BRANCHES)",
             "swift_code": "BBVAESMM"
         },
         {
-            "id": 38,
+            "id": 72,
+            "bank": "BANCO BILBAO VIZCAYA ARGENTARIA S.A.",
+            "city": "MADRID",
+            "branch": "(GESTORAS DE RENTA FIJA)",
+            "swift_code": "BBVAESM1CTM"
+        },
+        {
+            "id": 73,
             "bank": "BANCO BILBAO VIZCAYA ARGENTARIA S.A.",
             "city": "MADRID",
             "branch": "(INTERNAL MESSAGING)",
             "swift_code": "BBVAESMMBOL"
         },
         {
-            "id": 39,
+            "id": 74,
+            "bank": "BANCO BILBAO VIZCAYA ARGENTARIA S.A.",
+            "city": "MADRID",
+            "branch": "(MIDDLE OFFICE RENTA VARIABLE)",
+            "swift_code": "BBVAESM1RMS"
+        },
+        {
+            "id": 75,
             "bank": "BANCO BILBAO VIZCAYA ARGENTARIA S.A.",
             "city": "MADRID",
             "branch": "(TREASURY DEPARTMENT)",
             "swift_code": "BBVAESMMFXD"
         },
         {
-            "id": 40,
+            "id": 76,
             "bank": "BANCO BILBAO VIZCAYA ARGENTARIA S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "BBVAESMMREL"
         },
         {
-            "id": 41,
+            "id": 77,
             "bank": "BANCO BPI S.A.- SUCURSAL EN ESPANA",
             "city": "MADRID",
             "branch": null,
             "swift_code": "BBPIESMM"
         },
         {
-            "id": 42,
+            "id": 78,
             "bank": "BANCO CAIXA GERAL",
             "city": "MADRID",
             "branch": null,
             "swift_code": "CGDIESMM"
         },
         {
-            "id": 43,
+            "id": 79,
             "bank": "BANCO CAMINOS",
             "city": "MADRID",
             "branch": null,
             "swift_code": "CCOCESMM"
         },
         {
-            "id": 44,
+            "id": 80,
             "bank": "BANCO CAMINOS",
             "city": "MADRID",
             "branch": null,
             "swift_code": "CCOCESMMRVN"
         },
         {
-            "id": 45,
+            "id": 81,
+            "bank": "BANCO CANARIAS DE VENEZUELA, CA",
+            "city": "SANTA CRUZ DE TENERIFE",
+            "branch": null,
+            "swift_code": "BOCAES21"
+        },
+        {
+            "id": 82,
+            "bank": "BANCO COMERCIAL MOST BANK",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "MOSTESM1"
+        },
+        {
+            "id": 83,
+            "bank": "BANCO COMERCIAL PORTUGUES S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BCOMESM1"
+        },
+        {
+            "id": 84,
+            "bank": "BANCO CONDAL, S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BCNDESM1"
+        },
+        {
+            "id": 85,
+            "bank": "BANCO CONSOLIDADO ESPANA, S.A..",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "CONSESM1"
+        },
+        {
+            "id": 86,
             "bank": "BANCO COOPERATIVO ESPANOL S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "BCOEESMM"
         },
         {
-            "id": 46,
+            "id": 87,
             "bank": "BANCO COOPERATIVO ESPANOL S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "BCOEESMMRVN"
         },
         {
-            "id": 47,
+            "id": 88,
+            "bank": "BANCO DE ALBACETE, S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "ALACESM1"
+        },
+        {
+            "id": 89,
+            "bank": "BANCO DE BARCELONA, S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BAROESM1"
+        },
+        {
+            "id": 90,
             "bank": "BANCO DE CAJA ESPANA DE INVERSIONES",
             "city": "MADRID",
             "branch": "(FINANCIAL DEPARTMENT)",
             "swift_code": "CSSOES2SFIN"
         },
         {
-            "id": 48,
+            "id": 91,
             "bank": "BANCO DE CAJA ESPANA DE INVERSIONES",
             "city": "MADRID",
             "branch": "(TREASURY DEPARTMENT)",
             "swift_code": "CSSOES2STRE"
         },
         {
-            "id": 49,
+            "id": 92,
             "bank": "BANCO DE CAJA ESPANA DE INVERSIONES",
             "city": "SALAMANCA",
             "branch": null,
             "swift_code": "CSSOES2S"
         },
         {
-            "id": 50,
+            "id": 93,
             "bank": "BANCO DE CAJA ESPANA DE INVERSIONES, SALAMANCA Y SORIA, S.A.",
             "city": "LEON",
             "branch": null,
             "swift_code": "CSPAES2L108"
         },
         {
-            "id": 51,
+            "id": 94,
             "bank": "BANCO DE CAJA ESPANA DE INVERSIONES, SALAMANCA Y SORIA, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "CSPAES2L"
         },
         {
-            "id": 52,
+            "id": 95,
             "bank": "BANCO DE CASTILLA-LA MANCHA, S.A.",
             "city": "CUENCA",
             "branch": null,
             "swift_code": "CECAESMM105"
         },
         {
-            "id": 53,
+            "id": 96,
             "bank": "BANCO DE CREDITO SOCIAL COOPERATIVO SA.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "BCCAESMM"
         },
         {
-            "id": 54,
+            "id": 97,
+            "bank": "BANCO DE DEPOSITOS, S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BDEPESM1"
+        },
+        {
+            "id": 98,
+            "bank": "BANCO DE DESARROLLO ECONOMICO ESPANOL",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "DEEEESM10BB"
+        },
+        {
+            "id": 99,
+            "bank": "BANCO DE DESARROLLO ECONOMICO ESPANOL",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "DEEEESM1"
+        },
+        {
+            "id": 100,
+            "bank": "BANCO DE ESPANA",
+            "city": "MADRID",
+            "branch": "(AAD)",
+            "swift_code": "ESPBESM1AAD"
+        },
+        {
+            "id": 101,
+            "bank": "BANCO DE ESPANA",
+            "city": "MADRID",
+            "branch": "(AMF)",
+            "swift_code": "ESPBESM1AMF"
+        },
+        {
+            "id": 102,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(ASI)",
             "swift_code": "ESPBESMMASI"
         },
         {
-            "id": 55,
+            "id": 103,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(AYM)",
             "swift_code": "ESPBESMMAYM"
         },
         {
-            "id": 56,
+            "id": 104,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(BANCO DE ESPANA)",
             "swift_code": "ESPBESMMSDD"
         },
         {
-            "id": 57,
+            "id": 105,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(C01)",
             "swift_code": "ESPBESMMC01"
         },
         {
-            "id": 58,
+            "id": 106,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(C02)",
             "swift_code": "ESPBESMMC02"
         },
         {
-            "id": 59,
+            "id": 107,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(C02)",
             "swift_code": "ESPBESMMC03"
         },
         {
-            "id": 60,
+            "id": 108,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(C03)",
             "swift_code": "ESPBESMMC04"
         },
         {
-            "id": 61,
+            "id": 109,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(C04)",
             "swift_code": "ESPBESMMC05"
         },
         {
-            "id": 62,
+            "id": 110,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(C06)",
             "swift_code": "ESPBESMMC06"
         },
         {
-            "id": 63,
+            "id": 111,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(C07)",
             "swift_code": "ESPBESMMC07"
         },
         {
-            "id": 64,
+            "id": 112,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(C08)",
             "swift_code": "ESPBESMMC08"
         },
         {
-            "id": 65,
+            "id": 113,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(C09)",
             "swift_code": "ESPBESMMC09"
         },
         {
-            "id": 66,
+            "id": 114,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(C10)",
             "swift_code": "ESPBESMMC10"
         },
         {
-            "id": 67,
+            "id": 115,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(C11)",
             "swift_code": "ESPBESMMC11"
         },
         {
-            "id": 68,
+            "id": 116,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(C12)",
             "swift_code": "ESPBESMMC12"
         },
         {
-            "id": 69,
+            "id": 117,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(C13)",
             "swift_code": "ESPBESMMC13"
         },
         {
-            "id": 70,
+            "id": 118,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(C14)",
             "swift_code": "ESPBESMMC14"
         },
         {
-            "id": 71,
+            "id": 119,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(C15)",
             "swift_code": "ESPBESMMC15"
         },
         {
-            "id": 72,
+            "id": 120,
+            "bank": "BANCO DE ESPANA",
+            "city": "MADRID",
+            "branch": "(CBE)",
+            "swift_code": "ESPBESM1CBE"
+        },
+        {
+            "id": 121,
+            "bank": "BANCO DE ESPANA",
+            "city": "MADRID",
+            "branch": "(CDI)",
+            "swift_code": "ESPBESM1CDI"
+        },
+        {
+            "id": 122,
+            "bank": "BANCO DE ESPANA",
+            "city": "MADRID",
+            "branch": "(CPM)",
+            "swift_code": "ESPBESM1CPM"
+        },
+        {
+            "id": 123,
+            "bank": "BANCO DE ESPANA",
+            "city": "MADRID",
+            "branch": "(EGD)",
+            "swift_code": "ESPBESM1EGD"
+        },
+        {
+            "id": 124,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(FFA)",
             "swift_code": "ESPBESMMFFA"
         },
         {
-            "id": 73,
+            "id": 125,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(FGE)",
             "swift_code": "ESPBESMMFGE"
         },
         {
-            "id": 74,
+            "id": 126,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(FGS)",
             "swift_code": "ESPBESMMFGS"
         },
         {
-            "id": 75,
+            "id": 127,
+            "bank": "BANCO DE ESPANA",
+            "city": "MADRID",
+            "branch": "(FGT)",
+            "swift_code": "ESPBESM1FGT"
+        },
+        {
+            "id": 128,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(FOREIGN OPERATIONS BACK OFFICE)",
             "swift_code": "ESPBESMMECB"
         },
         {
-            "id": 76,
+            "id": 129,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(FROB)",
             "swift_code": "ESPBESMMFRB"
         },
         {
-            "id": 77,
+            "id": 130,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(GAR)",
             "swift_code": "ESPBESMMGAR"
         },
         {
-            "id": 78,
+            "id": 131,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(INTERNCB)",
             "swift_code": "ESPBESMMEUX"
         },
         {
-            "id": 79,
+            "id": 132,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(IVP)",
             "swift_code": "ESPBESMMIVP"
         },
         {
-            "id": 80,
+            "id": 133,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(MID)",
             "swift_code": "ESPBESMMMID"
         },
         {
-            "id": 81,
+            "id": 134,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(OCC)",
             "swift_code": "ESPBESMMOCC"
         },
         {
-            "id": 82,
+            "id": 135,
+            "bank": "BANCO DE ESPANA",
+            "city": "MADRID",
+            "branch": "(OFI)",
+            "swift_code": "ESPBESM1OFI"
+        },
+        {
+            "id": 136,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(PP3)",
             "swift_code": "ESPBESMMPP3"
         },
         {
-            "id": 83,
+            "id": 137,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(PSP)",
             "swift_code": "ESPBESMMPSP"
         },
         {
-            "id": 84,
+            "id": 138,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(RESERVE MANAGEMENT SERVICES)",
             "swift_code": "ESPBESMMRMS"
         },
         {
-            "id": 85,
+            "id": 139,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(SRB)",
             "swift_code": "ESPBESMMSRB"
         },
         {
-            "id": 86,
+            "id": 140,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(STE)",
             "swift_code": "ESPBESMMSTE"
         },
         {
-            "id": 87,
+            "id": 141,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(TCA)",
             "swift_code": "ESPBESMMTCA"
         },
         {
-            "id": 88,
+            "id": 142,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(TEC)",
             "swift_code": "ESPBESMMTEC"
         },
         {
-            "id": 89,
+            "id": 143,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(TFP 9049)",
             "swift_code": "ESPBESMMTFP"
         },
         {
-            "id": 90,
+            "id": 144,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(TLC)",
             "swift_code": "ESPBESMMTLC"
         },
         {
-            "id": 91,
+            "id": 145,
+            "bank": "BANCO DE ESPANA",
+            "city": "MADRID",
+            "branch": "(TRD)",
+            "swift_code": "ESPBESM1TRD"
+        },
+        {
+            "id": 146,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(TSS)",
             "swift_code": "ESPBESMMTSS"
         },
         {
-            "id": 92,
+            "id": 147,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": "(TTE)",
             "swift_code": "ESPBESMMTTE"
         },
         {
-            "id": 93,
+            "id": 148,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": null,
             "swift_code": "ESPBESMM"
         },
         {
-            "id": 94,
+            "id": 149,
             "bank": "BANCO DE ESPANA",
             "city": "MADRID",
             "branch": null,
             "swift_code": "ESPBESMMHIT"
         },
         {
-            "id": 95,
+            "id": 150,
             "bank": "BANCO DE LA NACION ARGENTINA, SUCURSAL MADRID",
             "city": "MADRID",
             "branch": null,
             "swift_code": "NACNESMM"
         },
         {
-            "id": 96,
+            "id": 151,
+            "bank": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "PRBAESM1"
+        },
+        {
+            "id": 152,
+            "bank": "BANCO DE LAS ACTIV. ECONOMICAS EXTERIORES (VNESHECONOMBANK)",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "AEEVESM1"
+        },
+        {
+            "id": 153,
             "bank": "BANCO DE MADRID S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "MADRESMM"
         },
         {
-            "id": 97,
+            "id": 154,
+            "bank": "BANCO DE PROMOCION DE NEGOCIOS SA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "PRNEESM1"
+        },
+        {
+            "id": 155,
             "bank": "BANCO DE SABADELL, S.A.",
             "city": "SABADELL",
             "branch": null,
             "swift_code": "BSABESBB"
         },
         {
-            "id": 98,
+            "id": 156,
             "bank": "BANCO DEPOSITARIO BBVA, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "BVADESMM"
         },
         {
-            "id": 99,
+            "id": 157,
             "bank": "BANCO DO BRASIL AG - SUCURSAL EN ESPANA",
             "city": "MADRID",
             "branch": null,
             "swift_code": "BRASESMM"
         },
         {
-            "id": 100,
+            "id": 158,
+            "bank": "BANCO DO BRASIL SA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BRASESB1"
+        },
+        {
+            "id": 159,
+            "bank": "BANCO ESFINGE S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "ESFIESM1"
+        },
+        {
+            "id": 160,
+            "bank": "BANCO EUROPEO DE FINANZAS, S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BEDFESM1"
+        },
+        {
+            "id": 161,
+            "bank": "BANCO FIMESTIC S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "FIEIESM1"
+        },
+        {
+            "id": 162,
+            "bank": "BANCO FINANTIA SOFINLOC, S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "FIOFESM1"
+        },
+        {
+            "id": 163,
+            "bank": "BANCO GRUPO CAJATRES",
+            "city": "BURGOS",
+            "branch": null,
+            "swift_code": "TRESES21"
+        },
+        {
+            "id": 164,
+            "bank": "BANCO INDUSTRIAL DE BILBAO, S.A.",
+            "city": "BILBAO",
+            "branch": null,
+            "swift_code": "INBBESM1"
+        },
+        {
+            "id": 165,
+            "bank": "BANCO INDUSTRIAL DE CATALUNA, S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "INALESM1"
+        },
+        {
+            "id": 166,
+            "bank": "BANCO INTERNACIONAL, S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BIMEESM1"
+        },
+        {
+            "id": 167,
             "bank": "BANCO INVERSIS, S.A.",
             "city": "MADRID",
             "branch": "(LIQUIDACION Y CUSTODIA)",
             "swift_code": "INVLESMMOPS"
         },
         {
-            "id": 101,
+            "id": 168,
             "bank": "BANCO INVERSIS, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "INVLESMM"
         },
         {
-            "id": 102,
+            "id": 169,
             "bank": "BANCO MARE NOSTRUM, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "GBMNESMM"
         },
         {
-            "id": 103,
+            "id": 170,
             "bank": "BANCO MARE NOSTRUM, S.A.",
             "city": "MURCIA",
             "branch": null,
             "swift_code": "CECAESMM043"
         },
         {
-            "id": 104,
+            "id": 171,
             "bank": "BANCO MEDIOLANUM, S.A.",
             "city": "BARCELONA",
             "branch": null,
             "swift_code": "BFIVESBB"
         },
         {
-            "id": 105,
+            "id": 172,
+            "bank": "BANCO NACIONAL DE CUBA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BNACESM1"
+        },
+        {
+            "id": 173,
+            "bank": "BANCO OCCIDENTAL, S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "OCBAESM1"
+        },
+        {
+            "id": 174,
             "bank": "BANCO PASTOR S.A.",
             "city": "BARCELONA",
             "branch": null,
             "swift_code": "PSTRESMMBAR"
         },
         {
-            "id": 106,
+            "id": 175,
             "bank": "BANCO PASTOR S.A.",
             "city": "BILBAO",
             "branch": null,
             "swift_code": "PSTRESMMBIL"
         },
         {
-            "id": 107,
+            "id": 176,
             "bank": "BANCO PASTOR S.A.",
             "city": "LA CORUNA (A CORUNA)",
             "branch": null,
             "swift_code": "PSTRESMM"
         },
         {
-            "id": 108,
+            "id": 177,
             "bank": "BANCO PASTOR S.A.",
             "city": "LA CORUNA (A CORUNA)",
             "branch": null,
             "swift_code": "PSTRESMMLCO"
         },
         {
-            "id": 109,
+            "id": 178,
             "bank": "BANCO PASTOR S.A.",
             "city": "VALENCIA",
             "branch": null,
             "swift_code": "PSTRESMMVAL"
         },
         {
-            "id": 110,
+            "id": 179,
             "bank": "BANCO PASTOR S.A.",
             "city": "VIGO",
             "branch": null,
             "swift_code": "PSTRESMMVGO"
         },
         {
-            "id": 111,
+            "id": 180,
             "bank": "BANCO PASTOR S.A.",
             "city": "ZARAGOZA",
             "branch": null,
             "swift_code": "PSTRESMMZAR"
         },
         {
-            "id": 112,
+            "id": 181,
+            "bank": "BANCO PICHINCHA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "PIESESM1"
+        },
+        {
+            "id": 182,
             "bank": "BANCO PICHINCHA",
             "city": "MADRID",
             "branch": null,
             "swift_code": "PICHESMM"
         },
         {
-            "id": 113,
+            "id": 183,
             "bank": "BANCO POPULAR ESPANOL, S.A.",
             "city": "BARCELONA",
             "branch": null,
             "swift_code": "POPUESMMBAR"
         },
         {
-            "id": 114,
+            "id": 184,
             "bank": "BANCO POPULAR ESPANOL, S.A.",
             "city": "MADRID",
             "branch": "(CASH MANAGEMENT)",
             "swift_code": "POPUESMMCMG"
         },
         {
-            "id": 115,
+            "id": 185,
             "bank": "BANCO POPULAR ESPANOL, S.A.",
             "city": "MADRID",
             "branch": "(RED EXTERIOR DEPARTMENT)",
             "swift_code": "POPUESMMREX"
         },
         {
-            "id": 116,
+            "id": 186,
             "bank": "BANCO POPULAR ESPANOL, S.A.",
             "city": "MADRID",
             "branch": "(SECURITIES)",
             "swift_code": "POPUESMMBOL"
         },
         {
-            "id": 117,
+            "id": 187,
             "bank": "BANCO POPULAR ESPANOL, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "POPUESMM"
         },
         {
-            "id": 118,
+            "id": 188,
+            "bank": "BANCO PRIVADO PORTUGUES, S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BPPOESM1"
+        },
+        {
+            "id": 189,
             "bank": "BANCO SANTANDER S.A CIUDAD GRUPO SANTANDER.EDF.PAMPA",
             "city": "MADRID",
             "branch": null,
             "swift_code": "BSCHESMG"
         },
         {
-            "id": 119,
+            "id": 190,
             "bank": "BANCO SANTANDER S.A.",
             "city": "MADRID",
             "branch": "(ALL SPAIN BRANCHES)",
             "swift_code": "BSCHESMM"
         },
         {
-            "id": 120,
+            "id": 191,
             "bank": "BANCO SANTANDER S.A.",
             "city": "MADRID",
             "branch": "(ONLY FOR SECURITIES)",
             "swift_code": "BSCHESMMAGE"
         },
         {
-            "id": 121,
+            "id": 192,
             "bank": "BANCO SANTANDER S.A.",
             "city": "MADRID",
             "branch": "(ONLY FOR SECURITIES)",
             "swift_code": "BSCHESMMBME"
         },
         {
-            "id": 122,
+            "id": 193,
             "bank": "BANCO SANTANDER S.A.",
             "city": "MADRID",
             "branch": "(SANTANDER MADRID CLS CONTROL BRANCH)",
             "swift_code": "BSCHESMMCLS"
         },
         {
-            "id": 123,
+            "id": 194,
             "bank": "BANCO SANTANDER S.A. FORMERLY BANCO BANIF S.A.",
             "city": "BOADILLA DEL MONTE",
             "branch": null,
             "swift_code": "NORTESMM"
         },
         {
-            "id": 124,
+            "id": 195,
             "bank": "BANCO SANTANDER S.A. FORMERLY BANCO ESPANOL DE CREDITO",
             "city": "BOADILLA DEL MONTE",
             "branch": "(MADRID AND ALL SPANISH OFFICES)",
             "swift_code": "ESPCESMM"
         },
         {
-            "id": 125,
+            "id": 196,
+            "bank": "BANCO SBS-AGRO",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "STOLESM1"
+        },
+        {
+            "id": 197,
+            "bank": "BANCO SYGMA HISPANIA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "SHSAESM1"
+        },
+        {
+            "id": 198,
+            "bank": "BANCOFAR S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BAOFESM1"
+        },
+        {
+            "id": 199,
             "bank": "BANCOPOPULAR-E S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "POPLESMM"
         },
         {
-            "id": 126,
+            "id": 200,
+            "bank": "BANDENIA BANCA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BNNAESM1"
+        },
+        {
+            "id": 201,
+            "bank": "BANDENIA CAPITAL INVESTMENT PLC",
+            "city": "LAS ROZAS DE MADRID",
+            "branch": null,
+            "swift_code": "BNCVESM1"
+        },
+        {
+            "id": 202,
+            "bank": "BANDENIA EMPRENDE S.A.C.",
+            "city": "LAS ROZAS DE MADRID",
+            "branch": null,
+            "swift_code": "BNESESM1"
+        },
+        {
+            "id": 203,
+            "bank": "BANDENIA FIDUCIARY MANAGEMENT LTD",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BFIGESM1"
+        },
+        {
+            "id": 204,
+            "bank": "BANDENIA FINANCIAL GROUP PLC",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BFGMESM1"
+        },
+        {
+            "id": 205,
+            "bank": "BANDENIA FINANZIA E.D.E., S.L.",
+            "city": "LAS ROZAS DE MADRID",
+            "branch": null,
+            "swift_code": "BAZEESM1"
+        },
+        {
+            "id": 206,
+            "bank": "BANDENIA PARTICIPADAS S.L.",
+            "city": "LAS ROZAS DE MADRID",
+            "branch": null,
+            "swift_code": "BADTESM1"
+        },
+        {
+            "id": 207,
+            "bank": "BANDENIA PRIVATE EQUITY PARTNES LTD",
+            "city": "LAS ROZAS DE MADRID",
+            "branch": null,
+            "swift_code": "BPEEESM1"
+        },
+        {
+            "id": 208,
+            "bank": "BANDENIA PROPERTIES LTD",
+            "city": "LAS ROZAS DE MADRID",
+            "branch": null,
+            "swift_code": "BNRRESM1"
+        },
+        {
+            "id": 209,
+            "bank": "BANDENIA S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BNNDESM1"
+        },
+        {
+            "id": 210,
+            "bank": "BANDENIA SECURE PROCESSING LTD",
+            "city": "LAS ROZAS DE MADRID",
+            "branch": null,
+            "swift_code": "BAUCESM1"
+        },
+        {
+            "id": 211,
+            "bank": "BANESTO BANCO DE EMISIONES S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BAEMESM1"
+        },
+        {
+            "id": 212,
+            "bank": "BANK AUSTRIA CREDITANSTALT INTERNATIONAL AG",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BKAUESM1"
+        },
+        {
+            "id": 213,
+            "bank": "BANK OF AMERICA EUROPE CARD SERVICES, MBNA ESPANA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "AECEESM1"
+        },
+        {
+            "id": 214,
             "bank": "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL LIMITED",
             "city": "MADRID",
             "branch": null,
             "swift_code": "BOFAES2X"
         },
         {
-            "id": 127,
+            "id": 215,
+            "bank": "BANK OF NEW YORK, THE",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "IRVTESM1"
+        },
+        {
+            "id": 216,
+            "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
+            "city": "BARCELONA",
+            "branch": "(BARCELONA SUB-BRANCH OF MADRID BRANCH)",
+            "swift_code": "BOTKESM10BB"
+        },
+        {
+            "id": 217,
             "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
             "city": "MADRID",
             "branch": "(MADRID BRANCH)",
             "swift_code": "BOTKESMX"
         },
         {
-            "id": 128,
+            "id": 218,
+            "bank": "BANKERS TRUST COMPANY, SUCURSAL EN ESPANA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BKTRESM1"
+        },
+        {
+            "id": 219,
             "bank": "BANKIA S.A.",
             "city": "VALENCIA",
             "branch": null,
             "swift_code": "CAHMESMM"
         },
         {
-            "id": 129,
+            "id": 220,
             "bank": "BANKINTER, S.A.",
             "city": "ALICANTE",
             "branch": null,
             "swift_code": "BKBKESMMALI"
         },
         {
-            "id": 130,
+            "id": 221,
             "bank": "BANKINTER, S.A.",
             "city": "BARCELONA",
             "branch": null,
             "swift_code": "BKBKESMMBAR"
         },
         {
-            "id": 131,
+            "id": 222,
             "bank": "BANKINTER, S.A.",
             "city": "BILBAO",
             "branch": null,
             "swift_code": "BKBKESMMBIL"
         },
         {
-            "id": 132,
+            "id": 223,
             "bank": "BANKINTER, S.A.",
             "city": "LAS PALMAS DE GRAN CANARIA",
             "branch": null,
             "swift_code": "BKBKESMMLPS"
         },
         {
-            "id": 133,
+            "id": 224,
             "bank": "BANKINTER, S.A.",
             "city": "MADRID",
             "branch": "(BACK OFFICE TESORERIA-ARBITRAJES)",
             "swift_code": "BKBKESMMBAC"
         },
         {
-            "id": 134,
+            "id": 225,
             "bank": "BANKINTER, S.A.",
             "city": "MADRID",
             "branch": "(FUNDS DEPARTMENT)",
             "swift_code": "BKBKESMMFON"
         },
         {
-            "id": 135,
+            "id": 226,
             "bank": "BANKINTER, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "BKBKESMM"
         },
         {
-            "id": 136,
+            "id": 227,
             "bank": "BANKINTER, S.A.",
             "city": "MALAGA",
             "branch": null,
             "swift_code": "BKBKESMMMAL"
         },
         {
-            "id": 137,
+            "id": 228,
             "bank": "BANKINTER, S.A.",
             "city": "MURCIA",
             "branch": null,
             "swift_code": "BKBKESMMMUR"
         },
         {
-            "id": 138,
+            "id": 229,
             "bank": "BANKINTER, S.A.",
             "city": "PALMA DE MALLORCA",
             "branch": null,
             "swift_code": "BKBKESMMPAL"
         },
         {
-            "id": 139,
+            "id": 230,
             "bank": "BANKINTER, S.A.",
             "city": "PAMPLONA",
             "branch": null,
             "swift_code": "BKBKESMMNAV"
         },
         {
-            "id": 140,
+            "id": 231,
             "bank": "BANKINTER, S.A.",
             "city": "SAN SEBASTIAN",
             "branch": null,
             "swift_code": "BKBKESMMSSE"
         },
         {
-            "id": 141,
+            "id": 232,
             "bank": "BANKINTER, S.A.",
             "city": "SANTA CRUZ DE TENERIFE",
             "branch": null,
             "swift_code": "BKBKESMMTEN"
         },
         {
-            "id": 142,
+            "id": 233,
             "bank": "BANKINTER, S.A.",
             "city": "SANTANDER",
             "branch": null,
             "swift_code": "BKBKESMMSAN"
         },
         {
-            "id": 143,
+            "id": 234,
             "bank": "BANKINTER, S.A.",
             "city": "SEVILLA",
             "branch": null,
             "swift_code": "BKBKESMMSEV"
         },
         {
-            "id": 144,
+            "id": 235,
             "bank": "BANKINTER, S.A.",
             "city": "VALENCIA",
             "branch": null,
             "swift_code": "BKBKESMMVAL"
         },
         {
-            "id": 145,
+            "id": 236,
             "bank": "BANKINTER, S.A.",
             "city": "VIGO",
             "branch": null,
             "swift_code": "BKBKESMMVIG"
         },
         {
-            "id": 146,
+            "id": 237,
             "bank": "BANKINTER, S.A.",
             "city": "ZARAGOZA",
             "branch": null,
             "swift_code": "BKBKESMMZAR"
         },
         {
-            "id": 147,
+            "id": 238,
             "bank": "BANKOA S.A. CREDIT AGRICOLE",
             "city": "SAN SEBASTIAN",
             "branch": "(HEAD OFFICE)",
             "swift_code": "BKOAES22"
         },
         {
-            "id": 148,
+            "id": 239,
             "bank": "BANQUE CHAABI DU MAROC SUCURSAL ESPANA",
             "city": "MADRID",
             "branch": null,
             "swift_code": "BCDMESMM"
         },
         {
-            "id": 149,
+            "id": 240,
+            "bank": "BANQUE COMMERCIALE DU MAROC",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BCMAESM1"
+        },
+        {
+            "id": 241,
+            "bank": "BANQUE COURTOIS",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "COURESB1"
+        },
+        {
+            "id": 242,
+            "bank": "BANQUE INTERNATIONALE A LUXEMBOURG",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "BILLESB1"
+        },
+        {
+            "id": 243,
             "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR INTERNATIONAL, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "BMCEESMM"
         },
         {
-            "id": 150,
+            "id": 244,
             "bank": "BANQUE PRIVEE EDMOND DE ROTHSCHILD EUROPE, SUCURSAL EN ESPANA",
             "city": "MADRID",
             "branch": null,
             "swift_code": "PRIBESMX"
         },
         {
-            "id": 151,
+            "id": 245,
+            "bank": "BANQUE PSA FINANCE",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "PSABESM1"
+        },
+        {
+            "id": 246,
+            "bank": "BANQUE REGIONALE D'ESCOMPTE ET DE DEPOTS",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "REDEESM1"
+        },
+        {
+            "id": 247,
+            "bank": "BANQUE SCANDINAVE EN SUISSE",
+            "city": "MARBELLA",
+            "branch": null,
+            "swift_code": "SCSIESM1"
+        },
+        {
+            "id": 248,
+            "bank": "BANQUE SCS ALLIANCE",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "BSSAESB1"
+        },
+        {
+            "id": 249,
+            "bank": "BANQUE SUDAMERIS",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BSUDESM1"
+        },
+        {
+            "id": 250,
+            "bank": "BARCELONA STOCK EXCHANGE",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "XBARESB1"
+        },
+        {
+            "id": 251,
             "bank": "BARCLAYS BANK PLC",
             "city": "MADRID",
             "branch": null,
             "swift_code": "BPLCESMM"
         },
         {
-            "id": 152,
+            "id": 252,
+            "bank": "BARCLAYS PIZARRO Y ROCODER S.A., S.V.B.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BAZWESM1"
+        },
+        {
+            "id": 253,
+            "bank": "BAYERISCHE HYPO- UND VEREINSBANK AG",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "HYVEESM1"
+        },
+        {
+            "id": 254,
+            "bank": "BBVA AND PARTNERS ALTERNATIVE INVESTMENTS S.A., A.V.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BPAVESM1"
+        },
+        {
+            "id": 255,
+            "bank": "BBVA AND PARTNERS ALTERNATIVE INVESTMENTS S.A., A.V.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BPAVESM1"
+        },
+        {
+            "id": 256,
+            "bank": "BBVA BANCO DE FINANCIACION, S.A.",
+            "city": "BILBAO",
+            "branch": null,
+            "swift_code": "BBFIES21"
+        },
+        {
+            "id": 257,
+            "bank": "BBVA GESTION",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BBGEESM1"
+        },
+        {
+            "id": 258,
+            "bank": "BBVA SEGUROS",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BBSGESM1"
+        },
+        {
+            "id": 259,
+            "bank": "BEAR, CROSBY AND PIKE, A.V., S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BECKESM1"
+        },
+        {
+            "id": 260,
             "bank": "BEKA FINANCE, S.V., S.A.",
             "city": "MADRID",
             "branch": "(AGENT PAYMENT)",
             "swift_code": "CMBOESMMBK1"
         },
         {
-            "id": 153,
+            "id": 261,
             "bank": "BEKA FINANCE, S.V., S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "CMBOESMM"
         },
         {
-            "id": 154,
+            "id": 262,
+            "bank": "BENITO Y MONJARDIN S.V.B., S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BENMESM1"
+        },
+        {
+            "id": 263,
+            "bank": "BES INVESTIMENTO SA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BEIVESM1"
+        },
+        {
+            "id": 264,
+            "bank": "BESTINVER, S.V.B., S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BEERESM1"
+        },
+        {
+            "id": 265,
+            "bank": "BETA CAPITAL S.V.B., S.A.",
+            "city": "BARCELONA",
+            "branch": "(BARCELONA OFFICE)",
+            "swift_code": "BECAESM1BAR"
+        },
+        {
+            "id": 266,
+            "bank": "BETA CAPITAL S.V.B., S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BECAESM1"
+        },
+        {
+            "id": 267,
+            "bank": "BIGBANK AS CONSUMER FINANCE SUCURSAL EN ESPANA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BIGKESM1"
+        },
+        {
+            "id": 268,
+            "bank": "BILBAO PLAZA FINANCIERA DEPOSITARIA, AGENCIA DE V LORES, S.A.",
+            "city": "BILBAO",
+            "branch": null,
+            "swift_code": "BPFDES21"
+        },
+        {
+            "id": 269,
+            "bank": "BMCE EUROSERVICES",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BMEUESM1"
+        },
+        {
+            "id": 270,
             "bank": "BME CLEARING",
             "city": "BARCELONA",
             "branch": "(ANCILLARY SYSTEM)",
             "swift_code": "MEFFESBBCCP"
         },
         {
-            "id": 155,
+            "id": 271,
             "bank": "BME CLEARING",
             "city": "BARCELONA",
             "branch": "(MARGIN ACCOUNT)",
             "swift_code": "MEFFESBBMRG"
         },
         {
-            "id": 156,
+            "id": 272,
             "bank": "BME CLEARING",
             "city": "BARCELONA",
             "branch": "(MEFF EURO SERVICES)",
             "swift_code": "MEFFESBBMES"
         },
         {
-            "id": 157,
+            "id": 273,
             "bank": "BME CLEARING",
             "city": "BARCELONA",
             "branch": "(MEFF RENTA FIJA)",
             "swift_code": "MEFFESBBMRF"
         },
         {
-            "id": 158,
+            "id": 274,
             "bank": "BME CLEARING",
             "city": "BARCELONA",
             "branch": "(MEFFREPO)",
             "swift_code": "MEFFESBBRRR"
         },
         {
-            "id": 159,
+            "id": 275,
             "bank": "BME CLEARING",
             "city": "MADRID",
             "branch": "(BME CLEARING CONTADO RENTA VARIABLE)",
             "swift_code": "MEFFESBBCRV"
         },
         {
-            "id": 160,
+            "id": 276,
             "bank": "BME CLEARING",
             "city": "MADRID",
             "branch": "(BME CLEARING CONTADO RENTA VARIABLE)",
             "swift_code": "MEFFESBBVVV"
         },
         {
-            "id": 161,
+            "id": 277,
             "bank": "BME CLEARING",
             "city": "MADRID",
             "branch": "(MEFF RENTA VARIABLE)",
             "swift_code": "MEFFESBBMRV"
         },
         {
-            "id": 162,
+            "id": 278,
             "bank": "BME CLEARING",
             "city": "MADRID",
             "branch": null,
             "swift_code": "MEFFESBB"
         },
         {
-            "id": 163,
+            "id": 279,
             "bank": "BNP PARIBAS ESPANA, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "BNPAESMM"
         },
         {
-            "id": 164,
+            "id": 280,
             "bank": "BNP PARIBAS ESPANA, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "BNPAESMZ"
         },
         {
-            "id": 165,
+            "id": 281,
             "bank": "BNP PARIBAS FORTIS, SA\/NV SUCURSAL EN ESPANA",
             "city": "BARCELONA",
             "branch": "(BARCELONA BRANCH)",
             "swift_code": "GEBAESMMBAR"
         },
         {
-            "id": 166,
+            "id": 282,
             "bank": "BNP PARIBAS FORTIS, SA\/NV SUCURSAL EN ESPANA",
             "city": "BILBAO",
             "branch": null,
             "swift_code": "GEBAESMMBIL"
         },
         {
-            "id": 167,
+            "id": 283,
             "bank": "BNP PARIBAS FORTIS, SA\/NV SUCURSAL EN ESPANA",
             "city": "MADRID",
             "branch": "(MADRID BRANCH)",
             "swift_code": "GEBAESMMMAD"
         },
         {
-            "id": 168,
+            "id": 284,
             "bank": "BNP PARIBAS FORTIS, SA\/NV SUCURSAL EN ESPANA",
             "city": "MADRID",
             "branch": null,
             "swift_code": "GEBAESMM"
         },
         {
-            "id": 169,
+            "id": 285,
             "bank": "BNP PARIBAS FORTIS, SA\/NV SUCURSAL EN ESPANA",
             "city": "VALENCIA",
             "branch": "(VALENCIA BRANCH)",
             "swift_code": "GEBAESMMVAL"
         },
         {
-            "id": 170,
+            "id": 286,
             "bank": "BNP PARIBAS S.A. SUCURSAL EN ESPANA",
             "city": "MADRID",
             "branch": null,
             "swift_code": "BNPAESMH"
         },
         {
-            "id": 171,
+            "id": 287,
             "bank": "BNP PARIBAS S.A. SUCURSAL EN ESPANA",
             "city": "MADRID",
             "branch": null,
             "swift_code": "BNPAESMS"
         },
         {
-            "id": 172,
+            "id": 288,
             "bank": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
             "city": "MADRID",
             "branch": "(BNP PARIBAS SECURITIES SERVICES CTS)",
             "swift_code": "PARBESMXCTS"
         },
         {
-            "id": 173,
+            "id": 289,
             "bank": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
             "city": "MADRID",
             "branch": "(BNP PARIBAS SECURITIES SERVICES, SPAIN)",
             "swift_code": "PARBESMXISI"
         },
         {
-            "id": 174,
+            "id": 290,
             "bank": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
             "city": "MADRID",
             "branch": "(BP2S MADRID)",
             "swift_code": "PARBESMXAFB"
         },
         {
-            "id": 175,
+            "id": 291,
             "bank": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
             "city": "MADRID",
             "branch": "(BP2S MADRID)",
             "swift_code": "PARBESMXUSA"
         },
         {
-            "id": 176,
+            "id": 292,
             "bank": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
             "city": "MADRID",
             "branch": "(BP2S MADRID)",
             "swift_code": "PARBESMXWMG"
         },
         {
-            "id": 177,
+            "id": 293,
             "bank": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
             "city": "MADRID",
             "branch": "(BP2S MARDRID)",
             "swift_code": "PARBESMXFDS"
         },
         {
-            "id": 178,
+            "id": 294,
             "bank": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
             "city": "MADRID",
             "branch": "(BP2S MARDRID)",
             "swift_code": "PARBESMXFRX"
         },
         {
-            "id": 179,
+            "id": 295,
             "bank": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
             "city": "MADRID",
             "branch": "(BP2S MARDRID)",
             "swift_code": "PARBESMXSRA"
         },
         {
-            "id": 180,
+            "id": 296,
             "bank": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
             "city": "MADRID",
             "branch": "(BP2S SPAIN FDS FOREIGN)",
             "swift_code": "PARBESMXFFO"
         },
         {
-            "id": 181,
+            "id": 297,
             "bank": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
             "city": "MADRID",
             "branch": "(BP2S SPAIN FDS FRENCH)",
             "swift_code": "PARBESMXFFR"
         },
         {
-            "id": 182,
+            "id": 298,
             "bank": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
             "city": "MADRID",
             "branch": "(FOR CLIENT VIEW LOCAL MADRID APPLICATION)",
             "swift_code": "PARBESMXCVW"
         },
         {
-            "id": 183,
+            "id": 299,
             "bank": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
             "city": "MADRID",
             "branch": null,
             "swift_code": "PARBESMX"
         },
         {
-            "id": 184,
+            "id": 300,
             "bank": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
             "city": "MADRID",
             "branch": null,
             "swift_code": "PARBESMH"
         },
         {
-            "id": 185,
+            "id": 301,
             "bank": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
             "city": "MADRID",
             "branch": null,
             "swift_code": "PARBESMXFDA"
         },
         {
-            "id": 186,
+            "id": 302,
+            "bank": "BOLSA DE VALENCIA",
+            "city": "VALENCIA",
+            "branch": null,
+            "swift_code": "XVALESV1"
+        },
+        {
+            "id": 303,
+            "bank": "BOURSORAMA SUCURSAL EN ESPANA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BOUEESM1"
+        },
+        {
+            "id": 304,
+            "bank": "BTM SECURITIES (SPAIN) S.A. S.V.B.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "BTMSESM1"
+        },
+        {
+            "id": 305,
+            "bank": "BUCEFALIA INVERSIONES SICAV SA",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "BUIIESB1"
+        },
+        {
+            "id": 306,
+            "bank": "BZX INVESTMENTS LTD",
+            "city": "LLORET DE MAR",
+            "branch": null,
+            "swift_code": "BZINES21"
+        },
+        {
+            "id": 307,
             "bank": "C.M. CAPITAL MARKETS BOLSA SOCIEDAD DE VALORES, S.A.",
             "city": "MADRID",
             "branch": "(BROKERAGE SERVICES)",
             "swift_code": "CAPIESMMBKR"
         },
         {
-            "id": 187,
+            "id": 308,
             "bank": "C.M. CAPITAL MARKETS BOLSA SOCIEDAD DE VALORES, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "CAPIESMM"
         },
         {
-            "id": 188,
+            "id": 309,
             "bank": "C.R. DE CHESTE SCC",
             "city": "CHESTE (VALENCIA)",
             "branch": null,
             "swift_code": "CCRIES2A121"
         },
         {
-            "id": 189,
+            "id": 310,
             "bank": "C.R. LA JUNQUERA DE CHILCHES SCCV",
             "city": "CHILCHES",
             "branch": null,
             "swift_code": "CCRIES2A157"
         },
         {
-            "id": 190,
+            "id": 311,
             "bank": "C.R. SAN ROQUE DE ALMENARA SCCV",
             "city": "ALMENARA",
             "branch": null,
             "swift_code": "CCRIES2A095"
         },
         {
-            "id": 191,
+            "id": 312,
             "bank": "C.R.DE ALGINET SCCV",
             "city": "ALGINET",
             "branch": null,
             "swift_code": "CCRIES2A179"
         },
         {
-            "id": 192,
+            "id": 313,
             "bank": "C.R.DE VILLAR CCV",
             "city": "VILLAR DEL ARZOBISPO",
             "branch": null,
             "swift_code": "CCRIES2A152"
         },
         {
-            "id": 193,
+            "id": 314,
             "bank": "C.R.S. ISIDRO DE VILAFAMES SCCV",
             "city": "VILAFAMES",
             "branch": null,
             "swift_code": "CCRIES2A165"
         },
         {
-            "id": 194,
+            "id": 315,
             "bank": "C.R.S. ISIDRO DE VILAFAMES SCCV",
             "city": "VILAFAMES",
             "branch": null,
             "swift_code": "CCRIES2A165"
         },
         {
-            "id": 195,
+            "id": 316,
             "bank": "C.R.S. JAIME ALQUERIAS NINO PERDIDO SCCV",
             "city": "ALQUERIAS",
             "branch": null,
             "swift_code": "CCRIES2A119"
         },
         {
-            "id": 196,
+            "id": 317,
             "bank": "C.R.S. JOSE DE BURRIANA SCCV",
             "city": "BURRIANA",
             "branch": null,
             "swift_code": "CCRIES2A112"
         },
         {
-            "id": 197,
+            "id": 318,
             "bank": "C.R.S. JOSE DE NULES",
             "city": "NULES",
             "branch": null,
             "swift_code": "CCRIES2A135"
         },
         {
-            "id": 198,
+            "id": 319,
+            "bank": "CACEIS BANK ESPANA, S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "IXIUESM1"
+        },
+        {
+            "id": 320,
+            "bank": "CAI BOLSA S.V., S.A.",
+            "city": "ZARAGOZA",
+            "branch": null,
+            "swift_code": "CAOLES21"
+        },
+        {
+            "id": 321,
+            "bank": "CAIXA BARCELONA SEGUROS VIDA, S.A. SEGUROS Y REASEGUROS",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "CBSVESB1"
+        },
+        {
+            "id": 322,
             "bank": "CAIXA DE CREDIT DELS. ENGINYERS-CAJA DE CREDITO DE LOS INGENIEROS SOC. COOP. DE CREDITO",
             "city": "BARCELONA",
             "branch": "(PRUEBAS TESORIA)",
             "swift_code": "CDENESBBTES"
         },
         {
-            "id": 199,
+            "id": 323,
             "bank": "CAIXA DE CREDIT DELS. ENGINYERS-CAJA DE CREDITO DE LOS INGENIEROS SOC. COOP. DE CREDITO",
             "city": "BARCELONA",
             "branch": null,
             "swift_code": "CDENESBB"
         },
         {
-            "id": 200,
+            "id": 324,
             "bank": "CAIXA D'ESTALVIS DEL PENEDES",
             "city": "VILAFRANCA DEL PENEDES",
             "branch": "(BARCELONA)",
             "swift_code": "CECAESMM081"
         },
         {
-            "id": 201,
+            "id": 325,
+            "bank": "CAIXA GERAL DE DEPOSITOS-SUCURSAL EN ESPANA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "CGDIES21"
+        },
+        {
+            "id": 326,
+            "bank": "CAIXA GUISSONA",
+            "city": "GUISSONA",
+            "branch": null,
+            "swift_code": "CAXIES21"
+        },
+        {
+            "id": 327,
             "bank": "CAIXA POPULAR CAIXA RURAL",
             "city": "PATERNA",
             "branch": null,
             "swift_code": "BCOEESMM159"
         },
         {
-            "id": 202,
+            "id": 328,
             "bank": "CAIXA R. DE CALLOSA DE EN SARRIA CCV",
             "city": "CALLOSA DE ENSARRIA",
             "branch": null,
             "swift_code": "CCRIES2A105"
         },
         {
-            "id": 203,
+            "id": 329,
             "bank": "CAIXA R. DE TURIS, C.C.V",
             "city": "TURIS",
             "branch": null,
             "swift_code": "CCRIES2A123"
         },
         {
-            "id": 204,
+            "id": 330,
             "bank": "CAIXA RURAL ALBALAT DELS SORELLS",
             "city": "ALBALAT DELS SORELLS",
             "branch": null,
             "swift_code": "CCRIES2A186"
         },
         {
-            "id": 205,
+            "id": 331,
             "bank": "CAIXA RURAL ALTEA CCV",
             "city": "ALTEA",
             "branch": null,
             "swift_code": "CCRIES2A045"
         },
         {
-            "id": 206,
+            "id": 332,
             "bank": "CAIXA RURAL DE TORRENT CCV",
             "city": "TORRENT",
             "branch": null,
             "swift_code": "CCRIES2A118"
         },
         {
-            "id": 207,
+            "id": 333,
             "bank": "CAIXA RURAL GALEGA",
             "city": "LUGO",
             "branch": null,
             "swift_code": "BCOEESMM070"
         },
         {
-            "id": 208,
+            "id": 334,
             "bank": "CAIXA RURAL L'ALCORA",
             "city": "ALCORA",
             "branch": null,
             "swift_code": "BCOEESMM113"
         },
         {
-            "id": 209,
+            "id": 335,
             "bank": "CAIXABANK S.A. (FORMERLY BARCLAYS BANK S.A.U.)",
             "city": "BARCELONA",
             "branch": null,
             "swift_code": "BARCESMM"
         },
         {
-            "id": 210,
+            "id": 336,
             "bank": "CAIXABANK, S.A.",
             "city": "BARCELONA",
             "branch": "(MAIN BRANCH)",
             "swift_code": "CAIXESBB"
         },
         {
-            "id": 211,
+            "id": 337,
             "bank": "CAIXABANK, S.A.",
             "city": "BARCELONA",
             "branch": "(OOFF THROUGH BME)",
             "swift_code": "CAIXESBBBME"
         },
         {
-            "id": 212,
+            "id": 338,
             "bank": "CAIXABANK, S.A.",
             "city": "BARCELONA",
             "branch": null,
             "swift_code": "CAIXESBBEAG"
         },
         {
-            "id": 213,
+            "id": 339,
             "bank": "CAIXABANK, S.A.",
             "city": "BILBAO",
             "branch": null,
             "swift_code": "CAIXESBB609"
         },
         {
-            "id": 214,
+            "id": 340,
             "bank": "CAIXABANK, S.A.",
             "city": "GERONA (GIRONA)",
             "branch": null,
             "swift_code": "CAIXESBB655"
         },
         {
-            "id": 215,
+            "id": 341,
             "bank": "CAIXABANK, S.A.",
             "city": "LAS PALMAS DE GRAN CANARIA",
             "branch": null,
             "swift_code": "CAIXESBB521"
         },
         {
-            "id": 216,
+            "id": 342,
             "bank": "CAIXABANK, S.A.",
             "city": "LERIDA (LLEIDA)",
             "branch": null,
             "swift_code": "CAIXESBB654"
         },
         {
-            "id": 217,
+            "id": 343,
             "bank": "CAIXABANK, S.A.",
             "city": "MADRID",
             "branch": "(MADRID TERRITORIAL)",
             "swift_code": "CAIXESBBMAD"
         },
         {
-            "id": 218,
+            "id": 344,
             "bank": "CAIXABANK, S.A.",
             "city": "PALMA DE MALLORCA",
             "branch": null,
             "swift_code": "CAIXESBB652"
         },
         {
-            "id": 219,
+            "id": 345,
             "bank": "CAIXABANK, S.A.",
             "city": "SANTA CRUZ DE TENERIFE",
             "branch": null,
             "swift_code": "CAIXESBB523"
         },
         {
-            "id": 220,
+            "id": 346,
             "bank": "CAIXABANK, S.A.",
             "city": "SEVILLA",
             "branch": null,
             "swift_code": "CAIXESBB661"
         },
         {
-            "id": 221,
+            "id": 347,
             "bank": "CAIXABANK, S.A.",
             "city": "TARRAGONA",
             "branch": null,
             "swift_code": "CAIXESBBTAR"
         },
         {
-            "id": 222,
+            "id": 348,
             "bank": "CAIXABANK, S.A.",
             "city": "VALENCIA",
             "branch": null,
             "swift_code": "CAIXESBB666"
         },
         {
-            "id": 223,
+            "id": 349,
             "bank": "CAIXABANK, S.A.",
             "city": "ZARAGOZA",
             "branch": null,
             "swift_code": "CAIXESBB528"
         },
         {
-            "id": 224,
+            "id": 350,
             "bank": "CAJA DE AHORROS DE POLLENSA",
             "city": "POLLENSA",
             "branch": "(BALEARES)",
             "swift_code": "CECAESMM056"
         },
         {
-            "id": 225,
+            "id": 351,
             "bank": "CAJA DE AHORROS DE SANTANDER Y CANTABRIA",
             "city": "SANTANDER",
             "branch": null,
             "swift_code": "CECAESMM066"
         },
         {
-            "id": 226,
+            "id": 352,
             "bank": "CAJA DE AHORROS Y MONTE DE PIEDAD DE EXTREMADURA",
             "city": "CACERES",
             "branch": null,
             "swift_code": "CECAESMM099"
         },
         {
-            "id": 227,
+            "id": 353,
             "bank": "CAJA DE AHORROS Y MONTE DE PIEDAD DE LAS BALEARES",
             "city": "PALMA DE MALLORCA",
             "branch": null,
             "swift_code": "CECAESMM051"
         },
         {
-            "id": 228,
+            "id": 354,
             "bank": "CAJA DE AHORROS Y MONTE DE PIEDAD DE ONTINYENT",
             "city": "ONTINYENT",
             "branch": "(VALENCIA)",
             "swift_code": "CECAESMM045"
         },
         {
-            "id": 229,
+            "id": 355,
             "bank": "CAJA DE ARQUITECTOS S.COOP.DE CREDITO",
             "city": "BARCELONA",
             "branch": null,
             "swift_code": "CASDESBB"
         },
         {
-            "id": 230,
+            "id": 356,
+            "bank": "CAJA DE CREDITO COOPERATIVO, S.C.C.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "CCCVESM1"
+        },
+        {
+            "id": 357,
             "bank": "CAJA DE CREDITO DE PETREL,C.R.,CCV",
             "city": "PETREL",
             "branch": null,
             "swift_code": "CCRIES2A029"
         },
         {
-            "id": 231,
+            "id": 358,
             "bank": "CAJA GENERAL DE AHORROS DE GRANADA",
             "city": "GRANADA",
             "branch": null,
             "swift_code": "CECAESMM031"
         },
         {
-            "id": 232,
+            "id": 359,
             "bank": "CAJA RURAL CASAS IBANEZ SDAD. COOP.",
             "city": "CASAS IBANEZ",
             "branch": null,
             "swift_code": "BCOEESMM127"
         },
         {
-            "id": 233,
+            "id": 360,
             "bank": "CAJA RURAL CATOLICO AGRARIA",
             "city": "VILLARREAL",
             "branch": null,
             "swift_code": "CCRIES2A110"
         },
         {
-            "id": 234,
+            "id": 361,
             "bank": "CAJA RURAL CENTRAL, S.C.C.",
             "city": "ORIHUELA",
             "branch": null,
             "swift_code": "BCOEESMM005"
         },
         {
-            "id": 235,
+            "id": 362,
             "bank": "CAJA RURAL DE ALBAL, COOP. DE CREDITO V.",
             "city": "ALBAL",
             "branch": null,
             "swift_code": "BCOEESMM150"
         },
         {
-            "id": 236,
+            "id": 363,
             "bank": "CAJA RURAL DE ALGEMESI",
             "city": "VALENCIA",
             "branch": null,
             "swift_code": "BCOEESMM117"
         },
         {
-            "id": 237,
+            "id": 364,
             "bank": "CAJA RURAL DE ALMENDRALEJO",
             "city": "ALMENDRALEJO",
             "branch": null,
             "swift_code": "BCOEESMM001"
         },
         {
-            "id": 238,
+            "id": 365,
             "bank": "CAJA RURAL DE ALMENDRALEJO, SCC",
             "city": "ALMENDRALEJO",
             "branch": null,
             "swift_code": "CCRIES2A001"
         },
         {
-            "id": 239,
+            "id": 366,
             "bank": "CAJA RURAL DE ARAGON, SOCIEDAD COOPERATIVA DE CREDITO",
             "city": "ZARAGOZA",
             "branch": null,
             "swift_code": "BCOEESMM191"
         },
         {
-            "id": 240,
+            "id": 367,
             "bank": "CAJA RURAL DE ASTURIAS",
             "city": "OVIEDO",
             "branch": null,
             "swift_code": "BCOEESMM059"
         },
         {
-            "id": 241,
+            "id": 368,
             "bank": "CAJA RURAL DE BENICARLO",
             "city": "BENICARLO",
             "branch": null,
             "swift_code": "BCOEESMM162"
         },
         {
-            "id": 242,
+            "id": 369,
             "bank": "CAJA RURAL DE BURGOS, FUENTEPELAYO, SEGOVIA Y CASTELLDANS, S.C.C",
             "city": "BURGOS",
             "branch": null,
             "swift_code": "BCOEESMM060"
         },
         {
-            "id": 243,
+            "id": 370,
             "bank": "CAJA RURAL DE CASTILLA LA MANCHA, S.C.C.",
             "city": "TOLEDO",
             "branch": null,
             "swift_code": "BCOEESMM081"
         },
         {
-            "id": 244,
+            "id": 371,
             "bank": "CAJA RURAL DE EXTREMADURA",
             "city": "BADAJOZ",
             "branch": null,
             "swift_code": "BCOEESMM009"
         },
         {
-            "id": 245,
+            "id": 372,
             "bank": "CAJA RURAL DE GIJON",
             "city": "GIJON",
             "branch": null,
             "swift_code": "BCOEESMM007"
         },
         {
-            "id": 246,
+            "id": 373,
             "bank": "CAJA RURAL DE GRANADA",
             "city": "GRANADA",
             "branch": null,
             "swift_code": "BCOEESMM023"
         },
         {
-            "id": 247,
+            "id": 374,
             "bank": "CAJA RURAL DE GUISSONA SOCIEDAD COOPERATIVA DE CREDITO",
             "city": "GUISSONA",
             "branch": null,
             "swift_code": "BCOEESMM140"
         },
         {
-            "id": 248,
+            "id": 375,
             "bank": "CAJA RURAL DE JAEN",
             "city": "JAEN",
             "branch": null,
             "swift_code": "BCOEESMM067"
         },
         {
-            "id": 249,
+            "id": 376,
             "bank": "CAJA RURAL DE L'ALCUDIA",
             "city": "VALENCIA",
             "branch": null,
             "swift_code": "BCOEESMM096"
         },
         {
-            "id": 250,
+            "id": 377,
             "bank": "CAJA RURAL DE NAVARRA",
             "city": "PAMPLONA",
             "branch": null,
             "swift_code": "BCOEESMM008"
         },
         {
-            "id": 251,
+            "id": 378,
             "bank": "CAJA RURAL DE SALAMANCA",
             "city": "SALAMANCA",
             "branch": null,
             "swift_code": "BCOEESMM016"
         },
         {
-            "id": 252,
+            "id": 379,
             "bank": "CAJA RURAL DE SAN AGUSTIN DE FUENTE ALAMO",
             "city": "FUENTE ALAMO",
             "branch": "(CAJA RURAL DE SAN AGUSTIN DE FUENTE ALAMO)",
             "swift_code": "BCOEESMM018"
         },
         {
-            "id": 253,
+            "id": 380,
             "bank": "CAJA RURAL DE SAN VICENTE VALL D'UXO",
             "city": "VALL D'UXO",
             "branch": null,
             "swift_code": "CCRIES2A102"
         },
         {
-            "id": 254,
+            "id": 381,
             "bank": "CAJA RURAL DE SORIA",
             "city": "SORIA",
             "branch": null,
             "swift_code": "BCOEESMM017"
         },
         {
-            "id": 255,
+            "id": 382,
             "bank": "CAJA RURAL DE TERUEL",
             "city": "TERUEL",
             "branch": null,
             "swift_code": "BCOEESMM080"
         },
         {
-            "id": 256,
+            "id": 383,
             "bank": "CAJA RURAL DE UTRERA",
             "city": "SEVILLA",
             "branch": null,
             "swift_code": "BCOEESMM020"
         },
         {
-            "id": 257,
+            "id": 384,
             "bank": "CAJA RURAL DE VILLAMALEA",
             "city": "ALBACETE",
             "branch": null,
             "swift_code": "BCOEESMM144"
         },
         {
-            "id": 258,
+            "id": 385,
             "bank": "CAJA RURAL DE ZAMORA",
             "city": "ZAMORA",
             "branch": null,
             "swift_code": "BCOEESMM085"
         },
         {
-            "id": 259,
+            "id": 386,
             "bank": "CAJA RURAL DEL SUR,SDAD.COOP.CTO (FORMERLY CAJA RURAL DE HUELVA Y SEVILLA)",
             "city": "SEVILLA",
             "branch": null,
             "swift_code": "BCOEESMM187"
         },
         {
-            "id": 260,
+            "id": 387,
             "bank": "CAJA RURAL NESTRA MADRE DEL SOL",
             "city": "ADAMUZ",
             "branch": null,
             "swift_code": "BCOEESMM115"
         },
         {
-            "id": 261,
+            "id": 388,
             "bank": "CAJA RURAL NTRA SRA DEL ROSARIO",
             "city": "NUEVA CARTEYA (CORDOBA)",
             "branch": null,
             "swift_code": "BCOEESMM098"
         },
         {
-            "id": 262,
+            "id": 389,
             "bank": "CAJA RURAL NTRA. SENORA DE LA ESPERANZA",
             "city": "ONDA",
             "branch": null,
             "swift_code": "BCOEESMM134"
         },
         {
-            "id": 263,
+            "id": 390,
             "bank": "CAJA RURAL NTRA. SRA. DE GUADALUPE, SDAD. COOP. CDTO.",
             "city": "BAENA (CORDOBA)",
             "branch": null,
             "swift_code": "BCOEESMM089"
         },
         {
-            "id": 264,
+            "id": 391,
             "bank": "CAJA RURAL NTRA. SRA. DEL CAMPO",
             "city": "CANETE TORRES (CORDOBA)",
             "branch": null,
             "swift_code": "BCOEESMM104"
         },
         {
-            "id": 265,
+            "id": 392,
             "bank": "CAJA RURAL SAN ISIDRO DE LES COVES DE VINROMA, S. COOP. DE CREDITO V.",
             "city": "LES COVES DE VINROMA",
             "branch": null,
             "swift_code": "BCOEESMM166"
         },
         {
-            "id": 266,
+            "id": 393,
             "bank": "CAJA RURAL SAN ISIDRO VALL D'UXO",
             "city": "VALL D'UXO",
             "branch": null,
             "swift_code": "BCOEESMM111"
         },
         {
-            "id": 267,
+            "id": 394,
             "bank": "CAJA RURAL SAN JOSE DE ALMASSORA",
             "city": "CASTELLON",
             "branch": null,
             "swift_code": "BCOEESMM130"
         },
         {
-            "id": 268,
+            "id": 395,
             "bank": "CAJA RURAL VINAROS S.C.C.V.",
             "city": "VINAROS",
             "branch": null,
             "swift_code": "BCOEESMM174"
         },
         {
-            "id": 269,
+            "id": 396,
             "bank": "CAJA SIETE, CAJA RURAL, SCC",
             "city": "SANTA CRUZ DE TENERIFE",
             "branch": null,
             "swift_code": "BCOEESMM076"
         },
         {
-            "id": 270,
+            "id": 397,
             "bank": "CAJAS RURALES UNIDAS, SOCIEDAD COOPERATIVA DE CREDITO",
             "city": "ALMERIA",
             "branch": null,
             "swift_code": "CCRIES2A"
         },
         {
-            "id": 271,
+            "id": 398,
             "bank": "CAJASUR BANCO, S.A.",
             "city": "CORDOBA",
             "branch": null,
             "swift_code": "CSURES2C"
         },
         {
-            "id": 272,
+            "id": 399,
+            "bank": "CAMION WORLD COMERCIAL SL",
+            "city": "OLOT",
+            "branch": null,
+            "swift_code": "CAWCES21"
+        },
+        {
+            "id": 400,
+            "bank": "CANDY HOOVER ELECTRODOMESTICOS S.A.",
+            "city": "BERGARA",
+            "branch": null,
+            "swift_code": "CAHEES21"
+        },
+        {
+            "id": 401,
+            "bank": "CARNEGIE ESPANA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "CANEESM1"
+        },
+        {
+            "id": 402,
+            "bank": "CASSE DI RISPARMIO DI FIRENZE E PISTOIA E PESCIA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "PISTESM1"
+        },
+        {
+            "id": 403,
             "bank": "CATALUNYA BANC, S.A. (CATALUNYACAIXA)",
             "city": "BARCELONA",
             "branch": "(BACK OFFICE INTERNACIONAL)",
             "swift_code": "CESCESBB571"
         },
         {
-            "id": 273,
+            "id": 404,
             "bank": "CATALUNYA BANC, S.A. (CATALUNYACAIXA)",
             "city": "BARCELONA",
             "branch": "(BKE DEPARTMENT)",
             "swift_code": "CESCESBB600"
         },
         {
-            "id": 274,
+            "id": 405,
             "bank": "CATALUNYA BANC, S.A. (CATALUNYACAIXA)",
             "city": "BARCELONA",
             "branch": "(CREDIT MANAGEMENT)",
             "swift_code": "CESCESBB008"
         },
         {
-            "id": 275,
+            "id": 406,
             "bank": "CATALUNYA BANC, S.A. (CATALUNYACAIXA)",
             "city": "BARCELONA",
             "branch": "(MAIN BRANCH)",
             "swift_code": "CESCESBB"
         },
         {
-            "id": 276,
+            "id": 407,
             "bank": "CATALUNYA BANC, S.A. (CATALUNYACAIXA)",
             "city": "BARCELONA",
             "branch": "(TREASURY DEPARTMENT)",
             "swift_code": "CESCESBB544"
         },
         {
-            "id": 277,
+            "id": 408,
             "bank": "CECABANK, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "CECAESMM"
         },
         {
-            "id": 278,
+            "id": 409,
+            "bank": "CELERIS SERVICIOS FINANCIEROS, S.A. E.F.C.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "CSFAESM1"
+        },
+        {
+            "id": 410,
             "bank": "CEMENTOS MOLINS SA",
             "city": "BARCELONA",
             "branch": null,
             "swift_code": "CEMOESBB"
         },
         {
-            "id": 279,
+            "id": 411,
+            "bank": "CENTRAL HISPANO DE BOLSA S.V.B., S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "CEHBESM1"
+        },
+        {
+            "id": 412,
+            "bank": "CHEMICAL ASSET MANAGEMENT",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "CHAGESM1"
+        },
+        {
+            "id": 413,
             "bank": "CHINA CONSTRUCTION BANK (EUROPE) S.A. SUCURSAL EN ESPANA",
             "city": "BARCELONA",
             "branch": null,
             "swift_code": "PCBCESBB"
         },
         {
-            "id": 280,
+            "id": 414,
+            "bank": "CIMD, S.V.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "CIDDESM1"
+        },
+        {
+            "id": 415,
+            "bank": "CIMD, S.V.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "CIDDESM1"
+        },
+        {
+            "id": 416,
             "bank": "CITIBANK ESPANA S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "CITIES2X"
         },
         {
-            "id": 281,
+            "id": 417,
             "bank": "CITIBANK INTERNATIONAL LIMITED SPAIN BRANCH",
             "city": "MADRID",
             "branch": "(RESTRICTED USE CITIBANK MADRID TARGET 2)",
             "swift_code": "CITIESMXSEC"
         },
         {
-            "id": 282,
+            "id": 418,
             "bank": "CITIBANK INTERNATIONAL LIMITED SPAIN BRANCH",
             "city": "MADRID",
             "branch": null,
             "swift_code": "CITIESMX"
         },
         {
-            "id": 283,
+            "id": 419,
+            "bank": "CITIBANK N.A.",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "CITIESB1"
+        },
+        {
+            "id": 420,
+            "bank": "CNP VIDA DE SEGUROS Y REASEGUROS, S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "SVSRESM1"
+        },
+        {
+            "id": 421,
+            "bank": "COFITUR INVERSIONES SICAV SA",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "COVSESB1"
+        },
+        {
+            "id": 422,
             "bank": "COMMERZBANK AG",
             "city": "BARCELONA",
             "branch": null,
             "swift_code": "COBAESMXBAR"
         },
         {
-            "id": 284,
+            "id": 423,
             "bank": "COMMERZBANK AG",
             "city": "MADRID",
             "branch": "(ADMINISTRATION)",
             "swift_code": "COBAESMXTMA"
         },
         {
-            "id": 285,
+            "id": 424,
             "bank": "COMMERZBANK AG",
             "city": "MADRID",
             "branch": null,
             "swift_code": "COBAESMX"
         },
         {
-            "id": 286,
+            "id": 425,
             "bank": "COMPANIA DE DISTRIBUCION INTEGRAL LOGISTA,S.A.U",
             "city": "MADRID",
             "branch": null,
             "swift_code": "CDILESMM"
         },
         {
-            "id": 287,
+            "id": 426,
             "bank": "COMPANIA OPERADORA DE CORTO Y MEDIO RADIO IBERIA EXPRESS, S.A.U.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "IBCEESMM"
         },
         {
-            "id": 288,
+            "id": 427,
             "bank": "COMSA EMTE S.L.",
             "city": "BARCELONA",
             "branch": null,
             "swift_code": "CMEMESBB"
         },
         {
-            "id": 289,
+            "id": 428,
+            "bank": "COMUNIDAD AUTONOMA DE CANARIAS",
+            "city": "LAS PALMAS DE GRAN CANARIA",
+            "branch": null,
+            "swift_code": "GCANES21"
+        },
+        {
+            "id": 429,
+            "bank": "COMUNIDAD AUTONOMA DE CASTILLA Y LEON",
+            "city": "VALLADOLID",
+            "branch": null,
+            "swift_code": "JCYLES21"
+        },
+        {
+            "id": 430,
+            "bank": "COMUNIDAD AUTONOMA DE LA REGION DE MURCIA",
+            "city": "MURCIA",
+            "branch": null,
+            "swift_code": "CAMUES21"
+        },
+        {
+            "id": 431,
+            "bank": "COMUNIDAD AUTONOMA DE LAS ISLAS BALEARES",
+            "city": "PALMA DE MALLORCA",
+            "branch": null,
+            "swift_code": "CBALES21"
+        },
+        {
+            "id": 432,
+            "bank": "COMUNIDAD DE MADRID",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "CMADESM1"
+        },
+        {
+            "id": 433,
+            "bank": "CONSORCIO DE COMPENSACION DE SEGUROS",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "CDCSESM1"
+        },
+        {
+            "id": 434,
+            "bank": "CONSULNOR SERVICIOS FINANCIEROS, SOCIEDAD DE VALORES S.A.U.",
+            "city": "BILBAO",
+            "branch": null,
+            "swift_code": "GALAES21"
+        },
+        {
+            "id": 435,
+            "bank": "CORPORACION FINANCIERA DENIA S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "CRFDESM1"
+        },
+        {
+            "id": 436,
+            "bank": "CORRETAJE E INFORMACION MONETARIA Y DE DIVISAS, SA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "CIMDESM1"
+        },
+        {
+            "id": 437,
+            "bank": "CORTAL CONSORS SUCURSAL EN ESPANA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "CCSEESM1"
+        },
+        {
+            "id": 438,
             "bank": "CORTEFIEL S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "CTFLESMM"
         },
         {
-            "id": 290,
+            "id": 439,
+            "bank": "CREDIT AGRICOLE (CRCAM SUD MEDITERRANEE - ARIEGE - PYRENEES ORIENTALES S.E.)",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "AGRIESB1"
+        },
+        {
+            "id": 440,
             "bank": "CREDIT AGRICOLE CIB",
             "city": "MADRID",
             "branch": null,
             "swift_code": "BSUIESMM"
         },
         {
-            "id": 291,
+            "id": 441,
+            "bank": "CREDIT AGRICOLE INDOSUEZ CHEUVREUX ESPANA, SA SV",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "CAICESM1"
+        },
+        {
+            "id": 442,
             "bank": "CREDIT AGRICOLE LUXEMBOURG SUCURSAL EN ESPANA",
             "city": "MADRID",
             "branch": null,
             "swift_code": "AGRIESMM"
         },
         {
-            "id": 292,
+            "id": 443,
             "bank": "CREDIT SUISSE AG, SUCURSAL EN ESPANA",
             "city": "MADRID",
             "branch": null,
             "swift_code": "CRESESMM"
         },
         {
-            "id": 293,
+            "id": 444,
+            "bank": "CREDIT SUISSE GESTION SGIIC SA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "CSGGESM1"
+        },
+        {
+            "id": 445,
+            "bank": "CREDIT SUISSE SECURITIES S.V. S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "CSROESM1"
+        },
+        {
+            "id": 446,
             "bank": "CTI TECNOLOGIA Y GESTION, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "CTIXESMM"
         },
         {
-            "id": 294,
+            "id": 447,
+            "bank": "CYGNUS ASSET MANAGEMENT SGIIC, S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "CSMGESM1"
+        },
+        {
+            "id": 448,
+            "bank": "D.B. SECURITIES, S.A., S.V.B.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "SCURESM1"
+        },
+        {
+            "id": 449,
+            "bank": "DAI-ICHI KANGYO BANK,LTD,THE",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "DKBBESM1"
+        },
+        {
+            "id": 450,
             "bank": "DAVIGEL ESPANA S.A.",
             "city": "SANT JUST DESVERN",
             "branch": null,
             "swift_code": "DAVNES2A"
         },
         {
-            "id": 295,
+            "id": 451,
+            "bank": "DE LAGE LANDEN INTERNATIONAL B.V.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "LLISESM1"
+        },
+        {
+            "id": 452,
+            "bank": "DEPFA-BANK EUROPE, PLC",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "DPFAESM1"
+        },
+        {
+            "id": 453,
+            "bank": "DEUTSCHE BANK AG",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "DEUTESM1"
+        },
+        {
+            "id": 454,
             "bank": "DEUTSCHE BANK AG SPANISH BRANCH",
             "city": "MADRID",
             "branch": null,
             "swift_code": "DBSCESMM"
         },
         {
-            "id": 296,
+            "id": 455,
+            "bank": "DEUTSCHE BANK CREDIT S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "DECRESM1"
+        },
+        {
+            "id": 456,
+            "bank": "DEUTSCHE BANK GESTION",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "DEGEESM1"
+        },
+        {
+            "id": 457,
             "bank": "DEUTSCHE BANK SOCIEDAD ANONIMA ESPANOLA",
             "city": "BARCELONA",
             "branch": "(BCN-BRANCH)",
             "swift_code": "DEUTESBBASS"
         },
         {
-            "id": 297,
+            "id": 458,
             "bank": "DEUTSCHE BANK SOCIEDAD ANONIMA ESPANOLA",
             "city": "BARCELONA",
             "branch": null,
             "swift_code": "DEUTESBB"
         },
         {
-            "id": 298,
+            "id": 459,
             "bank": "DEUTSCHE BANK SOCIEDAD ANONIMA ESPANOLA",
             "city": "MADRID",
             "branch": null,
             "swift_code": "DEUTESBB030"
         },
         {
-            "id": 299,
+            "id": 460,
+            "bank": "DEUTSCHE PFANDBRIEFBANK AG BRANCH MADRID",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "DPBBESM1"
+        },
+        {
+            "id": 461,
             "bank": "DEXIA SABADELL BANCO LOCAL S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "DSBLESMM"
         },
         {
-            "id": 300,
+            "id": 462,
+            "bank": "DIPUTACION GENERAL DE ARAGON",
+            "city": "ZARAGOZA",
+            "branch": null,
+            "swift_code": "ARGCES21"
+        },
+        {
+            "id": 463,
+            "bank": "DL CORPORATION AGENCIA DE VALORES S A",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "COAVESB1"
+        },
+        {
+            "id": 464,
+            "bank": "DON CURRO INVERSIONES SICAV SA",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "DCISESB1"
+        },
+        {
+            "id": 465,
+            "bank": "DURO FELGUERA, S.A.",
+            "city": "GIJON",
+            "branch": null,
+            "swift_code": "DUFEES21"
+        },
+        {
+            "id": 466,
+            "bank": "DWS INVESTMENTS SGIIC",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "DWISESM1"
+        },
+        {
+            "id": 467,
             "bank": "EBN BANCO DE NEGOCIOS,S.A.(EBN BANCO)",
             "city": "MADRID",
             "branch": null,
             "swift_code": "PROAESMM"
         },
         {
-            "id": 301,
+            "id": 468,
+            "bank": "EL FONDO DE GARANTIA DE DEPOSITOS EN CAJAS DE AHORRO",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "FGDCESM1"
+        },
+        {
+            "id": 469,
+            "bank": "ELECTRONIC TRADING SYSTEM VALORES, S.V., S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "ETSVESM1"
+        },
+        {
+            "id": 470,
             "bank": "ENEL IBEROAMERICA, SRL",
             "city": "MADRID",
             "branch": null,
             "swift_code": "ENDEESMM"
         },
         {
-            "id": 302,
+            "id": 471,
+            "bank": "ESPACLEAR, SISTEMAS DE COMPENSACION DE ACTIVOS FINANCIEROS SA\/AV",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "ESCCESM1"
+        },
+        {
+            "id": 472,
+            "bank": "ESPIRITO SANTO BANK OF FLORIDA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "ESBFESM1"
+        },
+        {
+            "id": 473,
+            "bank": "EURO ATLANTIC BANCORP",
+            "city": "ESTEPONA",
+            "branch": null,
+            "swift_code": "EUABES21"
+        },
+        {
+            "id": 474,
+            "bank": "EUROBANK DEL MEDITERRANEO S.A.",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "EUMEESB1"
+        },
+        {
+            "id": 475,
+            "bank": "EURODEAL A.V.B., S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "EUDAESM1"
+        },
+        {
+            "id": 476,
+            "bank": "EUROFINANZAS, S.A., S.V.B.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "EUASESM1"
+        },
+        {
+            "id": 477,
             "bank": "EURONA WIRELESS TELECOM",
             "city": "BARCELONA",
             "branch": null,
             "swift_code": "EUWTESBB"
         },
         {
-            "id": 303,
+            "id": 478,
             "bank": "EUROPE ARAB BANK, PLC-SUCURSAL EN ESPANA",
             "city": "MADRID",
             "branch": null,
             "swift_code": "ARABESMM"
         },
         {
-            "id": 304,
+            "id": 479,
+            "bank": "EUROPEA POPULAR DE INVERSIONES S.V.B.,S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "EUPIESM1"
+        },
+        {
+            "id": 480,
+            "bank": "EUROPEAN CREDIT CAPITAL MARKETS LTD",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "ECCMESM1"
+        },
+        {
+            "id": 481,
+            "bank": "EUROPEAN CREDIT PLC",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "EUCEESM1"
+        },
+        {
+            "id": 482,
+            "bank": "EUROSAFEI, SOCIEDAD DE VALORES Y BOLSA, S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "ESAFESM1"
+        },
+        {
+            "id": 483,
             "bank": "EVERIS SPAIN, S.L.U.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "EVIRESMM"
         },
         {
-            "id": 305,
+            "id": 484,
             "bank": "EVO BANCO S.A.",
             "city": "MADRID",
             "branch": "(BACK OFFICE)",
             "swift_code": "EVOBESMMBAC"
         },
         {
-            "id": 306,
+            "id": 485,
             "bank": "EVO BANCO S.A.",
             "city": "MADRID",
             "branch": "(PAYMENT SYSTEMS DEPT.)",
             "swift_code": "EVOBESMMLCO"
         },
         {
-            "id": 307,
+            "id": 486,
             "bank": "EVO BANCO S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "EVOBESMM"
         },
         {
-            "id": 308,
+            "id": 487,
+            "bank": "F G INVERSIONES BURSATILES SA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "FGIBESM1"
+        },
+        {
+            "id": 488,
+            "bank": "FCE BANK PLC",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "FCEFESM1"
+        },
+        {
+            "id": 489,
+            "bank": "FERROVIAL S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "FERRESM1"
+        },
+        {
+            "id": 490,
+            "bank": "FIBANC EXCELLENT FI",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "FBBEESB1"
+        },
+        {
+            "id": 491,
+            "bank": "FIDENTIIS EQUITIES SOCIEDAD DE VALORES SA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "FIDSESM1"
+        },
+        {
+            "id": 492,
             "bank": "FIESTA HOTELS AND RESORTS SL",
             "city": "IBIZA",
             "branch": null,
             "swift_code": "PHGPES22"
         },
         {
-            "id": 309,
+            "id": 493,
+            "bank": "FINANDENIA CREDIT AND GUARANTEE LTD",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "FCGBESM1"
+        },
+        {
+            "id": 494,
             "bank": "FINCAMPER SLU",
             "city": "INCA",
             "branch": null,
             "swift_code": "CMPRES2M"
         },
         {
-            "id": 310,
+            "id": 495,
+            "bank": "FINECO SOCIEDAD DE VALORES S.A.",
+            "city": "BILBAO",
+            "branch": null,
+            "swift_code": "FIOVES21"
+        },
+        {
+            "id": 496,
+            "bank": "FITCH RATINGS ESPANA. S.A.U.",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "FRIPESB1"
+        },
+        {
+            "id": 497,
             "bank": "FLUIDRA, S.A.",
             "city": "SABADELL",
             "branch": null,
             "swift_code": "FDRAESBB"
         },
         {
-            "id": 311,
+            "id": 498,
+            "bank": "FOMENTO DE CONSTRUCCIONES Y CONTRATAS",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "FCOTESB1"
+        },
+        {
+            "id": 499,
+            "bank": "FONDITEL EGFP",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "FOEGESM1"
+        },
+        {
+            "id": 500,
+            "bank": "FONDO DE GARANTIA DE DEPOSITOS DE ENTIDADES DE CREDITO",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "FGDEESM1"
+        },
+        {
+            "id": 501,
+            "bank": "FRANFINANCE, SUCURSAL EN ESPANA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "FRANESM1"
+        },
+        {
+            "id": 502,
             "bank": "FRIT RAVICH, S.L.",
             "city": "MACANET DE LA SELVA",
             "branch": null,
             "swift_code": "FRAVES22"
         },
         {
-            "id": 312,
+            "id": 503,
+            "bank": "FUJI BANK,LIMITED,THE",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "FUJIESM1"
+        },
+        {
+            "id": 504,
+            "bank": "G.V.C. GENERAL DE VALORES Y CAMBIOS , S.A., S.V.B.",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "GGVCESB1"
+        },
+        {
+            "id": 505,
+            "bank": "GAESCO BOLSA SOCIEDAD DE VALORES Y BOLSA SA",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "GAESESM1"
+        },
+        {
+            "id": 506,
             "bank": "GAMESA CORPORACION TECNOLOGICA, S.A",
             "city": "ZAMUDIO",
             "branch": null,
             "swift_code": "GAMCES2A"
         },
         {
-            "id": 313,
+            "id": 507,
+            "bank": "GEFONSA SA AGENCIA DE VALORES",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "GEAVESM1"
+        },
+        {
+            "id": 508,
+            "bank": "GENERAL DE VALORES Y CAMBIO, S.A., S.V.B.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "GGVCESM1"
+        },
+        {
+            "id": 509,
             "bank": "GENERAL DE VALORES Y CAMBIOS S.V. S.A.",
             "city": "BARCELONA",
             "branch": "(AS ENTIDAD AGENTE)",
             "swift_code": "GVCBESBBAGE"
         },
         {
-            "id": 314,
+            "id": 510,
             "bank": "GENERAL DE VALORES Y CAMBIOS S.V. S.A.",
             "city": "BARCELONA",
             "branch": "(ETB GVC GAESCO)",
             "swift_code": "GVCBESBBETB"
         },
         {
-            "id": 315,
+            "id": 511,
             "bank": "GENERAL DE VALORES Y CAMBIOS S.V. S.A.",
             "city": "BARCELONA",
             "branch": null,
             "swift_code": "GVCBESBB"
         },
         {
-            "id": 316,
+            "id": 512,
+            "bank": "GENERAL ELECTRIC CAPITAL BANK S.A",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "GEECESB1"
+        },
+        {
+            "id": 513,
             "bank": "GENERALI ESPANA HOLDING DE ENTIDADES DE SEGUROS",
             "city": "MADRID",
             "branch": null,
             "swift_code": "GEHEESMM"
         },
         {
-            "id": 317,
+            "id": 514,
+            "bank": "GENERALITAT VALENCIANA",
+            "city": "VALENCIA",
+            "branch": null,
+            "swift_code": "CAVAESV1"
+        },
+        {
+            "id": 515,
             "bank": "GEODIS BOURGEY MONTREUIL IBERICA SA",
             "city": "PAMPLONA",
             "branch": null,
             "swift_code": "GEODES2P"
         },
         {
-            "id": 318,
+            "id": 516,
+            "bank": "GESINCA INVERSIONES",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "GINVESM1"
+        },
+        {
+            "id": 517,
+            "bank": "GESMOSA-GBI , A.V., S.A",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "GESGESM1"
+        },
+        {
+            "id": 518,
+            "bank": "GESMOSA-GBI , A.V., S.A",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "GESGESM1"
+        },
+        {
+            "id": 519,
+            "bank": "GESTEMAR SECURITIES S.V.B.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "GESMESM1"
+        },
+        {
+            "id": 520,
+            "bank": "GESTINVEST INTERNACIONAL",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "GESNESM1"
+        },
+        {
+            "id": 521,
+            "bank": "GESTION DE ACTIVOS DEL MEDITERRANEO, SOCIEDAD DE ALORES S.A",
+            "city": "ALICANTE",
+            "branch": null,
+            "swift_code": "GEAMES21"
+        },
+        {
+            "id": 522,
+            "bank": "GESTION DE PATRIMONIOS MOBILIARIOS, S.A., AGENCIADE VALORES Y BOLSA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "GEPMESM1"
+        },
+        {
+            "id": 523,
             "bank": "GLOBALCAJA, CAJA RURAL DE ALBACETE, CIUDAD REAL Y CUENCA, S.C.C.",
             "city": "TOLEDO",
             "branch": null,
             "swift_code": "BCOEESMM190"
         },
         {
-            "id": 319,
+            "id": 524,
+            "bank": "GOBIERNO DE CANTABRIA",
+            "city": "SANTANDER",
+            "branch": null,
+            "swift_code": "CTCAES21"
+        },
+        {
+            "id": 525,
+            "bank": "GOBIERNO DE NAVARRA",
+            "city": "PAMPLONA",
+            "branch": null,
+            "swift_code": "CANAES21"
+        },
+        {
+            "id": 526,
             "bank": "GRIFOLS S.A.",
             "city": "BARCELONA",
             "branch": null,
             "swift_code": "GRLSESBB"
         },
         {
-            "id": 320,
+            "id": 527,
+            "bank": "GRUPO INVERSOR HESPERIA, S.A.",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "GIHSESB1"
+        },
+        {
+            "id": 528,
             "bank": "GRUPO PINERO (LEVANTUR)",
             "city": "PALMA DE MALLORCA",
             "branch": null,
             "swift_code": "GPPIES2M"
         },
         {
-            "id": 321,
+            "id": 529,
             "bank": "GRUPO TURISTICO TRANSHOTEL S.L.",
             "city": "SAN SEBASTIAN DE REYES",
             "branch": null,
             "swift_code": "TRCSESMM"
         },
         {
-            "id": 322,
+            "id": 530,
+            "bank": "GULF VALUE FINANCIAL S.L.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "GUVFESM1"
+        },
+        {
+            "id": 531,
             "bank": "HAITONG BANK, SA SUCURSAL ESPANA",
             "city": "MADRID",
             "branch": "(IBERCLEAR)",
             "swift_code": "ESSIESMMMAD"
         },
         {
-            "id": 323,
+            "id": 532,
             "bank": "HAITONG BANK, SA SUCURSAL ESPANA",
             "city": "MADRID",
             "branch": null,
             "swift_code": "ESSIESMM"
         },
         {
-            "id": 324,
+            "id": 533,
+            "bank": "HERMES BOLSA, AVB, S.A.",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "HEBVESB1"
+        },
+        {
+            "id": 534,
+            "bank": "HEWLETT-PACKARD ESPANOLA S.L.",
+            "city": "LAS ROZAS DE MADRID",
+            "branch": null,
+            "swift_code": "HEESESM1"
+        },
+        {
+            "id": 535,
             "bank": "HOLDING GONVARRI S.L.",
             "city": "MADRID",
             "branch": "(GESTAMP RENOVABLES INDUSTRIES)",
             "swift_code": "GONVESMMGRI"
         },
         {
-            "id": 325,
+            "id": 536,
             "bank": "HOLDING GONVARRI S.L.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "GONVESMM"
         },
         {
-            "id": 326,
+            "id": 537,
+            "bank": "HOTELBEDS SPAIN, S.L.U.",
+            "city": "PALMA DE MALLORCA",
+            "branch": null,
+            "swift_code": "HBDSES21"
+        },
+        {
+            "id": 538,
             "bank": "HSBC BANK PLC",
             "city": "MADRID",
             "branch": "(SEPA DIRECT DEBITS)",
             "swift_code": "MIDLESMMSDD"
         },
         {
-            "id": 327,
+            "id": 539,
             "bank": "HSBC BANK PLC",
             "city": "MADRID",
             "branch": null,
             "swift_code": "MIDLESMM"
         },
         {
-            "id": 328,
+            "id": 540,
             "bank": "HSBC BANK PLC",
             "city": "MADRID",
             "branch": null,
             "swift_code": "MIDLESMX"
         },
         {
-            "id": 329,
+            "id": 541,
+            "bank": "HSBC INTERMEDIARIOS (ESPANA) A.V.,S.A.",
+            "city": "VALENCIA",
+            "branch": null,
+            "swift_code": "HSIEESV1"
+        },
+        {
+            "id": 542,
+            "bank": "HSBC INVESTMENT BANK PLC,SUCURSAL EN ESPANA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "HSVBESM1"
+        },
+        {
+            "id": 543,
+            "bank": "IBERAGENTES BOLSA S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "IBEOESM1"
+        },
+        {
+            "id": 544,
             "bank": "IBERCAJA BANCO S A",
             "city": "ZARAGOZA",
             "branch": "(HEAD OFFICE)",
             "swift_code": "CAZRES2Z"
         },
         {
-            "id": 330,
+            "id": 545,
             "bank": "IBERDROLA S.A.",
             "city": "BILBAO",
             "branch": null,
             "swift_code": "IBDLES2B"
         },
         {
-            "id": 331,
+            "id": 546,
             "bank": "IBERIA LINEAS AEREAS DE ESPANA S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "IBLAESMM"
         },
         {
-            "id": 332,
+            "id": 547,
+            "bank": "IBERIAN EQUITIES A.V., S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "IBEQESM1"
+        },
+        {
+            "id": 548,
             "bank": "IBEROSTAR HOTELES Y APARTAMENTOS, S.L.",
             "city": "PALMA DE MALLORCA",
             "branch": null,
             "swift_code": "STARES2M"
         },
         {
-            "id": 333,
+            "id": 549,
+            "bank": "IBERSECURITIES SOCIEDAD DE VALORES S.A.U.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "IBERESM1"
+        },
+        {
+            "id": 550,
+            "bank": "IFXBG LIMITED",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "IFXGESM1"
+        },
+        {
+            "id": 551,
+            "bank": "IKB DEUTSCHE INDUSTRIEBANK AG",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "IKBDESM1"
+        },
+        {
+            "id": 552,
+            "bank": "INBARSAVE SICAV SA",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "IBSVESB1"
+        },
+        {
+            "id": 553,
+            "bank": "INDOSUEZ CAPITAL SECURITIES ESPANA, S.A. S.V.B.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "VALGESM1"
+        },
+        {
+            "id": 554,
+            "bank": "INDRA SISTEMAS, S.A.",
+            "city": "ALCOBENDAS",
+            "branch": null,
+            "swift_code": "ISSAESM1"
+        },
+        {
+            "id": 555,
             "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA(EUROPE)S.A.,SUCURSAL EN ESPANA",
             "city": "MADRID",
             "branch": null,
             "swift_code": "ICBKESMM"
         },
         {
-            "id": 334,
+            "id": 556,
             "bank": "ING BANK NV, SPANISH BRANCH (COMMERCIAL BANKING)",
             "city": "MADRID",
             "branch": null,
             "swift_code": "BBRUESMX"
         },
         {
-            "id": 335,
+            "id": 557,
             "bank": "ING BANK NV,SPANISH BRANCH (DIRECT)",
             "city": "LAS ROZAS DE MADRID",
             "branch": null,
             "swift_code": "INGDESMM"
         },
         {
-            "id": 336,
+            "id": 558,
+            "bank": "INMOB CALERA Y CHOZAS CART SICAV SA",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "ICCRESB1"
+        },
+        {
+            "id": 559,
             "bank": "INSTITUTO DE CREDITO OFICIAL",
             "city": "MADRID",
             "branch": null,
             "swift_code": "ICROESMM"
         },
         {
-            "id": 337,
+            "id": 560,
+            "bank": "INTERBROKERS ESPANOLA DE VALORES, AGENCIA DE VALORES, S.A.",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "IEVAESB1"
+        },
+        {
+            "id": 561,
+            "bank": "INTERCAIXA VALORES S.A., S.V.B.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "ICVAESM1"
+        },
+        {
+            "id": 562,
+            "bank": "INTERDIN BOLSA, SOCIEDAD DE VALORES, S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "INTOESM1"
+        },
+        {
+            "id": 563,
+            "bank": "INTERMEDIARIOS FINANCIEROS, S.A., A.V.B.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "FSINESM1"
+        },
+        {
+            "id": 564,
             "bank": "INTERMONEY VALORES S.V.B., S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "IVALESMM"
         },
         {
-            "id": 338,
+            "id": 565,
             "bank": "INTERMONEY VALORES S.V.B., S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "IVALESMM999"
         },
         {
-            "id": 339,
+            "id": 566,
             "bank": "INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A.",
             "city": "MADRID",
             "branch": "(PARENT GROUP)",
             "swift_code": "IAGLESMMIAG"
         },
         {
-            "id": 340,
+            "id": 567,
             "bank": "INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "IAGLESMM"
         },
         {
-            "id": 341,
+            "id": 568,
             "bank": "INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "IAGLESMMBA1"
         },
         {
-            "id": 342,
+            "id": 569,
             "bank": "INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "IAGLESMMIB1"
         },
         {
-            "id": 343,
+            "id": 570,
             "bank": "INTERNATIONAL CONSOLIDATED AIRLINES GROUP, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "IAGLESMMVY1"
         },
         {
-            "id": 344,
+            "id": 571,
             "bank": "INTESA SANPAOLO S.P.A. (FORMER SANPAOLO IMI), MADRID BRANCH, MADRID",
             "city": "MADRID",
             "branch": null,
             "swift_code": "BCITESMM"
         },
         {
-            "id": 345,
+            "id": 572,
+            "bank": "INVERCAIXA VALORES S.V.B., S.A.",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "INBVESB1"
+        },
+        {
+            "id": 573,
             "bank": "INVERSEGUROS SOCIEDAD DE VALORES, S.A.U.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "INSGESMM"
         },
         {
-            "id": 346,
+            "id": 574,
             "bank": "IRUS CENTER LAS ROZAS, S.L.U.",
             "city": "ALCOBENDAS",
             "branch": null,
             "swift_code": "IRRSES22"
         },
         {
-            "id": 347,
+            "id": 575,
             "bank": "ISSUER SOLUTIONS SL",
             "city": "VALENCIA",
             "branch": null,
             "swift_code": "ISOLESVV"
         },
         {
-            "id": 348,
+            "id": 576,
+            "bank": "J.L. CONTRERAS Y ASOCIADOS, S.A., A.V.B.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "ASOCESM1"
+        },
+        {
+            "id": 577,
+            "bank": "J.P. MORGAN SECURITIES LIMITED SUCURSAL EN ESPANA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "JPMSESM1"
+        },
+        {
+            "id": 578,
+            "bank": "J.P. MORGAN SECURITIES LIMITED-SUCURSAL EN ESPANA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "CHASESM1"
+        },
+        {
+            "id": 579,
+            "bank": "JB CAPITAL MARKETS SOCIEDAD DE VALORES, S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "MBCMESM1"
+        },
+        {
+            "id": 580,
+            "bank": "JOSE GREGORIO JUNCOS MARTINEZ",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "JGJMESM1"
+        },
+        {
+            "id": 581,
+            "bank": "JP MORGAN SOCIEDAD DE VALORES Y BOLSA S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "JPMVESM1"
+        },
+        {
+            "id": 582,
             "bank": "JPMORGAN CHASE BANK, N.A.",
             "city": "MADRID",
             "branch": "(TEST KEY AND BKE ADMINISTRATION)",
             "swift_code": "CHASESM3KEY"
         },
         {
-            "id": 349,
+            "id": 583,
             "bank": "JPMORGAN CHASE BANK, N.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "CHASESM3"
         },
         {
-            "id": 350,
+            "id": 584,
+            "bank": "JUNTA DE ANDALUCIA",
+            "city": "SEVILLA",
+            "branch": null,
+            "swift_code": "JANDESS1"
+        },
+        {
+            "id": 585,
+            "bank": "JUNTA DE COMUNIDADES DE CASTILLA-LA MANCHA",
+            "city": "TOLEDO",
+            "branch": null,
+            "swift_code": "JCMAES21"
+        },
+        {
+            "id": 586,
             "bank": "KBL EUROPEAN PRIVATE BANKERS S.A. SUCURSAL EN ESPANA",
             "city": "MADRID",
             "branch": null,
             "swift_code": "KBLXESMM"
         },
         {
-            "id": 351,
+            "id": 587,
+            "bank": "KEPLER EQUITIES, SUCURSAL EN ESPANA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "JBBRESM1"
+        },
+        {
+            "id": 588,
             "bank": "KUTXABANK, S.A.",
             "city": "BILBAO",
             "branch": null,
             "swift_code": "BASKES2B"
         },
         {
-            "id": 352,
+            "id": 589,
+            "bank": "KUTXAGEST",
+            "city": "SAN SEBASTIAN",
+            "branch": null,
+            "swift_code": "KUTAES21"
+        },
+        {
+            "id": 590,
+            "bank": "LABORAL KUTXA (CAJA LABORAL POPULAR COOP.DE CREDITO)",
+            "city": "BILBAO",
+            "branch": null,
+            "swift_code": "CLPEES21083"
+        },
+        {
+            "id": 591,
+            "bank": "LABORAL KUTXA (CAJA LABORAL POPULAR COOP.DE CREDITO)",
+            "city": "EIBAR",
+            "branch": null,
+            "swift_code": "CLPEES21023"
+        },
+        {
+            "id": 592,
+            "bank": "LABORAL KUTXA (CAJA LABORAL POPULAR COOP.DE CREDITO)",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "CLPEES21121"
+        },
+        {
+            "id": 593,
             "bank": "LABORAL KUTXA (CAJA LABORAL POPULAR COOP.DE CREDITO)",
             "city": "MONDRAGON",
             "branch": null,
             "swift_code": "CLPEES2M"
         },
         {
-            "id": 353,
+            "id": 594,
+            "bank": "LABORAL KUTXA (CAJA LABORAL POPULAR COOP.DE CREDITO)",
+            "city": "PAMPLONA",
+            "branch": null,
+            "swift_code": "CLPEES21195"
+        },
+        {
+            "id": 595,
+            "bank": "LABORAL KUTXA (CAJA LABORAL POPULAR COOP.DE CREDITO)",
+            "city": "SAN SEBASTIAN",
+            "branch": null,
+            "swift_code": "CLPEES21060"
+        },
+        {
+            "id": 596,
+            "bank": "LABORAL KUTXA (CAJA LABORAL POPULAR COOP.DE CREDITO)",
+            "city": "VITORIA",
+            "branch": null,
+            "swift_code": "CLPEES21012"
+        },
+        {
+            "id": 597,
             "bank": "LABORATORIOS DEL DR. ESTEVE, S.A.",
             "city": "BARCELONA",
             "branch": null,
             "swift_code": "ESTEESBB"
         },
         {
-            "id": 354,
+            "id": 598,
             "bank": "LABORATORIOS HIPRA, S.A.",
             "city": "GERONA (GIRONA)",
             "branch": null,
             "swift_code": "HIPRES22"
         },
         {
-            "id": 355,
+            "id": 599,
+            "bank": "LANDESBANK BADEN-WUERTTEMBERG",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "SOLAESB1"
+        },
+        {
+            "id": 600,
+            "bank": "LANDESBANK HESSEN-THUERINGEN GIROZENTRALE",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "HELAESM1"
+        },
+        {
+            "id": 601,
+            "bank": "LEGG MASON LTD. SPAIN",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "LEMPESM1"
+        },
+        {
+            "id": 602,
             "bank": "LIBERBANK, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "CECAESMM048"
         },
         {
-            "id": 356,
+            "id": 603,
             "bank": "LINK SECURITIES SOCIEDAD DE VALORES S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "LISEESMM"
         },
         {
-            "id": 357,
+            "id": 604,
             "bank": "LOMBARD ODIER (EUROPE) SA SUCURSAL EN ESPANA",
             "city": "MADRID",
             "branch": "(NDP DEPT)",
             "swift_code": "LOCYESMMNDP"
         },
         {
-            "id": 358,
+            "id": 605,
             "bank": "LOMBARD ODIER (EUROPE) SA SUCURSAL EN ESPANA",
             "city": "MADRID",
             "branch": null,
             "swift_code": "LOCYESMM"
         },
         {
-            "id": 359,
+            "id": 606,
+            "bank": "LONDON FORFAITING A PARIS, S.A.",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "LOFPESB1"
+        },
+        {
+            "id": 607,
+            "bank": "M AND B CAPITAL ADVISERS, SOCIEDAD DE VALORES, S..",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "CADRESM1"
+        },
+        {
+            "id": 608,
             "bank": "MACCORP EXACT CHANGE, E.P., S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "EXCHESMM"
         },
         {
-            "id": 360,
+            "id": 609,
             "bank": "MAPFRE INVERSION SOCIEDAD DE VALORES S.A.",
             "city": "MAJADAHONDA",
             "branch": null,
             "swift_code": "MISVESMM"
         },
         {
-            "id": 361,
+            "id": 610,
+            "bank": "MARTINEZ GIL Y ASOCIADOS AGENCIA VALORES BOLSA SA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "MAGAESM1"
+        },
+        {
+            "id": 611,
             "bank": "MAXAMCORP HOLDING SL",
             "city": "MADRID",
             "branch": null,
             "swift_code": "MAXHESMM"
         },
         {
-            "id": 362,
+            "id": 612,
+            "bank": "MAXWELL E ESPINOSA A I, S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "MXESESM1"
+        },
+        {
+            "id": 613,
+            "bank": "MEDIACION BURSATIL, S.V.B., S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "MEBUESM1"
+        },
+        {
+            "id": 614,
+            "bank": "MEDIFOND PLUS FI",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "MEPLESB1"
+        },
+        {
+            "id": 615,
+            "bank": "MEDIGESTION 02 SICAV SA",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "MESVESB1"
+        },
+        {
+            "id": 616,
+            "bank": "MEDIOLANIUM ALPHA PLUS-F.I.",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "MEAUESB1"
+        },
+        {
+            "id": 617,
+            "bank": "MEDIOLANIUM ALPHA PLUS-F.I.",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "MEAUESB1"
+        },
+        {
+            "id": 618,
+            "bank": "MEFF SOCIEDAD RECTORA DE PRODUCTOS FINANCIEROS DERIVADOS DE RENTA VARIABLE, S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "XMRVESM1"
+        },
+        {
+            "id": 619,
+            "bank": "MEFFCLEAR",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "MEFEESB1"
+        },
+        {
+            "id": 620,
+            "bank": "MERCADOS Y GESTION DE VALORES A.V.B. S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "MGVAESM1"
+        },
+        {
+            "id": 621,
+            "bank": "MERCAGENTES S.A., SOCIEDAD DE VALORES",
+            "city": "BILBAO",
+            "branch": null,
+            "swift_code": "MERSESM1"
+        },
+        {
+            "id": 622,
+            "bank": "MERCATO CONTINUO ESPANOL",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "XMCEESB1"
+        },
+        {
+            "id": 623,
+            "bank": "MERCAVALOR SOCIEDAD DE VALORES SA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "MERRESM1"
+        },
+        {
+            "id": 624,
+            "bank": "MERCHBOLSA AGENCIA DE VALORES, S.A",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "XBAVESB1"
+        },
+        {
+            "id": 625,
+            "bank": "MERRILL LYNCH CAPITAL MARKETS BANK LIMITED",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "MLCBESM1"
+        },
+        {
+            "id": 626,
             "bank": "MERRILL LYNCH CAPITAL MARKETS ESPANA S.A., SVB",
             "city": "MADRID",
             "branch": null,
             "swift_code": "MLCEESMM"
         },
         {
-            "id": 363,
+            "id": 627,
             "bank": "MERRILL LYNCH CAPITAL MARKETS ESPANA S.A., SVB",
             "city": "MADRID",
             "branch": null,
             "swift_code": "MLCEESMMMEO"
         },
         {
-            "id": 364,
+            "id": 628,
+            "bank": "MERRILL LYNCH INTERNATIONAL BANK LIMIITED",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "MLIBESM1"
+        },
+        {
+            "id": 629,
+            "bank": "MG VALORES, S.A., S.V.B.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "VASVESM1"
+        },
+        {
+            "id": 630,
             "bank": "MINERALES Y PRODUCTOS DERIVADOS S.A",
             "city": "BILBAO",
             "branch": null,
             "swift_code": "MYPDES2B"
         },
         {
-            "id": 365,
+            "id": 631,
             "bank": "MIRABAUD AND CIE (EUROPE) SA,SUCURSAL EN ESPANA",
             "city": "MADRID",
             "branch": null,
             "swift_code": "MIRAESMM"
         },
         {
-            "id": 366,
+            "id": 632,
+            "bank": "MIRABAUD FINANZAS S.V., S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "VEFIESM1"
+        },
+        {
+            "id": 633,
+            "bank": "MIRABAUD SECURITIES LLP MADRID BRANCH",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "MIRSESM1"
+        },
+        {
+            "id": 634,
             "bank": "MONTY GLOBAL PAYMENTS, S.A.U.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "MNTYESMM"
         },
         {
-            "id": 367,
+            "id": 635,
+            "bank": "MOODY'S INVESTORS SERVICE ESPANA, S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "MOODESM1"
+        },
+        {
+            "id": 636,
+            "bank": "MORCOTE INVERSIONES SICAV SA",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "MOIIESB1"
+        },
+        {
+            "id": 637,
+            "bank": "MORGAN STANLEY SV. SA.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "MSTAESM1"
+        },
+        {
+            "id": 638,
+            "bank": "MORGAN STANLEY WEALTH MANAGEMENT, S.V., S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "MSWMESM1"
+        },
+        {
+            "id": 639,
+            "bank": "MUTUACTIVOS SGIIC",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "MUSGESM1"
+        },
+        {
+            "id": 640,
             "bank": "NATIXIS S.A., SUCURSAL EN ESPANA",
             "city": "MADRID",
             "branch": null,
             "swift_code": "NATXESMM"
         },
         {
-            "id": 368,
+            "id": 641,
+            "bank": "NEBURSA, S.A., S.V.B.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "NEBUESM1"
+        },
+        {
+            "id": 642,
             "bank": "NEINVER, S.A.",
             "city": "ALCOBENDAS",
             "branch": null,
             "swift_code": "NENVES22"
         },
         {
-            "id": 369,
+            "id": 643,
+            "bank": "NEWCOURT FINANCE (FRANCE) S.N.C. SUCURSAL EN ESPANA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "NFFSESM1"
+        },
+        {
+            "id": 644,
+            "bank": "NEWEDGE GROUP (MADRID BRANCH)",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "NEWGESM1"
+        },
+        {
+            "id": 645,
+            "bank": "NEXUS ENERGIA S.A.",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "NEXNESB1"
+        },
+        {
+            "id": 646,
             "bank": "NH HOTELES SA",
             "city": "MADRID",
             "branch": null,
             "swift_code": "NHSAESMM"
         },
         {
-            "id": 370,
+            "id": 647,
+            "bank": "NIBC PETERCAM GESTION",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "NIPGES21"
+        },
+        {
+            "id": 648,
+            "bank": "NMAS1 EQUITIES, SV, SA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "NMEQESM1"
+        },
+        {
+            "id": 649,
+            "bank": "NORBOLSA S.V.,S.A.",
+            "city": "BILBAO",
+            "branch": "(NORBOLSA)",
+            "swift_code": "NORLESB1BIO"
+        },
+        {
+            "id": 650,
             "bank": "NORBOLSA S.V.,S.A.",
             "city": "BILBAO",
             "branch": null,
             "swift_code": "NORLES2B"
         },
         {
-            "id": 371,
+            "id": 651,
+            "bank": "NORDKAPP INVERSIONES SOCIEDAD DE VALORES S.A",
+            "city": "VALENCIA",
+            "branch": null,
+            "swift_code": "NISVESM1"
+        },
+        {
+            "id": 652,
+            "bank": "NORWICH AND PETERBOROUGH BUILDING SOCIETY",
+            "city": "SAN ROQUE",
+            "branch": null,
+            "swift_code": "NPBSES21"
+        },
+        {
+            "id": 653,
             "bank": "NOVO BANCO, SA (FORMERLY BANCO ESPIRITO SANTO SA),SUCURSAL EN ESPANA",
             "city": "MADRID",
             "branch": null,
             "swift_code": "BESMESMM"
         },
         {
-            "id": 372,
+            "id": 654,
+            "bank": "NUEVO MICRO BANK, S.A.U.",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "MIKBESB1"
+        },
+        {
+            "id": 655,
             "bank": "NYSB FUNDS MANAGEMENT SL",
             "city": "SANTA CRUZ DE TENERIFE",
             "branch": null,
             "swift_code": "NYSBES22"
         },
         {
-            "id": 373,
+            "id": 656,
+            "bank": "OLIVARDA SICAV SA",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "OLSIESB1"
+        },
+        {
+            "id": 657,
             "bank": "OPEN BANK SANTANDER CONSUMER S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "OPENESMM"
         },
         {
-            "id": 374,
+            "id": 658,
             "bank": "ORWELL UNION PARTNERS LLP, MADRID BRANCH",
             "city": "MADRID",
             "branch": null,
             "swift_code": "ORUNESMM"
         },
         {
-            "id": 375,
+            "id": 659,
+            "bank": "OSUNA Y MARCO, S.A., A.V.B.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "OSMAESM1"
+        },
+        {
+            "id": 660,
+            "bank": "PATRINVEST INVERSION S.I.C.A.V S.A",
+            "city": "CASTELLON",
+            "branch": null,
+            "swift_code": "PAIVES21"
+        },
+        {
+            "id": 661,
+            "bank": "PENTOR A.V.B., S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "PENTESM1"
+        },
+        {
+            "id": 662,
+            "bank": "PHILIPPINE NATIONAL BANK, S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "PNBMESM1"
+        },
+        {
+            "id": 663,
+            "bank": "PHOENIX SOFT CORP LTD",
+            "city": "VIGO",
+            "branch": null,
+            "swift_code": "PSCLES21"
+        },
+        {
+            "id": 664,
             "bank": "PICTET AND CIE (EUROPE)S.A. SUCURSAL EN ESPANA",
             "city": "MADRID",
             "branch": null,
             "swift_code": "PICTESMM"
         },
         {
-            "id": 376,
+            "id": 665,
+            "bank": "PKB PRIVATBANK AG",
+            "city": "ALCOBENDAS",
+            "branch": null,
+            "swift_code": "PKBSES21"
+        },
+        {
+            "id": 666,
             "bank": "PONTEGADEA INVERSIONES, S.L.",
             "city": "ARTEIXO A CORUNA",
             "branch": null,
             "swift_code": "POGAES2C"
         },
         {
-            "id": 377,
+            "id": 667,
             "bank": "POPULAR BANCA PRIVADA",
             "city": "MADRID",
             "branch": null,
             "swift_code": "POPIESMM"
         },
         {
-            "id": 378,
+            "id": 668,
+            "bank": "POPULAR BOLSA, SOCIEDAD DE VALORES, S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "POPBESM1"
+        },
+        {
+            "id": 669,
+            "bank": "POPULAR GESTION PRIVADA SGIIC",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "PGPSESM1"
+        },
+        {
+            "id": 670,
             "bank": "PORCELANOSA S.A.",
             "city": "CASTELLON DE LA PLANA",
             "branch": null,
             "swift_code": "PRCLES22"
         },
         {
-            "id": 379,
+            "id": 671,
             "bank": "PORTIGON AG",
             "city": "MADRID",
             "branch": "(FUNDING UNIT)",
             "swift_code": "WELAESMMFUN"
         },
         {
-            "id": 380,
+            "id": 672,
             "bank": "PORTIGON AG",
             "city": "MADRID",
             "branch": null,
             "swift_code": "WELAESMM"
         },
         {
-            "id": 381,
+            "id": 673,
+            "bank": "PRIMER BANCO AHORRO Y PRESTAMO VIVIENDA FAMILIAR,S.A.",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "PAPIESB1"
+        },
+        {
+            "id": 674,
             "bank": "PRINTEOS GROUP HOLDING, S.L.U.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "GSEHESMM"
         },
         {
-            "id": 382,
+            "id": 675,
+            "bank": "PRIVAT BANK S.A.",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "PRVBESB1"
+        },
+        {
+            "id": 676,
+            "bank": "PRIVATBANK IHAG ZUERICH AG",
+            "city": "FUENGIROLA",
+            "branch": null,
+            "swift_code": "IHZUES21"
+        },
+        {
+            "id": 677,
             "bank": "PROSEGUR COMPANIA DE SEGURIDAD, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "PSGRESMM"
         },
         {
-            "id": 383,
+            "id": 678,
+            "bank": "PROXIMA ALFA INVESTMENTS",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "PRLIES21"
+        },
+        {
+            "id": 679,
             "bank": "PUIG, S.L.",
             "city": "BARCELONA",
             "branch": null,
             "swift_code": "PUIGESBB"
         },
         {
-            "id": 384,
+            "id": 680,
             "bank": "RABOBANK INTERNATIONAL MADRID BRANCH",
             "city": "MADRID",
             "branch": null,
             "swift_code": "PRABESMM"
         },
         {
-            "id": 385,
+            "id": 681,
             "bank": "RBC INVESTOR SERVICES ESPANA S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "BVALESMM"
         },
         {
-            "id": 386,
+            "id": 682,
+            "bank": "RCI SPAIN",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "RCINESM1"
+        },
+        {
+            "id": 683,
+            "bank": "RCSCCH 1604 SICAV SA",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "RCSIESB1"
+        },
+        {
+            "id": 684,
+            "bank": "REGISTRO NACIONAL DE DERECHOS DA EMISSION DE GEI-RENADE",
+            "city": "LA CORUNA (A CORUNA)",
+            "branch": null,
+            "swift_code": "RNDEES21"
+        },
+        {
+            "id": 685,
             "bank": "RENTA 4 BANCO, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "RENBESMM"
         },
         {
-            "id": 387,
+            "id": 686,
             "bank": "RENTA 4 BANCO, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "RENBESMMAGE"
         },
         {
-            "id": 388,
+            "id": 687,
             "bank": "RENTA 4 BANCO, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "RENBESMMBME"
         },
         {
-            "id": 389,
+            "id": 688,
             "bank": "RENTA 4 BANCO, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "RENBESMMRVN"
         },
         {
-            "id": 390,
+            "id": 689,
             "bank": "RENTA 4 SOCIEDAD DE VALORES, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "RENTESMM"
         },
         {
-            "id": 391,
+            "id": 690,
             "bank": "RENTA 4 SOCIEDAD DE VALORES, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "RENTESMMBME"
         },
         {
-            "id": 392,
+            "id": 691,
+            "bank": "RENTA MARKETS SV,SA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "RMSVESM1"
+        },
+        {
+            "id": 692,
+            "bank": "RENTCAIXA, S.A DE SEGUROS Y REASEGUROS",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "RTCAESB1"
+        },
+        {
+            "id": 693,
             "bank": "REPSOL, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "REPYESMM"
         },
         {
-            "id": 393,
+            "id": 694,
+            "bank": "RHEINHYP RHEINISCHE HYPOTHEKENBANK A.G.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "RHRHESM1"
+        },
+        {
+            "id": 695,
             "bank": "RIUSA II S.A.",
             "city": "PALMA DE MALLORCA",
             "branch": null,
             "swift_code": "RIUHES2M"
         },
         {
-            "id": 394,
+            "id": 696,
+            "bank": "RIVA Y GARCIA - 1877, SOCIEDAD DE VALORES, S.A.",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "RIGIESB1"
+        },
+        {
+            "id": 697,
             "bank": "ROCA SANITARIO, S. A.",
             "city": "BARCELONA",
             "branch": null,
             "swift_code": "GROCESBB"
         },
         {
-            "id": 395,
+            "id": 698,
+            "bank": "ROYAL BANK OF CANADA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "ROYCESM1"
+        },
+        {
+            "id": 699,
             "bank": "RURALNOSTRA, S. COOP. DE CREDITO V.",
             "city": "BETXI",
             "branch": null,
             "swift_code": "BCOEESMM138"
         },
         {
-            "id": 396,
+            "id": 700,
+            "bank": "S.E. BANKEN LUXEMBOURG S.A.",
+            "city": "SAN PEDRO DE ALCANTARA",
+            "branch": null,
+            "swift_code": "LUXEES21"
+        },
+        {
+            "id": 701,
+            "bank": "SAMSUNG ELECTRONICA ESPANOLA",
+            "city": "MADRID",
+            "branch": "(SESA)",
+            "swift_code": "SECTESM1470"
+        },
+        {
+            "id": 702,
+            "bank": "SAMSUNG ELECTRONICA ESPANOLA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "SECTESM1"
+        },
+        {
+            "id": 703,
             "bank": "SANTANDER ASSET MANAGEMENT, S.A.",
             "city": "BOADILLA DEL MONTE",
             "branch": null,
             "swift_code": "SAMXESMM"
         },
         {
-            "id": 397,
+            "id": 704,
             "bank": "SANTANDER ASSET MANAGEMENT, S.A. CIUDAD GRUPO SANTANDER",
             "city": "MADRID",
             "branch": "(AIM\/POMS SERVICE)",
             "swift_code": "SAMXESMB"
         },
         {
-            "id": 398,
+            "id": 705,
+            "bank": "SANTANDER BANCO EMISIONES",
+            "city": "BOADILLA DEL MONTE",
+            "branch": null,
+            "swift_code": "BSSSES31"
+        },
+        {
+            "id": 706,
+            "bank": "SANTANDER BANCO EMISIONES.TERCEROS OPENBANK",
+            "city": "BOADILLA DEL MONTE",
+            "branch": null,
+            "swift_code": "BSSSES21"
+        },
+        {
+            "id": 707,
             "bank": "SANTANDER BRASIL E.F.C. S.A.",
             "city": "BOADILLA DEL MONTE",
             "branch": null,
             "swift_code": "SBFCESMM"
         },
         {
-            "id": 399,
+            "id": 708,
             "bank": "SANTANDER CONSUMER FINANCE, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "SCFBESMM"
         },
         {
-            "id": 400,
+            "id": 709,
+            "bank": "SANTANDER INVESTMENT BOLSA, S.V., S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "SCHLESM1"
+        },
+        {
+            "id": 710,
             "bank": "SANTANDER INVESTMENT SERVICES S.A.",
             "city": "BOADILLA DEL MONTE",
             "branch": "(SANTANDER SECURITIES SERVICES)",
             "swift_code": "SABNESMMSSS"
         },
         {
-            "id": 401,
+            "id": 711,
             "bank": "SANTANDER INVESTMENT SERVICES S.A.",
             "city": "BOADILLA DEL MONTE",
             "branch": null,
             "swift_code": "SABNESMM"
         },
         {
-            "id": 402,
+            "id": 712,
             "bank": "SANTANDER PRIVATE BANKING GESTION,S.A., S.G.I.I.C.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "SPVGESMM"
         },
         {
-            "id": 403,
+            "id": 713,
             "bank": "SANTANDER SECURITIES SERVICES, S.A.",
             "city": "BOADILLA DEL MONTE",
             "branch": null,
             "swift_code": "BSSSESM2"
         },
         {
-            "id": 404,
+            "id": 714,
+            "bank": "SCHRODER SECURITIES SV SA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "SCSUESM1"
+        },
+        {
+            "id": 715,
+            "bank": "SEBROKER BOLSA AGENCIA DE VALORES, S A",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "SBAOESB1"
+        },
+        {
+            "id": 716,
+            "bank": "SEGURCAIXA SOCIEDAD ANONIMA DE SEGUROS Y REASEGUROS",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "SSAEESB1"
+        },
+        {
+            "id": 717,
             "bank": "SELF TRADE BANK",
             "city": "MADRID",
             "branch": null,
             "swift_code": "SELFESMM"
         },
         {
-            "id": 405,
+            "id": 718,
+            "bank": "SERVICIO DE PAGOS INTERBANCARIOS,S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "CAMMES21"
+        },
+        {
+            "id": 719,
+            "bank": "SG SECURITIES MADRID S.V.B., S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "SGSEESM1"
+        },
+        {
+            "id": 720,
+            "bank": "SIAGA S.V.B., S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "SIAGESM1"
+        },
+        {
+            "id": 721,
+            "bank": "SINERGIA ADVISORS 2006, A.V. S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "SIADESM1"
+        },
+        {
+            "id": 722,
             "bank": "SOCIEDAD ANONIMA INDUSTRIAS CELULOSA ARAGONESA",
             "city": "ZARAGOZA",
             "branch": null,
             "swift_code": "SAICES2Z"
         },
         {
-            "id": 406,
+            "id": 723,
             "bank": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
             "city": "MADRID",
             "branch": "(ANCILLARY SYSTEM)",
             "swift_code": "IBRCESMMASI"
         },
         {
-            "id": 407,
+            "id": 724,
             "bank": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
             "city": "MADRID",
             "branch": "(IBERCLEAR - MULTILATERAL GUARANTY ACCOUNT)",
             "swift_code": "IBRCESMMGAR"
         },
         {
-            "id": 408,
+            "id": 725,
             "bank": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
             "city": "MADRID",
             "branch": "(MIGRATION TO T2S)",
             "swift_code": "IBRCESMMMIG"
         },
         {
-            "id": 409,
+            "id": 726,
             "bank": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
             "city": "MADRID",
             "branch": "(OPERACIONES DE GESTION DE TESORERIA)",
             "swift_code": "IBRCESMMGTE"
         },
         {
-            "id": 410,
+            "id": 727,
             "bank": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
             "city": "MADRID",
             "branch": "(SENAF)",
             "swift_code": "IBRCESMMSNF"
         },
         {
-            "id": 411,
+            "id": 728,
             "bank": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
             "city": "MADRID",
             "branch": null,
             "swift_code": "IBRCESMM"
         },
         {
-            "id": 412,
+            "id": 729,
+            "bank": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "IBRCESM1AS2"
+        },
+        {
+            "id": 730,
             "bank": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
             "city": "MADRID",
             "branch": null,
             "swift_code": "IBRCESMMAS1"
         },
         {
-            "id": 413,
+            "id": 731,
             "bank": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
             "city": "MADRID",
             "branch": null,
             "swift_code": "IBRCESMMCDE"
         },
         {
-            "id": 414,
+            "id": 732,
             "bank": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
             "city": "MADRID",
             "branch": null,
             "swift_code": "IBRCESMMEF1"
         },
         {
-            "id": 415,
+            "id": 733,
             "bank": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
             "city": "MADRID",
             "branch": null,
             "swift_code": "IBRCESMMEF2"
         },
         {
-            "id": 416,
+            "id": 734,
             "bank": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
             "city": "MADRID",
             "branch": null,
             "swift_code": "IBRCESMMEN1"
         },
         {
-            "id": 417,
+            "id": 735,
             "bank": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
             "city": "MADRID",
             "branch": null,
             "swift_code": "IBRCESMMEN2"
         },
         {
-            "id": 418,
+            "id": 736,
             "bank": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
             "city": "MADRID",
             "branch": null,
             "swift_code": "IBRCESMMINV"
         },
         {
-            "id": 419,
+            "id": 737,
             "bank": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
             "city": "MADRID",
             "branch": null,
             "swift_code": "IBRCESMMISS"
         },
         {
-            "id": 420,
+            "id": 738,
             "bank": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
             "city": "MADRID",
             "branch": null,
             "swift_code": "IBRCESMMMVL"
         },
         {
-            "id": 421,
+            "id": 739,
             "bank": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
             "city": "MADRID",
             "branch": null,
             "swift_code": "IBRCESMMSCL"
         },
         {
-            "id": 422,
+            "id": 740,
             "bank": "SOCIEDAD ESPANOLA DE SISTEMAS DE PAGO, S.A.",
             "city": "MADRID",
             "branch": "(GARANTIAS)",
             "swift_code": "IPAYESMMGT1"
         },
         {
-            "id": 423,
+            "id": 741,
             "bank": "SOCIEDAD ESPANOLA DE SISTEMAS DE PAGO, S.A.",
             "city": "MADRID",
             "branch": "(SISTEMA VINCULADO)",
             "swift_code": "IPAYESMMAS1"
         },
         {
-            "id": 424,
+            "id": 742,
             "bank": "SOCIEDAD ESPANOLA DE SISTEMAS DE PAGO, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "IPAYESMM"
         },
         {
-            "id": 425,
+            "id": 743,
+            "bank": "SOCIEDAD ESTATAL CORREOS Y TELEGRAFOS, S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "COYTESM1"
+        },
+        {
+            "id": 744,
             "bank": "SOCIEDAD RECTORA BOLSA VALORES DE VALENCIA, SAU",
             "city": "VALENCIA",
             "branch": "(ANCILLARY SYSTEM)",
             "swift_code": "XRVVESVVSCL"
         },
         {
-            "id": 426,
+            "id": 745,
             "bank": "SOCIEDAD RECTORA BOLSA VALORES DE VALENCIA, SAU",
             "city": "VALENCIA",
             "branch": "(CUENTA DE GARANTIAS)",
             "swift_code": "XRVVESVVGAR"
         },
         {
-            "id": 427,
+            "id": 746,
             "bank": "SOCIEDAD RECTORA BOLSA VALORES DE VALENCIA, SAU",
             "city": "VALENCIA",
             "branch": null,
             "swift_code": "XRVVESVV"
         },
         {
-            "id": 428,
+            "id": 747,
             "bank": "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A.",
             "city": "BARCELONA",
             "branch": "(ANCIILARY SYSTEM)",
             "swift_code": "XBCNESBBSCL"
         },
         {
-            "id": 429,
+            "id": 748,
             "bank": "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A.",
             "city": "BARCELONA",
             "branch": "(EVENTOS CORPORATIVOS)",
             "swift_code": "XBCNESBBECO"
         },
         {
-            "id": 430,
+            "id": 749,
             "bank": "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A.",
             "city": "BARCELONA",
             "branch": "(LIBRO REGISTRO ACCIONISTAS)",
             "swift_code": "XBCNESBBLRA"
         },
         {
-            "id": 431,
+            "id": 750,
             "bank": "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A.",
             "city": "BARCELONA",
             "branch": "(SER. DE COMP. Y LIQ. BOLSA DE VALORES DE BARCELONA CUENTA GARANTIAS)",
             "swift_code": "XBCNESBBGAR"
         },
         {
-            "id": 432,
+            "id": 751,
             "bank": "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A.",
             "city": "BARCELONA",
             "branch": "(SISTEMAS DE GESTION)",
             "swift_code": "XBCNESBBSGX"
         },
         {
-            "id": 433,
+            "id": 752,
             "bank": "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BARCELONA S.A.",
             "city": "BARCELONA",
             "branch": null,
             "swift_code": "XBCNESBB"
         },
         {
-            "id": 434,
+            "id": 753,
             "bank": "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BILBAO, S.A.",
             "city": "BILBAO",
             "branch": "(ANCILLARY SYSTEM)",
             "swift_code": "XRBVES2BSCL"
         },
         {
-            "id": 435,
+            "id": 754,
             "bank": "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BILBAO, S.A.",
             "city": "BILBAO",
             "branch": "(LIQUIDACION CUENTA GARANTIA)",
             "swift_code": "XRBVES2BGAR"
         },
         {
-            "id": 436,
+            "id": 755,
             "bank": "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BILBAO, S.A.",
             "city": "BILBAO",
             "branch": null,
             "swift_code": "XRBVES2B"
         },
         {
-            "id": 437,
+            "id": 756,
+            "bank": "SOCIEDAD RECTORA DE LA BOLSA DE VALORES DE BILBAOS.A.",
+            "city": "BILBAO",
+            "branch": null,
+            "swift_code": "XBILES21"
+        },
+        {
+            "id": 757,
+            "bank": "SOCIETE FINANCIERE ET FONCIERE",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "SOFFESM1"
+        },
+        {
+            "id": 758,
+            "bank": "SOCIETE GENERALE VALORES",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "SGVLESM1"
+        },
+        {
+            "id": 759,
             "bank": "SOCIETE GENERALE, SUCURSAL EN ESPANA",
             "city": "BARCELONA",
             "branch": null,
             "swift_code": "SOGEESMMBAR"
         },
         {
-            "id": 438,
+            "id": 760,
             "bank": "SOCIETE GENERALE, SUCURSAL EN ESPANA",
             "city": "MADRID",
             "branch": "(MARKET BRANCH)",
             "swift_code": "SOGEESMMAGM"
         },
         {
-            "id": 439,
+            "id": 761,
             "bank": "SOCIETE GENERALE, SUCURSAL EN ESPANA",
             "city": "MADRID",
             "branch": "(SG MADRID TRADE SERVICES)",
             "swift_code": "SOGEESMMTRA"
         },
         {
-            "id": 440,
+            "id": 762,
             "bank": "SOCIETE GENERALE, SUCURSAL EN ESPANA",
             "city": "MADRID",
             "branch": null,
             "swift_code": "SOGEESMM"
         },
         {
-            "id": 441,
+            "id": 763,
+            "bank": "SOL MELIA, S.A.",
+            "city": "PALMA DE MALLORCA",
+            "branch": null,
+            "swift_code": "SOELES21"
+        },
+        {
+            "id": 764,
+            "bank": "STANDARD CHARTERED BANK",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "SCBLESM1"
+        },
+        {
+            "id": 765,
+            "bank": "STIFEL NICOLAUS LTD",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "STNCESM1"
+        },
+        {
+            "id": 766,
+            "bank": "SVENSKA HANDELSBANKEN AB",
+            "city": "MARBELLA",
+            "branch": null,
+            "swift_code": "HANDES21"
+        },
+        {
+            "id": 767,
             "bank": "SYNECTIC, TECNOLOGIAS DE LA INFORMACION SA.",
             "city": "BARCELONA",
             "branch": null,
             "swift_code": "AGBBESBB"
         },
         {
-            "id": 442,
+            "id": 768,
             "bank": "TARGOBANK,S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "POHIESMM"
         },
         {
-            "id": 443,
+            "id": 769,
             "bank": "TARGOBANK,S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "CMCIESMM"
         },
         {
-            "id": 444,
+            "id": 770,
             "bank": "TECNICAS REUNIDAS",
             "city": "MADRID",
             "branch": null,
             "swift_code": "TECRESMM"
         },
         {
-            "id": 445,
+            "id": 771,
             "bank": "TELEFONICA GESTION DE SERVICIOS COMPARTIDOS ESPANA",
             "city": "MADRID",
             "branch": null,
             "swift_code": "TEFGESMM"
         },
         {
-            "id": 446,
+            "id": 772,
             "bank": "TELEFONICA, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "TEFEESMM"
         },
         {
-            "id": 447,
+            "id": 773,
+            "bank": "TESORERIA GENERAL DE LA SEGURIDAD SOCIAL",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "TESSESM1"
+        },
+        {
+            "id": 774,
+            "bank": "TESORO PUBLICO TRASPASO DE DEPOSITOS",
+            "city": "MADRID",
+            "branch": "(COLATERAL SWAPS)",
+            "swift_code": "TESOESM1SWP"
+        },
+        {
+            "id": 775,
+            "bank": "TESORO PUBLICO TRASPASO DE DEPOSITOS",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "TESOESM1"
+        },
+        {
+            "id": 776,
             "bank": "TESORO PUBLICO-SPAIN SPANISH GOVERNMENT GOBIERNO DE ESPANA",
             "city": "MADRID",
             "branch": null,
             "swift_code": "TPSGESMM"
         },
         {
-            "id": 448,
+            "id": 777,
             "bank": "THE GB FOODS, S.A.",
             "city": "BARCELONA",
             "branch": null,
             "swift_code": "GBFSESBB"
         },
         {
-            "id": 449,
+            "id": 778,
             "bank": "THE ROYAL BANK OF SCOTLAND PLC SUCURSAL EN ESPANA (FORMERLY KNOWN AS RBS NV)",
             "city": "BARCELONA",
             "branch": null,
             "swift_code": "ABNAESMMBAR"
         },
         {
-            "id": 450,
+            "id": 779,
             "bank": "THE ROYAL BANK OF SCOTLAND PLC SUCURSAL EN ESPANA (FORMERLY KNOWN AS RBS NV)",
             "city": "MADRID",
             "branch": "(LOCAL ELECTRONIC BANKING)",
             "swift_code": "ABNAESMMLEB"
         },
         {
-            "id": 451,
+            "id": 780,
             "bank": "THE ROYAL BANK OF SCOTLAND PLC SUCURSAL EN ESPANA (FORMERLY KNOWN AS RBS NV)",
             "city": "MADRID",
             "branch": null,
             "swift_code": "ABNAESMM"
         },
         {
-            "id": 452,
+            "id": 781,
             "bank": "THE ROYAL BANK OF SCOTLAND PLC SUCURSAL EN ESPANA (FORMERLY KNOWN AS RBS NV)",
             "city": "MADRID",
             "branch": null,
             "swift_code": "ABNAESMMMAD"
         },
         {
-            "id": 453,
+            "id": 782,
+            "bank": "TOKYO SOCIEDAD DE VALORES Y BOLSA (ESPANA) S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "TSVBESM1"
+        },
+        {
+            "id": 783,
+            "bank": "TRESSIS, SV, SA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "TEESESM1"
+        },
+        {
+            "id": 784,
             "bank": "TRIODOS BANK NV, SE",
             "city": "MADRID",
             "branch": null,
             "swift_code": "TRIOESMM"
         },
         {
-            "id": 454,
+            "id": 785,
             "bank": "UBI BANCA INTERNATIONAL-SUCURSAL EN ESPANA",
             "city": "MADRID",
             "branch": null,
             "swift_code": "UBIBESMM"
         },
         {
-            "id": 455,
+            "id": 786,
             "bank": "UBS BANK, S.A.",
             "city": "MADRID",
             "branch": "(BRANCH)",
             "swift_code": "UBSWESMMNPB"
         },
         {
-            "id": 456,
+            "id": 787,
             "bank": "UBS BANK, S.A.",
             "city": "MADRID",
             "branch": "(SUCCURSAL EN ESPANA)",
             "swift_code": "UBSWESMM"
         },
         {
-            "id": 457,
+            "id": 788,
+            "bank": "UBS SECURITIES ESPANA SOCIEDAD DE VALORES SA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "UBSSESM1"
+        },
+        {
+            "id": 789,
+            "bank": "UCABAIL, S.E.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "UCSSESM1"
+        },
+        {
+            "id": 790,
             "bank": "UNICAJA BANCO, S.A.",
             "city": "MADRID",
             "branch": "(CTA GARANTIA)",
             "swift_code": "UCJAES2MGAR"
         },
         {
-            "id": 458,
+            "id": 791,
             "bank": "UNICAJA BANCO, S.A.",
             "city": "MALAGA",
             "branch": null,
             "swift_code": "UCJAES2M"
         },
         {
-            "id": 459,
+            "id": 792,
+            "bank": "UNICORP PATRIMONIO, SOCIEDAD DE VALORES, S.A.",
+            "city": "MALAGA",
+            "branch": null,
+            "swift_code": "UPSVES21"
+        },
+        {
+            "id": 793,
             "bank": "UNION CREDITO AND GUARANTEE SA",
             "city": "BARCELONA",
             "branch": null,
             "swift_code": "UCGAESBB"
         },
         {
-            "id": 460,
+            "id": 794,
             "bank": "UNION DE CREDITOS INMOBILIARIOS, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "UCINESMM"
         },
         {
-            "id": 461,
+            "id": 795,
+            "bank": "UNION FENOSA SA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "UNFEESM1"
+        },
+        {
+            "id": 796,
+            "bank": "UNOE BANK S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "UNOEESM1"
+        },
+        {
+            "id": 797,
             "bank": "URALITA, S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "URLAESMM"
         },
         {
-            "id": 462,
+            "id": 798,
+            "bank": "URQUIJO BOLSA Y VALORES S.V.B., S.A",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "UBAVESM1"
+        },
+        {
+            "id": 799,
             "bank": "URSA INSULATION S.A.",
             "city": "MADRID",
             "branch": null,
             "swift_code": "URSNESMM"
         },
         {
-            "id": 463,
+            "id": 800,
+            "bank": "URSUS-3CAPITAL A.V, S.A.",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "URSUESM1"
+        },
+        {
+            "id": 801,
+            "bank": "USATEGI INVERSIONES SICAV SA",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "USISESB1"
+        },
+        {
+            "id": 802,
+            "bank": "VIDACAIXA, S.A DE SEGUROS Y REASEGUROS",
+            "city": "BARCELONA",
+            "branch": null,
+            "swift_code": "VDCAESB1"
+        },
+        {
+            "id": 803,
+            "bank": "VOLKSWAGEN BANK GMBH SPANISH BRANCH",
+            "city": "ALCOBENDAS",
+            "branch": null,
+            "swift_code": "VOWAES21"
+        },
+        {
+            "id": 804,
             "bank": "VUELING AIRLINES S.A",
             "city": "BARCELONA",
             "branch": null,
             "swift_code": "VLNGESBB"
         },
         {
-            "id": 464,
+            "id": 805,
+            "bank": "WAFABANK",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "WAFAESM1"
+        },
+        {
+            "id": 806,
+            "bank": "X-TRADE BROKERS DM S.A. SUCURSAL EN ESPANA",
+            "city": "MADRID",
+            "branch": null,
+            "swift_code": "TBESESM1"
+        },
+        {
+            "id": 807,
+            "bank": "XUNTA DE GALICIA",
+            "city": "SANTIAGO DE COMPOSTELA",
+            "branch": null,
+            "swift_code": "CAGCES21"
+        },
+        {
+            "id": 808,
             "bank": "ZURICH INSURANCE PLC. SUCURSAL EN ESPANA",
             "city": "BARCELONA",
             "branch": null,

@@ -18,27 +18,48 @@
         },
         {
             "id": 3,
+            "bank": "BRITISH AMERICAN TOBACCO (SAMOA) LIMITED",
+            "city": "APIA",
+            "branch": null,
+            "swift_code": "BATSWSA1"
+        },
+        {
+            "id": 4,
             "bank": "CENTRAL BANK OF SAMOA",
             "city": "APIA",
             "branch": null,
             "swift_code": "CBSAWSWS"
         },
         {
-            "id": 4,
+            "id": 5,
+            "bank": "INDEPENDENT INVESTMENT BANK LTD.",
+            "city": "APIA",
+            "branch": null,
+            "swift_code": "ININWSW1"
+        },
+        {
+            "id": 6,
+            "bank": "INTERNATIONAL BUSINESS BANK CORPORATION LTD.",
+            "city": "APIA",
+            "branch": null,
+            "swift_code": "IBBIWSW1"
+        },
+        {
+            "id": 7,
             "bank": "NATIONAL BANK OF SAMOA LIMITED",
             "city": "APIA",
             "branch": null,
             "swift_code": "NBSLWSWS"
         },
         {
-            "id": 5,
+            "id": 8,
             "bank": "PACIFIC TRADE BANK SAMOA",
             "city": "APIA",
             "branch": null,
             "swift_code": "PTRMWSWS"
         },
         {
-            "id": 6,
+            "id": 9,
             "bank": "SAMOA COMMERCIAL BANK LIMITED",
             "city": "APIA",
             "branch": null,

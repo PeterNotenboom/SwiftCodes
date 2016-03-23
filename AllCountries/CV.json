@@ -53,48 +53,62 @@
         },
         {
             "id": 8,
+            "bank": "BANCO INSULAR (I.F.I) S.A.R.L.",
+            "city": "PRAIA",
+            "branch": null,
+            "swift_code": "BILRCVC1"
+        },
+        {
+            "id": 9,
             "bank": "BANCO INTERATLANTICO, SARL",
             "city": "PRAIA",
             "branch": null,
             "swift_code": "CGDICVCP"
         },
         {
-            "id": 9,
+            "id": 10,
             "bank": "BANCO INTERNACIONAL DE CABO VERDE, SA (FORMERLY BANCO ESPIRITO SANTO DE CABO VERDE, SA)",
             "city": "PRAIA",
             "branch": null,
             "swift_code": "BESCCVCP"
         },
         {
-            "id": 10,
+            "id": 11,
             "bank": "BANCO PRIVADO INTERNACIONAL (IFI)",
             "city": "PRAIA",
             "branch": null,
             "swift_code": "PRIFCVCV"
         },
         {
-            "id": 11,
+            "id": 12,
             "bank": "BCN-BANCO CABOVERDIANO DE NEGOCIOS SA",
             "city": "PRAIA",
             "branch": null,
             "swift_code": "CANBCVCV"
         },
         {
-            "id": 12,
+            "id": 13,
+            "bank": "BPN CABO VERDE IFI",
+            "city": "PRAIA",
+            "branch": null,
+            "swift_code": "BPNCCVC1"
+        },
+        {
+            "id": 14,
             "bank": "CAIXA ECONOMICA DE CABO VERDE, SA",
             "city": "PRAIA",
             "branch": null,
             "swift_code": "CXECCVCV"
         },
         {
-            "id": 13,
+            "id": 15,
             "bank": "ECOBANK CABO VERDE",
             "city": "PRAIA",
             "branch": null,
             "swift_code": "ECOCCVCV"
         },
         {
-            "id": 14,
+            "id": 16,
             "bank": "NOVO BANCO SA",
             "city": "PRAIA",
             "branch": null,

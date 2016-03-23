@@ -18,17 +18,66 @@
         },
         {
             "id": 3,
+            "bank": "BANQUE PARIBAS POLYNESIE",
+            "city": "PAPEETE",
+            "branch": null,
+            "swift_code": "PARBPFT1"
+        },
+        {
+            "id": 4,
             "bank": "CAISSE DES DEPOTS ET CONSIGNATIONS",
             "city": "PAPEETE",
             "branch": null,
             "swift_code": "CDCGPFTP"
         },
         {
-            "id": 4,
+            "id": 5,
+            "bank": "IEOM PAPEETE",
+            "city": "PAPEETE",
+            "branch": null,
+            "swift_code": "INDDPFT1"
+        },
+        {
+            "id": 6,
+            "bank": "OCEANIENNE DE FINANCEMENT",
+            "city": "PAPEETE",
+            "branch": null,
+            "swift_code": "OCFOPFT1"
+        },
+        {
+            "id": 7,
+            "bank": "OCEOR LEASE TAHITI",
+            "city": "PAPEETE",
+            "branch": null,
+            "swift_code": "OCLTPFT1"
+        },
+        {
+            "id": 8,
+            "bank": "OFFICE POSTES ET TELECOM DE POLYNESIE FR",
+            "city": "FAAA",
+            "branch": null,
+            "swift_code": "OFTPPFT1"
+        },
+        {
+            "id": 9,
             "bank": "SOCREDO",
             "city": "PAPEETE",
             "branch": null,
             "swift_code": "SOCBPFTX"
+        },
+        {
+            "id": 10,
+            "bank": "SOGELEASE BDP",
+            "city": "PAPEETE",
+            "branch": null,
+            "swift_code": "SOGDPFT1"
+        },
+        {
+            "id": 11,
+            "bank": "TRESOR PUBLIC PAPEETE",
+            "city": "PAPEETE",
+            "branch": null,
+            "swift_code": "TRPUPFT1"
         }
     ]
 }

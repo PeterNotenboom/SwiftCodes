@@ -4,27 +4,41 @@
     "list": [
         {
             "id": 1,
+            "bank": "BORDIER INTERNATIONAL BANK AND TRUST LTD.",
+            "city": "PROVIDENCIALES",
+            "branch": null,
+            "swift_code": "BIBTTCG1"
+        },
+        {
+            "id": 2,
             "bank": "BRITISH CARIBBEAN BANK LIMITED",
             "city": "PROVIDENCIALES",
             "branch": null,
             "swift_code": "BCBATCGP"
         },
         {
-            "id": 2,
+            "id": 3,
+            "bank": "FIRST NATIONAL BANK LIMITED",
+            "city": "PROVIDENCIALES",
+            "branch": null,
+            "swift_code": "FTNLTCG1"
+        },
+        {
+            "id": 4,
             "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS) LIMITED, TURKS AND CAICOS",
             "city": "PROVIDENCIALES",
             "branch": null,
             "swift_code": "FCIBTCGP"
         },
         {
-            "id": 3,
+            "id": 5,
             "bank": "SCOTIABANK (TURKS AND CAICOS) LTD",
             "city": "PROVIDENCIALES",
             "branch": null,
             "swift_code": "NOSCTCGP"
         },
         {
-            "id": 4,
+            "id": 6,
             "bank": "TURKS AND CAICOS BANKING CO. LTD",
             "city": "GRAND TURK",
             "branch": null,

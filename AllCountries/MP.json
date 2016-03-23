@@ -1,0 +1,27 @@
+{
+    "country": "Northern Mariana Islands",
+    "country_code": "MP",
+    "list": [
+        {
+            "id": 1,
+            "bank": "BANK OF GUAM",
+            "city": "SAIPAN",
+            "branch": null,
+            "swift_code": "GMBKMPM1"
+        },
+        {
+            "id": 2,
+            "bank": "BANK OF HAWAII",
+            "city": "SAIPAN",
+            "branch": null,
+            "swift_code": "BOHIMPM1"
+        },
+        {
+            "id": 3,
+            "bank": "BANK OF SAIPAN",
+            "city": "SAIPAN",
+            "branch": null,
+            "swift_code": "BSAIMPM1"
+        }
+    ]
+}

@@ -60,13 +60,20 @@
         },
         {
             "id": 9,
+            "bank": "COMMERCIAL BANK GUINEA ECUATORIAL",
+            "city": "MALABO",
+            "branch": null,
+            "swift_code": "CBGMGQG1"
+        },
+        {
+            "id": 10,
             "bank": "ECOBANK GUINEE EQUATORIALE",
             "city": "MALABO",
             "branch": null,
             "swift_code": "ECOCGQGQ"
         },
         {
-            "id": 10,
+            "id": 11,
             "bank": "SOCIETE GENERALE DE BANQUE EN GUINEE EQUATORIALE",
             "city": "MALABO",
             "branch": null,

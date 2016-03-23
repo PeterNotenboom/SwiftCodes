@@ -53,62 +53,90 @@
         },
         {
             "id": 8,
+            "bank": "BANQUE NATIONALE DE DEVELOPPEMENT",
+            "city": "OUAGADOUGOU",
+            "branch": null,
+            "swift_code": "NDEVBFB1"
+        },
+        {
+            "id": 9,
+            "bank": "BANQUE POUR LE FINANCEMENT DU COMMERCE ET DES INVESTISSEMENTS DU BURKINA",
+            "city": "OUAGADOUGOU",
+            "branch": null,
+            "swift_code": "BFCBBFB1"
+        },
+        {
+            "id": 10,
             "bank": "BANQUE SAHELO-SAHARIENNE POUR L'INVESTISSEMENT ET LE COMMERCE (BURKINA FASO) S.A.",
             "city": "OUAGADOUGOU",
             "branch": null,
             "swift_code": "BSAHBFBF"
         },
         {
-            "id": 9,
+            "id": 11,
             "bank": "BICIA DU BURKINA",
             "city": "OUAGADOUGOU",
             "branch": null,
             "swift_code": "BICIBFBX"
         },
         {
-            "id": 10,
+            "id": 12,
+            "bank": "CAISSE CENTRALE DE COOPERATION ECONOMIQUE",
+            "city": "OUAGADOUGOU",
+            "branch": null,
+            "swift_code": "CCECBFB1"
+        },
+        {
+            "id": 13,
             "bank": "CBAO GROUPE ATTIJARIWAFA BANK BURKINA FASO",
             "city": "OUAGADOUGOU",
             "branch": null,
             "swift_code": "CBAOBFBG"
         },
         {
-            "id": 11,
+            "id": 14,
             "bank": "CORIS BANK INTERNATIONAL",
             "city": "OUAGADOUGOU",
             "branch": null,
             "swift_code": "CORIBFBF"
         },
         {
-            "id": 12,
+            "id": 15,
+            "bank": "DEPOSITAIRE CENTRAL-BANQUE DE REGLEMENT (DCBR BURKINA FASO)",
+            "city": "OUAGADOUGOU",
+            "branch": null,
+            "swift_code": "DCRCBFB1"
+        },
+        {
+            "id": 16,
             "bank": "ECOBANK BURKINA",
             "city": "OUAGADOUGOU",
             "branch": null,
             "swift_code": "ECOCBFBF"
         },
         {
-            "id": 13,
+            "id": 17,
             "bank": "LA BANQUE AGRICOLE ET COMMERCIALE DU BURKINA (BACB),LA",
             "city": "OUAGADOUGOU",
             "branch": null,
             "swift_code": "CNCBBFBF"
         },
         {
-            "id": 14,
+            "id": 18,
             "bank": "ORABANK BURKINA-FASO",
             "city": "OUAGADOUGOU",
             "branch": null,
             "swift_code": "ORBKBFBF"
         },
         {
-            "id": 15,
+            "id": 19,
             "bank": "SOCIETE GENERALE DE BANQUES AU BURKINA 'SGBB'",
             "city": "OUAGADOUGOU",
             "branch": null,
             "swift_code": "SGBBBFBF"
         },
         {
-            "id": 16,
+            "id": 20,
             "bank": "UBA BURKINA",
             "city": "OUAGADOUGOU",
             "branch": null,

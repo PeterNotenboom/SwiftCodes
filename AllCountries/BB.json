@@ -25,115 +25,185 @@
         },
         {
             "id": 4,
+            "bank": "BARBADOS CENTRAL SECURITIES DEPOSITORY INC.",
+            "city": "BRIDGETOWN",
+            "branch": null,
+            "swift_code": "BCSDBBB1"
+        },
+        {
+            "id": 5,
             "bank": "CARIBBEAN DEVELOPMENT BANK",
             "city": "ST. MICHAEL",
             "branch": null,
             "swift_code": "CDEVBBBB"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "CENTRAL BANK OF BARBADOS",
             "city": "BRIDGETOWN",
             "branch": null,
             "swift_code": "CBABBBBB"
         },
         {
-            "id": 6,
+            "id": 7,
+            "bank": "CENTRAL BANK OF BARBADOS",
+            "city": "BRIDGETOWN",
+            "branch": null,
+            "swift_code": "CBABBBB1ACC"
+        },
+        {
+            "id": 8,
+            "bank": "CENTRAL BANK OF BARBADOS",
+            "city": "BRIDGETOWN",
+            "branch": null,
+            "swift_code": "CBABBBB1BSE"
+        },
+        {
+            "id": 9,
             "bank": "CENTRAL BANK OF BARBADOS",
             "city": "BRIDGETOWN",
             "branch": null,
             "swift_code": "CBABBBBG"
         },
         {
-            "id": 7,
+            "id": 10,
             "bank": "CIBC OFFSHORE BANKING SERVICES CORPORATION",
             "city": "ST. MICHAEL",
             "branch": null,
             "swift_code": "COBVBBBB"
         },
         {
-            "id": 8,
+            "id": 11,
+            "bank": "CIBC TRUST AND MERCHANT BANK (BARBADOS) LIMITED",
+            "city": "BRIDGETOWN",
+            "branch": null,
+            "swift_code": "CTMBBBB1"
+        },
+        {
+            "id": 12,
             "bank": "CIDEL BANK AND TRUST INC.",
             "city": "ST. MICHAEL",
             "branch": null,
             "swift_code": "CTBLBBBB"
         },
         {
-            "id": 9,
+            "id": 13,
             "bank": "CITICORP MERCHANT BANK LIMITED",
             "city": "ST. MICHAEL",
             "branch": null,
             "swift_code": "CITIBBBB"
         },
         {
-            "id": 10,
+            "id": 14,
+            "bank": "CONSOLIDATED FINANCE CO LIMITED",
+            "city": "CHRISTCHURCH",
+            "branch": null,
+            "swift_code": "CNFIBBB1"
+        },
+        {
+            "id": 15,
             "bank": "CONTINENTAL BANK CORP",
             "city": "ST. MICHAEL",
             "branch": null,
             "swift_code": "CCONBBBB"
         },
         {
-            "id": 11,
+            "id": 16,
+            "bank": "DGM BANK AND TRUST INC.",
+            "city": "BRIDGETOWN",
+            "branch": null,
+            "swift_code": "DGRRBBB1"
+        },
+        {
+            "id": 17,
             "bank": "FIRST CITIZENS BANK (BARBADOS) LTD. THE MUTUAL BUILDING",
             "city": "BRIDGETOWN",
             "branch": null,
             "swift_code": "FCTTBBBB"
         },
         {
-            "id": 12,
+            "id": 18,
             "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (OFFSHORE) LIMITED",
             "city": "CHRISTCHURCH",
             "branch": null,
             "swift_code": "FCIBBBB2"
         },
         {
-            "id": 13,
+            "id": 19,
             "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK LIMITED",
             "city": "ST. MICHAEL",
             "branch": null,
             "swift_code": "FCIBBBBB"
         },
         {
-            "id": 14,
+            "id": 20,
+            "bank": "GLENHURON BANK LTD",
+            "city": "BRIDGETOWN",
+            "branch": null,
+            "swift_code": "GLEBBBB1"
+        },
+        {
+            "id": 21,
             "bank": "J AND T BANK AND TRUST",
             "city": "BRIDGETOWN",
             "branch": null,
             "swift_code": "JTBTBBBB"
         },
         {
-            "id": 15,
+            "id": 22,
             "bank": "MANUFACTURERS LIFE REINSURANCE LIMITED",
             "city": "ST. MICHAEL",
             "branch": null,
             "swift_code": "MFCTBBBB"
         },
         {
-            "id": 16,
+            "id": 23,
+            "bank": "MERCOM BANK LIMITED",
+            "city": "BRIDGETOWN",
+            "branch": null,
+            "swift_code": "MERMBBB1"
+        },
+        {
+            "id": 24,
             "bank": "OCCIDENTAL BANK BARBADOS (LTD)",
             "city": "ST. MICHAEL",
             "branch": null,
             "swift_code": "OCCIBBBB"
         },
         {
-            "id": 17,
+            "id": 25,
             "bank": "RBC BARBADOS TRADING BANK CORPORATION",
             "city": "ST. MICHAEL",
             "branch": null,
             "swift_code": "RBTOBBBB"
         },
         {
-            "id": 18,
+            "id": 26,
             "bank": "RBC ROYAL BANK (BARBADOS) LIMITED",
             "city": "BRIDGETOWN",
             "branch": null,
             "swift_code": "ROYCBBBB"
         },
         {
-            "id": 19,
+            "id": 27,
             "bank": "REPUBLIC BANK (BARBADOS) LIMITED",
             "city": "BRIDGETOWN",
             "branch": null,
             "swift_code": "BNBABBBB"
+        },
+        {
+            "id": 28,
+            "bank": "ROYAL BANK OF CANADA (CARIBBEAN) CORPORATION",
+            "city": "ST. MICHAEL",
+            "branch": null,
+            "swift_code": "RCCABBB1"
+        },
+        {
+            "id": 29,
+            "bank": "TRANSCOM BANK (BARBADOS) LTD.",
+            "city": "BRIDGETOWN",
+            "branch": null,
+            "swift_code": "TRBOBBB1"
         }
     ]
 }

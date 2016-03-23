@@ -32,24 +32,52 @@
         },
         {
             "id": 5,
+            "bank": "CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL DE LA REUNION",
+            "city": "SAINT DENIS",
+            "branch": null,
+            "swift_code": "CGRARER1"
+        },
+        {
+            "id": 6,
             "bank": "CREDIT AGRICOLE",
             "city": "LE PORT",
             "branch": null,
             "swift_code": "AGRIRERXLEO"
         },
         {
-            "id": 6,
+            "id": 7,
             "bank": "CREDIT AGRICOLE",
             "city": "SAINT DENIS",
             "branch": null,
             "swift_code": "AGRIRERX"
         },
         {
-            "id": 7,
+            "id": 8,
             "bank": "CREDIT AGRICOLE",
             "city": "SAINT LOUIS",
             "branch": "(LA REUNION BRANCH)",
             "swift_code": "AGRIRERXSNL"
+        },
+        {
+            "id": 9,
+            "bank": "OCEOR LEASE REUNION",
+            "city": "SAINT DENIS",
+            "branch": null,
+            "swift_code": "OCLRRER1"
+        },
+        {
+            "id": 10,
+            "bank": "SOCIETE FINANCIERE POUR LE DEVELOPPEMENT DE LA REUNION",
+            "city": "SAINT DENIS",
+            "branch": null,
+            "swift_code": "SODIRER1"
+        },
+        {
+            "id": 11,
+            "bank": "SOCIETE REUNIONNAISE DE FINT-SOREFI",
+            "city": "SAINT DENIS",
+            "branch": null,
+            "swift_code": "SORFRER1"
         }
     ]
 }

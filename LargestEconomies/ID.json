@@ -4,3216 +4,5372 @@
     "list": [
         {
             "id": 1,
+            "bank": "ABADI PRISMA EKAMANDIRI, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "ABPEIDJ1"
+        },
+        {
+            "id": 2,
+            "bank": "ABADI SEKURITAS ADIMASA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "ABSDIDJ1"
+        },
+        {
+            "id": 3,
+            "bank": "ADITHYA SECURINVEST, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "ADISIDJ1"
+        },
+        {
+            "id": 4,
+            "bank": "AGRIDHANASATYA PERMATA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "AGRPIDJ1"
+        },
+        {
+            "id": 5,
+            "bank": "AGUNG CAHAYA CENDANA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "AGCCIDJ1"
+        },
+        {
+            "id": 6,
+            "bank": "AGUNG SECURITIES INDONESIA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "AGSIIDJ1"
+        },
+        {
+            "id": 7,
+            "bank": "AKSARA KENCANA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "AKSKIDJ1"
+        },
+        {
+            "id": 8,
+            "bank": "AKSARA KENCANA, PT",
+            "city": "SURABAYA",
+            "branch": null,
+            "swift_code": "AKSKIDJ10JD"
+        },
+        {
+            "id": 9,
+            "bank": "ALDIRACITA CORPOTAMA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "ALDCIDJ1"
+        },
+        {
+            "id": 10,
+            "bank": "AMCAPITAL INDONESIA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "AMIDIDJ1"
+        },
+        {
+            "id": 11,
+            "bank": "AMCOL SEKURINDO, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "AMCEIDJ1"
+        },
+        {
+            "id": 12,
+            "bank": "AMSINDO NUSANTARA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "AMSNIDJ1"
+        },
+        {
+            "id": 13,
+            "bank": "ANEKA KELOLADANA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "ANEKIDJ1"
+        },
+        {
+            "id": 14,
+            "bank": "ANEKAREKSA SECURITIES CORP, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "ANESIDJ1"
+        },
+        {
+            "id": 15,
+            "bank": "ANTAR DHANA MASA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "ANDMIDJ1"
+        },
+        {
+            "id": 16,
+            "bank": "ANUGERAH SECURINDO INDAH, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "ANSIIDJ1"
+        },
+        {
+            "id": 17,
+            "bank": "APERDI, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "APERIDJ1"
+        },
+        {
+            "id": 18,
+            "bank": "ARBUTHNOT LATHAM BANK LTD.",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "ALABIDJ1"
+        },
+        {
+            "id": 19,
+            "bank": "ARGA ARTHA SECURITAS, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "ARAEIDJ1"
+        },
+        {
+            "id": 20,
+            "bank": "ARTA GITASEJAHTERA SEKURITAS, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "ARGSIDJ1"
+        },
+        {
+            "id": 21,
+            "bank": "ARTHA ADYANUGRAHA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "ARTDIDJ1"
+        },
+        {
+            "id": 22,
+            "bank": "ARTHA DWIPA PERSADA PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "ARDPIDJ1"
+        },
+        {
+            "id": 23,
+            "bank": "ARTHA SECURITIES PRIMA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "ARSRIDJ1"
+        },
+        {
+            "id": 24,
+            "bank": "ARYA PRADA SEKURITAS, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "ARPSIDJ1"
+        },
+        {
+            "id": 25,
+            "bank": "ARYA SHINTA FINANCE",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "ARSFIDJ1"
+        },
+        {
+            "id": 26,
+            "bank": "ASEAM INDONESIA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "ASEIIDJ1"
+        },
+        {
+            "id": 27,
+            "bank": "ASIA KAPITALINDO, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "ASITIDJ1"
+        },
+        {
+            "id": 28,
+            "bank": "ASIAN DEVELOPMENT BANK",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "ASDBIDJ1"
+        },
+        {
+            "id": 29,
+            "bank": "ASIANA SECURITIES, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "ASIUIDJ1"
+        },
+        {
+            "id": 30,
+            "bank": "ASJAYA INDOSURYA SECURITIES, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "ASNSIDJ1"
+        },
+        {
+            "id": 31,
+            "bank": "ASPAC UPPINDO,PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "ASPUIDJ1"
+        },
+        {
+            "id": 32,
+            "bank": "ASPRINA PRIMA SENTOSA,PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "ASPNIDJ1"
+        },
+        {
+            "id": 33,
+            "bank": "ASTRA SECURITIES,PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "ASTSIDJ1"
+        },
+        {
+            "id": 34,
+            "bank": "BAHAMINDO GUNA",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "BAHGIDJ1"
+        },
+        {
+            "id": 35,
+            "bank": "BAHANA SECURITIES, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "BAEUIDJ1"
+        },
+        {
+            "id": 36,
+            "bank": "BAKRIE SECURITIES",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "BAKSIDJ1"
+        },
+        {
+            "id": 37,
             "bank": "BANGKOK BANK PUBLIC COMPANY LIMITED",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "BKKBIDJA"
         },
         {
-            "id": 2,
+            "id": 38,
+            "bank": "BANK AGUNG ASIA",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "AGASIDJ1"
+        },
+        {
+            "id": 39,
             "bank": "BANK ANTARDAERAH",
             "city": "SURABAYA",
             "branch": null,
             "swift_code": "ANTDIDJD"
         },
         {
-            "id": 3,
+            "id": 40,
             "bank": "BANK ANZ INDONESIA, P.T.",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "ANZBIDJX"
         },
         {
-            "id": 4,
+            "id": 41,
+            "bank": "BANK ARTA NIAGA KENCANA",
+            "city": "SURABAYA",
+            "branch": null,
+            "swift_code": "ARNKIDJ1"
+        },
+        {
+            "id": 42,
             "bank": "BANK ARTHA GRAHA INTERNASIONAL TBK, PT",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "ARTGIDJA"
         },
         {
-            "id": 5,
+            "id": 43,
             "bank": "BANK BNP PARIBAS INDONESIA, PT",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "BNPAIDJA"
         },
         {
-            "id": 6,
+            "id": 44,
             "bank": "BANK CENTRAL ASIA",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "CENAIDJA"
         },
         {
-            "id": 7,
+            "id": 45,
             "bank": "BANK CTBC INDONESIA, PT",
             "city": "BANDUNG",
             "branch": "(BANDUNG BRANCH)",
             "swift_code": "CTCBIDJABDG"
         },
         {
-            "id": 8,
+            "id": 46,
             "bank": "BANK CTBC INDONESIA, PT",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "CTCBIDJA"
         },
         {
-            "id": 9,
+            "id": 47,
             "bank": "BANK CTBC INDONESIA, PT",
             "city": "SURABAYA",
             "branch": "(SURABAYA BRANCH)",
             "swift_code": "CTCBIDJASBY"
         },
         {
-            "id": 10,
+            "id": 48,
             "bank": "BANK DBS INDONESIA, PT",
             "city": "JAKARTA",
             "branch": "(JAKARTA BRANCH)",
             "swift_code": "DBSBIDJAIBD"
         },
         {
-            "id": 11,
+            "id": 49,
             "bank": "BANK DBS INDONESIA, PT",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "DBSBIDJA"
         },
         {
-            "id": 12,
+            "id": 50,
             "bank": "BANK DBS INDONESIA, PT",
             "city": "SURABAYA",
             "branch": "(SYRABAYA BRANCH)",
             "swift_code": "DBSBIDJASBY"
         },
         {
-            "id": 13,
+            "id": 51,
             "bank": "BANK DBS INDONESIA, PT",
             "city": "SURABAYA",
             "branch": "(SYRABAYA BRANCH)",
             "swift_code": "DBSBIDJASBY"
         },
         {
-            "id": 14,
+            "id": 52,
             "bank": "BANK DKI, PT.",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "BDKIIDJA"
         },
         {
-            "id": 15,
+            "id": 53,
             "bank": "BANK EKONOMI RAHARJA PT.",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "EKONIDJA"
         },
         {
-            "id": 16,
+            "id": 54,
             "bank": "BANK INDONESIA",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "INDOIDJA"
         },
         {
-            "id": 17,
+            "id": 55,
+            "bank": "BANK JASA ARTA PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "DJARIDJ1"
+        },
+        {
+            "id": 56,
+            "bank": "BANK KESAWAN PT TBK",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "KESBIDS1"
+        },
+        {
+            "id": 57,
             "bank": "BANK MANDIRI (PERSERO), PT",
             "city": "BANDUNG",
             "branch": "(BILLS PROCESSING CENTER BANDUNG)",
             "swift_code": "BMRIIDJA852"
         },
         {
-            "id": 18,
+            "id": 58,
             "bank": "BANK MANDIRI (PERSERO), PT",
             "city": "JAKARTA",
             "branch": "(BILLS PROCESSING CENTER JAKARTA)",
             "swift_code": "BMRIIDJA107"
         },
         {
-            "id": 19,
+            "id": 59,
             "bank": "BANK MANDIRI (PERSERO), PT",
             "city": "JAKARTA",
             "branch": "(HEAD OFFICE-CUSTODIAL SERVICES)",
             "swift_code": "BMRIIDJACUS"
         },
         {
-            "id": 20,
+            "id": 60,
             "bank": "BANK MANDIRI (PERSERO), PT",
             "city": "JAKARTA",
             "branch": "(HEAD OFFICE-EXPORT\/IMPORT DEPT)",
             "swift_code": "BMRIIDJAEXM"
         },
         {
-            "id": 21,
+            "id": 61,
             "bank": "BANK MANDIRI (PERSERO), PT",
             "city": "JAKARTA",
             "branch": "(HEAD OFFICE-SETTLEMENT DEPT)",
             "swift_code": "BMRIIDJASTL"
         },
         {
-            "id": 22,
+            "id": 62,
             "bank": "BANK MANDIRI (PERSERO), PT",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "BMRIIDJA"
         },
         {
-            "id": 23,
+            "id": 63,
             "bank": "BANK MANDIRI (PERSERO), PT",
             "city": "MEDAN",
             "branch": "(BILLS PROCESSING CENTER MEDAN)",
             "swift_code": "BMRIIDJA853"
         },
         {
-            "id": 24,
+            "id": 64,
             "bank": "BANK MANDIRI (PERSERO), PT",
             "city": "SEMARANG",
             "branch": "(BILLS PROCESSING CENTER SEMARANG)",
             "swift_code": "BMRIIDJA854"
         },
         {
-            "id": 25,
+            "id": 65,
             "bank": "BANK MANDIRI (PERSERO), PT",
             "city": "SURABAYA",
             "branch": "(BILLS PROCESSING CENTER SURABAYA)",
             "swift_code": "BMRIIDJA851"
         },
         {
-            "id": 26,
+            "id": 66,
+            "bank": "BANK MAYINDO PERTAMA",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "MAPEIDJ1"
+        },
+        {
+            "id": 67,
             "bank": "BANK MEGA PT",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "MEGAIDJA"
         },
         {
-            "id": 27,
+            "id": 68,
+            "bank": "BANK MEGA PT. TBK.",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "KBNKIDJ1"
+        },
+        {
+            "id": 69,
             "bank": "BANK MESTIKA DHARMA",
             "city": "MEDAN",
             "branch": null,
             "swift_code": "BMDMIDJA"
         },
         {
-            "id": 28,
+            "id": 70,
             "bank": "BANK METRO EXPRESS",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "MEEKIDJA"
         },
         {
-            "id": 29,
+            "id": 71,
+            "bank": "BANK MITRANIAGA PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "MGABIDJ1"
+        },
+        {
+            "id": 72,
             "bank": "BANK MIZUHO INDONESIA, PT.",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "MHCCIDJA"
         },
         {
-            "id": 30,
+            "id": 73,
+            "bank": "BANK NASIONAL",
+            "city": "BUKITTINGGI",
+            "branch": null,
+            "swift_code": "NBNKIDJ1"
+        },
+        {
+            "id": 74,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "AMBON",
             "branch": "(AMBON BRANCH)",
             "swift_code": "BNINIDJAABN"
         },
         {
-            "id": 31,
+            "id": 75,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BALIGE",
             "branch": "(BALIGE BRANCH)",
             "swift_code": "BNINIDJABLG"
         },
         {
-            "id": 32,
+            "id": 76,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BALIKPAPAN",
             "branch": "(BALIKPAPAN BRANCH)",
             "swift_code": "BNINIDJABPN"
         },
         {
-            "id": 33,
+            "id": 77,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BALIKPAPAN",
             "branch": "(PANDANSARI BRANCH)",
             "swift_code": "BNINIDJAPSB"
         },
         {
-            "id": 34,
+            "id": 78,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BANDA ACEH",
             "branch": "(BANDA ACEH BRANCH)",
             "swift_code": "BNINIDJABDA"
         },
         {
-            "id": 35,
+            "id": 79,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BANDAR LAMPUNG",
             "branch": "(BANDAR LAMPUNG BRANCH)",
             "swift_code": "BNINIDJABDL"
         },
         {
-            "id": 36,
+            "id": 80,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BANDUNG",
             "branch": "(AHMAD YANI BRANCH)",
             "swift_code": "BNINIDJAAYI"
         },
         {
-            "id": 37,
+            "id": 81,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BANDUNG",
             "branch": "(BANDUNG BRANCH)",
             "swift_code": "BNINIDJABDG"
         },
         {
-            "id": 38,
+            "id": 82,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BANDUNG",
             "branch": "(IKIP BANDUNG BRANCH)",
             "swift_code": "BNINIDJAIKB"
         },
         {
-            "id": 39,
+            "id": 83,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BANDUNG",
             "branch": "(ITB BRANCH)",
             "swift_code": "BNINIDJAITB"
         },
         {
-            "id": 40,
+            "id": 84,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BANDUNG",
             "branch": "(JALAN JENDRAL SUDIRMAN BRANCH)",
             "swift_code": "BNINIDJAJJS"
         },
         {
-            "id": 41,
+            "id": 85,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BANDUNG",
             "branch": "(JALAN PERINTIS KEMERDEKAAN BANDUNG BRANCH)",
             "swift_code": "BNINIDJAJPK"
         },
         {
-            "id": 42,
+            "id": 86,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BANDUNG",
             "branch": "(UNPAD BR. BDG.)",
             "swift_code": "BNINIDJAUPB"
         },
         {
-            "id": 43,
+            "id": 87,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BANGKO",
             "branch": "(BANGKO BRANCH)",
             "swift_code": "BNINIDJABKO"
         },
         {
-            "id": 44,
+            "id": 88,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BANJAR",
             "branch": "(BANJAR BRANCH)",
             "swift_code": "BNINIDJABJR"
         },
         {
-            "id": 45,
+            "id": 89,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BANJARBARU",
             "branch": "(BANJARBARU BRANCH)",
             "swift_code": "BNINIDJABBR"
         },
         {
-            "id": 46,
+            "id": 90,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BANJARMASIN",
             "branch": "(BANJARMASIN BRANCH)",
             "swift_code": "BNINIDJABMS"
         },
         {
-            "id": 47,
+            "id": 91,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BANJARMASIN",
             "branch": "(PANGERAN ANTASARI BRANCH)",
             "swift_code": "BNINIDJAPAB"
         },
         {
-            "id": 48,
+            "id": 92,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BANYUWANGI",
             "branch": "(BANYUWANGI BRANCH)",
             "swift_code": "BNINIDJABWI"
         },
         {
-            "id": 49,
+            "id": 93,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BARABAI",
             "branch": "(BARABAI BRANCH)",
             "swift_code": "BNINIDJABBI"
         },
         {
-            "id": 50,
+            "id": 94,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BATAM",
             "branch": "(BATAM BRANCH)",
             "swift_code": "BNINIDJABTM"
         },
         {
-            "id": 51,
+            "id": 95,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BATURAJA",
             "branch": "(BATURAJA BRANCH)",
             "swift_code": "BNINIDJABTR"
         },
         {
-            "id": 52,
+            "id": 96,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BAU-BAU",
             "branch": "(BAU-BAU BRANCH)",
             "swift_code": "BNINIDJABAU"
         },
         {
-            "id": 53,
+            "id": 97,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BEKASI",
             "branch": "(BEKASI BRANCH)",
             "swift_code": "BNINIDJABKS"
         },
         {
-            "id": 54,
+            "id": 98,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BELAWAN",
             "branch": "(BELAWAN BRANCH)",
             "swift_code": "BNINIDJABLW"
         },
         {
-            "id": 55,
+            "id": 99,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BENGKULU",
             "branch": "(BENGKULU BRANCH)",
             "swift_code": "BNINIDJABKL"
         },
         {
-            "id": 56,
+            "id": 100,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BIAK",
             "branch": "(BIAK BRANCH)",
             "swift_code": "BNINIDJABIK"
         },
         {
-            "id": 57,
+            "id": 101,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BIMA",
             "branch": "(BIMA BRANCH)",
             "swift_code": "BNINIDJABMA"
         },
         {
-            "id": 58,
+            "id": 102,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BIREUN",
             "branch": "(BIREUN BRANCH)",
             "swift_code": "BNINIDJABRN"
         },
         {
-            "id": 59,
+            "id": 103,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BITUNG",
             "branch": "(BITUNG BRANCH)",
             "swift_code": "BNINIDJABIT"
         },
         {
-            "id": 60,
+            "id": 104,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BLITAR",
             "branch": "(BLITAR BRANCH)",
             "swift_code": "BNINIDJABLT"
         },
         {
-            "id": 61,
+            "id": 105,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BOGOR",
             "branch": "(BOGOR BRANCH)",
             "swift_code": "BNINIDJABGR"
         },
         {
-            "id": 62,
+            "id": 106,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BOJONEGORO",
             "branch": "(BOJONEGORO BRANCH)",
             "swift_code": "BNINIDJABRO"
         },
         {
-            "id": 63,
+            "id": 107,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BONDOWOSO",
             "branch": "(BONDOWOSO BRANCH)",
             "swift_code": "BNINIDJABDO"
         },
         {
-            "id": 64,
+            "id": 108,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "BUKITTINGGI",
             "branch": "(BUKITTINGGI BRANCH)",
             "swift_code": "BNINIDJABTG"
         },
         {
-            "id": 65,
+            "id": 109,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "CEPU",
             "branch": "(CEPU BRANCH)",
             "swift_code": "BNINIDJACPU"
         },
         {
-            "id": 66,
+            "id": 110,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "CIAMIS",
             "branch": "(CIAMIS BRANCH)",
             "swift_code": "BNINIDJACAM"
         },
         {
-            "id": 67,
+            "id": 111,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "CIANJUR",
             "branch": "(CIANJUR BRANCH)",
             "swift_code": "BNINIDJACJR"
         },
         {
-            "id": 68,
+            "id": 112,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "CIKAMPEK",
             "branch": "(CIKAMPEK BRANCH)",
             "swift_code": "BNINIDJACKP"
         },
         {
-            "id": 69,
+            "id": 113,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "CILACAP",
             "branch": "(CILACAP BRANCH)",
             "swift_code": "BNINIDJACLP"
         },
         {
-            "id": 70,
+            "id": 114,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "CILEGON",
             "branch": "(CILEGON BRANCH)",
             "swift_code": "BNINIDJACLG"
         },
         {
-            "id": 71,
+            "id": 115,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "CIMAHI",
             "branch": "(CIMAHI BDG. BRANCH)",
             "swift_code": "BNINIDJACMI"
         },
         {
-            "id": 72,
+            "id": 116,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "CIREBON",
             "branch": "(CIREBON BRANCH)",
             "swift_code": "BNINIDJACRB"
         },
         {
-            "id": 73,
+            "id": 117,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "DENPASAR",
             "branch": "(DENPASAR BRANCH)",
             "swift_code": "BNINIDJADPS"
         },
         {
-            "id": 74,
+            "id": 118,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "DENPASAR",
             "branch": "(RENON BRANCH)",
             "swift_code": "BNINIDJARNN"
         },
         {
-            "id": 75,
+            "id": 119,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "DEPOK",
             "branch": "(MARGONDA BRANCH)",
             "swift_code": "BNINIDJAMGD"
         },
         {
-            "id": 76,
+            "id": 120,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "DILI",
             "branch": "(DILI-EAST TIM)",
             "swift_code": "BNINIDJADLI"
         },
         {
-            "id": 77,
+            "id": 121,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "DUMAI",
             "branch": "(DUMAI BRANCH)",
             "swift_code": "BNINIDJADMI"
         },
         {
-            "id": 78,
+            "id": 122,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "ENDE",
             "branch": "(ENDE BR. NTT.)",
             "swift_code": "BNINIDJAEND"
         },
         {
-            "id": 79,
+            "id": 123,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "GARUT",
             "branch": "(GARUT BRANCH)",
             "swift_code": "BNINIDJAGRT"
         },
         {
-            "id": 80,
+            "id": 124,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "GORONTALO",
             "branch": "(GORONTALO BRANCH)",
             "swift_code": "BNINIDJAGTL"
         },
         {
-            "id": 81,
+            "id": 125,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "GRESIK",
             "branch": "(GRESIK BRANCH)",
             "swift_code": "BNINIDJAGRK"
         },
         {
-            "id": 82,
+            "id": 126,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "GUNUNG SITOLI",
             "branch": "(GUNUNG SITOLI BRANCH)",
             "swift_code": "BNINIDJAGST"
         },
         {
-            "id": 83,
+            "id": 127,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "INDRAMAYU",
             "branch": "(INDRAMAYU BRANCH)",
             "swift_code": "BNINIDJAIDR"
         },
         {
-            "id": 84,
+            "id": 128,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(BANDARA SUKARNO HATTA BRANCH)",
             "swift_code": "BNINIDJABSH"
         },
         {
-            "id": 85,
+            "id": 129,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(DAAN MOGOT BRANCH)",
             "swift_code": "BNINIDJADMG"
         },
         {
-            "id": 86,
+            "id": 130,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(DUKUH BAWAH LANDMARK BRANCH)",
             "swift_code": "BNINIDJADKB"
         },
         {
-            "id": 87,
+            "id": 131,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(FATMAWATI BRANCH)",
             "swift_code": "BNINIDJAFMI"
         },
         {
-            "id": 88,
+            "id": 132,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(GAMBIR BRANCH)",
             "swift_code": "BNINIDJAGBR"
         },
         {
-            "id": 89,
+            "id": 133,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(GUNUNG SAHARI BRANCH)",
             "swift_code": "BNINIDJAGNS"
         },
         {
-            "id": 90,
+            "id": 134,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(HARMONI BRANCH)",
             "swift_code": "BNINIDJAHMN"
         },
         {
-            "id": 91,
+            "id": 135,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(HEAD OFFICE FINANCIAL ANALYSIS AND CONTROL DIVISION)",
             "swift_code": "BNINIDJAAPK"
         },
         {
-            "id": 92,
+            "id": 136,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(HEAD OFFICE INTERNATIONAL DIVISION)",
             "swift_code": "BNINIDJADLN"
         },
         {
-            "id": 93,
+            "id": 137,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(JAKARTA KOTA BRANCH)",
             "swift_code": "BNINIDJAJKT"
         },
         {
-            "id": 94,
+            "id": 138,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(JAKARTA PUSAT BRANCH)",
             "swift_code": "BNINIDJAJPU"
         },
         {
-            "id": 95,
+            "id": 139,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(JALAN RASUNA SAID BRANCH)",
             "swift_code": "BNINIDJAJRS"
         },
         {
-            "id": 96,
+            "id": 140,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(JATINEGARA BRANCH)",
             "swift_code": "BNINIDJAJNG"
         },
         {
-            "id": 97,
+            "id": 141,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(KEBAYORAN BARU BRANCH)",
             "swift_code": "BNINIDJAKBY"
         },
         {
-            "id": 98,
+            "id": 142,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(KRAMAT BRANCH)",
             "swift_code": "BNINIDJAKRM"
         },
         {
-            "id": 99,
+            "id": 143,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(KREKOT BRANCH)",
             "swift_code": "BNINIDJAKRK"
         },
         {
-            "id": 100,
+            "id": 144,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(MANGGA DUA BRANCH)",
             "swift_code": "BNINIDJAMDA"
         },
         {
-            "id": 101,
+            "id": 145,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(MATRAMAN BRANCH)",
             "swift_code": "BNINIDJAMTR"
         },
         {
-            "id": 102,
+            "id": 146,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(MEDAN MERDEKA TIMUR BRANCH)",
             "swift_code": "BNINIDJAMDT"
         },
         {
-            "id": 103,
+            "id": 147,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(MENTENG BRANCH)",
             "swift_code": "BNINIDJAMTG"
         },
         {
-            "id": 104,
+            "id": 148,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(MERDEKA SELATAN BRANCH)",
             "swift_code": "BNINIDJAMDS"
         },
         {
-            "id": 105,
+            "id": 149,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(MH THAMRIN BRANCH)",
             "swift_code": "BNINIDJAMHT"
         },
         {
-            "id": 106,
+            "id": 150,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(PASAR BARU BRANCH)",
             "swift_code": "BNINIDJAPBU"
         },
         {
-            "id": 107,
+            "id": 151,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(PASAR KOJA BRANCH)",
             "swift_code": "BNINIDJAPKJ"
         },
         {
-            "id": 108,
+            "id": 152,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(PASAR MAYESTIK BRANCH)",
             "swift_code": "BNINIDJAPMK"
         },
         {
-            "id": 109,
+            "id": 153,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(PASAR MINGGU BRANCH)",
             "swift_code": "BNINIDJAPSM"
         },
         {
-            "id": 110,
+            "id": 154,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(PECENONGAN BRANCH)",
             "swift_code": "BNINIDJAPCG"
         },
         {
-            "id": 111,
+            "id": 155,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(PETOJO BRANCH)",
             "swift_code": "BNINIDJAPTJ"
         },
         {
-            "id": 112,
+            "id": 156,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(PONDOK INDAH MALL BRANCH)",
             "swift_code": "BNINIDJAPIM"
         },
         {
-            "id": 113,
+            "id": 157,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(RATU PLAZA)",
             "swift_code": "BNINIDJARPZ"
         },
         {
-            "id": 114,
+            "id": 158,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(RAWAMANGUN BRANCH)",
             "swift_code": "BNINIDJARWM"
         },
         {
-            "id": 115,
+            "id": 159,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(ROA MALAKA BRANCH)",
             "swift_code": "BNINIDJARMA"
         },
         {
-            "id": 116,
+            "id": 160,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(SEMANGGI BRANCH)",
             "swift_code": "BNINIDJASGI"
         },
         {
-            "id": 117,
+            "id": 161,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(SENAYAN BRANCH)",
             "swift_code": "BNINIDJASNY"
         },
         {
-            "id": 118,
+            "id": 162,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(SENEN BRANCH)",
             "swift_code": "BNINIDJASNN"
         },
         {
-            "id": 119,
+            "id": 163,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(SYNDICATION DIVISION)",
             "swift_code": "BNINIDJASJK"
         },
         {
-            "id": 120,
+            "id": 164,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(TANAH ABANG BRANCH)",
             "swift_code": "BNINIDJATAB"
         },
         {
-            "id": 121,
+            "id": 165,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(TEBET BRANCH)",
             "swift_code": "BNINIDJATEB"
         },
         {
-            "id": 122,
+            "id": 166,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(TREASURY DIVISION)",
             "swift_code": "BNINIDJATRS"
         },
         {
-            "id": 123,
+            "id": 167,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(TREASURY DIVISION)",
             "swift_code": "BNINIDJATRS"
         },
         {
-            "id": 124,
+            "id": 168,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(UI DEPOK BRANCH)",
             "swift_code": "BNINIDJAUID"
         },
         {
-            "id": 125,
+            "id": 169,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(WISMA ARGO MANUNGGAL BRANCH)",
             "swift_code": "BNINIDJAWAM"
         },
         {
-            "id": 126,
+            "id": 170,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": "(WISMA EMPAT NAM BRANCH)",
             "swift_code": "BNINIDJAWEN"
         },
         {
-            "id": 127,
+            "id": 171,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "BNINIDJA"
         },
         {
-            "id": 128,
+            "id": 172,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "BNINIDJAHII"
         },
         {
-            "id": 129,
+            "id": 173,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAMBI",
             "branch": "(JAMBI BRANCH)",
             "swift_code": "BNINIDJAJBI"
         },
         {
-            "id": 130,
+            "id": 174,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JAYAPURA",
             "branch": "(JAYAPURA BRANCH)",
             "swift_code": "BNINIDJAJPA"
         },
         {
-            "id": 131,
+            "id": 175,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JEMBER",
             "branch": "(JEMBER BRANCH)",
             "swift_code": "BNINIDJAJBR"
         },
         {
-            "id": 132,
+            "id": 176,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JEPARA",
             "branch": "(JEPARA BRANCH)",
             "swift_code": "BNINIDJAJPR"
         },
         {
-            "id": 133,
+            "id": 177,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "JOMBANG",
             "branch": "(JOMBANG BRANCH)",
             "swift_code": "BNINIDJAJBG"
         },
         {
-            "id": 134,
+            "id": 178,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "KABANJAHE",
             "branch": "(KABANJAHE BRANCH)",
             "swift_code": "BNINIDJAKJH"
         },
         {
-            "id": 135,
+            "id": 179,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "KARAWANG",
             "branch": "(KARAWANG BRANCH)",
             "swift_code": "BNINIDJAKWG"
         },
         {
-            "id": 136,
+            "id": 180,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "KAYU AGUNG",
             "branch": "(KAYU AGUNG BRANCH)",
             "swift_code": "BNINIDJAKYA"
         },
         {
-            "id": 137,
+            "id": 181,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "KEBUMEN",
             "branch": "(KEBUMEN BRANCH)",
             "swift_code": "BNINIDJAKBM"
         },
         {
-            "id": 138,
+            "id": 182,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "KEDIRI",
             "branch": "(KEDIRI BRANCH)",
             "swift_code": "BNINIDJAKDI"
         },
         {
-            "id": 139,
+            "id": 183,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "KENDARI",
             "branch": "(KENDARI BRANCH)",
             "swift_code": "BNINIDJAKDR"
         },
         {
-            "id": 140,
+            "id": 184,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "KETAPANG",
             "branch": "(KETAPANG BRANCH)",
             "swift_code": "BNINIDJAKPG"
         },
         {
-            "id": 141,
+            "id": 185,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "KLATEN",
             "branch": "(KLATEN BRANCH)",
             "swift_code": "BNINIDJAKLA"
         },
         {
-            "id": 142,
+            "id": 186,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "KOTABARU PULAU LAUT",
             "branch": "(KOTABARU P. LAUT BRANCH)",
             "swift_code": "BNINIDJAKTU"
         },
         {
-            "id": 143,
+            "id": 187,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "KOTABUMI",
             "branch": "(KOTA BUMI BANCH)",
             "swift_code": "BNINIDJAKTI"
         },
         {
-            "id": 144,
+            "id": 188,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "KOTAMOBAGU",
             "branch": "(KOTAMOBAGU BRANCH)",
             "swift_code": "BNINIDJAKTM"
         },
         {
-            "id": 145,
+            "id": 189,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "KUALA TANJUNG",
             "branch": "(KUALA TANJUNG BRANCH)",
             "swift_code": "BNINIDJAKTJ"
         },
         {
-            "id": 146,
+            "id": 190,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "KUALAKAPUAS",
             "branch": "(KUALAKAPUAS BRANCH)",
             "swift_code": "BNINIDJAKKP"
         },
         {
-            "id": 147,
+            "id": 191,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "KUALATUNGKAL",
             "branch": "(KUALATUNGKAL BRANCH)",
             "swift_code": "BNINIDJAKLT"
         },
         {
-            "id": 148,
+            "id": 192,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "KUDUS",
             "branch": "(KUDUS BRANCH)",
             "swift_code": "BNINIDJAKDS"
         },
         {
-            "id": 149,
+            "id": 193,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "KUNINGAN",
             "branch": "(KUNINGAN BRANCH)",
             "swift_code": "BNINIDJAKNG"
         },
         {
-            "id": 150,
+            "id": 194,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "KUPANG",
             "branch": "(KUPANG BRANCH - EAST NUSATENGGARA)",
             "swift_code": "BNINIDJAKPA"
         },
         {
-            "id": 151,
+            "id": 195,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "LANGSA",
             "branch": "(LANGSA BRANCH)",
             "swift_code": "BNINIDJALGS"
         },
         {
-            "id": 152,
+            "id": 196,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "LEGIAN",
             "branch": "(LEGIAN BRANCH)",
             "swift_code": "BNINIDJALGA"
         },
         {
-            "id": 153,
+            "id": 197,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "LHOKSEUMAWE",
             "branch": "(LHOKSEUMAWE BRANCH)",
             "swift_code": "BNINIDJALSW"
         },
         {
-            "id": 154,
+            "id": 198,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "LUBUKLINGGAU",
             "branch": "(LUBUKLINGGAU BRANCH)",
             "swift_code": "BNINIDJALLG"
         },
         {
-            "id": 155,
+            "id": 199,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "LUMAJANG",
             "branch": "(LUMAJANG BRANCH)",
             "swift_code": "BNINIDJALMJ"
         },
         {
-            "id": 156,
+            "id": 200,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "LUWUK",
             "branch": "(LUWUK BRANCH)",
             "swift_code": "BNINIDJALWK"
         },
         {
-            "id": 157,
+            "id": 201,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "MADIUN",
             "branch": "(MADIUN BRANCH)",
             "swift_code": "BNINIDJAMAD"
         },
         {
-            "id": 158,
+            "id": 202,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "MAGELANG",
             "branch": "(MAGELANG BRANCH)",
             "swift_code": "BNINIDJAMGL"
         },
         {
-            "id": 159,
+            "id": 203,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "MAJALAYA",
             "branch": "(MAJALAYA BRANCH)",
             "swift_code": "BNINIDJAMJL"
         },
         {
-            "id": 160,
+            "id": 204,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "MALANG",
             "branch": "(MALANG BRANCH)",
             "swift_code": "BNINIDJAMLG"
         },
         {
-            "id": 161,
+            "id": 205,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "MALANG",
             "branch": "(UNIBRAW BR. MLG.)",
             "swift_code": "BNINIDJAUBM"
         },
         {
-            "id": 162,
+            "id": 206,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "MANADO",
             "branch": "(MANADO BRANCH)",
             "swift_code": "BNINIDJAMDO"
         },
         {
-            "id": 163,
+            "id": 207,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "MANADO",
             "branch": "(PS. KANAKA BRANCH)",
             "swift_code": "BNINIDJAKNK"
         },
         {
-            "id": 164,
+            "id": 208,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "MANOKWARI",
             "branch": "(MANOKWARI BRANCH)",
             "swift_code": "BNINIDJAMWI"
         },
         {
-            "id": 165,
+            "id": 209,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "MATARAM",
             "branch": "(MATARAM BRANCH)",
             "swift_code": "BNINIDJAMTA"
         },
         {
-            "id": 166,
+            "id": 210,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "MAUMERE",
             "branch": "(MAUMERE BRANCH)",
             "swift_code": "BNINIDJAMRE"
         },
         {
-            "id": 167,
+            "id": 211,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "MEDAN",
             "branch": "(JL. SUTOMO MEDAN BRANCH)",
             "swift_code": "BNINIDJAJSM"
         },
         {
-            "id": 168,
+            "id": 212,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "MEDAN",
             "branch": "(MEDAN BRANCH)",
             "swift_code": "BNINIDJAMDN"
         },
         {
-            "id": 169,
+            "id": 213,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "MEDAN",
             "branch": "(UNIV. SUMUT BRANCH)",
             "swift_code": "BNINIDJAUSU"
         },
         {
-            "id": 170,
+            "id": 214,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "METRO",
             "branch": "(METRO BRANCH)",
             "swift_code": "BNINIDJAMET"
         },
         {
-            "id": 171,
+            "id": 215,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "MEULABOH",
             "branch": "(MEULABOH BRANCH)",
             "swift_code": "BNINIDJAMBO"
         },
         {
-            "id": 172,
+            "id": 216,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "NUNUKAN",
             "branch": "(NUNUKAN BRANCH)",
             "swift_code": "BNINIDJANNK"
         },
         {
-            "id": 173,
+            "id": 217,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PADANG",
             "branch": "(AHMAD YANI PADANG BRANCH)",
             "swift_code": "BNINIDJAAYP"
         },
         {
-            "id": 174,
+            "id": 218,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PADANG",
             "branch": "(IMAM BONJOL BRANCH)",
             "swift_code": "BNINIDJAIBP"
         },
         {
-            "id": 175,
+            "id": 219,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PADANG",
             "branch": "(PADANG BRANCH)",
             "swift_code": "BNINIDJAPDG"
         },
         {
-            "id": 176,
+            "id": 220,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PADANG SIDEMPUAN",
             "branch": "(PADANG SIDEMPUAN BRANCH)",
             "swift_code": "BNINIDJAPDS"
         },
         {
-            "id": 177,
+            "id": 221,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PALANGKARAYA",
             "branch": "(PALANGKARAYA BRANCH)",
             "swift_code": "BNINIDJAPRY"
         },
         {
-            "id": 178,
+            "id": 222,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PALEMBANG",
             "branch": "(BOOM BARU BRANCH)",
             "swift_code": "BNINIDJABBP"
         },
         {
-            "id": 179,
+            "id": 223,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PALEMBANG",
             "branch": "(JEMBATAN AMPERA PALEMBANG BRANCH)",
             "swift_code": "BNINIDJAJAP"
         },
         {
-            "id": 180,
+            "id": 224,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PALEMBANG",
             "branch": "(MUSI PALEMBANG BRANCH)",
             "swift_code": "BNINIDJAMSP"
         },
         {
-            "id": 181,
+            "id": 225,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PALEMBANG",
             "branch": "(PALEMBANG BRANCH)",
             "swift_code": "BNINIDJAPBG"
         },
         {
-            "id": 182,
+            "id": 226,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PALOPO",
             "branch": "(PALOPO BRANCH)",
             "swift_code": "BNINIDJAPLP"
         },
         {
-            "id": 183,
+            "id": 227,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PALU",
             "branch": "(PALU BRANCH)",
             "swift_code": "BNINIDJAPLU"
         },
         {
-            "id": 184,
+            "id": 228,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PAMEKASAN",
             "branch": "(PAMEKASAN BRANCH)",
             "swift_code": "BNINIDJAPKN"
         },
         {
-            "id": 185,
+            "id": 229,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PANGKAL PINANG",
             "branch": "(PANGKAL PINANG BRANCH)",
             "swift_code": "BNINIDJAPKP"
         },
         {
-            "id": 186,
+            "id": 230,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PANGKALAN BUN",
             "branch": "(PANGKALAN BUN BRANCH)",
             "swift_code": "BNINIDJAPKB"
         },
         {
-            "id": 187,
+            "id": 231,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PANJANG",
             "branch": "(PANJANG BRANCH)",
             "swift_code": "BNINIDJAPJG"
         },
         {
-            "id": 188,
+            "id": 232,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PARE-PARE",
             "branch": "(PARE-PARE BRANCH)",
             "swift_code": "BNINIDJAPRE"
         },
         {
-            "id": 189,
+            "id": 233,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PASURUAN",
             "branch": "(PASURUAN BRANCH)",
             "swift_code": "BNINIDJAPSN"
         },
         {
-            "id": 190,
+            "id": 234,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PATI",
             "branch": "(PATI BRANCH)",
             "swift_code": "BNINIDJAPTI"
         },
         {
-            "id": 191,
+            "id": 235,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PAYAKUMBUH",
             "branch": "(PAYAKUMBUH BRANCH)",
             "swift_code": "BNINIDJAPYK"
         },
         {
-            "id": 192,
+            "id": 236,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PEKALONGAN",
             "branch": "(PEKALONGAN BRANCH)",
             "swift_code": "BNINIDJAPKL"
         },
         {
-            "id": 193,
+            "id": 237,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PEKANBARU",
             "branch": "(PASAR PUSAT PEKANBARU BRANCH)",
             "swift_code": "BNINIDJAPPP"
         },
         {
-            "id": 194,
+            "id": 238,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PEKANBARU",
             "branch": "(PEKANBARU BRANCH)",
             "swift_code": "BNINIDJAPBR"
         },
         {
-            "id": 195,
+            "id": 239,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PEMANGKAT",
             "branch": "(PEMANGKAT BRANCH)",
             "swift_code": "BNINIDJAPMT"
         },
         {
-            "id": 196,
+            "id": 240,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PEMATANG SIANTAR",
             "branch": "(PEMATANG SIANTAR BRANCH)",
             "swift_code": "BNINIDJAPMS"
         },
         {
-            "id": 197,
+            "id": 241,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "POLEWALI",
             "branch": "(POLEWALI BRANCH)",
             "swift_code": "BNINIDJAPLW"
         },
         {
-            "id": 198,
+            "id": 242,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PONOROGO",
             "branch": "(PONOROGO BRANCH)",
             "swift_code": "BNINIDJAPON"
         },
         {
-            "id": 199,
+            "id": 243,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PONTIANAK",
             "branch": "(PONTIANAK BRANCH)",
             "swift_code": "BNINIDJAPNK"
         },
         {
-            "id": 200,
+            "id": 244,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "POSO",
             "branch": "(POSO BRANCH)",
             "swift_code": "BNINIDJAPSO"
         },
         {
-            "id": 201,
+            "id": 245,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PRABUMULIH",
             "branch": "(PRABUMULIH BRANCH)",
             "swift_code": "BNINIDJAPBM"
         },
         {
-            "id": 202,
+            "id": 246,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PROBOLINGGO",
             "branch": "(PROBOLINGGO BRANCH)",
             "swift_code": "BNINIDJAPRB"
         },
         {
-            "id": 203,
+            "id": 247,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PURBALINGGA",
             "branch": "(PURBALINGGA BRANCH)",
             "swift_code": "BNINIDJAPBL"
         },
         {
-            "id": 204,
+            "id": 248,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PURWAKARTA",
             "branch": "(PURWAKARTA BRANCH)",
             "swift_code": "BNINIDJAPWK"
         },
         {
-            "id": 205,
+            "id": 249,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PURWOKERTO",
             "branch": "(PURWOKERTO BRANCH)",
             "swift_code": "BNINIDJAPWO"
         },
         {
-            "id": 206,
+            "id": 250,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "PURWOREJO",
             "branch": "(PURWOREJO BRANCH)",
             "swift_code": "BNINIDJAPWR"
         },
         {
-            "id": 207,
+            "id": 251,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "RANGKAS BIBITUNG",
             "branch": "(RANGKASBITUNG BRANCH)",
             "swift_code": "BNINIDJARKB"
         },
         {
-            "id": 208,
+            "id": 252,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "RENGAT",
             "branch": "(RENGAT BRANCH)",
             "swift_code": "BNINIDJARGT"
         },
         {
-            "id": 209,
+            "id": 253,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "SALATIGA",
             "branch": "(SALATIGA BRANCH)",
             "swift_code": "BNINIDJASLG"
         },
         {
-            "id": 210,
+            "id": 254,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "SAMARINDA",
             "branch": "(SAMARINDA BRANCH)",
             "swift_code": "BNINIDJASMD"
         },
         {
-            "id": 211,
+            "id": 255,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "SAMPIT",
             "branch": "(SAMPIT BRANCH)",
             "swift_code": "BNINIDJASPT"
         },
         {
-            "id": 212,
+            "id": 256,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "SELAT PANJANG",
             "branch": "(SELAT PANJANG BRANCH)",
             "swift_code": "BNINIDJASLP"
         },
         {
-            "id": 213,
+            "id": 257,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "SEMARANG",
             "branch": "(KARANGAYU BRANCH)",
             "swift_code": "BNINIDJAKRU"
         },
         {
-            "id": 214,
+            "id": 258,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "SEMARANG",
             "branch": "(SEMARANG BRANCH)",
             "swift_code": "BNINIDJASMG"
         },
         {
-            "id": 215,
+            "id": 259,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "SEMARANG",
             "branch": "(UNDIP BR. SMG.)",
             "swift_code": "BNINIDJAUDS"
         },
         {
-            "id": 216,
+            "id": 260,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "SENGKANG",
             "branch": "(SENGKANG BRANCH)",
             "swift_code": "BNINIDJASKG"
         },
         {
-            "id": 217,
+            "id": 261,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "SERANG",
             "branch": "(SERANG BRANCH)",
             "swift_code": "BNINIDJASRG"
         },
         {
-            "id": 218,
+            "id": 262,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "SIBOLGA",
             "branch": "(SIBOLGA BRANCH)",
             "swift_code": "BNINIDJASBG"
         },
         {
-            "id": 219,
+            "id": 263,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "SIDOARJO",
             "branch": "(SIDOARJO BRANCH)",
             "swift_code": "BNINIDJASDA"
         },
         {
-            "id": 220,
+            "id": 264,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "SIGLI",
             "branch": "(SIGLI BRANCH)",
             "swift_code": "BNINIDJASGL"
         },
         {
-            "id": 221,
+            "id": 265,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "SINGARAJA",
             "branch": "(SINGARAJA BRANCH)",
             "swift_code": "BNINIDJASGR"
         },
         {
-            "id": 222,
+            "id": 266,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "SINGKAWANG",
             "branch": "(SINGKAWANG BRANCH)",
             "swift_code": "BNINIDJASKW"
         },
         {
-            "id": 223,
+            "id": 267,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "SITUBONDO",
             "branch": "(SITUBONDO BRANCH)",
             "swift_code": "BNINIDJASTB"
         },
         {
-            "id": 224,
+            "id": 268,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "SORONG",
             "branch": "(SORONG BRANCH)",
             "swift_code": "BNINIDJASOR"
         },
         {
-            "id": 225,
+            "id": 269,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "SUBANG",
             "branch": "(SUBANG BRANCH)",
             "swift_code": "BNINIDJASUB"
         },
         {
-            "id": 226,
+            "id": 270,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "SUKABUMI",
             "branch": "(SUKABUMI BRANCH)",
             "swift_code": "BNINIDJASKM"
         },
         {
-            "id": 227,
+            "id": 271,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "SUMBAWA BESAR",
             "branch": "(SUMBAWA BESAR BRANCH)",
             "swift_code": "BNINIDJASBW"
         },
         {
-            "id": 228,
+            "id": 272,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "SUMEDANG",
             "branch": "(SUMEDANG BRANCH)",
             "swift_code": "BNINIDJASDG"
         },
         {
-            "id": 229,
+            "id": 273,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "SUMENEP",
             "branch": "(SUMENEP BRANCH)",
             "swift_code": "BNINIDJASMP"
         },
         {
-            "id": 230,
+            "id": 274,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "SUNGAIPENUH",
             "branch": "(SUNGAIPENUH BRANCH)",
             "swift_code": "BNINIDJASPN"
         },
         {
-            "id": 231,
+            "id": 275,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "SURABAYA",
             "branch": "(AIRLANGGA UNIVERSITY BRANCH)",
             "swift_code": "BNINIDJAUAS"
         },
         {
-            "id": 232,
+            "id": 276,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "SURABAYA",
             "branch": "(JEMBATAN MERAH BRANCH)",
             "swift_code": "BNINIDJAJTM"
         },
         {
-            "id": 233,
+            "id": 277,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "SURABAYA",
             "branch": "(KUSUMA BANGSA BRANCH)",
             "swift_code": "BNINIDJAKBS"
         },
         {
-            "id": 234,
+            "id": 278,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "SURABAYA",
             "branch": "(SURABAYA BRANCH)",
             "swift_code": "BNINIDJASBY"
         },
         {
-            "id": 235,
+            "id": 279,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "SURABAYA",
             "branch": "(TANJUNG PERAK BRANCH)",
             "swift_code": "BNINIDJATPK"
         },
         {
-            "id": 236,
+            "id": 280,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "SURABAYA",
             "branch": "(URIP SUMOHARJO BRANCH)",
             "swift_code": "BNINIDJAUSM"
         },
         {
-            "id": 237,
+            "id": 281,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "SURAKARTA",
             "branch": "(PASAR KLEWER SURAKARTA BRANCH)",
             "swift_code": "BNINIDJAPKS"
         },
         {
-            "id": 238,
+            "id": 282,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "SURAKARTA",
             "branch": "(SURAKARTA BRANCH)",
             "swift_code": "BNINIDJASLO"
         },
         {
-            "id": 239,
+            "id": 283,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "SURAKARTA",
             "branch": "(UNIV.SEBELAS MARET BRANCH)",
             "swift_code": "BNINIDJASMR"
         },
         {
-            "id": 240,
+            "id": 284,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "TAHUNA",
             "branch": "(TAHUNA BRANCH)",
             "swift_code": "BNINIDJATHN"
         },
         {
-            "id": 241,
+            "id": 285,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "TANGERANG",
             "branch": "(TANGERANG BRANCH)",
             "swift_code": "BNINIDJATRG"
         },
         {
-            "id": 242,
+            "id": 286,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "TANJUNG KARANG",
             "branch": "(TANJUNG KARANG BRANCH)",
             "swift_code": "BNINIDJATKR"
         },
         {
-            "id": 243,
+            "id": 287,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "TANJUNG PINANG",
             "branch": "(TANJUNG PINANG BRANCH)",
             "swift_code": "BNINIDJATPN"
         },
         {
-            "id": 244,
+            "id": 288,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "TANJUNGREDEB",
             "branch": "(TANJUNGREDEB BRANCH)",
             "swift_code": "BNINIDJATRB"
         },
         {
-            "id": 245,
+            "id": 289,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "TARAKAN",
             "branch": "(TARAKAN BRANCH)",
             "swift_code": "BNINIDJATRN"
         },
         {
-            "id": 246,
+            "id": 290,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "TASIKMALAYA",
             "branch": "(TASIKMALAYA BRANCH)",
             "swift_code": "BNINIDJATMA"
         },
         {
-            "id": 247,
+            "id": 291,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "TEBINGTINGGI",
             "branch": "(TEBINGTINGGI BRANCH)",
             "swift_code": "BNINIDJATTI"
         },
         {
-            "id": 248,
+            "id": 292,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "TEGAL",
             "branch": "(TEGAL BRANCH)",
             "swift_code": "BNINIDJATGL"
         },
         {
-            "id": 249,
+            "id": 293,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "TEMANGGUNG",
             "branch": "(TEMANGGUNG BRANCH)",
             "swift_code": "BNINIDJATMG"
         },
         {
-            "id": 250,
+            "id": 294,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "TEMBILAHAN",
             "branch": "(TEMBILAHAN BRANCH)",
             "swift_code": "BNINIDJATBH"
         },
         {
-            "id": 251,
+            "id": 295,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "TERNATE",
             "branch": "(TERNATE BRANCH)",
             "swift_code": "BNINIDJATNT"
         },
         {
-            "id": 252,
+            "id": 296,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "TG. BALAI",
             "branch": "(TANJUNG BALAI KARIMUN BRANCH)",
             "swift_code": "BNINIDJATBK"
         },
         {
-            "id": 253,
+            "id": 297,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "TG. BALAI ASAHAN",
             "branch": "(TG. BALAI ASAHAN)",
             "swift_code": "BNINIDJATBA"
         },
         {
-            "id": 254,
+            "id": 298,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "TOBELO",
             "branch": "(TOBELO BRANCH)",
             "swift_code": "BNINIDJATBL"
         },
         {
-            "id": 255,
+            "id": 299,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "TOLI-TOLI",
             "branch": "(TOLI-TOLI BRANCH)",
             "swift_code": "BNINIDJATLI"
         },
         {
-            "id": 256,
+            "id": 300,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "TUBAN",
             "branch": "(TUBAN BRANCH - EAST JAVA)",
             "swift_code": "BNINIDJATUB"
         },
         {
-            "id": 257,
+            "id": 301,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "TULUNGAGUNG",
             "branch": "(TULUNGAGUNG)",
             "swift_code": "BNINIDJATLA"
         },
         {
-            "id": 258,
+            "id": 302,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "UJUNG PANDANG",
             "branch": "(MATTOANGIN BRANCH)",
             "swift_code": "BNINIDJAMAT"
         },
         {
-            "id": 259,
+            "id": 303,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "UJUNG PANDANG",
             "branch": "(UJUNG PANDANG BRANCH)",
             "swift_code": "BNINIDJAUPG"
         },
         {
-            "id": 260,
+            "id": 304,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "WATANSOPPENG",
             "branch": "(WATANSOPPENG BRANCH)",
             "swift_code": "BNINIDJAWTS"
         },
         {
-            "id": 261,
+            "id": 305,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "WONOGIRI",
             "branch": "(WONOGIRI BRANCH)",
             "swift_code": "BNINIDJAWGR"
         },
         {
-            "id": 262,
+            "id": 306,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "WONOKROMO",
             "branch": "(WONOKROMO BRANCH)",
             "swift_code": "BNINIDJAWNK"
         },
         {
-            "id": 263,
+            "id": 307,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "WONOSOBO",
             "branch": "(WONOSOBO BRANCH)",
             "swift_code": "BNINIDJAWSB"
         },
         {
-            "id": 264,
+            "id": 308,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "YOGYAKARTA",
             "branch": "(UGM BRANCH)",
             "swift_code": "BNINIDJAUGM"
         },
         {
-            "id": 265,
+            "id": 309,
             "bank": "BANK NEGARA INDONESIA - PT (PERSERO)",
             "city": "YOGYAKARTA",
             "branch": "(YOGYAKARTA BRANCH)",
             "swift_code": "BNINIDJAYGY"
         },
         {
-            "id": 266,
+            "id": 310,
             "bank": "BANK NUSANTARA PARAHYANGAN",
             "city": "BANDUNG",
             "branch": null,
             "swift_code": "NUPAIDJ6"
         },
         {
-            "id": 267,
+            "id": 311,
             "bank": "BANK OF AMERICA, N.A. JAKARTA BRANCH",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "BOFAID2X"
         },
         {
-            "id": 268,
+            "id": 312,
             "bank": "BANK OF AMERICA, N.A. JAKARTA BRANCH",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "BOFAID2XGRC"
         },
         {
-            "id": 269,
+            "id": 313,
             "bank": "BANK OF CHINA, JAKARTA BRANCH",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "BKCHIDJA"
         },
         {
-            "id": 270,
+            "id": 314,
             "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
             "city": "JAKARTA",
             "branch": "(JAKARTA BRANCH)",
             "swift_code": "BOTKIDJX"
         },
         {
-            "id": 271,
+            "id": 315,
             "bank": "BANK PEMBANGUNAN DAERAH KALIMANTAN TIMUR",
             "city": "SAMARINDA",
             "branch": null,
             "swift_code": "PDKTIDJA"
         },
         {
-            "id": 272,
+            "id": 316,
+            "bank": "BANK PERK. SURYA KENCANA",
+            "city": "SURABAYA",
+            "branch": null,
+            "swift_code": "PESKIDJ1"
+        },
+        {
+            "id": 317,
             "bank": "BANK RABOBANK INTERNATIONAL INDONESIA, PT",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "RABOIDJA"
         },
         {
-            "id": 273,
+            "id": 318,
             "bank": "BANK RESONA PERDANIA PT.",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "BPIAIDJA"
         },
         {
-            "id": 274,
+            "id": 319,
             "bank": "BANK SINARMAS",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "SBJKIDJA"
         },
         {
-            "id": 275,
+            "id": 320,
+            "bank": "BANK SRI PARTHA PT",
+            "city": "AMLAPURA",
+            "branch": "(KABUPATEN KARANGASEM)",
+            "swift_code": "SIPAIDB10B6"
+        },
+        {
+            "id": 321,
+            "bank": "BANK SRI PARTHA PT",
+            "city": "BANGLI",
+            "branch": "(KABUPATEN BANGLI)",
+            "swift_code": "SIPAIDB10B4"
+        },
+        {
+            "id": 322,
+            "bank": "BANK SRI PARTHA PT",
+            "city": "DENPASAR",
+            "branch": "(KABUPATEN BADUNG)",
+            "swift_code": "SIPAIDB10B2"
+        },
+        {
+            "id": 323,
+            "bank": "BANK SRI PARTHA PT",
+            "city": "DENPASAR",
+            "branch": null,
+            "swift_code": "SIPAIDB1"
+        },
+        {
+            "id": 324,
+            "bank": "BANK SRI PARTHA PT",
+            "city": "KLUNGKUNG",
+            "branch": "(KABUPATEN KLUNGKUNG)",
+            "swift_code": "SIPAIDB10B5"
+        },
+        {
+            "id": 325,
+            "bank": "BANK SRI PARTHA PT",
+            "city": "NEGARA",
+            "branch": "(KABUPATEN JEMBERANA)",
+            "swift_code": "SIPAIDB10B8"
+        },
+        {
+            "id": 326,
+            "bank": "BANK SRI PARTHA PT",
+            "city": "PELIATAN",
+            "branch": "(KABUPATEN GIANYAR)",
+            "swift_code": "SIPAIDB10B3"
+        },
+        {
+            "id": 327,
+            "bank": "BANK SRI PARTHA PT",
+            "city": "SINGARAJA",
+            "branch": "(KABUPATEN BULELENG)",
+            "swift_code": "SIPAIDB10B7"
+        },
+        {
+            "id": 328,
+            "bank": "BANK SRI PARTHA PT",
+            "city": "TABANAN",
+            "branch": "(KABUPATEN TABANAN)",
+            "swift_code": "SIPAIDB10BT"
+        },
+        {
+            "id": 329,
             "bank": "BANK SUMITOMO MITSUI INDONESIA, PT",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "SUNIIDJA"
         },
         {
-            "id": 276,
+            "id": 330,
+            "bank": "BANK SWAGUNA PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "SWABIDJ1"
+        },
+        {
+            "id": 331,
             "bank": "BANK TABUNGAN NEGARA (PERSERO), PT.",
             "city": "JAKARTA",
             "branch": "(HEAD OFFICE)",
             "swift_code": "BTANIDJA"
         },
         {
-            "id": 277,
+            "id": 332,
+            "bank": "BANK TABUNGAN NEGARA (PERSERO), PT.",
+            "city": "MEDAN",
+            "branch": null,
+            "swift_code": "BTANIDJ10SS"
+        },
+        {
+            "id": 333,
+            "bank": "BANK TABUNGAN NEGARA (PERSERO), PT.",
+            "city": "SURABAYA",
+            "branch": null,
+            "swift_code": "BTANIDJ10JD"
+        },
+        {
+            "id": 334,
+            "bank": "BANK WINDU KENTJANA",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "WIKEIDJ1"
+        },
+        {
+            "id": 335,
+            "bank": "BAPINDO BUMI SEKURITAS,PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "BABSIDJ1"
+        },
+        {
+            "id": 336,
+            "bank": "BCA SEKURITAS PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "DINUIDJ1"
+        },
+        {
+            "id": 337,
+            "bank": "BDNI SEKURITAS",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "BDNSIDJ1"
+        },
+        {
+            "id": 338,
+            "bank": "BINA TATALAKSANA PASIFIK PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "BITPIDJ1"
+        },
+        {
+            "id": 339,
+            "bank": "BINAARTHA PARAMA,PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "BINRIDJ1"
+        },
+        {
+            "id": 340,
+            "bank": "BINAARTHA PARAMA,PT",
+            "city": "SURABAYA",
+            "branch": null,
+            "swift_code": "BINRIDJ10JD"
+        },
+        {
+            "id": 341,
+            "bank": "BINTANGMAKMUR SECURINDO,PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "BINSIDJ1"
+        },
+        {
+            "id": 342,
+            "bank": "BOMAR SECURITIES PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "BOMSIDJ1"
+        },
+        {
+            "id": 343,
+            "bank": "BORESIA,PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "BOREIDJ1"
+        },
+        {
+            "id": 344,
+            "bank": "BT PRIMA SECURITIES INDONESIA PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "PRSIIDJ1"
+        },
+        {
+            "id": 345,
+            "bank": "BUANA SECURITIES,PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "BUAEIDJ1"
+        },
+        {
+            "id": 346,
+            "bank": "BUANAMAS INVESTINDO,PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "BUAIIDJ1"
+        },
+        {
+            "id": 347,
+            "bank": "BUMI ARTA SECURINDO,PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "BUACIDJ1"
+        },
+        {
+            "id": 348,
+            "bank": "BURSA BERJANGKA JAKARTA (JAKARTA FUTURES EXCHANGE)",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "XBBJIDJ1"
+        },
+        {
+            "id": 349,
+            "bank": "BZW NIAGA SECURITIES, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "BZNSIDJ1"
+        },
+        {
+            "id": 350,
+            "bank": "CEF ANDROMEDA SECURITIES, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "CEASIDJ1"
+        },
+        {
+            "id": 351,
             "bank": "CITIBANK, N.A.",
             "city": "BANDUNG",
             "branch": null,
             "swift_code": "CITIIDJXBDG"
         },
         {
-            "id": 278,
+            "id": 352,
             "bank": "CITIBANK, N.A.",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "CITIIDJX"
         },
         {
-            "id": 279,
+            "id": 353,
             "bank": "CITIBANK, N.A.",
             "city": "MEDAN",
             "branch": null,
             "swift_code": "CITIIDJXMDN"
         },
         {
-            "id": 280,
+            "id": 354,
             "bank": "CITIBANK, N.A.",
             "city": "SURABAYA",
             "branch": null,
             "swift_code": "CITIIDJXSBY"
         },
         {
-            "id": 281,
+            "id": 355,
+            "bank": "CITRAMAS SECURINDO,PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "CITUIDJ1"
+        },
+        {
+            "id": 356,
+            "bank": "CLSA INDONESIA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "CLSAIDJ1"
+        },
+        {
+            "id": 357,
+            "bank": "CROSBY INDONESIA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "CROIIDJ1"
+        },
+        {
+            "id": 358,
+            "bank": "DAIWA INDONESIA SECURITIES, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "DAIUIDJ1"
+        },
+        {
+            "id": 359,
+            "bank": "DANA GAJAH SAKTI,PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "DAGSIDJ1"
+        },
+        {
+            "id": 360,
+            "bank": "DANAMETRO SEKURITAS,PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "DANSIDJ1"
+        },
+        {
+            "id": 361,
+            "bank": "DANAMON SECURITAS,PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "DANEIDJ1"
+        },
+        {
+            "id": 362,
+            "bank": "DANASAKTI SECURITIES",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "DANRIDJ1"
+        },
+        {
+            "id": 363,
+            "bank": "DEEMTE ARTADHARMA",
+            "city": "SURABAYA",
+            "branch": null,
+            "swift_code": "DEEMIDJ1"
+        },
+        {
+            "id": 364,
             "bank": "DEUTSCHE BANK AG",
             "city": "JAKARTA",
             "branch": "(DBJK INVESTMENT BANKING OPS)",
             "swift_code": "DEUTIDJAIBO"
         },
         {
-            "id": 282,
+            "id": 365,
             "bank": "DEUTSCHE BANK AG",
             "city": "JAKARTA",
             "branch": "(DEUTSCHE SECURITIES INDONESIA)",
             "swift_code": "DEUTIDJADSI"
         },
         {
-            "id": 283,
+            "id": 366,
             "bank": "DEUTSCHE BANK AG",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "DEUTIDJA"
         },
         {
-            "id": 284,
+            "id": 367,
             "bank": "DEUTSCHE BANK AG",
             "city": "SURABAYA",
             "branch": "(SURABAYA BRANCH)",
             "swift_code": "DEUTIDJA001"
         },
         {
-            "id": 285,
+            "id": 368,
+            "bank": "DEUTSCHE MORGAN GRENFELL INDONESIA,PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "MGIAIDJ1"
+        },
+        {
+            "id": 369,
+            "bank": "DHANA PASIFIK SECURITAS,PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "DHPSIDJ1"
+        },
+        {
+            "id": 370,
+            "bank": "DHANA TUNGGAL BINASATYA,PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "DHATIDJ1"
+        },
+        {
+            "id": 371,
+            "bank": "DHANADAYA ANUGERAH, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "DHANIDJ1"
+        },
+        {
+            "id": 372,
+            "bank": "DHANAMAS BUANA WIRASTA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "DHBWIDJ1"
+        },
+        {
+            "id": 373,
+            "bank": "DHANAWIBAWA ARTHA CEMERLANG",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "DWACIDJ1"
+        },
+        {
+            "id": 374,
+            "bank": "DHARMA FINANCE CORP",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "DHAFIDJ1"
+        },
+        {
+            "id": 375,
+            "bank": "DHARMALA SECURITIES, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "DHSPIDJ1"
+        },
+        {
+            "id": 376,
+            "bank": "DWIDANA PERMAI SECURITIES, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "DWPSIDJ1"
+        },
+        {
+            "id": 377,
+            "bank": "DWIDANA SAKTI SEKURINDO, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "DWSSIDJ1"
+        },
+        {
+            "id": 378,
+            "bank": "DWIPANCA RIJEKI, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "DWIIIDJ1"
+        },
+        {
+            "id": 379,
+            "bank": "E-CAPITAL SECURITIES, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "SURAIDJ1"
+        },
+        {
+            "id": 380,
+            "bank": "EFICORP SEKURITAS PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "SATSIDJ1"
+        },
+        {
+            "id": 381,
+            "bank": "ERDHIKA MUALATAMA SECURITIES, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "ERMSIDJ1"
+        },
+        {
+            "id": 382,
+            "bank": "EXIM SECURITIES, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "EXISIDJ1"
+        },
+        {
+            "id": 383,
+            "bank": "EXPORT-IMPORT BANK OF KOREA, THE",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "EXIKIDJ1"
+        },
+        {
+            "id": 384,
+            "bank": "FINAN CORPINDO NUSA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "FICNIDJ1"
+        },
+        {
+            "id": 385,
+            "bank": "FLORETA PURWA ARTHA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "FLPAIDJ1"
+        },
+        {
+            "id": 386,
+            "bank": "FPB ASIA LIMITED",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "FPASIDJ1"
+        },
+        {
+            "id": 387,
+            "bank": "GANDA SURYA SEKURITAS, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "GASSIDJ1"
+        },
+        {
+            "id": 388,
+            "bank": "GANDA SURYA SEKURITAS, PT",
+            "city": "SURABAYA",
+            "branch": null,
+            "swift_code": "GASSIDJ10JD"
+        },
+        {
+            "id": 389,
+            "bank": "GARUDAPARA INVESINDO, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "GARIIDJ1"
+        },
+        {
+            "id": 390,
+            "bank": "GAWANG REJEKI, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "GAWRIDJ1"
+        },
+        {
+            "id": 391,
+            "bank": "GENTAPASTADO ABADI, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "GENDIDJ1"
+        },
+        {
+            "id": 392,
+            "bank": "HALIM INDONESIA BANK,PT.",
+            "city": "SURABAYA",
+            "branch": null,
+            "swift_code": "HAINIDJ1"
+        },
+        {
+            "id": 393,
+            "bank": "HARPAKENCANA SEKURITAS, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "HARKIDJ1"
+        },
+        {
+            "id": 394,
+            "bank": "HARUMDANA SEKURITAS PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "SEKHIDJ1"
+        },
+        {
+            "id": 395,
+            "bank": "HENAN PUTIHRAI, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "HENPIDJ1"
+        },
+        {
+            "id": 396,
             "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
             "city": "BANDUNG",
             "branch": null,
             "swift_code": "HSBCIDJABAN"
         },
         {
-            "id": 286,
+            "id": 397,
             "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
             "city": "BATAM",
             "branch": null,
             "swift_code": "HSBCIDJABAT"
         },
         {
-            "id": 287,
+            "id": 398,
             "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "HSBCIDJA"
         },
         {
-            "id": 288,
+            "id": 399,
             "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
             "city": "MEDAN",
             "branch": null,
             "swift_code": "HSBCIDJAMDN"
         },
         {
-            "id": 289,
+            "id": 400,
             "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
             "city": "SEMARANG",
             "branch": null,
             "swift_code": "HSBCIDJASEM"
         },
         {
-            "id": 290,
+            "id": 401,
             "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
             "city": "SURABAYA",
             "branch": null,
             "swift_code": "HSBCIDJASBA"
         },
         {
-            "id": 291,
+            "id": 402,
+            "bank": "HSBC SECURITIES INDONESIA PT.",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "HSSEIDJ1"
+        },
+        {
+            "id": 403,
+            "bank": "ICHIYOSHI ALFA SECURITIES, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "ICASIDJ1"
+        },
+        {
+            "id": 404,
+            "bank": "IFIBANK",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "IFIBIDJ1"
+        },
+        {
+            "id": 405,
+            "bank": "INDO PREMIER SECURITIES",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "INPUIDJ1"
+        },
+        {
+            "id": 406,
+            "bank": "INDOCITRA SECURITIES, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "INDRIDJ1"
+        },
+        {
+            "id": 407,
+            "bank": "INDOFINANCIA PRATAMA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "INDPIDJ1"
+        },
+        {
+            "id": 408,
             "bank": "INDONESIA EXIMBANK",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "BEXIIDJA"
         },
         {
-            "id": 292,
+            "id": 409,
+            "bank": "INDONESIA STOCK EXCHANGE",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "XJKTIDJ1"
+        },
+        {
+            "id": 410,
+            "bank": "INDOVER SEKURITAS CO., PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "INDKIDJ1"
+        },
+        {
+            "id": 411,
+            "bank": "INDOVERSE SECURITIES, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "INDTIDJ1"
+        },
+        {
+            "id": 412,
+            "bank": "INDOVEST SECURITIES, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "INOSIDJ1"
+        },
+        {
+            "id": 413,
+            "bank": "INFINITY INVESTAMA,PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "NUSCIDJ1"
+        },
+        {
+            "id": 414,
+            "bank": "INTAN ARTHA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "INTHIDJ1"
+        },
+        {
+            "id": 415,
+            "bank": "INTERASIA SEKURITINDO, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "INTDIDJ1"
+        },
+        {
+            "id": 416,
+            "bank": "INTERINDO DANAPRAYA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "INTYIDJ1"
+        },
+        {
+            "id": 417,
+            "bank": "INTER-PACIFIC SECURITIES, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "INSSIDJ1"
+        },
+        {
+            "id": 418,
+            "bank": "INTI FIKASA SEKURINDO, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "INFEIDJ1"
+        },
+        {
+            "id": 419,
+            "bank": "INTI TELADAN ARTHASWADATA,PT",
+            "city": "SURABAYA",
+            "branch": null,
+            "swift_code": "INTLIDJ1"
+        },
+        {
+            "id": 420,
+            "bank": "INTISEKURITI INVESTAMA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "INTMIDJ1"
+        },
+        {
+            "id": 421,
+            "bank": "J.P MORGAN SECURITIES INDONESIA JAKARTA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "CHASIDS1"
+        },
+        {
+            "id": 422,
+            "bank": "JAKARTA NEGOTIATED BOARD",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "XJNBIDJ1"
+        },
+        {
+            "id": 423,
+            "bank": "JALUR ARTHA WAHANA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "JAAWIDJ1"
+        },
+        {
+            "id": 424,
+            "bank": "JARDINE FLEMING",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "JFLEIDJ1"
+        },
+        {
+            "id": 425,
+            "bank": "JASA JAKARTA SECURITIES, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "JAJSIDJ1"
+        },
+        {
+            "id": 426,
+            "bank": "JASABANDA GARTA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "JASGIDJ1"
+        },
+        {
+            "id": 427,
+            "bank": "JASEREH UTAMA PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "JAUTIDJ1"
+        },
+        {
+            "id": 428,
             "bank": "JPMORGAN CHASE BANK, N.A.",
             "city": "JAKARTA",
             "branch": "(TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES)",
             "swift_code": "CHASIDJXENQ"
         },
         {
-            "id": 293,
+            "id": 429,
             "bank": "JPMORGAN CHASE BANK, N.A.",
             "city": "JAKARTA",
             "branch": "(TEST KEY AND BKE ADMINISTRATION)",
             "swift_code": "CHASIDJXKEY"
         },
         {
-            "id": 294,
+            "id": 430,
             "bank": "JPMORGAN CHASE BANK, N.A.",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "CHASIDJX"
         },
         {
-            "id": 295,
+            "id": 431,
+            "bank": "KAPITA SEKURINDO, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "KAPSIDJ1"
+        },
+        {
+            "id": 432,
+            "bank": "KAPITALINDO UTAMA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "KAPUIDJ1"
+        },
+        {
+            "id": 433,
+            "bank": "KARTIKA INVESTINDO PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "KARIIDJ1"
+        },
+        {
+            "id": 434,
+            "bank": "KES SINARMAS SECURITIES, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "KESUIDJ1"
+        },
+        {
+            "id": 435,
+            "bank": "KESTREL SEKURITAS INDONESIA,PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "KESIIDJ1"
+        },
+        {
+            "id": 436,
+            "bank": "KHARISMA MULATAMA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "KHAMIDJ1"
+        },
+        {
+            "id": 437,
+            "bank": "KIM ENG SECURITIES, P.T.",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "KMESIDJ1"
+        },
+        {
+            "id": 438,
             "bank": "KUSTODIAN SENTRAL EFEK INDONESIA PT",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "KSEIIDJA"
         },
         {
-            "id": 296,
+            "id": 439,
+            "bank": "KWIK CHANDRA MARTOATMODJO, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "KWCMIDJ1"
+        },
+        {
+            "id": 440,
+            "bank": "LAMGANDA CITRA SECURITIES, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "LACSIDJ1"
+        },
+        {
+            "id": 441,
+            "bank": "LAYANG MEGA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "LAYMIDJ1"
+        },
+        {
+            "id": 442,
+            "bank": "LAYANG MEGA, PT",
+            "city": "SURABAYA",
+            "branch": null,
+            "swift_code": "LAYMIDJ10JD"
+        },
+        {
+            "id": 443,
+            "bank": "LUMBUNG PERSADA KHATULISTIWA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "LUPKIDJ1"
+        },
+        {
+            "id": 444,
+            "bank": "MADAH PACIFIC, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "MADPIDJ1"
+        },
+        {
+            "id": 445,
+            "bank": "MAKEFIN, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "MAKEIDJ1"
+        },
+        {
+            "id": 446,
+            "bank": "MAKINDO SECURITIES, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "SEMAIDJ1"
+        },
+        {
+            "id": 447,
+            "bank": "MAKSURINDO,PT",
+            "city": "SURABAYA",
+            "branch": null,
+            "swift_code": "MAKUIDJ1"
+        },
+        {
+            "id": 448,
+            "bank": "MALYSA ANUGRAH, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "MALNIDJ1"
+        },
+        {
+            "id": 449,
+            "bank": "MARYLOONE MENTARI, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "MARNIDJ1"
+        },
+        {
+            "id": 450,
+            "bank": "MASHILL SECURITIES, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "MAHUIDJ1"
+        },
+        {
+            "id": 451,
+            "bank": "MEGA INVESTA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "MEGNIDJ1"
+        },
+        {
+            "id": 452,
+            "bank": "MENTARI SECURINDO, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "MENEIDJ1"
+        },
+        {
+            "id": 453,
+            "bank": "MERINCORP SECURINDO, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "MEREIDJ1"
+        },
+        {
+            "id": 454,
+            "bank": "MERRILL LYNCH INDONESIA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "MLIOIDJ1"
+        },
+        {
+            "id": 455,
+            "bank": "METRO SUKMA SECURITIES, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "MESEIDJ1"
+        },
+        {
+            "id": 456,
+            "bank": "METROPOLITAN SECURINVEST, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "METSIDJ1"
+        },
+        {
+            "id": 457,
+            "bank": "MIFCOR SEKURITAS, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "MIFSIDJ1"
+        },
+        {
+            "id": 458,
+            "bank": "MITRA DUTA SECURITAS, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "MIDUIDJ1"
+        },
+        {
+            "id": 459,
+            "bank": "MITRA TATADHANA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "MITAIDJ1"
+        },
+        {
+            "id": 460,
+            "bank": "MITRACONVEST, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "MITRIDJ1"
+        },
+        {
+            "id": 461,
+            "bank": "MUAMALAT",
+            "city": "SEMARANG",
+            "branch": null,
+            "swift_code": "MUAMIDJ1"
+        },
+        {
+            "id": 462,
+            "bank": "MUARA SECURITIES",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "MULMIDJ1"
+        },
+        {
+            "id": 463,
+            "bank": "MULTI PENGELOLA DANAPRIMA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "MUPDIDJ1"
+        },
+        {
+            "id": 464,
+            "bank": "MULTICOR SECURITIES, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "MULSIDJ1"
+        },
+        {
+            "id": 465,
+            "bank": "MULTIPRAKARSA INVESTAMA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "MULIIDJ1"
+        },
+        {
+            "id": 466,
+            "bank": "MURNI SEGARA LESTARI, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "MUSLIDJ1"
+        },
+        {
+            "id": 467,
+            "bank": "NAMALATU RONESINA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "NAMRIDJ1"
+        },
+        {
+            "id": 468,
+            "bank": "NATIN BANK",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "NNBKIDJ1"
+        },
+        {
+            "id": 469,
+            "bank": "NATURA PACIFIC, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "NATPIDJ1"
+        },
+        {
+            "id": 470,
+            "bank": "NIAGA SECURITIES, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "NIASIDJ1"
+        },
+        {
+            "id": 471,
+            "bank": "NIKI ASIA SECURINDO, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "NIAEIDJ1"
+        },
+        {
+            "id": 472,
+            "bank": "NIKKO SECURITIES INDONESIA PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "NIKKIDJ1"
+        },
+        {
+            "id": 473,
+            "bank": "OCBC SIKAP SECURITIES, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "OCSSIDJ1"
+        },
+        {
+            "id": 474,
+            "bank": "P. T. NOMURA INDONESIA",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "NOMIIDJ1"
+        },
+        {
+            "id": 475,
             "bank": "P.T. MERCEDES-BENZ DISTRIBUTION INDONESIA",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "DADIIDJA"
         },
         {
-            "id": 297,
+            "id": 476,
             "bank": "P.T. MERCEDES-BENZ INDONESIA",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "DABEIDJA"
         },
         {
-            "id": 298,
+            "id": 477,
+            "bank": "P.T. SAMSUNG ELECTRONICS INDONESIA",
+            "city": "BEKASI",
+            "branch": "(SEIN)",
+            "swift_code": "SECTIDJ1570"
+        },
+        {
+            "id": 478,
+            "bank": "P.T. SAMSUNG ELECTRONICS INDONESIA",
+            "city": "BEKASI",
+            "branch": null,
+            "swift_code": "SECTIDJ1"
+        },
+        {
+            "id": 479,
+            "bank": "P.T. SAMSUNG ELECTRONICS INDONESIA",
+            "city": "JAKARTA",
+            "branch": "(STIN)",
+            "swift_code": "SECTIDJ1571"
+        },
+        {
+            "id": 480,
             "bank": "PAN INDONESIA BANK PT.",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "PINBIDJA"
         },
         {
-            "id": 299,
+            "id": 481,
+            "bank": "PANCASUMBER DHANAMANDIRI,PT",
+            "city": "SURABAYA",
+            "branch": null,
+            "swift_code": "PANMIDJ1"
+        },
+        {
+            "id": 482,
+            "bank": "PANDURAMA SEKURITAS, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "PANEIDJ1"
+        },
+        {
+            "id": 483,
+            "bank": "PANIN CAPITAL, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "PANCIDJ1"
+        },
+        {
+            "id": 484,
+            "bank": "PANIN CAPITAL, PT",
+            "city": "SURABAYA",
+            "branch": null,
+            "swift_code": "PANCIDJ10JD"
+        },
+        {
+            "id": 485,
+            "bank": "PARAMITRA ALFA SEKURITAS",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "PEKUIDL1"
+        },
+        {
+            "id": 486,
+            "bank": "PARAMITRA YAMASEKURITAS, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "PARYIDJ1"
+        },
+        {
+            "id": 487,
+            "bank": "PARIBAS ASIA EQUITY, P.T.",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "AEHLIDJ1"
+        },
+        {
+            "id": 488,
+            "bank": "PATRIATAMA DANAMANDIRI, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "PATDIDJ1"
+        },
+        {
+            "id": 489,
+            "bank": "PDFCI SECURITIES, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "PDFSIDJ1"
+        },
+        {
+            "id": 490,
+            "bank": "PENDAWA DANA MANDIRI, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "PEDMIDJ1"
+        },
+        {
+            "id": 491,
+            "bank": "PENTASENA ARTHASENTOSA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "PENRIDJ1"
+        },
+        {
+            "id": 492,
+            "bank": "PEREGRINE SECURITIES PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "PESSIDJ1"
+        },
+        {
+            "id": 493,
+            "bank": "PIRANTI CIPTADHANA AMERTA SECURITIES, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "PCASIDJ1"
+        },
+        {
+            "id": 494,
+            "bank": "POS INDONESIA",
+            "city": "BANDUNG",
+            "branch": null,
+            "swift_code": "POIDIDJ1"
+        },
+        {
+            "id": 495,
+            "bank": "PRANATA INVESINDO, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "PRAIIDJ1"
+        },
+        {
+            "id": 496,
+            "bank": "PRANATA SECURITIES, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "PRASIDJ1"
+        },
+        {
+            "id": 497,
+            "bank": "PRANATA SECURITIES, PT",
+            "city": "SURABAYA",
+            "branch": null,
+            "swift_code": "PRASIDJ10JD"
+        },
+        {
+            "id": 498,
+            "bank": "PRASASTA PAPERASIA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "PRAPIDJ1"
+        },
+        {
+            "id": 499,
+            "bank": "PRATAMA PENAGANARTHA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "PRAEIDJ1"
+        },
+        {
+            "id": 500,
+            "bank": "PRIMASIA SECURITIES PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "MANRIDJ1"
+        },
+        {
+            "id": 501,
+            "bank": "PT ABACUS CAPITAL INDONESIA",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "PTACIDJ1"
+        },
+        {
+            "id": 502,
+            "bank": "PT AIA FINANCIAL",
+            "city": "TANGERANG",
+            "branch": "(GENERAL INVESTMENT OPERATIONS)",
+            "swift_code": "AIACIDJ1GIO"
+        },
+        {
+            "id": 503,
             "bank": "PT AIA FINANCIAL",
             "city": "TANGERANG",
             "branch": null,
             "swift_code": "AIACIDJA"
         },
         {
-            "id": 300,
+            "id": 504,
+            "bank": "PT ANTABOGA DELTA SEKURITAS INDONESIA",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "ADSIIDJ1"
+        },
+        {
+            "id": 505,
             "bank": "PT BANK BRISYARIAH",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "BRISIDJA"
         },
         {
-            "id": 301,
+            "id": 506,
             "bank": "PT BANK BUMI ARTA TBK",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "BBAIIDJA"
         },
         {
-            "id": 302,
+            "id": 507,
             "bank": "PT BANK CAPITAL INDONESIA, TBK",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "BCIAIDJA"
         },
         {
-            "id": 303,
+            "id": 508,
             "bank": "PT BANK ICBC INDONESIA",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "ICBKIDJA"
         },
         {
-            "id": 304,
+            "id": 509,
             "bank": "PT BANK INDEX SELINDO",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "BIDXIDJA"
         },
         {
-            "id": 305,
+            "id": 510,
+            "bank": "PT BANK INDOVEST TBK",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "INDIIDJ1"
+        },
+        {
+            "id": 511,
+            "bank": "PT BANK MASPION INDONESIA",
+            "city": "SURABAYA",
+            "branch": null,
+            "swift_code": "MASDIDJ1"
+        },
+        {
+            "id": 512,
             "bank": "PT BANK MAYBANK INDONESIA TBK",
             "city": "JAKARTA",
             "branch": "(EXPEND CONTROL DEPT.)",
             "swift_code": "IBBKIDJADEX"
         },
         {
-            "id": 306,
+            "id": 513,
             "bank": "PT BANK MAYBANK INDONESIA TBK",
             "city": "JAKARTA",
             "branch": "(JUANDA BRANCH)",
             "swift_code": "IBBKIDJA138"
         },
         {
-            "id": 307,
+            "id": 514,
             "bank": "PT BANK MAYBANK INDONESIA TBK",
             "city": "JAKARTA",
             "branch": "(KALIBESAR BRANCH)",
             "swift_code": "IBBKIDJA001"
         },
         {
-            "id": 308,
+            "id": 515,
             "bank": "PT BANK MAYBANK INDONESIA TBK",
             "city": "JAKARTA",
             "branch": "(PANGLIMA POLIM BRANCH)",
             "swift_code": "IBBKIDJA008"
         },
         {
-            "id": 309,
+            "id": 516,
             "bank": "PT BANK MAYBANK INDONESIA TBK",
             "city": "JAKARTA",
             "branch": "(SETTLEMENT DEPT.)",
             "swift_code": "IBBKIDJATRS"
         },
         {
-            "id": 310,
+            "id": 517,
             "bank": "PT BANK MAYBANK INDONESIA TBK",
             "city": "JAKARTA",
             "branch": "(THAMRIN BRANCH)",
             "swift_code": "IBBKIDJA003"
         },
         {
-            "id": 311,
+            "id": 518,
             "bank": "PT BANK MAYBANK INDONESIA TBK",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "IBBKIDJA"
         },
         {
-            "id": 312,
+            "id": 519,
             "bank": "PT BANK MAYBANK SYARIAH INDONESIA",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "MBBEIDJA"
         },
         {
-            "id": 313,
+            "id": 520,
+            "bank": "PT BANK OCBC NISP TBK",
+            "city": "BANDUNG",
+            "branch": "(ASIA AFRIKA BRANCH)",
+            "swift_code": "NISPIDJ1BDG"
+        },
+        {
+            "id": 521,
+            "bank": "PT BANK OCBC NISP TBK",
+            "city": "BATAM",
+            "branch": null,
+            "swift_code": "NISPIDJ1BTM"
+        },
+        {
+            "id": 522,
             "bank": "PT BANK OCBC NISP TBK",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "NISPIDJA"
         },
         {
-            "id": 314,
+            "id": 523,
+            "bank": "PT BANK OCBC NISP TBK",
+            "city": "SEMARANG",
+            "branch": null,
+            "swift_code": "NISPIDJ1SMG"
+        },
+        {
+            "id": 524,
+            "bank": "PT BANK OCBC NISP TBK",
+            "city": "SURABAYA",
+            "branch": null,
+            "swift_code": "NISPIDJ1SBY"
+        },
+        {
+            "id": 525,
+            "bank": "PT BANK PERMATA, TBK",
+            "city": "BANDUNG",
+            "branch": null,
+            "swift_code": "BBBAIDJ10J6"
+        },
+        {
+            "id": 526,
             "bank": "PT BANK PERMATA, TBK",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "BBBAIDJA"
         },
         {
-            "id": 315,
+            "id": 527,
+            "bank": "PT BANK PERMATA, TBK",
+            "city": "MEDAN",
+            "branch": null,
+            "swift_code": "BBBAIDJ10SS"
+        },
+        {
+            "id": 528,
+            "bank": "PT BANK PERMATA, TBK",
+            "city": "SEMARANG",
+            "branch": null,
+            "swift_code": "BBBAIDJ10J8"
+        },
+        {
+            "id": 529,
+            "bank": "PT BANK PERMATA, TBK",
+            "city": "SURABAYA",
+            "branch": null,
+            "swift_code": "BBBAIDJ10JD"
+        },
+        {
+            "id": 530,
             "bank": "PT BANK QNB INDONESIA TBK",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "AWANIDJA"
         },
         {
-            "id": 316,
+            "id": 531,
             "bank": "PT BANK RIAU KEPRI",
             "city": "PEKANBARU",
             "branch": null,
             "swift_code": "PDRIIDJA"
         },
         {
-            "id": 317,
+            "id": 532,
             "bank": "PT BANK SYARIAH MANDIRI",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "BSMDIDJA"
         },
         {
-            "id": 318,
+            "id": 533,
             "bank": "PT BANK TABUNGAN PENSIUNAN NASIONAL TBK",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "BTPNIDJA"
         },
         {
-            "id": 319,
+            "id": 534,
             "bank": "PT BANK UOB INDONESIA",
             "city": "BANDUNG",
             "branch": null,
             "swift_code": "BBIJIDJA004"
         },
         {
-            "id": 320,
+            "id": 535,
+            "bank": "PT BANK UOB INDONESIA",
+            "city": "DENPASAR",
+            "branch": "(DENPASAR BRANCH)",
+            "swift_code": "BBIJIDJ10BD"
+        },
+        {
+            "id": 536,
+            "bank": "PT BANK UOB INDONESIA",
+            "city": "DENPASAR",
+            "branch": null,
+            "swift_code": "BBIJIDJ1024"
+        },
+        {
+            "id": 537,
             "bank": "PT BANK UOB INDONESIA",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "BBIJIDJA"
         },
         {
-            "id": 321,
+            "id": 538,
             "bank": "PT BANK UOB INDONESIA",
             "city": "MEDAN",
             "branch": null,
             "swift_code": "BBIJIDJA002"
         },
         {
-            "id": 322,
+            "id": 539,
             "bank": "PT BANK UOB INDONESIA",
             "city": "SURABAYA",
             "branch": null,
             "swift_code": "BBIJIDJA003"
         },
         {
-            "id": 323,
+            "id": 540,
+            "bank": "PT BHAKTI INVESTAMA, TBK",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "BHANIDJ1"
+        },
+        {
+            "id": 541,
+            "bank": "PT BNP PARIBAS INVESTMENT PARTNERS",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "BPIEIDJ1"
+        },
+        {
+            "id": 542,
+            "bank": "PT BUANA CAPITAL",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "BUNCIDJ1"
+        },
+        {
+            "id": 543,
+            "bank": "PT CIMB SECURITIES INDONESIA",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "GOHOIDJ1"
+        },
+        {
+            "id": 544,
+            "bank": "PT CREDIT SUISSE SECURITIES INDONESIA",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "CRESIDJ1"
+        },
+        {
+            "id": 545,
+            "bank": "PT DANATAMA MAKMUR SECURITIES",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "DANMIDJ1"
+        },
+        {
+            "id": 546,
+            "bank": "PT EASTSPRING INVESTMENTS INDONESIA",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "EAIIIDJ1"
+        },
+        {
+            "id": 547,
+            "bank": "PT FITCH RATINGS INDONESIA",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "FRIPIDJ1"
+        },
+        {
+            "id": 548,
+            "bank": "PT KRESNA GRAHA SEKURITAS TBK",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "KGSTIDJ1"
+        },
+        {
+            "id": 549,
+            "bank": "PT LIPPO SECURITIES TBK",
+            "city": "TANGERANG",
+            "branch": null,
+            "swift_code": "LIPSIDJ1"
+        },
+        {
+            "id": 550,
+            "bank": "PT MACQUARIE CAPITAL SECURITIES INDONESIA",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "IBSEIDJ1"
+        },
+        {
+            "id": 551,
+            "bank": "PT PACIFIC 2000 INVESTINDO",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "STOIIDJ1"
+        },
+        {
+            "id": 552,
+            "bank": "PT RBS ASIA SECURITIES INDONESIA",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "HGASIDJ1"
+        },
+        {
+            "id": 553,
+            "bank": "PT RHB OSK SECURITIES INDONESIA",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "ONSNIDJ1"
+        },
+        {
+            "id": 554,
+            "bank": "PT SARIJAYA PERMANA SEKURITAS",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "TEDAIDJ1"
+        },
+        {
+            "id": 555,
+            "bank": "PT SCHRODER INVESTMENT MANAGEMENT INDONESIA",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "SIMDIDJ1"
+        },
+        {
+            "id": 556,
+            "bank": "PT SUN LIFE INDONESIA SERVICES",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "SLISIDJ1"
+        },
+        {
+            "id": 557,
+            "bank": "PT SUPRA SECURINVEST",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "SUPEIDJ1"
+        },
+        {
+            "id": 558,
+            "bank": "PT TRIMEGAH SECURITIES TBK",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "TRSSIDJ1"
+        },
+        {
+            "id": 559,
+            "bank": "PT UBS SECURITIES INDONESIA",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "SBWIIDJ1"
+        },
+        {
+            "id": 560,
+            "bank": "PT UBS SECURITIES INDONESIA",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "SBWNIDJ1"
+        },
+        {
+            "id": 561,
             "bank": "PT. BANK AGRIS",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "AGSSIDJA"
         },
         {
-            "id": 324,
+            "id": 562,
             "bank": "PT. BANK BNI SYARIAH",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "SYNIIDJA"
         },
         {
-            "id": 325,
+            "id": 563,
             "bank": "PT. BANK BUKOPIN, TBK",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "BBUKIDJA"
         },
         {
-            "id": 326,
+            "id": 564,
+            "bank": "PT. BANK CIMB NIAGA, TBK.",
+            "city": "BANDUNG",
+            "branch": "(LEMBONG BRANCH)",
+            "swift_code": "BNIAIDJ10J6"
+        },
+        {
+            "id": 565,
             "bank": "PT. BANK CIMB NIAGA, TBK.",
             "city": "JAKARTA",
             "branch": "(GAJAH MADA REGIONAL OFFICE)",
             "swift_code": "BNIAIDJAGMA"
         },
         {
-            "id": 327,
+            "id": 566,
             "bank": "PT. BANK CIMB NIAGA, TBK.",
             "city": "JAKARTA",
             "branch": "(HEAD OFFICE OPERATION)",
             "swift_code": "BNIAIDJA"
         },
         {
-            "id": 328,
+            "id": 567,
             "bank": "PT. BANK CIMB NIAGA, TBK.",
             "city": "JAKARTA",
             "branch": "(THAMRIN BRANCH)",
             "swift_code": "BNIAIDJATHM"
         },
         {
-            "id": 329,
+            "id": 568,
+            "bank": "PT. BANK CIMB NIAGA, TBK.",
+            "city": "LAMPUNG",
+            "branch": "(LAMPUNG BRANCH)",
+            "swift_code": "BNIAIDJ10S2"
+        },
+        {
+            "id": 569,
+            "bank": "PT. BANK CIMB NIAGA, TBK.",
+            "city": "MEDAN",
+            "branch": "(MEDAN BRANCH)",
+            "swift_code": "BNIAIDJ10SS"
+        },
+        {
+            "id": 570,
             "bank": "PT. BANK CIMB NIAGA, TBK.",
             "city": "SEMARANG",
             "branch": "(SEMARANG BRANCH)",
             "swift_code": "BNIAIDJASMG"
         },
         {
-            "id": 330,
+            "id": 571,
             "bank": "PT. BANK CIMB NIAGA, TBK.",
             "city": "SURABAYA",
             "branch": "(TUNUNGAN BRANCH)",
             "swift_code": "BNIAIDJATUN"
         },
         {
-            "id": 331,
+            "id": 572,
+            "bank": "PT. BANK CIMB NIAGA, TBK.",
+            "city": "UJUNG PANDANG",
+            "branch": "(UJUNG PANDANG BRANCH)",
+            "swift_code": "BNIAIDJ10D2"
+        },
+        {
+            "id": 573,
             "bank": "PT. BANK COMMONWEALTH",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "BICNIDJA"
         },
         {
-            "id": 332,
+            "id": 574,
             "bank": "PT. BANK DANAMON INDONESIA, TBK",
             "city": "BALIKPAPAN",
             "branch": "(L\/C DEPARTMENT)",
             "swift_code": "BDINIDJABPN"
         },
         {
-            "id": 333,
+            "id": 575,
             "bank": "PT. BANK DANAMON INDONESIA, TBK",
             "city": "BANDUNG",
             "branch": "(BANDUNG OTISTA BRANCH)",
             "swift_code": "BDINIDJAOTI"
         },
         {
-            "id": 334,
+            "id": 576,
             "bank": "PT. BANK DANAMON INDONESIA, TBK",
             "city": "JAKARTA",
             "branch": "(CORPORATE LC PROCESSING CENTRE)",
             "swift_code": "BDINIDJACLC"
         },
         {
-            "id": 335,
+            "id": 577,
             "bank": "PT. BANK DANAMON INDONESIA, TBK",
             "city": "JAKARTA",
             "branch": "(CUSTODIAL SERVICES)",
             "swift_code": "BDINIDJACUS"
         },
         {
-            "id": 336,
+            "id": 578,
             "bank": "PT. BANK DANAMON INDONESIA, TBK",
             "city": "JAKARTA",
             "branch": "(FINANCIAL INSTITUTIONS CORRESPONDENT BANKING)",
             "swift_code": "BDINIDJAIFI"
         },
         {
-            "id": 337,
+            "id": 579,
             "bank": "PT. BANK DANAMON INDONESIA, TBK",
             "city": "JAKARTA",
             "branch": "(INTERNATIONAL REMITTANCE)",
             "swift_code": "BDINIDJARMT"
         },
         {
-            "id": 338,
+            "id": 580,
             "bank": "PT. BANK DANAMON INDONESIA, TBK",
             "city": "JAKARTA",
             "branch": "(L\/C PROCESSING CENTER - MAKASSAR)",
             "swift_code": "BDINIDJAMKS"
         },
         {
-            "id": 339,
+            "id": 581,
             "bank": "PT. BANK DANAMON INDONESIA, TBK",
             "city": "JAKARTA",
             "branch": "(LC CENTRE)",
             "swift_code": "BDINIDJALCC"
         },
         {
-            "id": 340,
+            "id": 582,
+            "bank": "PT. BANK DANAMON INDONESIA, TBK",
+            "city": "JAKARTA",
+            "branch": "(P. JAYAKARTA BRANCH)",
+            "swift_code": "BDINIDJ10J3"
+        },
+        {
+            "id": 583,
             "bank": "PT. BANK DANAMON INDONESIA, TBK",
             "city": "JAKARTA",
             "branch": "(TRANSACTIONS PROCESSING CENTRE)",
             "swift_code": "BDINIDJATPC"
         },
         {
-            "id": 341,
+            "id": 584,
             "bank": "PT. BANK DANAMON INDONESIA, TBK",
             "city": "JAKARTA",
             "branch": "(TREASURY OPERATIONS)",
             "swift_code": "BDINIDJATRS"
         },
         {
-            "id": 342,
+            "id": 585,
             "bank": "PT. BANK DANAMON INDONESIA, TBK",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "BDINIDJA"
         },
         {
-            "id": 343,
+            "id": 586,
             "bank": "PT. BANK DANAMON INDONESIA, TBK",
             "city": "MEDAN",
             "branch": "(MEDAN-ISKANDARMUDA BRANCH)",
             "swift_code": "BDINIDJAMIM"
         },
         {
-            "id": 344,
+            "id": 587,
             "bank": "PT. BANK DANAMON INDONESIA, TBK",
             "city": "MERAUKE",
             "branch": "(L\/C DEPARTMENT-MEARUKE)",
             "swift_code": "BDINIDJAMRK"
         },
         {
-            "id": 345,
+            "id": 588,
             "bank": "PT. BANK DANAMON INDONESIA, TBK",
             "city": "SEMARANG",
             "branch": "(SEMARANG PEMUDA BRANCH)",
             "swift_code": "BDINIDJASPM"
         },
         {
-            "id": 346,
+            "id": 589,
             "bank": "PT. BANK DANAMON INDONESIA, TBK",
             "city": "SOLO",
             "branch": "(SOLO SRATEN BRANCH)",
             "swift_code": "BDINIDJASSR"
         },
         {
-            "id": 347,
+            "id": 590,
             "bank": "PT. BANK DANAMON INDONESIA, TBK",
             "city": "SURABAYA",
             "branch": "(L\/C PROCESSING CENTRE SURABAYA)",
             "swift_code": "BDINIDJASBY"
         },
         {
-            "id": 348,
+            "id": 591,
             "bank": "PT. BANK DANAMON INDONESIA, TBK",
             "city": "TANJUNG PINANG",
             "branch": "(LC DEPARTMENT)",
             "swift_code": "BDINIDJATJP"
         },
         {
-            "id": 349,
+            "id": 592,
             "bank": "PT. BANK DANAMON INDONESIA, TBK",
             "city": "YOGYAKARTA",
             "branch": "(L\/C DEPARTMENT-YOGYAKARTA)",
             "swift_code": "BDINIDJAYGY"
         },
         {
-            "id": 350,
+            "id": 593,
             "bank": "PT. BANK GANESHA",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "GNESIDJA"
         },
         {
-            "id": 351,
+            "id": 594,
+            "bank": "PT. BANK HAGAKITA",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "BHAGIDS1"
+        },
+        {
+            "id": 595,
             "bank": "PT. BANK JATIM",
             "city": "SURABAYA",
             "branch": null,
             "swift_code": "BJTMIDJA"
         },
         {
-            "id": 352,
+            "id": 596,
             "bank": "PT. BANK JTRUST INDONESIA TBK (FORMERLY PT. BANK MUTIARA TBK)",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "CICTIDJA"
         },
         {
-            "id": 353,
+            "id": 597,
             "bank": "PT. BANK KEB HANA INDONESIA",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "HNBNIDJA"
         },
         {
-            "id": 354,
+            "id": 598,
             "bank": "PT. BANK MASPION INDONESIA",
             "city": "SURABAYA",
             "branch": null,
             "swift_code": "MASDIDJS"
         },
         {
-            "id": 355,
+            "id": 599,
             "bank": "PT. BANK MAYAPADA INTERNATIONAL TBK",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "MAYAIDJA"
         },
         {
-            "id": 356,
+            "id": 600,
             "bank": "PT. BANK MAYORA",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "MAYOIDJA"
         },
         {
-            "id": 357,
+            "id": 601,
             "bank": "PT. BANK MEGA SYARIAH",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "BMSIIDJA"
         },
         {
-            "id": 358,
+            "id": 602,
             "bank": "PT. BANK MUAMALAT INDONESIA , TBK",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "MUABIDJA"
         },
         {
-            "id": 359,
+            "id": 603,
             "bank": "PT. BANK NATIONALNOBU",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "NOBUIDJA"
         },
         {
-            "id": 360,
+            "id": 604,
+            "bank": "PT. BANK NISP TBK",
+            "city": "ANDIR",
+            "branch": "(BANDUNG BRANCH)",
+            "swift_code": "NISPID610J4"
+        },
+        {
+            "id": 605,
+            "bank": "PT. BANK NISP TBK",
+            "city": "BOGOR",
+            "branch": "(BOGOR BRANCH)",
+            "swift_code": "NISPID610J3"
+        },
+        {
+            "id": 606,
+            "bank": "PT. BANK NISP TBK",
+            "city": "CIMAHI",
+            "branch": "(CIMAHI BRANCH)",
+            "swift_code": "NISPID610J5"
+        },
+        {
+            "id": 607,
+            "bank": "PT. BANK NISP TBK",
+            "city": "JAKARTA",
+            "branch": "(HEAD OFFICE)",
+            "swift_code": "NISPID61"
+        },
+        {
+            "id": 608,
             "bank": "PT. BANK OF INDIA INDONESIA,TBK",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "BKIDIDJA"
         },
         {
-            "id": 361,
+            "id": 609,
             "bank": "PT. BANK PEMBANGUNAN DAERAH BALI",
             "city": "DENPASAR",
             "branch": null,
             "swift_code": "ABALIDBS"
         },
         {
-            "id": 362,
+            "id": 610,
             "bank": "PT. BANK PEMBANGUNAN DAERAH JAWA BARAT DAN BANTEN, TBK",
             "city": "BANDUNG",
             "branch": null,
             "swift_code": "PDJBIDJA"
         },
         {
-            "id": 363,
+            "id": 611,
             "bank": "PT. BANK PEMBANGUNAN DAERAH SUMATERA SELATAN",
             "city": "PALEMBANG",
             "branch": null,
             "swift_code": "BSSPIDSP"
         },
         {
-            "id": 364,
+            "id": 612,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "AMBON",
             "branch": "(AMBON BRANCH)",
             "swift_code": "BRINIDJA001"
         },
         {
-            "id": 365,
+            "id": 613,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "BAGAN SIAPI-API",
             "branch": "(BAGAN SIAPI-API BRANCH)",
             "swift_code": "BRINIDJA002"
         },
         {
-            "id": 366,
+            "id": 614,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "BANDA ACEH",
             "branch": "(BANDA ACEH BRANCH)",
             "swift_code": "BRINIDJA037"
         },
         {
-            "id": 367,
+            "id": 615,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "BANDUNG",
             "branch": "(ASIA AFRIKA BRANCH)",
             "swift_code": "BRINIDJA005"
         },
         {
-            "id": 368,
+            "id": 616,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "BANDUNG",
             "branch": "(DEWI SARTIKA BRANCH)",
             "swift_code": "BRINIDJA286"
         },
         {
-            "id": 369,
+            "id": 617,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "BANJARMASIN",
             "branch": "(BANJARMASIN BRANCH)",
             "swift_code": "BRINIDJA003"
         },
         {
-            "id": 370,
+            "id": 618,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "BATAM",
             "branch": "(BATAM BRANCH)",
             "swift_code": "BRINIDJA331"
         },
         {
-            "id": 371,
+            "id": 619,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "BENGKALIS",
             "branch": "(BENGKALIS BRANCH)",
             "swift_code": "BRINIDJA189"
         },
         {
-            "id": 372,
+            "id": 620,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "BIAK",
             "branch": "(BIAK BRANCH)",
             "swift_code": "BRINIDJA308"
         },
         {
-            "id": 373,
+            "id": 621,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "BONTANG",
             "branch": "(BONTANG BRANCH)",
             "swift_code": "BRINIDJA333"
         },
         {
-            "id": 374,
+            "id": 622,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "CIREBON",
             "branch": "(CIREBON BRANCH)",
             "swift_code": "BRINIDJA107"
         },
         {
-            "id": 375,
+            "id": 623,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "DILI",
             "branch": "(DILI BRANCH)",
             "swift_code": "BRINIDJA317"
         },
         {
-            "id": 376,
+            "id": 624,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "DUMAI",
             "branch": "(DUMAI BRANCH)",
             "swift_code": "BRINIDJA159"
         },
         {
-            "id": 377,
+            "id": 625,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "GRESIK",
             "branch": "(GRESIK BRANCH)",
             "swift_code": "BRINIDJA026"
         },
         {
-            "id": 378,
+            "id": 626,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "JAKARTA",
             "branch": "(CUSTODIAN BRI)",
             "swift_code": "BRINIDJACUS"
         },
         {
-            "id": 379,
+            "id": 627,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "JAKARTA",
             "branch": "(CUT MUTIAH BRANCH)",
             "swift_code": "BRINIDJA230"
         },
         {
-            "id": 380,
+            "id": 628,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "JAKARTA",
             "branch": "(FATMAWATI BRANCH)",
             "swift_code": "BRINIDJA330"
         },
         {
-            "id": 381,
+            "id": 629,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "JAKARTA",
             "branch": "(GATOT SUBROTO BRANCH)",
             "swift_code": "BRINIDJA359"
         },
         {
-            "id": 382,
+            "id": 630,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "JAKARTA",
             "branch": "(HAYAM WURUK BRANCH)",
             "swift_code": "BRINIDJA332"
         },
         {
-            "id": 383,
+            "id": 631,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "JAKARTA",
             "branch": "(JAKARTA KOTA BRANCH)",
             "swift_code": "BRINIDJA019"
         },
         {
-            "id": 384,
+            "id": 632,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "JAKARTA",
             "branch": "(JATINEGARA BRANCH)",
             "swift_code": "BRINIDJA122"
         },
         {
-            "id": 385,
+            "id": 633,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "JAKARTA",
             "branch": "(KCK - SPECIAL BRANCH)",
             "swift_code": "BRINIDJA206"
         },
         {
-            "id": 386,
+            "id": 634,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "JAKARTA",
             "branch": "(KEBAYORAN BARU BRANCH)",
             "swift_code": "BRINIDJA193"
         },
         {
-            "id": 387,
+            "id": 635,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "JAKARTA",
             "branch": "(KRAMAT BRANCH)",
             "swift_code": "BRINIDJA335"
         },
         {
-            "id": 388,
+            "id": 636,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "JAKARTA",
             "branch": "(KREKOT BRANCH)",
             "swift_code": "BRINIDJA261"
         },
         {
-            "id": 389,
+            "id": 637,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "JAKARTA",
             "branch": "(OTISTA BRANCH)",
             "swift_code": "BRINIDJA340"
         },
         {
-            "id": 390,
+            "id": 638,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "JAKARTA",
             "branch": "(PASAR PAGI BRANCH)",
             "swift_code": "BRINIDJA346"
         },
         {
-            "id": 391,
+            "id": 639,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "JAKARTA",
             "branch": "(ROXI BRANCH)",
             "swift_code": "BRINIDJA338"
         },
         {
-            "id": 392,
+            "id": 640,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "JAKARTA",
             "branch": "(TANAH ABANG BRANCH)",
             "swift_code": "BRINIDJA018"
         },
         {
-            "id": 393,
+            "id": 641,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "JAKARTA",
             "branch": "(TANJUNG PRIOK BRANCH)",
             "swift_code": "BRINIDJA186"
         },
         {
-            "id": 394,
+            "id": 642,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "JAKARTA",
             "branch": "(TRADE FINANCE PROCESSING CENTRE JAKARTA I)",
             "swift_code": "BRINIDJA370"
         },
         {
-            "id": 395,
+            "id": 643,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "JAKARTA",
             "branch": "(VETERAN BRANCH)",
             "swift_code": "BRINIDJA329"
         },
         {
-            "id": 396,
+            "id": 644,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "BRINIDJA"
         },
         {
-            "id": 397,
+            "id": 645,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "BRINIDJATRY"
         },
         {
-            "id": 398,
+            "id": 646,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "JAMBI",
             "branch": "(JAMBI BRANCH)",
             "swift_code": "BRINIDJA020"
         },
         {
-            "id": 399,
+            "id": 647,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "JEMBER",
             "branch": "(JEMBER BRANCH)",
             "swift_code": "BRINIDJA021"
         },
         {
-            "id": 400,
+            "id": 648,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "KEDIRI",
             "branch": "(KEDIRI BRANCH)",
             "swift_code": "BRINIDJA033"
         },
         {
-            "id": 401,
+            "id": 649,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "KENDARI",
             "branch": "(KENDARI BRANCH)",
             "swift_code": "BRINIDJA192"
         },
         {
-            "id": 402,
+            "id": 650,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "KOTABARU",
             "branch": "(KOTABARU BRANCH)",
             "swift_code": "BRINIDJA127"
         },
         {
-            "id": 403,
+            "id": 651,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "KUDUS",
             "branch": "(KUDUS BRANCH)",
             "swift_code": "BRINIDJA038"
         },
         {
-            "id": 404,
+            "id": 652,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "KUPANG",
             "branch": "(KUPANG BRANCH)",
             "swift_code": "BRINIDJA039"
         },
         {
-            "id": 405,
+            "id": 653,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "LANGSA",
             "branch": "(LANGSA BRANCH)",
             "swift_code": "BRINIDJA042"
         },
         {
-            "id": 406,
+            "id": 654,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "LHOKSEUMAWE",
             "branch": "(LHOKSEUMAWE BRANCH)",
             "swift_code": "BRINIDJA043"
         },
         {
-            "id": 407,
+            "id": 655,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "LUWUK",
             "branch": "(LUWUK BRANCH)",
             "swift_code": "BRINIDJA167"
         },
         {
-            "id": 408,
+            "id": 656,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "MALANG",
             "branch": "(MALANG BRANCH)",
             "swift_code": "BRINIDJA051"
         },
         {
-            "id": 409,
+            "id": 657,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "MANADO",
             "branch": "(MANADO BRANCH)",
             "swift_code": "BRINIDJA054"
         },
         {
-            "id": 410,
+            "id": 658,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "MATARAM",
             "branch": "(MATARAM BRANCH)",
             "swift_code": "BRINIDJA052"
         },
         {
-            "id": 411,
+            "id": 659,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "MEDAN",
             "branch": "(MEDAN PEMUDA BRANCH)",
             "swift_code": "BRINIDJA336"
         },
         {
-            "id": 412,
+            "id": 660,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "MEDAN",
             "branch": "(MEDAN PUTRI HIJAU BRANCH)",
             "swift_code": "BRINIDJA053"
         },
         {
-            "id": 413,
+            "id": 661,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "METRO",
             "branch": "(METRO BRANCH)",
             "swift_code": "BRINIDJA130"
         },
         {
-            "id": 414,
+            "id": 662,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "PADANG",
             "branch": "(PADANG BRANCH)",
             "swift_code": "BRINIDJA058"
         },
         {
-            "id": 415,
+            "id": 663,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "PALEMBANG",
             "branch": "(PALEMBANG BRANCH)",
             "swift_code": "BRINIDJA059"
         },
         {
-            "id": 416,
+            "id": 664,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "PANGKAL PINANG",
             "branch": "(PANGKAL PINANG BRANCH)",
             "swift_code": "BRINIDJA063"
         },
         {
-            "id": 417,
+            "id": 665,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "PANGKALAN BUN",
             "branch": "(PANGKALAN BUN BRANCH)",
             "swift_code": "BRINIDJA282"
         },
         {
-            "id": 418,
+            "id": 666,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "PEKANBARU",
             "branch": "(PEKANBARU BRANCH)",
             "swift_code": "BRINIDJA170"
         },
         {
-            "id": 419,
+            "id": 667,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "PEMATANG SIANTAR",
             "branch": "(PEMATANG SIANTAR BRANCH)",
             "swift_code": "BRINIDJA113"
         },
         {
-            "id": 420,
+            "id": 668,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "PONTIANAK",
             "branch": "(PONTIANAK BRANCH)",
             "swift_code": "BRINIDJA071"
         },
         {
-            "id": 421,
+            "id": 669,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "RABA-BIMA",
             "branch": "(RABA-BIMA BRANCH)",
             "swift_code": "BRINIDJA079"
         },
         {
-            "id": 422,
+            "id": 670,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "RENGAT",
             "branch": "(RENGAT BRANCH)",
             "swift_code": "BRINIDJA284"
         },
         {
-            "id": 423,
+            "id": 671,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "SAMARINDA",
             "branch": "(SAMARINDA BRANCH)",
             "swift_code": "BRINIDJA082"
         },
         {
-            "id": 424,
+            "id": 672,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "SAMPIT",
             "branch": "(SAMPIT BRANCH)",
             "swift_code": "BRINIDJA163"
         },
         {
-            "id": 425,
+            "id": 673,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "SEMARANG",
             "branch": "(PATTIMURA BRANCH)",
             "swift_code": "BRINIDJA083"
         },
         {
-            "id": 426,
+            "id": 674,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "SIDOARJO",
             "branch": "(SIDOARJO BRANCH)",
             "swift_code": "BRINIDJA086"
         },
         {
-            "id": 427,
+            "id": 675,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "SOLO",
             "branch": "(SLAMET RIYADI BRANCH)",
             "swift_code": "BRINIDJA097"
         },
         {
-            "id": 428,
+            "id": 676,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "SUKABUMI",
             "branch": "(SUKABUMI BRANCH)",
             "swift_code": "BRINIDJA092"
         },
         {
-            "id": 429,
+            "id": 677,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "SURABAYA",
             "branch": "(KALIASIN BRANCH)",
             "swift_code": "BRINIDJA096"
         },
         {
-            "id": 430,
+            "id": 678,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "SURABAYA",
             "branch": "(PAHLAWAN BRANCH)",
             "swift_code": "BRINIDJA211"
         },
         {
-            "id": 431,
+            "id": 679,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "SURABAYA",
             "branch": "(RAJAWALI BRANCH)",
             "swift_code": "BRINIDJA172"
         },
         {
-            "id": 432,
+            "id": 680,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "SURABAYA",
             "branch": "(TANJUNG PERAK BRANCH)",
             "swift_code": "BRINIDJA328"
         },
         {
-            "id": 433,
+            "id": 681,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "TANGERANG",
             "branch": "(TANGERANG BRANCH)",
             "swift_code": "BRINIDJA120"
         },
         {
-            "id": 434,
+            "id": 682,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "TANJUNG KARANG",
             "branch": "(TANJUNG KARANG BRANCH)",
             "swift_code": "BRINIDJA098"
         },
         {
-            "id": 435,
+            "id": 683,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "TANJUNG PANDAN",
             "branch": "(TANJUNG PANDAN BRANCH)",
             "swift_code": "BRINIDJA131"
         },
         {
-            "id": 436,
+            "id": 684,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "TANJUNG PINANG",
             "branch": "(TANJUNG PINANG BRANCH)",
             "swift_code": "BRINIDJA174"
         },
         {
-            "id": 437,
+            "id": 685,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "TEBINGTINGGI",
             "branch": "(TEBINGTINGGI BRANCH)",
             "swift_code": "BRINIDJA283"
         },
         {
-            "id": 438,
+            "id": 686,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "TEGAL",
             "branch": "(TEGAL BRANCH)",
             "swift_code": "BRINIDJA101"
         },
         {
-            "id": 439,
+            "id": 687,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "TELUK BETUNG",
             "branch": "(TELUK BETUNG BRANCH)",
             "swift_code": "BRINIDJA285"
         },
         {
-            "id": 440,
+            "id": 688,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "TEMBILAHAN",
             "branch": "(TEMBILAHAN BRANCH)",
             "swift_code": "BRINIDJA175"
         },
         {
-            "id": 441,
+            "id": 689,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "TERNATE",
             "branch": "(TERNATE BRANCH)",
             "swift_code": "BRINIDJA103"
         },
         {
-            "id": 442,
+            "id": 690,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "UJUNG PANDANG",
             "branch": "(ACHMAD YANI BRANCH)",
             "swift_code": "BRINIDJA050"
         },
         {
-            "id": 443,
+            "id": 691,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO), TBK",
             "city": "UJUNG PANDANG",
             "branch": "(SOMBA OPU BRANCH)",
             "swift_code": "BRINIDJA343"
         },
         {
-            "id": 444,
+            "id": 692,
             "bank": "PT. BANK RAKYAT INDONESIA AGRONIAGA TBK",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "AGTBIDJA"
         },
         {
-            "id": 445,
+            "id": 693,
             "bank": "PT. BANK SBI INDONESIA",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "SBIDIDJA"
         },
         {
-            "id": 446,
+            "id": 694,
             "bank": "PT. BANK SUMUT",
             "city": "MEDAN",
             "branch": null,
             "swift_code": "PDSUIDSA"
         },
         {
-            "id": 447,
+            "id": 695,
             "bank": "PT. BANK VICTORIA INTERNASIONAL, TBK",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "BVICIDJA"
         },
         {
-            "id": 448,
+            "id": 696,
             "bank": "PT. BANK WINDU KENTJANA INTERNATIONAL, TBK",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "BWKIIDJA"
         },
         {
-            "id": 449,
+            "id": 697,
+            "bank": "PT. BNP PARIBAS SECURITIES INDONESIA",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "PBPEIDJ1"
+        },
+        {
+            "id": 698,
             "bank": "PT. BPD SUMATERA BARAT (BANK NAGARI)",
             "city": "PADANG",
             "branch": null,
             "swift_code": "PDSBIDSP"
         },
         {
-            "id": 450,
+            "id": 699,
+            "bank": "PT. BUMIPUTERA CAPITAL INDONESIA",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "FISNIDJ1"
+        },
+        {
+            "id": 700,
+            "bank": "PT. CIPTADANA SECURITIES",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "CIUEIDJ1"
+        },
+        {
+            "id": 701,
+            "bank": "PT. CITIGROUP SECURITIES INDONESIA",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "CITIIDX1"
+        },
+        {
+            "id": 702,
+            "bank": "PT. DANAREKSA SEKURITAS",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "DANCIDJ1"
+        },
+        {
+            "id": 703,
+            "bank": "PT. DANAREKSA SEKURITAS",
+            "city": "SURABAYA",
+            "branch": null,
+            "swift_code": "DANCIDJ10JD"
+        },
+        {
+            "id": 704,
+            "bank": "PT. LAUTANDHANA SECURINDO",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "LAUSIDJ1"
+        },
+        {
+            "id": 705,
+            "bank": "PT. MAHAKARYA ARTHA SECURITIES",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "MAASIDJ1"
+        },
+        {
+            "id": 706,
+            "bank": "PT. MANDIRI SEKURITAS",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "MASKIDJ1"
+        },
+        {
+            "id": 707,
+            "bank": "PT. OPTIMA KHARYA CAPITAL SECURITIES",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "SHKSIDJ1"
+        },
+        {
+            "id": 708,
+            "bank": "PT. PANIN SEKURITAS TBK.",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "PANUIDJ1"
+        },
+        {
+            "id": 709,
+            "bank": "PT. SUN LIFE FINANCIAL INDONESIA",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "SLFIIDJ1"
+        },
+        {
+            "id": 710,
+            "bank": "PT. WATERFRONT SECURITIES INDONESIA",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "PARIIDJ1"
+        },
+        {
+            "id": 711,
             "bank": "PT.BANK MNC INTERNASIONAL TBK.",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "BUMIIDJA"
         },
         {
-            "id": 451,
+            "id": 712,
+            "bank": "PT.PHILLIP SECURITIES INDONESIA",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "PHSPIDJ1"
+        },
+        {
+            "id": 713,
+            "bank": "PUTERA MASTER SEKURITAS, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "PUMSIDJ1"
+        },
+        {
+            "id": 714,
+            "bank": "PUTRA JUANG SEKUPINDO, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "PUJSIDJ1"
+        },
+        {
+            "id": 715,
+            "bank": "PUTRA SARIDAYA PERSADA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "PUSPIDJ1"
+        },
+        {
+            "id": 716,
+            "bank": "RAMAYANA ARTHA PERKASA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "RAASIDJ1"
+        },
+        {
+            "id": 717,
+            "bank": "RASHID HUSSAIN SECURITIES PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "RHUSIDJ1"
+        },
+        {
+            "id": 718,
+            "bank": "RAVINDO SECURITAMA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "RAVSIDJ1"
+        },
+        {
+            "id": 719,
+            "bank": "REDIALINDO MANDIRI, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "REDMIDJ1"
+        },
+        {
+            "id": 720,
+            "bank": "REKAPRIMA SEKURITAS, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "REKSIDJ1"
+        },
+        {
+            "id": 721,
+            "bank": "RITA WIJAYA KENCANA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "RIWKIDJ1"
+        },
+        {
+            "id": 722,
+            "bank": "SAFINDO MEDIADANA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "SAFMIDJ1"
+        },
+        {
+            "id": 723,
+            "bank": "SAKA CARRY SECURITIES, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "SACCIDJ1"
+        },
+        {
+            "id": 724,
+            "bank": "SANYO PRIMARINDO SECURITIES, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "SAPSIDJ1"
+        },
+        {
+            "id": 725,
+            "bank": "SARANA EFEKINDO, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "SAREIDJ1"
+        },
+        {
+            "id": 726,
+            "bank": "SASSOON SECURITIES LIMITED, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "SASRIDJ1"
+        },
+        {
+            "id": 727,
+            "bank": "SEKURINDO PRATAMA, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "SEKPIDJ1"
+        },
+        {
+            "id": 728,
+            "bank": "SEKURITAS INDO PASIFIK INVESTASI,PT",
+            "city": "SURABAYA",
+            "branch": null,
+            "swift_code": "SEIPIDJ1"
+        },
+        {
+            "id": 729,
+            "bank": "SEKURITAS INDOPASIFIC INV., PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "SEIIIDJ1"
+        },
+        {
+            "id": 730,
+            "bank": "SEMESTA INDOVEST, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "SEMIIDJ1"
+        },
+        {
+            "id": 731,
+            "bank": "SERTIVIA SECURITAS, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "SERCIDJ1"
+        },
+        {
+            "id": 732,
+            "bank": "SERUNI TUNGGAL, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "SERNIDJ1"
+        },
+        {
+            "id": 733,
+            "bank": "SERUNI TUNGGAL, PT",
+            "city": "SURABAYA",
+            "branch": null,
+            "swift_code": "SERNIDJ10JD"
+        },
+        {
+            "id": 734,
+            "bank": "SIGMA BATARA PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "SIGBIDJ1"
+        },
+        {
+            "id": 735,
+            "bank": "SINARMAS SEKURITAS, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "SINKIDJ1"
+        },
+        {
+            "id": 736,
+            "bank": "SRIKANDI SECURITIES INVESINDO, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "SRSIIDJ1"
+        },
+        {
+            "id": 737,
             "bank": "STANDARD CHARTERED BANK",
             "city": "BANDUNG",
             "branch": "(BANDUNG BRANCH)",
             "swift_code": "SCBLIDJXBDG"
         },
         {
-            "id": 452,
+            "id": 738,
             "bank": "STANDARD CHARTERED BANK",
             "city": "JAKARTA",
             "branch": "(PT SCSI)",
             "swift_code": "SCBLIDJXIDX"
         },
         {
-            "id": 453,
+            "id": 739,
             "bank": "STANDARD CHARTERED BANK",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "SCBLIDJX"
         },
         {
-            "id": 454,
+            "id": 740,
             "bank": "STANDARD CHARTERED BANK",
             "city": "MEDAN",
             "branch": "(MEDAN BRANCH)",
             "swift_code": "SCBLIDJXMDN"
         },
         {
-            "id": 455,
+            "id": 741,
             "bank": "STANDARD CHARTERED BANK",
             "city": "SEMARANG",
             "branch": "(SEMARANG BRANCH)",
             "swift_code": "SCBLIDJXSMG"
         },
         {
-            "id": 456,
+            "id": 742,
             "bank": "STANDARD CHARTERED BANK",
             "city": "SURABAYA",
             "branch": "(SURABAYA BRANCH)",
             "swift_code": "SCBLIDJXSBY"
         },
         {
-            "id": 457,
+            "id": 743,
+            "bank": "STANDARD CHARTERED IND., PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "STCIIDJ1"
+        },
+        {
+            "id": 744,
+            "bank": "SUCORINVEST CENTRAL GANI PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "SUCGIDJ1"
+        },
+        {
+            "id": 745,
+            "bank": "SUCORINVEST CENTRAL GANI PT",
+            "city": "SURABAYA",
+            "branch": null,
+            "swift_code": "SUCGIDJ10JD"
+        },
+        {
+            "id": 746,
+            "bank": "SUMBER ARTHA INVESINDO,PT",
+            "city": "SURABAYA",
+            "branch": null,
+            "swift_code": "SUAIIDJ1"
+        },
+        {
+            "id": 747,
+            "bank": "SURABAYA ARTHA INVESINDO,PT",
+            "city": "SURABAYA",
+            "branch": null,
+            "swift_code": "SUANIDJ1"
+        },
+        {
+            "id": 748,
+            "bank": "SURABAYA STOCK EXCHANGE",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "XSURIDJ1"
+        },
+        {
+            "id": 749,
+            "bank": "SWADANA CIPTA EFEKINDO",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "SWADIDJ1"
+        },
+        {
+            "id": 750,
+            "bank": "TATAGUNA SARANA EFEK",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "TASFIDJ1"
+        },
+        {
+            "id": 751,
+            "bank": "TEGARDINAMIKA ABADI",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "TEGAIDJ1"
+        },
+        {
+            "id": 752,
             "bank": "THE ROYAL BANK OF SCOTLAND N.V. JAKARTA BRANCH",
             "city": "JAKARTA",
             "branch": null,
             "swift_code": "ABNAIDJA"
         },
         {
-            "id": 458,
+            "id": 753,
             "bank": "THE ROYAL BANK OF SCOTLAND N.V. JAKARTA BRANCH",
             "city": "SURABAYA",
             "branch": "(SURABAYA BRANCH)",
             "swift_code": "ABNAIDJASBA"
         },
         {
-            "id": 459,
+            "id": 754,
+            "bank": "TIFA SECURITIES",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "TIFAIDJ1"
+        },
+        {
+            "id": 755,
+            "bank": "TOBELI PASIFIK,PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "TOBEIDJ1"
+        },
+        {
+            "id": 756,
+            "bank": "TRANSPACIFIC SECURINDO PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "TRAEIDJ1"
+        },
+        {
+            "id": 757,
+            "bank": "TUNAS PERDANA SECURINDO",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "TUNPIDJ1"
+        },
+        {
+            "id": 758,
+            "bank": "TUNASMULIA",
+            "city": "SURABAYA",
+            "branch": null,
+            "swift_code": "TUNAIDJ1"
+        },
+        {
+            "id": 759,
+            "bank": "TUNASMULIA INVESINDOKARSA",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "TUNMIDJ1"
+        },
+        {
+            "id": 760,
+            "bank": "UNISECURINDO",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "UNIRIDJ1"
+        },
+        {
+            "id": 761,
+            "bank": "UOB KAY HIAN SECURITIES, PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "UKHEIDJ1"
+        },
+        {
+            "id": 762,
+            "bank": "VICKERS BALLAS TAMARA PT.",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "TRSEIDJ1"
+        },
+        {
+            "id": 763,
+            "bank": "VICTORIA SEKURITAS PT.",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "TASMIDJ1"
+        },
+        {
+            "id": 764,
+            "bank": "W.I. CARR INDONESIA,PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "WICAIDJ1"
+        },
+        {
+            "id": 765,
+            "bank": "WARDLEY JAMES CAPEL IND. PT",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "WJCAIDJ1"
+        },
+        {
+            "id": 766,
             "bank": "WOORI BANK, INDONESIA P.T. JAKARTA",
             "city": "BANDUNG",
             "branch": null,
             "swift_code": "HVBKIDJA"
+        },
+        {
+            "id": 767,
+            "bank": "YAMA BANK",
+            "city": "JAKARTA",
+            "branch": null,
+            "swift_code": "BYAMIDJ1"
         }
     ]
 }

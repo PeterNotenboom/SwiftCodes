@@ -4,675 +4,1347 @@
     "list": [
         {
             "id": 1,
+            "bank": "ALFA CAPITAL HOLDINGS (CYPRUS) LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "ALFACY21"
+        },
+        {
+            "id": 2,
+            "bank": "ALLIANCE FACTORS LTD",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "ALTOCY21"
+        },
+        {
+            "id": 3,
             "bank": "ALPHA BANK CYPRUS LTD",
             "city": "LARNACA",
             "branch": null,
             "swift_code": "ABKLCY2NLAR"
         },
         {
-            "id": 2,
+            "id": 4,
             "bank": "ALPHA BANK CYPRUS LTD",
             "city": "LIMASSOL (LEMESOS)",
             "branch": null,
             "swift_code": "ABKLCY2NLIM"
         },
         {
-            "id": 3,
+            "id": 5,
             "bank": "ALPHA BANK CYPRUS LTD",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": null,
             "swift_code": "ABKLCY2N"
         },
         {
-            "id": 4,
+            "id": 6,
             "bank": "ALPHA BANK CYPRUS LTD",
             "city": "PAPHOS",
             "branch": null,
             "swift_code": "ABKLCY2NPAP"
         },
         {
-            "id": 5,
+            "id": 7,
+            "bank": "ALPINEX FINANCIAL SERVICES (CYPRUS) LTD.",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "AFSYCY21"
+        },
+        {
+            "id": 8,
+            "bank": "AMG KAPITAL LIMITED",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "AMKACY21"
+        },
+        {
+            "id": 9,
             "bank": "ANCORIA BANK LTD",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": null,
             "swift_code": "ANCOCY2N"
         },
         {
-            "id": 6,
+            "id": 10,
             "bank": "ARAB JORDAN INVESTMENT BANK",
             "city": "LIMASSOL (LEMESOS)",
             "branch": "(CLEARING)",
             "swift_code": "AJIBCY2ICCC"
         },
         {
-            "id": 7,
+            "id": 11,
             "bank": "ARAB JORDAN INVESTMENT BANK",
             "city": "LIMASSOL (LEMESOS)",
             "branch": null,
             "swift_code": "AJIBCY2I"
         },
         {
-            "id": 8,
+            "id": 12,
+            "bank": "ARGUS STOCKBROKERS LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "ARSOCYN1"
+        },
+        {
+            "id": 13,
+            "bank": "ARTCAP EASTERN INVESTMENTS",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "AREICY21"
+        },
+        {
+            "id": 14,
             "bank": "AS EXPOBANK (FORMERLY AS LTB BANK)",
             "city": "LIMASSOL (LEMESOS)",
             "branch": null,
             "swift_code": "LATCCY2L"
         },
         {
-            "id": 9,
+            "id": 15,
+            "bank": "ATLANTIC SECURITIES LTD",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "ATSICY21"
+        },
+        {
+            "id": 16,
             "bank": "ATLASCAPITAL FINANCIAL SERVICES LIMITED",
             "city": "LIMASSOL (LEMESOS)",
             "branch": null,
             "swift_code": "ACFSCY2L"
         },
         {
-            "id": 10,
+            "id": 17,
             "bank": "ATONLINE LIMITED",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": null,
             "swift_code": "ATONCY2N"
         },
         {
-            "id": 11,
+            "id": 18,
+            "bank": "AXIA VENTURES (CYPRUS) LTD.",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "AXVCCY21"
+        },
+        {
+            "id": 19,
+            "bank": "B AND R FINANCIAL LIMITED",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "FNCLCY21"
+        },
+        {
+            "id": 20,
+            "bank": "BANCA TRANSILVANIA S.A.",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "BTRLCY21"
+        },
+        {
+            "id": 21,
             "bank": "BANK OF BEIRUT S.A.L. INTERNATIONAL BANKING UNIT (IBU) LIMASSOL",
             "city": "LIMASSOL (LEMESOS)",
             "branch": null,
             "swift_code": "BABECY2N"
         },
         {
-            "id": 12,
+            "id": 22,
             "bank": "BANK OF CYPRUS PUBLIC COMPANY LIMITED",
             "city": "LIMASSOL (LEMESOS)",
             "branch": null,
             "swift_code": "BCYPCY2N030"
         },
         {
-            "id": 13,
+            "id": 23,
             "bank": "BANK OF CYPRUS PUBLIC COMPANY LIMITED",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": "(HEAD OFFICE IN NICOSIA AND ALL CYPRUS OFFICES)",
             "swift_code": "BCYPCY2N"
         },
         {
-            "id": 14,
+            "id": 24,
             "bank": "BANK OF CYPRUS PUBLIC COMPANY LIMITED",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": "(TREASURY)",
             "swift_code": "BCYPCY2NTSY"
         },
         {
-            "id": 15,
+            "id": 25,
             "bank": "BANK OF CYPRUS PUBLIC COMPANY LIMITED",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": null,
             "swift_code": "BCYPCY2N010"
         },
         {
-            "id": 16,
+            "id": 26,
+            "bank": "BANKMED SAL - CYPRUS",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "MEDLCY21"
+        },
+        {
+            "id": 27,
             "bank": "BANQUE BEMO SAL",
             "city": "LIMASSOL (LEMESOS)",
             "branch": null,
             "swift_code": "EUMOCY2I"
         },
         {
-            "id": 17,
+            "id": 28,
             "bank": "BANQUE SBA - INTERNATIONAL BANKING UNIT",
             "city": "LIMASSOL (LEMESOS)",
             "branch": null,
             "swift_code": "SBAACY2I"
         },
         {
-            "id": 18,
+            "id": 29,
             "bank": "BARCLAYS BANK PLC",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": null,
             "swift_code": "BARCCYNN"
         },
         {
-            "id": 19,
+            "id": 30,
             "bank": "BBAC SAL LIMASSOL BRANCH",
             "city": "LIMASSOL (LEMESOS)",
             "branch": null,
             "swift_code": "BBACCY2N"
         },
         {
-            "id": 20,
+            "id": 31,
             "bank": "BLOM BANK S.A.L.",
             "city": "LIMASSOL (LEMESOS)",
             "branch": null,
             "swift_code": "BLOMCY2I"
         },
         {
-            "id": 21,
+            "id": 32,
             "bank": "BLUEHOUSE CAPITAL ADVISORS LIMITED",
             "city": "LIMASSOL (LEMESOS)",
             "branch": null,
             "swift_code": "BLUECY2N"
         },
         {
-            "id": 22,
+            "id": 33,
+            "bank": "BROKERCREDITSERVICE (CYPRUS) LIMITED",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "BRCRCY21"
+        },
+        {
+            "id": 34,
+            "bank": "BROKERCREDITSERVICE (CYPRUS) LTD",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "BCSUCY21"
+        },
+        {
+            "id": 35,
             "bank": "BYBLOS BANK S.A.L. (IBU)",
             "city": "LIMASSOL (LEMESOS)",
             "branch": null,
             "swift_code": "BYBACY2I"
         },
         {
-            "id": 23,
+            "id": 36,
+            "bank": "CAPITAL INTELLIGENCE (CYPRUS) LIMITED",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "CAIYCY21"
+        },
+        {
+            "id": 37,
             "bank": "CARDPAY LTD",
             "city": "LIMASSOL (LEMESOS)",
             "branch": null,
             "swift_code": "CARDCY2L"
         },
         {
-            "id": 24,
+            "id": 38,
             "bank": "CENTRAL BANK OF CYPRUS",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": "(ACCOUNTING DEPARTMENT)",
             "swift_code": "CBCYCY2NACC"
         },
         {
-            "id": 25,
+            "id": 39,
             "bank": "CENTRAL BANK OF CYPRUS",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": "(CASH SECTION)",
             "swift_code": "CBCYCY2NCAS"
         },
         {
-            "id": 26,
+            "id": 40,
             "bank": "CENTRAL BANK OF CYPRUS",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": "(CHEQUES CLEARING HOUSE)",
             "swift_code": "CBCYCY2NCCH"
         },
         {
-            "id": 27,
+            "id": 41,
             "bank": "CENTRAL BANK OF CYPRUS",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": "(CORRESPONDENT CENTRAL BANKING MODEL)",
             "swift_code": "CBCYCY2NCCB"
         },
         {
-            "id": 28,
+            "id": 42,
             "bank": "CENTRAL BANK OF CYPRUS",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": "(CY T2 CONTINGENCY)",
             "swift_code": "CBCYCY2NCON"
         },
         {
-            "id": 29,
+            "id": 43,
             "bank": "CENTRAL BANK OF CYPRUS",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": "(CYPRUS STOCK EXCHANGE-MTS)",
             "swift_code": "CBCYCY2NCSE"
         },
         {
-            "id": 30,
+            "id": 44,
             "bank": "CENTRAL BANK OF CYPRUS",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": "(EXCHANGE OPERATIONS AND SETTLEMENTS)",
             "swift_code": "CBCYCY2NEOS"
         },
         {
-            "id": 31,
+            "id": 45,
             "bank": "CENTRAL BANK OF CYPRUS",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": "(EXTERNAL DEBT SECTION )",
             "swift_code": "CBCYCY2NEDS"
         },
         {
-            "id": 32,
+            "id": 46,
             "bank": "CENTRAL BANK OF CYPRUS",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": "(FOREIGN BUSINESS UNIT)",
             "swift_code": "CBCYCY2NFBU"
         },
         {
-            "id": 33,
+            "id": 47,
             "bank": "CENTRAL BANK OF CYPRUS",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": "(GOVERNMENT PAYMENTS SYSTEM)",
             "swift_code": "CBCYCY2NGPS"
         },
         {
-            "id": 34,
+            "id": 48,
             "bank": "CENTRAL BANK OF CYPRUS",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": "(GOVERNMENT STOCKS)",
             "swift_code": "CBCYCY2NLSS"
         },
         {
-            "id": 35,
+            "id": 49,
             "bank": "CENTRAL BANK OF CYPRUS",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": "(ISSUE SECTION)",
             "swift_code": "CBCYCY2NISS"
         },
         {
-            "id": 36,
+            "id": 50,
             "bank": "CENTRAL BANK OF CYPRUS",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": "(JCCTRANSFER)",
             "swift_code": "CBCYCY2NJCC"
         },
         {
-            "id": 37,
+            "id": 51,
             "bank": "CENTRAL BANK OF CYPRUS",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": "(MANAGEMENT OF RESERVES)",
             "swift_code": "CBCYCY2NMRS"
         },
         {
-            "id": 38,
+            "id": 52,
             "bank": "CENTRAL BANK OF CYPRUS",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": "(MONETARY POLICY OPERATIONS)",
             "swift_code": "CBCYCY2NMPO"
         },
         {
-            "id": 39,
+            "id": 53,
             "bank": "CENTRAL BANK OF CYPRUS",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": null,
             "swift_code": "CBCYCY2N"
         },
         {
-            "id": 40,
+            "id": 54,
             "bank": "CENTRAL COOPERATIVE BANK OF BULGARIA PLC",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": null,
             "swift_code": "CECBCY2N"
         },
         {
-            "id": 41,
+            "id": 55,
+            "bank": "CLR SECURITIES AND FINANCIAL SERVICES LTD",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "CSFRCY21"
+        },
+        {
+            "id": 56,
             "bank": "CO-OPERATIVE CENTRAL BANK LTD.",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": null,
             "swift_code": "CCBKCY2N"
         },
         {
-            "id": 42,
+            "id": 57,
+            "bank": "CREDIT LIBANAIS SAL",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "CLIBCY21"
+        },
+        {
+            "id": 58,
+            "bank": "CSC24SEVEN.COM LIMITED",
+            "city": "LARNACA",
+            "branch": null,
+            "swift_code": "CSCCCY21"
+        },
+        {
+            "id": 59,
             "bank": "CYPRUS DEVELOPMENT BANK PUBLIC COMPANY LTD, THE",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": null,
             "swift_code": "CYDBCY2N"
         },
         {
-            "id": 43,
+            "id": 60,
             "bank": "CYPRUS STOCK EXCHANGE",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": "(CSE ANCILLARY SYSTEM)",
             "swift_code": "XCYSCY2NASI"
         },
         {
-            "id": 44,
+            "id": 61,
             "bank": "CYPRUS STOCK EXCHANGE",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": null,
             "swift_code": "XCYSCY2N"
         },
         {
-            "id": 45,
+            "id": 62,
+            "bank": "DELTA IMPERIAL CREDIT INSTITUTE LTD",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "DICUCY21"
+        },
+        {
+            "id": 63,
+            "bank": "DFG CAPITAL (CYPRUS) LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "DFCYCY21"
+        },
+        {
+            "id": 64,
+            "bank": "DGRN LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "DRRNCY21"
+        },
+        {
+            "id": 65,
+            "bank": "DRAGON CAPITAL (CYPRUS) LTD",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "DRCCCY21"
+        },
+        {
+            "id": 66,
+            "bank": "EGNARO INVESTMENTS LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "EGINCY21"
+        },
+        {
+            "id": 67,
+            "bank": "EGNATIA FINANCIAL SERVICES (CYPRUS) LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "EFSCCY21"
+        },
+        {
+            "id": 68,
+            "bank": "ENTRIS EQUITY LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "ENEQCY21"
+        },
+        {
+            "id": 69,
             "bank": "EUROBANK CYPRUS LTD",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": null,
             "swift_code": "ERBKCY2N"
         },
         {
-            "id": 46,
+            "id": 70,
+            "bank": "EUROORIENT SECURITIES AND FINANCIAL SERVICES LTD",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "EUSACY21"
+        },
+        {
+            "id": 71,
+            "bank": "EXSCALE INVESTMENT LTD",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "EXIVCY21"
+        },
+        {
+            "id": 72,
             "bank": "FALCON BROKERS LTD",
             "city": "LIMASSOL (LEMESOS)",
             "branch": null,
             "swift_code": "FBRKCY2L"
         },
         {
-            "id": 47,
+            "id": 73,
+            "bank": "FASCINATING TRADING LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "FATRCY21"
+        },
+        {
+            "id": 74,
+            "bank": "FBME BANK LTD",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "FBMECY2102I"
+        },
+        {
+            "id": 75,
             "bank": "FBME BANK LTD",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": null,
             "swift_code": "FBMECY2N"
         },
         {
-            "id": 48,
+            "id": 76,
+            "bank": "FEATHERSWORD INVESTMENT LTD",
+            "city": "LARNACA",
+            "branch": null,
+            "swift_code": "FEAICY21"
+        },
+        {
+            "id": 77,
+            "bank": "FENWAY SERVICES LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "FESECY21"
+        },
+        {
+            "id": 78,
+            "bank": "FERVENT HOLDINGS LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "FEHOCY21"
+        },
+        {
+            "id": 79,
+            "bank": "FINAM LIMITED",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "FNMACY21"
+        },
+        {
+            "id": 80,
             "bank": "FINTAILOR INVESTMENTS LIMITED",
             "city": "LIMASSOL (LEMESOS)",
             "branch": null,
             "swift_code": "FINTCY2L"
         },
         {
-            "id": 49,
+            "id": 81,
             "bank": "FIRST INVESTMENT BANK CYPRUS INTERNATIONAL BANKING UNIT",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": null,
             "swift_code": "FINVCY2N"
         },
         {
-            "id": 50,
+            "id": 82,
+            "bank": "FMC SECURITIES LTD",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "FMSECY21"
+        },
+        {
+            "id": 83,
+            "bank": "GLESTIMON MANAGEMENT LIMITED",
+            "city": "LARNACA",
+            "branch": null,
+            "swift_code": "GLMNCY21"
+        },
+        {
+            "id": 84,
+            "bank": "GLOBAL CAPITAL SECURITIES AND FINANCIAL SERVICES LTD",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "GCSFCY21"
+        },
+        {
+            "id": 85,
+            "bank": "GMM GLOBAL MONEY MANAGERS LTD.",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "GGMMCY21"
+        },
+        {
+            "id": 86,
             "bank": "GPB FINANCIAL SERVICES LIMITED",
             "city": "LIMASSOL (LEMESOS)",
             "branch": null,
             "swift_code": "GPBFCY2L"
         },
         {
-            "id": 51,
+            "id": 87,
+            "bank": "GRANT ASSET MANAGEMENT LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "GRAMCY21"
+        },
+        {
+            "id": 88,
+            "bank": "HELLENIC BANK (INVESTMENTS) LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "HIPCCY21"
+        },
+        {
+            "id": 89,
             "bank": "HELLENIC BANK PUBLIC COMPANY LTD.",
             "city": "LARNACA",
             "branch": null,
             "swift_code": "HEBACY2NLAR"
         },
         {
-            "id": 52,
+            "id": 90,
             "bank": "HELLENIC BANK PUBLIC COMPANY LTD.",
             "city": "LIMASSOL (LEMESOS)",
             "branch": null,
             "swift_code": "HEBACY2NLIM"
         },
         {
-            "id": 53,
+            "id": 91,
             "bank": "HELLENIC BANK PUBLIC COMPANY LTD.",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": "(HEAD OFFICE)",
             "swift_code": "HEBACY2NHDO"
         },
         {
-            "id": 54,
+            "id": 92,
             "bank": "HELLENIC BANK PUBLIC COMPANY LTD.",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": null,
             "swift_code": "HEBACY2NNIC"
         },
         {
-            "id": 55,
+            "id": 93,
             "bank": "HELLENIC BANK PUBLIC COMPANY LTD.",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": null,
             "swift_code": "HEBACY2N"
         },
         {
-            "id": 56,
+            "id": 94,
             "bank": "HELLENIC BANK PUBLIC COMPANY LTD.",
             "city": "PAPHOS",
             "branch": null,
             "swift_code": "HEBACY2NPAP"
         },
         {
-            "id": 57,
+            "id": 95,
             "bank": "IBL BANK, SAL",
             "city": "LIMASSOL (LEMESOS)",
             "branch": null,
             "swift_code": "INLECY2L"
         },
         {
-            "id": 58,
+            "id": 96,
+            "bank": "ICFI (CYPRUS) LTD",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "ICCYCY21"
+        },
+        {
+            "id": 97,
+            "bank": "IKOS ASSET MANAGEMENT LTD",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "IKAMCY21"
+        },
+        {
+            "id": 98,
+            "bank": "INFINA INVESTMENTS (CYPRUS) LIMITED",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "CSNNCY21"
+        },
+        {
+            "id": 99,
+            "bank": "INTERFIN TRADE (OVERSEAS) LIMITED",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "ITTOCY21"
+        },
+        {
+            "id": 100,
+            "bank": "INTERNATIONAL BRANCH OF OPEN JOINT-STOCK COMPANY AVTOVAZBANK IN THE REPUBLIC OF CYPRUS",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "AVBKCY21"
+        },
+        {
+            "id": 101,
+            "bank": "J AND T FINANCIAL INVESTMENTS LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "FNINCY21"
+        },
+        {
+            "id": 102,
             "bank": "JET MONEY SERVICES LTD",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": null,
             "swift_code": "JMSSCY2N"
         },
         {
-            "id": 59,
+            "id": 103,
             "bank": "JORDAN AHLI BANK PLC",
             "city": "LIMASSOL (LEMESOS)",
             "branch": null,
             "swift_code": "JONBCY2I"
         },
         {
-            "id": 60,
+            "id": 104,
+            "bank": "KAB STRATEGY (CYPRUS) LTD",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "KASYCY21"
+        },
+        {
+            "id": 105,
+            "bank": "LARUFTIS INVESTMENT LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "LAIVCY21"
+        },
+        {
+            "id": 106,
+            "bank": "LCE COMPANY LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "LCCOCY21"
+        },
+        {
+            "id": 107,
             "bank": "LEBANON AND GULF BANK S.A.L. - LARNACA BRANCH",
             "city": "LARNACA",
             "branch": null,
             "swift_code": "LGBACY2L"
         },
         {
-            "id": 61,
+            "id": 108,
+            "bank": "LEDBETTER LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "LEDTCY21"
+        },
+        {
+            "id": 109,
+            "bank": "LEVOS LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "LEVSCY21"
+        },
+        {
+            "id": 110,
+            "bank": "LINVEST CAPITAL LTD.",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "LICLCY21"
+        },
+        {
+            "id": 111,
+            "bank": "MASTERTON DEVELOPMENT LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "MADECY21"
+        },
+        {
+            "id": 112,
+            "bank": "MC-BBL FINANCE LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "MCFNCY21"
+        },
+        {
+            "id": 113,
+            "bank": "MDM INVESTMENTS LIMITED",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "MINUCY21"
+        },
+        {
+            "id": 114,
+            "bank": "MEGA EQUITY SECURITIES AND FINANCIAL SERVICES PUBLIC LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "MESFCY21"
+        },
+        {
+            "id": 115,
             "bank": "MERITKAPITAL LIMITED",
             "city": "LIMASSOL (LEMESOS)",
             "branch": null,
             "swift_code": "MEIPCY22"
         },
         {
-            "id": 62,
+            "id": 116,
+            "bank": "METROPOL (CYPRUS) LIMITED",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "MECYCY21"
+        },
+        {
+            "id": 117,
+            "bank": "MOODY'S INVESTORS SERVICE CYPRUS LIMITED",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "MOODCY21"
+        },
+        {
+            "id": 118,
+            "bank": "NAM HOLDINGS LIMITED JULIA HOUSE",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "NAMHCY21"
+        },
+        {
+            "id": 119,
             "bank": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
             "city": "AYIA NAPA",
             "branch": "(AYIA NAPA BRANCH 532)",
             "swift_code": "ETHNCY2N532"
         },
         {
-            "id": 63,
+            "id": 120,
             "bank": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
             "city": "LARNACA",
             "branch": "(FAMAGUSTA BRANCH 530)",
             "swift_code": "ETHNCY2N530"
         },
         {
-            "id": 64,
+            "id": 121,
             "bank": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
             "city": "LARNACA",
             "branch": "(LARNACA BRANCH 535)",
             "swift_code": "ETHNCY2N535"
         },
         {
-            "id": 65,
+            "id": 122,
             "bank": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
             "city": "LIMASSOL (LEMESOS)",
             "branch": "(KOLONAKIOU BRANCH 553)",
             "swift_code": "ETHNCY2N553"
         },
         {
-            "id": 66,
+            "id": 123,
             "bank": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
             "city": "LIMASSOL (LEMESOS)",
             "branch": "(LIMASSOL INTERNATIONAL BUSINESS BANKING DIVISION 550)",
             "swift_code": "ETHNCY2N550"
         },
         {
-            "id": 67,
+            "id": 124,
             "bank": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
             "city": "LIMASSOL (LEMESOS)",
             "branch": "(LIMASSOL MAIN BRANCH 540)",
             "swift_code": "ETHNCY2N540"
         },
         {
-            "id": 68,
+            "id": 125,
             "bank": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
             "city": "LIMASSOL (LEMESOS)",
             "branch": "(MAKARIOS III'S AV. BRANCH 541)",
             "swift_code": "ETHNCY2N541"
         },
         {
-            "id": 69,
+            "id": 126,
             "bank": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
             "city": "LIMASSOL (LEMESOS)",
             "branch": "(OMONIA BRANCH 544)",
             "swift_code": "ETHNCY2N544"
         },
         {
-            "id": 70,
+            "id": 127,
             "bank": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": "(ATHALASSA BRANCH 527)",
             "swift_code": "ETHNCY2N527"
         },
         {
-            "id": 71,
+            "id": 128,
             "bank": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": "(BACK OFFICE 999)",
             "swift_code": "ETHNCY2N999"
         },
         {
-            "id": 72,
+            "id": 129,
             "bank": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": "(ELEFTHERIA SQ. BRANCH 521)",
             "swift_code": "ETHNCY2N521"
         },
         {
-            "id": 73,
+            "id": 130,
             "bank": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": "(LATSIA BRANCH 528)",
             "swift_code": "ETHNCY2N528"
         },
         {
-            "id": 74,
+            "id": 131,
             "bank": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": "(MORPHOU BRANCH 526)",
             "swift_code": "ETHNCY2N526"
         },
         {
-            "id": 75,
+            "id": 132,
             "bank": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": "(NICOSIA INTERNATIONAL BUSINESS BANKING DIVISION 549)",
             "swift_code": "ETHNCY2N549"
         },
         {
-            "id": 76,
+            "id": 133,
             "bank": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": "(NICOSIA MAIN BRANCH 525)",
             "swift_code": "ETHNCY2N525"
         },
         {
-            "id": 77,
+            "id": 134,
             "bank": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": null,
             "swift_code": "ETHNCY2N"
         },
         {
-            "id": 78,
+            "id": 135,
             "bank": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
             "city": "PAPHOS",
             "branch": "(PAPHOS BRANCH 545)",
             "swift_code": "ETHNCY2N545"
         },
         {
-            "id": 79,
+            "id": 136,
             "bank": "NATIONAL BANK OF GREECE (CYPRUS) LTD.",
             "city": "PARALIMNI",
             "branch": "(PARALIMNI BRANCH 531)",
             "swift_code": "ETHNCY2N531"
         },
         {
-            "id": 80,
+            "id": 137,
             "bank": "NATIONAL BANK OF GREECE S.A. CYPRUS BRANCH (578)",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": null,
             "swift_code": "ETHNCYNN"
         },
         {
-            "id": 81,
+            "id": 138,
+            "bank": "NBI INVESTMENTS LIMITED FREMA HOUSE",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "NIFHCY21"
+        },
+        {
+            "id": 139,
+            "bank": "NEEVAS INVESTMENT LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "NEIECY21"
+        },
+        {
+            "id": 140,
             "bank": "NKB INVESTMENTS LTD",
             "city": "LIMASSOL (LEMESOS)",
             "branch": null,
             "swift_code": "NKBICY2N"
         },
         {
-            "id": 82,
+            "id": 141,
+            "bank": "NOMOS INVESTMENT (CYPRUS) LIMITED",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "NICYCY21"
+        },
+        {
+            "id": 142,
+            "bank": "OLMA FINANCIAL SERVICES LTD.",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "OLMACY21"
+        },
+        {
+            "id": 143,
             "bank": "OMEGA FUNDS INVESTMENT LTD",
             "city": "LIMASSOL (LEMESOS)",
             "branch": null,
             "swift_code": "OMFVCY2N"
         },
         {
-            "id": 83,
+            "id": 144,
+            "bank": "ONE PLUS CAPITAL LTD",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "ONPCCY21"
+        },
+        {
+            "id": 145,
+            "bank": "OPEN.RU BROKERAGE HOUSE (CYPRUS) LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "OBHCCY21"
+        },
+        {
+            "id": 146,
+            "bank": "OTKRITIE CAPITAL CYPRUS LIMITED",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "OTFCCY21"
+        },
+        {
+            "id": 147,
+            "bank": "PASTERNAK HOLDINGS LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "PAHOCY21"
+        },
+        {
+            "id": 148,
             "bank": "PIRAEUS BANK CYPRUS LIMITED",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": null,
             "swift_code": "PIRBCY2N"
         },
         {
-            "id": 84,
+            "id": 149,
             "bank": "PRIVATBANK, CYPRUS BRANCH",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": null,
             "swift_code": "PBANCY2N"
         },
         {
-            "id": 85,
+            "id": 150,
+            "bank": "PROCHOICE CHRIMATISTIRIAKI LTD",
+            "city": "LARNACA",
+            "branch": null,
+            "swift_code": "PRCKCY21"
+        },
+        {
+            "id": 151,
             "bank": "PROMSVYAZBANK PJSC, CYPRUS BRANCH",
             "city": "LIMASSOL (LEMESOS)",
             "branch": null,
             "swift_code": "PRMSCY2N"
         },
         {
-            "id": 86,
+            "id": 152,
+            "bank": "RAHIM BANK LTD.",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "RAIICY21"
+        },
+        {
+            "id": 153,
             "bank": "RCB BANK LTD",
             "city": "LIMASSOL (LEMESOS)",
             "branch": null,
             "swift_code": "RCBLCY2I"
         },
         {
-            "id": 87,
+            "id": 154,
+            "bank": "REGENCY ASSET MANAGEMENT (CYPRUS) LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "RAMCCY21"
+        },
+        {
+            "id": 155,
+            "bank": "RENAISSANCE FINANCIAL SERVICES LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "REFVCY21"
+        },
+        {
+            "id": 156,
+            "bank": "RENAISSANCE INVESTMENT MANAGEMENT (CYPRUS) LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "RCICCY21"
+        },
+        {
+            "id": 157,
             "bank": "RENAISSANCE SECURITIES (CYPRUS) LIMITED",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": null,
             "swift_code": "RESPCY2N"
         },
         {
-            "id": 88,
+            "id": 158,
+            "bank": "RENAISSANCE WEALTH MANAGEMENT (CYPRUS) LTD",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "RWMCCY21"
+        },
+        {
+            "id": 159,
+            "bank": "RESERVE INVEST (CYPRUS) LIMITED",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "RINCCY21"
+        },
+        {
+            "id": 160,
+            "bank": "RMG HOLDING LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "RMHLCY21"
+        },
+        {
+            "id": 161,
             "bank": "RONIN EUROPE LIMITED",
             "city": "LIMASSOL (LEMESOS)",
             "branch": null,
             "swift_code": "RNINCY2N"
         },
         {
-            "id": 89,
+            "id": 162,
+            "bank": "S.L. CAPITAL SERVICES LIMITED",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "CACVCY21"
+        },
+        {
+            "id": 163,
+            "bank": "SA AND PM (CYPRUS) LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "CYPRCY21"
+        },
+        {
+            "id": 164,
+            "bank": "SHARELINK SECURITIES AND FINANCIAL SERVICES LTD",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "SSFVCY21"
+        },
+        {
+            "id": 165,
             "bank": "SIB (CYPRUS) LIMITED",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": null,
             "swift_code": "TDINCY2N"
         },
         {
-            "id": 90,
+            "id": 166,
+            "bank": "SIB (CYPRUS) LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "IVEMCY21"
+        },
+        {
+            "id": 167,
             "bank": "SOCIETE GENERALE CYPRUS LIMITED",
             "city": "LIMASSOL (LEMESOS)",
             "branch": "(LIMASSOL BRANCH OFFSHORE)",
             "swift_code": "SOGECY2NLIM"
         },
         {
-            "id": 91,
+            "id": 168,
             "bank": "SOCIETE GENERALE CYPRUS LIMITED",
             "city": "LIMASSOL (LEMESOS)",
             "branch": "(LIMASSOL OPERATION ONSHORE)",
             "swift_code": "SOGECY2NAMA"
         },
         {
-            "id": 92,
+            "id": 169,
             "bank": "SOCIETE GENERALE CYPRUS LIMITED",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": "(NICOSIA OPERATION)",
             "swift_code": "SOGECY2NNIC"
         },
         {
-            "id": 93,
+            "id": 170,
             "bank": "SOCIETE GENERALE CYPRUS LIMITED",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": null,
             "swift_code": "SOGECY2N"
         },
         {
-            "id": 94,
+            "id": 171,
+            "bank": "SOLID FINANCIAL SERVICES LTD",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "SONSCY21"
+        },
+        {
+            "id": 172,
+            "bank": "SPYKE EQUITY LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "SPEQCY21"
+        },
+        {
+            "id": 173,
+            "bank": "STOMARLI HOLDINGS LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "STHDCY21"
+        },
+        {
+            "id": 174,
+            "bank": "TELETRADE-DJ INTERNATIONAL CONSULTING LTD",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "TEICCYN1"
+        },
+        {
+            "id": 175,
             "bank": "TFI MARKETS LIMITED",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": null,
             "swift_code": "TFIMCY2N"
         },
         {
-            "id": 95,
+            "id": 176,
+            "bank": "TFI MARKETS LTD",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "TFIMCY21"
+        },
+        {
+            "id": 177,
+            "bank": "THE CYPRUS INVESTMENT AND SECURITIES CORPORATION LTD",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "CISOCY21"
+        },
+        {
+            "id": 178,
+            "bank": "THE POINT OF CONTACT COMMUNICATIONS (SERVICES) LTD",
+            "city": "PAPHOS",
+            "branch": null,
+            "swift_code": "TPOCCY21"
+        },
+        {
+            "id": 179,
+            "bank": "TKBC INTERNATIONAL LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "TKBCCY21"
+        },
+        {
+            "id": 180,
             "bank": "TRASTA KOMERCBANKA CYPRUS BRANCH",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": null,
             "swift_code": "KBRBCY2N"
         },
         {
-            "id": 96,
+            "id": 181,
+            "bank": "TS-EUROPEAN CLEARSCREEN LTD",
+            "city": "PARALIMNI",
+            "branch": null,
+            "swift_code": "TSCLCYN1"
+        },
+        {
+            "id": 182,
+            "bank": "TS-TRISTAR IMPERIAL, INTERNATIONAL CREDIT INSTITUTE CY LTD",
+            "city": "LARNACA",
+            "branch": null,
+            "swift_code": "TIIRCY21"
+        },
+        {
+            "id": 183,
+            "bank": "U.F.G.I.S. TRADING LIMITED",
+            "city": "LARNACA",
+            "branch": null,
+            "swift_code": "UFTRCY21"
+        },
+        {
+            "id": 184,
+            "bank": "UBS ADVISORY SERVICES LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "UBASCY21"
+        },
+        {
+            "id": 185,
+            "bank": "UCP SECURITIES LIMITED",
+            "city": "LARNACA",
+            "branch": null,
+            "swift_code": "UCSCCY21"
+        },
+        {
+            "id": 186,
+            "bank": "UNISTREAM CYPRUS LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "UNSTCY21"
+        },
+        {
+            "id": 187,
+            "bank": "UPRECHT INVESTMENT LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "UPINCY21"
+        },
+        {
+            "id": 188,
             "bank": "USB BANK PLC (FORMERLY UNIVERSAL BANK PUBLIC LTD)",
             "city": "NICOSIA (LEFKOSIA)",
             "branch": null,
             "swift_code": "UNVKCY2N"
+        },
+        {
+            "id": 189,
+            "bank": "VELES INTERNATIONAL LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "VEITCY21"
+        },
+        {
+            "id": 190,
+            "bank": "WINDSOR BROKERS LTD",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "WIBOCY21"
+        },
+        {
+            "id": 191,
+            "bank": "WS FINANCIAL AND INVESTMENT SERVICES LIMITED",
+            "city": "NICOSIA (LEFKOSIA)",
+            "branch": null,
+            "swift_code": "FNISCY21"
+        },
+        {
+            "id": 192,
+            "bank": "ZERICH SECURITIES LIMITED",
+            "city": "LIMASSOL (LEMESOS)",
+            "branch": null,
+            "swift_code": "ZESUCY21"
         }
     ]
 }

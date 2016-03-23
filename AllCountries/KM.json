@@ -4,38 +4,94 @@
     "list": [
         {
             "id": 1,
+            "bank": "ALLIED CHARTERED BANK",
+            "city": "MUTSAMUDU",
+            "branch": null,
+            "swift_code": "ALCHKMK1"
+        },
+        {
+            "id": 2,
             "bank": "BANQUE CENTRALE DES COMOROS",
             "city": "MORONI",
             "branch": null,
             "swift_code": "COCBKMKM"
         },
         {
-            "id": 2,
+            "id": 3,
             "bank": "BANQUE FEDERALE DE COMMERCE",
             "city": "MORONI",
             "branch": null,
             "swift_code": "BFDCKMKM"
         },
         {
-            "id": 3,
+            "id": 4,
             "bank": "BANQUE POUR L'INDUSTRIE ET LE COMMERCE DES COMORES",
             "city": "MORONI",
             "branch": null,
             "swift_code": "BICCKMKM"
         },
         {
-            "id": 4,
+            "id": 5,
+            "bank": "DYNAST PREMIER BANK LIMITED",
+            "city": "MUTSAMUDU",
+            "branch": null,
+            "swift_code": "DYPEKMK1"
+        },
+        {
+            "id": 6,
             "bank": "EXIM BANK COMORES LTD",
             "city": "MORONI",
             "branch": null,
             "swift_code": "EXTNKMKM"
         },
         {
-            "id": 5,
+            "id": 7,
+            "bank": "INTERCONTINENTAL CREDIT BANK LTD",
+            "city": "MUTSAMUDU",
+            "branch": null,
+            "swift_code": "ITCEKMK1"
+        },
+        {
+            "id": 8,
+            "bank": "INTERNATIONAL FINANCE BANK",
+            "city": "MUTSAMUDU",
+            "branch": null,
+            "swift_code": "ITFNKMK1"
+        },
+        {
+            "id": 9,
+            "bank": "MAGNATE PREMIER PRIVATE BANK LTD",
+            "city": "MUTSAMUDU",
+            "branch": null,
+            "swift_code": "MAEVKMK1"
+        },
+        {
+            "id": 10,
+            "bank": "NYSB, INC",
+            "city": "MUTSAMUDU",
+            "branch": null,
+            "swift_code": "NYSBKMK1"
+        },
+        {
+            "id": 11,
             "bank": "SNPSF (SOCIETE NATIONALE DES POSTES)",
             "city": "MORONI",
             "branch": null,
             "swift_code": "HAHMKMKM"
+        },
+        {
+            "id": 12,
+            "bank": "STAR BANK LIMITED",
+            "city": "MUTSAMUDU",
+            "branch": null,
+            "swift_code": "TARRKMK1"
+        },
+        {
+            "id": 13,
+            "bank": "WALL STREET BANK",
+            "city": "MUTSAMUDU",
+            "branch": null,
+            "swift_code": "WSBOKMK1"
         }
     ]
 }

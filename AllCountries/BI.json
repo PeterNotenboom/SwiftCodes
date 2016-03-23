@@ -39,52 +39,80 @@
         },
         {
             "id": 6,
+            "bank": "CAISSE CENTRALE DE MOBILISATION ET DE FINANCEMENT",
+            "city": "BUJUMBURA",
+            "branch": null,
+            "swift_code": "CCMFBIB1"
+        },
+        {
+            "id": 7,
+            "bank": "CAISSE D'EPARGNE DU BURUNDI",
+            "city": "BUJUMBURA",
+            "branch": null,
+            "swift_code": "CADBBIB1"
+        },
+        {
+            "id": 8,
+            "bank": "CENTRAL BANK OF BURUNDI",
+            "city": "BUJUMBURA",
+            "branch": null,
+            "swift_code": "CBBBBIB1"
+        },
+        {
+            "id": 9,
             "bank": "CRDB BANK BURUNDI S.A",
             "city": "BUJUMBURA",
             "branch": null,
             "swift_code": "CORUBIBU"
         },
         {
-            "id": 7,
+            "id": 10,
             "bank": "DIAMOND TRUST BANK BURUNDI S.A",
             "city": "BUJUMBURA",
             "branch": null,
             "swift_code": "DTKEBIBI"
         },
         {
-            "id": 8,
+            "id": 11,
             "bank": "ECOBANK BURUNDI",
             "city": "BUJUMBURA",
             "branch": null,
             "swift_code": "ECOCBIBI"
         },
         {
-            "id": 9,
+            "id": 12,
             "bank": "FINBANK",
             "city": "BUJUMBURA",
             "branch": null,
             "swift_code": "FIKNBIBI"
         },
         {
-            "id": 10,
+            "id": 13,
             "bank": "INTERBANK BURUNDI",
             "city": "BUJUMBURA",
             "branch": "(AVENUE DE L'INDUSTRIE BRANCH)",
             "swift_code": "IBBUBIBIADI"
         },
         {
-            "id": 11,
+            "id": 14,
             "bank": "INTERBANK BURUNDI",
             "city": "BUJUMBURA",
             "branch": null,
             "swift_code": "IBBUBIBI"
         },
         {
-            "id": 12,
+            "id": 15,
             "bank": "KCB BANK BURUNDI LIMITED",
             "city": "BUJUMBURA",
             "branch": null,
             "swift_code": "KCBLBIBI"
+        },
+        {
+            "id": 16,
+            "bank": "MERIDIEN BIAO BANK BURUNDI SARL",
+            "city": "BUJUMBURA",
+            "branch": null,
+            "swift_code": "MBBSBIB1"
         }
     ]
 }

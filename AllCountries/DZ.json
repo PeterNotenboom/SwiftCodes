@@ -53,1263 +53,1291 @@
         },
         {
             "id": 8,
+            "bank": "BANK OF ALGERIA",
+            "city": "ORAN",
+            "branch": null,
+            "swift_code": "BALGDZA1028"
+        },
+        {
+            "id": 9,
+            "bank": "BANK OF ALGERIA",
+            "city": "OUARGLA",
+            "branch": null,
+            "swift_code": "BALGDZA102J"
+        },
+        {
+            "id": 10,
             "bank": "BANQUE AL-BARAKA D'ALGERIE",
             "city": "ALGIERS",
             "branch": null,
             "swift_code": "BRKADZAL"
         },
         {
-            "id": 9,
+            "id": 11,
             "bank": "BANQUE DE DEVELOPPEMENT LOCAL",
             "city": "ALGIERS",
             "branch": null,
             "swift_code": "BDLODZAL"
         },
         {
-            "id": 10,
+            "id": 12,
             "bank": "BANQUE DE L'AGRICULTURE ET DE DEVELOPPEMENT RURAL",
             "city": "ALGIERS",
             "branch": null,
             "swift_code": "BADRDZAL"
         },
         {
-            "id": 11,
+            "id": 13,
             "bank": "BANQUE DU MAGHREB ARABE POUR L'INVESTISSEMENT ET LE COMMERCE",
             "city": "ALGIERS",
             "branch": null,
             "swift_code": "BMICDZAL"
         },
         {
-            "id": 12,
+            "id": 14,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "AIN TEMOUCHENT",
             "branch": "(AGENCE AIN TEMOUCHENT)",
             "swift_code": "BEXADZAL072"
         },
         {
-            "id": 13,
+            "id": 15,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(AGENCE 113)",
             "swift_code": "BEXADZAL113"
         },
         {
-            "id": 14,
+            "id": 16,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(AGENCE AMIROUCHE)",
             "swift_code": "BEXADZAL012"
         },
         {
-            "id": 15,
+            "id": 17,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(AGENCE BELCOURT)",
             "swift_code": "BEXADZAL020"
         },
         {
-            "id": 16,
+            "id": 18,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(AGENCE BEN M'HIDI)",
             "swift_code": "BEXADZAL015"
         },
         {
-            "id": 17,
+            "id": 19,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(AGENCE CAROUBIER NAFTAL)",
             "swift_code": "BEXADZAL001"
         },
         {
-            "id": 18,
+            "id": 20,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(AGENCE CHERAGA NAFTAL)",
             "swift_code": "BEXADZAL008"
         },
         {
-            "id": 19,
+            "id": 21,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(AGENCE CHERAGA VILLE)",
             "swift_code": "BEXADZAL004"
         },
         {
-            "id": 20,
+            "id": 22,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(AGENCE DE TIZI OUZOU)",
             "swift_code": "BEXADZAL034"
         },
         {
-            "id": 21,
+            "id": 23,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(AGENCE DELY IBRAHIM)",
             "swift_code": "BEXADZAL090"
         },
         {
-            "id": 22,
+            "id": 24,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(AGENCE DES ACCREDITES)",
             "swift_code": "BEXADZAL017"
         },
         {
-            "id": 23,
+            "id": 25,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(AGENCE DRARIA)",
             "swift_code": "BEXADZAL116"
         },
         {
-            "id": 24,
+            "id": 26,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(AGENCE EL HARRACH)",
             "swift_code": "BEXADZAL030"
         },
         {
-            "id": 25,
+            "id": 27,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(AGENCE GUEVARA)",
             "swift_code": "BEXADZAL010"
         },
         {
-            "id": 26,
+            "id": 28,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(AGENCE HAMANI)",
             "swift_code": "BEXADZAL018"
         },
         {
-            "id": 27,
+            "id": 29,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(AGENCE HASSIBA BEN BOUALI)",
             "swift_code": "BEXADZAL038"
         },
         {
-            "id": 28,
+            "id": 30,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(AGENCE HUSSEIN DEY)",
             "swift_code": "BEXADZAL022"
         },
         {
-            "id": 29,
+            "id": 31,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(AGENCE HYDRA SITE SONATRACH)",
             "swift_code": "BEXADZAL005"
         },
         {
-            "id": 30,
+            "id": 32,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(AGENCE KHEMIS MILIANA)",
             "swift_code": "BEXADZAL013"
         },
         {
-            "id": 31,
+            "id": 33,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(AGENCE PALIS DES EXPOSITIONS)",
             "swift_code": "BEXADZAL016"
         },
         {
-            "id": 32,
+            "id": 34,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(AGENCE RAVIN)",
             "swift_code": "BEXADZAL095"
         },
         {
-            "id": 33,
+            "id": 35,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(AGENCE RIAD EL FETH)",
             "swift_code": "BEXADZAL002"
         },
         {
-            "id": 34,
+            "id": 36,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(BARAKI)",
             "swift_code": "BEXADZAL089"
         },
         {
-            "id": 35,
+            "id": 37,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(DIRECTION DE LA TRESORERIE)",
             "swift_code": "BEXADZALDTD"
         },
         {
-            "id": 36,
+            "id": 38,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(DIRECTION DES OPERATIONS AVEC L'ETRANGER - DEPARTEMENT L\/C ET NOSTRO)",
             "swift_code": "BEXADZALDOE"
         },
         {
-            "id": 37,
+            "id": 39,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(DIRECTION DES RELATIONS INTERNATIONALES)",
             "swift_code": "BEXADZALDRI"
         },
         {
-            "id": 38,
+            "id": 40,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(DIRECTION DU COMMERCE EXTERIEUR)",
             "swift_code": "BEXADZALDCE"
         },
         {
-            "id": 39,
+            "id": 41,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(EL DJAZAIR)",
             "swift_code": "BEXADZAL101"
         },
         {
-            "id": 40,
+            "id": 42,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(EL MOURADIA)",
             "swift_code": "BEXADZAL102"
         },
         {
-            "id": 41,
+            "id": 43,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(ZERALDA)",
             "swift_code": "BEXADZAL100"
         },
         {
-            "id": 42,
+            "id": 44,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ALGIERS",
             "branch": null,
             "swift_code": "BEXADZAL"
         },
         {
-            "id": 43,
+            "id": 45,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ANNABA",
             "branch": "(AGENCE ANNABA 44)",
             "swift_code": "BEXADZAL044"
         },
         {
-            "id": 44,
+            "id": 46,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ANNABA",
             "branch": "(AGENCE ANNABA ASMIDAL)",
             "swift_code": "BEXADZAL077"
         },
         {
-            "id": 45,
+            "id": 47,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ANNABA",
             "branch": "(AGENCE ANNABA EL HADJAR)",
             "swift_code": "BEXADZAL076"
         },
         {
-            "id": 46,
+            "id": 48,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ANNABA",
             "branch": "(AGENCE ANNABA ELYSA)",
             "swift_code": "BEXADZAL107"
         },
         {
-            "id": 47,
+            "id": 49,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ANNABA",
             "branch": "(AGENCE ANNABA REVOLUTION)",
             "swift_code": "BEXADZAL042"
         },
         {
-            "id": 48,
+            "id": 50,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ARZEW",
             "branch": "(AGENCE ARZEW LES JARDINS)",
             "swift_code": "BEXADZAL078"
         },
         {
-            "id": 49,
+            "id": 51,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "BATNA",
             "branch": "(AGENCE BATNA)",
             "swift_code": "BEXADZAL054"
         },
         {
-            "id": 50,
+            "id": 52,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "BATNA",
             "branch": "(BATNA BOUAKAL)",
             "swift_code": "BEXADZAL093"
         },
         {
-            "id": 51,
+            "id": 53,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "BECHAR",
             "branch": "(AGENCE BECHAR)",
             "swift_code": "BEXADZAL071"
         },
         {
-            "id": 52,
+            "id": 54,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "BEJAIA",
             "branch": "(AGENCE BEJAIA 041)",
             "swift_code": "BEXADZAL041"
         },
         {
-            "id": 53,
+            "id": 55,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "BEJAIA",
             "branch": "(AGENCE DE BEJAIA)",
             "swift_code": "BEXADZAL040"
         },
         {
-            "id": 54,
+            "id": 56,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "BENI SAF",
             "branch": "(AGENCE BENI SAF)",
             "swift_code": "BEXADZAL075"
         },
         {
-            "id": 55,
+            "id": 57,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "BISKRA",
             "branch": "(AGENCE BISKRA)",
             "swift_code": "BEXADZAL056"
         },
         {
-            "id": 56,
+            "id": 58,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "BLIDA",
             "branch": "(AGENCE BENI MERED)",
             "swift_code": "BEXADZAL025"
         },
         {
-            "id": 57,
+            "id": 59,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "BLIDA",
             "branch": "(AGENCE BLIDA)",
             "swift_code": "BEXADZAL024"
         },
         {
-            "id": 58,
+            "id": 60,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "BLIDA",
             "branch": "(AGENCE MOUZAIA)",
             "swift_code": "BEXADZAL027"
         },
         {
-            "id": 59,
+            "id": 61,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "BLIDA",
             "branch": "(OULED YAICH)",
             "swift_code": "BEXADZAL112"
         },
         {
-            "id": 60,
+            "id": 62,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "BORDJ",
             "branch": "(AGENCE BORDJ)",
             "swift_code": "BEXADZAL058"
         },
         {
-            "id": 61,
+            "id": 63,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "BORDJ BOU ARRERIDJ",
             "branch": "(AGENCE BORDJ BOU ARRERIDJ 2)",
             "swift_code": "BEXADZAL109"
         },
         {
-            "id": 62,
+            "id": 64,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "BOUFARIK",
             "branch": "(AGENCE BOUFARIK)",
             "swift_code": "BEXADZAL019"
         },
         {
-            "id": 63,
+            "id": 65,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "BOUIRA",
             "branch": "(AGENCE BOUIRA)",
             "swift_code": "BEXADZAL037"
         },
         {
-            "id": 64,
+            "id": 66,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "BOUMERDES",
             "branch": "(AGENCE BOUMERDES)",
             "swift_code": "BEXADZAL082"
         },
         {
-            "id": 65,
+            "id": 67,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "BOUMERDES",
             "branch": "(AGENCE ROUIBA)",
             "swift_code": "BEXADZAL006"
         },
         {
-            "id": 66,
+            "id": 68,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "BOUSAADA",
             "branch": "(AGENCE BOUSAADA)",
             "swift_code": "BEXADZAL086"
         },
         {
-            "id": 67,
+            "id": 69,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "CHLEF",
             "branch": "(AGENCE DE CHLEF)",
             "swift_code": "BEXADZAL068"
         },
         {
-            "id": 68,
+            "id": 70,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "CONSTANTINE",
             "branch": "(AGENCE CONSTANTINE EL BEY)",
             "swift_code": "BEXADZAL110"
         },
         {
-            "id": 69,
+            "id": 71,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "CONSTANTINE",
             "branch": "(AGENCE DE CONSTANTINE)",
             "swift_code": "BEXADZAL050"
         },
         {
-            "id": 70,
+            "id": 72,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "CONSTANTINE",
             "branch": "(CONSTANTINE SI EL HAOUES)",
             "swift_code": "BEXADZAL103"
         },
         {
-            "id": 71,
+            "id": 73,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "DJELFA",
             "branch": "(AGENCE DJELFA)",
             "swift_code": "BEXADZAL031"
         },
         {
-            "id": 72,
+            "id": 74,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "EL KHROUB",
             "branch": "(AGENCE EL KHROUB)",
             "swift_code": "BEXADZAL039"
         },
         {
-            "id": 73,
+            "id": 75,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "EL MILIA",
             "branch": "(AGENCE EL MILIA)",
             "swift_code": "BEXADZAL097"
         },
         {
-            "id": 74,
+            "id": 76,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "EL-OUED",
             "branch": "(AGENCE EL-OUED)",
             "swift_code": "BEXADZAL094"
         },
         {
-            "id": 75,
+            "id": 77,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "GHARDAIA",
             "branch": "(AGENCE GHARDAIA)",
             "swift_code": "BEXADZAL028"
         },
         {
-            "id": 76,
+            "id": 78,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "GHAZAOUET",
             "branch": "(AGENCE GHAZAOUET)",
             "swift_code": "BEXADZAL080"
         },
         {
-            "id": 77,
+            "id": 79,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "GUELMA",
             "branch": "(AGENCE GUELMA)",
             "swift_code": "BEXADZAL055"
         },
         {
-            "id": 78,
+            "id": 80,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "HASSI-MESSAOUD",
             "branch": "(AGENCE DE HASSI-MESSAOUD)",
             "swift_code": "BEXADZAL033"
         },
         {
-            "id": 79,
+            "id": 81,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "HASSI-MESSAOUD",
             "branch": null,
             "swift_code": "BEXADZAL035"
         },
         {
-            "id": 80,
+            "id": 82,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "HASSI-R'MEL",
             "branch": "(AGENCE HASSI-R'MEL)",
             "swift_code": "BEXADZAL083"
         },
         {
-            "id": 81,
+            "id": 83,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "IN AMENAS",
             "branch": "(AGENCE IN AMENAS)",
             "swift_code": "BEXADZAL092"
         },
         {
-            "id": 82,
+            "id": 84,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "JIJEL",
             "branch": "(AGENCE JIJEL IBN KHELDOUN)",
             "swift_code": "BEXADZAL043"
         },
         {
-            "id": 83,
+            "id": 85,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "JIJEL",
             "branch": "(AGENCE JIJEL)",
             "swift_code": "BEXADZAL048"
         },
         {
-            "id": 84,
+            "id": 86,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "LAGHOUAT",
             "branch": "(AGENCE DE LAGHOUAT)",
             "swift_code": "BEXADZAL029"
         },
         {
-            "id": 85,
+            "id": 87,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "MASCARA",
             "branch": "(AGENCE MASCARA)",
             "swift_code": "BEXADZAL067"
         },
         {
-            "id": 86,
+            "id": 88,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "MEDEA",
             "branch": "(AGENCE MEDEA)",
             "swift_code": "BEXADZAL026"
         },
         {
-            "id": 87,
+            "id": 89,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "MOSTAGANEM",
             "branch": "(AGENCE DE MOSTAGANEM)",
             "swift_code": "BEXADZAL066"
         },
         {
-            "id": 88,
+            "id": 90,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "MOSTAGANEM",
             "branch": "(MOSTAGANEM CORPORATE)",
             "swift_code": "BEXADZAL104"
         },
         {
-            "id": 89,
+            "id": 91,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "M'SILA",
             "branch": "(AGENCE M'SILA)",
             "swift_code": "BEXADZAL047"
         },
         {
-            "id": 90,
+            "id": 92,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ORAN",
             "branch": "(AGENCE ARZEW SITE SONATRACH)",
             "swift_code": "BEXADZAL070"
         },
         {
-            "id": 91,
+            "id": 93,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ORAN",
             "branch": "(AGENCE ORAN ABDELAKADER)",
             "swift_code": "BEXADZAL060"
         },
         {
-            "id": 92,
+            "id": 94,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ORAN",
             "branch": "(AGENCE ORAN KHEMISTI)",
             "swift_code": "BEXADZAL062"
         },
         {
-            "id": 93,
+            "id": 95,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ORAN",
             "branch": "(AGENCE ORAN SITE SNS)",
             "swift_code": "BEXADZAL079"
         },
         {
-            "id": 94,
+            "id": 96,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ORAN",
             "branch": "(AGENCE ORAN)",
             "swift_code": "BEXADZAL074"
         },
         {
-            "id": 95,
+            "id": 97,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "ORAN",
             "branch": "(ORAN EL DJAMEL)",
             "swift_code": "BEXADZAL081"
         },
         {
-            "id": 96,
+            "id": 98,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "OUARGLA",
             "branch": "(AGENCE OUARGLA)",
             "swift_code": "BEXADZAL032"
         },
         {
-            "id": 97,
+            "id": 99,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "OUM EL BOUAGHI",
             "branch": "(AGENCE OUM EL BOUAGHI)",
             "swift_code": "BEXADZAL051"
         },
         {
-            "id": 98,
+            "id": 100,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "RELIZANE",
             "branch": "(AGENCE DE RELIZANE)",
             "swift_code": "BEXADZAL073"
         },
         {
-            "id": 99,
+            "id": 101,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "SAIDA",
             "branch": "(AGENCE SAIDA)",
             "swift_code": "BEXADZAL061"
         },
         {
-            "id": 100,
+            "id": 102,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "SETIF",
             "branch": "(AGENCE EL EULMA)",
             "swift_code": "BEXADZAL087"
         },
         {
-            "id": 101,
+            "id": 103,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "SETIF",
             "branch": "(AGENCE SETIF II)",
             "swift_code": "BEXADZAL053"
         },
         {
-            "id": 102,
+            "id": 104,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "SETIF",
             "branch": "(AGENCE SETIF)",
             "swift_code": "BEXADZAL036"
         },
         {
-            "id": 103,
+            "id": 105,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "SIDI BEL ABBES",
             "branch": "(AGENCE SIDI BEL ABBES)",
             "swift_code": "BEXADZAL065"
         },
         {
-            "id": 104,
+            "id": 106,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "SIG",
             "branch": "(AGENCE SIG)",
             "swift_code": "BEXADZAL084"
         },
         {
-            "id": 105,
+            "id": 107,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "SKIKDA",
             "branch": "(AGENCE DE SKIKDA)",
             "swift_code": "BEXADZAL052"
         },
         {
-            "id": 106,
+            "id": 108,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "SKIKDA",
             "branch": "(AGENCE SKIKDA SITE SH)",
             "swift_code": "BEXADZAL085"
         },
         {
-            "id": 107,
+            "id": 109,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "SOUK AHRAS",
             "branch": "(AGENCE SOUK AHRAS)",
             "swift_code": "BEXADZAL057"
         },
         {
-            "id": 108,
+            "id": 110,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "TEBESSA",
             "branch": "(AGENCE TEBESSA)",
             "swift_code": "BEXADZAL046"
         },
         {
-            "id": 109,
+            "id": 111,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "TIARET",
             "branch": "(AGENCE DE TIARET)",
             "swift_code": "BEXADZAL069"
         },
         {
-            "id": 110,
+            "id": 112,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "TIZI-OUZOU",
             "branch": "(AGENCE OUED AISSI)",
             "swift_code": "BEXADZAL098"
         },
         {
-            "id": 111,
+            "id": 113,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "TLEMCEN",
             "branch": "(AGENCE EL KIFFANE)",
             "swift_code": "BEXADZAL096"
         },
         {
-            "id": 112,
+            "id": 114,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "TLEMCEN",
             "branch": "(AGENCE TLEMCEN INDEPDT)",
             "swift_code": "BEXADZAL064"
         },
         {
-            "id": 113,
+            "id": 115,
             "bank": "BANQUE EXTERIEURE D'ALGERIE",
             "city": "TOUGGOURT",
             "branch": "(AGENCE DE TOUGGOURT)",
             "swift_code": "BEXADZAL088"
         },
         {
-            "id": 114,
+            "id": 116,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(BELAHDJEL)",
             "swift_code": "BNALDZAL615"
         },
         {
-            "id": 115,
+            "id": 117,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(BEN M'HIDI)",
             "swift_code": "BNALDZAL623"
         },
         {
-            "id": 116,
+            "id": 118,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(BIRKILADEM)",
             "swift_code": "BNALDZAL633"
         },
         {
-            "id": 117,
+            "id": 119,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(BOLOGHINE)",
             "swift_code": "BNALDZAL608"
         },
         {
-            "id": 118,
+            "id": 120,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(DIDOUCHE MOURAD)",
             "swift_code": "BNALDZAL601"
         },
         {
-            "id": 119,
+            "id": 121,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(EL BIAR)",
             "swift_code": "BNALDZAL621"
         },
         {
-            "id": 120,
+            "id": 122,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(GUEVARA)",
             "swift_code": "BNALDZAL599"
         },
         {
-            "id": 121,
+            "id": 123,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(HASSIBA BEN BOUALI)",
             "swift_code": "BNALDZAL607"
         },
         {
-            "id": 122,
+            "id": 124,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(KRIM BELKACEM)",
             "swift_code": "BNALDZAL602"
         },
         {
-            "id": 123,
+            "id": 125,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(LIBERTE)",
             "swift_code": "BNALDZAL605"
         },
         {
-            "id": 124,
+            "id": 126,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(STAOUELI)",
             "swift_code": "BNALDZAL440"
         },
         {
-            "id": 125,
+            "id": 127,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "ALGIERS",
             "branch": "(ZIROUT YOUCEF)",
             "swift_code": "BNALDZAL620"
         },
         {
-            "id": 126,
+            "id": 128,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "ALGIERS",
             "branch": null,
             "swift_code": "BNALDZAL"
         },
         {
-            "id": 127,
+            "id": 129,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "ALGIERS",
             "branch": null,
             "swift_code": "BNALDZALRTG"
         },
         {
-            "id": 128,
+            "id": 130,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "ANNABA",
             "branch": "(ANNABA 810)",
             "swift_code": "BNALDZAL810"
         },
         {
-            "id": 129,
+            "id": 131,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "ANNABA",
             "branch": "(ANNABA 811)",
             "swift_code": "BNALDZAL811"
         },
         {
-            "id": 130,
+            "id": 132,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "ARZEW",
             "branch": "(ARZEW)",
             "swift_code": "BNALDZAL954"
         },
         {
-            "id": 131,
+            "id": 133,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "BECHAR",
             "branch": "(BECHAR)",
             "swift_code": "BNALDZAL412"
         },
         {
-            "id": 132,
+            "id": 134,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "BEJAIA",
             "branch": "(BEJAIA)",
             "swift_code": "BNALDZAL356"
         },
         {
-            "id": 133,
+            "id": 135,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "BERROUAGHIA",
             "branch": "(BERROUAGHIA)",
             "swift_code": "BNALDZAL857"
         },
         {
-            "id": 134,
+            "id": 136,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "BISKRA",
             "branch": "(BISKRA)",
             "swift_code": "BNALDZAL386"
         },
         {
-            "id": 135,
+            "id": 137,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "BLIDA",
             "branch": "(BLIDA)",
             "swift_code": "BNALDZAL442"
         },
         {
-            "id": 136,
+            "id": 138,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "BORDJ BOU ARRERIDJ",
             "branch": "(BORDJ BOU ARRERIDJ)",
             "swift_code": "BNALDZAL705"
         },
         {
-            "id": 137,
+            "id": 139,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "BORDJ EL KIFFAN",
             "branch": "(BORDJ EL KIFFAN)",
             "swift_code": "BNALDZAL640"
         },
         {
-            "id": 138,
+            "id": 140,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "BORDJ MENAIEL",
             "branch": "(BORDJ MENAIEL)",
             "swift_code": "BNALDZAL643"
         },
         {
-            "id": 139,
+            "id": 141,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "BOUFARIK",
             "branch": "(BOUFARIK)",
             "swift_code": "BNALDZAL430"
         },
         {
-            "id": 140,
+            "id": 142,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "BOUIRA",
             "branch": "(BOUIRA)",
             "swift_code": "BNALDZAL460"
         },
         {
-            "id": 141,
+            "id": 143,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "CHLEF",
             "branch": "(CHLEF)",
             "swift_code": "BNALDZAL260"
         },
         {
-            "id": 142,
+            "id": 144,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "CONSTANTINE",
             "branch": "(CONSTANTINE 832)",
             "swift_code": "BNALDZAL832"
         },
         {
-            "id": 143,
+            "id": 145,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "CONSTANTINE",
             "branch": "(CONSTANTINE 850)",
             "swift_code": "BNALDZAL850"
         },
         {
-            "id": 144,
+            "id": 146,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "CONSTANTINE",
             "branch": "(EL KHROUB)",
             "swift_code": "BNALDZAL835"
         },
         {
-            "id": 145,
+            "id": 147,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "EL HARRACH",
             "branch": "(EL HARRACH 616)",
             "swift_code": "BNALDZAL616"
         },
         {
-            "id": 146,
+            "id": 148,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "EL HARRACH",
             "branch": "(EL HARRACH 619)",
             "swift_code": "BNALDZAL619"
         },
         {
-            "id": 147,
+            "id": 149,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "GHARDAIA",
             "branch": "(GHARDAIA)",
             "swift_code": "BNALDZAL291"
         },
         {
-            "id": 148,
+            "id": 150,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "KOLEA",
             "branch": "(KOLEA)",
             "swift_code": "BNALDZAL441"
         },
         {
-            "id": 149,
+            "id": 151,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "LAGHOUAT",
             "branch": null,
             "swift_code": "BNALDZAL301"
         },
         {
-            "id": 150,
+            "id": 152,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "MOSTAGANEM",
             "branch": "(MOSTAGANEM 871)",
             "swift_code": "BNALDZAL871"
         },
         {
-            "id": 151,
+            "id": 153,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "MOSTAGANEM",
             "branch": "(MOSTAGANEM)",
             "swift_code": "BNALDZAL876"
         },
         {
-            "id": 152,
+            "id": 154,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "M'SILA",
             "branch": "(M'SILA)",
             "swift_code": "BNALDZAL901"
         },
         {
-            "id": 153,
+            "id": 155,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "ORAN",
             "branch": "(BOULANGER ORAN)",
             "swift_code": "BNALDZAL952"
         },
         {
-            "id": 154,
+            "id": 156,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "ORAN",
             "branch": "(DIDOUCHE MOURAD ORAN)",
             "swift_code": "BNALDZAL958"
         },
         {
-            "id": 155,
+            "id": 157,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "ORAN",
             "branch": "(ORAN 966)",
             "swift_code": "BNALDZAL966"
         },
         {
-            "id": 156,
+            "id": 158,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "ORAN",
             "branch": "(ORAN KHEMISTI)",
             "swift_code": "BNALDZAL960"
         },
         {
-            "id": 157,
+            "id": 159,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "ORAN",
             "branch": "(ORAN SOUMMAM)",
             "swift_code": "BNALDZAL951"
         },
         {
-            "id": 158,
+            "id": 160,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "OUARGLA",
             "branch": null,
             "swift_code": "BNALDZAL946"
         },
         {
-            "id": 159,
+            "id": 161,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "RELIZANE",
             "branch": "(RELIZANE)",
             "swift_code": "BNALDZAL869"
         },
         {
-            "id": 160,
+            "id": 162,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "ROUIBA",
             "branch": "(ROUIBA 632)",
             "swift_code": "BNALDZAL632"
         },
         {
-            "id": 161,
+            "id": 163,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "ROUIBA",
             "branch": "(ROUIBA 641)",
             "swift_code": "BNALDZAL641"
         },
         {
-            "id": 162,
+            "id": 164,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "SETIF",
             "branch": "(SETIF)",
             "swift_code": "BNALDZAL704"
         },
         {
-            "id": 163,
+            "id": 165,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "SKIKDA",
             "branch": "(SKIKDA)",
             "swift_code": "BNALDZAL743"
         },
         {
-            "id": 164,
+            "id": 166,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "TAMANRASSET",
             "branch": "(TAMANRASSET)",
             "swift_code": "BNALDZAL473"
         },
         {
-            "id": 165,
+            "id": 167,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "TEBESSA",
             "branch": "(TEBESSA)",
             "swift_code": "BNALDZAL491"
         },
         {
-            "id": 166,
+            "id": 168,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "TIARET",
             "branch": "(TIARET)",
             "swift_code": "BNALDZAL540"
         },
         {
-            "id": 167,
+            "id": 169,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "TIZI-OUZOU",
             "branch": "(TIZI-OUZOU 581)",
             "swift_code": "BNALDZAL581"
         },
         {
-            "id": 168,
+            "id": 170,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "TIZI-OUZOU",
             "branch": "(TIZI-OUZOU 583)",
             "swift_code": "BNALDZAL583"
         },
         {
-            "id": 169,
+            "id": 171,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "TLEMCEN",
             "branch": "(ABOU TACHFINE)",
             "swift_code": "BNALDZAL526"
         },
         {
-            "id": 170,
+            "id": 172,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "TLEMCEN",
             "branch": "(TLEMCEN BRANCH)",
             "swift_code": "BNALDZAL527"
         },
         {
-            "id": 171,
+            "id": 173,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "TLEMCEN",
             "branch": "(TLEMCEN)",
             "swift_code": "BNALDZAL512"
         },
         {
-            "id": 172,
+            "id": 174,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "TOUGGOURT",
             "branch": "(TOUGGOURT)",
             "swift_code": "BNALDZAL941"
         },
         {
-            "id": 173,
+            "id": 175,
             "bank": "BANQUE NATIONALE D'ALGERIE",
             "city": "ZERALDA",
             "branch": "(AIN EL BENIAN)",
             "swift_code": "BNALDZAL630"
         },
         {
-            "id": 174,
+            "id": 176,
             "bank": "BNP PARIBAS EL DJAZAIR",
             "city": "ALGIERS",
             "branch": null,
             "swift_code": "BNPADZAL"
         },
         {
-            "id": 175,
+            "id": 177,
+            "bank": "CAISSE ALGERIENNE D'ASSURANCE ET DE REASSURANCE",
+            "city": "ALGIERS",
+            "branch": null,
+            "swift_code": "AASRDZA1"
+        },
+        {
+            "id": 178,
             "bank": "CAISSE NATIONALE D'EPARGNE ET DE PREVOYANCE-BANQUE",
             "city": "ALGIERS",
             "branch": null,
             "swift_code": "EPPRDZAL"
         },
         {
-            "id": 176,
+            "id": 179,
             "bank": "CITIBANK N.A. ALGERIA",
             "city": "ALGIERS",
             "branch": "(TRADE SERVICES DEPT)",
             "swift_code": "CITIDZALTRD"
         },
         {
-            "id": 177,
+            "id": 180,
             "bank": "CITIBANK N.A. ALGERIA",
             "city": "ALGIERS",
             "branch": null,
             "swift_code": "CITIDZAL"
         },
         {
-            "id": 178,
+            "id": 181,
             "bank": "CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK ALGERIE, SPA",
             "city": "ALGIERS",
             "branch": null,
             "swift_code": "BSUIDZAL"
         },
         {
-            "id": 179,
+            "id": 182,
             "bank": "CREDIT POPULAIRE D'ALGERIE",
             "city": "ALGIERS",
             "branch": null,
             "swift_code": "CPALDZAL"
         },
         {
-            "id": 180,
+            "id": 183,
             "bank": "EPIC ALGERIE POSTE",
             "city": "ALGIERS",
             "branch": null,
             "swift_code": "EPALDZAL"
         },
         {
-            "id": 181,
+            "id": 184,
             "bank": "FONDS NATIONAL D'INVESTISSEMENT",
             "city": "ALGIERS",
             "branch": null,
             "swift_code": "FNIZDZAL"
         },
         {
-            "id": 182,
+            "id": 185,
             "bank": "FRANSABANK EL DJAZAIR SPA",
             "city": "ALGIERS",
             "branch": null,
             "swift_code": "FSBKDZAL"
         },
         {
-            "id": 183,
+            "id": 186,
             "bank": "HSBC ALGERIA",
             "city": "ALGIERS",
             "branch": null,
             "swift_code": "HSBCDZAL"
         },
         {
-            "id": 184,
+            "id": 187,
             "bank": "NATIXIS ALGERIE",
             "city": "ALGIERS",
             "branch": null,
             "swift_code": "NATXDZAL"
         },
         {
-            "id": 185,
+            "id": 188,
             "bank": "SOCIETE GENERALE ALGERIE",
             "city": "ALGIERS",
             "branch": null,
             "swift_code": "SOGEDZAL"
         },
         {
-            "id": 186,
+            "id": 189,
             "bank": "THE HOUSING BANK FOR TRADE AND FINANCE ALGERIA",
             "city": "ALGIERS",
             "branch": null,
             "swift_code": "HBHODZAL"
         },
         {
-            "id": 187,
+            "id": 190,
             "bank": "TRUST BANK ALGERIA",
             "city": "ALGIERS",
             "branch": null,
             "swift_code": "TBALDZAL"
+        },
+        {
+            "id": 191,
+            "bank": "UNION BANK",
+            "city": "ALGIERS",
+            "branch": null,
+            "swift_code": "UBDZDZA1"
         }
     ]
 }

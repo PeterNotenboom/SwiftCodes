@@ -18,34 +18,55 @@
         },
         {
             "id": 3,
+            "bank": "BANK OF SOUTH PACIFIC LIMITED",
+            "city": "SUVA",
+            "branch": null,
+            "swift_code": "HABBFJF1"
+        },
+        {
+            "id": 4,
             "bank": "BANK OF SOUTH PACIFIC LTD TRADING AS BANK OF SOUTHPACIFIC",
             "city": "SUVA",
             "branch": null,
             "swift_code": "BOSPFJFJ"
         },
         {
-            "id": 4,
+            "id": 5,
             "bank": "BRED BANK (FIJI) LIMITED",
             "city": "SUVA",
             "branch": null,
             "swift_code": "BREDFJFJ"
         },
         {
-            "id": 5,
+            "id": 6,
+            "bank": "CENTRAL MANUFACTURING COMPANY LIMITED",
+            "city": "SUVA",
+            "branch": null,
+            "swift_code": "BATSFJA1"
+        },
+        {
+            "id": 7,
+            "bank": "FIJI DEVELOPMENT BANK",
+            "city": "SUVA",
+            "branch": null,
+            "swift_code": "FDEVFJF1"
+        },
+        {
+            "id": 8,
             "bank": "HFC BANK",
             "city": "SUVA",
             "branch": null,
             "swift_code": "HFCLFJFJ"
         },
         {
-            "id": 6,
+            "id": 9,
             "bank": "RESERVE BANK OF FIJI",
             "city": "SUVA",
             "branch": null,
             "swift_code": "RBFJFJFJ"
         },
         {
-            "id": 7,
+            "id": 10,
             "bank": "WESTPAC BANKING CORPORATION",
             "city": "SUVA",
             "branch": null,

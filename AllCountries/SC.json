@@ -53,20 +53,34 @@
         },
         {
             "id": 8,
+            "bank": "MAGNATE PREMIER PRIVATE BANK LIMITED",
+            "city": "VICTORIA",
+            "branch": null,
+            "swift_code": "MARVSCS1"
+        },
+        {
+            "id": 9,
             "bank": "MAURITIUS COMMERCIAL BANK (SEYCHELLES) LIMITED, THE",
             "city": "VICTORIA",
             "branch": null,
             "swift_code": "MCBLSCSC"
         },
         {
-            "id": 9,
+            "id": 10,
             "bank": "NOUVOBANQ",
             "city": "VICTORIA",
             "branch": null,
             "swift_code": "NOVHSCSC"
         },
         {
-            "id": 10,
+            "id": 11,
+            "bank": "RM INTERNATIONAL HOLDINGS AG",
+            "city": "PROVIDENCE MAHE",
+            "branch": null,
+            "swift_code": "INHLSCS1"
+        },
+        {
+            "id": 12,
             "bank": "SEYCHELLES COMMERCIAL BANK",
             "city": "VICTORIA",
             "branch": null,

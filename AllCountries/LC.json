@@ -32,48 +32,55 @@
         },
         {
             "id": 5,
+            "bank": "CARIBBEAN PRIVATE BANK LIMITED",
+            "city": "CASTRIES",
+            "branch": null,
+            "swift_code": "CIPVLCL1"
+        },
+        {
+            "id": 6,
             "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK",
             "city": "CASTRIES",
             "branch": null,
             "swift_code": "FCIBLCLC"
         },
         {
-            "id": 6,
+            "id": 7,
             "bank": "GOVERNMENT OF SAINT LUCIA",
             "city": "CASTRIES",
             "branch": null,
             "swift_code": "GVLCLCLC"
         },
         {
-            "id": 7,
+            "id": 8,
             "bank": "HERMES BANK LIMITED",
             "city": "GROS-ISLET",
             "branch": null,
             "swift_code": "HEMMLCL2"
         },
         {
-            "id": 8,
+            "id": 9,
             "bank": "PETRUS PRIVATE BANK",
             "city": "CASTRIES",
             "branch": null,
             "swift_code": "PTRVLCLC"
         },
         {
-            "id": 9,
+            "id": 10,
             "bank": "PLG CAPITAL BANK LTD",
             "city": "CASTRIES",
             "branch": null,
             "swift_code": "PLGCLCLC"
         },
         {
-            "id": 10,
+            "id": 11,
             "bank": "ROYAL BANK OF CANADA",
             "city": "CASTRIES",
             "branch": null,
             "swift_code": "ROYCLCLC"
         },
         {
-            "id": 11,
+            "id": 12,
             "bank": "STATETRUST BANK AND TRUST LTD.",
             "city": "CASTRIES",
             "branch": null,

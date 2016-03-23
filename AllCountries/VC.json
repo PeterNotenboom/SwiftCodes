@@ -25,45 +25,66 @@
         },
         {
             "id": 4,
+            "bank": "CARIBBEAN AND OVERSEAS TRUST BANK",
+            "city": "KINGSTOWN",
+            "branch": null,
+            "swift_code": "CADTVC21"
+        },
+        {
+            "id": 5,
             "bank": "EURO PACIFIC BANK LIMITED",
             "city": "KINGSTOWN",
             "branch": null,
             "swift_code": "EPBLVCVC"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK",
             "city": "KINGSTOWN",
             "branch": null,
             "swift_code": "FCIBVCVC"
         },
         {
-            "id": 6,
+            "id": 7,
             "bank": "GOVERNMENT OF ST.VINCENT AND THE GRENADINES",
             "city": "KINGSTOWN",
             "branch": null,
             "swift_code": "GVVGVCVC"
         },
         {
-            "id": 7,
+            "id": 8,
             "bank": "LOYAL BANK LIMITED",
             "city": "KINGSTOWN",
             "branch": null,
             "swift_code": "LOYAVCVX"
         },
         {
-            "id": 8,
+            "id": 9,
             "bank": "RBTT BANK CARRIBEAN LIMITED",
             "city": "BEQUIA",
             "branch": null,
             "swift_code": "RBTTVCVC022"
         },
         {
-            "id": 9,
+            "id": 10,
             "bank": "RBTT BANK CARRIBEAN LIMITED",
             "city": "KINGSTOWN",
             "branch": null,
             "swift_code": "RBTTVCVC"
+        },
+        {
+            "id": 11,
+            "bank": "STB SWISS TRUST BANK LTD",
+            "city": "KINGSTOWN",
+            "branch": null,
+            "swift_code": "STBSVCV1"
+        },
+        {
+            "id": 12,
+            "bank": "VANILLA DIRECT BANK LTD.",
+            "city": "KINGSTOWN",
+            "branch": null,
+            "swift_code": "VDBLVCV1"
         }
     ]
 }

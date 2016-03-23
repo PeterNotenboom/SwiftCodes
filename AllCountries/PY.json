@@ -25,181 +25,293 @@
         },
         {
             "id": 4,
+            "bank": "BANCO BUSAIF S.A. DE INVERSION Y FOMENTO",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "BOUIPYP1"
+        },
+        {
+            "id": 5,
             "bank": "BANCO CENTRAL DEL PARAGUAY",
             "city": "ASUNCION",
             "branch": "(AIM\/POMS SERVICE)",
             "swift_code": "BCPAPYPB"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "BANCO CENTRAL DEL PARAGUAY",
             "city": "ASUNCION",
             "branch": "(OPERACIONES NACIONALES - DPTO. DE CREDITO Y CTAS. CTES.)",
             "swift_code": "BCPAPYPXGON"
         },
         {
-            "id": 6,
+            "id": 7,
             "bank": "BANCO CENTRAL DEL PARAGUAY",
             "city": "ASUNCION",
             "branch": null,
             "swift_code": "BCPAPYPX"
         },
         {
-            "id": 7,
+            "id": 8,
             "bank": "BANCO CENTRAL DEL PARAGUAY",
             "city": "ASUNCION",
             "branch": null,
             "swift_code": "BCPAPYPD"
         },
         {
-            "id": 8,
+            "id": 9,
             "bank": "BANCO CENTRAL DEL PARAGUAY",
             "city": "ASUNCION",
             "branch": null,
             "swift_code": "BCPAPYPR"
         },
         {
-            "id": 9,
+            "id": 10,
+            "bank": "BANCO COMERCIAL PARAGUAYO SA",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "PCOMPYP1"
+        },
+        {
+            "id": 11,
             "bank": "BANCO CONTINENTAL SAECA",
             "city": "ASUNCION",
             "branch": null,
             "swift_code": "BCNAPYPA"
         },
         {
-            "id": 10,
+            "id": 12,
+            "bank": "BANCO CORPORACION S.A.",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "BBCNPYP1"
+        },
+        {
+            "id": 13,
+            "bank": "BANCO DE DESARROLLO DEL PARAGUAY S.A.",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "PADEPYP1"
+        },
+        {
+            "id": 14,
+            "bank": "BANCO DE INVERSIONES DEL PARAGUAY",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "INVPPYP1"
+        },
+        {
+            "id": 15,
             "bank": "BANCO DE LA NACION ARGENTINA",
             "city": "ASUNCION",
             "branch": "(SUCURSAL ASUNCION)",
             "swift_code": "NACNPYPA"
         },
         {
-            "id": 11,
+            "id": 16,
             "bank": "BANCO DE LA NACION ARGENTINA",
             "city": "CONCEPCION",
             "branch": null,
             "swift_code": "NACNPYPA0PC"
         },
         {
-            "id": 12,
+            "id": 17,
             "bank": "BANCO DE LA NACION ARGENTINA",
             "city": "ENCARNACION",
             "branch": null,
             "swift_code": "NACNPYPA0PE"
         },
         {
-            "id": 13,
+            "id": 18,
             "bank": "BANCO DE LA NACION ARGENTINA",
             "city": "VILLARRICA",
             "branch": null,
             "swift_code": "NACNPYPA0P3"
         },
         {
-            "id": 14,
+            "id": 19,
             "bank": "BANCO DO BRASIL S.A.",
             "city": "ASUNCION",
             "branch": null,
             "swift_code": "BRASPYPX"
         },
         {
-            "id": 15,
+            "id": 20,
             "bank": "BANCO FAMILIAR S.A.E.C.A.",
             "city": "ASUNCION",
             "branch": null,
             "swift_code": "FAMIPYPA"
         },
         {
-            "id": 16,
+            "id": 21,
+            "bank": "BANCO FINAMERICA SAECA.",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "BAFAPYP1"
+        },
+        {
+            "id": 22,
+            "bank": "BANCO GENERAL S.A.",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "GENBPYP1"
+        },
+        {
+            "id": 23,
             "bank": "BANCO GNB PARAGUAY S.A.",
             "city": "ASUNCION",
             "branch": null,
             "swift_code": "BGNBPYPX"
         },
         {
-            "id": 17,
+            "id": 24,
             "bank": "BANCO ITAPUA SAECA",
             "city": "ENCARNACION",
             "branch": null,
             "swift_code": "BISAPYPE"
         },
         {
-            "id": 18,
+            "id": 25,
             "bank": "BANCO ITAU PARAGUAY S.A.",
             "city": "ASUNCION",
             "branch": null,
             "swift_code": "UBBRPYPX"
         },
         {
-            "id": 19,
+            "id": 26,
             "bank": "BANCO NACIONAL DE FOMENTO",
             "city": "ASUNCION",
             "branch": null,
             "swift_code": "BNFAPYPA"
         },
         {
-            "id": 20,
+            "id": 27,
+            "bank": "BANCO NACIONAL DE TRABAJADORES",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "BNTRPYP1"
+        },
+        {
+            "id": 28,
             "bank": "BANCO PARA LA COMERCIALIZACION Y LA PRODUCCION SOCIEDAD ANONIMA (BANCOP S.A.)",
             "city": "ASUNCION",
             "branch": null,
             "swift_code": "BCOPPYPA"
         },
         {
-            "id": 21,
+            "id": 29,
+            "bank": "BANCO PARAGUAYO ORIENTAL DE INVERSION Y FOMENTO S.A.",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "POIFPYP1"
+        },
+        {
+            "id": 30,
             "bank": "BANCO REGIONAL S.A.E.C.A.",
             "city": "ENCARNACION",
             "branch": null,
             "swift_code": "RGSAPYPE"
         },
         {
-            "id": 22,
+            "id": 31,
+            "bank": "BOLPAR SOCIEDAD ANONIMA",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "BOSNPYP1"
+        },
+        {
+            "id": 32,
+            "bank": "BOLSA DE VALORES Y PRODUCTOS DE ASUNCION S.A.",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "XVPAPYP1"
+        },
+        {
+            "id": 33,
+            "bank": "BRITISH AMERICAN TOBACCO PRODUCTORA DE CIGARILLOS S.A.",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "BATSPYP1"
+        },
+        {
+            "id": 34,
+            "bank": "CITIBANK N.A.",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "CITIPYP10PA"
+        },
+        {
+            "id": 35,
+            "bank": "CITIBANK N.A.",
+            "city": "CIUDAD DEL ESTE",
+            "branch": null,
+            "swift_code": "CITIPYP10P2"
+        },
+        {
+            "id": 36,
+            "bank": "CITIBANK N.A.",
+            "city": "ENCARNACION",
+            "branch": null,
+            "swift_code": "CITIPYP1"
+        },
+        {
+            "id": 37,
             "bank": "CRISOL Y ENCARNACIN FINANCIERA S.A.",
             "city": "ENCARNACION",
             "branch": null,
             "swift_code": "CIEFPYPE"
         },
         {
-            "id": 23,
+            "id": 38,
             "bank": "FINANCIERA EL COMERCIO S.A.E.C.A.",
             "city": "ASUNCION",
             "branch": null,
             "swift_code": "COMAPYPA"
         },
         {
-            "id": 24,
+            "id": 39,
             "bank": "FINANCIERA EXPORTADORA PARAGUAYA S.A.",
             "city": "ASUNCION",
             "branch": null,
             "swift_code": "FNXAPYPA"
         },
         {
-            "id": 25,
+            "id": 40,
             "bank": "FINANCIERA PARAGUAYO JAPONESA SAECA",
             "city": "ASUNCION",
             "branch": null,
             "swift_code": "FIPJPYPA"
         },
         {
-            "id": 26,
+            "id": 41,
             "bank": "FONPLATA - FONDO FINANCIERO PARA EL DESAROLLO DE LA CUENCA DEL PLATA",
             "city": "ASUNCION",
             "branch": null,
             "swift_code": "FOPLPYPA"
         },
         {
-            "id": 27,
+            "id": 42,
             "bank": "GRUPO INTERNACIONAL DE FINANZAS S.A .C.A. (INTERFISA FINANCIERA)",
             "city": "ASUNCION",
             "branch": null,
             "swift_code": "IIFAPYPA"
         },
         {
-            "id": 28,
+            "id": 43,
             "bank": "SUDAMERIS BANK S.A.E.C.A.",
             "city": "ASUNCION",
             "branch": null,
             "swift_code": "BSUDPYPX"
         },
         {
-            "id": 29,
+            "id": 44,
+            "bank": "SUMMA ASESORIES",
+            "city": "ASUNCION",
+            "branch": null,
+            "swift_code": "SUMSPYP1"
+        },
+        {
+            "id": 45,
             "bank": "VISION BANCO S.A.E.C.A.",
             "city": "ASUNCION",
             "branch": null,

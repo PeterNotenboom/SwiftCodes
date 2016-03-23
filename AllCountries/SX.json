@@ -18,27 +18,34 @@
         },
         {
             "id": 3,
+            "bank": "CM-CIC ST MAARTEN",
+            "city": "SINT MAARTEN",
+            "branch": null,
+            "swift_code": "CMCISXS1"
+        },
+        {
+            "id": 4,
             "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK",
             "city": "PHILIPSBURG",
             "branch": null,
             "swift_code": "FCIBSXSM"
         },
         {
-            "id": 4,
+            "id": 5,
             "bank": "ORCO BANK N.V. ST. MAARTEN",
             "city": "COLEBAY",
             "branch": null,
             "swift_code": "ORBASXSM"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "RBC ROYAL BANK N.V. (FORMERLY RBTT BANK ST. MAARTEN N.V.)",
             "city": "PHILIPSBURG",
             "branch": null,
             "swift_code": "RBTTSXSM"
         },
         {
-            "id": 6,
+            "id": 7,
             "bank": "WINDWARD ISLANDS BANK LTD, THE",
             "city": "PHILIPSBURG",
             "branch": null,

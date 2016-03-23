@@ -4,461 +4,706 @@
     "list": [
         {
             "id": 1,
+            "bank": "ADANAC INVESTMENT CO LTD.",
+            "city": "FREEPORT",
+            "branch": null,
+            "swift_code": "ADAIBSF1"
+        },
+        {
+            "id": 2,
+            "bank": "ALLIANCE BANK AND TRUST",
+            "city": "NASSAU",
+            "branch": null,
+            "swift_code": "ABATBSN1"
+        },
+        {
+            "id": 3,
+            "bank": "ALLIED BANK AND TRUST COMPANY (BAHAMAS) LIMITED",
+            "city": "NASSAU",
+            "branch": null,
+            "swift_code": "ALBTBSN1"
+        },
+        {
+            "id": 4,
             "bank": "ANDBANC (BAHAMAS) LIMITED",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "BACABSNS"
         },
         {
-            "id": 2,
+            "id": 5,
             "bank": "ANSBACHER (BAHAMAS) LIMITED",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "BITCBSNS"
         },
         {
-            "id": 3,
+            "id": 6,
+            "bank": "ARNER BANK AND TRUST (BAHAMAS) LTD.",
+            "city": "NASSAU",
+            "branch": null,
+            "swift_code": "ARNEBSN1"
+        },
+        {
+            "id": 7,
+            "bank": "BAHAMAS DEVELOPMENT BANK",
+            "city": "NASSAU",
+            "branch": null,
+            "swift_code": "BAHDBSN1"
+        },
+        {
+            "id": 8,
             "bank": "BANCA DEL SEMPIONE (OVERSEAS) LTD",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "BASEBSNS"
         },
         {
-            "id": 4,
+            "id": 9,
+            "bank": "BANCO BILBAO VIZCAYA",
+            "city": "NASSAU",
+            "branch": null,
+            "swift_code": "BBVIBSN1"
+        },
+        {
+            "id": 10,
             "bank": "BANCO DE BOGOTA (NASSAU) LTD.",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "BBOGBSNX"
         },
         {
-            "id": 5,
+            "id": 11,
+            "bank": "BANCO POPULAR INTERNATIONAL LTD.",
+            "city": "NASSAU",
+            "branch": null,
+            "swift_code": "BPOIBSN1"
+        },
+        {
+            "id": 12,
+            "bank": "BANCO SANTANDER BAHAMAS INTERNATIONAL LIMITED",
+            "city": "NASSAU",
+            "branch": null,
+            "swift_code": "BSCHBSN1"
+        },
+        {
+            "id": 13,
             "bank": "BANCO SANTANDER BAHAMAS INTL. LTD.",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "SCHTBSNS"
         },
         {
-            "id": 6,
+            "id": 14,
             "bank": "BANCO VOTORANTIM S\/A - NASSAU BRANCH",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "BAVOBSNS"
         },
         {
-            "id": 7,
+            "id": 15,
             "bank": "BANK J. SAFRA SARASIN (BAHAMAS) LTD.",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "BSAFBSNS"
         },
         {
-            "id": 8,
+            "id": 16,
             "bank": "BANK OF BARODA, OFFSHOREBANKING UNIT, NASSAU, BAHAMAS",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "BARBBSNS"
         },
         {
-            "id": 9,
+            "id": 17,
             "bank": "BANK OF NOVA SCOTIA TRUST COMPANY (BAHAMAS) LTD,THE",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "NOSCBSNT"
         },
         {
-            "id": 10,
+            "id": 18,
             "bank": "BANK OF THE BAHAMAS LIMITED",
             "city": "FREEPORT",
             "branch": null,
             "swift_code": "BOTBBSNS0FR"
         },
         {
-            "id": 11,
+            "id": 19,
             "bank": "BANK OF THE BAHAMAS LIMITED",
             "city": "INAGUA",
             "branch": null,
             "swift_code": "BOTBBSNS0N2"
         },
         {
-            "id": 12,
+            "id": 20,
             "bank": "BANK OF THE BAHAMAS LIMITED",
             "city": "NASSAU",
             "branch": "(MAIN BRANCH)",
             "swift_code": "BOTBBSNS0N3"
         },
         {
-            "id": 13,
+            "id": 21,
             "bank": "BANK OF THE BAHAMAS LIMITED",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "BOTBBSNS"
         },
         {
-            "id": 14,
+            "id": 22,
+            "bank": "BANKAMERICA TRUST BANKING CORPORATION (BAHAMAS) LIMITED",
+            "city": "NASSAU",
+            "branch": null,
+            "swift_code": "BOFABSN1"
+        },
+        {
+            "id": 23,
             "bank": "BANQUE HAVILLAND (BAHAMAS) LTD.",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "HAVLBSNS"
         },
         {
-            "id": 15,
+            "id": 24,
+            "bank": "BBM BANK LIMITED",
+            "city": "NASSAU",
+            "branch": null,
+            "swift_code": "BBINBSN1"
+        },
+        {
+            "id": 25,
             "bank": "BSI OVERSEAS (BAHAMAS) LIMITED",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "BSIOBSNX"
         },
         {
-            "id": 16,
+            "id": 26,
             "bank": "CAPITAL UNION BANK",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "CUBLBSNS"
         },
         {
-            "id": 17,
+            "id": 27,
             "bank": "CBH (BAHAMAS) LTD.",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "BSSABSNS"
         },
         {
-            "id": 18,
+            "id": 28,
             "bank": "CENTRAL BANK OF THE BAHAMAS,THE",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "CBBHBSNS"
         },
         {
-            "id": 19,
+            "id": 29,
+            "bank": "CHASE MANHATTAN TRUST CORPORATION LIMITED",
+            "city": "NASSAU",
+            "branch": null,
+            "swift_code": "CHASBSN1"
+        },
+        {
+            "id": 30,
             "bank": "CIBC TRUST COMPANY (BAHAMAS) LTD SOLOMON'S BUILDING",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "CIBCBSNB"
         },
         {
-            "id": 20,
+            "id": 31,
             "bank": "CITCO BANK AND TRUST COMPANY (BAHAMAS) LTD.",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "CITCBSNS"
         },
         {
-            "id": 21,
+            "id": 32,
             "bank": "CITIBANK NA",
             "city": "NASSAU",
             "branch": "(CITITRUST BAHAMAS THIRD PARTY STATEMENTS)",
             "swift_code": "CITIBSNATPS"
         },
         {
-            "id": 22,
+            "id": 33,
             "bank": "CITIBANK NA",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "CITIBSNA"
         },
         {
-            "id": 23,
+            "id": 34,
+            "bank": "CITICORP BANKING CORPORATION",
+            "city": "NASSAU",
+            "branch": null,
+            "swift_code": "CITIBSN1"
+        },
+        {
+            "id": 35,
+            "bank": "CITITRUST (BAHAMAS) LTD.",
+            "city": "NASSAU",
+            "branch": null,
+            "swift_code": "CIBABSN1"
+        },
+        {
+            "id": 36,
             "bank": "COMMONWEALTH BANK LIMITED",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "COMWBSNS"
         },
         {
-            "id": 24,
+            "id": 37,
+            "bank": "CORNER BANK (OVERSEAS) LIMITED",
+            "city": "NASSAU",
+            "branch": null,
+            "swift_code": "CBLUBSN1"
+        },
+        {
+            "id": 38,
             "bank": "CREDIT SUISSE AG, NASSAU BRANCH",
             "city": "NASSAU",
             "branch": "(NASSAU BRANCH)",
             "swift_code": "CRESBSNS"
         },
         {
-            "id": 25,
+            "id": 39,
             "bank": "CREDIT SUISSE AG, NASSAU BRANCH",
             "city": "NASSAU",
             "branch": "(STRUCTURED PRODUCTS)",
             "swift_code": "CRESBSNSSIP"
         },
         {
-            "id": 26,
+            "id": 40,
             "bank": "CREDIT SUISSE AG, NASSAU BRANCH, LATAM INVESTMENT BANKING",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "GBLIBSNX"
         },
         {
-            "id": 27,
+            "id": 41,
             "bank": "CREDIT SUISSE AG, NASSAU BRANCH, PRIVATE BANKING",
             "city": "NASSAU",
             "branch": "(PRIVATE BANKING)",
             "swift_code": "CRESBSNSCRE"
         },
         {
-            "id": 28,
+            "id": 42,
             "bank": "CREDIT SUISSE AG, NASSAU BRANCH, TREASURY AND ISSUANCE",
             "city": "NASSAU",
             "branch": "(NASSAU BRANCH)",
             "swift_code": "CRESBSNSNAS"
         },
         {
-            "id": 29,
+            "id": 43,
             "bank": "CREDIT SUISSE AG, NASSAU BRANCH, WEALTH MANAGEMENT",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "CRESBSNX"
         },
         {
-            "id": 30,
+            "id": 44,
             "bank": "CREDIT SUISSE BRAZIL (BAHAMAS) LIMITED",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "BIGABSNS"
         },
         {
-            "id": 31,
+            "id": 45,
             "bank": "CREDIT SUISSE BRAZIL (BAHAMAS) LIMITED",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "BIGABSNSABT"
         },
         {
-            "id": 32,
+            "id": 46,
             "bank": "DELTEC BANK AND TRUST LIMITED",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "DBTLBSNS"
         },
         {
-            "id": 33,
+            "id": 47,
             "bank": "EDMOND DE ROTHSCHILD (BAHAMAS) LTD.",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "PRIBBSNS"
         },
         {
-            "id": 34,
+            "id": 48,
             "bank": "EFG BANK AND TRUST (BAHAMAS) LTD",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "EFGBBSNS"
         },
         {
-            "id": 35,
+            "id": 49,
             "bank": "EQUITY BANK AND TRUST BAHAMAS LIMITED",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "EQTTBSNS"
         },
         {
-            "id": 36,
+            "id": 50,
+            "bank": "EUROPEAN INVESTMENTS MANAGEMENT LIMITED",
+            "city": "NASSAU",
+            "branch": null,
+            "swift_code": "EIMLBSN1"
+        },
+        {
+            "id": 51,
             "bank": "FIDELITY BANK (BAHAMAS) LIMITED",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "BTAMBSNS"
         },
         {
-            "id": 37,
+            "id": 52,
+            "bank": "FINANCE CORPORATION OF BAHAMAS LTD.",
+            "city": "FREEPORT",
+            "branch": "(FREEPORT BRANCH)",
+            "swift_code": "FICBBSN10N4"
+        },
+        {
+            "id": 53,
+            "bank": "FINANCE CORPORATION OF BAHAMAS LTD.",
+            "city": "NASSAU",
+            "branch": "(MAIN BRANCH)",
+            "swift_code": "FICBBSN1"
+        },
+        {
+            "id": 54,
+            "bank": "FINANCE CORPORATION OF BAHAMAS LTD.",
+            "city": "NASSAU",
+            "branch": "(PALMDALE BRANCH)",
+            "swift_code": "FICBBSN10N2"
+        },
+        {
+            "id": 55,
+            "bank": "FINANCE CORPORATION OF BAHAMAS LTD.",
+            "city": "NASSAU",
+            "branch": "(ROBINSON ROAD BRANCH)",
+            "swift_code": "FICBBSN10N3"
+        },
+        {
+            "id": 56,
             "bank": "FIRST OVERSEAS BANK LIMITED",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "FOBLBSNS"
         },
         {
-            "id": 38,
+            "id": 57,
             "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BAHAMAS) LIMITED",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "FCIBBSNS"
         },
         {
-            "id": 39,
+            "id": 58,
+            "bank": "GILINGAM BANK AND TRUST LTD.",
+            "city": "NASSAU",
+            "branch": null,
+            "swift_code": "GLNGBSN1"
+        },
+        {
+            "id": 59,
             "bank": "GONET BANK AND TRUST LIMITED",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "GONEBSNS"
         },
         {
-            "id": 40,
+            "id": 60,
+            "bank": "GUARANTY TRUST BANK LIMITED",
+            "city": "NASSAU",
+            "branch": null,
+            "swift_code": "GTBLBSN1"
+        },
+        {
+            "id": 61,
+            "bank": "HANG SENG BANK (BAHAMAS) LTD.",
+            "city": "NASSAU",
+            "branch": null,
+            "swift_code": "HASEBSN1"
+        },
+        {
+            "id": 62,
+            "bank": "HSBC NOMINEES NASSAU LTD.",
+            "city": "NASSAU",
+            "branch": null,
+            "swift_code": "HSNNBSN1"
+        },
+        {
+            "id": 63,
+            "bank": "HSBC PRIVATE BANK (SUISSE) SA",
+            "city": "NASSAU",
+            "branch": null,
+            "swift_code": "BLICBSN1"
+        },
+        {
+            "id": 64,
             "bank": "ITAU UNIBANCO S.A. - NASSAU BRANCH (FORMERLY BANCO ITAU BBA S.A. - NASSAU BRANCH)",
             "city": "NASSAU",
             "branch": "(CASH CUSTOMERS TRANFS)",
             "swift_code": "CBBABSNSBNF"
         },
         {
-            "id": 41,
+            "id": 65,
             "bank": "ITAU UNIBANCO S.A. - NASSAU BRANCH (FORMERLY BANCO ITAU BBA S.A. - NASSAU BRANCH)",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "CBBABSNS"
         },
         {
-            "id": 42,
+            "id": 66,
             "bank": "ITAU UNIBANCO S.A. - NASSAU BRANCH (FORMERLY BANCO ITAU BBA S.A. - NASSAU BRANCH)",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "CBBABSNSGCH"
         },
         {
-            "id": 43,
+            "id": 67,
+            "bank": "J. SAFRA BANK (BAHAMAS) LIMITED",
+            "city": "NASSAU",
+            "branch": null,
+            "swift_code": "JSBBBSN1"
+        },
+        {
+            "id": 68,
             "bank": "JULIUS BAER BANK AND TRUST (BAHAMAS) LIMITED",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "JBBTBSNS"
         },
         {
-            "id": 44,
+            "id": 69,
+            "bank": "KARLA DERIVATIVES STRATEGIES FUND LTD.",
+            "city": "NASSAU",
+            "branch": null,
+            "swift_code": "KARLBSN1"
+        },
+        {
+            "id": 70,
             "bank": "KENFORTH LIFE INSURANCE LIMITED",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "KENFBSNS"
         },
         {
-            "id": 45,
+            "id": 71,
             "bank": "LOMBARD ODIER AND CIE (BAHAMAS) LIMITED",
             "city": "NASSAU",
             "branch": "(NDP DEPT)",
             "swift_code": "LOCYBSNSNDP"
         },
         {
-            "id": 46,
+            "id": 72,
             "bank": "LOMBARD ODIER AND CIE (BAHAMAS) LIMITED",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "LOCYBSNS"
         },
         {
-            "id": 47,
+            "id": 73,
             "bank": "LYFORD INTERNATIONAL BANK AND TRUST LIMITED",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "HOBTBSNS"
         },
         {
-            "id": 48,
+            "id": 74,
+            "bank": "MC. DERMOTT INTERNATIONAL INVESTMENTS CO. LTD.",
+            "city": "NASSAU",
+            "branch": null,
+            "swift_code": "DEIIBSN1"
+        },
+        {
+            "id": 75,
             "bank": "MMG BANK AND TRUST",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "MMGBBSNS"
         },
         {
-            "id": 49,
+            "id": 76,
+            "bank": "OCEANIC BANK AND TRUST LIMITED",
+            "city": "NASSAU",
+            "branch": null,
+            "swift_code": "RAWTBSN1"
+        },
+        {
+            "id": 77,
+            "bank": "OCEANIC BANK AND TRUST LIMITED",
+            "city": "NASSAU",
+            "branch": null,
+            "swift_code": "OBATBSN1"
+        },
+        {
+            "id": 78,
+            "bank": "PASCHE BANK AND TRUST LIMITED",
+            "city": "NASSAU",
+            "branch": null,
+            "swift_code": "BPGEBSN1"
+        },
+        {
+            "id": 79,
             "bank": "PICTET BANK AND TRUST LIMITED",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "PICTBSNX"
         },
         {
-            "id": 50,
+            "id": 80,
             "bank": "PNC BANK, N.A. NASSAU BRANCH",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "PNCCBSNS"
         },
         {
-            "id": 51,
+            "id": 81,
             "bank": "PRIVATE INVESTMENT BANK LIMITED",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "DWCIBSNS"
         },
         {
-            "id": 52,
+            "id": 82,
             "bank": "RBC ROYAL BANK (BAHAMAS) LIMITED (FORMERLY KNOWN AS ROYAL BANK OF CANADA NASSAU)",
             "city": "FREEPORT",
             "branch": "(FREEPORT BRANCH)",
             "swift_code": "ROYCBSNSFRE"
         },
         {
-            "id": 53,
+            "id": 83,
+            "bank": "RBC ROYAL BANK (BAHAMAS) LIMITED (FORMERLY KNOWN AS ROYAL BANK OF CANADA NASSAU)",
+            "city": "FREEPORT",
+            "branch": null,
+            "swift_code": "ROYCBSN10FR"
+        },
+        {
+            "id": 84,
             "bank": "RBC ROYAL BANK (BAHAMAS) LIMITED (FORMERLY KNOWN AS ROYAL BANK OF CANADA NASSAU)",
             "city": "NASSAU",
             "branch": "(ALL OFFICES)",
             "swift_code": "ROYCBSNS"
         },
         {
-            "id": 54,
+            "id": 85,
             "bank": "RBC ROYAL BANK (BAHAMAS) LIMITED (FORMERLY KNOWN AS ROYAL BANK OF CANADA NASSAU)",
             "city": "NASSAU",
             "branch": "(HEAD OFFICE OPERATIONS CENTRE)",
             "swift_code": "ROYCBSNSOPC"
         },
         {
-            "id": 55,
+            "id": 86,
             "bank": "RBC ROYAL BANK (BAHAMAS) LIMITED (FORMERLY KNOWN AS ROYAL BANK OF CANADA NASSAU)",
             "city": "NASSAU",
             "branch": "(MAIN BRANCH)",
             "swift_code": "ROYCBSNSMAI"
         },
         {
-            "id": 56,
+            "id": 87,
             "bank": "RBC ROYAL BANK (BAHAMAS) LIMITED (FORMERLY KNOWN AS ROYAL BANK OF CANADA NASSAU)",
             "city": "NASSAU",
             "branch": "(PALMDALE BRANCH)",
             "swift_code": "ROYCBSNSPAL"
         },
         {
-            "id": 57,
+            "id": 88,
+            "bank": "ROYAL BANK OF CANADA TRUST COMPANY (BAHAMAS) LIMITED",
+            "city": "NASSAU",
+            "branch": null,
+            "swift_code": "RCTCBSN1"
+        },
+        {
+            "id": 89,
+            "bank": "ROYAL BANK OF SCOTLAND (NASSAU) LIMITED, THE",
+            "city": "NASSAU",
+            "branch": null,
+            "swift_code": "RBOSBSN1"
+        },
+        {
+            "id": 90,
+            "bank": "RURAL INTERNATIONAL BANK",
+            "city": "NASSAU",
+            "branch": null,
+            "swift_code": "RUBABSN1"
+        },
+        {
+            "id": 91,
             "bank": "SCOTIABANK (BAHAMAS) LTD",
             "city": "FREEPORT",
             "branch": "(FREEPORT BRANCH)",
             "swift_code": "NOSCBSNSFPO"
         },
         {
-            "id": 58,
+            "id": 92,
             "bank": "SCOTIABANK (BAHAMAS) LTD",
             "city": "NASSAU",
             "branch": "(CARIBBEAN TREASURY UNIT)",
             "swift_code": "NOSCBSNSTMK"
         },
         {
-            "id": 59,
+            "id": 93,
             "bank": "SCOTIABANK (BAHAMAS) LTD",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "NOSCBSNS"
         },
         {
-            "id": 60,
+            "id": 94,
             "bank": "STATE BANK OF INDIA, NASSAU OBU",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "SBINBSNS"
         },
         {
-            "id": 61,
+            "id": 95,
+            "bank": "SYZ AND CO BANK AND TRUST LTD.",
+            "city": "NASSAU",
+            "branch": null,
+            "swift_code": "SYCOBSN1"
+        },
+        {
+            "id": 96,
             "bank": "UBS (BAHAMAS) LTD",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "UBSWBSNS"
         },
         {
-            "id": 62,
+            "id": 97,
             "bank": "UNION BANCAIRE PRIVEE",
             "city": "NASSAU",
             "branch": "(FUND ADMINISTRATION DEPARTMENT)",
             "swift_code": "NFZBBSNSFND"
         },
         {
-            "id": 63,
+            "id": 98,
             "bank": "UNION BANCAIRE PRIVEE",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "NFZBBSNS"
         },
         {
-            "id": 64,
+            "id": 99,
             "bank": "UNION BANCAIRE PRIVEE (BAHAMAS) LTD",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "UBPGBSNS"
         },
         {
-            "id": 65,
+            "id": 100,
             "bank": "VOTORANTIM BANK LIMITED",
             "city": "NASSAU",
             "branch": null,
             "swift_code": "VBLTBSNX"
         },
         {
-            "id": 66,
+            "id": 101,
             "bank": "WINTERBOTHAM TRUST COMPANY LIMITED, THE",
             "city": "NASSAU",
             "branch": null,

@@ -11,185 +11,318 @@
         },
         {
             "id": 2,
+            "bank": "ARCELORMITTAL SKOPJE (CRM)",
+            "city": "SKOPJE",
+            "branch": null,
+            "swift_code": "USINMK21"
+        },
+        {
+            "id": 3,
+            "bank": "BRO-DEAL, INC",
+            "city": "SKOPJE",
+            "branch": null,
+            "swift_code": "BDBKMK21"
+        },
+        {
+            "id": 4,
+            "bank": "BROKER HOUSE POSTEL-BROKER A.D",
+            "city": "SKOPJE",
+            "branch": null,
+            "swift_code": "POBRMK21"
+        },
+        {
+            "id": 5,
+            "bank": "BROKERAGE HOUSE KB BROKER INC.SKOPJE",
+            "city": "SKOPJE",
+            "branch": null,
+            "swift_code": "KBBRMK21"
+        },
+        {
+            "id": 6,
+            "bank": "BROKERAGE HOUSE MAKOS-INVEST BROKER INC",
+            "city": "SKOPJE",
+            "branch": null,
+            "swift_code": "MIBRMK21"
+        },
+        {
+            "id": 7,
+            "bank": "BROKER-SB A.D. SKOPJE BROKERAGE HOUSE OF STOPANSKA BANKA AD SKOPJE",
+            "city": "SKOPJE",
+            "branch": null,
+            "swift_code": "SBSBMK21"
+        },
+        {
+            "id": 8,
+            "bank": "CAPITAL BANK AD",
+            "city": "SKOPJE",
+            "branch": null,
+            "swift_code": "INPBMK21"
+        },
+        {
+            "id": 9,
             "bank": "CENTRAL COOPERATIVE BANK AD SKOPJE",
             "city": "SKOPJE",
             "branch": null,
             "swift_code": "CECBMK22"
         },
         {
-            "id": 3,
+            "id": 10,
+            "bank": "CENTRAL SECURITIES DEPOSITORY JSC",
+            "city": "SKOPJE",
+            "branch": null,
+            "swift_code": "CDHVMK21"
+        },
+        {
+            "id": 11,
+            "bank": "CLEARING HOUSE INTERBANK CLEARING SYSTEMS",
+            "city": "SKOPJE",
+            "branch": null,
+            "swift_code": "KIBSMK21"
+        },
+        {
+            "id": 12,
             "bank": "EUROSTANDARD BANK AD",
             "city": "SKOPJE",
             "branch": null,
             "swift_code": "ESWBMK22"
         },
         {
-            "id": 4,
+            "id": 13,
+            "bank": "FERSPED - BROKER AD",
+            "city": "SKOPJE",
+            "branch": null,
+            "swift_code": "FLAMMK21"
+        },
+        {
+            "id": 14,
             "bank": "HALKBANK AD SKOPJE",
             "city": "SKOPJE",
             "branch": null,
             "swift_code": "EXPCMK22"
         },
         {
-            "id": 5,
+            "id": 15,
+            "bank": "HEALTH INSURANCE FUND OF MACEDONIA",
+            "city": "SKOPJE",
+            "branch": null,
+            "swift_code": "HIFDMK21"
+        },
+        {
+            "id": 16,
             "bank": "KAPITAL BANKA AD SKOPJE",
             "city": "SKOPJE",
             "branch": null,
             "swift_code": "KAPBMK22"
         },
         {
-            "id": 6,
+            "id": 17,
             "bank": "KOMERCIJALNA BANKA AD SKOPJE",
             "city": "BITOLA",
             "branch": null,
             "swift_code": "KOBSMK2XBTB"
         },
         {
-            "id": 7,
+            "id": 18,
             "bank": "KOMERCIJALNA BANKA AD SKOPJE",
             "city": "GOSTIVAR",
             "branch": null,
             "swift_code": "KOBSMK2XGVB"
         },
         {
-            "id": 8,
+            "id": 19,
             "bank": "KOMERCIJALNA BANKA AD SKOPJE",
             "city": "KAVADARCI",
             "branch": null,
             "swift_code": "KOBSMK2XKVB"
         },
         {
-            "id": 9,
+            "id": 20,
             "bank": "KOMERCIJALNA BANKA AD SKOPJE",
             "city": "KOCANI",
             "branch": null,
             "swift_code": "KOBSMK2XKOB"
         },
         {
-            "id": 10,
+            "id": 21,
             "bank": "KOMERCIJALNA BANKA AD SKOPJE",
             "city": "KUMANOVO",
             "branch": null,
             "swift_code": "KOBSMK2XKUB"
         },
         {
-            "id": 11,
+            "id": 22,
             "bank": "KOMERCIJALNA BANKA AD SKOPJE",
             "city": "OHRID",
             "branch": null,
             "swift_code": "KOBSMK2XOHB"
         },
         {
-            "id": 12,
+            "id": 23,
             "bank": "KOMERCIJALNA BANKA AD SKOPJE",
             "city": "PRILEP",
             "branch": null,
             "swift_code": "KOBSMK2XPRB"
         },
         {
-            "id": 13,
+            "id": 24,
             "bank": "KOMERCIJALNA BANKA AD SKOPJE",
             "city": "SKOPJE",
             "branch": null,
             "swift_code": "KOBSMK2X"
         },
         {
-            "id": 14,
+            "id": 25,
             "bank": "KOMERCIJALNA BANKA AD SKOPJE",
             "city": "STIP",
             "branch": null,
             "swift_code": "KOBSMK2XSTB"
         },
         {
-            "id": 15,
+            "id": 26,
             "bank": "KOMERCIJALNA BANKA AD SKOPJE",
             "city": "STRUMICA",
             "branch": null,
             "swift_code": "KOBSMK2XSRB"
         },
         {
-            "id": 16,
+            "id": 27,
             "bank": "KOMERCIJALNA BANKA AD SKOPJE",
             "city": "TETOVO",
             "branch": null,
             "swift_code": "KOBSMK2XTEB"
         },
         {
-            "id": 17,
+            "id": 28,
             "bank": "KOMERCIJALNA BANKA AD SKOPJE",
             "city": "VELES",
             "branch": null,
             "swift_code": "KOBSMK2XVEB"
         },
         {
-            "id": 18,
+            "id": 29,
             "bank": "MACEDONIAN BANK FOR DEVELOPMENT PROMOTION",
             "city": "SKOPJE",
             "branch": null,
             "swift_code": "MBDPMK22"
         },
         {
-            "id": 19,
+            "id": 30,
+            "bank": "MACEDONIAN STOCK EXCHANGE AD",
+            "city": "SKOPJE",
+            "branch": null,
+            "swift_code": "XMAEMK21"
+        },
+        {
+            "id": 31,
+            "bank": "MAK BROKER AD",
+            "city": "SKOPJE",
+            "branch": null,
+            "swift_code": "MBBRMK21"
+        },
+        {
+            "id": 32,
+            "bank": "MONEY MARKET AND SHORT-TERM SECURITIES OF THE REP. OF MACEDONIA",
+            "city": "SKOPJE",
+            "branch": null,
+            "swift_code": "PPHVMK21"
+        },
+        {
+            "id": 33,
             "bank": "NATIONAL BANK OF THE REPUBLIC OF MACEDONIA",
             "city": "SKOPJE",
             "branch": null,
             "swift_code": "NBRMMK2X"
         },
         {
-            "id": 20,
+            "id": 34,
+            "bank": "NATIONAL PAYMENT CARD AD",
+            "city": "SKOPJE",
+            "branch": null,
+            "swift_code": "NPKMMK21"
+        },
+        {
+            "id": 35,
             "bank": "NLB TUTUNSKA BANKA AD",
             "city": "SKOPJE",
             "branch": null,
             "swift_code": "TUTNMK22"
         },
         {
-            "id": 21,
+            "id": 36,
             "bank": "OHRIDSKA BANKA A.D. SKOPJE",
             "city": "SKOPJE",
             "branch": null,
             "swift_code": "OHRDMK22"
         },
         {
-            "id": 22,
+            "id": 37,
+            "bank": "PELAGONISKA BANKA AD",
+            "city": "PRILEP",
+            "branch": null,
+            "swift_code": "PELAMK21"
+        },
+        {
+            "id": 38,
             "bank": "PROCREDIT BANK, MACEDONIA (FORMERLY PRO BUSINESS BANK A.D. SKOPJE)",
             "city": "SKOPJE",
             "branch": null,
             "swift_code": "PRBUMK22"
         },
         {
-            "id": 23,
+            "id": 39,
+            "bank": "SAKSES BROKERS INC",
+            "city": "SKOPJE",
+            "branch": null,
+            "swift_code": "SKBRMK21"
+        },
+        {
+            "id": 40,
             "bank": "SPARKASSE BANK MAKEDONIJA AD SKOPJE",
             "city": "SKOPJE",
             "branch": null,
             "swift_code": "INSBMK22"
         },
         {
-            "id": 24,
+            "id": 41,
             "bank": "STOPANSKA BANKA A.D.",
             "city": "SKOPJE",
             "branch": null,
             "swift_code": "STOBMK2X"
         },
         {
-            "id": 25,
+            "id": 42,
             "bank": "STOPANSKA BANKA AD BITOLA",
             "city": "BITOLA",
             "branch": null,
             "swift_code": "STBBMK22"
         },
         {
-            "id": 26,
+            "id": 43,
             "bank": "TTK BANKA AD SKOPJE",
             "city": "SKOPJE",
             "branch": null,
             "swift_code": "TTXBMK2X"
         },
         {
-            "id": 27,
+            "id": 44,
             "bank": "UNIVERSAL INVESTMENT BANK AD SKOPJE (UNIBANK)",
             "city": "SKOPJE",
             "branch": null,
             "swift_code": "UIBMMK22"
+        },
+        {
+            "id": 45,
+            "bank": "ZAVOD ZA PLATEN PROMET",
+            "city": "SKOPJE",
+            "branch": null,
+            "swift_code": "KMBPMK21"
+        },
+        {
+            "id": 46,
+            "bank": "ZEMJODELSKA BANKA A.D.",
+            "city": "SKOPJE",
+            "branch": null,
+            "swift_code": "ZEMBMK21"
         }
     ]
 }

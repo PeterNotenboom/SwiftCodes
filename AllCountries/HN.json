@@ -4,136 +4,367 @@
     "list": [
         {
             "id": 1,
+            "bank": "AMERICA CDC CASA DE CAMBIO S.A.DE C.F.",
+            "city": "SAN PEDRO SULA",
+            "branch": null,
+            "swift_code": "ACSAHNT1"
+        },
+        {
+            "id": 2,
+            "bank": "ARRENDAMIENTOS Y CREDITOS ATLANTIDA, S.A.",
+            "city": "TEGUCIGALPA",
+            "branch": null,
+            "swift_code": "ARCDHNT1"
+        },
+        {
+            "id": 3,
             "bank": "BANCO ATLANTIDA",
             "city": "TEGUCIGALPA",
             "branch": null,
             "swift_code": "ATTDHNTE"
         },
         {
-            "id": 2,
+            "id": 4,
             "bank": "BANCO AZTECA DE HONDURAS, SA",
             "city": "TEGUCIGALPA",
             "branch": null,
             "swift_code": "AZTKHNTE"
         },
         {
-            "id": 3,
+            "id": 5,
             "bank": "BANCO CENTRAL DE HONDURAS",
             "city": "TEGUCIGALPA",
             "branch": null,
             "swift_code": "BCEHHNTE"
         },
         {
-            "id": 4,
+            "id": 6,
             "bank": "BANCO CENTRAL DE HONDURAS BANCO CENTRAL",
             "city": "TEGUCIGALPA",
             "branch": null,
             "swift_code": "BCEHHNTT"
         },
         {
-            "id": 5,
+            "id": 7,
             "bank": "BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA",
             "city": "TEGUCIGALPA",
             "branch": null,
             "swift_code": "BCIEHNTE"
         },
         {
-            "id": 6,
+            "id": 8,
+            "bank": "BANCO CUSCATLAN DE HONDURAS",
+            "city": "TEGUCIGALPA",
+            "branch": null,
+            "swift_code": "BACUHNT1"
+        },
+        {
+            "id": 9,
             "bank": "BANCO DAVIVIENDA HONDURAS, S.A.",
             "city": "TEGUCIGALPA",
             "branch": null,
             "swift_code": "BGAHHNTE"
         },
         {
-            "id": 7,
+            "id": 10,
             "bank": "BANCO DE AMERICA CENTRAL HONDURAS, S.A.(BAC BAMER)",
             "city": "TEGUCIGALPA",
             "branch": null,
             "swift_code": "BMILHNTE"
         },
         {
-            "id": 8,
+            "id": 11,
             "bank": "BANCO DE HONDURAS, S.A.",
             "city": "TEGUCIGALPA",
             "branch": null,
             "swift_code": "HONAHNT2"
         },
         {
-            "id": 9,
+            "id": 12,
+            "bank": "BANCO DE LAS FUERZAS ARMADAS",
+            "city": "TEGUCIGALPA",
+            "branch": null,
+            "swift_code": "BLFAHNT1"
+        },
+        {
+            "id": 13,
+            "bank": "BANCO DE LOS TRABAJADORES S.A.",
+            "city": "TEGUCIGALPA",
+            "branch": null,
+            "swift_code": "TSBOHNT1"
+        },
+        {
+            "id": 14,
             "bank": "BANCO DE OCCIDENTE S.A.",
             "city": "SAN PEDRO SULA",
             "branch": "(SAN PEDRO SULA)",
             "swift_code": "BOCCHNTESPS"
         },
         {
-            "id": 10,
+            "id": 15,
             "bank": "BANCO DE OCCIDENTE S.A.",
             "city": "SANTA ROSA DE COPAN",
             "branch": "(SANTA ROSA DE COPAN)",
             "swift_code": "BOCCHNTESRC"
         },
         {
-            "id": 11,
+            "id": 16,
             "bank": "BANCO DE OCCIDENTE S.A.",
             "city": "SANTA ROSA DE COPAN",
             "branch": null,
             "swift_code": "BOCCHNTE"
         },
         {
-            "id": 12,
+            "id": 17,
             "bank": "BANCO DE OCCIDENTE S.A.",
             "city": "TEGUCIGALPA",
             "branch": "(TEGUCIGALPA)",
             "swift_code": "BOCCHNTETGU"
         },
         {
-            "id": 13,
+            "id": 18,
             "bank": "BANCO DEL PAIS,S.A.",
             "city": "SAN PEDRO SULA",
             "branch": null,
             "swift_code": "PISAHNTE"
         },
         {
-            "id": 14,
+            "id": 19,
             "bank": "BANCO DESARROLLO RURAL HONDURAS S.A",
             "city": "TEGUCIGALPA",
             "branch": null,
             "swift_code": "PRCBHNTE"
         },
         {
-            "id": 15,
+            "id": 20,
+            "bank": "BANCO FICOHSA",
+            "city": "TEGUCIGALPA",
+            "branch": null,
+            "swift_code": "FIHOHNT1"
+        },
+        {
+            "id": 21,
             "bank": "BANCO FINANCIERA CENTROAMERICANA S.A. FICENSA",
             "city": "TEGUCIGALPA",
             "branch": null,
             "swift_code": "CABFHNTE"
         },
         {
-            "id": 16,
+            "id": 22,
             "bank": "BANCO FINANCIERA COMERCIAL HONDURENA S.A. (BANCO FICOHSA)",
             "city": "TEGUCIGALPA",
             "branch": null,
             "swift_code": "FCOHHNTE"
         },
         {
-            "id": 17,
+            "id": 23,
+            "bank": "BANCO GRUPO EL AHORRO HONDURENO S.A.",
+            "city": "TEGUCIGALPA",
+            "branch": null,
+            "swift_code": "BCHOHNT1"
+        },
+        {
+            "id": 24,
             "bank": "BANCO HONDURENO DEL CAFE",
             "city": "TEGUCIGALPA",
             "branch": null,
             "swift_code": "BHCAHNTH"
         },
         {
-            "id": 18,
+            "id": 25,
+            "bank": "BANCO HONDURENO DEL CAFE S.A.",
+            "city": "TEGUCIGALPA",
+            "branch": null,
+            "swift_code": "BHCAHNT1"
+        },
+        {
+            "id": 26,
+            "bank": "BANCO HONDURENO PARA LA PRODUCCION Y LA VIVIENDA",
+            "city": "TEGUCIGALPA",
+            "branch": null,
+            "swift_code": "HOPVHNT1"
+        },
+        {
+            "id": 27,
             "bank": "BANCO LAFISE,S.A.",
             "city": "TEGUCIGALPA",
             "branch": null,
             "swift_code": "BCCEHNTE"
         },
         {
-            "id": 19,
+            "id": 28,
+            "bank": "BANCO MUNICIPAL AUTONOMO",
+            "city": "TEGUCIGALPA",
+            "branch": null,
+            "swift_code": "BMAUHNT1"
+        },
+        {
+            "id": 29,
+            "bank": "BANCO NACIONAL DE DESARROLLO AGRICOLA",
+            "city": "COMAYAGUELA",
+            "branch": null,
+            "swift_code": "DEAGHNT1022"
+        },
+        {
+            "id": 30,
+            "bank": "BANCO NACIONAL DE DESARROLLO AGRICOLA",
+            "city": "COMAYAGUELA",
+            "branch": null,
+            "swift_code": "DEAGHNT1"
+        },
+        {
+            "id": 31,
+            "bank": "BANCO POPULAR S.A.",
+            "city": "TEGUCIGALPA",
+            "branch": null,
+            "swift_code": "POUUHNT1"
+        },
+        {
+            "id": 32,
             "bank": "BANCO PROMERICA, S.A.",
             "city": "TEGUCIGALPA",
             "branch": null,
             "swift_code": "BPRHHNTE"
+        },
+        {
+            "id": 33,
+            "bank": "BANCO SOGERIN S.A.",
+            "city": "SAN PEDRO SULA",
+            "branch": null,
+            "swift_code": "SOGBHNT1"
+        },
+        {
+            "id": 34,
+            "bank": "BRITISH AMERICAN TOBACCO CENTRAL AMERICA S.A., SUCURSAL HONDURAS",
+            "city": "SAN PEDRO SULA",
+            "branch": null,
+            "swift_code": "BATSHN31"
+        },
+        {
+            "id": 35,
+            "bank": "CASA DE BOLSA DE VALORES S.A. (CABVAL)",
+            "city": "TEGUCIGALPA",
+            "branch": null,
+            "swift_code": "CBVCHNT1"
+        },
+        {
+            "id": 36,
+            "bank": "CASA DE CAMBIO",
+            "city": "TEGUCIGALPA",
+            "branch": null,
+            "swift_code": "CSAIHNT1"
+        },
+        {
+            "id": 37,
+            "bank": "CASA DE CAMBIO ROBLE VIEJO S.A.",
+            "city": "TEGUCIGALPA",
+            "branch": null,
+            "swift_code": "CCRVHNT1"
+        },
+        {
+            "id": 38,
+            "bank": "CASA DEL BOLSA PROMOCIONES E INVERSIONES EN BOLSA, S.A.",
+            "city": "SAN PEDRO SULA",
+            "branch": null,
+            "swift_code": "CBPNHNT1"
+        },
+        {
+            "id": 39,
+            "bank": "CENTRAL HONDURENA DE VALORES Y LIQUIDACION (CEHVAL)",
+            "city": "SAN PEDRO SULA",
+            "branch": null,
+            "swift_code": "CHVLHNT1"
+        },
+        {
+            "id": 40,
+            "bank": "CONTINENTAL CASA DE BOLSA, S.A",
+            "city": "SAN PEDRO SULA",
+            "branch": null,
+            "swift_code": "CNCSHNT1"
+        },
+        {
+            "id": 41,
+            "bank": "CORPORACION FINANCIERA INTERNACIONAL (COFINTER)",
+            "city": "TEGUCIGALPA",
+            "branch": null,
+            "swift_code": "CFNIHNT1"
+        },
+        {
+            "id": 42,
+            "bank": "FINANCIERA CODIMERSA EDIFICIO CODIMERSA",
+            "city": "SANTA ROSA",
+            "branch": null,
+            "swift_code": "FCEOHNT1"
+        },
+        {
+            "id": 43,
+            "bank": "FINANCIERA CREDIQ SA",
+            "city": "TEGUCIGALPA",
+            "branch": null,
+            "swift_code": "FIRQHNT1"
+        },
+        {
+            "id": 44,
+            "bank": "FINANCIERA FINCA HONDURAS",
+            "city": "TEGUCIGALPA",
+            "branch": null,
+            "swift_code": "FIFHHNT1"
+        },
+        {
+            "id": 45,
+            "bank": "FINANCIERA SOLIDARIA, S.A.",
+            "city": "SAN PEDRO SULA",
+            "branch": null,
+            "swift_code": "FIODHNT1"
+        },
+        {
+            "id": 46,
+            "bank": "FOMENTO FINANCIERO, S.A. CASA DE BOLSA",
+            "city": "TEGUCIGALPA",
+            "branch": null,
+            "swift_code": "FFCBHNT1"
+        },
+        {
+            "id": 47,
+            "bank": "LAFISE VALORES CASA DE BOLSA",
+            "city": "TEGUCIGALPA",
+            "branch": null,
+            "swift_code": "LVCBHNT1"
+        },
+        {
+            "id": 48,
+            "bank": "ODEF FINANCIERA S.A.",
+            "city": "SAN PEDRO SULA",
+            "branch": null,
+            "swift_code": "ODFIHNT1"
+        },
+        {
+            "id": 49,
+            "bank": "SERVIGIROS CASA DE CAMBIO S.A.",
+            "city": "TEGUCIGALPA",
+            "branch": null,
+            "swift_code": "SEAIHNT1"
+        },
+        {
+            "id": 50,
+            "bank": "SONIVAL, CASA DE BOLSA, S. A",
+            "city": "TEGUCIGALPA",
+            "branch": null,
+            "swift_code": "SOABHNT1"
+        },
+        {
+            "id": 51,
+            "bank": "TABACALERA HONDURENA S.A.",
+            "city": "CORTES",
+            "branch": null,
+            "swift_code": "BATSHNT1"
+        },
+        {
+            "id": 52,
+            "bank": "TABACALERA ISTMENA S.A",
+            "city": "SAN PEDRO SULA",
+            "branch": null,
+            "swift_code": "BATSHN41"
         }
     ]
 }

@@ -4,73 +4,269 @@
     "list": [
         {
             "id": 1,
+            "bank": "AGRICULTURAL DEVELOPMENT BANK",
+            "city": "ARIMA",
+            "branch": null,
+            "swift_code": "ADEVTTP1023"
+        },
+        {
+            "id": 2,
+            "bank": "AGRICULTURAL DEVELOPMENT BANK",
+            "city": "CHAGUANAS",
+            "branch": null,
+            "swift_code": "ADEVTTP1025"
+        },
+        {
+            "id": 3,
+            "bank": "AGRICULTURAL DEVELOPMENT BANK",
+            "city": "PORT OF SPAIN",
+            "branch": "(HEAD OFFICE)",
+            "swift_code": "ADEVTTP1"
+        },
+        {
+            "id": 4,
+            "bank": "AGRICULTURAL DEVELOPMENT BANK",
+            "city": "RIO CLARO",
+            "branch": null,
+            "swift_code": "ADEVTTP1027"
+        },
+        {
+            "id": 5,
+            "bank": "AGRICULTURAL DEVELOPMENT BANK",
+            "city": "SAN FERNANDO",
+            "branch": null,
+            "swift_code": "ADEVTTP1026"
+        },
+        {
+            "id": 6,
+            "bank": "AGRICULTURAL DEVELOPMENT BANK",
+            "city": "SCARBOROUGH",
+            "branch": "(TOBAGO)",
+            "swift_code": "ADEVTTP1028"
+        },
+        {
+            "id": 7,
+            "bank": "ANSA MERCHANT BANK LIMITED",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "ANFMTTP1"
+        },
+        {
+            "id": 8,
             "bank": "BANK OF BARODA (TRINIDAD AND TOBAGO) LIMITED",
             "city": "PORT OF SPAIN",
             "branch": null,
             "swift_code": "BARBTTPS"
         },
         {
-            "id": 2,
+            "id": 9,
+            "bank": "BOURSE BROKERS LIMITED",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "BOBRTTP1"
+        },
+        {
+            "id": 10,
+            "bank": "CARIBBEAN MONEY MARKET BROKERS LIMITED",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "CMMBTTP1"
+        },
+        {
+            "id": 11,
+            "bank": "CARIBBEAN STOCKBROKERS LIMITED",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "CSTKTTP1"
+        },
+        {
+            "id": 12,
             "bank": "CENTRAL BANK OF TRINIDAD AND TOBAGO",
             "city": "PORT OF SPAIN",
             "branch": null,
             "swift_code": "CBTTTTPS"
         },
         {
-            "id": 3,
+            "id": 13,
             "bank": "CITIBANK (TRINIDAD AND TOBAGO) LIMITED",
             "city": "PORT OF SPAIN",
             "branch": null,
             "swift_code": "CITITTPS"
         },
         {
-            "id": 4,
+            "id": 14,
+            "bank": "CITICORP MERCHANT BANK LIMITED",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "CIMETTP1"
+        },
+        {
+            "id": 15,
+            "bank": "CLICO INVESTMENT BANK LIMITED",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "CLNNTTP1"
+        },
+        {
+            "id": 16,
+            "bank": "CMMB SECURITIES LIMITED",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "CMMSTTP1"
+        },
+        {
+            "id": 17,
+            "bank": "FIRST CITIZENS ASSET MANAGEMENT LIMITED",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "FCTATTP1"
+        },
+        {
+            "id": 18,
             "bank": "FIRST CITIZENS BANK LIMITED",
             "city": "PORT OF SPAIN",
             "branch": null,
             "swift_code": "FCTTTTPS"
         },
         {
-            "id": 5,
+            "id": 19,
+            "bank": "FIRST CITIZENS MERCHANT BANK LTD.",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "IIMETTP1"
+        },
+        {
+            "id": 20,
             "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (T AND T) LTD.",
             "city": "PORT OF SPAIN",
             "branch": null,
             "swift_code": "FCIBTTPS"
         },
         {
-            "id": 6,
+            "id": 21,
             "bank": "INTERCOMMERCIAL BANK LIMITED",
             "city": "CHAGUANAS",
             "branch": null,
             "swift_code": "IBLITTPS"
         },
         {
-            "id": 7,
+            "id": 22,
+            "bank": "INTERCOMMERCIAL TRUST AND MERCHANT BANK LIMITED",
+            "city": "CHAGUANAS",
+            "branch": null,
+            "swift_code": "INRHTTP1"
+        },
+        {
+            "id": 23,
+            "bank": "MERCANTILE BANKING AND FINANCIAL CORPORATION LIMITED, THE",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "MEFRTTP1"
+        },
+        {
+            "id": 24,
             "bank": "NCB GLOBAL FINANCE LIMITED",
             "city": "PORT OF SPAIN",
             "branch": null,
             "swift_code": "AICBTTPS"
         },
         {
-            "id": 8,
+            "id": 25,
             "bank": "RBC ROYAL BANK (TRINIDAD AND TOBAGO) LIMITED (FORMERLY RBTT BANK LIMITED)",
             "city": "PORT OF SPAIN",
             "branch": null,
             "swift_code": "RBTTTTPX"
         },
         {
-            "id": 9,
+            "id": 26,
+            "bank": "RBTT MERCHANT BANK LIMITED",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "RBMETTP1"
+        },
+        {
+            "id": 27,
             "bank": "REPUBLIC BANK LIMITED",
             "city": "PORT OF SPAIN",
             "branch": null,
             "swift_code": "RBNKTTPX"
         },
         {
-            "id": 10,
+            "id": 28,
+            "bank": "REPUBLIC FINANCE AND MERCHANT BANK LIMITED",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "REFHTTP1"
+        },
+        {
+            "id": 29,
+            "bank": "REPUBLIC SECURITIES LIMITED",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "REPSTTP1"
+        },
+        {
+            "id": 30,
+            "bank": "SCOTIA DBG INVESTMENTS LTD",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "DEBOTTP1"
+        },
+        {
+            "id": 31,
             "bank": "SCOTIABANK TRINIDAD AND TOBAGO LTD.",
             "city": "PORT OF SPAIN",
             "branch": null,
             "swift_code": "NOSCTTPS"
+        },
+        {
+            "id": 32,
+            "bank": "SCOTIATRUST AND MERCHANT BANK TRINIDAD AND TOBAGO LIMITED",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "SMTTTTP1"
+        },
+        {
+            "id": 33,
+            "bank": "THE TRINIDAD AND TOBAGO STOCK EXCHANGE LIMITED",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "XTRNTTP1"
+        },
+        {
+            "id": 34,
+            "bank": "THE WEST INDIAN TOBACCO COMPANY LIMITED",
+            "city": "SAN JUAN",
+            "branch": null,
+            "swift_code": "BATSTTP1"
+        },
+        {
+            "id": 35,
+            "bank": "TRINIDAD AND TOBAGO CENTRAL SECURITIES DEPOSITORY LIMITED",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "TTCSTTP1"
+        },
+        {
+            "id": 36,
+            "bank": "TRINIDAD AND TOBAGO UNIT TRUST CORPORATION",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "TTUTTTP1"
+        },
+        {
+            "id": 37,
+            "bank": "UNITED BANK OF TRINIDAD AND TOBAGO",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "UBTTTTP1"
+        },
+        {
+            "id": 38,
+            "bank": "WEST INDIES STOCKBROKERS LIMITED",
+            "city": "PORT OF SPAIN",
+            "branch": null,
+            "swift_code": "WEITTTP1"
         }
     ]
 }

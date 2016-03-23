@@ -11,342 +11,426 @@
         },
         {
             "id": 2,
+            "bank": "ADJEMIBANK",
+            "city": "BAKU",
+            "branch": null,
+            "swift_code": "ADJEAZ21"
+        },
+        {
+            "id": 3,
             "bank": "AFB BANK OJSC",
             "city": "BAKU",
             "branch": null,
             "swift_code": "AZFIAZ22"
         },
         {
-            "id": 3,
+            "id": 4,
             "bank": "AGBANK OPEN JOINT-STOCK COMPANY",
             "city": "BAKU",
             "branch": null,
             "swift_code": "AZEGAZ22"
         },
         {
-            "id": 4,
+            "id": 5,
             "bank": "AGRARKREDIT CLOSED JOINT-STOCK SOCIETY NON-BANK CREDIT ORGANIZATION",
             "city": "BAKU",
             "branch": null,
             "swift_code": "ACJTAZ22"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "AMRAHBANK OJSC",
             "city": "BAKU",
             "branch": null,
             "swift_code": "AMRAAZ22"
         },
         {
-            "id": 6,
+            "id": 7,
             "bank": "ATABANK OJSS",
             "city": "BAKU",
             "branch": null,
             "swift_code": "ATAZAZ22"
         },
         {
-            "id": 7,
+            "id": 8,
             "bank": "ATRABANK JSC",
             "city": "BAKU",
             "branch": null,
             "swift_code": "ATRAAZ22"
         },
         {
-            "id": 8,
+            "id": 9,
+            "bank": "AZBUSINESSBANK",
+            "city": "BAKU",
+            "branch": null,
+            "swift_code": "AZBUAZ21"
+        },
+        {
+            "id": 10,
             "bank": "AZERBAIJAN CREDIT BANK",
             "city": "BAKU",
             "branch": null,
             "swift_code": "ACJOAZ22"
         },
         {
-            "id": 9,
+            "id": 11,
             "bank": "AZERBAIJAN INDUSTRY BANK JSC",
             "city": "BAKU",
             "branch": null,
             "swift_code": "CAPNAZ22"
         },
         {
-            "id": 10,
+            "id": 12,
             "bank": "AZERPOST LIMITED LIABILITY COMPANY",
             "city": "BAKU",
             "branch": null,
             "swift_code": "AZPOAZ22"
         },
         {
-            "id": 11,
+            "id": 13,
+            "bank": "AZERSHARABBANK",
+            "city": "BAKU",
+            "branch": null,
+            "swift_code": "AZRSAZ21"
+        },
+        {
+            "id": 14,
             "bank": "AZER-TURK BANK",
             "city": "BAKU",
             "branch": null,
             "swift_code": "AZRTAZ22"
         },
         {
-            "id": 12,
+            "id": 15,
             "bank": "BANK BTB",
             "city": "BAKU",
             "branch": null,
             "swift_code": "BBTBAZ22"
         },
         {
-            "id": 13,
+            "id": 16,
             "bank": "BANK OF AZERBAIJAN",
             "city": "BAKU",
             "branch": null,
             "swift_code": "AZEJAZ22"
         },
         {
-            "id": 14,
+            "id": 17,
             "bank": "BANK OF BAKU",
             "city": "BAKU",
             "branch": null,
             "swift_code": "JBBKAZ22"
         },
         {
-            "id": 15,
+            "id": 18,
             "bank": "BANK SILK WAY OJSV",
             "city": "BAKU",
             "branch": null,
             "swift_code": "AZALAZ22"
         },
         {
-            "id": 16,
+            "id": 19,
             "bank": "BANK TECHNIQUE OJSC",
             "city": "BAKU",
             "branch": null,
             "swift_code": "TECIAZ22"
         },
         {
-            "id": 17,
+            "id": 20,
+            "bank": "CAPITAL INVESTMENT BANK",
+            "city": "BAKU",
+            "branch": null,
+            "swift_code": "CANSAZ21"
+        },
+        {
+            "id": 21,
+            "bank": "CAPITALBANK",
+            "city": "BAKU",
+            "branch": null,
+            "swift_code": "CAPKAZ21"
+        },
+        {
+            "id": 22,
             "bank": "CASPIAN DEVELOPMENT BANK (CDB) OJSC",
             "city": "BAKU",
             "branch": null,
             "swift_code": "CDBBAZ22"
         },
         {
-            "id": 18,
+            "id": 23,
             "bank": "CAUCASUS DEVELOPMENT BANK",
             "city": "BAKU",
             "branch": null,
             "swift_code": "TDJOAZ22"
         },
         {
-            "id": 19,
+            "id": 24,
             "bank": "CENTRAL BANK OF THE REPUBLIC OF AZERBAIJAN",
             "city": "BAKU",
             "branch": null,
             "swift_code": "NABZAZ2C"
         },
         {
-            "id": 20,
+            "id": 25,
             "bank": "CENTRAL BANK OF THE REPUBLIC OF AZERBAIJAN",
             "city": "BAKU",
             "branch": null,
             "swift_code": "NABZAZ2X"
         },
         {
-            "id": 21,
+            "id": 26,
             "bank": "CENTRAL BANK OF THE REPUBLIC OF AZERBAIJAN",
             "city": "BAKU",
             "branch": null,
             "swift_code": "NABZAZ2CRTS"
         },
         {
-            "id": 22,
+            "id": 27,
             "bank": "COMMERCIAL BANK DEKA-BANK",
             "city": "BAKU",
             "branch": null,
             "swift_code": "DEKBAZ22"
         },
         {
-            "id": 23,
+            "id": 28,
             "bank": "DEMIRBANK OJSC",
             "city": "BAKU",
             "branch": null,
             "swift_code": "AZERAZ22"
         },
         {
-            "id": 24,
+            "id": 29,
+            "bank": "EGE INTERNATIONAL BAKU BANK",
+            "city": "BAKU",
+            "branch": null,
+            "swift_code": "TRIDAZ21"
+        },
+        {
+            "id": 30,
             "bank": "EURASIA BANK",
             "city": "BAKU",
             "branch": null,
             "swift_code": "AVRAAZ22"
         },
         {
-            "id": 25,
+            "id": 31,
             "bank": "EXPRESSBANK",
             "city": "BAKU",
             "branch": null,
             "swift_code": "AZENAZ22"
         },
         {
-            "id": 26,
+            "id": 32,
             "bank": "GANDJABANK JOINT STOCK COMMERCIAL BANK",
             "city": "GANDJA",
             "branch": null,
             "swift_code": "GANJAZ22"
         },
         {
-            "id": 27,
+            "id": 33,
+            "bank": "GARANTIYABANK",
+            "city": "BAKU",
+            "branch": null,
+            "swift_code": "GARNAZ21"
+        },
+        {
+            "id": 34,
             "bank": "GUNAYBANK JOINT STOCK BANK",
             "city": "BAKU",
             "branch": null,
             "swift_code": "GUNAAZ22"
         },
         {
-            "id": 28,
+            "id": 35,
             "bank": "INVESTMENT COMMERCIAL BANK 'NIKOIL' (FORMERLY CB 'ULPAR')",
             "city": "BAKU",
             "branch": null,
             "swift_code": "NICBAZ22"
         },
         {
-            "id": 29,
+            "id": 36,
+            "bank": "JOINT-STOCK COMMERCIAL BANK RABITABANK (GAZANBANK BRANCH)",
+            "city": "BAKU",
+            "branch": "(GAZANBANK BRANCH)",
+            "swift_code": "RBTAAZ2102G"
+        },
+        {
+            "id": 37,
             "bank": "JSC 'ZAMINBANK'",
             "city": "BAKU",
             "branch": null,
             "swift_code": "ZAMIAZ22"
         },
         {
-            "id": 30,
+            "id": 38,
             "bank": "JSCB 'BANK STANDARD'",
             "city": "BAKU",
             "branch": null,
             "swift_code": "MOSZAZ22"
         },
         {
-            "id": 31,
+            "id": 39,
             "bank": "KAPITAL BANK",
             "city": "BAKU",
             "branch": null,
             "swift_code": "AIIBAZ2X"
         },
         {
-            "id": 32,
+            "id": 40,
+            "bank": "MECH R BANK",
+            "city": "BAKU",
+            "branch": null,
+            "swift_code": "MECHAZ21"
+        },
+        {
+            "id": 41,
+            "bank": "MILLI IRAN BANK",
+            "city": "BAKU",
+            "branch": null,
+            "swift_code": "MILIAZ21"
+        },
+        {
+            "id": 42,
             "bank": "MUGANBANK OJSC",
             "city": "BAKU",
             "branch": null,
             "swift_code": "MUGAAZ22"
         },
         {
-            "id": 33,
+            "id": 43,
             "bank": "NAKHCHIVANBANK OJSC",
             "city": "NAKHCHIVAN",
             "branch": null,
             "swift_code": "NAXBAZ22"
         },
         {
-            "id": 34,
+            "id": 44,
             "bank": "NATIONAL BANK OF PAKISTAN BAKU BRANCH (STATE)",
             "city": "BAKU",
             "branch": null,
             "swift_code": "NBPAAZ22"
         },
         {
-            "id": 35,
+            "id": 45,
             "bank": "NATIONAL DEPOSITORY CENTER CLOSED JOINT STOCK COMPANY",
             "city": "BAKU",
             "branch": null,
             "swift_code": "ANDCAZ22"
         },
         {
-            "id": 36,
+            "id": 46,
             "bank": "NBC BANK OPEN JOINT STOCK COMPANY",
             "city": "BAKU",
             "branch": null,
             "swift_code": "NBCBAZ22"
         },
         {
-            "id": 37,
+            "id": 47,
             "bank": "OJSC KREDOBANK",
             "city": "BAKU",
             "branch": null,
             "swift_code": "ANARAZ22"
         },
         {
-            "id": 38,
+            "id": 48,
             "bank": "OJSC VTB BANK (AZERBAIJAN)",
             "city": "BAKU",
             "branch": null,
             "swift_code": "VTBAAZ22"
         },
         {
-            "id": 39,
+            "id": 49,
             "bank": "PARABANK JSCB",
             "city": "BAKU",
             "branch": null,
             "swift_code": "PAAAAZ22"
         },
         {
-            "id": 40,
+            "id": 50,
             "bank": "PASHA BANK",
             "city": "BAKU",
             "branch": "(HEAD OFFICE)",
             "swift_code": "PAHAAZ22"
         },
         {
-            "id": 41,
+            "id": 51,
             "bank": "RABITABANK",
             "city": "BAKU",
             "branch": null,
             "swift_code": "RBTAAZ22"
         },
         {
-            "id": 42,
+            "id": 52,
+            "bank": "ROYAL BANK OJSC",
+            "city": "BAKU",
+            "branch": null,
+            "swift_code": "ROBKAZ21"
+        },
+        {
+            "id": 53,
             "bank": "STATE OIL FUND OF THE REPUBLIC OF AZERBAIJAN",
             "city": "BAKU",
             "branch": null,
             "swift_code": "SOILAZ22"
         },
         {
-            "id": 43,
+            "id": 54,
             "bank": "STATE TREASURY AGENCY",
             "city": "BAKU",
             "branch": null,
             "swift_code": "CTREAZ22"
         },
         {
-            "id": 44,
+            "id": 55,
             "bank": "THE INTERNATIONAL BANK OF AZERBAIJAN REPUBLIC",
             "city": "BAKU",
             "branch": null,
             "swift_code": "IBAZAZ2X"
         },
         {
-            "id": 45,
+            "id": 56,
             "bank": "TURANBANK OJSC",
             "city": "BAKU",
             "branch": null,
             "swift_code": "TURAAZ22"
         },
         {
-            "id": 46,
+            "id": 57,
+            "bank": "ULFATBANK",
+            "city": "BAKU",
+            "branch": null,
+            "swift_code": "ULFAAZ21"
+        },
+        {
+            "id": 58,
             "bank": "UNIBANK CB",
             "city": "BAKU",
             "branch": null,
             "swift_code": "UBAZAZ22"
         },
         {
-            "id": 47,
+            "id": 59,
             "bank": "UNITED CREDIT BANK",
             "city": "BAKU",
             "branch": null,
             "swift_code": "UCBXAZ22"
         },
         {
-            "id": 48,
+            "id": 60,
             "bank": "XALQ BANK OPEN JOINT-STOCK COMPANY",
             "city": "BAKU",
             "branch": null,
             "swift_code": "HAJCAZ22"
         },
         {
-            "id": 49,
+            "id": 61,
             "bank": "YAPIKREDI AZERBAIJAN CLOSED JSC",
             "city": "BAKU",
             "branch": null,
             "swift_code": "KABAAZ22"
         },
         {
-            "id": 50,
+            "id": 62,
             "bank": "ZIRAAT BANK AZERBAIJAN OJSC",
             "city": "BAKU",
             "branch": null,

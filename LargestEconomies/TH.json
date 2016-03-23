@@ -4,528 +4,1942 @@
     "list": [
         {
             "id": 1,
+            "bank": "ACL SECURITIES CO. LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "ACSCTHB1"
+        },
+        {
+            "id": 2,
+            "bank": "ADKINSON SECURITIES LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "ADKSTHB1"
+        },
+        {
+            "id": 3,
+            "bank": "ADVANCE FINANCE PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "ADVNTHB1"
+        },
+        {
+            "id": 4,
+            "bank": "AEC SECURITIES PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "ASPCTHB1"
+        },
+        {
+            "id": 5,
+            "bank": "AFCO SECURITIES CORP LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "AFCETHB1"
+        },
+        {
+            "id": 6,
+            "bank": "AIA COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": "(GENERAL INVESTMENT OPERATIONS)",
+            "swift_code": "AIACTHK1GIO"
+        },
+        {
+            "id": 7,
             "bank": "AIA COMPANY LIMITED",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "AIACTHBK"
         },
         {
-            "id": 2,
+            "id": 8,
+            "bank": "AIG RETAIL BANK PUBLIC CO., LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "AFTCTHB1"
+        },
+        {
+            "id": 9,
+            "bank": "AIRA SECURITIES PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "PSSCTHB1"
+        },
+        {
+            "id": 10,
+            "bank": "AL ATAS INTERNATIONAL TRADING HOUSE (THAILAND) LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "AITHTHB1"
+        },
+        {
+            "id": 11,
+            "bank": "AMERICAN EXPRESS BANK LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "AEIBTHB1"
+        },
+        {
+            "id": 12,
+            "bank": "AMSTEEL SECURITIES (THAILAND) PUBLIC CO., LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "ASTLTHB1"
+        },
+        {
+            "id": 13,
+            "bank": "ANZ BANK (THAI) PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "ANZBTHB1"
+        },
+        {
+            "id": 14,
             "bank": "ANZ BANK (THAI) PUBLIC COMPANY LIMITED",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "ANZBTHBK"
         },
         {
-            "id": 3,
+            "id": 15,
+            "bank": "APPLE WEALTH SECURITIES COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "AWSCTHB1"
+        },
+        {
+            "id": 16,
+            "bank": "ASIA CREDIT FONCIER CO., LTD.",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "ASCITHB1"
+        },
+        {
+            "id": 17,
+            "bank": "ASIA EQUITY THAILAND LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "ASETTHB1"
+        },
+        {
+            "id": 18,
+            "bank": "ASIA PLUS SECURITIES COMPANY LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "APSOTH21"
+        },
+        {
+            "id": 19,
+            "bank": "ASIA PLUS SECURITIES PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "AAASTHB1"
+        },
+        {
+            "id": 20,
+            "bank": "ASIA SECURITIES TRADING CO LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "ASSRTHB1"
+        },
+        {
+            "id": 21,
+            "bank": "ASIA WEALTH SECURITIES COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "CGSTTHB1"
+        },
+        {
+            "id": 22,
+            "bank": "ASSET PLUS SECURITIES COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "APSSTHB1"
+        },
+        {
+            "id": 23,
+            "bank": "AYUDHYA SECURITIES PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "AYITTHB1"
+        },
+        {
+            "id": 24,
+            "bank": "AYUDHYA SECURITIES PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "AYITTHB1001"
+        },
+        {
+            "id": 25,
             "bank": "BANGKOK BANK PUBLIC COMPANY LIMITED",
             "city": "BANGKOK",
             "branch": "(BOND TRADING)",
             "swift_code": "BKKBTHBKTRD"
         },
         {
-            "id": 4,
+            "id": 26,
             "bank": "BANGKOK BANK PUBLIC COMPANY LIMITED",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "BKKBTHBK"
         },
         {
-            "id": 5,
+            "id": 27,
+            "bank": "BANGKOK BANK PUBLIC COMPANY LIMITED",
+            "city": "CHIANGMAI",
+            "branch": null,
+            "swift_code": "BKKBTHB10BC"
+        },
+        {
+            "id": 28,
+            "bank": "BANGKOK BANK PUBLIC COMPANY LIMITED",
+            "city": "PHUKET",
+            "branch": null,
+            "swift_code": "BKKBTHB10BP"
+        },
+        {
+            "id": 29,
+            "bank": "BANGKOK BANK PUBLIC COMPANY LIMITED",
+            "city": "SONGKHLA",
+            "branch": null,
+            "swift_code": "BKKBTHB10BS"
+        },
+        {
+            "id": 30,
+            "bank": "BANGKOK CAPITAL ASSET MANAGEMENT COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "CANYTHB1"
+        },
+        {
+            "id": 31,
+            "bank": "BANGKOK FIRST INVESTMENT AND TRUST PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "BFITTHB1"
+        },
+        {
+            "id": 32,
+            "bank": "BANGKOK INVESTMENT PUBLIC CO. LTD.",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "BIPUTHB1"
+        },
+        {
+            "id": 33,
+            "bank": "BANGKOK MASS TRANSIT AUTHORITY",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "MARHTHB1"
+        },
+        {
+            "id": 34,
             "bank": "BANK FOR AGRICULTURE AND AGRICULTURAL COOPERATIVES",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "BAABTHBK"
         },
         {
-            "id": 6,
+            "id": 35,
+            "bank": "BANK FOR AGRICULTURE AND AGRICULTURAL COOPERATIVES",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "ALCBTHB1"
+        },
+        {
+            "id": 36,
             "bank": "BANK OF AMERICA, N.A. BANGKOK",
             "city": "BANGKOK",
             "branch": "(BANGKOK BRANCH)",
             "swift_code": "BOFATH2XTHA"
         },
         {
-            "id": 7,
+            "id": 37,
             "bank": "BANK OF AMERICA, N.A. BANGKOK",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "BOFATH2X"
         },
         {
-            "id": 8,
+            "id": 38,
             "bank": "BANK OF AYUDHYA PUBLIC COMPANY LIMITED",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "AYUDTHBK"
         },
         {
-            "id": 9,
+            "id": 39,
+            "bank": "BANK OF AYUDHYA PUBLIC COMPANY LIMITED",
+            "city": "PHUKET",
+            "branch": null,
+            "swift_code": "AYUDTHB10BP"
+        },
+        {
+            "id": 40,
+            "bank": "BANK OF AYUDHYA PUBLIC COMPANY LIMITED",
+            "city": "SONGKHLA",
+            "branch": null,
+            "swift_code": "AYUDTHB10BS"
+        },
+        {
+            "id": 41,
             "bank": "BANK OF AYUDHYA PUBLIC COMPANY LIMITED, BANGKOK SATHORN BRANCH (EX -THE BANK OF TOKYO-MITSUBISHI UFJ LTD)",
             "city": "BANGKOK",
             "branch": "(BANGKOK SATHORN BRANCH)",
             "swift_code": "BOTKTHBX"
         },
         {
-            "id": 10,
+            "id": 42,
             "bank": "BANK OF CHINA (THAI) PUBLIC COMPANY LIMITED",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "BKCHTHBK"
         },
         {
-            "id": 11,
+            "id": 43,
+            "bank": "BANK OF THAILAND",
+            "city": "BANGKOK",
+            "branch": "(ACCOUNTING GROUP)",
+            "swift_code": "BOTHTHB1ACG"
+        },
+        {
+            "id": 44,
+            "bank": "BANK OF THAILAND",
+            "city": "BANGKOK",
+            "branch": "(BAHTNET OPERATION TEAM 1, PAYMENT SYSTEMS GROUP)",
+            "swift_code": "BOTHTHB1OP1"
+        },
+        {
+            "id": 45,
+            "bank": "BANK OF THAILAND",
+            "city": "BANGKOK",
+            "branch": "(BAHTNET OPERATION TEAM 2, PAYMENT SYSTEMS GROUP)",
+            "swift_code": "BOTHTHB1OP2"
+        },
+        {
+            "id": 46,
+            "bank": "BANK OF THAILAND",
+            "city": "BANGKOK",
+            "branch": "(BAHTNET OPERATION TEAM, PAYMENT SYSTEMS GROUP)",
+            "swift_code": "BOTHTHB1PSG"
+        },
+        {
+            "id": 47,
+            "bank": "BANK OF THAILAND",
+            "city": "BANGKOK",
+            "branch": "(BOT DEPOSITS ACCOUNT MANAGEMENT SERVICES)",
+            "swift_code": "BOTHTHB1DAS"
+        },
+        {
+            "id": 48,
+            "bank": "BANK OF THAILAND",
+            "city": "BANGKOK",
+            "branch": "(BOT DEPOSITS ACCOUNT SERVICES TEAM)",
+            "swift_code": "BOTHTHB1CAT"
+        },
+        {
+            "id": 49,
+            "bank": "BANK OF THAILAND",
+            "city": "BANGKOK",
+            "branch": "(BOT NORTHEASTERN REGIONAL OFFICE)",
+            "swift_code": "BOTHTHB1NEO"
+        },
+        {
+            "id": 50,
+            "bank": "BANK OF THAILAND",
+            "city": "BANGKOK",
+            "branch": "(BOT NORTHERN REGIONAL OFFICE)",
+            "swift_code": "BOTHTHB1NRO"
+        },
+        {
+            "id": 51,
+            "bank": "BANK OF THAILAND",
+            "city": "BANGKOK",
+            "branch": "(BOT SOUTHERN REGIONAL OFFICE)",
+            "swift_code": "BOTHTHB1SRO"
+        },
+        {
+            "id": 52,
+            "bank": "BANK OF THAILAND",
+            "city": "BANGKOK",
+            "branch": "(CREDIT AND REFINANCING DIVISION, FINANCIAL MARKETS OPERATIONS GROUP)",
+            "swift_code": "BOTHTHB1FOC"
+        },
+        {
+            "id": 53,
+            "bank": "BANK OF THAILAND",
+            "city": "BANGKOK",
+            "branch": "(DEPOSITS AND DEBT INSTRUMENTS GROUP)",
+            "swift_code": "BOTHTHB1DDG"
+        },
+        {
+            "id": 54,
+            "bank": "BANK OF THAILAND",
+            "city": "BANGKOK",
+            "branch": "(ELECTRONIC CLEARING HOUSE, PAYMENT SYSTEMS GROUP)",
+            "swift_code": "BOTHTHB1ECH"
+        },
+        {
+            "id": 55,
+            "bank": "BANK OF THAILAND",
+            "city": "BANGKOK",
+            "branch": "(FUND MANAGEMENT GROUP)",
+            "swift_code": "BOTHTHB1FMG"
+        },
+        {
+            "id": 56,
+            "bank": "BANK OF THAILAND",
+            "city": "BANGKOK",
+            "branch": "(NOTE ISSUE GROUP)",
+            "swift_code": "BOTHTHB1NIG"
+        },
+        {
+            "id": 57,
+            "bank": "BANK OF THAILAND",
+            "city": "BANGKOK",
+            "branch": "(TREASURY OPERATIONS DIVISION, F.O.G.)",
+            "swift_code": "BOTHTHB1FOT"
+        },
+        {
+            "id": 58,
             "bank": "BANK OF THAILAND",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "BOTHTHBK"
         },
         {
-            "id": 12,
+            "id": 59,
+            "bank": "BANK OF THAILAND",
+            "city": "NAKHON PATHOM",
+            "branch": "(ACCOUNTING AND SUPPLY DEPARTMENT)",
+            "swift_code": "BOTHTHB1ASD"
+        },
+        {
+            "id": 60,
+            "bank": "BANK OF THAILAND EMPLOYEE'S THRIFT AND CREDIT COOPERATIVE LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "TETCTHB1"
+        },
+        {
+            "id": 61,
             "bank": "BANK OF THAILAND, BAHTNET PAYMENT SYSTEM",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "BOTHTHBP"
         },
         {
-            "id": 13,
+            "id": 62,
+            "bank": "BARA DEVELOPMENT FINANCE AND SECURITES CO.LTD.",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "BDFCTHB1"
+        },
+        {
+            "id": 63,
+            "bank": "BARCLAYS DE ZOETE WEDD SECURITIES LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "BZWLTHB1"
+        },
+        {
+            "id": 64,
+            "bank": "BARING RESEARCH LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "BARHTHB1"
+        },
+        {
+            "id": 65,
             "bank": "BNP PARIBAS BANGKOK BRANCH",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "BNPATHBK"
         },
         {
-            "id": 14,
+            "id": 66,
+            "bank": "BNP PRIME PEREGINE SECURITIES (THAILAND) LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "BPPETHB1"
+        },
+        {
+            "id": 67,
+            "bank": "BOOK CLUB FINANCE PUBLIC COMPANY LIMITED, THE",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "BCFPTHB1"
+        },
+        {
+            "id": 68,
+            "bank": "BPI INTERNATIONAL FINANCE LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "BPIITHB1"
+        },
+        {
+            "id": 69,
+            "bank": "BUALUANG SECURITIES PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "BSPOTHB1"
+        },
+        {
+            "id": 70,
+            "bank": "CAISSE NATIONALE DU CREDIT AGRICOLE",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "AGRITHB1"
+        },
+        {
+            "id": 71,
+            "bank": "CAPITAL NOMURA SECURITIES PUBLIC CO LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "NMRSTHB1"
+        },
+        {
+            "id": 72,
+            "bank": "CAPITAL NOMURA SECURITIES PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "CAPETHB1"
+        },
+        {
+            "id": 73,
+            "bank": "CATHAY TRUST CO LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "CATTTHB1"
+        },
+        {
+            "id": 74,
+            "bank": "CHIANGMAI LENDING OFFICE",
+            "city": "CHIANGMAI",
+            "branch": null,
+            "swift_code": "LENDTHB10BC"
+        },
+        {
+            "id": 75,
+            "bank": "CHONBURI LENDING OFFICE",
+            "city": "CHONBURI",
+            "branch": null,
+            "swift_code": "LENDTHB1"
+        },
+        {
+            "id": 76,
+            "bank": "CIMB SECURITIES (THAILAND) CO., LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "SEETTHB1"
+        },
+        {
+            "id": 77,
             "bank": "CIMB THAI BANK PUBLIC COMPANY LIMITED (FORMERLY BANKTHAI PUBLIC COMPANY LIMITED)",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "UBOBTHBK"
         },
         {
-            "id": 15,
+            "id": 78,
             "bank": "CITIBANK N.A.",
             "city": "BANGKOK",
             "branch": "(INTERNATIONAL BANKING FACILITY)",
             "swift_code": "CITITHBXIBF"
         },
         {
-            "id": 16,
+            "id": 79,
             "bank": "CITIBANK N.A.",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "CITITHBX"
         },
         {
-            "id": 17,
+            "id": 80,
+            "bank": "CITICORP SECURITIES (THAILAND) LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "CISTTHB1"
+        },
+        {
+            "id": 81,
+            "bank": "CLSA SECURITIES (THAILAND) LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "CLSATHB1"
+        },
+        {
+            "id": 82,
+            "bank": "COMPTROLLER GENERAL'S DEPARTMENT",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "CGDXTHB1"
+        },
+        {
+            "id": 83,
+            "bank": "CREDIT SUISSE SECURITIES (THAILAND) LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "CSFBTHB1"
+        },
+        {
+            "id": 84,
+            "bank": "CROSBY RESEARCH LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "CRSHTHB1"
+        },
+        {
+            "id": 85,
+            "bank": "DBS VICKERS SECURITIES (THAILAND) COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "DBSVTHB1"
+        },
+        {
+            "id": 86,
+            "bank": "DEPOSIT PROTECTION AGENCY",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "DEPGTHB1"
+        },
+        {
+            "id": 87,
             "bank": "DEUTSCHE BANK AG, BANGKOK BRANCH",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "DEUTTHBK"
         },
         {
-            "id": 18,
+            "id": 88,
             "bank": "DEUTSCHE BANK AG, BANGKOK BRANCH",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "DEUTTHBKGMO"
         },
         {
-            "id": 19,
+            "id": 89,
+            "bank": "DHANA NAKORN FINANCE AND SECURITIES PUBLIC CO.,LTD.",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "DNFETHB1"
+        },
+        {
+            "id": 90,
+            "bank": "DYNAMIC EASTERN FINANCE THAILAND (1991) PUBLIC CO LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "DEFTTHB1"
+        },
+        {
+            "id": 91,
+            "bank": "ELECTRICITY GENERATING AUTHORITY OF THAILAND",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "EGATTHB1"
+        },
+        {
+            "id": 92,
             "bank": "EXPORT-IMPORT BANK OF THAILAND",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "EXTHTHBK"
         },
         {
-            "id": 20,
+            "id": 93,
+            "bank": "EXPRESSWAY AND RAPID TRANSIT AUTHORITY OF THAILAND",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "ERTATHB1"
+        },
+        {
+            "id": 94,
+            "bank": "FAR EAST SECURITIES COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "FESCTHB1"
+        },
+        {
+            "id": 95,
+            "bank": "FINANCE CENTER-FUCC BANK INTERNATIONAL",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "FUCCTHB1"
+        },
+        {
+            "id": 96,
+            "bank": "FINANSA CREDIT LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "FIRDTHB1"
+        },
+        {
+            "id": 97,
+            "bank": "FINANSIA SYRUS SECURITIES PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "SYSOTHB1"
+        },
+        {
+            "id": 98,
+            "bank": "FIRST ASIA SECURITIES PUBLIC CO. LTD.",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "FASPTHB1"
+        },
+        {
+            "id": 99,
+            "bank": "FIRST ASIA SECURITIES PUBLIC CO. LTD.",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "FASPTHB1"
+        },
+        {
+            "id": 100,
+            "bank": "FIRST BANGKOK CITY FINANCE AND SECURITIES PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "FBCFTHB1"
+        },
+        {
+            "id": 101,
+            "bank": "FITCH RATINGS (THAILAND) LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "FRIPTHB1"
+        },
+        {
+            "id": 102,
+            "bank": "FPB ASIA LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "FPASTHB1"
+        },
+        {
+            "id": 103,
+            "bank": "G20 ASSET MANAGEMENT CO., LTD.",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "GSMNTHB1"
+        },
+        {
+            "id": 104,
+            "bank": "GE MONEY RETAIL BANK PUBLIC COMPANY",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "MRPCTHB1"
+        },
+        {
+            "id": 105,
+            "bank": "GENERAL FINANCE AND SECURITIES CO LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "GEFSTHB1"
+        },
+        {
+            "id": 106,
+            "bank": "GLOBAL THAI FINANCE AND SECURITIES CO. LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "GTFCTHB1"
+        },
+        {
+            "id": 107,
+            "bank": "GLOBLEX SECURITIES CO LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "GLSCTHB1"
+        },
+        {
+            "id": 108,
+            "bank": "GOVERNMENT HOUSING BANK",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "GOHUTHB1"
+        },
+        {
+            "id": 109,
+            "bank": "GOVERNMENT PENSION FUND",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "GOPFTHB1"
+        },
+        {
+            "id": 110,
             "bank": "GOVERNMENT SAVINGS BANK",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "GSBATHBK"
         },
         {
-            "id": 21,
+            "id": 111,
+            "bank": "HG ASIA INVESTMENT RESEARCH LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "ASIRTHB1"
+        },
+        {
+            "id": 112,
             "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "HSBCTHBK"
         },
         {
-            "id": 22,
+            "id": 113,
+            "bank": "I V GLOBAL SECURITIES PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "ISPCTHB1"
+        },
+        {
+            "id": 114,
             "bank": "INDIAN OVERSEAS BANK (FORMERLY BHARAT OVERSEAS BANK LTD.)",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "BHOBTHBK"
         },
         {
-            "id": 23,
+            "id": 115,
             "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (THAI) PUBLIC COMPANY LIMITED",
             "city": "BANGKOK",
             "branch": "(RMB CLEARING BANK)",
             "swift_code": "ICBKTHBKCLR"
         },
         {
-            "id": 24,
+            "id": 116,
             "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (THAI) PUBLIC COMPANY LIMITED",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "ICBKTHBK"
         },
         {
-            "id": 25,
+            "id": 117,
             "bank": "ISLAMIC BANK OF THAILAND",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "TIBTTHBK"
         },
         {
-            "id": 26,
+            "id": 118,
+            "bank": "JAMES CAPEL ASIA LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "JCALTHB1"
+        },
+        {
+            "id": 119,
+            "bank": "JP MORGAN SECURITIES (THAILAND) LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "JPSTTHB1"
+        },
+        {
+            "id": 120,
             "bank": "JPMORGAN CHASE BANK, N.A., BANGKOK BRANCH",
             "city": "BANGKOK",
             "branch": "(INTERANATIONAL BANKING FACILITY)",
             "swift_code": "CHASTHBXIBF"
         },
         {
-            "id": 27,
+            "id": 121,
             "bank": "JPMORGAN CHASE BANK, N.A., BANGKOK BRANCH",
             "city": "BANGKOK",
             "branch": "(JPMORGAN SECURITIES - THAILAND)",
             "swift_code": "CHASTHBXSEC"
         },
         {
-            "id": 28,
+            "id": 122,
             "bank": "JPMORGAN CHASE BANK, N.A., BANGKOK BRANCH",
             "city": "BANGKOK",
             "branch": "(LOANS AND DEPOSITIS SERVICES)",
             "swift_code": "CHASTHBXLND"
         },
         {
-            "id": 29,
+            "id": 123,
             "bank": "JPMORGAN CHASE BANK, N.A., BANGKOK BRANCH",
             "city": "BANGKOK",
             "branch": "(MONEY TRANSFER SERVICES)",
             "swift_code": "CHASTHBXMTS"
         },
         {
-            "id": 30,
+            "id": 124,
             "bank": "JPMORGAN CHASE BANK, N.A., BANGKOK BRANCH",
             "city": "BANGKOK",
             "branch": "(TEST KEY AND BKE ADMINISTRATION)",
             "swift_code": "CHASTHBXKEY"
         },
         {
-            "id": 31,
+            "id": 125,
             "bank": "JPMORGAN CHASE BANK, N.A., BANGKOK BRANCH",
             "city": "BANGKOK",
             "branch": "(TRADE SERVICES)",
             "swift_code": "CHASTHBXTSD"
         },
         {
-            "id": 32,
+            "id": 126,
             "bank": "JPMORGAN CHASE BANK, N.A., BANGKOK BRANCH",
             "city": "BANGKOK",
             "branch": "(TRADING\/TREASURY OPERATIONS)",
             "swift_code": "CHASTHBXTRO"
         },
         {
-            "id": 33,
+            "id": 127,
             "bank": "JPMORGAN CHASE BANK, N.A., BANGKOK BRANCH",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "CHASTHBX"
         },
         {
-            "id": 34,
+            "id": 128,
+            "bank": "KAEWSONG (2548) PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "BCFSTHB1"
+        },
+        {
+            "id": 129,
+            "bank": "KASIKORN ASSET MANAGEMENT CO LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "KAMOTHB1"
+        },
+        {
+            "id": 130,
+            "bank": "KASIKORN SECURITIES PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "KSPCTHB1"
+        },
+        {
+            "id": 131,
             "bank": "KASIKORNBANK PUBLIC COMPANY LIMITED",
             "city": "BANGKOK",
             "branch": "(BANGKHUNTHIAN CENTRE)",
             "swift_code": "KASITHBKSKS"
         },
         {
-            "id": 35,
+            "id": 132,
             "bank": "KASIKORNBANK PUBLIC COMPANY LIMITED",
             "city": "BANGKOK",
             "branch": "(BANGKOK INTERNATIONAL BANKING FACILITY)",
             "swift_code": "KASITHBKIBF"
         },
         {
-            "id": 36,
+            "id": 133,
             "bank": "KASIKORNBANK PUBLIC COMPANY LIMITED",
             "city": "BANGKOK",
             "branch": "(CASH MANAGEMENT DEPARTMENT)",
             "swift_code": "KASITHBKCMD"
         },
         {
-            "id": 37,
+            "id": 134,
             "bank": "KASIKORNBANK PUBLIC COMPANY LIMITED",
             "city": "BANGKOK",
             "branch": "(CUSTODIAN SERVICE DIVISION)",
             "swift_code": "KASITHBKCUS"
         },
         {
-            "id": 38,
+            "id": 135,
             "bank": "KASIKORNBANK PUBLIC COMPANY LIMITED",
             "city": "BANGKOK",
             "branch": "(FOREIGN EXCHANGE AND REMITTANCE DEPT)",
             "swift_code": "KASITHBKOMT"
         },
         {
-            "id": 39,
+            "id": 136,
             "bank": "KASIKORNBANK PUBLIC COMPANY LIMITED",
             "city": "BANGKOK",
             "branch": "(FUND MANAGEMENT DEPT)",
             "swift_code": "KASITHBKFMD"
         },
         {
-            "id": 40,
+            "id": 137,
             "bank": "KASIKORNBANK PUBLIC COMPANY LIMITED",
             "city": "BANGKOK",
             "branch": "(PHAHONYOTHIN CENTRE)",
             "swift_code": "KASITHBKPHA"
         },
         {
-            "id": 41,
+            "id": 138,
             "bank": "KASIKORNBANK PUBLIC COMPANY LIMITED",
             "city": "BANGKOK",
             "branch": "(RATBURANA CENTRE)",
             "swift_code": "KASITHBKRAJ"
         },
         {
-            "id": 42,
+            "id": 139,
             "bank": "KASIKORNBANK PUBLIC COMPANY LIMITED",
             "city": "BANGKOK",
             "branch": "(SILOM CENTRE)",
             "swift_code": "KASITHBKSIL"
         },
         {
-            "id": 43,
+            "id": 140,
             "bank": "KASIKORNBANK PUBLIC COMPANY LIMITED",
             "city": "BANGKOK",
             "branch": "(SUAPA CENTRE)",
             "swift_code": "KASITHBKSPA"
         },
         {
-            "id": 44,
+            "id": 141,
             "bank": "KASIKORNBANK PUBLIC COMPANY LIMITED",
             "city": "BANGKOK",
             "branch": "(SUKHUMVIT CENTRE)",
             "swift_code": "KASITHBKSUK"
         },
         {
-            "id": 45,
+            "id": 142,
             "bank": "KASIKORNBANK PUBLIC COMPANY LIMITED",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "KASITHBK"
         },
         {
-            "id": 46,
+            "id": 143,
             "bank": "KASIKORNBANK PUBLIC COMPANY LIMITED",
             "city": "CHIANGMAI",
             "branch": "(CHIANGMAI CENTRE)",
             "swift_code": "KASITHBKCHM"
         },
         {
-            "id": 47,
+            "id": 144,
             "bank": "KASIKORNBANK PUBLIC COMPANY LIMITED",
             "city": "CHOLBURI",
             "branch": "(LAEMCHABANG CENTRE)",
             "swift_code": "KASITHBKLAM"
         },
         {
-            "id": 48,
+            "id": 145,
             "bank": "KASIKORNBANK PUBLIC COMPANY LIMITED",
             "city": "HADYAI",
             "branch": "(HADYAI CENTRE)",
             "swift_code": "KASITHBKHDY"
         },
         {
-            "id": 49,
+            "id": 146,
             "bank": "KASIKORNBANK PUBLIC COMPANY LIMITED",
             "city": "PATHUMTANI",
             "branch": "(NAVANAKORN CENTRE)",
             "swift_code": "KASITHBKNAV"
         },
         {
-            "id": 50,
+            "id": 147,
+            "bank": "KASIKORNBANK PUBLIC COMPANY LIMITED",
+            "city": "SONGKHLA",
+            "branch": null,
+            "swift_code": "KASITHB10BS"
+        },
+        {
+            "id": 148,
+            "bank": "KGI SECURITIES (THAILAND) PUBLIC COMPANY LIMITED.",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "KSOPTHB1"
+        },
+        {
+            "id": 149,
+            "bank": "KGI SECURITIES (THAILAND) PUBLIC COMPANY LIMITED.",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "KSOPTHB1001"
+        },
+        {
+            "id": 150,
+            "bank": "KHON KAEN LENDING OFFICE",
+            "city": "KHON KAEN",
+            "branch": null,
+            "swift_code": "LENDTHB10BH"
+        },
+        {
+            "id": 151,
+            "bank": "KIATNAKIN BANK PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "KIFITHB1"
+        },
+        {
+            "id": 152,
             "bank": "KIATNAKIN BANK PUBLIC COMPANY LIMITED",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "KKPBTHBK"
         },
         {
-            "id": 51,
+            "id": 153,
+            "bank": "KIATNAKIN FINANCE AND SECURITIES PUBLIC CO LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "KFSPTHB1"
+        },
+        {
+            "id": 154,
+            "bank": "KIM ENG SECURITIES (THAILAND) PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "KESATHB1"
+        },
+        {
+            "id": 155,
+            "bank": "KOREA EXCHANGE BANK",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "KOEXTHB1"
+        },
+        {
+            "id": 156,
             "bank": "KRUNG THAI BANK PUBLIC COMPANY LIMITED",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "KRTHTHBK"
         },
         {
-            "id": 52,
+            "id": 157,
             "bank": "KRUNG THAI BANK PUBLIC COMPANY LIMITED",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "KRTHTHBKKNM"
         },
         {
-            "id": 53,
+            "id": 158,
+            "bank": "KRUNG THAI BANK PUBLIC COMPANY LIMITED",
+            "city": "CHIANGMAI",
+            "branch": null,
+            "swift_code": "KRTHTHB10BC"
+        },
+        {
+            "id": 159,
+            "bank": "KRUNG THAI BANK PUBLIC COMPANY LIMITED",
+            "city": "SAMUTPRAKARN",
+            "branch": null,
+            "swift_code": "KRTHTHB10B2"
+        },
+        {
+            "id": 160,
+            "bank": "KRUNG THAI BANK PUBLIC COMPANY LIMITED",
+            "city": "SONGKHLA",
+            "branch": "(HAYDAI)",
+            "swift_code": "KRTHTHB10BS"
+        },
+        {
+            "id": 161,
+            "bank": "KRUNGTHAI THANAKIT FINANCE PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "KRUTTHB1"
+        },
+        {
+            "id": 162,
+            "bank": "KSIT FINANCE AND SECURITIES PLC",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "KFSCTHB1"
+        },
+        {
+            "id": 163,
+            "bank": "KT ZMICO SECURITIES COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "ZMSCTHB1"
+        },
+        {
+            "id": 164,
+            "bank": "KTB SECURITIES LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "HSTHTHB1"
+        },
+        {
+            "id": 165,
+            "bank": "LAND AND HOUSES RETAIL BANK PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "LAHRTHB1"
+        },
+        {
+            "id": 166,
+            "bank": "LYNN PHILLIPS MORTGAGE CREDIT FONCIER CO.,LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "LPMCTHB1"
+        },
+        {
+            "id": 167,
+            "bank": "MACQUARIE SECURITIES (THAILAND) LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "IBSTTHB1"
+        },
+        {
+            "id": 168,
+            "bank": "MASS RAPID TRANSIT AUTHORITY OF THAILAND",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "MRTATHB1"
+        },
+        {
+            "id": 169,
             "bank": "MEGA INTERNATIONAL COMMERCIAL BANK PUBLIC COMPANY LIMITED",
             "city": "BANGKOK",
             "branch": "(BANGNA BRANCH)",
             "swift_code": "ICBCTHBKBNA"
         },
         {
-            "id": 54,
+            "id": 170,
             "bank": "MEGA INTERNATIONAL COMMERCIAL BANK PUBLIC COMPANY LIMITED",
             "city": "BANGKOK",
             "branch": "(HEAD OFFICE, BANGKOK)",
             "swift_code": "ICBCTHBK"
         },
         {
-            "id": 55,
+            "id": 171,
             "bank": "MEGA INTERNATIONAL COMMERCIAL BANK PUBLIC COMPANY LIMITED",
             "city": "BANGKOK",
             "branch": "(RAYONG SUBBRANCH)",
             "swift_code": "ICBCTHBKRYO"
         },
         {
-            "id": 56,
+            "id": 172,
             "bank": "MEGA INTERNATIONAL COMMERCIAL BANK PUBLIC COMPANY LIMITED",
             "city": "CHONBURI",
             "branch": "(CHONBURI BRANCH)",
             "swift_code": "ICBCTHBKCHB"
         },
         {
-            "id": 57,
+            "id": 173,
             "bank": "MEGA INTERNATIONAL COMMERCIAL BANK PUBLIC COMPANY LIMITED",
             "city": "RAJBURI",
             "branch": "(BANPONG BRANCH)",
             "swift_code": "ICBCTHBKBPO"
         },
         {
-            "id": 58,
+            "id": 174,
+            "bank": "MERCANTILE BANK LTD.",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "HLEBTHB1"
+        },
+        {
+            "id": 175,
             "bank": "MERCEDES-BENZ (THAILAND) LIMITED",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "DAIXTHBK"
         },
         {
-            "id": 59,
+            "id": 176,
             "bank": "MERCEDES-BENZ LEASING (THAILAND) CO. LTD.",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "MBLETHBK"
         },
         {
-            "id": 60,
+            "id": 177,
             "bank": "MERCEDES-BENZ MANUFACTURING (THAILAND) LIMITED",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "MBMATHBK"
         },
         {
-            "id": 61,
+            "id": 178,
+            "bank": "MERCHANT PARTNERS SECURITIES PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "ADSCTHB1"
+        },
+        {
+            "id": 179,
+            "bank": "MERRILL LYNCH SECURITIES (THAILAND) LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "SECYTHB1"
+        },
+        {
+            "id": 180,
+            "bank": "METROPOLITAN WATERWORKS AUTHORITY",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "MEWATHB1"
+        },
+        {
+            "id": 181,
             "bank": "MIZUHO BANK, LTD., BANGKOK BRANCH",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "MHCBTHB2"
         },
         {
-            "id": 62,
+            "id": 182,
             "bank": "MIZUHO BANK, LTD., BANGKOK BRANCH",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "MHCBTHBK"
         },
         {
-            "id": 63,
+            "id": 183,
+            "bank": "MULTI-CREDIT CORPORATION OF THAILAND LTD.",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "MULCTHB1"
+        },
+        {
+            "id": 184,
+            "bank": "NAKHON RATCHASIMA LENDING OFFICE",
+            "city": "NAKHON RATCHASIMA",
+            "branch": null,
+            "swift_code": "LENDTHB10BR"
+        },
+        {
+            "id": 185,
+            "bank": "NATIONAL FINANCE PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "NFSPTHB1"
+        },
+        {
+            "id": 186,
+            "bank": "NATIONAL HOUSING AUTHORITY",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "NAHATHB1"
+        },
+        {
+            "id": 187,
+            "bank": "NATIONAL ITMX CO., LTD.",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "NAITTHB1"
+        },
+        {
+            "id": 188,
+            "bank": "NAVA FINANCE AND SECURITIES CO LTD.",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "NAVATHB1"
+        },
+        {
+            "id": 189,
+            "bank": "NITHIPAT CAPITAL AND SECURITIES CO. LTD.",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "NCSCTHB1"
+        },
+        {
+            "id": 190,
+            "bank": "OFFICE FOR SECURITIES BROKERAGE SERVICES",
+            "city": "CHIANGMAI",
+            "branch": null,
+            "swift_code": "OFSBTHB1"
+        },
+        {
+            "id": 191,
+            "bank": "OFFICE FOR SECURITIES BROKERAGE SERVICES",
+            "city": "NAKHON PATHOM",
+            "branch": null,
+            "swift_code": "OFSBTHB10BN"
+        },
+        {
+            "id": 192,
+            "bank": "OFFICE FOR SECURITIES BROKERAGE SERVICES",
+            "city": "SONGKHLA",
+            "branch": null,
+            "swift_code": "OFSBTHB10BS"
+        },
+        {
+            "id": 193,
+            "bank": "OFFICE FOR SECURITIES BROKERAGE SERVICES",
+            "city": "TRANG",
+            "branch": null,
+            "swift_code": "OFSBTHB10BT"
+        },
+        {
+            "id": 194,
+            "bank": "OSK SECURITIES (THAILAND) PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "BFSOTHB1"
+        },
+        {
+            "id": 195,
             "bank": "OVERSEA-CHINESE BANKING CORPORATION LIMITED, BANGKOK BRANCH",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "OCBCTHBK"
         },
         {
-            "id": 64,
+            "id": 196,
+            "bank": "OVERSEAS UNION BANK LTD.",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "OUBKTHB1"
+        },
+        {
+            "id": 197,
+            "bank": "PANASONIC TREASURY CENTRE (THAILAND) CO., LTD.",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "PANATHB1"
+        },
+        {
+            "id": 198,
+            "bank": "PHATRA SECURITIES PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "PHSUTHB1"
+        },
+        {
+            "id": 199,
+            "bank": "PHILLIP SECURITIES (THAILAND) PUBLIC CO. LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "PSTPTHB1"
+        },
+        {
+            "id": 200,
+            "bank": "POONPIPAT FINANCE AND SECURITIES CO LTD.",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "POFSTHB1"
+        },
+        {
+            "id": 201,
+            "bank": "PROVINCIAL ELECTRICITY AUTHORITY",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "PREHTHB1"
+        },
+        {
+            "id": 202,
+            "bank": "PROVINCIAL WATERWORKS AUTHORITY",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "PRWATHB1"
+        },
+        {
+            "id": 203,
+            "bank": "PTT PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "PTPCTHB1"
+        },
+        {
+            "id": 204,
+            "bank": "PUBLIC DEBT MANAGEMENT OFFICE",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "PDMOTHB1"
+        },
+        {
+            "id": 205,
             "bank": "RHB BANK BERHAD",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "DCBBTHBK"
         },
         {
-            "id": 65,
+            "id": 206,
+            "bank": "S.C.F. FINANCE AND SECURITIES PCL",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "SCFSTHB1"
+        },
+        {
+            "id": 207,
+            "bank": "SAHAVIRIYA CREDIT FONCIER CO.,LTD.",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "SCFCTHB1"
+        },
+        {
+            "id": 208,
+            "bank": "SAMSUNG C AND T (THAILAND) CO., LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "SCNTTHB1"
+        },
+        {
+            "id": 209,
+            "bank": "SBI THAI ONLINE SECURITIES COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "STNUTHB1"
+        },
+        {
+            "id": 210,
+            "bank": "SCB SECURITIES CO LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "SSTCTHB1"
+        },
+        {
+            "id": 211,
+            "bank": "SCB SECURITIES CO LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "SSTCTHB1001"
+        },
+        {
+            "id": 212,
+            "bank": "SEAMICO SECURITIES PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "SESPTHB1"
+        },
+        {
+            "id": 213,
+            "bank": "SECONDARY MORTGAGE CORPORATION",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "SMCRTHB1"
+        },
+        {
+            "id": 214,
+            "bank": "SECURITIES ONE PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "SOPCTHB1"
+        },
+        {
+            "id": 215,
+            "bank": "SIAM CITY CREDIT FINANCE AND SECURITIES PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "SCCFTHB1"
+        },
+        {
+            "id": 216,
+            "bank": "SIAM CITY SECURITIES COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "CACYTHB1"
+        },
+        {
+            "id": 217,
             "bank": "SIAM COMMERCIAL BANK PCL., THE",
             "city": "BANGKOK",
             "branch": "(TREASURY DEPARTMENT)",
             "swift_code": "SICOTHBKTSD"
         },
         {
-            "id": 66,
+            "id": 218,
             "bank": "SIAM COMMERCIAL BANK PCL., THE",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "SICOTHBK"
         },
         {
-            "id": 67,
+            "id": 219,
+            "bank": "SICCO SECURITIES PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "SSPOTHB1"
+        },
+        {
+            "id": 220,
+            "bank": "SIME BANK BERHAD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "SIMETHB1"
+        },
+        {
+            "id": 221,
             "bank": "SMALL AND MEDIUM ENTREPRISE DEVELOPMENT BANK OF THAILAND",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "SMEBTHBK"
         },
         {
-            "id": 68,
+            "id": 222,
+            "bank": "SMALL INDUSTRY FINANCE CORPORATION",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "SIFPTHB1"
+        },
+        {
+            "id": 223,
+            "bank": "SOCIETE GENERALE",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "SOGETHB1"
+        },
+        {
+            "id": 224,
             "bank": "STANDARD CHARTERED BANK (THAI) PCL",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "SCBLTHBX"
         },
         {
-            "id": 69,
+            "id": 225,
+            "bank": "STANDARD CHARTERED SECURITIES LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "SCSETHB1"
+        },
+        {
+            "id": 226,
+            "bank": "STATE RAILWAY OF THAILAND",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "STRHTHB1"
+        },
+        {
+            "id": 227,
             "bank": "SUMITOMO MITSUI BANKING CORPORATION",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "SMBCTHBK"
         },
         {
-            "id": 70,
+            "id": 228,
             "bank": "SUMITOMO MITSUI TRUST BANK (THAI) PUBLIC COMPANY LIMITED",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "STBCTHBK"
         },
         {
-            "id": 71,
+            "id": 229,
+            "bank": "THAI ASSET MANAGEMENT CORPORATION",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "TAMOTHB1"
+        },
+        {
+            "id": 230,
+            "bank": "THAI BOND MARKET ASSOCIATION",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "TBDCTHB1"
+        },
+        {
+            "id": 231,
+            "bank": "THAI CREDIT RETAIL BANK CO., LTD.",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "THCETHB1"
+        },
+        {
+            "id": 232,
+            "bank": "THAI FINANCIAL SYNDICATE PUBLIC CO LTD.",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "TFSPTHB1"
+        },
+        {
+            "id": 233,
+            "bank": "THAI FINANCIAL TRUST PUBLIC CO LTD.",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "TFTPTHB1"
+        },
+        {
+            "id": 234,
+            "bank": "THAI FUJI FINANCE AND SECURITIES CO LTD.",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "TFFSTHB1"
+        },
+        {
+            "id": 235,
+            "bank": "THAI INVESTMENT AND SECURITIES CO. LTD.",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "THISTHB1"
+        },
+        {
+            "id": 236,
+            "bank": "THAI KEHA CREDIT FONCIER PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "TKCFTHB1"
+        },
+        {
+            "id": 237,
+            "bank": "THAI SAKURA FINANCE AND SECURITIES CO LTD.",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "TSFSTHB1"
+        },
+        {
+            "id": 238,
+            "bank": "THAI SAMSUNG ELECTRONICS CO.,LTD.",
+            "city": "CHONBURI",
+            "branch": "(TSE)",
+            "swift_code": "SECTTHB15A0"
+        },
+        {
+            "id": 239,
+            "bank": "THAI SAMSUNG ELECTRONICS CO.,LTD.",
+            "city": "CHONBURI",
+            "branch": null,
+            "swift_code": "SECTTHB1"
+        },
+        {
+            "id": 240,
+            "bank": "THAI SECURITIES CO.LTD.",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "THASTHB1"
+        },
+        {
+            "id": 241,
+            "bank": "THAILAND CLEARING HOUSE CO., LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "TCHCTHB1"
+        },
+        {
+            "id": 242,
+            "bank": "THAILAND POST CO LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "TPSTTHB1"
+        },
+        {
+            "id": 243,
             "bank": "THAILAND SECURITIES DEPOSITORY CO LTD",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "TSDCTHBK"
         },
         {
-            "id": 72,
+            "id": 244,
+            "bank": "THAIMEX FINANCE AND SECURITIES PUBLIC CO. LTD.",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "TFSUTHB1"
+        },
+        {
+            "id": 245,
+            "bank": "THAISRI INSURANCE CO., LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "THIOTHB1"
+        },
+        {
+            "id": 246,
+            "bank": "THANA ONE FINANCE AND SECURITIES LTD.",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "TOFETHB1"
+        },
+        {
+            "id": 247,
             "bank": "THANACHART BANK PUBLIC COMPANY LIMITED",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "THBKTHBK"
         },
         {
-            "id": 73,
+            "id": 248,
+            "bank": "THANACHART BANK PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "EFSPTHB1"
+        },
+        {
+            "id": 249,
+            "bank": "THANACHART SECURITIES PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "NASMTHB1"
+        },
+        {
+            "id": 250,
+            "bank": "THANAPOL FINANCE AND SECURITIES CO LTD.",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "THFETHB1"
+        },
+        {
+            "id": 251,
+            "bank": "THE OCEAN SECURITIES AND FINANCE CO. LTD.",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "OCSFTHB1"
+        },
+        {
+            "id": 252,
+            "bank": "THE OFFICE OF THE SECURITIES AND EXCHANGE COMMISSION",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "OSECTHB1"
+        },
+        {
+            "id": 253,
+            "bank": "THE REVENUE DEPARTMENT OF THAILAND",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "REDPTHB1"
+        },
+        {
+            "id": 254,
             "bank": "THE ROYAL BANK OF SCOTLAND PLC, BANGKOK BRANCH",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "ABNATHBK"
         },
         {
-            "id": 74,
+            "id": 255,
+            "bank": "THE SIAM INDUSTRIAL CREDIT PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "SSICTHB1"
+        },
+        {
+            "id": 256,
+            "bank": "THE SRI MUANG INSURANCE COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "SMICTHB1"
+        },
+        {
+            "id": 257,
+            "bank": "THE STOCK EXCHANGE OF THAILAND",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "XBKKTHB1"
+        },
+        {
+            "id": 258,
+            "bank": "TISCO BANK PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "TFPCTHB1"
+        },
+        {
+            "id": 259,
+            "bank": "TISCO SECURITIES COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "TSCCTHB1"
+        },
+        {
+            "id": 260,
             "bank": "TMB BANK PUBLIC COMPANY LIMITED",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "TMBKTHBK"
         },
         {
-            "id": 75,
+            "id": 261,
+            "bank": "TMB BANK PUBLIC COMPANY LIMITED",
+            "city": "CHIANGMAI",
+            "branch": null,
+            "swift_code": "TMBKTHB10BC"
+        },
+        {
+            "id": 262,
+            "bank": "TMB BANK PUBLIC COMPANY LIMITED",
+            "city": "SONGKHLA",
+            "branch": null,
+            "swift_code": "TMBKTHB10BS"
+        },
+        {
+            "id": 263,
+            "bank": "TRANG LENDING OFFICE",
+            "city": "TRANG",
+            "branch": null,
+            "swift_code": "LENDTHB10BT"
+        },
+        {
+            "id": 264,
+            "bank": "TRINITY SECURITIES COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "TRSOTHB1"
+        },
+        {
+            "id": 265,
+            "bank": "TSFC SECURITIES LIMITED.",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "TSFCTHB1"
+        },
+        {
+            "id": 266,
+            "bank": "UBS SECURITIES (THAILAND) LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "SWPSTHB1"
+        },
+        {
+            "id": 267,
+            "bank": "UNION ASIA FINANCE PUBLIC CO. LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "UAPFTHB1"
+        },
+        {
+            "id": 268,
+            "bank": "UNION SECURITIES CO LTD.",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "UNIUTHB1"
+        },
+        {
+            "id": 269,
             "bank": "UNITED OVERSEAS BANK (THAI) PUBLIC COMPANY LIMITED",
             "city": "BANGKOK",
             "branch": null,
             "swift_code": "UOVBTHBK"
+        },
+        {
+            "id": 270,
+            "bank": "UNITED SECURITIES PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "UNSETHB1"
+        },
+        {
+            "id": 271,
+            "bank": "UNITED STATES DEPARTMENT OF STATE",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "USDSTHB1"
+        },
+        {
+            "id": 272,
+            "bank": "UOB KAY HIAN SECURITIES (THAILAND) CO LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "UKHSTHB1"
+        },
+        {
+            "id": 273,
+            "bank": "VICKERS BALLAS SECURITIES CO. LTD",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "VIBSTHB1"
+        },
+        {
+            "id": 274,
+            "bank": "W.I. CARR (FAR EAST) LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "WICATHB1"
+        },
+        {
+            "id": 275,
+            "bank": "WALL STREET FINANCE AND SECURITIES PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": "(HEAD OFFICE)",
+            "swift_code": "WSFSTHB10BK"
+        },
+        {
+            "id": 276,
+            "bank": "WALL STREET FINANCE AND SECURITIES PUBLIC COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": "(YAOWARAJ BRANCH)",
+            "swift_code": "WSFSTHB1"
+        },
+        {
+            "id": 277,
+            "bank": "YUANTA SECURITIES (THAILAND) COMPANY LIMITED",
+            "city": "BANGKOK",
+            "branch": null,
+            "swift_code": "YSTCTHB1"
         }
     ]
 }

@@ -11,52 +11,136 @@
         },
         {
             "id": 2,
+            "bank": "BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA",
+            "city": "MANAGUA",
+            "branch": null,
+            "swift_code": "BCIENIM1"
+        },
+        {
+            "id": 3,
             "bank": "BANCO CITIBANK DE NICARAGUA, S.A.",
             "city": "MANAGUA",
             "branch": null,
             "swift_code": "BUNONIMA"
         },
         {
-            "id": 3,
+            "id": 4,
             "bank": "BANCO CORPORATIVO, S. A.",
             "city": "MANAGUA",
             "branch": null,
             "swift_code": "BOFPNIMA"
         },
         {
-            "id": 4,
+            "id": 5,
             "bank": "BANCO DE AMERICA CENTRAL",
             "city": "MANAGUA",
             "branch": null,
             "swift_code": "BAMCNIMA"
         },
         {
-            "id": 5,
+            "id": 6,
+            "bank": "BANCO DE CENTRO AMERICA",
+            "city": "MANAGUA",
+            "branch": null,
+            "swift_code": "BCEANIM1"
+        },
+        {
+            "id": 7,
+            "bank": "BANCO DE CREDITO POPULAR",
+            "city": "MANAGUA",
+            "branch": null,
+            "swift_code": "CRPONIM1"
+        },
+        {
+            "id": 8,
+            "bank": "BANCO DE EXPORTACION",
+            "city": "MANAGUA",
+            "branch": null,
+            "swift_code": "EXPTNIM1"
+        },
+        {
+            "id": 9,
             "bank": "BANCO DE FINANZAS, S.A.(BDF)",
             "city": "MANAGUA",
             "branch": null,
             "swift_code": "BBDFNIMA"
         },
         {
-            "id": 6,
+            "id": 10,
             "bank": "BANCO DE LA PRODUCCION S.A.",
             "city": "MANAGUA",
             "branch": null,
             "swift_code": "BAPRNIMA"
         },
         {
-            "id": 7,
+            "id": 11,
+            "bank": "BANCO DE LA VIVIENDA DE NICARAGUA",
+            "city": "MANAGUA",
+            "branch": null,
+            "swift_code": "BVISNIM1"
+        },
+        {
+            "id": 12,
+            "bank": "BANCO DE PRESTAMOS",
+            "city": "MANAGUA",
+            "branch": null,
+            "swift_code": "BPRENIM1"
+        },
+        {
+            "id": 13,
+            "bank": "BANCO EUROPEO DE CENTRO AMERICA, S.A.",
+            "city": "MANAGUA",
+            "branch": null,
+            "swift_code": "BEUCNIM1"
+        },
+        {
+            "id": 14,
             "bank": "BANCO LAFISE BANCENTRO, S.A.",
             "city": "MANAGUA",
             "branch": null,
             "swift_code": "BCCENIMA"
         },
         {
-            "id": 8,
+            "id": 15,
+            "bank": "BANCO MERCANTIL",
+            "city": "MANAGUA",
+            "branch": null,
+            "swift_code": "BMRCNIM1"
+        },
+        {
+            "id": 16,
+            "bank": "BANCO NACIONAL DE DESARROLLO",
+            "city": "MANAGUA",
+            "branch": null,
+            "swift_code": "BNDENIM1"
+        },
+        {
+            "id": 17,
             "bank": "BANCO PROCREDIT NICARAGUA",
             "city": "MANAGUA",
             "branch": null,
             "swift_code": "PRCBNIMA"
+        },
+        {
+            "id": 18,
+            "bank": "BRITISH AMERICAN TOBACCO CENTRAL AMERICA S.A., SUCURSAL NICARAGUA",
+            "city": "MANAGUA",
+            "branch": null,
+            "swift_code": "BATSNIM1"
+        },
+        {
+            "id": 19,
+            "bank": "CENTRAL NICARAGUEENSE DE VALORES, S.A.",
+            "city": "MANAGUA",
+            "branch": null,
+            "swift_code": "CNVCNIM1"
+        },
+        {
+            "id": 20,
+            "bank": "CITIBANK N.A.",
+            "city": "MANAGUA",
+            "branch": null,
+            "swift_code": "CITINIM1"
         }
     ]
 }

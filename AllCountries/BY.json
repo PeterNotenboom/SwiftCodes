@@ -26,243 +26,740 @@
         {
             "id": 4,
             "bank": "BANK BELVEB OJSC",
+            "city": "BARANOVICHI",
+            "branch": "(BARANOVICHI)",
+            "swift_code": "BELBBY21207"
+        },
+        {
+            "id": 5,
+            "bank": "BANK BELVEB OJSC",
+            "city": "BOBRUISK",
+            "branch": "(BOBRUISK)",
+            "swift_code": "BELBBY21214"
+        },
+        {
+            "id": 6,
+            "bank": "BANK BELVEB OJSC",
+            "city": "BORISOV",
+            "branch": "(BORISOV)",
+            "swift_code": "BELBBY21203"
+        },
+        {
+            "id": 7,
+            "bank": "BANK BELVEB OJSC",
+            "city": "BREST",
+            "branch": "(BREST REGIONAL BRANCH)",
+            "swift_code": "BELBBY21201"
+        },
+        {
+            "id": 8,
+            "bank": "BANK BELVEB OJSC",
+            "city": "GLUBOKOYE",
+            "branch": "(GLUBOKOYE)",
+            "swift_code": "BELBBY21794"
+        },
+        {
+            "id": 9,
+            "bank": "BANK BELVEB OJSC",
+            "city": "GOMEL",
+            "branch": "(GOMEL REGIONAL BRANCH)",
+            "swift_code": "BELBBY21213"
+        },
+        {
+            "id": 10,
+            "bank": "BANK BELVEB OJSC",
+            "city": "GRODNO",
+            "branch": "(GRODNO REGIONAL BRANCH)",
+            "swift_code": "BELBBY21204"
+        },
+        {
+            "id": 11,
+            "bank": "BANK BELVEB OJSC",
+            "city": "KOBRIN",
+            "branch": "(KOBRIN)",
+            "swift_code": "BELBBY21210"
+        },
+        {
+            "id": 12,
+            "bank": "BANK BELVEB OJSC",
+            "city": "LIDA",
+            "branch": "(LIDA)",
+            "swift_code": "BELBBY21216"
+        },
+        {
+            "id": 13,
+            "bank": "BANK BELVEB OJSC",
+            "city": "MINSK",
+            "branch": "(MINSK  BRANCH CENTRAL)",
+            "swift_code": "BELBBY21728"
+        },
+        {
+            "id": 14,
+            "bank": "BANK BELVEB OJSC",
+            "city": "MINSK",
+            "branch": "(MINSK BRANCH 1)",
+            "swift_code": "BELBBY21209"
+        },
+        {
+            "id": 15,
+            "bank": "BANK BELVEB OJSC",
+            "city": "MINSK",
+            "branch": "(MINSK BRANCH 2)",
+            "swift_code": "BELBBY21215"
+        },
+        {
+            "id": 16,
+            "bank": "BANK BELVEB OJSC",
+            "city": "MINSK",
+            "branch": "(MINSK BRANCH 3)",
+            "swift_code": "BELBBY21217"
+        },
+        {
+            "id": 17,
+            "bank": "BANK BELVEB OJSC",
+            "city": "MINSK",
+            "branch": "(MINSK BRANCH 4)",
+            "swift_code": "BELBBY21220"
+        },
+        {
+            "id": 18,
+            "bank": "BANK BELVEB OJSC",
+            "city": "MINSK",
+            "branch": "(MINSK BRANCH 4)",
+            "swift_code": "BELBBY21220"
+        },
+        {
+            "id": 19,
+            "bank": "BANK BELVEB OJSC",
             "city": "MINSK",
             "branch": null,
             "swift_code": "BELBBY2X"
         },
         {
-            "id": 5,
+            "id": 20,
+            "bank": "BANK BELVEB OJSC",
+            "city": "MOGILEV",
+            "branch": "(MOGILEV REGIONAL BRANCH)",
+            "swift_code": "BELBBY21202"
+        },
+        {
+            "id": 21,
+            "bank": "BANK BELVEB OJSC",
+            "city": "MOLODECHNO",
+            "branch": "(MOLODECHNO)",
+            "swift_code": "BELBBY21211"
+        },
+        {
+            "id": 22,
+            "bank": "BANK BELVEB OJSC",
+            "city": "MOZIR",
+            "branch": "(MOZYR)",
+            "swift_code": "BELBBY21205"
+        },
+        {
+            "id": 23,
+            "bank": "BANK BELVEB OJSC",
+            "city": "ORSHA",
+            "branch": "(ORSHA)",
+            "swift_code": "BELBBY21206"
+        },
+        {
+            "id": 24,
+            "bank": "BANK BELVEB OJSC",
+            "city": "PINSK",
+            "branch": "(PINSK)",
+            "swift_code": "BELBBY21212"
+        },
+        {
+            "id": 25,
+            "bank": "BANK BELVEB OJSC",
+            "city": "RECHITSA",
+            "branch": "(RECHITSA)",
+            "swift_code": "BELBBY21221"
+        },
+        {
+            "id": 26,
+            "bank": "BANK BELVEB OJSC",
+            "city": "VERKHNEDVINSK",
+            "branch": "(VERKHNEDVINSK)",
+            "swift_code": "BELBBY21848"
+        },
+        {
+            "id": 27,
+            "bank": "BANK BELVEB OJSC",
+            "city": "VITEBSK",
+            "branch": "(VITEBSK REGIONAL BRANCH)",
+            "swift_code": "BELBBY21208"
+        },
+        {
+            "id": 28,
+            "bank": "BANK BELVEB OJSC",
+            "city": "VOLKOVISK",
+            "branch": "(VOLKOVISK)",
+            "swift_code": "BELBBY21219"
+        },
+        {
+            "id": 29,
+            "bank": "BELARUSBANK",
+            "city": "BARANOVICHI",
+            "branch": "(BARANOVICHI BRANCH 802)",
+            "swift_code": "AKBBBY21802"
+        },
+        {
+            "id": 30,
+            "bank": "BELARUSBANK",
+            "city": "BOBRUISK",
+            "branch": "(BOBRUISK BRANCH 703)",
+            "swift_code": "AKBBBY21703"
+        },
+        {
+            "id": 31,
+            "bank": "BELARUSBANK",
+            "city": "BORISOV",
+            "branch": "(BORISOV BRANCH 612)",
+            "swift_code": "AKBBBY21612"
+        },
+        {
+            "id": 32,
+            "bank": "BELARUSBANK",
+            "city": "BREST",
+            "branch": "(BREST REGIONAL BRANCH 100)",
+            "swift_code": "AKBBBY21100"
+        },
+        {
+            "id": 33,
+            "bank": "BELARUSBANK",
+            "city": "GOMEL",
+            "branch": "(GOMEL BRANCH 302)",
+            "swift_code": "AKBBBY21302"
+        },
+        {
+            "id": 34,
+            "bank": "BELARUSBANK",
+            "city": "GOMEL",
+            "branch": "(GOMEL REGIONAL BRANCH 300)",
+            "swift_code": "AKBBBY21300"
+        },
+        {
+            "id": 35,
+            "bank": "BELARUSBANK",
+            "city": "GRODNO",
+            "branch": "(GRODNO REGIONAL BRANCH 400)",
+            "swift_code": "AKBBBY21400"
+        },
+        {
+            "id": 36,
+            "bank": "BELARUSBANK",
+            "city": "KOBRIN",
+            "branch": "(KOBRIN BRANCH 113)",
+            "swift_code": "AKBBBY21113"
+        },
+        {
+            "id": 37,
+            "bank": "BELARUSBANK",
+            "city": "KOSTUKOVICHI",
+            "branch": "(KOSTUKOVICHI BRANCH 712)",
+            "swift_code": "AKBBBY21712"
+        },
+        {
+            "id": 38,
+            "bank": "BELARUSBANK",
+            "city": "KRICHEV",
+            "branch": "(KRICHEV BRANCH 714)",
+            "swift_code": "AKBBBY21714"
+        },
+        {
+            "id": 39,
+            "bank": "BELARUSBANK",
+            "city": "LIDA",
+            "branch": "(LIDA BRANCH 413)",
+            "swift_code": "AKBBBY21413"
+        },
+        {
+            "id": 40,
+            "bank": "BELARUSBANK",
+            "city": "MINSK",
+            "branch": "(MINSK BRANCH 510)",
+            "swift_code": "AKBBBY21510"
+        },
+        {
+            "id": 41,
+            "bank": "BELARUSBANK",
+            "city": "MINSK",
+            "branch": "(MINSK BRANCH 511)",
+            "swift_code": "AKBBBY21511"
+        },
+        {
+            "id": 42,
+            "bank": "BELARUSBANK",
+            "city": "MINSK",
+            "branch": "(MINSK BRANCH 514)",
+            "swift_code": "AKBBBY21514"
+        },
+        {
+            "id": 43,
+            "bank": "BELARUSBANK",
+            "city": "MINSK",
+            "branch": "(MINSK BRANCH 519)",
+            "swift_code": "AKBBBY21519"
+        },
+        {
+            "id": 44,
+            "bank": "BELARUSBANK",
+            "city": "MINSK",
+            "branch": "(MINSK BRANCH 527)",
+            "swift_code": "AKBBBY21527"
+        },
+        {
+            "id": 45,
+            "bank": "BELARUSBANK",
+            "city": "MINSK",
+            "branch": "(MINSK BRANCH 529)",
+            "swift_code": "AKBBBY21529"
+        },
+        {
+            "id": 46,
+            "bank": "BELARUSBANK",
+            "city": "MINSK",
+            "branch": "(MINSK BRANCH 614)",
+            "swift_code": "AKBBBY21614"
+        },
+        {
+            "id": 47,
+            "bank": "BELARUSBANK",
+            "city": "MINSK",
+            "branch": "(MINSK REGIONAL BRANCH 500)",
+            "swift_code": "AKBBBY21500"
+        },
+        {
+            "id": 48,
             "bank": "BELARUSBANK",
             "city": "MINSK",
             "branch": null,
             "swift_code": "AKBBBY2X"
         },
         {
-            "id": 6,
+            "id": 49,
+            "bank": "BELARUSBANK",
+            "city": "MOGILEV",
+            "branch": "(MOGILEV REGIONAL BRANCH 700)",
+            "swift_code": "AKBBBY21700"
+        },
+        {
+            "id": 50,
+            "bank": "BELARUSBANK",
+            "city": "MOLODECHNO",
+            "branch": "(MOLODECHNO BRANCH 601)",
+            "swift_code": "AKBBBY21601"
+        },
+        {
+            "id": 51,
+            "bank": "BELARUSBANK",
+            "city": "MOZIR",
+            "branch": "(MOZIR BRANCH 317)",
+            "swift_code": "AKBBBY21317"
+        },
+        {
+            "id": 52,
+            "bank": "BELARUSBANK",
+            "city": "NESVIZH",
+            "branch": "(NESVIZH BRANCH 620)",
+            "swift_code": "AKBBBY21620"
+        },
+        {
+            "id": 53,
+            "bank": "BELARUSBANK",
+            "city": "NOVOPOLOTSK",
+            "branch": "(NOVOPOLOTSK BRANCH 214)",
+            "swift_code": "AKBBBY21214"
+        },
+        {
+            "id": 54,
+            "bank": "BELARUSBANK",
+            "city": "ORSHA",
+            "branch": "(ORSHA BRANCH 215)",
+            "swift_code": "AKBBBY21215"
+        },
+        {
+            "id": 55,
+            "bank": "BELARUSBANK",
+            "city": "PINSK",
+            "branch": "(PINSK BRANCH 121)",
+            "swift_code": "AKBBBY21121"
+        },
+        {
+            "id": 56,
+            "bank": "BELARUSBANK",
+            "city": "POLOTSK",
+            "branch": "(POLOTSK BRANCH 216)",
+            "swift_code": "AKBBBY21216"
+        },
+        {
+            "id": 57,
+            "bank": "BELARUSBANK",
+            "city": "SLUTSK",
+            "branch": "(SLUTSK BRANCH 615)",
+            "swift_code": "AKBBBY21615"
+        },
+        {
+            "id": 58,
+            "bank": "BELARUSBANK",
+            "city": "SMORGON",
+            "branch": "(SMORGON BRANCH 423)",
+            "swift_code": "AKBBBY21423"
+        },
+        {
+            "id": 59,
+            "bank": "BELARUSBANK",
+            "city": "SOLIGORSK",
+            "branch": "(SOLIGORSK BRANCH 633)",
+            "swift_code": "AKBBBY21633"
+        },
+        {
+            "id": 60,
+            "bank": "BELARUSBANK",
+            "city": "VITEBSK",
+            "branch": "(VITEBSK REGIONAL BRANCH 200)",
+            "swift_code": "AKBBBY21200"
+        },
+        {
+            "id": 61,
+            "bank": "BELARUSBANK",
+            "city": "VOLKOVISK",
+            "branch": "(VOLKOVISK BRANCH 402)",
+            "swift_code": "AKBBBY21402"
+        },
+        {
+            "id": 62,
+            "bank": "BELARUSBANK",
+            "city": "ZHLOBIN",
+            "branch": "(ZHLOBIN BRANCH 312)",
+            "swift_code": "AKBBBY21312"
+        },
+        {
+            "id": 63,
+            "bank": "BELARUSBANK",
+            "city": "ZHODINO",
+            "branch": "(ZHODINO BRANCH 616)",
+            "swift_code": "AKBBBY21616"
+        },
+        {
+            "id": 64,
+            "bank": "BELARUSIAN BANK FOR SMALL BUSINESS",
+            "city": "MINSK",
+            "branch": null,
+            "swift_code": "BBSBBY21"
+        },
+        {
+            "id": 65,
             "bank": "BELARUSKY NARODNY BANK",
             "city": "MINSK",
             "branch": null,
             "swift_code": "BLNBBY2X"
         },
         {
-            "id": 7,
+            "id": 66,
             "bank": "BELINVESTBANK JSC",
             "city": "BREST",
             "branch": "(BREST REGION DIRECTORATE)",
             "swift_code": "BLBBBY2XBRD"
         },
         {
-            "id": 8,
+            "id": 67,
             "bank": "BELINVESTBANK JSC",
             "city": "GOMEL",
             "branch": "(GOMEL REGION DIRECTORATE)",
             "swift_code": "BLBBBY2XGOM"
         },
         {
-            "id": 9,
+            "id": 68,
             "bank": "BELINVESTBANK JSC",
             "city": "GRODNO",
             "branch": "(GRODNO REGION DIRECTORATE)",
             "swift_code": "BLBBBY2XGRD"
         },
         {
-            "id": 10,
+            "id": 69,
             "bank": "BELINVESTBANK JSC",
             "city": "MINSK",
             "branch": "(BANKING SERVICES CENTRE 537)",
             "swift_code": "BLBBBY2XMRD"
         },
         {
-            "id": 11,
+            "id": 70,
+            "bank": "BELINVESTBANK JSC",
+            "city": "MINSK",
+            "branch": "(GENERAL OPERATIONAL DEPARTMENT)",
+            "swift_code": "BLBBBY21739"
+        },
+        {
+            "id": 71,
             "bank": "BELINVESTBANK JSC",
             "city": "MINSK",
             "branch": "(MINSK CITY AND MINSK REGION DIRECTORATE)",
             "swift_code": "BLBBBY2XCBD"
         },
         {
-            "id": 12,
+            "id": 72,
             "bank": "BELINVESTBANK JSC",
             "city": "MINSK",
             "branch": null,
             "swift_code": "BLBBBY2X"
         },
         {
-            "id": 13,
+            "id": 73,
             "bank": "BELINVESTBANK JSC",
             "city": "MOGILEV",
             "branch": "(MOGILEV REGION DIRECTORATE)",
             "swift_code": "BLBBBY2XMOG"
         },
         {
-            "id": 14,
+            "id": 74,
             "bank": "BELINVESTBANK JSC",
             "city": "VITEBSK",
             "branch": "(VITEBSK REGION DIRECTORATE)",
             "swift_code": "BLBBBY2XVRD"
         },
         {
-            "id": 15,
+            "id": 75,
+            "bank": "BELORUSSIAN-RUSSIAN BELGAZPROMBANK",
+            "city": "MINSK",
+            "branch": "(MINSK CITY OFFICE 1)",
+            "swift_code": "OLMPBY21107"
+        },
+        {
+            "id": 76,
+            "bank": "BELORUSSIAN-RUSSIAN BELGAZPROMBANK JOINT STOCK",
+            "city": "BREST",
+            "branch": "(BREST REGIONAL OFFICE)",
+            "swift_code": "OLMPBY21171"
+        },
+        {
+            "id": 77,
+            "bank": "BELORUSSIAN-RUSSIAN BELGAZPROMBANK JOINT STOCK",
+            "city": "GOMEL",
+            "branch": "(HOMIEL REGIONAL OFFICE)",
+            "swift_code": "OLMPBY21758"
+        },
+        {
+            "id": 78,
+            "bank": "BELORUSSIAN-RUSSIAN BELGAZPROMBANK JOINT STOCK",
+            "city": "GRODNO",
+            "branch": "(HRODNA REGIONAL OFFICE)",
+            "swift_code": "OLMPBY21194"
+        },
+        {
+            "id": 79,
+            "bank": "BELORUSSIAN-RUSSIAN BELGAZPROMBANK JOINT STOCK",
+            "city": "MINSK",
+            "branch": "(MINSK CITY OFFICE 2)",
+            "swift_code": "OLMPBY21180"
+        },
+        {
+            "id": 80,
+            "bank": "BELORUSSIAN-RUSSIAN BELGAZPROMBANK JOINT STOCK",
+            "city": "MINSK",
+            "branch": "(MINSK REGIONAL OFFICE)",
+            "swift_code": "OLMPBY21130"
+        },
+        {
+            "id": 81,
             "bank": "BELORUSSIAN-RUSSIAN BELGAZPROMBANK JOINT STOCK",
             "city": "MINSK",
             "branch": null,
             "swift_code": "OLMPBY2X"
         },
         {
-            "id": 16,
+            "id": 82,
+            "bank": "BELORUSSIAN-RUSSIAN BELGAZPROMBANK JOINT STOCK",
+            "city": "MOGILEV",
+            "branch": "(MAHILIOU REGIONAL OFFICE)",
+            "swift_code": "OLMPBY21232"
+        },
+        {
+            "id": 83,
+            "bank": "BELORUSSIAN-RUSSIAN BELGAZPROMBANK JOINT STOCK",
+            "city": "VITEBSK",
+            "branch": "(VITIEBSK REGIONAL OFFICE)",
+            "swift_code": "OLMPBY21238"
+        },
+        {
+            "id": 84,
             "bank": "BPS-SBERBANK",
             "city": "MINSK",
             "branch": null,
             "swift_code": "BPSBBY2X"
         },
         {
-            "id": 17,
+            "id": 85,
             "bank": "BTA BANK CJSC",
             "city": "MINSK",
             "branch": null,
             "swift_code": "AEBKBY2X"
         },
         {
-            "id": 18,
+            "id": 86,
             "bank": "CJSC VTB BANK (BELARUS)",
             "city": "MINSK",
             "branch": null,
             "swift_code": "SLANBY22"
         },
         {
-            "id": 19,
+            "id": 87,
             "bank": "EUROTORGINVESTBANK JOINT STOCK COMPANY",
             "city": "MINSK",
             "branch": null,
             "swift_code": "IRJSBY22"
         },
         {
-            "id": 20,
+            "id": 88,
             "bank": "FRANSABANK OJSC",
             "city": "MINSK",
             "branch": null,
             "swift_code": "GTBNBY22"
         },
         {
-            "id": 21,
+            "id": 89,
             "bank": "HOME CREDIT BANK",
             "city": "MINSK",
             "branch": null,
             "swift_code": "LOJSBY22"
         },
         {
-            "id": 22,
+            "id": 90,
             "bank": "IDEA BANK",
             "city": "MINSK",
             "branch": null,
             "swift_code": "SOMABY22"
         },
         {
-            "id": 23,
+            "id": 91,
             "bank": "JOINT STOCK COMPANY 'TECHNOBANK'",
             "city": "MINSK",
             "branch": null,
             "swift_code": "TECNBY22"
         },
         {
-            "id": 24,
+            "id": 92,
             "bank": "JOINT-STOCK COMPANY 'DEVELOPMENT BANK OF THE REPUBLIC OF BELARUS'",
             "city": "MINSK",
             "branch": null,
             "swift_code": "BRRBBY2X"
         },
         {
-            "id": 25,
+            "id": 93,
             "bank": "JSC BSB BANK",
             "city": "MINSK",
             "branch": null,
             "swift_code": "UNBSBY2X"
         },
         {
-            "id": 26,
+            "id": 94,
             "bank": "MINSK TRANSIT BANK",
             "city": "MINSK",
             "branch": null,
             "swift_code": "MTBKBY22"
         },
         {
-            "id": 27,
+            "id": 95,
             "bank": "NATIONAL BANK OF REPUBLIC BELARUS",
             "city": "MINSK",
             "branch": null,
             "swift_code": "NBRBBY2X"
         },
         {
-            "id": 28,
+            "id": 96,
             "bank": "OPEN JOINT-STOCK COMPANY 'PARITETBANK', MINSK",
             "city": "MINSK",
             "branch": null,
             "swift_code": "POISBY2X"
         },
         {
-            "id": 29,
+            "id": 97,
             "bank": "PRIORBANK",
             "city": "BREST",
             "branch": "(BREST BRANCH)",
             "swift_code": "PJCBBY2XBRS"
         },
         {
-            "id": 30,
+            "id": 98,
             "bank": "PRIORBANK",
             "city": "GOMEL",
             "branch": "(GOMEL BRANCH)",
             "swift_code": "PJCBBY2XGML"
         },
         {
-            "id": 31,
+            "id": 99,
             "bank": "PRIORBANK",
             "city": "GRODNO",
             "branch": "(GRODNO BRANCH)",
             "swift_code": "PJCBBY2XGRD"
         },
         {
-            "id": 32,
+            "id": 100,
             "bank": "PRIORBANK",
             "city": "MINSK",
             "branch": "(MINSK BRANCH)",
             "swift_code": "PJCBBY2XMNK"
         },
         {
-            "id": 33,
+            "id": 101,
             "bank": "PRIORBANK",
             "city": "MINSK",
             "branch": null,
             "swift_code": "PJCBBY2X"
         },
         {
-            "id": 34,
+            "id": 102,
             "bank": "PRIORBANK",
             "city": "MOGILEV",
             "branch": "(MOGILEV BRANCH)",
             "swift_code": "PJCBBY2XMGL"
         },
         {
-            "id": 35,
+            "id": 103,
             "bank": "PRIORBANK",
             "city": "VITEBSK",
             "branch": "(VITEBSK BRANCH)",
             "swift_code": "PJCBBY2XVTB"
         },
         {
-            "id": 36,
+            "id": 104,
             "bank": "RECONVERSION AND DEVELOPMENT BANK JSB",
             "city": "MINSK",
             "branch": null,
             "swift_code": "REDJBY22"
         },
         {
-            "id": 37,
+            "id": 105,
+            "bank": "REPUBLICAN UNITARY ENTERPRISE 'REPUBLICAN CENTRAL ECURITIES DEPOSITORY'",
+            "city": "MINSK",
+            "branch": null,
+            "swift_code": "RUERBY21"
+        },
+        {
+            "id": 106,
+            "bank": "SEVERNY INVESTICIONNY BANK",
+            "city": "MINSK",
+            "branch": null,
+            "swift_code": "SEVNBY21"
+        },
+        {
+            "id": 107,
+            "bank": "TRADE AND INDUSTRIAL BANK S.A.",
+            "city": "MINSK",
+            "branch": null,
+            "swift_code": "TRIUBY21"
+        },
+        {
+            "id": 108,
             "bank": "TRUSTBANK",
             "city": "MINSK",
             "branch": null,
             "swift_code": "TRUEBY2X"
         },
         {
-            "id": 38,
+            "id": 109,
             "bank": "ZEPTER BANK",
             "city": "MINSK",
             "branch": null,

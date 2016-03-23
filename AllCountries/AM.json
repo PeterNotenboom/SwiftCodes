@@ -109,41 +109,55 @@
         },
         {
             "id": 16,
+            "bank": "CREDIT-SERVICE BANK",
+            "city": "YEREVAN",
+            "branch": null,
+            "swift_code": "CRDTAM21"
+        },
+        {
+            "id": 17,
+            "bank": "HAYPOST CJSC",
+            "city": "YEREVAN",
+            "branch": null,
+            "swift_code": "HACJAM21"
+        },
+        {
+            "id": 18,
             "bank": "HSBC BANK ARMENIA (FORMERLY MIDLAND ARMENIA BANK)",
             "city": "YEREVAN",
             "branch": null,
             "swift_code": "MIDLAM22"
         },
         {
-            "id": 17,
+            "id": 19,
             "bank": "INECO JOINT STOCK BANK",
             "city": "YEREVAN",
             "branch": null,
             "swift_code": "INJSAM22"
         },
         {
-            "id": 18,
+            "id": 20,
             "bank": "PROCREDIT BANK",
             "city": "YEREVAN",
             "branch": null,
             "swift_code": "PRCBAM22"
         },
         {
-            "id": 19,
+            "id": 21,
             "bank": "PROMETHEY BANK LLC",
             "city": "YEREVAN",
             "branch": null,
             "swift_code": "PRMLAM22"
         },
         {
-            "id": 20,
+            "id": 22,
             "bank": "UNIBANK C.J.S.C",
             "city": "YEREVAN",
             "branch": null,
             "swift_code": "UNIJAM22"
         },
         {
-            "id": 21,
+            "id": 23,
             "bank": "VTB BANK (ARMENIA) CJSC",
             "city": "YEREVAN",
             "branch": null,

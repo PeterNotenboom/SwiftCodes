@@ -4,83 +4,209 @@
     "list": [
         {
             "id": 1,
+            "bank": "3GT ACTIVE TRADING FUNDS PCC LTD",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "ATFCGI21"
+        },
+        {
+            "id": 2,
+            "bank": "BALTICA BANK (GIBRALTAR) LTD",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "BBALGIG1"
+        },
+        {
+            "id": 3,
             "bank": "BANK J. SAFRA SARASIN (GIBRALTAR) LTD",
             "city": "GIBRALTAR",
             "branch": null,
             "swift_code": "BJSBGIGX"
         },
         {
-            "id": 2,
+            "id": 4,
+            "bank": "BARCLAYS BANK PLC",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "BARCGIG10GI"
+        },
+        {
+            "id": 5,
+            "bank": "BARCLAYS BANK PLC",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "BARCGIG1PCI"
+        },
+        {
+            "id": 6,
             "bank": "BARCLAYS BANK PLC",
             "city": "GIBRALTAR",
             "branch": null,
             "swift_code": "BARCGIGI"
         },
         {
-            "id": 3,
+            "id": 7,
+            "bank": "BARCLAYTRUST INTERNATIONAL NOMINEES (GIBRALTAR) LIMITED",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "BIGIGIG1"
+        },
+        {
+            "id": 8,
+            "bank": "CLOSE BROTHERS MARRACHE BANK LIMITED",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "CLOSGIG1"
+        },
+        {
+            "id": 9,
             "bank": "CREDIT SUISSE (GIBRALTAR) LTD",
             "city": "GIBRALTAR",
             "branch": null,
             "swift_code": "CRESGIGI"
         },
         {
-            "id": 4,
+            "id": 10,
+            "bank": "FACTUM CAPITAL LTD",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "FACCGIG1"
+        },
+        {
+            "id": 11,
+            "bank": "GIBRALTAR AND IBERIAN BANK LTD",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "GIBIGIG1"
+        },
+        {
+            "id": 12,
+            "bank": "GIBRALTAR ASSET MANAGEMENT LIMITED",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "GIAMGIG1"
+        },
+        {
+            "id": 13,
             "bank": "GIBRALTAR INTERNATIONAL BANK LIMITED",
             "city": "GIBRALTAR",
             "branch": null,
             "swift_code": "GIBKGIGI"
         },
         {
-            "id": 5,
+            "id": 14,
+            "bank": "GSB LIMITED",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "IETGGIG1"
+        },
+        {
+            "id": 15,
+            "bank": "GUEVORA FUND LIMITED",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "GUFUGIG1"
+        },
+        {
+            "id": 16,
+            "bank": "GUEVOURA FUND LIMITED",
+            "city": "MARINA BAY",
+            "branch": null,
+            "swift_code": "GUFNGIG1"
+        },
+        {
+            "id": 17,
+            "bank": "INDIGO FUTURES LTD.",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "IDFUGIG1"
+        },
+        {
+            "id": 18,
             "bank": "JYSKE BANK (GIBRALTAR) LTD.",
             "city": "GIBRALTAR",
             "branch": null,
             "swift_code": "JYBAGIGI"
         },
         {
-            "id": 6,
+            "id": 19,
             "bank": "LLOYDS BANK (GIBRALTAR) LIMITED",
             "city": "GIBRALTAR",
             "branch": null,
             "swift_code": "LOYDGIGI"
         },
         {
-            "id": 7,
+            "id": 20,
+            "bank": "LLOYDS BANK (GIBRALTAR) LIMITED",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "LOYDGIB1"
+        },
+        {
+            "id": 21,
+            "bank": "LLOYDS TSB BANK PLC",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "LOYDGIG1"
+        },
+        {
+            "id": 22,
             "bank": "LOMBARD ODIER AND CIE (GIBRALTAR) LTD",
             "city": "GIBRALTAR",
             "branch": "(NDP DEPT)",
             "swift_code": "LOCYGIGINDP"
         },
         {
-            "id": 8,
+            "id": 23,
             "bank": "LOMBARD ODIER AND CIE (GIBRALTAR) LTD",
             "city": "GIBRALTAR",
             "branch": null,
             "swift_code": "LOCYGIGI"
         },
         {
-            "id": 9,
+            "id": 24,
+            "bank": "MASSEY FUND LIMITED",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "MSFUGIG1"
+        },
+        {
+            "id": 25,
+            "bank": "NATWEST OFFSHORE-GIBRALTAR",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "RBOSGI21"
+        },
+        {
+            "id": 26,
             "bank": "NATWEST-GIBRALTAR",
             "city": "GIBRALTAR",
             "branch": null,
             "swift_code": "RBOSGIGI"
         },
         {
-            "id": 10,
+            "id": 27,
             "bank": "NOVISTA INSURANCE LTD",
             "city": "GIBRALTAR",
             "branch": null,
             "swift_code": "NOVRGIGI"
         },
         {
-            "id": 11,
+            "id": 28,
             "bank": "SG HAMBROS BANK (GIBRALTAR) LIMITED",
             "city": "GIBRALTAR",
             "branch": null,
             "swift_code": "HAMBGIGI"
         },
         {
-            "id": 12,
+            "id": 29,
+            "bank": "SPRINGFIELD BANK AND TRUST LTD",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "SPRNGIG1"
+        },
+        {
+            "id": 30,
             "bank": "TURICUM PRIVATE BANK LIMITED",
             "city": "GIBRALTAR",
             "branch": null,

@@ -14,112 +14,140 @@
             "bank": "ANTIGUA COMMERCIAL BANK",
             "city": "ST. JOHN'S",
             "branch": null,
-            "swift_code": "ANCBAGAG"
+            "swift_code": "AOBAAGA1"
         },
         {
             "id": 3,
+            "bank": "ANTIGUA COMMERCIAL BANK",
+            "city": "ST. JOHN'S",
+            "branch": null,
+            "swift_code": "ANCBAGAG"
+        },
+        {
+            "id": 4,
             "bank": "ANTIGUA OVERSEAS BANK LTD",
             "city": "ST. JOHN'S",
             "branch": null,
             "swift_code": "AOBKAGAG"
         },
         {
-            "id": 4,
+            "id": 5,
             "bank": "BANK OF NOVA SCOTIA,THE",
             "city": "ST. JOHN'S",
             "branch": null,
             "swift_code": "NOSCAGAG"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "BOI BANK CORPORATION",
             "city": "ST. JOHN'S",
             "branch": null,
             "swift_code": "BOIBAGAG"
         },
         {
-            "id": 6,
+            "id": 7,
             "bank": "BRS BANQUE S.A.",
             "city": "ST. JOHN'S",
             "branch": null,
             "swift_code": "BRSFAGAG"
         },
         {
-            "id": 7,
+            "id": 8,
             "bank": "CARIBBEAN UNION BANK LTD",
             "city": "ST. JOHN'S",
             "branch": null,
             "swift_code": "CUNBAGAG"
         },
         {
-            "id": 8,
+            "id": 9,
             "bank": "CBA BANK AND TRUST INC.",
             "city": "ST. JOHN'S",
             "branch": null,
             "swift_code": "CBATAGAG"
         },
         {
-            "id": 9,
+            "id": 10,
             "bank": "D BANK LTD.",
             "city": "ST. JOHN'S",
             "branch": null,
             "swift_code": "DANLAGAG"
         },
         {
-            "id": 10,
+            "id": 11,
             "bank": "EASTERN CARIBBEAN AMALGAMATED BANK LTD. (ECAB)",
             "city": "COOLIDGE",
             "branch": null,
             "swift_code": "ECABAGAG"
         },
         {
-            "id": 11,
+            "id": 12,
             "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK",
             "city": "ST. JOHN'S",
             "branch": null,
             "swift_code": "FCIBAGAG"
         },
         {
-            "id": 12,
+            "id": 13,
+            "bank": "GLOBAL ALLIANCE BUILDING SOCIETY GLOBAL ALLIANCE GROUP",
+            "city": "ST. JOHN'S",
+            "branch": null,
+            "swift_code": "GABCAGA1"
+        },
+        {
+            "id": 14,
             "bank": "GLOBAL BANK OF COMMERCE, LTD.",
             "city": "ST. JOHN'S",
             "branch": null,
             "swift_code": "GBCLAGAG"
         },
         {
-            "id": 13,
+            "id": 15,
             "bank": "GOVERNMENT OF ANTIGUA AND BARBUDA",
             "city": "ST. JOHN'S",
             "branch": null,
             "swift_code": "GVABAGAG"
         },
         {
-            "id": 14,
+            "id": 16,
             "bank": "MEINL BANK (ANTIGUA) LIMITED",
             "city": "ST. JOHN'S",
             "branch": null,
             "swift_code": "MBALAGAG"
         },
         {
-            "id": 15,
+            "id": 17,
             "bank": "NORTH INTERNATIONAL BANK, LTD.",
             "city": "ST. JOHN'S",
             "branch": null,
             "swift_code": "NOITAGAG"
         },
         {
-            "id": 16,
+            "id": 18,
+            "bank": "PKB PRIVATBANK LTD",
+            "city": "ST. JOHN'S",
+            "branch": null,
+            "swift_code": "PKBSAGA1"
+        },
+        {
+            "id": 19,
             "bank": "ROYAL BANK OF CANADA",
             "city": "ST. JOHN'S",
             "branch": null,
             "swift_code": "ROYCAGAG"
         },
         {
-            "id": 17,
+            "id": 20,
             "bank": "TRIUM BANK AND TRUST LTD.",
             "city": "ST. JOHN'S",
             "branch": null,
             "swift_code": "TBTLAGAG"
+        },
+        {
+            "id": 21,
+            "bank": "V.T.I. BANK LTD",
+            "city": "ST. JOHN'S",
+            "branch": null,
+            "swift_code": "VTIBAGA1"
         }
     ]
 }

@@ -4,2103 +4,3958 @@
     "list": [
         {
             "id": 1,
+            "bank": "ABERDEEN ASSET MANAGEMENT ASIA LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "ABFMSGS1"
+        },
+        {
+            "id": 2,
             "bank": "ABN AMRO BANK N.V. SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": "(COMMERCIAL AND MERCHANT BANKING)",
             "swift_code": "ABNASG2ACMB"
         },
         {
-            "id": 2,
+            "id": 3,
             "bank": "ABN AMRO BANK N.V. SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": "(INTERNATIONAL PRIVATE CLIENTS DEPARTMENT)",
             "swift_code": "ABNASG2AIPC"
         },
         {
-            "id": 3,
+            "id": 4,
             "bank": "ABN AMRO BANK N.V. SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "ABNASG2A"
         },
         {
-            "id": 4,
+            "id": 5,
             "bank": "ABN AMRO CLEARING BANK N.V.",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "ABNCSGSG"
         },
         {
-            "id": 5,
+            "id": 6,
+            "bank": "ABN AMRO CLEARING BANK N.V., SINGAPORE BRANCH",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "FGCISGS1"
+        },
+        {
+            "id": 7,
             "bank": "AFC MERCHANT BANK",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "AFCMSGSG"
         },
         {
-            "id": 6,
+            "id": 8,
             "bank": "AGRICULTURAL BANK OF CHINA LIMITED, SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "ABOCSGSG"
         },
         {
-            "id": 7,
+            "id": 9,
+            "bank": "AIA SINGAPORE PRIVATE LIMITED",
+            "city": "SINGAPORE",
+            "branch": "(GENERAL INVESTMENT OPERATIONS)",
+            "swift_code": "AIACSGG1GIO"
+        },
+        {
+            "id": 10,
             "bank": "AIA SINGAPORE PRIVATE LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "AIACSGSG"
         },
         {
-            "id": 8,
+            "id": 11,
+            "bank": "AIA-WALDEN MANAGEMENT PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "AWMPSGS1"
+        },
+        {
+            "id": 12,
+            "bank": "AL WEALTH PARTNERS PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "WEPPSGS1"
+        },
+        {
+            "id": 13,
+            "bank": "ALLIANCE SECURITIES (PTE)",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "ALLSSGS1"
+        },
+        {
+            "id": 14,
+            "bank": "AMFRASER SECURITIES PTE. LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "FRSESGS1"
+        },
+        {
+            "id": 15,
             "bank": "ANTWERP DIAMOND BANK ASIA PACIFIC LTD",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "ADIASGSG"
         },
         {
-            "id": 9,
+            "id": 16,
+            "bank": "APS ASSET MANAGEMENT PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "APSMSGS1"
+        },
+        {
+            "id": 17,
             "bank": "ARAB BANK PLC",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "ARABSGSG"
         },
         {
-            "id": 10,
+            "id": 18,
+            "bank": "ARTRADIS FUND MANAGEMENT PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "AFMPSGS1"
+        },
+        {
+            "id": 19,
+            "bank": "ASC EQUITY PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "ASEPSGS1"
+        },
+        {
+            "id": 20,
+            "bank": "ASIAN-AMERICAN MERCHANT BANK LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "AAMBSGS1"
+        },
+        {
+            "id": 21,
+            "bank": "AT ASSET MANAGEMENT PTE. LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "ASGPSGS1"
+        },
+        {
+            "id": 22,
             "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "ANZBSGSX"
         },
         {
-            "id": 11,
+            "id": 23,
             "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "ANZBSGSXAFX"
         },
         {
-            "id": 12,
+            "id": 24,
+            "bank": "AXA ROSENBERG INVESTMENT MANAGEMENT ASIA PACIFIC LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "RAAISGS1"
+        },
+        {
+            "id": 25,
             "bank": "AXIS BANK LIMITED",
             "city": "SINGAPORE",
             "branch": "(INTERNATIONAL PRIVATE BANKING)",
             "swift_code": "AXISSGSGIPB"
         },
         {
-            "id": 13,
+            "id": 26,
             "bank": "AXIS BANK LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "AXISSGSG"
         },
         {
-            "id": 14,
+            "id": 27,
+            "bank": "AXIS BANK LIMITED(FORMERLY UTI BANK)",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "UTIBSGS1"
+        },
+        {
+            "id": 28,
             "bank": "BANCO BILBAO VIZCAYA ARGENTARIA SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "BBVASGSG"
         },
         {
-            "id": 15,
+            "id": 29,
             "bank": "BANCO SANTANDER, S.A. SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "BSCHSGSG"
         },
         {
-            "id": 16,
+            "id": 30,
             "bank": "BANGKOK BANK PUBLIC COMPANY LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "BKKBSGSG"
         },
         {
-            "id": 17,
+            "id": 31,
             "bank": "BANK J. SAFRA SARASIN LTD, SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "SARASGSG"
         },
         {
-            "id": 18,
+            "id": 32,
             "bank": "BANK JULIUS BAER AND CO. LTD.",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "BAERSGSG"
         },
         {
-            "id": 19,
+            "id": 33,
             "bank": "BANK MANDIRI (PERSERO)TBK. PT",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "BMRISGSG"
         },
         {
-            "id": 20,
+            "id": 34,
             "bank": "BANK NEGARA INDONESIA (PERSERO) P.T.",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "BNINSGSG"
         },
         {
-            "id": 21,
+            "id": 35,
             "bank": "BANK OF AMERICA (SINGAPORE) LTD.",
             "city": "SINGAPORE",
             "branch": "(EMERGING MARKETS GROUP)",
             "swift_code": "BOFASG3XEMG"
         },
         {
-            "id": 22,
+            "id": 36,
             "bank": "BANK OF AMERICA (SINGAPORE) LTD.",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "BOFASG3X"
         },
         {
-            "id": 23,
+            "id": 37,
             "bank": "BANK OF AMERICA (SINGAPORE) LTD.",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "BOFASG3XJVC"
         },
         {
-            "id": 24,
+            "id": 38,
             "bank": "BANK OF AMERICA, N.A. SINGAPORE",
             "city": "SINGAPORE",
             "branch": "(ASIA CURRENCY UNIT)",
             "swift_code": "BOFASG2XACU"
         },
         {
-            "id": 25,
+            "id": 39,
             "bank": "BANK OF AMERICA, N.A. SINGAPORE",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "BOFASG2X"
         },
         {
-            "id": 26,
+            "id": 40,
             "bank": "BANK OF BARODA",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "BARBSGSG"
         },
         {
-            "id": 27,
+            "id": 41,
             "bank": "BANK OF CHINA LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "BKCHSGSG"
         },
         {
-            "id": 28,
+            "id": 42,
             "bank": "BANK OF COMMUNICATIONS, SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "COMMSGSG"
         },
         {
-            "id": 29,
+            "id": 43,
             "bank": "BANK OF INDIA",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "BKIDSGSG"
         },
         {
-            "id": 30,
+            "id": 44,
             "bank": "BANK OF MONTREAL, SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "BOFMSGSG"
         },
         {
-            "id": 31,
+            "id": 45,
             "bank": "BANK OF SINGAPORE LIMITED (FORMERLY ING ASIA PRIVATE BANK LIMITED)",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "INGPSGSG"
         },
         {
-            "id": 32,
+            "id": 46,
             "bank": "BANK OF TAIWAN",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "BKTWSGSG"
         },
         {
-            "id": 33,
+            "id": 47,
             "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
             "city": "SINGAPORE",
             "branch": "(SINGAPORE BRANCH)",
             "swift_code": "BOTKSGSX"
         },
         {
-            "id": 34,
+            "id": 48,
+            "bank": "BANK OF WESTERN AUSTRALIA LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "BKWASGS1"
+        },
+        {
+            "id": 49,
             "bank": "BANK PICTET AND CIE (ASIA) LTD",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "PICTSGSG"
         },
         {
-            "id": 35,
+            "id": 50,
+            "bank": "BANKING COMPUTER SERVICES PRIVATE LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SACHSGS1"
+        },
+        {
+            "id": 51,
             "bank": "BANQUE INTERNATIONALE A LUXEMBOURG SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "BILLSGSG"
         },
         {
-            "id": 36,
+            "id": 52,
             "bank": "BARCLAYS BANK PLC",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "BARCSGSG"
         },
         {
-            "id": 37,
+            "id": 53,
             "bank": "BARCLAYS BANK PLC",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "BARCSGSW"
         },
         {
-            "id": 38,
+            "id": 54,
+            "bank": "BARCLAYS CAPITAL FUTURES (SINGAPORE) PRIVATE LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "BZWSSGS1"
+        },
+        {
+            "id": 55,
+            "bank": "BARING SECURITIES PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SEBRSGS1"
+        },
+        {
+            "id": 56,
+            "bank": "BLOCSEC PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "BLPTSGS1"
+        },
+        {
+            "id": 57,
             "bank": "BNP PARIBAS - SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": "(COMMODITY FINANCE OPERATION CENTRE)",
             "swift_code": "BNPASGSGGCG"
         },
         {
-            "id": 39,
+            "id": 58,
             "bank": "BNP PARIBAS - SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "BNPASGSG"
         },
         {
-            "id": 40,
+            "id": 59,
             "bank": "BNP PARIBAS - SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "BNPASGSGONG"
         },
         {
-            "id": 41,
+            "id": 60,
+            "bank": "BNP PARIBAS CAPITAL (SINGAPORE) LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "BNPSSGS1"
+        },
+        {
+            "id": 61,
+            "bank": "BNP PARIBAS SECURITIES (SINGAPORE) PTE. LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "BPESSGS1"
+        },
+        {
+            "id": 62,
             "bank": "BNP PARIBAS SECURITIES SERVICES SA",
             "city": "SINGAPORE",
             "branch": "(GLOBAL CUSTODY)",
             "swift_code": "PARBSGSGISI"
         },
         {
-            "id": 42,
+            "id": 63,
             "bank": "BNP PARIBAS SECURITIES SERVICES SA",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "PARBSGSG"
         },
         {
-            "id": 43,
+            "id": 64,
             "bank": "BNP PARIBAS TRUST SERVICES SINGAPORE LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "BPTSSGSG"
         },
         {
-            "id": 44,
+            "id": 65,
             "bank": "BNP PARIBAS WEALTH MANAGEMENT (FORMERLY KNOWN AS BNP PARIBAS PRIVATE BANK)",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "BPPBSGSG"
         },
         {
-            "id": 45,
+            "id": 66,
+            "bank": "BNP PRIME PEREGRINE",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "BNPGSGS1"
+        },
+        {
+            "id": 67,
             "bank": "BORDIER AND CIE (SINGAPORE) LTD",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "BORDSGSX"
         },
         {
-            "id": 46,
+            "id": 68,
             "bank": "BP SINGAPORE PTE LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "BPSISGSG"
         },
         {
-            "id": 47,
+            "id": 69,
+            "bank": "BPI INTERNATIONAL FINANCE LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "BPIISGS1"
+        },
+        {
+            "id": 70,
+            "bank": "BRIDGE CAPITAL",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "BRPTSGS1"
+        },
+        {
+            "id": 71,
+            "bank": "BRITISH AMERICAN TOBACCO (SINGAPORE) PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "BATSSG21"
+        },
+        {
+            "id": 72,
+            "bank": "BRITISH AMERICAN TOBACCO MARKETING (SINGAPORE)PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "BATSSGS1"
+        },
+        {
+            "id": 73,
+            "bank": "BRONTE INVESTMENT MANAGEMENT (SINGAPORE) PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "BIMNSGS1"
+        },
+        {
+            "id": 74,
             "bank": "BSI BANK LIMITED SINGAPORE",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "BSILSGSG"
         },
         {
-            "id": 48,
+            "id": 75,
+            "bank": "BT BROKERAGE AND ASSOCIATES PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "BTBASGS1"
+        },
+        {
+            "id": 76,
+            "bank": "BT FUTURES (SINGAPORE) LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "BTFSSGS1"
+        },
+        {
+            "id": 77,
+            "bank": "BTIG SINGAPORE PTE. LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "BTSPSGS1"
+        },
+        {
+            "id": 78,
+            "bank": "BTM FUTURES PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "BOTFSGS1"
+        },
+        {
+            "id": 79,
+            "bank": "BUNGE AGRIBUSINESS SINGAPORE PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "BLTDSGS1"
+        },
+        {
+            "id": 80,
             "bank": "CANADIAN IMPERIAL BANK OF COMMERCE",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "CIBCSGSG"
         },
         {
-            "id": 49,
+            "id": 81,
+            "bank": "CANTOR FITZGERALD (SINGAPORE) CAPITAL MARKETS LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "CFSPSGS1"
+        },
+        {
+            "id": 82,
             "bank": "CANTOR FITZGERALD (SINGAPORE) CAPITAL MARKETS LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "CFSPSGSX"
         },
         {
-            "id": 50,
+            "id": 83,
+            "bank": "CAPITAL HOUSE INVESTMENT MANAGEMENT (SINGAPORE) PTE",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "CHNGSGS1"
+        },
+        {
+            "id": 84,
+            "bank": "CARGILL FINANCIAL SERVICES ASIA PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "CFSASGS1"
+        },
+        {
+            "id": 85,
             "bank": "CARGILL TSF ASIA PTE. LTD.",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "CTSFSGSG"
         },
         {
-            "id": 51,
+            "id": 86,
             "bank": "CATHAY UNITED BANK SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "UWCBSGSG"
         },
         {
-            "id": 52,
+            "id": 87,
+            "bank": "CAZENOVE AND CO. (SINGAPORE) PTE. LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "CAZESGS1"
+        },
+        {
+            "id": 88,
+            "bank": "CEF (SINGAPORE) LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "CESLSGS1"
+        },
+        {
+            "id": 89,
+            "bank": "CENTRAL PACIFIC FINANCE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "CEPFSGS1"
+        },
+        {
+            "id": 90,
             "bank": "CHANG HWA COMMERCIAL BANK LTD.",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "CCBCSGSG"
         },
         {
-            "id": 53,
+            "id": 91,
+            "bank": "CHARTERED ASSET MANAGEMENT PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "CATPSGS1"
+        },
+        {
+            "id": 92,
+            "bank": "CHASE INVESTMENT BANK (SINGAPORE) LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "CIBSSGS1"
+        },
+        {
+            "id": 93,
             "bank": "CHINA CITIC BANK INTERNATIONAL LIMITED SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "KWHKSGSG"
         },
         {
-            "id": 54,
+            "id": 94,
             "bank": "CHINA CONSTRUCTION BANK CORPORATION, SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "PCBCSGSG"
         },
         {
-            "id": 55,
+            "id": 95,
             "bank": "CHINA MERCHANTS BANK SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "CMBCSGSG"
         },
         {
-            "id": 56,
+            "id": 96,
             "bank": "CIMB BANK BERHAD",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "CIBBSGSG"
         },
         {
-            "id": 57,
+            "id": 97,
+            "bank": "CIMB SECURITIES (SINGAPORE) PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "GKGTSGS1"
+        },
+        {
+            "id": 98,
+            "bank": "CIMB-GK RESEARCH PTE. LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "JGRPSGS1"
+        },
+        {
+            "id": 99,
+            "bank": "CITIBANK SINGAPORE LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "CITISG21"
+        },
+        {
+            "id": 100,
             "bank": "CITIBANK SINGAPORE LTD",
             "city": "SINGAPORE",
             "branch": "(GLOBAL CONSUMER BANKING UNIT)",
             "swift_code": "CITISGSGGCB"
         },
         {
-            "id": 58,
+            "id": 101,
             "bank": "CITIBANK,N.A.",
             "city": "SINGAPORE",
             "branch": "(CC1)",
             "swift_code": "CITISGSGCC1"
         },
         {
-            "id": 59,
+            "id": 102,
             "bank": "CITIBANK,N.A.",
             "city": "SINGAPORE",
             "branch": "(CDP - FOR PRE-AUTHORISED CDP LIMITED USE ONLY)",
             "swift_code": "CITISGSGCDP"
         },
         {
-            "id": 60,
+            "id": 103,
             "bank": "CITIBANK,N.A.",
             "city": "SINGAPORE",
             "branch": "(EMFX CONFIRMATIONS)",
             "swift_code": "CITISGSGEFX"
         },
         {
-            "id": 61,
+            "id": 104,
             "bank": "CITIBANK,N.A.",
             "city": "SINGAPORE",
             "branch": "(NRI TSU)",
             "swift_code": "CITISGSGNRI"
         },
         {
-            "id": 62,
+            "id": 105,
             "bank": "CITIBANK,N.A.",
             "city": "SINGAPORE",
             "branch": "(PRIVATE BANKING GROUP)",
             "swift_code": "CITISGSGPBG"
         },
         {
-            "id": 63,
+            "id": 106,
             "bank": "CITIBANK,N.A.",
             "city": "SINGAPORE",
             "branch": "(RECON TRADE)",
             "swift_code": "CITISGSGDFA"
         },
         {
-            "id": 64,
+            "id": 107,
             "bank": "CITIBANK,N.A.",
             "city": "SINGAPORE",
             "branch": "(SINGAPORE (HUB))",
             "swift_code": "CITISGSGHUB"
         },
         {
-            "id": 65,
+            "id": 108,
             "bank": "CITIBANK,N.A.",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "CITISGSG"
         },
         {
-            "id": 66,
+            "id": 109,
+            "bank": "CITICORP INTERNATIONAL SINGAPORE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "CISISGS1"
+        },
+        {
+            "id": 110,
+            "bank": "CITIGROUP GLOBAL MARKETS SINGAPORE PTE. LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SBSPSGS1"
+        },
+        {
+            "id": 111,
+            "bank": "CITIGROUP GLOBAL MARKETS SINGAPORE SECURITIES PTE.LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SSBGSGS1"
+        },
+        {
+            "id": 112,
+            "bank": "CLARIDEN ASSET MANAGEMENT (SINGAPORE) PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "CAMSSGS1"
+        },
+        {
+            "id": 113,
+            "bank": "CLARIDEN LEU LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "CLARSGS1"
+        },
+        {
+            "id": 114,
+            "bank": "CLSA ASIA PRODUCTS PTE. LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "CSPPSGS1"
+        },
+        {
+            "id": 115,
             "bank": "CLSA SINGAPORE PTE LTD.",
             "city": "SINGAPORE",
             "branch": "(CLSA GLOBAL MARKETS PTE LTD)",
             "swift_code": "CLSSSGSGCHV"
         },
         {
-            "id": 67,
+            "id": 116,
             "bank": "CLSA SINGAPORE PTE LTD.",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "CLSSSGSG"
         },
         {
-            "id": 68,
+            "id": 117,
+            "bank": "COMMERCIAL UNION ASSET MANAGEMENT (SINGAPORE) LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "CUAASGS1"
+        },
+        {
+            "id": 118,
             "bank": "COMMERZBANK AG, SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "COBASGSX"
         },
         {
-            "id": 69,
+            "id": 119,
             "bank": "COMMONWEALTH BANK OF AUSTRALIA",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "CTBASGSG"
         },
         {
-            "id": 70,
+            "id": 120,
             "bank": "COUTTS AND CO LTD",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "COUTSGSG"
         },
         {
-            "id": 71,
+            "id": 121,
             "bank": "CREDIT AGRICOLE (SUISSE)SA - SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "AGRISG2X"
         },
         {
-            "id": 72,
+            "id": 122,
             "bank": "CREDIT AGRICOLE CIB",
             "city": "SINGAPORE",
             "branch": "(COMMODITY)",
             "swift_code": "CRLYSGSGCOM"
         },
         {
-            "id": 73,
+            "id": 123,
             "bank": "CREDIT AGRICOLE CIB",
             "city": "SINGAPORE",
             "branch": "(OPTIM.NET - MT940)",
             "swift_code": "CRLYSGSG940"
         },
         {
-            "id": 74,
+            "id": 124,
             "bank": "CREDIT AGRICOLE CIB",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "CRLYSGSG"
         },
         {
-            "id": 75,
+            "id": 125,
+            "bank": "CREDIT AGRICOLE CIB MERCHANT BANK ASIA LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "IASISGS1"
+        },
+        {
+            "id": 126,
             "bank": "CREDIT INDUSTRIEL ET COMMERCIAL - SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "CMCISGSG"
         },
         {
-            "id": 76,
+            "id": 127,
+            "bank": "CREDIT LYONNAIS INTERNATIONAL ASSET MANAGEMENT (S) LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "CLIASGS1"
+        },
+        {
+            "id": 128,
+            "bank": "CREDIT LYONNAIS ROUSE (PTE) LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "ROUSSGS1"
+        },
+        {
+            "id": 129,
             "bank": "CREDIT SUISSE (SINGAPORE) LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "CSFBSGSX"
         },
         {
-            "id": 77,
+            "id": 130,
             "bank": "CREDIT SUISSE AG, SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": "(SINGAPORE BRANCH)",
             "swift_code": "CRESSGSG"
         },
         {
-            "id": 78,
+            "id": 131,
             "bank": "CREDIT SUISSE AG, SINGAPORE PRIVATE BANKING",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "CSPBSGSG"
         },
         {
-            "id": 79,
+            "id": 132,
+            "bank": "CREDIT SUISSE FIRST BOSTON (SINGAPORE) FUTURES PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "FBSFSGS1"
+        },
+        {
+            "id": 133,
+            "bank": "CREDIT SUISSE FIRST BOSTON PACIFIC LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "CSFBSGP1"
+        },
+        {
+            "id": 134,
             "bank": "CREDIT SUISSE SECURITIES (SINGAPORE) PTE LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "CSFBSGSE"
         },
         {
-            "id": 80,
+            "id": 135,
+            "bank": "CREDIT SUISSE SECURITIES (SINGAPORE) PTE. LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "BZWPSGS1"
+        },
+        {
+            "id": 136,
             "bank": "CTBC BANK CO., LTD., SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "CTCBSGSG"
         },
         {
-            "id": 81,
+            "id": 137,
+            "bank": "CYS EXPRESS EXCHANGE PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "CYSSSGS1"
+        },
+        {
+            "id": 138,
             "bank": "DAIMLER SOUTH EAST ASIA PTE.LTD.",
             "city": "SINGAPORE",
             "branch": "(INDUSTRIAL ACCOUNTS)",
             "swift_code": "DCAGSGSGIBA"
         },
         {
-            "id": 82,
+            "id": 139,
             "bank": "DAIMLER SOUTH EAST ASIA PTE.LTD.",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "DCAGSGSG"
         },
         {
-            "id": 83,
+            "id": 140,
             "bank": "DAIMLER SOUTH EAST ASIA PTE.LTD.",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "DCAGSGSGTWN"
         },
         {
-            "id": 84,
+            "id": 141,
+            "bank": "DAIWA ASSET MANAGEMENT (SINGAPORE) LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "DAMLSGS1"
+        },
+        {
+            "id": 142,
+            "bank": "DAIWA CAPITAL MARKETS FUTURES PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "DAWASGS1"
+        },
+        {
+            "id": 143,
+            "bank": "DAIWA CAPITAL MARKETS INVESTMENT SERVICES PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "DAWSSGS1"
+        },
+        {
+            "id": 144,
             "bank": "DAIWA CAPITAL MARKETS SINGAPORE LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "DASMSGSG"
         },
         {
-            "id": 85,
+            "id": 145,
+            "bank": "DAIWA INSTITUTE OF RESEARCH (SINGAPORE) PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "DIRSSGS1"
+        },
+        {
+            "id": 146,
+            "bank": "DAIWA SB INVESTMENTS (SINGAPORE) LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "DICMSGS1"
+        },
+        {
+            "id": 147,
             "bank": "DBS BANK LTD.",
             "city": "SINGAPORE",
             "branch": "(DERIVATIVES OPERATION DEPARTMENT)",
             "swift_code": "DBSSSGSGDOD"
         },
         {
-            "id": 86,
+            "id": 148,
             "bank": "DBS BANK LTD.",
             "city": "SINGAPORE",
             "branch": "(INVESTMENT BANKING DEPARTMENT)",
             "swift_code": "DBSSSGSGIBD"
         },
         {
-            "id": 87,
+            "id": 149,
             "bank": "DBS BANK LTD.",
             "city": "SINGAPORE",
             "branch": "(LA REP OFFICE)",
             "swift_code": "DBSSSGSGLAO"
         },
         {
-            "id": 88,
+            "id": 150,
             "bank": "DBS BANK LTD.",
             "city": "SINGAPORE",
             "branch": "(PCG - PRIVATE BANKING DEPARTMENT)",
             "swift_code": "DBSSSGSGPCG"
         },
         {
-            "id": 89,
+            "id": 151,
             "bank": "DBS BANK LTD.",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "DBSSSGSG"
         },
         {
-            "id": 90,
+            "id": 152,
+            "bank": "DBS CAPITAL INVESTMENTS LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "DBCISGS1"
+        },
+        {
+            "id": 153,
             "bank": "DBS GROUP HOLDINGS",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "DBGHSGSG"
         },
         {
-            "id": 91,
+            "id": 154,
+            "bank": "DBS TRADING (PTE) LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "DBSTSGS1"
+        },
+        {
+            "id": 155,
             "bank": "DBS VICKERS SECURITIES (SINGAPORE) PTE LTD",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "DBSESGSG"
         },
         {
-            "id": 92,
+            "id": 156,
+            "bank": "DBSN SERVICES PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "DBSNSGS1"
+        },
+        {
+            "id": 157,
+            "bank": "DEUTSCHE ASIA AND PARTNERS SECURITIES PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "MGAPSGS1"
+        },
+        {
+            "id": 158,
             "bank": "DEUTSCHE BANK AG",
             "city": "SINGAPORE",
             "branch": "(CASH ADMIN)",
             "swift_code": "DEUTSGSREBP"
         },
         {
-            "id": 93,
+            "id": 159,
             "bank": "DEUTSCHE BANK AG",
             "city": "SINGAPORE",
             "branch": "(REGIONAL HEAD OFFICE)",
             "swift_code": "DEUTSGSR"
         },
         {
-            "id": 94,
+            "id": 160,
             "bank": "DEUTSCHE BANK AG",
             "city": "SINGAPORE",
             "branch": "(SINGAPORE BRANCH)",
             "swift_code": "DEUTSGSGCUS"
         },
         {
-            "id": 95,
+            "id": 161,
             "bank": "DEUTSCHE BANK AG",
             "city": "SINGAPORE",
             "branch": "(SINGAPORE BRANCH)",
             "swift_code": "DEUTSGSGGMO"
         },
         {
-            "id": 96,
+            "id": 162,
             "bank": "DEUTSCHE BANK AG",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "DEUTSGSG"
         },
         {
-            "id": 97,
+            "id": 163,
             "bank": "DEUTSCHE BANK AG",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "DEUTSGSGDIA"
         },
         {
-            "id": 98,
+            "id": 164,
             "bank": "DEUTSCHE BANK AG (PRIVATE BANKING)",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "DEUTSGSP"
         },
         {
-            "id": 99,
+            "id": 165,
             "bank": "DKSH MANAGEMENT PTE LTD",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "DKSHSGSG"
         },
         {
-            "id": 100,
+            "id": 166,
             "bank": "DNB ASIA LTD.",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "DNBASGSGMER"
         },
         {
-            "id": 101,
+            "id": 167,
             "bank": "DNB BANK ASA, SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "DNBASGSG"
         },
         {
-            "id": 102,
+            "id": 168,
+            "bank": "DOW FINANCIAL SERVICES INC. SINGAPORE",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "DFSISGS1"
+        },
+        {
+            "id": 169,
+            "bank": "DUET",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "DUETSGS1"
+        },
+        {
+            "id": 170,
             "bank": "DVB GROUP MERCHANT BANK (ASIA) LTD",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "DVKBSGSG"
         },
         {
-            "id": 103,
+            "id": 171,
+            "bank": "DYMON ASIA CAPITAL",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "DMACSGS1"
+        },
+        {
+            "id": 172,
+            "bank": "DYNAMIC OIL TRADING (SINGAPORE) PTE. LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "DOTISGS1"
+        },
+        {
+            "id": 173,
             "bank": "DZ BANK AG, SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "GENOSGSG"
         },
         {
-            "id": 104,
+            "id": 174,
             "bank": "E.SUN COMMERCIAL BANK, LTD.",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "ESUNSGSG"
         },
         {
-            "id": 105,
+            "id": 175,
             "bank": "EASTSPRING INVESTMENTS SINGAPORE LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "ESINSGSG"
         },
         {
-            "id": 106,
+            "id": 176,
+            "bank": "ECICS INVESTMENTS PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "ECIPSGS1"
+        },
+        {
+            "id": 177,
+            "bank": "EFFISSIMO CAPITAL MANAGEMENT PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "ECMPSGS1"
+        },
+        {
+            "id": 178,
             "bank": "EFG BANK AG SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "EFGBSGSG"
         },
         {
-            "id": 107,
+            "id": 179,
+            "bank": "ELLIOTT AND CARMEN GROUP LLP",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "ECGLSGS1"
+        },
+        {
+            "id": 180,
+            "bank": "ELLIOTT AND CARMEN INTERNATIONAL LLP",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "ECQLSGS1"
+        },
+        {
+            "id": 181,
             "bank": "EMIRATES NBD BANK PJSC (ENBD)",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "EBILSGSG"
         },
         {
-            "id": 108,
+            "id": 182,
             "bank": "FALCON PRIVATE BANK LTD SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "UEBESGSG"
         },
         {
-            "id": 109,
+            "id": 183,
             "bank": "FAR EASTERN BANK LTD",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "FAEASGSG"
         },
         {
-            "id": 110,
+            "id": 184,
+            "bank": "FIL INVESTMENT MANAGEMENT (SINGAPORE) LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "FIISSGS1"
+        },
+        {
+            "id": 185,
             "bank": "FIRST COMMERCIAL BANK, LTD.",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "FCBKSGSG"
         },
         {
-            "id": 111,
+            "id": 186,
             "bank": "FIRST GULF BANK, SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "FGBMSGSG"
         },
         {
-            "id": 112,
+            "id": 187,
+            "bank": "FITCH RATINGS SINGAPORE PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "FRIPSGS1"
+        },
+        {
+            "id": 188,
             "bank": "FLEXTRONICS INTERNATIONAL LTD",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "FLEISGSG"
         },
         {
-            "id": 113,
+            "id": 189,
+            "bank": "FPB ASIA LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "FPASSGS1"
+        },
+        {
+            "id": 190,
             "bank": "FRASER AND NEAVE, LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "FANLSGSG"
         },
         {
-            "id": 114,
+            "id": 191,
             "bank": "FULLERTON (PRIVATE) LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "THPLSGSG"
         },
         {
-            "id": 115,
+            "id": 192,
             "bank": "FULLERTON FUND MANAGEMENT COMPANY LTD",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "FFMCSGSG"
         },
         {
-            "id": 116,
+            "id": 193,
+            "bank": "GALENA ASSET MANAGEMENT (ASIA) PTE . LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "GANSSGS1"
+        },
+        {
+            "id": 194,
             "bank": "GIC PRIVATE LIMITED",
             "city": "SINGAPORE",
             "branch": "(TBC)",
             "swift_code": "GSICSGSGBAC"
         },
         {
-            "id": 117,
+            "id": 195,
             "bank": "GIC PRIVATE LIMITED",
             "city": "SINGAPORE",
             "branch": "(TBC)",
             "swift_code": "GSICSGSGCAC"
         },
         {
-            "id": 118,
+            "id": 196,
             "bank": "GIC PRIVATE LIMITED",
             "city": "SINGAPORE",
             "branch": "(TBC)",
             "swift_code": "GSICSGSGHAC"
         },
         {
-            "id": 119,
+            "id": 197,
             "bank": "GIC PRIVATE LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "GSICSGSG"
         },
         {
-            "id": 120,
+            "id": 198,
             "bank": "GOLDMAN SACHS (SINGAPORE) PTE",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "GSSGSGSG"
         },
         {
-            "id": 121,
+            "id": 199,
+            "bank": "GOLDMAN SACHS ASSET MANAGEMENT INTL SINGAPORE",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "GSAMSGS1"
+        },
+        {
+            "id": 200,
+            "bank": "GOLDMAN SACHS FUTURES PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "GSFSSGS1"
+        },
+        {
+            "id": 201,
+            "bank": "GOOGLE ASIA PACIFIC PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "GOOGSGS1"
+        },
+        {
+            "id": 202,
+            "bank": "GORDIAN CAPITAL SINGAPORE PRIVATE LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "GCSPSGS1"
+        },
+        {
+            "id": 203,
+            "bank": "GRAINS AND INDUSTRIAL PRODUCTS PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "BLTDSG21"
+        },
+        {
+            "id": 204,
+            "bank": "GRAND ORIENT SECURITIES PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "GOSESGS1"
+        },
+        {
+            "id": 205,
+            "bank": "GUOCOLAND RETAIL MANAGEMENT PTE. LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "FCFMSGS1"
+        },
+        {
+            "id": 206,
             "bank": "HABIB BANK LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "HABBSGSG"
         },
         {
-            "id": 122,
+            "id": 207,
             "bank": "HANG SENG BANK LIMITED, SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "HASESGSG"
         },
         {
-            "id": 123,
+            "id": 208,
+            "bank": "HARLOW, UEDA, SASSOON (SINGAPORE) PRIVATE LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "HUSISGS1"
+        },
+        {
+            "id": 209,
+            "bank": "HAVENPORT ASSET MANAGEMENT PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "HVPASGS1"
+        },
+        {
+            "id": 210,
+            "bank": "HAVENPORT ASSET MANAGEMENT PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "LMAMSGS1"
+        },
+        {
+            "id": 211,
+            "bank": "HBZ INTERNATIONAL EXCHANGE CO (SINGAPORE) PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "HIEESGS1"
+        },
+        {
+            "id": 212,
             "bank": "HELVETIC INVESTMENTS PTE. LTD.",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "HIPLSGSG"
         },
         {
-            "id": 124,
+            "id": 213,
+            "bank": "HEWLETT-PACKARD SINGAPORE (PRIVATE) LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "HESISGS1"
+        },
+        {
+            "id": 214,
+            "bank": "HEWLETT-PACKARD SINGAPORE (SALES) PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "HSSPSGS1"
+        },
+        {
+            "id": 215,
             "bank": "HITACHI INTERNATIONAL TREASURY LTD.",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "HITLSGSG"
         },
         {
-            "id": 125,
+            "id": 216,
             "bank": "HITACHI INTERNATIONAL TREASURY LTD.",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "HITLSGSGHKB"
         },
         {
-            "id": 126,
+            "id": 217,
             "bank": "HL BANK, SINGAPORE",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "HLBBSGSG"
         },
         {
-            "id": 127,
+            "id": 218,
+            "bank": "HSBC FUTURES (SINGAPORE) PTE LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "HSBCSGS1"
+        },
+        {
+            "id": 219,
+            "bank": "HSBC GLOBAL ASSET MANAGEMENT (SINGAPORE) LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "HSMSSGS1"
+        },
+        {
+            "id": 220,
             "bank": "HSBC INSTITUTIONAL TRUST SERVICES (SINGAPORE) LIMITED",
             "city": "SINGAPORE",
             "branch": "(GLOBAL CUSTODY ASIA)",
             "swift_code": "BBDASGSXGCA"
         },
         {
-            "id": 128,
+            "id": 221,
             "bank": "HSBC INSTITUTIONAL TRUST SERVICES (SINGAPORE) LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "BBDASGSX"
         },
         {
-            "id": 129,
+            "id": 222,
             "bank": "HSBC SECURITIES (SINGAPORE) PTE LTD",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "HJCSSGSG"
         },
         {
-            "id": 130,
+            "id": 223,
             "bank": "HSH NORDBANK AG",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "HSHNSGSG"
         },
         {
-            "id": 131,
+            "id": 224,
             "bank": "HSH NORDBANK AG",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "HSHNSGSG"
         },
         {
-            "id": 132,
+            "id": 225,
             "bank": "HUA NAN COMMERCIAL BANK, SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "HNBKSGSG"
         },
         {
-            "id": 133,
+            "id": 226,
+            "bank": "ICAP AP (SINGAPORE) PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "APPLSGS1"
+        },
+        {
+            "id": 227,
+            "bank": "ICAP AP (SINGAPORE) PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "APPLSGS1"
+        },
+        {
+            "id": 228,
             "bank": "ICBC STANDARD BANK PLC, SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "SBSASGSG"
         },
         {
-            "id": 134,
+            "id": 229,
             "bank": "ICE CLEAR SINGAPORE PTE LTD",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "ICIPSGSG"
         },
         {
-            "id": 135,
+            "id": 230,
             "bank": "ICICI BANK LIMITED",
             "city": "SINGAPORE",
             "branch": "(SINGAPORE BRANCH)",
             "swift_code": "ICICSGSGCTS"
         },
         {
-            "id": 136,
+            "id": 231,
             "bank": "ICICI BANK LIMITED",
             "city": "SINGAPORE",
             "branch": "(SINGAPORE BRANCH)",
             "swift_code": "ICICSGSGIPB"
         },
         {
-            "id": 137,
+            "id": 232,
             "bank": "ICICI BANK LIMITED",
             "city": "SINGAPORE",
             "branch": "(SINGAPORE BRANCH)",
             "swift_code": "ICICSGSGMOG"
         },
         {
-            "id": 138,
+            "id": 233,
             "bank": "ICICI BANK LIMITED",
             "city": "SINGAPORE",
             "branch": "(SMXCC)",
             "swift_code": "ICICSGSGSMS"
         },
         {
-            "id": 139,
+            "id": 234,
             "bank": "ICICI BANK LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "ICICSGSGRET"
         },
         {
-            "id": 140,
+            "id": 235,
             "bank": "ICICI BANK LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "ICICSGSG"
         },
         {
-            "id": 141,
+            "id": 236,
             "bank": "ICICI BANK LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "ICICSGSGCOP"
         },
         {
-            "id": 142,
+            "id": 237,
+            "bank": "IIFL SECURITIES PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "IIFLSGS1"
+        },
+        {
+            "id": 238,
             "bank": "INDIAN BANK",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "IDIBSGSG"
         },
         {
-            "id": 143,
+            "id": 239,
             "bank": "INDIAN OVERSEAS BANK",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "IOBASGSG"
         },
         {
-            "id": 144,
+            "id": 240,
             "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
             "city": "SINGAPORE",
             "branch": "(RMB CLEARING BANK)",
             "swift_code": "ICBKSGSGCLR"
         },
         {
-            "id": 145,
+            "id": 241,
             "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "ICBKSGSG"
         },
         {
-            "id": 146,
+            "id": 242,
+            "bank": "ING ASSET MANAGEMENT (SINGAPORE) LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "INAASGS1"
+        },
+        {
+            "id": 243,
             "bank": "ING BANK N.V.",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "INGBSGSG"
         },
         {
-            "id": 147,
+            "id": 244,
+            "bank": "ING BARINGS SINGAPORE",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "INBNSGS1"
+        },
+        {
+            "id": 245,
+            "bank": "ING FUTURES AND OPTIONS (SINGAPORE) PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "INGFSGS1"
+        },
+        {
+            "id": 246,
+            "bank": "INSTINCT ASSET MANAGEMENT",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "ISATSGS1"
+        },
+        {
+            "id": 247,
+            "bank": "INSTINET SINGAPORE SERVICES PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "ISSPSGS1"
+        },
+        {
+            "id": 248,
             "bank": "INTERNATIONAL SOS PTE LTD",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "ISOSSGSG"
         },
         {
-            "id": 148,
+            "id": 249,
             "bank": "INTEROIL SINGAPORE PTE LTD",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "IOCSSGSG"
         },
         {
-            "id": 149,
+            "id": 250,
             "bank": "INTESA SANPAOLO S.P.A. (FORMER SANPAOLO IMI), SINGAPORE BRANCH, SINGAPORE",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "BCITSGSG"
         },
         {
-            "id": 150,
+            "id": 251,
             "bank": "INVESTMENT COMPANY OF THE PEOPLE'S REPUBLIC OF CHINA (SINGAPORE) PTE LTD., SINGAPORE",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "PBOCSGSG"
         },
         {
-            "id": 151,
+            "id": 252,
+            "bank": "IPP FINANCIAL ADVISERS PTE. LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "IPPPSGS1"
+        },
+        {
+            "id": 253,
+            "bank": "ITOCHU CAPITAL AND INVESTMENT (ASIA) LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "ICISSGS1"
+        },
+        {
+            "id": 254,
+            "bank": "IVALDI CAPITAL PTE. LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "IVCPSGS1"
+        },
+        {
+            "id": 255,
+            "bank": "IVENIO HOLDINGS PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "IVHPSGS1"
+        },
+        {
+            "id": 256,
             "bank": "J.P. MORGAN (S.E.A.) LIMITED",
             "city": "SINGAPORE",
             "branch": "(TEST KEY AND BKE ADMINISTRATION)",
             "swift_code": "CMSESGSGKEY"
         },
         {
-            "id": 152,
+            "id": 257,
             "bank": "J.P. MORGAN (S.E.A.) LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "CMSESGSG"
         },
         {
-            "id": 153,
+            "id": 258,
+            "bank": "J.P. MORGAN SECURITES SINGAPORE PRIVATE LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "JPSESGS1"
+        },
+        {
+            "id": 259,
+            "bank": "J.P. MORGAN SECURITIES ASIA PRIVATE LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "JPMSSGS1"
+        },
+        {
+            "id": 260,
+            "bank": "JARDINE FLEMING SINGAPORE SECURITIES PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "JFSSSGS1"
+        },
+        {
+            "id": 261,
+            "bank": "JL CAPITAL PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "CPPESGS1"
+        },
+        {
+            "id": 262,
+            "bank": "JP MORGAN FUTURES INC.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "MFCSSGS1"
+        },
+        {
+            "id": 263,
             "bank": "JPMORGAN CHASE BANK, N.A.",
             "city": "SINGAPORE",
             "branch": "(FX TRADER SUPPORT, SINGAPORE)",
             "swift_code": "CHASSGSGTRO"
         },
         {
-            "id": 154,
+            "id": 264,
             "bank": "JPMORGAN CHASE BANK, N.A.",
             "city": "SINGAPORE",
             "branch": "(PRIVATE BANKING DEPARTMENT)",
             "swift_code": "CHASSGSGPBI"
         },
         {
-            "id": 155,
+            "id": 265,
             "bank": "JPMORGAN CHASE BANK, N.A.",
             "city": "SINGAPORE",
             "branch": "(TEST KEY AND BKE ADMINISTRATION)",
             "swift_code": "CHASSGSGKEY"
         },
         {
-            "id": 156,
+            "id": 266,
             "bank": "JPMORGAN CHASE BANK, N.A.",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "CHASSGSG"
         },
         {
-            "id": 157,
+            "id": 267,
             "bank": "JPMORGAN CHASE BANK,N.A.",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "CHASSGSP"
         },
         {
-            "id": 158,
+            "id": 268,
+            "bank": "KANKAKU (SINGAPORE) LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "NKMSSGS1"
+        },
+        {
+            "id": 269,
             "bank": "KBC BANK SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "KREDSGSX"
         },
         {
-            "id": 159,
+            "id": 270,
             "bank": "KEB HANA BANK SINGAPORE BRANCH (FORMERLY KOREA EXCHANGE BANK SINGAPORE BRANCH)",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "KOEXSGSG"
         },
         {
-            "id": 160,
+            "id": 271,
+            "bank": "KEPPEL BULLION AND FUTURES PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "KEPPSGS1"
+        },
+        {
+            "id": 272,
             "bank": "KEPPEL CORPORATION LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "KEPCSGSG"
         },
         {
-            "id": 161,
+            "id": 273,
+            "bank": "KEPPEL SECURITIES PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "KEPSSGS1"
+        },
+        {
+            "id": 274,
             "bank": "KEYSIGHT TECHNOLOGIES SINGAPORE (HOLDINGS) PTE LTD",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "KSIGSGSG"
         },
         {
-            "id": 162,
+            "id": 275,
+            "bank": "KHATTAR CAPITAL INTERNATIONAL PTE. LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SAPTSGS1"
+        },
+        {
+            "id": 276,
+            "bank": "KIM ENG FUTURES PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "KMEFSGS1"
+        },
+        {
+            "id": 277,
+            "bank": "KIM ENG SECURITIES PTE. LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "KMESSGS1"
+        },
+        {
+            "id": 278,
+            "bank": "KIMCO JAPAN LONG SHORT",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "KJLSSGS1"
+        },
+        {
+            "id": 279,
+            "bank": "KIMCO MAC",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "KIMCSGS1"
+        },
+        {
+            "id": 280,
+            "bank": "KLEINWORT BENSON RESEARCH (ASIA) PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "KBRASGS1"
+        },
+        {
+            "id": 281,
             "bank": "KRUNG THAI BANK PLC, SINGAPORE BRAN CH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "KRTHSGSG"
         },
         {
-            "id": 163,
+            "id": 282,
             "bank": "LAND BANK OF TAIWAN, SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "LBOTSGSG"
         },
         {
-            "id": 164,
+            "id": 283,
             "bank": "LANDESBANK BADEN-WUERTTEMBERG",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "SOLASGSG"
         },
         {
-            "id": 165,
+            "id": 284,
+            "bank": "LEE AND CO (STOCK AND SHARE BROKERS) PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "LEECSGS1"
+        },
+        {
+            "id": 285,
+            "bank": "LEHMAN BROTHERS CAPITAL ASIA PTE. LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "LBCASGS1"
+        },
+        {
+            "id": 286,
+            "bank": "LEHMAN BROTHERS PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "LEBPSGS1"
+        },
+        {
+            "id": 287,
+            "bank": "LEHMAN BROTHERS PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "LSINSGS1"
+        },
+        {
+            "id": 288,
+            "bank": "LEHMAN BROTHERS SINGAPORE PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "LBPSSGS1"
+        },
+        {
+            "id": 289,
+            "bank": "LG DISPLAY SINGAPORE PTE. LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "LGDTSGS1"
+        },
+        {
+            "id": 290,
             "bank": "LGT BANK (SINGAPORE) LTD.",
             "city": "SINGAPORE",
             "branch": "(EX CUSTODY)",
             "swift_code": "BLFLSGSGEXC"
         },
         {
-            "id": 166,
+            "id": 291,
             "bank": "LGT BANK (SINGAPORE) LTD.",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "BLFLSGSG"
         },
         {
-            "id": 167,
+            "id": 292,
+            "bank": "LIANHE INVESTMENTS PTE. LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "LHIVSGL1"
+        },
+        {
+            "id": 293,
+            "bank": "LIM AND TAN SECURITIES PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "LIMTSGS1"
+        },
+        {
+            "id": 294,
             "bank": "LION GLOBAL INVESTORS LTD",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "OAMLSGSG"
         },
         {
-            "id": 168,
+            "id": 295,
             "bank": "LLOYDS BANK PLC, SINGAPORE",
             "city": "SINGAPORE",
             "branch": "(MONEY MARKETS)",
             "swift_code": "LOYDSGSAMKT"
         },
         {
-            "id": 169,
+            "id": 296,
             "bank": "LLOYDS BANK PLC, SINGAPORE",
             "city": "SINGAPORE",
             "branch": "(TRADE SERVICES)",
             "swift_code": "LOYDSGSATRD"
         },
         {
-            "id": 170,
+            "id": 297,
             "bank": "LLOYDS BANK PLC, SINGAPORE",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "LOYDSGSA"
         },
         {
-            "id": 171,
+            "id": 298,
             "bank": "LLOYDS BANK PLC, SINGAPORE",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "LOYDSGSG"
         },
         {
-            "id": 172,
+            "id": 299,
+            "bank": "LLOYDS TSB MERCHANT BANK LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "HSAMSGS1"
+        },
+        {
+            "id": 300,
             "bank": "LOMBARD ODIER (SINGAPORE) LTD",
             "city": "SINGAPORE",
             "branch": "(NDP DEPT)",
             "swift_code": "LOCYSGSGNDP"
         },
         {
-            "id": 173,
+            "id": 301,
             "bank": "LOMBARD ODIER (SINGAPORE) LTD",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "LOCYSGSG"
         },
         {
-            "id": 174,
+            "id": 302,
+            "bank": "LSI TECHNOLOGIES SINGAPORE PTE. LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "LTSPSGS1"
+        },
+        {
+            "id": 303,
+            "bank": "LTCB MERCHANT BANK (SINGAPORE) LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "LMBSSGS1"
+        },
+        {
+            "id": 304,
+            "bank": "LUM CHANG SECURITIES PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "LUMCSGS1"
+        },
+        {
+            "id": 305,
             "bank": "MACQUARIE BANK LIMITED, SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "MACQSGSG"
         },
         {
-            "id": 175,
+            "id": 306,
+            "bank": "MACQUARIE CAPITAL SECURITIES (SINGAPORE) PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "BSSLSGS1"
+        },
+        {
+            "id": 307,
             "bank": "MALAYAN BANKING BERHAD",
             "city": "SINGAPORE",
             "branch": "(REGIONAL WEALTH MANAGEMENT)",
             "swift_code": "MBBESGSGRWM"
         },
         {
-            "id": 176,
+            "id": 308,
             "bank": "MALAYAN BANKING BERHAD",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "MBBESGSG"
         },
         {
-            "id": 177,
+            "id": 309,
             "bank": "MANULIFE (SINGAPORE) PTE. LTD",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "MFCTSGSG"
         },
         {
-            "id": 178,
+            "id": 310,
+            "bank": "MANULIFE ASSET MANAGEMENT (SINGAPORE) PTE. LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "MSMNSGS1"
+        },
+        {
+            "id": 311,
+            "bank": "MARTIN-BIERBAUM (SINGAPORE) PRIVATE LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "BIEMSGS1"
+        },
+        {
+            "id": 312,
+            "bank": "MAYBANK KIM ENG SECURITIES PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "MKEESGS1"
+        },
+        {
+            "id": 313,
             "bank": "MAYWOOD ASSET MANAGEMENT PTE. LTD.",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "MSMPSGSG"
         },
         {
-            "id": 179,
+            "id": 314,
+            "bank": "MAYWOOD ASSET MANAGEMENT PTE. LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "MSMPSGS1"
+        },
+        {
+            "id": 315,
+            "bank": "MBL MERCHANT BANK (SINGAPORE) LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "MMBSSGS1"
+        },
+        {
+            "id": 316,
             "bank": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD., SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "ICBCSGSG"
         },
         {
-            "id": 180,
+            "id": 317,
             "bank": "MERCEDES-BENZ FINANCIAL SERVICES SINGAPORE PTE LTD",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "DFISSGSG"
         },
         {
-            "id": 181,
+            "id": 318,
             "bank": "MERRILL LYNCH (SINGAPORE) PTE. LTD.",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "MLSSSGSG"
         },
         {
-            "id": 182,
+            "id": 319,
             "bank": "MERRILL LYNCH (SINGAPORE) PTE. LTD.",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "MLSSSGSGIND"
         },
         {
-            "id": 183,
+            "id": 320,
             "bank": "MERRILL LYNCH MARKETS SINGAPORE PTE. LTD.",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "MLMSSGSG"
         },
         {
-            "id": 184,
+            "id": 321,
+            "bank": "MERRILL LYNCH SINGAPORE COMMODITIES PTE. LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "MLFSSGS1"
+        },
+        {
+            "id": 322,
             "bank": "MESITIS CAPITAL PTE LTD",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "MCAPSGSG"
         },
         {
-            "id": 185,
+            "id": 323,
+            "bank": "MF GLOBAL SINGAPORE PTE. LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SCFTSGS1"
+        },
+        {
+            "id": 324,
+            "bank": "MF GLOBAL SINGAPORE PTE. LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "MFGLSGS1"
+        },
+        {
+            "id": 325,
+            "bank": "MGEC GROUP PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "MGGPSGS1"
+        },
+        {
+            "id": 326,
+            "bank": "MILLENNIUM SECURITIES PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "MISTSGS1"
+        },
+        {
+            "id": 327,
+            "bank": "MINEX CORPORATION SINGAPORE PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "MINXSGS1"
+        },
+        {
+            "id": 328,
+            "bank": "MITSUBISHI UFJ SECURITIES (SINGAPORE), LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "BOISSGS1"
+        },
+        {
+            "id": 329,
             "bank": "MITSUBISHI UFJ TRUST AND BANKING CORPORATION",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "MTBCSGSG"
         },
         {
-            "id": 186,
+            "id": 330,
             "bank": "MIZUHO BANK, LTD. SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "MHCBSGSG"
         },
         {
-            "id": 187,
+            "id": 331,
+            "bank": "MIZUHO FUTURES (SINGAPORE) PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "FUJISGS1"
+        },
+        {
+            "id": 332,
             "bank": "MONETARY AUTHORITY OF SINGAPORE (THE)",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "MASGSGSM"
         },
         {
-            "id": 188,
+            "id": 333,
             "bank": "MONETARY AUTHORITY OF SINGAPORE, THE",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "MASGSGSG"
         },
         {
-            "id": 189,
+            "id": 334,
+            "bank": "MOODY'S SINGAPORE PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "MOITSGS1"
+        },
+        {
+            "id": 335,
             "bank": "MORGAN STANLEY ASIA INTERNATIONAL LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "MSSASGSG"
         },
         {
-            "id": 190,
+            "id": 336,
             "bank": "MORGAN STANLEY INVESTMENT MANAGEMENT COMPANY",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "MSAMSGSX"
         },
         {
-            "id": 191,
+            "id": 337,
+            "bank": "N.M. ROTHSCHILD AND SONS (SINGAPORE) LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "ROTHSGS1"
+        },
+        {
+            "id": 338,
             "bank": "NATIONAL AUSTRALIA BANK",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "NATASGSG"
         },
         {
-            "id": 192,
+            "id": 339,
             "bank": "NATIONAL BANK OF KUWAIT S.A.K., THE",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "NBOKSGSG"
         },
         {
-            "id": 193,
+            "id": 340,
             "bank": "NATIXIS",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "NATXSGSG"
         },
         {
-            "id": 194,
+            "id": 341,
+            "bank": "NATWEST FUTURES (ASIA) PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "NATWSGS1"
+        },
+        {
+            "id": 342,
+            "bank": "NEW JAPAN MECHANT BANK (SINGAPORE) LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "NJMBSGS1"
+        },
+        {
+            "id": 343,
+            "bank": "NEW JAPAN SECURITIES",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "NJSCSGS1"
+        },
+        {
+            "id": 344,
+            "bank": "NIBC BANK LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "DNIBSGS1"
+        },
+        {
+            "id": 345,
+            "bank": "NIKE GLOBAL TRADING PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "NGTPSGS1"
+        },
+        {
+            "id": 346,
+            "bank": "NIKE SINGAPORE PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "NIKESGS1"
+        },
+        {
+            "id": 347,
+            "bank": "NIKKO ASSET MANAGEMENT SINGAPORE LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "NCMSSGS1"
+        },
+        {
+            "id": 348,
+            "bank": "NIKKO FUTURES (SINGAPORE) PTE LTD., THE",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "NIKOSGS1"
+        },
+        {
+            "id": 349,
+            "bank": "NIKKO SECURITIES (SINGAPORE) PTE LTD.,THE",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "NIKKSGS1"
+        },
+        {
+            "id": 350,
+            "bank": "NIPPON CREDIT BANK LTD., THE",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "NCBTSGS1"
+        },
+        {
+            "id": 351,
+            "bank": "NITTAN MARSHALLS (SINGAPORE) PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "MSPLSGS1"
+        },
+        {
+            "id": 352,
+            "bank": "NOBLE RESOURCES PTE. LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "NOEPSGS1"
+        },
+        {
+            "id": 353,
             "bank": "NOMURA ASSET MANAGEMENT SINGAPORE LTD",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "NOCMSGSG"
         },
         {
-            "id": 195,
+            "id": 354,
+            "bank": "NOMURA FUTURES (SINGAPORE) PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "NOMRSGS1"
+        },
+        {
+            "id": 355,
             "bank": "NOMURA INVESTMENTS (SINGAPORE) PTE",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "NOISSGSG"
         },
         {
-            "id": 196,
+            "id": 356,
+            "bank": "NOMURA RESEARCH INSTITUTE (SINGAPORE) PRIVATE LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "NRISSGS1"
+        },
+        {
+            "id": 357,
+            "bank": "NOMURA SECURITIES SINGAPORE PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "NOMSSGS1"
+        },
+        {
+            "id": 358,
+            "bank": "NOMURA SINGAPORE LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SNOMSGL1"
+        },
+        {
+            "id": 359,
             "bank": "NOMURA SINGAPORE LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "SNOMSGSG"
         },
         {
-            "id": 197,
+            "id": 360,
             "bank": "NORDDEUTSCHE LANDESBANK GIROZENTRALE",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "NOLASGSG"
         },
         {
-            "id": 198,
+            "id": 361,
             "bank": "NORDEA BANK FINLAND PLC, SINGAPORE",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "NDEASGSG"
         },
         {
-            "id": 199,
+            "id": 362,
             "bank": "NORDEA BANK SA SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "NDPBSGSG"
         },
         {
-            "id": 200,
+            "id": 363,
             "bank": "NORINCHUKIN BANK, THE",
             "city": "SINGAPORE",
             "branch": "(SINGAPORE BRANCH)",
             "swift_code": "NOCUSGSG"
         },
         {
-            "id": 201,
+            "id": 364,
             "bank": "NORTHERN TRUST COMPANY",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "CNORSGSG"
         },
         {
-            "id": 202,
+            "id": 365,
             "bank": "NTUC INCOME INSURANCE CO-OPERATIVE LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "NIICSGSA"
         },
         {
-            "id": 203,
+            "id": 366,
+            "bank": "NTUC INCOME INSURANCE CO-OPERATIVE LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "NIICSGS1"
+        },
+        {
+            "id": 367,
+            "bank": "O.W. BUNKER FAR EAST (SINGAPORE) PTE. LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "BFESSGS1"
+        },
+        {
+            "id": 368,
+            "bank": "OCBC BULLION AND FUTURES LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "OCBCSGS1"
+        },
+        {
+            "id": 369,
+            "bank": "OCBC INVESTMENT RESEARCH PRIVATE LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "OIRPSGS1"
+        },
+        {
+            "id": 370,
+            "bank": "OCBC NOMINEE PTE LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "OCNPSGS1"
+        },
+        {
+            "id": 371,
             "bank": "OCBC SECURITIES PRIVATE LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "OCSPSGSG"
         },
         {
-            "id": 204,
+            "id": 372,
+            "bank": "OCBC SECURITIES PRIVATE LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "OCSESGS1"
+        },
+        {
+            "id": 373,
+            "bank": "ONG AND COMPANY PRIVATE LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "ONGCSGS1"
+        },
+        {
+            "id": 374,
+            "bank": "ONG AND COMPANY PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "ONCOSGS1"
+        },
+        {
+            "id": 375,
+            "bank": "ONG FIRST TRADITION PTE. LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "OFCFSGS1"
+        },
+        {
+            "id": 376,
+            "bank": "ONG RESEARCH PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "ONRPSGS1"
+        },
+        {
+            "id": 377,
+            "bank": "OUB BULLION AND FUTURES LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "OUBFSGS1"
+        },
+        {
+            "id": 378,
+            "bank": "OUB SECURITIES PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "OUSPSGS1"
+        },
+        {
+            "id": 379,
             "bank": "OVERSEA-CHINESE BANKING CORPORATION LIMITED",
             "city": "SINGAPORE",
             "branch": "(GLOBAL COMMODITY FINANCE)",
             "swift_code": "OCBCSGSGGCF"
         },
         {
-            "id": 205,
+            "id": 380,
             "bank": "OVERSEA-CHINESE BANKING CORPORATION LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "OCBCSGSG"
         },
         {
-            "id": 206,
+            "id": 381,
             "bank": "OVERSEA-CHINESE BANKING CORPORATION LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "OCBCSGSGBRN"
         },
         {
-            "id": 207,
+            "id": 382,
+            "bank": "OWW CAPITAL PARTNERS PTE. LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "OWWMSGS1"
+        },
+        {
+            "id": 383,
+            "bank": "PAMA (SINGAPORE) PRIVATE LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "PSPLSGS1"
+        },
+        {
+            "id": 384,
+            "bank": "PANASONIC ASIA PACIFIC PTE. LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "PANASGS1"
+        },
+        {
+            "id": 385,
+            "bank": "PARIBAS PRIVATE BANKING ASIA LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "PPBASGS1"
+        },
+        {
+            "id": 386,
+            "bank": "PARKWAY MUNDA CAPITAL CORPORATION",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "PMCCSGS1"
+        },
+        {
+            "id": 387,
+            "bank": "PEGASUS ASIA FUND",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "PEAFSGS1"
+        },
+        {
+            "id": 388,
+            "bank": "PEGASUS TAIWAN",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "PETASGS1"
+        },
+        {
+            "id": 389,
+            "bank": "PEREGRINE SECURITIES SINGAPORE PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "PSSPSGS1"
+        },
+        {
+            "id": 390,
             "bank": "PETREDEC INTERNATIONAL PTE LTD FINANCIAL DEPARTMENT",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "PINPSGSG"
         },
         {
-            "id": 208,
+            "id": 391,
+            "bank": "PHEIM ASSET MANAGEMENT (ASIA) PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "PAMASGS1"
+        },
+        {
+            "id": 392,
             "bank": "PHILIPPINE NATIONAL BANK-SINGAPORE",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "PNBMSGSG"
         },
         {
-            "id": 209,
+            "id": 393,
+            "bank": "PHILLIP FUTURES PTE. LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "PHFUSGS1"
+        },
+        {
+            "id": 394,
+            "bank": "PHILLIP SECURITIES PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "PHSESGS1"
+        },
+        {
+            "id": 395,
+            "bank": "PHILLIP SECURITIES RESEARCH PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "PSRPSGS1"
+        },
+        {
+            "id": 396,
             "bank": "PORTIGON AG",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "WELASGSX"
         },
         {
-            "id": 210,
+            "id": 397,
             "bank": "PROA PARTNERS PTE LTD",
             "city": "SINGAPORE",
             "branch": "(AIM\/POMS SERVICE)",
             "swift_code": "PPPLSGSG"
         },
         {
-            "id": 211,
+            "id": 398,
+            "bank": "PRUDENTIAL ASSET MANAGEMENT SINGAPORE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "PAMGSGS1"
+        },
+        {
+            "id": 399,
+            "bank": "PRUDENTIAL PORTFOLIO MANAGERS SINGAPORE LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "PPMLSGS1"
+        },
+        {
+            "id": 400,
+            "bank": "PRUDENTIAL-BACHE FUTURES ASIA PACIFIC LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "PBFASGS1"
+        },
+        {
+            "id": 401,
             "bank": "PT. BANK RAKYAT INDONESIA (PERSERO) TBK., SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "BRINSGSG"
         },
         {
-            "id": 212,
+            "id": 402,
+            "bank": "PURE COMMERCE (S) PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "PURESGS1"
+        },
+        {
+            "id": 403,
             "bank": "QATAR NATIONAL BANK QNB",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "QNBASGSG"
         },
         {
-            "id": 213,
+            "id": 404,
             "bank": "RABOBANK, SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "RABOSGSG"
         },
         {
-            "id": 214,
+            "id": 405,
+            "bank": "RAFFLES NOMINEES (PTE.) LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SCBLSG21"
+        },
+        {
+            "id": 406,
             "bank": "RAIFFEISEN BANK INTERNATIONAL AG SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "RZBASGSG"
         },
         {
-            "id": 215,
+            "id": 407,
             "bank": "RBC INVESTOR SERVICES TRUST SINGAPORE LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "DTSSSGSG"
         },
         {
-            "id": 216,
+            "id": 408,
+            "bank": "REFCO (SINGAPORE) PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "REFCSGS1"
+        },
+        {
+            "id": 409,
+            "bank": "RELIANCE ASSET MANAGEMENT (SG) PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "RAAPSGS1"
+        },
+        {
+            "id": 410,
+            "bank": "REPUBLIC NATIONAL BANK OF NEW YORK (SINGAPORE)LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "BLICSGS1"
+        },
+        {
+            "id": 411,
+            "bank": "REUTERS TRANSACTION SERVICES LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "RTSLSGS1"
+        },
+        {
+            "id": 412,
             "bank": "RHB BANK BERHAD",
             "city": "SINGAPORE",
             "branch": "(MAIN BRANCH)",
             "swift_code": "RHBBSGSG"
         },
         {
-            "id": 217,
+            "id": 413,
+            "bank": "RHB SECURITIES SINGAPORE PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "DASPSGS1"
+        },
+        {
+            "id": 414,
+            "bank": "RHB-CATHAY SECURITIES PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "RHBCSGS1"
+        },
+        {
+            "id": 415,
+            "bank": "RICHARD CHANDLER SINGAPORE PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "OGSLSGS1"
+        },
+        {
+            "id": 416,
+            "bank": "ROTHSCHILD ASSET MANAGEMENT (S) LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "ROAMSGS1"
+        },
+        {
+            "id": 417,
+            "bank": "ROTHSCHILD BULLION AND FINANCIAL FUTURES PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "RBFFSGS1"
+        },
+        {
+            "id": 418,
+            "bank": "ROTHSCHILD VENTURES ASIA PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "RVAPSGS1"
+        },
+        {
+            "id": 419,
             "bank": "ROYAL BANK OF CANADA",
             "city": "SINGAPORE",
             "branch": "(WEALTH MANAGEMENT)",
             "swift_code": "ROYCSGSGGSS"
         },
         {
-            "id": 218,
+            "id": 420,
             "bank": "ROYAL BANK OF CANADA",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "ROYCSGSG"
         },
         {
-            "id": 219,
+            "id": 421,
             "bank": "ROYAL BANK OF SCOTLAND PLC",
             "city": "SINGAPORE",
             "branch": "(SINGAPORE ASIA MERCHANT DEPT)",
             "swift_code": "RBOSSGSGEQT"
         },
         {
-            "id": 220,
+            "id": 422,
             "bank": "ROYAL BANK OF SCOTLAND PLC",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "RBOSSGSG"
         },
         {
-            "id": 221,
+            "id": 423,
             "bank": "ROYAL BANK OF SCOTLAND PLC",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "RBOSSGSGNWB"
         },
         {
-            "id": 222,
+            "id": 424,
             "bank": "ROYAL BANK OF SCOTLAND PLC",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "RBOSSGSGRSI"
         },
         {
-            "id": 223,
+            "id": 425,
             "bank": "S.W.I.F.T",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "SWHQSGSG"
         },
         {
-            "id": 224,
+            "id": 426,
+            "bank": "SAL INDUSTRIAL LEASING LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "INLLSGS1"
+        },
+        {
+            "id": 427,
+            "bank": "SAMSUNG ASIA PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": "(SAPL)",
+            "swift_code": "SECTSGS1540"
+        },
+        {
+            "id": 428,
+            "bank": "SAMSUNG ASIA PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SECTSGS1"
+        },
+        {
+            "id": 429,
+            "bank": "SAMSUNG ASSET MANAGEMENT(SINGAPORE) PTE. LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SASGSGS1"
+        },
+        {
+            "id": 430,
+            "bank": "SAMSUNG C AND T SINGAPORE PTE. LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SCNTSGS1"
+        },
+        {
+            "id": 431,
+            "bank": "SAMSUNG SECURITIES (SINGAPORE) PTE LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SSIPSGS1"
+        },
+        {
+            "id": 432,
+            "bank": "SANTANDER INVESTMENT SERVICES",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SAIVSGS1"
+        },
+        {
+            "id": 433,
+            "bank": "SANWA FUTURES (SINGAPORE) PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SFSTSGS1"
+        },
+        {
+            "id": 434,
+            "bank": "SANYO MERCHANT BANK LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SAMKSGS1"
+        },
+        {
+            "id": 435,
+            "bank": "SASSOON FINANCIAL FUTURES PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SASSSGS1"
+        },
+        {
+            "id": 436,
+            "bank": "SBCI AND ASSOCIATES PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "ASSSSGS1"
+        },
+        {
+            "id": 437,
             "bank": "SCHRODER AND CO (ASIA) LTD",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "SALISGSG"
         },
         {
-            "id": 225,
+            "id": 438,
             "bank": "SCHRODER INVESTMENT MANAGEMENT (SINGAPORE) LTD",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "SIMNSGSG"
         },
         {
-            "id": 226,
+            "id": 439,
+            "bank": "SCHRODER SECURITIES (SINGAPORE) PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SSSPSGS1"
+        },
+        {
+            "id": 440,
+            "bank": "SEED VENTURES MANAGEMENT PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SVMPSGS1"
+        },
+        {
+            "id": 441,
+            "bank": "SEMBAWANG CAPITAL PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SECESGS1"
+        },
+        {
+            "id": 442,
+            "bank": "SEPL-PULAU BUKOM",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SEBUSGS1"
+        },
+        {
+            "id": 443,
+            "bank": "SG ASSET MANAGEMENT (SINGAPORE) LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SGAMSGS1"
+        },
+        {
+            "id": 444,
+            "bank": "SG SECURITIES (SINGAPORE) CUSTODIAL SERVICES PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SGSCSGS1"
+        },
+        {
+            "id": 445,
+            "bank": "SHELL EASTERN PETROLEUM PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SEPPSGS1"
+        },
+        {
+            "id": 446,
             "bank": "SHINHAN BANK, SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "SHBKSGSG"
         },
         {
-            "id": 227,
+            "id": 447,
             "bank": "SIAM COMMERCIAL BANK PCL, THE",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "SICOSGSG"
         },
         {
-            "id": 228,
+            "id": 448,
+            "bank": "SILVER METIS",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SIEESGS1"
+        },
+        {
+            "id": 449,
+            "bank": "SINGAPORE COMMODITY EXCHANGE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "XSCESGS1"
+        },
+        {
+            "id": 450,
             "bank": "SINGAPORE EXCHANGE DERIVATIVES CLEARING LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "XSIMSGSG"
         },
         {
-            "id": 229,
+            "id": 451,
+            "bank": "SINGAPORE EXCHANGE LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "XSESSGS1"
+        },
+        {
+            "id": 452,
             "bank": "SIVANTOS PTE. LTD.",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "BSTHSGSG"
         },
         {
-            "id": 230,
+            "id": 453,
             "bank": "SKANDINAVISKA ENSKILDA BANKEN AB (PUBL)",
             "city": "SINGAPORE",
             "branch": "(SINGAPORE BRANCH)",
             "swift_code": "ESSESGSG"
         },
         {
-            "id": 231,
+            "id": 454,
             "bank": "SKANDINAVISKA ENSKILDA BANKEN AB (PUBL)",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "ESSESGSGCLS"
         },
         {
-            "id": 232,
+            "id": 455,
             "bank": "SKANDINAVISKA ENSKILDA BANKEN S.A.",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "ESSESGSP"
         },
         {
-            "id": 233,
+            "id": 456,
             "bank": "SMBC NIKKO SECURITIES (SINGAPORE) PTE. LTD.",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "NKSCSGSG"
         },
         {
-            "id": 234,
+            "id": 457,
+            "bank": "SMITH NEW COURT (SINGAPORE) PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SNCOSGS1"
+        },
+        {
+            "id": 458,
+            "bank": "SMITH NEW COURT SECURITIES PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SNCPSGS1"
+        },
+        {
+            "id": 459,
             "bank": "SOCIETE GENERALE",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "SOGESGSG"
         },
         {
-            "id": 235,
+            "id": 460,
+            "bank": "SOCIETE GENERALE BANK AND TRUST, SINGAPORE BRANCH",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SGBTSGS1"
+        },
+        {
+            "id": 461,
+            "bank": "ST CAPITAL LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "CAPASGS1"
+        },
+        {
+            "id": 462,
+            "bank": "STANDARD CHARTERED (2000) LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SCMASGS1"
+        },
+        {
+            "id": 463,
             "bank": "STANDARD CHARTERED BANK",
             "city": "SINGAPORE",
             "branch": "(COMMON DEPOSITORY)",
             "swift_code": "SCBLSGSGCDP"
         },
         {
-            "id": 236,
+            "id": 464,
             "bank": "STANDARD CHARTERED BANK",
             "city": "SINGAPORE",
             "branch": "(FM ASSET SERVICING)",
             "swift_code": "SCBLSGSGZOP"
         },
         {
-            "id": 237,
+            "id": 465,
+            "bank": "STANDARD CHARTERED BANK",
+            "city": "SINGAPORE",
+            "branch": "(LOANS DEPARTMENT)",
+            "swift_code": "SCBLSGS1ZLA"
+        },
+        {
+            "id": 466,
             "bank": "STANDARD CHARTERED BANK",
             "city": "SINGAPORE",
             "branch": "(LRM)",
             "swift_code": "SCBLSGSGFTL"
         },
         {
-            "id": 238,
+            "id": 467,
             "bank": "STANDARD CHARTERED BANK",
             "city": "SINGAPORE",
             "branch": "(SECURITIES SERVICES - GLOBAL PROCESSING ENTITY)",
             "swift_code": "SCBLSGSGGPE"
         },
         {
-            "id": 239,
+            "id": 468,
             "bank": "STANDARD CHARTERED BANK",
             "city": "SINGAPORE",
             "branch": "(SINGAPORE PRIVATE BANK)",
             "swift_code": "SCBLSGSGZPB"
         },
         {
-            "id": 240,
+            "id": 469,
             "bank": "STANDARD CHARTERED BANK",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "SCBLSGSG"
         },
         {
-            "id": 241,
+            "id": 470,
             "bank": "STANDARD CHARTERED BANK",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "SCBLSGSGEQI"
         },
         {
-            "id": 242,
+            "id": 471,
             "bank": "STANDARD CHARTERED BANK",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "SCBLSGSGFIN"
         },
         {
-            "id": 243,
+            "id": 472,
             "bank": "STANDARD CHARTERED BANK (SINGAPORE) LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "SCBLSG22"
         },
         {
-            "id": 244,
+            "id": 473,
             "bank": "STATE BANK OF INDIA",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "SBINSGSG"
         },
         {
-            "id": 245,
+            "id": 474,
             "bank": "STATE STREET BANK AND TRUST COMPANY, SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": "(INVESTMENT OPERATIONS DIVISION)",
             "swift_code": "SBOSSGSXAGE"
         },
         {
-            "id": 246,
+            "id": 475,
             "bank": "STATE STREET BANK AND TRUST COMPANY, SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": "(INVESTMENT SERVICES DIVISION)",
             "swift_code": "SBOSSGSXAGC"
         },
         {
-            "id": 247,
+            "id": 476,
             "bank": "STATE STREET BANK AND TRUST COMPANY, SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": "(INVESTMENT SERVICES DIVISION)",
             "swift_code": "SBOSSGSXAGD"
         },
         {
-            "id": 248,
+            "id": 477,
             "bank": "STATE STREET BANK AND TRUST COMPANY, SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "SBOSSGSX"
         },
         {
-            "id": 249,
+            "id": 478,
+            "bank": "SUEZ APAC MANAGEMENT (S) PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SAMPSGS1"
+        },
+        {
+            "id": 479,
             "bank": "SUMITOMO MITSUI BANKING CORPORATION",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "SMBCSGSG"
         },
         {
-            "id": 250,
+            "id": 480,
             "bank": "SUMITOMO MITSUI TRUST BANK, LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "STBCSGSG"
         },
         {
-            "id": 251,
+            "id": 481,
+            "bank": "SUMMIT SECURITIES PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SUSESGS1"
+        },
+        {
+            "id": 482,
+            "bank": "SUN HUNG KAI BULLION AND FUTURES PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SUHKSGS1"
+        },
+        {
+            "id": 483,
+            "bank": "SUN HUNG KAI SECURITIES PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SHKESGS1"
+        },
+        {
+            "id": 484,
             "bank": "SVENSKA HANDELSBANKEN, SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "HANDSGSG"
         },
         {
-            "id": 252,
+            "id": 485,
+            "bank": "SWISS ASIA FINANCIAL SERVICES PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SSIVSG21"
+        },
+        {
+            "id": 486,
+            "bank": "SWISS REINSURANCE COMPANY, SINGAPORE BRANCH",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SWRESGS1"
+        },
+        {
+            "id": 487,
             "bank": "SWISS SINGAPORE OVERSEAS ENTERPRISE PTE LTD",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "SSOESGSG"
         },
         {
-            "id": 253,
+            "id": 488,
+            "bank": "SYMPHONY",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SYMHSGS1"
+        },
+        {
+            "id": 489,
             "bank": "TAISHIN INTERNATIONAL BANK CO.,LTD. SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "TSIBSGSG"
         },
         {
-            "id": 254,
+            "id": 490,
+            "bank": "TAT LEE SECURITIES PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "TATESGS1"
+        },
+        {
+            "id": 491,
+            "bank": "TEMASEK HOLDINGS (PRIVATE) LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "TEHOSGS1"
+        },
+        {
+            "id": 492,
             "bank": "TEMPLETON ASSET MANAGEMENT LTD",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "TIMISGSG"
         },
         {
-            "id": 255,
+            "id": 493,
             "bank": "TEMPLETON ASSET MANAGEMENT LTD",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "TIMISGSGBEM"
         },
         {
-            "id": 256,
+            "id": 494,
             "bank": "THE BANK OF EAST ASIA LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "BEASSGSG"
         },
         {
-            "id": 257,
+            "id": 495,
             "bank": "THE BANK OF NEW YORK MELLON, SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "IRVTSGSX"
         },
         {
-            "id": 258,
+            "id": 496,
             "bank": "THE BANK OF NOVA SCOTIA, SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "NOSCSGSG"
         },
         {
-            "id": 259,
+            "id": 497,
             "bank": "THE BANK OF NOVA SCOTIA, SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "NOSCSGSGGFI"
         },
         {
-            "id": 260,
+            "id": 498,
             "bank": "THE CENTRAL DEPOSITORY (PTE) LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "CDPLSGSG"
         },
         {
-            "id": 261,
+            "id": 499,
             "bank": "THE CENTRAL DEPOSITORY (PTE) LTD",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "CDPLSGSH"
         },
         {
-            "id": 262,
+            "id": 500,
             "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, SINGAPORE",
             "city": "SINGAPORE",
             "branch": "(CLS DIVISION)",
             "swift_code": "HSBCSGSGCLS"
         },
         {
-            "id": 263,
+            "id": 501,
             "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, SINGAPORE",
             "city": "SINGAPORE",
             "branch": "(CUSTODY AND CLEARING)",
             "swift_code": "HSBCSGSGCNC"
         },
         {
-            "id": 264,
+            "id": 502,
             "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, SINGAPORE",
             "city": "SINGAPORE",
             "branch": "(GLOBAL WEALTH SOLUTION)",
             "swift_code": "HSBCSGSGGWS"
         },
         {
-            "id": 265,
+            "id": 503,
             "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, SINGAPORE",
             "city": "SINGAPORE",
             "branch": "(PRIVATE BANKING DIVISION)",
             "swift_code": "HSBCSGSGPBD"
         },
         {
-            "id": 266,
+            "id": 504,
             "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, SINGAPORE",
             "city": "SINGAPORE",
             "branch": "(SD WEALTH)",
             "swift_code": "HSBCSGSGWBS"
         },
         {
-            "id": 267,
+            "id": 505,
             "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, SINGAPORE",
             "city": "SINGAPORE",
             "branch": "(TREASURY SETTLEMENT OPERATIONS)",
             "swift_code": "HSBCSGSGFEX"
         },
         {
-            "id": 268,
+            "id": 506,
             "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, SINGAPORE",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "HSBCSGSG"
         },
         {
-            "id": 269,
+            "id": 507,
             "bank": "THE ISLAMIC BANK OF ASIA LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "TIBASGSG"
         },
         {
-            "id": 270,
+            "id": 508,
             "bank": "THE KOREA DEVELOPMENT BANK,SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": "(SINGAPORE BRANCH)",
             "swift_code": "KODBSGSG"
         },
         {
-            "id": 271,
+            "id": 509,
+            "bank": "THE ROYAL BANK OF SCOTLAND ASIA SECURITIES (SINGAPORE) PTE LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "AASLSG21"
+        },
+        {
+            "id": 510,
             "bank": "THE ROYAL BANK OF SCOTLAND PLC SINGAPORE (FORMERLY KNOWN AS RBS NV)",
             "city": "SINGAPORE",
             "branch": "(ACCESS ONLINE ASIA)",
             "swift_code": "ABNASGSGAOA"
         },
         {
-            "id": 272,
+            "id": 511,
             "bank": "THE ROYAL BANK OF SCOTLAND PLC SINGAPORE (FORMERLY KNOWN AS RBS NV)",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "ABNASGSG"
         },
         {
-            "id": 273,
+            "id": 512,
+            "bank": "TLB BULLION AND FUTURES PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "TLBFSGS1"
+        },
+        {
+            "id": 513,
+            "bank": "TOKIO MARINE ASSET MANAGEMENT INTERNATIONAL PTE. LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "TMAJSGS1"
+        },
+        {
+            "id": 514,
             "bank": "TORONTO DOMINION (SOUTH EAST ASIA) LTD.",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "TDOMSG2S"
         },
         {
-            "id": 274,
+            "id": 515,
             "bank": "TORONTO DOMINION BANK",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "TDOMSGSG"
         },
         {
-            "id": 275,
+            "id": 516,
+            "bank": "TRADITION SINGAPORE (PTE) LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "OTSPSGS1"
+        },
+        {
+            "id": 517,
+            "bank": "TRANSPAC CAPITAL PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "TRCPSGS1"
+        },
+        {
+            "id": 518,
+            "bank": "TRANSTECH VENTURE MANAGEMENT PRIVATE LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "TVMPSGS1"
+        },
+        {
+            "id": 519,
+            "bank": "TSANG AND ONG STOCKBROKERS (PTE) LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "TSANSGS1"
+        },
+        {
+            "id": 520,
+            "bank": "TSANG AND ONG STOCKBROKERS PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "TORPSGS1"
+        },
+        {
+            "id": 521,
+            "bank": "TULLETT LIBERTY PTE. LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "TTDPSGS1"
+        },
+        {
+            "id": 522,
+            "bank": "TULLETT PREBON (SINGAPORE) LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "PRYLSGS1"
+        },
+        {
+            "id": 523,
             "bank": "U.B.A.F. - UNION DE BANQUES ARABES ET FRANCAISES",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "UBAFSGSX"
         },
         {
-            "id": 276,
+            "id": 524,
             "bank": "UBS AG SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": "(CLS BUSINNESS ONLY)",
             "swift_code": "UBSWSGSGCLS"
         },
         {
-            "id": 277,
+            "id": 525,
             "bank": "UBS AG SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": "(SINGAPORE BRANCH)",
             "swift_code": "UBSWSGSG"
         },
         {
-            "id": 278,
+            "id": 526,
             "bank": "UBS AG SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": "(SWIFT FOR CORPORATE)",
             "swift_code": "UBSWSGSGCIC"
         },
         {
-            "id": 279,
+            "id": 527,
             "bank": "UBS ASSET MANAGEMENT (SINGAPORE) LTD",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "UBSASGSG"
         },
         {
-            "id": 280,
+            "id": 528,
+            "bank": "UBS FUTURES SINGAPORE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "ABNASGF1"
+        },
+        {
+            "id": 529,
+            "bank": "UBS SECURITIES PTE. LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "WSSPSGS1"
+        },
+        {
+            "id": 530,
+            "bank": "UBS WARBURG AND ASSOCIATES (SINGAPORE) NOMINEES PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "SASPSGS1"
+        },
+        {
+            "id": 531,
             "bank": "UCO BANK",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "UCBASGSG"
         },
         {
-            "id": 281,
+            "id": 532,
             "bank": "UNICREDIT BANK AG SINGAPORE BRANCH (HYPOVEREINSBANK AG SINGAPORE BRANCH)",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "BVBESGSG"
         },
         {
-            "id": 282,
+            "id": 533,
             "bank": "UNION BANCAIRE PRIVEE UBP SA SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "UBPGSGSX"
         },
         {
-            "id": 283,
+            "id": 534,
             "bank": "UNITED OVERSEAS BANK LIMITED",
             "city": "SINGAPORE",
             "branch": "(BANKNOTES DEPARTMENT)",
             "swift_code": "UOVBSGSGBNS"
         },
         {
-            "id": 284,
+            "id": 535,
             "bank": "UNITED OVERSEAS BANK LIMITED",
             "city": "SINGAPORE",
             "branch": "(BULLION, BROKERAGE AND CLEARING)",
             "swift_code": "UOVBSGSGBBC"
         },
         {
-            "id": 285,
+            "id": 536,
             "bank": "UNITED OVERSEAS BANK LIMITED",
             "city": "SINGAPORE",
             "branch": "(CLIENT PORTFOLIO MANAGEMENT)",
             "swift_code": "UOVBSGSGCPM"
         },
         {
-            "id": 286,
+            "id": 537,
             "bank": "UNITED OVERSEAS BANK LIMITED",
             "city": "SINGAPORE",
             "branch": "(CUSTODY SERVICES DIVISION)",
             "swift_code": "UOVBSGSGCSD"
         },
         {
-            "id": 287,
+            "id": 538,
             "bank": "UNITED OVERSEAS BANK LIMITED",
             "city": "SINGAPORE",
             "branch": "(TRANSACTION BANKING)",
             "swift_code": "UOVBSGSGCMS"
         },
         {
-            "id": 288,
+            "id": 539,
             "bank": "UNITED OVERSEAS BANK LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "UOVBSGSG"
         },
         {
-            "id": 289,
+            "id": 540,
+            "bank": "UOB ASIA LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "UMBISGS1"
+        },
+        {
+            "id": 541,
+            "bank": "UOB BULLION AND FUTURES LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "UOBFSGS1"
+        },
+        {
+            "id": 542,
             "bank": "UOB KAY HIAN PTE LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "KHPLSGSG"
         },
         {
-            "id": 290,
+            "id": 543,
+            "bank": "UOB SECURITIES PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "UOBSSGS1"
+        },
+        {
+            "id": 544,
+            "bank": "UOB VENTURE MANAGEMENT PRIVATE LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "UVMPSGS1"
+        },
+        {
+            "id": 545,
             "bank": "VERIZON ASIA PACIFIC HOLDINGS PTE.",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "VZAPSGSG"
         },
         {
-            "id": 291,
+            "id": 546,
+            "bank": "VERTEX MANAGEMENT PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "VEMPSGS1"
+        },
+        {
+            "id": 547,
+            "bank": "VICKERS BALLAS INVESTMENTS RESEARCH PTE LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "VIBRSGS1"
+        },
+        {
+            "id": 548,
+            "bank": "VOLVO TREASURY ASIA LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "VTALSGS1"
+        },
+        {
+            "id": 549,
+            "bank": "VP BANK (SINGAPORE) LTD",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "VPBVSGS1"
+        },
+        {
+            "id": 550,
             "bank": "VTB CAPITAL PLC, SINGAPORE BRANCH",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "MNBLSGSG"
         },
         {
-            "id": 292,
+            "id": 551,
+            "bank": "WAKO MERCHANT BANK (SINGAPORE) LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "WMBSSGS1"
+        },
+        {
+            "id": 552,
+            "bank": "WARDLEY BROKING SERVICES PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "WBSSSGS1"
+        },
+        {
+            "id": 553,
+            "bank": "WELLS FARGO BANK MINNESOTA NA",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "NWNBSGS1"
+        },
+        {
+            "id": 554,
             "bank": "WELLS FARGO BANK, NA",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "PNBPSGSG"
         },
         {
-            "id": 293,
+            "id": 555,
+            "bank": "WEST MERCHANT BANK LIMITED",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "WMBLSGS1"
+        },
+        {
+            "id": 556,
             "bank": "WESTERN UNION BUSINESS SOLUTIONS (SINGAPORE) PTE LTD",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "CHFXSGSG"
         },
         {
-            "id": 294,
+            "id": 557,
             "bank": "WESTPAC BANKING CORPORATION",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "WPACSGSG"
         },
         {
-            "id": 295,
+            "id": 558,
             "bank": "WESTPAC BANKING CORPORATION",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "WPACSGSGTRD"
         },
         {
-            "id": 296,
+            "id": 559,
             "bank": "WESTPAC BANKING CORPORATION",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "WPACSGSGTSY"
         },
         {
-            "id": 297,
+            "id": 560,
             "bank": "WESTPAC SINGAPORE LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "WPACSGSL"
         },
         {
-            "id": 298,
+            "id": 561,
             "bank": "WESTPAC SINGAPORE LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "WPACSGSLTSY"
         },
         {
-            "id": 299,
+            "id": 562,
             "bank": "WILMAR INTERNATIONAL LIMITED",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "WILMSGSG"
         },
         {
-            "id": 300,
+            "id": 563,
             "bank": "WOORI BANK, SINGAPORE",
             "city": "SINGAPORE",
             "branch": null,
             "swift_code": "HVBKSGSG"
+        },
+        {
+            "id": 564,
+            "bank": "YAMAICHI FUTURES PTE LTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "YAMASGS1"
+        },
+        {
+            "id": 565,
+            "bank": "YAMAICHI SECURITIES (SINGAPORE) PTELTD.",
+            "city": "SINGAPORE",
+            "branch": null,
+            "swift_code": "YASESGS1"
         }
     ]
 }

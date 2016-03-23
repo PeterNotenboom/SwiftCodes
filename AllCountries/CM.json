@@ -4,258 +4,307 @@
     "list": [
         {
             "id": 1,
+            "bank": "AFRICAN DEVELOPMENT BANK",
+            "city": "YAOUNDE",
+            "branch": null,
+            "swift_code": "AFDBCMC1"
+        },
+        {
+            "id": 2,
             "bank": "AFRILAND FIRST BANK",
             "city": "BAFOUSSAM",
             "branch": null,
             "swift_code": "CCEICMCXBAF"
         },
         {
-            "id": 2,
+            "id": 3,
             "bank": "AFRILAND FIRST BANK",
             "city": "BAMENDA",
             "branch": null,
             "swift_code": "CCEICMCXBDA"
         },
         {
-            "id": 3,
+            "id": 4,
             "bank": "AFRILAND FIRST BANK",
             "city": "DOUALA",
             "branch": null,
             "swift_code": "CCEICMCXDLA"
         },
         {
-            "id": 4,
+            "id": 5,
             "bank": "AFRILAND FIRST BANK",
             "city": "GAROUA",
             "branch": null,
             "swift_code": "CCEICMCXGRA"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "AFRILAND FIRST BANK",
             "city": "YAOUNDE",
             "branch": null,
             "swift_code": "CCEICMCX"
         },
         {
-            "id": 6,
+            "id": 7,
+            "bank": "BANK OF CREDIT AND COMMERCE CAMEROON S.A.",
+            "city": "DOUALA",
+            "branch": null,
+            "swift_code": "CCCBCMC10CD"
+        },
+        {
+            "id": 8,
+            "bank": "BANK OF CREDIT AND COMMERCE CAMEROON S.A.",
+            "city": "GAROUA",
+            "branch": null,
+            "swift_code": "CCCBCMC1"
+        },
+        {
+            "id": 9,
+            "bank": "BANK OF CREDIT AND COMMERCE CAMEROON S.A.",
+            "city": "YAOUNDE",
+            "branch": null,
+            "swift_code": "CCCBCMC10CY"
+        },
+        {
+            "id": 10,
             "bank": "BANQUE ATLANTIQUE CAMEROUN",
             "city": "DOUALA",
             "branch": null,
             "swift_code": "ATCRCMCM"
         },
         {
-            "id": 7,
+            "id": 11,
             "bank": "BANQUE DES ETATS D'AFRIQUE CENTRALE",
             "city": "BAFOUSSAM",
             "branch": null,
             "swift_code": "BEACCMCX150"
         },
         {
-            "id": 8,
+            "id": 12,
             "bank": "BANQUE DES ETATS D'AFRIQUE CENTRALE",
             "city": "DOUALA",
             "branch": null,
             "swift_code": "BEACCMCX110"
         },
         {
-            "id": 9,
+            "id": 13,
             "bank": "BANQUE DES ETATS D'AFRIQUE CENTRALE",
             "city": "GAROUA",
             "branch": null,
             "swift_code": "BEACCMCX120"
         },
         {
-            "id": 10,
+            "id": 14,
             "bank": "BANQUE DES ETATS D'AFRIQUE CENTRALE",
             "city": "LIMBE",
             "branch": null,
             "swift_code": "BEACCMCX140"
         },
         {
-            "id": 11,
+            "id": 15,
             "bank": "BANQUE DES ETATS D'AFRIQUE CENTRALE",
             "city": "NKONGSAMBA",
             "branch": null,
             "swift_code": "BEACCMCX130"
         },
         {
-            "id": 12,
+            "id": 16,
             "bank": "BANQUE DES ETATS D'AFRIQUE CENTRALE",
             "city": "YAOUNDE",
             "branch": "(D.N. YAOUNDE)",
             "swift_code": "BEACCMCX100"
         },
         {
-            "id": 13,
+            "id": 17,
             "bank": "BANQUE DES ETATS D'AFRIQUE CENTRALE",
             "city": "YAOUNDE",
             "branch": "(DIRECTION DES RELATIONS FINANCIERES EXTERIEURES)",
             "swift_code": "BEACCMCX091"
         },
         {
-            "id": 14,
+            "id": 18,
             "bank": "BANQUE DES ETATS D'AFRIQUE CENTRALE",
             "city": "YAOUNDE",
             "branch": "(SERVICES CENTRAUX YAOUNDE)",
             "swift_code": "BEACCMCX090"
         },
         {
-            "id": 15,
+            "id": 19,
             "bank": "BANQUE DES ETATS D'AFRIQUE CENTRALE",
             "city": "YAOUNDE",
             "branch": null,
             "swift_code": "BEACCMCP"
         },
         {
-            "id": 16,
+            "id": 20,
             "bank": "BANQUE DES ETATS D'AFRIQUE CENTRALE",
             "city": "YAOUNDE",
             "branch": null,
             "swift_code": "BEACCMCX"
         },
         {
-            "id": 17,
+            "id": 21,
             "bank": "BANQUE INTERNATIONALE DU CAMEROUN POUR L'EPARGNE ET LE CREDIT",
             "city": "DOUALA",
             "branch": null,
             "swift_code": "ICLRCMCX"
         },
         {
-            "id": 18,
+            "id": 22,
             "bank": "BGFIBANK CAMEROUN SA",
             "city": "DOUALA",
             "branch": null,
             "swift_code": "BGFICMCX"
         },
         {
-            "id": 19,
+            "id": 23,
+            "bank": "BRITISH AMERICAN TOBACCO CAMEROUN S.A",
+            "city": "DOUALA",
+            "branch": null,
+            "swift_code": "BATSCMC1"
+        },
+        {
+            "id": 24,
             "bank": "CITIBANK N.A.",
             "city": "DOUALA",
             "branch": "(TRADE SERVICES DEPT)",
             "swift_code": "CITICMCXTRD"
         },
         {
-            "id": 20,
+            "id": 25,
             "bank": "CITIBANK N.A.",
             "city": "DOUALA",
             "branch": null,
             "swift_code": "CITICMCX"
         },
         {
-            "id": 21,
+            "id": 26,
             "bank": "COMMERCIAL BANK OF CAMEROON",
             "city": "BAFOUSSAM",
             "branch": "(WEST)",
             "swift_code": "CBCDCMCXBFS"
         },
         {
-            "id": 22,
+            "id": 27,
             "bank": "COMMERCIAL BANK OF CAMEROON",
             "city": "BONABERI",
             "branch": null,
             "swift_code": "CBCDCMCXBON"
         },
         {
-            "id": 23,
+            "id": 28,
             "bank": "COMMERCIAL BANK OF CAMEROON",
             "city": "DOUALA",
             "branch": "(LITTORAL)",
             "swift_code": "CBCDCMCXAKW"
         },
         {
-            "id": 24,
+            "id": 29,
             "bank": "COMMERCIAL BANK OF CAMEROON",
             "city": "DOUALA",
             "branch": null,
             "swift_code": "CBCDCMCX"
         },
         {
-            "id": 25,
+            "id": 30,
             "bank": "COMMERCIAL BANK OF CAMEROON",
             "city": "GAROUA",
             "branch": "(NORTH)",
             "swift_code": "CBCDCMCXGRA"
         },
         {
-            "id": 26,
+            "id": 31,
             "bank": "COMMERCIAL BANK OF CAMEROON",
             "city": "MAROUA",
             "branch": "(FAR NORTH)",
             "swift_code": "CBCDCMCXMRA"
         },
         {
-            "id": 27,
+            "id": 32,
             "bank": "COMMERCIAL BANK OF CAMEROON",
             "city": "MOKOLO",
             "branch": null,
             "swift_code": "CBCDCMCXMOK"
         },
         {
-            "id": 28,
+            "id": 33,
             "bank": "COMMERCIAL BANK OF CAMEROON",
             "city": "YAOUNDE",
             "branch": "(CENTER)",
             "swift_code": "CBCDCMCXYDE"
         },
         {
-            "id": 29,
+            "id": 34,
             "bank": "CREDIT COMMUNAUTAIRE D'AFRIQUE S.A.",
             "city": "YAOUNDE",
             "branch": null,
             "swift_code": "CCAMCMCY"
         },
         {
-            "id": 30,
+            "id": 35,
             "bank": "ECOBANK CAMEROUN SA.",
             "city": "DOUALA",
             "branch": null,
             "swift_code": "ECOCCMCX"
         },
         {
-            "id": 31,
+            "id": 36,
+            "bank": "KARAMOUZI'S BANK TRUST LTD",
+            "city": "NEW TOWN",
+            "branch": null,
+            "swift_code": "KBTLCMC1"
+        },
+        {
+            "id": 37,
             "bank": "NATIONAL FINANCIAL CREDIT BANK S.A.",
             "city": "YAOUNDE",
             "branch": null,
             "swift_code": "NAFCCMCY"
         },
         {
-            "id": 32,
+            "id": 38,
             "bank": "SCB CAMEROUN S.A.",
             "city": "DOUALA",
             "branch": null,
             "swift_code": "BCMACMCX"
         },
         {
-            "id": 33,
+            "id": 39,
             "bank": "SOCIETE GENERALE DE BANQUES AU CAMEROUN",
             "city": "DOUALA",
             "branch": null,
             "swift_code": "SGCMCMCX"
         },
         {
-            "id": 34,
+            "id": 40,
+            "bank": "SOCIETE GENERALE DE BANQUES AU CAMEROUN",
+            "city": "YAOUNDE",
+            "branch": null,
+            "swift_code": "SGCMCMC10CY"
+        },
+        {
+            "id": 41,
             "bank": "STANDARD CHARTERED BANK CAMEROON S.A.",
             "city": "DOUALA",
             "branch": null,
             "swift_code": "SCBLCMCX"
         },
         {
-            "id": 35,
+            "id": 42,
             "bank": "STANDARD CHARTERED BANK CAMEROON S.A.",
             "city": "YAOUNDE",
             "branch": null,
             "swift_code": "SCBLCMCX0CY"
         },
         {
-            "id": 36,
+            "id": 43,
             "bank": "UNION BANK OF CAMEROON LTD. (UBC LTD.)",
             "city": "AKWA-DOUALA",
             "branch": null,
             "swift_code": "UCMACMCX"
         },
         {
-            "id": 37,
+            "id": 44,
             "bank": "UNITED BANK FOR AFRICA CAMEROON PLC",
             "city": "DOUALA",
             "branch": null,

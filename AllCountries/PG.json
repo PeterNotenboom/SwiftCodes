@@ -25,20 +25,27 @@
         },
         {
             "id": 4,
+            "bank": "BRITISH AMERICAN TOBACCO (PNG) LIMITED",
+            "city": "PORT MORESBY",
+            "branch": null,
+            "swift_code": "BATSPGA1"
+        },
+        {
+            "id": 5,
             "bank": "FIRST INVESTMENT FINANCE LIMITED",
             "city": "PORT MORESBY",
             "branch": null,
             "swift_code": "FIVFPGPM"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "KINA BANK LIMITED",
             "city": "PORT MORESBY",
             "branch": null,
             "swift_code": "KINIPGPG"
         },
         {
-            "id": 6,
+            "id": 7,
             "bank": "WESTPAC BANK - PNG - LIMITED",
             "city": "PORT MORESBY",
             "branch": null,

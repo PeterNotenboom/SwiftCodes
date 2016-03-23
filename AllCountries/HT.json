@@ -25,27 +25,69 @@
         },
         {
             "id": 4,
+            "bank": "BANQUE DE PROMOTION COMMERCIALE ET INDUSTRIELLE S.A.",
+            "city": "PETION-VILLE",
+            "branch": null,
+            "swift_code": "BDPCHTP1"
+        },
+        {
+            "id": 5,
             "bank": "BANQUE NATIONALE DE CREDIT (BNC)",
             "city": "PORT AU PRINCE",
             "branch": null,
             "swift_code": "BNCHHTPP"
         },
         {
-            "id": 5,
+            "id": 6,
+            "bank": "BANQUE NATIONALE DE DEVELOPPEMENT AGRICOLE ET INDUSTRIEL",
+            "city": "CAP-HAITIEN",
+            "branch": null,
+            "swift_code": "BNDIHT21"
+        },
+        {
+            "id": 7,
+            "bank": "BANQUE NATIONALE DE PARIS",
+            "city": "PORT AU PRINCE",
+            "branch": null,
+            "swift_code": "BNPAHTP1"
+        },
+        {
+            "id": 8,
             "bank": "CAPITAL BANK S.A.",
             "city": "PORT AU PRINCE",
             "branch": null,
             "swift_code": "CPPLHTPP"
         },
         {
-            "id": 6,
+            "id": 9,
+            "bank": "CITIBANK N.A",
+            "city": "PORT AU PRINCE",
+            "branch": null,
+            "swift_code": "CITIHTP1"
+        },
+        {
+            "id": 10,
+            "bank": "SOCIETE GENERALE HAITIENNE DE BANQUE S.A.",
+            "city": "PETION-VILLE",
+            "branch": null,
+            "swift_code": "SOGHHTP1023"
+        },
+        {
+            "id": 11,
+            "bank": "SOCIETE GENERALE HAITIENNE DE BANQUE S.A.",
+            "city": "PORT AU PRINCE",
+            "branch": "(DELMAS BRANCH)",
+            "swift_code": "SOGHHTP1022"
+        },
+        {
+            "id": 12,
             "bank": "SOCIETE GENERALE HAITIENNE DE BANQUE S.A.",
             "city": "PORT AU PRINCE",
             "branch": null,
             "swift_code": "SOGHHTPP"
         },
         {
-            "id": 7,
+            "id": 13,
             "bank": "UNIBANK S.A.",
             "city": "PETION-VILLE",
             "branch": null,

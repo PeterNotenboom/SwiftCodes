@@ -4,353 +4,1095 @@
     "list": [
         {
             "id": 1,
+            "bank": "ACCESS INVESTMENT FUND MANAGEMENT COMPANY LTD.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "AIFMHUH1"
+        },
+        {
+            "id": 2,
+            "bank": "AEGON HUNGARY INVESTMENT FUND MANAGEMENT COMPANY LTD.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "AHIFHUH1"
+        },
+        {
+            "id": 3,
+            "bank": "AEGON MAGYARORSZAG BEFEKTETESI JEGY FORGALMAZO ZRT.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "AMBJHUH1"
+        },
+        {
+            "id": 4,
+            "bank": "AGRIBROKER KFT.",
+            "city": "BUDAPEST",
+            "branch": "(HEAD OFFICE)",
+            "swift_code": "AGRFHUH1AAA"
+        },
+        {
+            "id": 5,
+            "bank": "AGRIBROKER KFT.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "AGRFHUH1"
+        },
+        {
+            "id": 6,
+            "bank": "AGRIMPEX KFT.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "AGKFHUH1"
+        },
+        {
+            "id": 7,
+            "bank": "AGROKONT ZRT.",
+            "city": "BUDAPEST",
+            "branch": "(MANAGEMENT)",
+            "swift_code": "AGZRHUH1MMD"
+        },
+        {
+            "id": 8,
+            "bank": "AGROKONT ZRT.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "AGZRHUH1"
+        },
+        {
+            "id": 9,
             "bank": "ALLAMADOSSAG KEZELO KOZPONT RT.",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "AKKHHUHB"
         },
         {
-            "id": 2,
+            "id": 10,
+            "bank": "AXA MAGYARORORSZAG BEFEKTETESI ALAPKEZELO ZRT",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "AMBLHUH1"
+        },
+        {
+            "id": 11,
+            "bank": "BANIF PLUS BANK ZRT. 5TH FLOOR",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "BPZFHUH1"
+        },
+        {
+            "id": 12,
             "bank": "BANK OF CHINA (HUNGARY) LTD",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "BKCHHUHB"
         },
         {
-            "id": 3,
+            "id": 13,
             "bank": "BANK OF CHINA LIMITED HUNGARIAN BRANCH",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "BKCHHUHH"
         },
         {
-            "id": 4,
+            "id": 14,
+            "bank": "BANKAR BEFEKTETESI RT",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "BABFHUH1"
+        },
+        {
+            "id": 15,
+            "bank": "BIZTONSAG INVEST SECURITIES INC.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "BISIHUH1"
+        },
+        {
+            "id": 16,
+            "bank": "BNP DRESDNER ERTEKPAPIR RT",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "BDEKHUH1"
+        },
+        {
+            "id": 17,
             "bank": "BNP PARIBAS SECURITIES HUNGARY BRANCH",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "PARBHUHX"
         },
         {
-            "id": 5,
+            "id": 18,
             "bank": "BNP PARIBAS, HUNGARY BRANCH",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "BNPAHUHX"
         },
         {
-            "id": 6,
+            "id": 19,
+            "bank": "BUDA-CASH BROKERHAZ ZARTKORUEN MUKODO RESZVENYTARSASAG",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "BBZMHUH1"
+        },
+        {
+            "id": 20,
+            "bank": "BUDAPEST ALAPKEZELO ZRT.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "BUAZHUH1"
+        },
+        {
+            "id": 21,
             "bank": "BUDAPEST BANK RT.",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "BUDAHUHB"
         },
         {
-            "id": 7,
+            "id": 22,
+            "bank": "BUDAPEST COMMODITY EXCHANGE",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "XBCEHUH1"
+        },
+        {
+            "id": 23,
+            "bank": "BUDAPEST INVESTMENT MANAGEMENT COMPANY LTD.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "BIMCHUH1"
+        },
+        {
+            "id": 24,
+            "bank": "BUDAPESTI ERTEKT ZSDE ZARTKOER EN M KOED RESZVENYTARSASAG",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "XBUDHUH1"
+        },
+        {
+            "id": 25,
+            "bank": "CA IB INVESTMENT FUND MANAGEMENT LTD.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "IFMAHUH1"
+        },
+        {
+            "id": 26,
+            "bank": "CASHLINE ERTEKPAPIR ZARTKOER EN M KOED RESZVENYTARSASAG",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "CLINHUH1"
+        },
+        {
+            "id": 27,
+            "bank": "CE CENTRAL EUROPEAN BROKER LTD.",
+            "city": "BUDAPEST",
+            "branch": "(HEAD OFFICE)",
+            "swift_code": "CEBRHUH1001"
+        },
+        {
+            "id": 28,
+            "bank": "CE CENTRAL EUROPEAN BROKER LTD.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "CEBRHUH1"
+        },
+        {
+            "id": 29,
+            "bank": "CEE ACTIVE ASSET MANAGEMENT ZRT",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "CCSNHUH1"
+        },
+        {
+            "id": 30,
             "bank": "CIB BANK LTD. (FORMERLY CENTRAL-EUROPEAN INT.BANK LTD.)",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "CIBHHUHB"
         },
         {
-            "id": 8,
+            "id": 31,
+            "bank": "CIB INVESTMENT FUND MANAGEMENT COMPANY LTD.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "CINNHUH1"
+        },
+        {
+            "id": 32,
             "bank": "CITIBANK EUROPE PLC HUNGARIAN BRANCH",
             "city": "BUDAPEST",
             "branch": "(CUSTODY DEPARTMENT)",
             "swift_code": "CITIHUHXCUS"
         },
         {
-            "id": 9,
+            "id": 33,
             "bank": "CITIBANK EUROPE PLC HUNGARIAN BRANCH",
             "city": "BUDAPEST",
             "branch": "(TRADE SERVICES DEPT.)",
             "swift_code": "CITIHUHXTRD"
         },
         {
-            "id": 10,
+            "id": 34,
             "bank": "CITIBANK EUROPE PLC HUNGARIAN BRANCH",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "CITIHUHX"
         },
         {
-            "id": 11,
+            "id": 35,
+            "bank": "CODEX ERTEKTAR ES ERTEKPAPIR ZRT.",
+            "city": "BUDAPEST",
+            "branch": "(SECURITIES MARKETS)",
+            "swift_code": "CEEZHUH1SMK"
+        },
+        {
+            "id": 36,
+            "bank": "CODEX ERTEKTAR ES ERTEKPAPIR ZRT.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "CEEZHUH1"
+        },
+        {
+            "id": 37,
             "bank": "COMMERZBANK (BUDAPEST) RT.",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "COBAHUHX"
         },
         {
-            "id": 12,
+            "id": 38,
+            "bank": "CONCORDE ERTEKPAPIR UGYNOKSEG RT",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "COEGHUH1"
+        },
+        {
+            "id": 39,
+            "bank": "CONCORDE INVESTMENT FUND MANAGEMENT COMPANY LTD.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "CIUAHUH1"
+        },
+        {
+            "id": 40,
             "bank": "CREDIGEN BANK ZRT",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "CRDGHUHB"
         },
         {
-            "id": 13,
+            "id": 41,
+            "bank": "CREDIT SUISSE - BUDAPEST",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "CSBUHUH1"
+        },
+        {
+            "id": 42,
+            "bank": "CREDIT SUISSE ASSET MANAGEMENT HUNGARY INVESTMENT FUND MANAGEMENT COMPANY LTD.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "CSAGHUH1"
+        },
+        {
+            "id": 43,
             "bank": "DEUTSCHE BANK AG HUNGARY BRANCH",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "DEUTHU2B"
         },
         {
-            "id": 14,
+            "id": 44,
+            "bank": "DIOFA ALAPKEZELO ZRT.",
+            "city": "BUDAPEST",
+            "branch": "(BACK OFFICE)",
+            "swift_code": "DIATHUH1BKO"
+        },
+        {
+            "id": 45,
+            "bank": "DIOFA ALAPKEZELO ZRT.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "DIATHUH1"
+        },
+        {
+            "id": 46,
             "bank": "DUNA TAKAREK BANK ZRT.",
             "city": "GYOR",
             "branch": null,
             "swift_code": "DTBAHUHB"
         },
         {
-            "id": 15,
+            "id": 47,
+            "bank": "DUNAKANYAR TAKAREKSZOVETKEZET",
+            "city": "DUNABOGDANY",
+            "branch": null,
+            "swift_code": "DUNAHUH1"
+        },
+        {
+            "id": 48,
+            "bank": "EASTBROKERS",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "EASBHUH1"
+        },
+        {
+            "id": 49,
+            "bank": "EQUILOR INVESTMENT PLC.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "EQIEHUH1"
+        },
+        {
+            "id": 50,
+            "bank": "ERSTE BANK HUNGARY ZRT",
+            "city": "BUDAPEST",
+            "branch": "(CUSTODY DEPARTMENT)",
+            "swift_code": "GIBAHUH1CUS"
+        },
+        {
+            "id": 51,
             "bank": "ERSTE BANK HUNGARY ZRT",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "GIBAHUHB"
         },
         {
-            "id": 16,
+            "id": 52,
+            "bank": "ERSTE BEFEKTETESI ZRT.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "ERSKHUH1"
+        },
+        {
+            "id": 53,
+            "bank": "ERSTE INVESTMENT FUND MANAGEMENT COMPANY LTD.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "EIFMHUH1"
+        },
+        {
+            "id": 54,
             "bank": "EVOBANK CO. LTD.",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "KULBHUHB"
         },
         {
-            "id": 17,
+            "id": 55,
             "bank": "FHB KERESKEDELMI BANK ZRT",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "FHKBHUHB"
         },
         {
-            "id": 18,
+            "id": 56,
             "bank": "FOLDHITEL ES JELZALOGBANK RT",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "FHJBHUHB"
         },
         {
-            "id": 19,
+            "id": 57,
+            "bank": "FUEZES TAKAREK SZOVETKEZETI HITELINTEZET",
+            "city": "FUZESABONY",
+            "branch": null,
+            "swift_code": "FUVTHUH1"
+        },
+        {
+            "id": 58,
             "bank": "FUNDAMENTA-LAKASKASSZA LAKASTAKAREKPENZTAR RT",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "FLTPHUHB"
         },
         {
-            "id": 20,
+            "id": 59,
+            "bank": "FUTUREAL INVESTMENT FUND MANAGEMENT COMPANY LTD.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "FIFMHUH1"
+        },
+        {
+            "id": 60,
+            "bank": "GENERALI ALAPKEZELO ZRT",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "GEAZHUH1"
+        },
+        {
+            "id": 61,
+            "bank": "GENERALI INVESTMENT FUND MANAGEMENT COMPANY LTD.",
+            "city": "BUDAPEST",
+            "branch": "(ALL BRANCHES)",
+            "swift_code": "GIFGHUH1ALL"
+        },
+        {
+            "id": 62,
+            "bank": "GENERALI INVESTMENT FUND MANAGEMENT COMPANY LTD.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "GIFGHUH1"
+        },
+        {
+            "id": 63,
             "bank": "GIRO ZRT.",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "GHUNHUHB"
         },
         {
-            "id": 21,
+            "id": 64,
             "bank": "GIRO ZRT.",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "GHUNHUHBGIR"
         },
         {
-            "id": 22,
+            "id": 65,
+            "bank": "GLENCORE GRAIN HUNGARY KFT.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "GGHKHUH1"
+        },
+        {
+            "id": 66,
+            "bank": "GOG SECURITIES LIMITED",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "GOSCHUH1"
+        },
+        {
+            "id": 67,
             "bank": "GRANIT BANK ZRT.",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "GNBAHUHB"
         },
         {
-            "id": 23,
+            "id": 68,
+            "bank": "HAJDUDOROG ES VIDEKE TAKAREKSZOEVETKEZET",
+            "city": "HAJDUDOROG",
+            "branch": null,
+            "swift_code": "HAVTHUH1"
+        },
+        {
+            "id": 69,
+            "bank": "HAMILTON ZRT.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "HAMZHUH1"
+        },
+        {
+            "id": 70,
+            "bank": "HATARIDOS TOZSDEIPAR KFT.",
+            "city": "BEKESCSABA",
+            "branch": "(MONEY MARKETS AND DERIVATIVES)",
+            "swift_code": "HATKHUH1MMD"
+        },
+        {
+            "id": 71,
+            "bank": "HATARIDOS TOZSDEIPAR KFT.",
+            "city": "BEKESCSABA",
+            "branch": null,
+            "swift_code": "HATKHUH1"
+        },
+        {
+            "id": 72,
+            "bank": "HATARIDOS TOZSDEIPAR KFT.",
+            "city": "BEKESCSABA",
+            "branch": null,
+            "swift_code": "HATKHUH1HA1"
+        },
+        {
+            "id": 73,
+            "bank": "HUNGARIA ORDER KFT",
+            "city": "BUDAPEST",
+            "branch": "(COMMODITIES)",
+            "swift_code": "HUOKHUH1MMD"
+        },
+        {
+            "id": 74,
+            "bank": "HUNGARIA ORDER KFT",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "HUOKHUH1"
+        },
+        {
+            "id": 75,
             "bank": "HUNGARIAN BRANCH OFFICE OF AXA BANK EUROPE SA.",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "EUDIHUHB"
         },
         {
-            "id": 24,
+            "id": 76,
             "bank": "HUNGARIAN DEVELOPMENT BANK PLC",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "HBIDHUHB"
         },
         {
-            "id": 25,
+            "id": 77,
+            "bank": "HUNGARIAN REGISTRY",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "HRNWHUH1"
+        },
+        {
+            "id": 78,
             "bank": "HUNGARIAN STATE TREASURY",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "HUSTHUHB"
         },
         {
-            "id": 26,
+            "id": 79,
+            "bank": "HUNGAROGRAIN ZRT",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "HUZRHUH1"
+        },
+        {
+            "id": 80,
+            "bank": "IE INVESTMENT FUND MANAGEMENT COMPANY LTD.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "IFMCHUH1"
+        },
+        {
+            "id": 81,
+            "bank": "IE-NEW YORK BROKER BEFEKTETES ES PENZUEGYI KOEZVETIT ZARKOER EN M KOED RESZVENTYTARSASAG",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "NYBBHUH1"
+        },
+        {
+            "id": 82,
+            "bank": "IKR-BROKER TOZSDEUGYNOKI KFT.",
+            "city": "BABOLNA",
+            "branch": "(BACK OFFICE)",
+            "swift_code": "IKTKHUH1BKO"
+        },
+        {
+            "id": 83,
+            "bank": "IKR-BROKER TOZSDEUGYNOKI KFT.",
+            "city": "BABOLNA",
+            "branch": null,
+            "swift_code": "IKTKHUH1"
+        },
+        {
+            "id": 84,
             "bank": "ING BANK N.V. HUNGARY BRANCH",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "INGBHUHB"
         },
         {
-            "id": 27,
+            "id": 85,
+            "bank": "ING BARING ERTEKPAPIR RT",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "IBARHUH1"
+        },
+        {
+            "id": 86,
+            "bank": "ING INVESTMENT FUND MANAGEMENT COMPANY LTD.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "IIFMHUH1"
+        },
+        {
+            "id": 87,
             "bank": "K AND H BANK ZRT.(FORMERLY KERESKEDELMI ES HITELBANK RT)",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "OKHBHUHB"
         },
         {
-            "id": 28,
+            "id": 88,
+            "bank": "K AND H EQUITIES TANACSADO ZARTKOER EN M KOED RESZVENYTARSASAG",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "AAHTHUH1"
+        },
+        {
+            "id": 89,
+            "bank": "K AND H SECURITIES INVESTMENT FUND MANAGEMENT COMPANY LTD.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "SIFNHUH1"
+        },
+        {
+            "id": 90,
+            "bank": "KBC EQUITAS ZRT.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "KBEQHUH1"
+        },
+        {
+            "id": 91,
+            "bank": "KBC SECURITIES N.V. HUNGARIAN BRANCH OFFICE",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "KBSEHUH1"
+        },
+        {
+            "id": 92,
             "bank": "KDB BANK EUROPE LTD.",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "KODBHUHB"
         },
         {
-            "id": 29,
+            "id": 93,
+            "bank": "KELER LTD.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "KELEHUH1"
+        },
+        {
+            "id": 94,
+            "bank": "KORMEND ES VIDEKE TAKAREKSZOVETKEZET",
+            "city": "KORMEND",
+            "branch": null,
+            "swift_code": "KOVTHUH1"
+        },
+        {
+            "id": 95,
             "bank": "KOZPONTI ELSZAMOLOHAZ ES ERTEKTAR (BUDAPEST), ZRT.",
             "city": "BUDAPEST",
             "branch": "(VIBER DEPARTMENT)",
             "swift_code": "KELRHUHBABC"
         },
         {
-            "id": 30,
+            "id": 96,
             "bank": "KOZPONTI ELSZAMOLOHAZ ES ERTEKTAR (BUDAPEST), ZRT.",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "KELRHUHB"
         },
         {
-            "id": 31,
+            "id": 97,
             "bank": "MAGNET BANK ZRT.",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "HBWEHUHB"
         },
         {
-            "id": 32,
+            "id": 98,
             "bank": "MAGYAR CETELEM BANK ZRT.",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "MCBHHUHB"
         },
         {
-            "id": 33,
+            "id": 99,
             "bank": "MAGYAR EXPORT IMPORT BANK ZRT.",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "HEXIHUHB"
         },
         {
-            "id": 34,
+            "id": 100,
             "bank": "MAGYAR NEMZETI BANK",
             "city": "BUDAPEST",
             "branch": "(DOMESTIC PAYMENT SYSTEM)",
             "swift_code": "MANEHUHH"
         },
         {
-            "id": 35,
+            "id": 101,
             "bank": "MAGYAR NEMZETI BANK",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "MANEHUHB"
         },
         {
-            "id": 36,
+            "id": 102,
+            "bank": "MAGYAR PARIBAS S.A.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "PARBHUH1"
+        },
+        {
+            "id": 103,
             "bank": "MAGYAR POSTA ZRT",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "HUPOHUHB"
         },
         {
-            "id": 37,
+            "id": 104,
             "bank": "MAGYAR TAKAREKSZOVETKEZETI BANK RT.",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "TAKBHUHB"
         },
         {
-            "id": 38,
+            "id": 105,
+            "bank": "MECSEKKORNYEK HITELSZOVETKEZET",
+            "city": "PECS",
+            "branch": null,
+            "swift_code": "MEHIHUH1"
+        },
+        {
+            "id": 106,
+            "bank": "MECSEKVIDEKE TAKAREKSZOEVETKEZET MECSEKNADASD",
+            "city": "MECSEKNADASD",
+            "branch": null,
+            "swift_code": "MEVIHUH1"
+        },
+        {
+            "id": 107,
             "bank": "MERKANTIL VALTO ES VAGYONBEFEKTETO BANK RT.",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "MRKBHUHB"
         },
         {
-            "id": 39,
+            "id": 108,
+            "bank": "MERLITO ZRT.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "MRZRHUH1"
+        },
+        {
+            "id": 109,
             "bank": "MKB BANK ZRT (FORMERLY MAGYAR KULKERESKEDELMI BANK RT.)",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "MKKBHUHB"
         },
         {
-            "id": 40,
+            "id": 110,
+            "bank": "MKB INVESTMENT FUND MANAGEMENT COMPANY LTD.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "MIFNHUH1"
+        },
+        {
+            "id": 111,
+            "bank": "NOMURA SECURITIES HUNGARY LTD.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "NOMSHUH1"
+        },
+        {
+            "id": 112,
             "bank": "O.F.SZ. ORSZAGOS FIZETESI SZOLGALTATO ZARTKORUEN  MUKODO RESZVENYTARSASAG",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "OFSZHUHB"
         },
         {
-            "id": 41,
+            "id": 113,
             "bank": "OBERBANK AG",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "OBKLHUHB"
         },
         {
-            "id": 42,
+            "id": 114,
+            "bank": "OERKENYI TAKAREKSZOEVETKEZET",
+            "city": "ORKENY",
+            "branch": null,
+            "swift_code": "ORTAHUH1"
+        },
+        {
+            "id": 115,
             "bank": "OTP BANK PLC.",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "OTPVHUHB"
         },
         {
-            "id": 43,
+            "id": 116,
+            "bank": "OTP ERTEKPAPIR RT",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "OTPEHUH1"
+        },
+        {
+            "id": 117,
+            "bank": "OTP INVESTMENT FUND MANAGEMENT COMPANY LTD.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "OIFMHUH1"
+        },
+        {
+            "id": 118,
             "bank": "OTP MORTGAGEBANK LTD",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "OTPJHUHB"
         },
         {
-            "id": 44,
+            "id": 119,
+            "bank": "OTP REAL ESTATE INVESTMENT FUND MANAGEMENT COMPANY LTD.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "OREIHUH1"
+        },
+        {
+            "id": 120,
+            "bank": "PILISVOEROESVAR ES VIDEKE TAKAREKSZOEVETKEZET",
+            "city": "PILISVOROSVAR",
+            "branch": null,
+            "swift_code": "PVVTHUH1"
+        },
+        {
+            "id": 121,
+            "bank": "PLANINVEST BROKER ZRT.",
+            "city": "KESZTHELY",
+            "branch": null,
+            "swift_code": "PLBZHU21"
+        },
+        {
+            "id": 122,
             "bank": "POLGARI BANK ZRT",
             "city": "POLGAR",
             "branch": null,
             "swift_code": "POLBHU22"
         },
         {
-            "id": 45,
+            "id": 123,
             "bank": "PORSCHE BANK HUNGARIA ZRT",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "POHZHUHB"
         },
         {
-            "id": 46,
+            "id": 124,
+            "bank": "PRUDENT-INVEST INVESTMENT FUND MANAGEMENT COMPANY LTD.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "PIFMHUH1"
+        },
+        {
+            "id": 125,
+            "bank": "QUAESTOR ERTEKPAPIR NYRT.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "QUENHUH1"
+        },
+        {
+            "id": 126,
+            "bank": "QUAESTOR ERTEKPAPIR NYRT.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "QUENHUH1STY"
+        },
+        {
+            "id": 127,
+            "bank": "QUAESTOR INVESTMENT FUND MANAGEMENT COMPANY LTD.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "QIFMHUH1"
+        },
+        {
+            "id": 128,
+            "bank": "QUAESTOR PENZUEGYI TANACSADO ZARTKOER EN M KOED RESZVENYTARSASAG",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "WEIVHUH1"
+        },
+        {
+            "id": 129,
+            "bank": "QUANTIS ALPHA BEFEKTETESI ZRT.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "QAWMHUH1"
+        },
+        {
+            "id": 130,
+            "bank": "QUOTE MTF LTD.",
+            "city": "BUDAORS",
+            "branch": null,
+            "swift_code": "QUMTHUH1"
+        },
+        {
+            "id": 131,
             "bank": "RAIFFEISEN BANK ZRT.",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "UBRTHUHB"
         },
         {
-            "id": 47,
+            "id": 132,
+            "bank": "RAIFFEISEN GAZDASAGI SZOLGALTATO ZARTKOER EN M KOED RESZVENTYTARSASAG",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "REBKHUH1"
+        },
+        {
+            "id": 133,
+            "bank": "RAIFFEISEN INVESTMENT FUND MANAGEMENT COMPANY LTD.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "RIFMHUH1"
+        },
+        {
+            "id": 134,
+            "bank": "RANDOM CAPITAL ZRT",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "RACZHUH1"
+        },
+        {
+            "id": 135,
+            "bank": "REALSZISZTEMA INVESTMENT FUND MANAGEMENT COMPANY LTD.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "RIFNHUH1"
+        },
+        {
+            "id": 136,
+            "bank": "REALSZISZTEMA SECURITIES TRADING AND INVESTMENTS LTD",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "RSTIHUH1"
+        },
+        {
+            "id": 137,
+            "bank": "SAMSUNG ELECTRONICS HUNGRIAN",
+            "city": "JASZFENYSZARU",
+            "branch": "(SEH)",
+            "swift_code": "SECTHUH1490"
+        },
+        {
+            "id": 138,
+            "bank": "SAMSUNG ELECTRONICS HUNGRIAN",
+            "city": "JASZFENYSZARU",
+            "branch": null,
+            "swift_code": "SECTHUH1"
+        },
+        {
+            "id": 139,
             "bank": "SBERBANK MAGYARORSZAG ZRT",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "MAVOHUHB"
         },
         {
-            "id": 48,
+            "id": 140,
+            "bank": "SOLAR CAPITA MARKETS ZRT.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "SCAZHUH1"
+        },
+        {
+            "id": 141,
             "bank": "SOPRON BANK BURGENLAND ZRT.",
             "city": "SOPRON",
             "branch": null,
             "swift_code": "EHBBHUHS"
         },
         {
-            "id": 49,
+            "id": 142,
+            "bank": "SPB BEFEKTETESI ZRT.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "SPBZHUH1"
+        },
+        {
+            "id": 143,
+            "bank": "STRATEGON SECURITIES CO.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "STEEHUH1"
+        },
+        {
+            "id": 144,
+            "bank": "SWAP ZRT.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "SWZRHUH1"
+        },
+        {
+            "id": 145,
+            "bank": "SZARVAS ES VIDEKE KOERZETI TAKAREKSZOEVETKEZET",
+            "city": "SZARVAS",
+            "branch": null,
+            "swift_code": "SZTAHUH1"
+        },
+        {
+            "id": 146,
+            "bank": "SZECHENYI ISTVAN HITELSZOVETKEZET",
+            "city": "ZALAEGERSZEG",
+            "branch": null,
+            "swift_code": "SZIHHUH1"
+        },
+        {
+            "id": 147,
+            "bank": "SZEGVAR ES VIDEKE TAKAREKSZOVETKEZET",
+            "city": "SZEGVAR",
+            "branch": null,
+            "swift_code": "SZGTHUH1"
+        },
+        {
+            "id": 148,
+            "bank": "TAKAREK BROKER RT",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "TAKRHUH1"
+        },
+        {
+            "id": 149,
+            "bank": "TAKAREK FUND MANAGEMENT PLC.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "TAFMHUH1"
+        },
+        {
+            "id": 150,
+            "bank": "TESZT BROKER",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "TEBRHUH1"
+        },
+        {
+            "id": 151,
+            "bank": "TISZAFOELDVAR ES VIDEKE TAKAREKSZOEVETKEZET",
+            "city": "TISZAFOLDVAR",
+            "branch": null,
+            "swift_code": "TISZHUH1"
+        },
+        {
+            "id": 152,
+            "bank": "TISZANTULI ELSOE HITELSZOEVETKEZET",
+            "city": "DEBRECEN",
+            "branch": null,
+            "swift_code": "TEHDHUH1"
+        },
+        {
+            "id": 153,
             "bank": "UNICREDIT BANK HUNGARY ZRT.",
             "city": "BUDAPEST",
             "branch": "(CUSTODIAN SERVICES)",
             "swift_code": "BACXHUHBCUS"
         },
         {
-            "id": 50,
+            "id": 154,
             "bank": "UNICREDIT BANK HUNGARY ZRT.",
             "city": "BUDAPEST",
             "branch": null,
             "swift_code": "BACXHUHB"
+        },
+        {
+            "id": 155,
+            "bank": "UNIQA ASSET MANAGEMENT COMPANY LTD.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "UAMCHUH1"
+        },
+        {
+            "id": 156,
+            "bank": "WOOD AND COMPANY TANACSADO RT.",
+            "city": "BUDAPEST",
+            "branch": null,
+            "swift_code": "WOODHUH1"
         }
     ]
 }

@@ -32,27 +32,34 @@
         },
         {
             "id": 5,
+            "bank": "BANCO NACIONAL DE SAO TOME E PRINCIPE",
+            "city": "SAO TOME",
+            "branch": null,
+            "swift_code": "BNSTSTS1"
+        },
+        {
+            "id": 6,
             "bank": "BGFIBANK SAO TOME ET PRINCIPE",
             "city": "SAO TOME",
             "branch": null,
             "swift_code": "BGFISTST"
         },
         {
-            "id": 6,
+            "id": 7,
             "bank": "COMMERCIAL BANK - SAO TOME E PRINCIPE",
             "city": "SAO TOME",
             "branch": null,
             "swift_code": "CBSTSTST"
         },
         {
-            "id": 7,
+            "id": 8,
             "bank": "ECOBANK SAO TOME",
             "city": "SAO TOME",
             "branch": null,
             "swift_code": "ECOCSTST"
         },
         {
-            "id": 8,
+            "id": 9,
             "bank": "ENERGYBANK SAO TOME E PRICIPE S.A",
             "city": "SAO TOME",
             "branch": null,

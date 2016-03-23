@@ -18,31 +18,108 @@
         },
         {
             "id": 3,
+            "bank": "BANQUE PARIBAS PACIFIQUE",
+            "city": "NOUMEA",
+            "branch": null,
+            "swift_code": "PARBNCN1"
+        },
+        {
+            "id": 4,
             "bank": "BNP PARIBAS NOUVELLE CALEDONIE NOUMEA",
             "city": "KOUMAC",
             "branch": null,
             "swift_code": "BNPANCNXKOU"
         },
         {
-            "id": 4,
+            "id": 5,
             "bank": "BNP PARIBAS NOUVELLE CALEDONIE NOUMEA",
             "city": "NOUMEA",
             "branch": null,
             "swift_code": "BNPANCNX"
         },
         {
-            "id": 5,
+            "id": 6,
+            "bank": "CAISSE D'EPARGNE DE NOUVELLE CALEDONIE",
+            "city": "NOUMEA",
+            "branch": null,
+            "swift_code": "CDNCNCN1"
+        },
+        {
+            "id": 7,
             "bank": "CAISSE DES DEPOTS ET CONSIGNATIONS",
             "city": "NOUMEA",
             "branch": null,
             "swift_code": "CDCGNCNN"
         },
         {
-            "id": 6,
+            "id": 8,
+            "bank": "CENTRE FINANCIER DE NOUMEA",
+            "city": "NOUMEA",
+            "branch": null,
+            "swift_code": "CEFNNCN1"
+        },
+        {
+            "id": 9,
+            "bank": "CREDIT CALEDONIEN ET TAHITIEN",
+            "city": "NOUMEA",
+            "branch": null,
+            "swift_code": "CCTCNCN1"
+        },
+        {
+            "id": 10,
+            "bank": "CSSE CIT AGRICOLE MUTUEL NLLE CALEDONIE",
+            "city": "NOUMEA",
+            "branch": null,
+            "swift_code": "CCAENCN1"
+        },
+        {
+            "id": 11,
+            "bank": "GE FINANCEMENT PACIFIQUE SAS",
+            "city": "NOUMEA",
+            "branch": null,
+            "swift_code": "FPSSNCN1"
+        },
+        {
+            "id": 12,
+            "bank": "INSITITUT D EMISSION D OUTRE-MER",
+            "city": "NOUMEA",
+            "branch": null,
+            "swift_code": "INDDNCN1"
+        },
+        {
+            "id": 13,
+            "bank": "JOC GESTION PRIVEE",
+            "city": "NOUMEA",
+            "branch": null,
+            "swift_code": "JOGPNCN1"
+        },
+        {
+            "id": 14,
+            "bank": "NOUMEA CREDIT",
+            "city": "NOUMEA",
+            "branch": null,
+            "swift_code": "NOUCNCN1"
+        },
+        {
+            "id": 15,
+            "bank": "OCEOR LEASE NOUMEA",
+            "city": "NOUMEA",
+            "branch": null,
+            "swift_code": "OCLNNCN1"
+        },
+        {
+            "id": 16,
             "bank": "SOCIETE GENERALE CALEDONIENNE DE BANQUE S G C B",
             "city": "NOUMEA",
             "branch": null,
             "swift_code": "SOGENCNN"
+        },
+        {
+            "id": 17,
+            "bank": "TRESOR PUBLIC NOUMEA",
+            "city": "NOUMEA",
+            "branch": null,
+            "swift_code": "TRPUNCN1"
         }
     ]
 }

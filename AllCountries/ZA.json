@@ -11,1882 +11,2897 @@
         },
         {
             "id": 2,
+            "bank": "ABAX INVESTMENTS",
+            "city": "CAPE TOWN",
+            "branch": null,
+            "swift_code": "ABIVZAJ1"
+        },
+        {
+            "id": 3,
             "bank": "ABSA BANK LIMITED",
             "city": "BLOEMFONTEIN",
             "branch": "(INTERNATIONAL CENTER BLOEMFONTEIN)",
             "swift_code": "ABSAZAJJCBF"
         },
         {
-            "id": 3,
+            "id": 4,
             "bank": "ABSA BANK LIMITED",
             "city": "CAPE TOWN",
             "branch": "(CORPORATE BANKING SERVICES - WESTERN CAPE\/476)",
             "swift_code": "ABSAZAJJCCT"
         },
         {
-            "id": 4,
+            "id": 5,
             "bank": "ABSA BANK LIMITED",
             "city": "DURBAN",
             "branch": "(CORPORATE BANKING SERVICES - NATAL\/479)",
             "swift_code": "ABSAZAJJCDB"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "ABSA BANK LIMITED",
             "city": "JOHANNESBURG",
             "branch": "(ABSA CAPITAL BROKERS)",
             "swift_code": "ABSAZAJJACS"
         },
         {
-            "id": 6,
+            "id": 7,
             "bank": "ABSA BANK LIMITED",
             "city": "JOHANNESBURG",
             "branch": "(ABSA CUSTODY)",
             "swift_code": "ABSAZAJJMG3"
         },
         {
-            "id": 7,
+            "id": 8,
             "bank": "ABSA BANK LIMITED",
             "city": "JOHANNESBURG",
             "branch": "(ABSA ISSUING AGENT)",
             "swift_code": "ABSAZAJJMG1"
         },
         {
-            "id": 8,
+            "id": 9,
             "bank": "ABSA BANK LIMITED",
             "city": "JOHANNESBURG",
             "branch": "(ABSA RECONCILITAION DIVISION)",
             "swift_code": "ABSAZAJJREK"
         },
         {
-            "id": 9,
+            "id": 10,
             "bank": "ABSA BANK LIMITED",
             "city": "JOHANNESBURG",
             "branch": "(ABSA TRADE REPORTING)",
             "swift_code": "ABSAZAJJMG2"
         },
         {
-            "id": 10,
+            "id": 11,
             "bank": "ABSA BANK LIMITED",
             "city": "JOHANNESBURG",
             "branch": "(ALL SOUTH AFRICAN OFFICES)",
             "swift_code": "ABSAZAJJ"
         },
         {
-            "id": 11,
+            "id": 12,
             "bank": "ABSA BANK LIMITED",
             "city": "JOHANNESBURG",
             "branch": "(CORPORATE BANKING SERVICES - WITWATERSRAND\/235)",
             "swift_code": "ABSAZAJJCWI"
         },
         {
-            "id": 12,
+            "id": 13,
             "bank": "ABSA BANK LIMITED",
             "city": "JOHANNESBURG",
             "branch": "(LENDING DIVISION)",
             "swift_code": "ABSAZAJJSLB"
         },
         {
-            "id": 13,
+            "id": 14,
             "bank": "ABSA BANK LIMITED",
             "city": "JOHANNESBURG",
             "branch": "(MONEY MARKET BRANCH)",
             "swift_code": "ABSAZAJJMMD"
         },
         {
-            "id": 14,
+            "id": 15,
             "bank": "ABSA BANK LIMITED",
             "city": "JOHANNESBURG",
             "branch": "(MONEY MARKET BRANCH)",
             "swift_code": "ABSAZAJJTMS"
         },
         {
-            "id": 15,
+            "id": 16,
             "bank": "ABSA BANK LIMITED",
             "city": "JOHANNESBURG",
             "branch": "(VOSTRO BRANCH)",
             "swift_code": "ABSAZAJJVOS"
         },
         {
-            "id": 16,
+            "id": 17,
             "bank": "ABSA BANK LIMITED",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "ABSAZAJJTRS"
         },
         {
-            "id": 17,
+            "id": 18,
             "bank": "ABSA BANK LIMITED",
             "city": "NELSPRUIT",
             "branch": "(INTERNATIONAL BANKING CENTRE NELSPRUIT\/449)",
             "swift_code": "ABSAZAJJCNE"
         },
         {
-            "id": 18,
+            "id": 19,
             "bank": "ABSA BANK LIMITED",
             "city": "PORT ELIZABETH",
             "branch": "(CORPORATE BANKING SERVICES - EASTERN CAPE\/480)",
             "swift_code": "ABSAZAJJCPE"
         },
         {
-            "id": 19,
+            "id": 20,
             "bank": "ABSA BANK LIMITED",
             "city": "PRETORIA",
             "branch": "(CORPORATE BANKING SERVICES - NORTHERN TRANSVAAL\/478)",
             "swift_code": "ABSAZAJJCPT"
         },
         {
-            "id": 20,
+            "id": 21,
             "bank": "ABSA BANK LIMITED",
             "city": "PRETORIA",
             "branch": "(CREDIT CARD ADMIN CENTRE)",
             "swift_code": "ABSAZAJJCRD"
         },
         {
-            "id": 21,
+            "id": 22,
             "bank": "ABSA CAPITAL SECURITIES PROPRIETARY LIMITED",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "ABSAZAJ3"
         },
         {
-            "id": 22,
+            "id": 23,
             "bank": "ABSA STOCKBROKERS (PROPRIETARY) LIMITED",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "ABSAZAJ2"
         },
         {
-            "id": 23,
+            "id": 24,
+            "bank": "ABSA TRUST LIMITED",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "ABTRZAJ1"
+        },
+        {
+            "id": 25,
             "bank": "ABVEST ASSOCIATES LTD",
             "city": "CLAREMONT",
             "branch": null,
             "swift_code": "ABVSZAJJ"
         },
         {
-            "id": 24,
+            "id": 26,
             "bank": "ACH TRADING CC",
             "city": "BEDFORDVIEW",
             "branch": null,
             "swift_code": "SBCHZAJJ"
         },
         {
-            "id": 25,
+            "id": 27,
+            "bank": "AFC LIMITED",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "AFCAZAJ1"
+        },
+        {
+            "id": 28,
             "bank": "AFRICAN BANK LIMITED",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "AFRCZAJJ"
         },
         {
-            "id": 26,
+            "id": 29,
+            "bank": "AFRICAN HARVEST (PTY) LTD",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "AHFMZAJ1"
+        },
+        {
+            "id": 30,
             "bank": "AFRIFOCUS SECURITIES (PTY) LTD",
             "city": "SANDTON",
             "branch": null,
             "swift_code": "AFRFZAJJ"
         },
         {
-            "id": 27,
+            "id": 31,
+            "bank": "AFRIPACK",
+            "city": "DURBAN",
+            "branch": null,
+            "swift_code": "AFRPZAJ1"
+        },
+        {
+            "id": 32,
+            "bank": "AGILISTO",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "AGLLZAJ1"
+        },
+        {
+            "id": 33,
             "bank": "ALBARAKA BANK",
             "city": "DURBAN",
             "branch": null,
             "swift_code": "ALBRZAJJ"
         },
         {
-            "id": 28,
+            "id": 34,
+            "bank": "ALEXANDER ASSET MANAGEMENT",
+            "city": "MARSHALLTOWN",
+            "branch": null,
+            "swift_code": "ALAAZAJ1"
+        },
+        {
+            "id": 35,
             "bank": "ALLAN GRAY LIMITED",
             "city": "CAPE TOWN",
             "branch": null,
             "swift_code": "GRAYZAJC"
         },
         {
-            "id": 29,
+            "id": 36,
+            "bank": "ALLAN GRAY LIMITED",
+            "city": "CAPE TOWN",
+            "branch": null,
+            "swift_code": "AIICZAJ1"
+        },
+        {
+            "id": 37,
             "bank": "ALTRON FINANCE (PTY) LTD",
             "city": "PARKTOWN",
             "branch": null,
             "swift_code": "ALTFZAJJ"
         },
         {
-            "id": 30,
+            "id": 38,
+            "bank": "AMERICAN EXPRESS BANK",
+            "city": "BRAAMFONTEIN",
+            "branch": null,
+            "swift_code": "AEIBZAJ1"
+        },
+        {
+            "id": 39,
+            "bank": "ANDERSON WILSON AND PARTNERS INC.",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "ANWPZAJ1"
+        },
+        {
+            "id": 40,
             "bank": "ANGLO AMERICAN SA FINANCE LIMITED",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "AACLZAJJ"
         },
         {
-            "id": 31,
+            "id": 41,
             "bank": "ANGLO AMERICAN SA FINANCE LIMITED",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "AACLZAJJCIM"
         },
         {
-            "id": 32,
+            "id": 42,
             "bank": "ANGLORAND SECURITIES PTY LTD",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "PALRZAJJ"
         },
         {
-            "id": 33,
+            "id": 43,
+            "bank": "AQUARIUS PLATINUM LIMITED",
+            "city": "CENTURION",
+            "branch": null,
+            "swift_code": "AQPLZAJ1"
+        },
+        {
+            "id": 44,
+            "bank": "ARGON ASSET MANAGEMENT (PTY) LIMITED",
+            "city": "CAPE TOWN",
+            "branch": null,
+            "swift_code": "AREMZAJ1"
+        },
+        {
+            "id": 45,
             "bank": "ARQAAM CAPITAL SOUTH AFRICA (PTY) LIMITED",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "ARQMZAJJ"
         },
         {
-            "id": 34,
+            "id": 46,
+            "bank": "ARROW FINANCIAL SERVICES (PTY) LTD",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "ARFSZAJ1"
+        },
+        {
+            "id": 47,
+            "bank": "ASTLEY AND PEARCE (PTY) LTD",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "ASPPZAJ1"
+        },
+        {
+            "id": 48,
             "bank": "AVIOR RESEARCH (PTY) LTD",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "GDPTZAJJ"
         },
         {
-            "id": 35,
+            "id": 49,
+            "bank": "AYLETT AND CO (PTY) LTD",
+            "city": "CAPE TOWN",
+            "branch": null,
+            "swift_code": "AYPTZAJ1"
+        },
+        {
+            "id": 50,
             "bank": "B.P. BERNSTEIN",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "BERNZAJJ"
         },
         {
-            "id": 36,
+            "id": 51,
+            "bank": "BANK BRUSSELS LAMBERT, BBL REPRESENTATIVE OFFICE IN SOUTH AFRICA",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "BBRUZAJ1"
+        },
+        {
+            "id": 52,
             "bank": "BANK OF BARODA",
             "city": "DURBAN",
             "branch": null,
             "swift_code": "BARBZAJJ"
         },
         {
-            "id": 37,
+            "id": 53,
             "bank": "BANK OF BARODA",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "BARBZAJJJNB"
         },
         {
-            "id": 38,
+            "id": 54,
             "bank": "BANK OF CHINA JOHANNESBURG BRANCH",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "BKCHZAJJ"
         },
         {
-            "id": 39,
+            "id": 55,
             "bank": "BANK OF INDIA JOHANNESBURG BRANCH",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "BKIDZAJJ"
         },
         {
-            "id": 40,
+            "id": 56,
             "bank": "BANK OF TAIWAN, SOUTH AFRICA BRANCH",
             "city": "ROSEBANK",
             "branch": null,
             "swift_code": "BKTWZAJJ"
         },
         {
-            "id": 41,
+            "id": 57,
             "bank": "BANK SERV LIMITED",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "BKSVZAJS"
         },
         {
-            "id": 42,
+            "id": 58,
             "bank": "BANKSERV LIMITED",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "BKSVZAJJ"
         },
         {
-            "id": 43,
+            "id": 59,
             "bank": "BARNARD JACOBS MELLET PRIVATE CLIENT SERVICES (PTY) LTD",
             "city": "SANDTON",
             "branch": null,
             "swift_code": "BJMRZAJJ"
         },
         {
-            "id": 44,
+            "id": 60,
             "bank": "BARNARD JACOBS MELLETT AND CO (PTY) LIMITED",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "SBJMZAJJ"
         },
         {
-            "id": 45,
+            "id": 61,
+            "bank": "BCX CONFIRMATIONS",
+            "city": "MIDRAND",
+            "branch": null,
+            "swift_code": "BCXCZAJ1"
+        },
+        {
+            "id": 62,
             "bank": "BIDVEST BANK LTD",
             "city": "BRAAMFONTEIN",
             "branch": null,
             "swift_code": "BIDBZAJJ"
         },
         {
-            "id": 46,
+            "id": 63,
             "bank": "BNP PARIBAS JOHANNESBURG",
             "city": "JOHANNESBURG",
             "branch": "(BNP PARIBAS SA)",
             "swift_code": "BNPAZAJJEQD"
         },
         {
-            "id": 47,
+            "id": 64,
             "bank": "BNP PARIBAS JOHANNESBURG",
             "city": "MELROSE ARCH",
             "branch": null,
             "swift_code": "BNPAZAJJ"
         },
         {
-            "id": 48,
+            "id": 65,
             "bank": "BNP PARIBAS SECURITIES SA (PTY) LTD",
             "city": "CAPE TOWN",
             "branch": null,
             "swift_code": "SPTSZAJJ"
         },
         {
-            "id": 49,
+            "id": 66,
+            "bank": "BOE PRIVATE BANK TRUST COMPANY LIMITED",
+            "city": "CAPE TOWN",
+            "branch": null,
+            "swift_code": "BOEPZAJ1"
+        },
+        {
+            "id": 67,
+            "bank": "BOE TRUST LIMITED",
+            "city": "CAPE TOWN",
+            "branch": null,
+            "swift_code": "SYTRZAJ1"
+        },
+        {
+            "id": 68,
+            "bank": "BOND STREET SECURITIES (PTY) LTD",
+            "city": "DURBANVILLE",
+            "branch": null,
+            "swift_code": "BSSYZAJ1"
+        },
+        {
+            "id": 69,
             "bank": "BPI CAPITAL AFRICA (PTY) LTD",
             "city": "CAPE TOWN",
             "branch": null,
             "swift_code": "BBPIZAJC"
         },
         {
-            "id": 50,
+            "id": 70,
+            "bank": "BRAIT SECUTITIES (PTY) LTD",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "BSPTZAJ1"
+        },
+        {
+            "id": 71,
+            "bank": "BRITISH AMERICAN TOBACCO SOUTH AFRICA (PTY) LIMITED",
+            "city": "STELLENBOSCH",
+            "branch": null,
+            "swift_code": "BATSZAJ1"
+        },
+        {
+            "id": 72,
+            "bank": "BTN MONDIAL",
+            "city": "GREATER GERMISTON",
+            "branch": null,
+            "swift_code": "BTMOZAJ1"
+        },
+        {
+            "id": 73,
             "bank": "BUSINESS CONNEXION",
             "city": "MIDRAND",
             "branch": null,
             "swift_code": "BCXGZAJM"
         },
         {
-            "id": 51,
+            "id": 74,
+            "bank": "CADIZ",
+            "city": "CAPE TOWN",
+            "branch": null,
+            "swift_code": "CADZZAJ1"
+        },
+        {
+            "id": 75,
             "bank": "CANARA BANK",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "CNRBZAJJ"
         },
         {
-            "id": 52,
+            "id": 76,
+            "bank": "CAPITAL CORPORATION (PTY) LTD",
+            "city": "BRAAMFONTEIN",
+            "branch": null,
+            "swift_code": "CACPZAJ1"
+        },
+        {
+            "id": 77,
             "bank": "CAPITEC BANK LIMITED",
             "city": "STELLENBOSCH",
             "branch": null,
             "swift_code": "CABLZAJJ"
         },
         {
-            "id": 53,
+            "id": 78,
+            "bank": "CARPE DIEM ESTATE",
+            "city": "UPINGTON",
+            "branch": null,
+            "swift_code": "CADAZAJ1"
+        },
+        {
+            "id": 79,
+            "bank": "CATALYST FUND MANAGERS",
+            "city": "CAPE TOWN",
+            "branch": null,
+            "swift_code": "CAUGZAJ1"
+        },
+        {
+            "id": 80,
+            "bank": "CCD (PTY) LTD",
+            "city": "CLAREMONT",
+            "branch": null,
+            "swift_code": "CCPTZAJ1"
+        },
+        {
+            "id": 81,
+            "bank": "CGU HOLDINGS LIMITED",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "CUSAZAJ1"
+        },
+        {
+            "id": 82,
             "bank": "CHINA CONSTRUCTION BANK CORPORATION JOHANNESBURG BRANCH",
             "city": "SANDTON",
             "branch": null,
             "swift_code": "PCBCZAJJ"
         },
         {
-            "id": 54,
+            "id": 83,
             "bank": "CITIBANK SOUTH AFRICA",
             "city": "SANDTON",
             "branch": "(TRADE SERVICES DEPT)",
             "swift_code": "CITIZAJXTRD"
         },
         {
-            "id": 55,
+            "id": 84,
             "bank": "CITIBANK SOUTH AFRICA",
             "city": "SANDTON",
             "branch": null,
             "swift_code": "CITIZAJX"
         },
         {
-            "id": 56,
+            "id": 85,
             "bank": "CITIGROUP GLOBAL MARKETS (PTY) LTD",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "SSBSZAJJ"
         },
         {
-            "id": 57,
+            "id": 86,
+            "bank": "COMMUNITY BANK (UNDER CURATORSHIP)",
+            "city": "SANDTON",
+            "branch": null,
+            "swift_code": "CUBCZAJ1"
+        },
+        {
+            "id": 87,
+            "bank": "COMPUTERSHARE INVESTOR SERVICES PROPRIETARY LIMITED",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "CSCUZAJ1"
+        },
+        {
+            "id": 88,
             "bank": "COMPUTERSHARE PROPRIETARY LIMITED",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "CSEVZAJJ100"
         },
         {
-            "id": 58,
+            "id": 89,
             "bank": "COMPUTERSHARE PROPRIETARY LIMITED",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "CSEVZAJJ"
         },
         {
-            "id": 59,
+            "id": 90,
             "bank": "COMPUTERSHARE PROPRIETARY LIMITED",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "CSEVZAJJ200"
         },
         {
-            "id": 60,
+            "id": 91,
             "bank": "COMPUTERSHARE PROPRIETARY LIMITED",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "CSEVZAJJ300"
         },
         {
-            "id": 61,
+            "id": 92,
             "bank": "CONSILIUM CAPITAL (SA) (PTY) LTD.",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "COCPZAJJ"
         },
         {
-            "id": 62,
+            "id": 93,
+            "bank": "CONSOLIDATED FUND MANAGERS (PTY) LTD",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "CFMPZAJ1"
+        },
+        {
+            "id": 94,
+            "bank": "COOPERS AND LYBRAND CORPORATE FINANCE (PTY) LTD.",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "CLCFZAJ1"
+        },
+        {
+            "id": 95,
+            "bank": "CORONATION FUND MANAGERS",
+            "city": "CLAREMONT",
+            "branch": null,
+            "swift_code": "COUGZAJ1"
+        },
+        {
+            "id": 96,
+            "bank": "CORONATION HOLDINGS LIMITED",
+            "city": "CAPE TOWN",
+            "branch": null,
+            "swift_code": "COHLZAJ1"
+        },
+        {
+            "id": 97,
+            "bank": "CORONATION SPECIALISED FUNDS (PTY) LTD",
+            "city": "CLAREMONT",
+            "branch": null,
+            "swift_code": "CSFYZAJ1"
+        },
+        {
+            "id": 98,
+            "bank": "CRATOS CAPITAL (PTY) LTD",
+            "city": "ILLOVO",
+            "branch": null,
+            "swift_code": "CRCAZAJ1"
+        },
+        {
+            "id": 99,
             "bank": "CRATOS INSTITUTIONAL PTY LTD",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "CRCAZAJJ"
         },
         {
-            "id": 63,
+            "id": 100,
+            "bank": "CREDIT AND SAVINGS HELP BANK",
+            "city": "CAPE TOWN",
+            "branch": null,
+            "swift_code": "CRAHZAJ1"
+        },
+        {
+            "id": 101,
+            "bank": "CREDIT GUARANTEE INSURANCE CORPORATION OF AFRICA LIMITED",
+            "city": "RANDBURG",
+            "branch": null,
+            "swift_code": "CRGUZAJ1"
+        },
+        {
+            "id": 102,
             "bank": "CREDIT SUISSE SECURITIES (JOHANNESBURG) (PTY) LTD.",
             "city": "SANDTON",
             "branch": null,
             "swift_code": "CRESZAJJ"
         },
         {
-            "id": 64,
+            "id": 103,
             "bank": "CURO FUND SERVICES (PTY) LTD",
             "city": "CAPE TOWN",
             "branch": null,
             "swift_code": "TAFAZAJC"
         },
         {
-            "id": 65,
+            "id": 104,
+            "bank": "DECIMAX SECURITIES (PTY) LTD",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "DESPZAJ1"
+        },
+        {
+            "id": 105,
             "bank": "DEUTSCHE BANK AG",
             "city": "JOHANNESBURG",
             "branch": "(GLOBAL MARKETS)",
             "swift_code": "DEUTZAJXGFX"
         },
         {
-            "id": 66,
+            "id": 106,
             "bank": "DEUTSCHE BANK AG",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "DEUTZAJX"
         },
         {
-            "id": 67,
+            "id": 107,
+            "bank": "DEUTSCHE SECURITIES PTY LTD",
+            "city": "CAPE TOWN",
+            "branch": null,
+            "swift_code": "IVJRZAJ10JC"
+        },
+        {
+            "id": 108,
             "bank": "DEUTSCHE SECURITIES PTY LTD",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "IVJRZAJJ"
         },
         {
-            "id": 68,
+            "id": 109,
             "bank": "DEVELOPMENT BANK OF SOUTHERN AFRICA LIMITED",
             "city": "MIDRAND",
             "branch": null,
             "swift_code": "DESFZAJM"
         },
         {
-            "id": 69,
+            "id": 110,
+            "bank": "DOLFIN FINANCIAL SERVICES (PTY) LTD",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "DFSPZAJ1"
+        },
+        {
+            "id": 111,
+            "bank": "EFFICIENT COLLECTIVE INVESTMENTS PTY LTD",
+            "city": "CAPE TOWN",
+            "branch": null,
+            "swift_code": "ECITZAJ1"
+        },
+        {
+            "id": 112,
             "bank": "ESKOM TREASURY",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "ESKOZAJJ"
         },
         {
-            "id": 70,
+            "id": 113,
+            "bank": "EXECTRUST (PTY) LTD",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "TRBPZAJ1"
+        },
+        {
+            "id": 114,
+            "bank": "FARMWISE LIMITED",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "FARMZAJ1"
+        },
+        {
+            "id": 115,
+            "bank": "FBC FIDELITY BANK LIMITED",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "FBCCZAJ1"
+        },
+        {
+            "id": 116,
+            "bank": "FEDLIFE ASSURANCE LIMITED",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "FEASZAJ1"
+        },
+        {
+            "id": 117,
+            "bank": "FEDSURE ASSET MANAGEMENT CO. (PTY) LTD",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "FAMTZAJ1"
+        },
+        {
+            "id": 118,
             "bank": "FFO SECURITIES (PTY) LTD",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "FFOSZAJJ"
         },
         {
-            "id": 71,
+            "id": 119,
+            "bank": "FINANCIAL CURRENCY BROKERS S.A. (PTY) LTD",
+            "city": "MARSHALLTOWN",
+            "branch": null,
+            "swift_code": "FCBPZAJ1"
+        },
+        {
+            "id": 120,
             "bank": "FINBOND MUTUAL BANK",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "FBMBZAJJ"
         },
         {
-            "id": 72,
+            "id": 121,
             "bank": "FIRSTRAND BANK LTD HEAD OFFICE INCL. DIVISIONS FIRST NATIONAL BANK, FNB CORPORATE AND RAND MERCHANT BANK",
             "city": "JOHANNESBURG",
             "branch": "(CUSTODY SERVICES, INTERNATIONAL BANKING)",
             "swift_code": "FIRNZAJJ896"
         },
         {
-            "id": 73,
+            "id": 122,
             "bank": "FIRSTRAND BANK LTD HEAD OFFICE INCL. DIVISIONS FIRST NATIONAL BANK, FNB CORPORATE AND RAND MERCHANT BANK",
             "city": "JOHANNESBURG",
             "branch": "(HEAD OFFICE AND ALL SOUTH AFRICAN OFFICES)",
             "swift_code": "FIRNZAJJ"
         },
         {
-            "id": 74,
+            "id": 123,
             "bank": "FIRSTRAND BANK LTD HEAD OFFICE INCL. DIVISIONS FIRST NATIONAL BANK, FNB CORPORATE AND RAND MERCHANT BANK",
             "city": "JOHANNESBURG",
             "branch": "(RMB CAPITAL MARKET BONDS (RMBE))",
             "swift_code": "FIRNZAJJRBS"
         },
         {
-            "id": 75,
+            "id": 124,
             "bank": "FIRSTRAND BANK LTD HEAD OFFICE INCL. DIVISIONS FIRST NATIONAL BANK, FNB CORPORATE AND RAND MERCHANT BANK",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "FIRNZAJJRSL"
         },
         {
-            "id": 76,
+            "id": 125,
+            "bank": "FITCH SOUTHERN AFRICA (PTY) LTD.",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "FRIPZAJ1"
+        },
+        {
+            "id": 126,
             "bank": "FOORD ASSET MANAGEMENT (PROPRIETARY) LIMITED",
             "city": "PINELANDS",
             "branch": null,
             "swift_code": "FRDGZAJJ"
         },
         {
-            "id": 77,
+            "id": 127,
             "bank": "FOUR M TRADERS (PTY) LTD",
             "city": "MELROSE ARCH",
             "branch": null,
             "swift_code": "FORMZAJJ"
         },
         {
-            "id": 78,
+            "id": 128,
+            "bank": "FREEWORLD CAPITAL HOLDINGS (PTY)LTD",
+            "city": "PRETORIA",
+            "branch": null,
+            "swift_code": "FREEZAJ1"
+        },
+        {
+            "id": 129,
+            "bank": "FX AFRICA FOREIGN EXCHANGE (PTY)LTD",
+            "city": "SANDTON",
+            "branch": null,
+            "swift_code": "FXAFZAJ1"
+        },
+        {
+            "id": 130,
+            "bank": "FXINCBROKERS",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "FXINZAJ1"
+        },
+        {
+            "id": 131,
+            "bank": "GBS MUTUAL BANK",
+            "city": "GRAHAMSTOWN",
+            "branch": null,
+            "swift_code": "GBSMZAJ1"
+        },
+        {
+            "id": 132,
             "bank": "GENBEL SECURITIES PROPRIETARY LIMITED",
             "city": "SANDTON",
             "branch": null,
             "swift_code": "GBSEZAJJ"
         },
         {
-            "id": 79,
+            "id": 133,
+            "bank": "GENCOR TREASURY",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "GETRZAJ1"
+        },
+        {
+            "id": 134,
             "bank": "GENESIS SECURITIES (PTY) LTD.",
             "city": "ILLOVO",
             "branch": null,
             "swift_code": "GENSZAJA"
         },
         {
-            "id": 80,
+            "id": 135,
+            "bank": "GOLDING AND SLABBERT (PTY) LTD",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "GOSLZAJ1"
+        },
+        {
+            "id": 136,
+            "bank": "GRAAFFS TRUST LIMITED",
+            "city": "CAPE TOWN",
+            "branch": null,
+            "swift_code": "GRTRZAJ1"
+        },
+        {
+            "id": 137,
+            "bank": "GRINDROD ASSET MANAGEMENT",
+            "city": "DURBAN",
+            "branch": null,
+            "swift_code": "GREGZAJ1"
+        },
+        {
+            "id": 138,
             "bank": "GRINDROD BANK LIMITED",
             "city": "DURBAN",
             "branch": null,
             "swift_code": "GRIDZAJJ"
         },
         {
-            "id": 81,
+            "id": 139,
             "bank": "GTC SECURITIES (PTY) LTD",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "BROKZAJJ"
         },
         {
-            "id": 82,
+            "id": 140,
             "bank": "HABIB OVERSEAS BANK LIMITED",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "HOBLZAJJ"
         },
         {
-            "id": 83,
+            "id": 141,
+            "bank": "HANS MERENSKY HOLDINGS",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "HAMHZAJ1"
+        },
+        {
+            "id": 142,
             "bank": "HBZ BANK LIMITED",
             "city": "DURBAN",
             "branch": null,
             "swift_code": "HBZHZAJJ"
         },
         {
-            "id": 84,
+            "id": 143,
             "bank": "HSBC SECURITIES (SOUTH AFRICA) (PTY) LTD",
             "city": "JOHANNESBURG",
             "branch": "(WHK BRANCH)",
             "swift_code": "SMJCZAJCWHK"
         },
         {
-            "id": 85,
+            "id": 144,
             "bank": "HSBC SECURITIES (SOUTH AFRICA) (PTY) LTD",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "SMJCZAJC011"
         },
         {
-            "id": 86,
+            "id": 145,
             "bank": "HSBC SECURITIES (SOUTH AFRICA) (PTY) LTD",
             "city": "RONDEBOSCH",
             "branch": null,
             "swift_code": "SMJCZAJC022"
         },
         {
-            "id": 87,
+            "id": 146,
             "bank": "HSBC SECURITIES (SOUTH AFRICA) (PTY) LTD",
             "city": "SANDOWN",
             "branch": "(HOUGHTON)",
             "swift_code": "SMJCZAJC"
         },
         {
-            "id": 88,
+            "id": 147,
             "bank": "HSBC-JOHANNESBURG BRANCH",
             "city": "SANDTON",
             "branch": null,
             "swift_code": "HSBCZAJJ"
         },
         {
-            "id": 89,
+            "id": 148,
             "bank": "ICICI BANK LTD SOUTH AFRICA BRANCH",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "ICICZAJJ"
         },
         {
-            "id": 90,
+            "id": 149,
             "bank": "IMARA S.P. REID (PTY) LTD.",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "REMAZAJJ"
         },
         {
-            "id": 91,
+            "id": 150,
+            "bank": "IMPALA PLATINUM",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "IMPNZAJ1"
+        },
+        {
+            "id": 151,
+            "bank": "INCORPORATED SECURITIES (PTY) LTD",
+            "city": "ROSEBANK",
+            "branch": null,
+            "swift_code": "INSPZAJ1"
+        },
+        {
+            "id": 152,
             "bank": "INDEPENDENT SECURITIES (PTY) LTD",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "ISECZAJJ"
         },
         {
-            "id": 92,
+            "id": 153,
+            "bank": "INDEPENDENT SECURITIES (PTY) LTD",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "ISZAZAJ1"
+        },
+        {
+            "id": 154,
             "bank": "INDUSTRIAL DEVELOPMENT CORPORATION OF SOUTH AFRICA LIMITED",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "IDCFZAJJ"
         },
         {
-            "id": 93,
+            "id": 155,
+            "bank": "INFINITY FINANCIAL SERVICES (PTY) LTD",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "IFSEZAJ1"
+        },
+        {
+            "id": 156,
             "bank": "INVESTEC BANK LTD.",
             "city": "SANDTON",
             "branch": null,
             "swift_code": "IVESZAJJ"
         },
         {
-            "id": 94,
+            "id": 157,
+            "bank": "INVESTEC SECURITIES (PTY) LIMITED",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "IVESZA31"
+        },
+        {
+            "id": 158,
             "bank": "INVESTEC SECURITIES LTD.",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "IVESZAJ2"
         },
         {
-            "id": 95,
+            "id": 159,
             "bank": "INVESTEC SECURITIES LTD.",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "IVESZAJ2011"
         },
         {
-            "id": 96,
+            "id": 160,
+            "bank": "IP MANAGEMENT COMPANY (PTY) LTD",
+            "city": "CAPE TOWN",
+            "branch": null,
+            "swift_code": "MAOYZAJ1"
+        },
+        {
+            "id": 161,
+            "bank": "JCI LIMITED",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "JCTRZAJ1"
+        },
+        {
+            "id": 162,
             "bank": "JP MORGAN EQUITIES SOUTH AFRICA PTY LIMITED",
             "city": "CAPE TOWN",
             "branch": null,
             "swift_code": "JPMEZAJJ011"
         },
         {
-            "id": 97,
+            "id": 163,
             "bank": "JP MORGAN EQUITIES SOUTH AFRICA PTY LIMITED",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "JPMEZAJJ"
         },
         {
-            "id": 98,
+            "id": 164,
             "bank": "JP MORGAN EQUITIES SOUTH AFRICA PTY LIMITED",
             "city": "PIETERMARITZBURG",
             "branch": null,
             "swift_code": "JPMEZAJJ022"
         },
         {
-            "id": 99,
+            "id": 165,
             "bank": "JP MORGAN EQUITIES SOUTH AFRICA PTY LIMITED",
             "city": "ROSEBANK",
             "branch": null,
             "swift_code": "JPMEZAJJ033"
         },
         {
-            "id": 100,
+            "id": 166,
             "bank": "JPMORGAN CHASE BANK, N.A",
             "city": "JOHANNESBURG",
             "branch": "(TEST KEY AND BKE ADMINISTRATION)",
             "swift_code": "MGTCZAJJKEY"
         },
         {
-            "id": 101,
+            "id": 167,
             "bank": "JPMORGAN CHASE BANK, N.A",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "MGTCZAJJ"
         },
         {
-            "id": 102,
+            "id": 168,
             "bank": "JPMORGAN SECURITIES SOUTH AFRICA",
             "city": "JOHANNESBURG",
             "branch": "(TEST KEY AND BKE ADMINISTRATION)",
             "swift_code": "JPMSZAJJKEY"
         },
         {
-            "id": 103,
+            "id": 169,
             "bank": "JPMORGAN SECURITIES SOUTH AFRICA",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "JPMSZAJJ"
         },
         {
-            "id": 104,
+            "id": 170,
             "bank": "JSE LIMITED",
             "city": "SANDTON",
             "branch": "(JSE LIMITED SAFEX)",
             "swift_code": "XJSEZAJJSFX"
         },
         {
-            "id": 105,
+            "id": 171,
             "bank": "JSE LIMITED",
             "city": "SANDTON",
             "branch": "(SETTLEMENT AUTHORITY - MARGINING)",
             "swift_code": "XJSEZAJJMRG"
         },
         {
-            "id": 106,
+            "id": 172,
             "bank": "JSE LIMITED",
             "city": "SANDTON",
             "branch": "(SETTLEMENT AUTHORITY - MONEY MARKETS ISIN'S)",
             "swift_code": "XJSEZAJJISN"
         },
         {
-            "id": 107,
+            "id": 173,
             "bank": "JSE LIMITED",
             "city": "SANDTON",
             "branch": "(SETTLEMENT AUTHORITY SECURITIES LENDING DESK)",
             "swift_code": "XJSEZAJJSLB"
         },
         {
-            "id": 108,
+            "id": 174,
             "bank": "JSE LIMITED",
             "city": "SANDTON",
             "branch": "(SETTLEMENT AUTHORITY)",
             "swift_code": "XJSEZAJJSAT"
         },
         {
-            "id": 109,
+            "id": 175,
             "bank": "JSE LIMITED",
             "city": "SANDTON",
             "branch": null,
             "swift_code": "XJSEZAJJ"
         },
         {
-            "id": 110,
+            "id": 176,
+            "bank": "KARLEIN INDEPENDENT INVESTMENT CONSULTANCY CC",
+            "city": "RONDEBOSCH",
+            "branch": null,
+            "swift_code": "KIIOZAJ1"
+        },
+        {
+            "id": 177,
+            "bank": "KEN POWELL FINANCIAL SERVICES (PTY) LTD",
+            "city": "HOUGHTON",
+            "branch": null,
+            "swift_code": "KPFSZAJ1"
+        },
+        {
+            "id": 178,
+            "bank": "KNOYDART INVESTMENTS (PTY) LTD",
+            "city": "RONDEBOSCH",
+            "branch": null,
+            "swift_code": "KNIPZAJ1"
+        },
+        {
+            "id": 179,
             "bank": "LEFIKA SECURITIES (PTY)LTD",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "LESTZAJJ"
         },
         {
-            "id": 111,
+            "id": 180,
             "bank": "LEGAE SECURITIES (PTY) LTD.",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "LESPZAJJ"
         },
         {
-            "id": 112,
+            "id": 181,
+            "bank": "LEWIS AND WAYNE TREASURY",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "LWTRZAJ1"
+        },
+        {
+            "id": 182,
             "bank": "LINK MARKET SERVICES PTY LTD",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "ULTRZAJC"
         },
         {
-            "id": 113,
+            "id": 183,
+            "bank": "LION SECURITIES CC",
+            "city": "EAST LONDON",
+            "branch": null,
+            "swift_code": "LISYZAJ1"
+        },
+        {
+            "id": 184,
+            "bank": "LOMBERG PULFORD AND CO (PTY) LTD",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "LOPUZAJ1"
+        },
+        {
+            "id": 185,
             "bank": "MACQUARIE FIRST SOUTH EQUITIES (PTY) LTD",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "MFSQZAJJ"
         },
         {
-            "id": 114,
+            "id": 186,
             "bank": "MACQUARIE FIRST SOUTH SECURITIES (PROPRIETARY) LIMITED",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "FSSEZAJJ"
         },
         {
-            "id": 115,
+            "id": 187,
             "bank": "MAITLAND GROUP SOUTH AFRICA LTD",
             "city": "CAPE TOWN",
             "branch": null,
             "swift_code": "FNSOZAJC"
         },
         {
-            "id": 116,
+            "id": 188,
+            "bank": "MARK ALEXANDER INVESTMENTS CC",
+            "city": "HOWARD PLACE",
+            "branch": null,
+            "swift_code": "MAAIZAJ1"
+        },
+        {
+            "id": 189,
+            "bank": "MARRIOTT MERCHANT BANK LIMITED",
+            "city": "DURBAN",
+            "branch": null,
+            "swift_code": "MAMRZAJ1"
+        },
+        {
+            "id": 190,
+            "bank": "MAZI PROJECTS (PTY) LTD",
+            "city": "GAUTENG",
+            "branch": null,
+            "swift_code": "MAZPZAJ1"
+        },
+        {
+            "id": 191,
+            "bank": "MEEG BANK LTD",
+            "city": "EAST LONDON",
+            "branch": null,
+            "swift_code": "BTRKZAJ1"
+        },
+        {
+            "id": 192,
+            "bank": "MELVILLE DOUGLAS INVESTMENT MANAGEMENT (PTY) LTD",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "MDIMZAJ1"
+        },
+        {
+            "id": 193,
             "bank": "MERCANTILE BANK LTD",
             "city": "SANDTON",
             "branch": null,
             "swift_code": "LISAZAJJ"
         },
         {
-            "id": 117,
+            "id": 194,
+            "bank": "MERGENCE INVESTMENT MANAGERS (PTY)",
+            "city": "CAPE TOWN",
+            "branch": null,
+            "swift_code": "MIMTZAJ1"
+        },
+        {
+            "id": 195,
             "bank": "MERRILL LYNCH SOUTH AFRICA (PROPRIETARY) LIMITED",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "SBKHZAJJ"
         },
         {
-            "id": 118,
+            "id": 196,
+            "bank": "MICRO TO MAINFRAME",
+            "city": "PARKTOWN",
+            "branch": null,
+            "swift_code": "MIMNZAJ1"
+        },
+        {
+            "id": 197,
+            "bank": "MLS BANK LIMITED",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "MLSMZAJ1"
+        },
+        {
+            "id": 198,
+            "bank": "MOMENTUM LIFE ASSURERS LTD",
+            "city": "CENTURION",
+            "branch": null,
+            "swift_code": "MOLAZAJ1"
+        },
+        {
+            "id": 199,
+            "bank": "MOODY'S INVESTORS SERVICE SOUTH AFRICA (PTY) LTD",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "MIESZAJ1"
+        },
+        {
+            "id": 200,
+            "bank": "MPF MANAGEMENT SERVICES (PTY) LTD",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "MMSPZAJ1"
+        },
+        {
+            "id": 201,
+            "bank": "MVUNONALA ASSET MANAGERS (PTY) LTD",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "MAMYZAJ1"
+        },
+        {
+            "id": 202,
             "bank": "NAVIGARE SECURITIES PTY LTD",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "NAVGZAJJ"
         },
         {
-            "id": 119,
+            "id": 203,
             "bank": "NEDBANK LIMITED",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "NEDSZAJJ"
         },
         {
-            "id": 120,
+            "id": 204,
             "bank": "NEDGROUP PRIVATE WEALTH STOCKBROKERS (PTY) LTD",
             "city": "BLOEMFONTEIN",
             "branch": null,
             "swift_code": "NBOEZAJ2022"
         },
         {
-            "id": 121,
+            "id": 205,
             "bank": "NEDGROUP PRIVATE WEALTH STOCKBROKERS (PTY) LTD",
             "city": "CAPE TOWN",
             "branch": null,
             "swift_code": "NBOEZAJ2033"
         },
         {
-            "id": 122,
+            "id": 206,
             "bank": "NEDGROUP PRIVATE WEALTH STOCKBROKERS (PTY) LTD",
             "city": "JOHANNESBURG",
             "branch": "(INSTITUTIONS DEPARTMENT)",
             "swift_code": "NBOEZAJ2INT"
         },
         {
-            "id": 123,
+            "id": 207,
             "bank": "NEDGROUP PRIVATE WEALTH STOCKBROKERS (PTY) LTD",
             "city": "JOHANNESBURG",
             "branch": "(PRIVATE CLIENTS DEPARTMENT)",
             "swift_code": "NBOEZAJ2PVT"
         },
         {
-            "id": 124,
+            "id": 208,
             "bank": "NEDGROUP PRIVATE WEALTH STOCKBROKERS (PTY) LTD",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "NBOEZAJ2044"
         },
         {
-            "id": 125,
+            "id": 209,
             "bank": "NEDGROUP PRIVATE WEALTH STOCKBROKERS (PTY) LTD",
             "city": "PIETERMARITZBURG",
             "branch": null,
             "swift_code": "NBOEZAJ2011"
         },
         {
-            "id": 126,
+            "id": 210,
             "bank": "NEDGROUP PRIVATE WEALTH STOCKBROKERS (PTY) LTD",
             "city": "SANDTON",
             "branch": null,
             "swift_code": "NBOEZAJ2"
         },
         {
-            "id": 127,
+            "id": 211,
+            "bank": "NFB FINANCIAL SERVICES GROUP",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "NFBGZAJ1"
+        },
+        {
+            "id": 212,
+            "bank": "NIKE SOUTH AFRICA (PTY) LTD",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "NIKEZAJ1"
+        },
+        {
+            "id": 213,
             "bank": "NOAH FINANCIAL INNOVATION (PROPRIETARY) LIMITED",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "METLZAJJ"
         },
         {
-            "id": 128,
+            "id": 214,
             "bank": "NVEST SECURITIES (PTY) LTD",
             "city": "EAST LONDON",
             "branch": null,
             "swift_code": "NVSEZAJC"
         },
         {
-            "id": 129,
+            "id": 215,
+            "bank": "OASIS ASSET MANAGEMENT LIMITED",
+            "city": "CAPE TOWN",
+            "branch": null,
+            "swift_code": "OASMZAJ1"
+        },
+        {
+            "id": 216,
+            "bank": "OASIS CRESCENT CAPITAL (PTY) LTD",
+            "city": "CAPE TOWN",
+            "branch": null,
+            "swift_code": "OASMZA21"
+        },
+        {
+            "id": 217,
             "bank": "OLD MUTUAL INVESTMENT GROUP(SA) PTY LTD",
             "city": "CAPE TOWN",
             "branch": null,
             "swift_code": "OMAMZAJC"
         },
         {
-            "id": 130,
+            "id": 218,
             "bank": "OLD MUTUAL LIFE ASSURANCE COMPANY (SOUTH AFRICA) LIMITED",
             "city": "CAPE TOWN",
             "branch": null,
             "swift_code": "ROKLZAJT"
         },
         {
-            "id": 131,
+            "id": 219,
+            "bank": "OMIGSA",
+            "city": "CAPE TOWN",
+            "branch": null,
+            "swift_code": "OMIGZAJ1"
+        },
+        {
+            "id": 220,
+            "bank": "OMNIA GROUP (PTY) LTD",
+            "city": "BRYANSTON",
+            "branch": null,
+            "swift_code": "OMGYZAJ1"
+        },
+        {
+            "id": 221,
+            "bank": "PAUL CLARKE AND ASSOCIATES CC",
+            "city": "VLAEBERG",
+            "branch": null,
+            "swift_code": "PACTZAJ1"
+        },
+        {
+            "id": 222,
             "bank": "PEREGRINE EQUITIES(PTY)LIMITED",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "PRSMZAJJ"
         },
         {
-            "id": 132,
+            "id": 223,
+            "bank": "PERSONAL TRUST LTD",
+            "city": "CAPE TOWN",
+            "branch": null,
+            "swift_code": "PERRZAJ1"
+        },
+        {
+            "id": 224,
+            "bank": "PETER BERRY TRUST SERVICES (PTY) LTD",
+            "city": "CAPE TOWN",
+            "branch": null,
+            "swift_code": "PBTSZAJ1"
+        },
+        {
+            "id": 225,
             "bank": "PHILIPPUS DE WITT (PTY) LTD",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "WIMOZAJJ"
         },
         {
-            "id": 133,
+            "id": 226,
             "bank": "PHILIPPUS DE WITT (PTY) LTD",
             "city": "PRETORIA",
             "branch": "(PRETORIA BRANCH)",
             "swift_code": "WIMOZAJJPRE"
         },
         {
-            "id": 134,
+            "id": 227,
+            "bank": "PHILIPPUS DE WITT EMDS BPK",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "PDWEZAJ1"
+        },
+        {
+            "id": 228,
+            "bank": "PLEXUS ASSET MANAGEMENT PLEXUS HOUSE",
+            "city": "CAPE TOWN",
+            "branch": null,
+            "swift_code": "PAMXZAJ1"
+        },
+        {
+            "id": 229,
+            "bank": "PPS INVESTMENTS (PTY) LTD TRAVERS HOUSE, BOUNDARY TERRACES",
+            "city": "CAPE TOWN",
+            "branch": null,
+            "swift_code": "PIPTZAJ1"
+        },
+        {
+            "id": 230,
             "bank": "PRESCIENT INVESTMENT MANAGEMENT",
             "city": "CAPE TOWN",
             "branch": null,
             "swift_code": "PRVGZAJC"
         },
         {
-            "id": 135,
+            "id": 231,
             "bank": "PRESCIENT SECURITIES PTY LTD",
             "city": "CONSTANTIA",
             "branch": null,
             "swift_code": "PCNTZAJC"
         },
         {
-            "id": 136,
+            "id": 232,
             "bank": "PRIME SECURITIES (PTY) LTD",
             "city": "CAPE TOWN",
             "branch": null,
             "swift_code": "PSERZAJC"
         },
         {
-            "id": 137,
+            "id": 233,
+            "bank": "PRO-EQUITY (PTY) LTD",
+            "city": "ARCADIA",
+            "branch": null,
+            "swift_code": "PRPYZAJ1"
+        },
+        {
+            "id": 234,
+            "bank": "PROJECT RESOURCES AND ACQUISITIONS (PTY) LTD",
+            "city": "CENTURION",
+            "branch": null,
+            "swift_code": "CAPFZAJ1"
+        },
+        {
+            "id": 235,
+            "bank": "PROSPUR PORTFOLIO MANAGERS (PTY) LTD",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "PPMPZAJ1"
+        },
+        {
+            "id": 236,
+            "bank": "PROTEA INSURANCE CO. LTD",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "PRIUZAJ1"
+        },
+        {
+            "id": 237,
             "bank": "PRUDENTIAL INVESTMENT MANAGERS (SA)(PTY)LTD",
             "city": "CLAREMONT",
             "branch": null,
             "swift_code": "PPMTZAJC"
         },
         {
-            "id": 138,
+            "id": 238,
+            "bank": "PSG ASSET MANAGEMENT (PTY) LTD 1ST FLOOR PSG HOUSE",
+            "city": "CAPE TOWN",
+            "branch": null,
+            "swift_code": "PAAYZAJ1"
+        },
+        {
+            "id": 239,
             "bank": "PSG SECURITIES LIMITED",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "PSSYZAJJ"
         },
         {
-            "id": 139,
+            "id": 240,
+            "bank": "PUTT ESTATES (PROPRIETARY) LTD.",
+            "city": "UPINGTON",
+            "branch": null,
+            "swift_code": "PUEOZAJ1"
+        },
+        {
+            "id": 241,
+            "bank": "PUTT REAL ESTATES (PROPRIETARY) LTD.",
+            "city": "UPINGTON",
+            "branch": null,
+            "swift_code": "PREYZAJ1"
+        },
+        {
+            "id": 242,
             "bank": "RAND REFINERY LIMITED",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "RRPLZAJJ"
         },
         {
-            "id": 140,
+            "id": 243,
+            "bank": "RAND REGISTRARS",
+            "city": "SOUTHDALE",
+            "branch": null,
+            "swift_code": "RANDZAJ1"
+        },
+        {
+            "id": 244,
+            "bank": "REGIMENTS FUND MANAGERS 91",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "REFGZAJ1"
+        },
+        {
+            "id": 245,
             "bank": "REGIMENTS SECURITIES LIMITED",
             "city": "ROODEPOORT",
             "branch": null,
             "swift_code": "REGMZAJJ"
         },
         {
-            "id": 141,
+            "id": 246,
+            "bank": "REZCO (PTY) LTD",
+            "city": "MULDERSDRIFT",
+            "branch": null,
+            "swift_code": "REPTZAJ1"
+        },
+        {
+            "id": 247,
             "bank": "RISCURA SOLUTIONS PTY (LTD)",
             "city": "CAPE TOWN",
             "branch": null,
             "swift_code": "RISPZAJC"
         },
         {
-            "id": 142,
+            "id": 248,
             "bank": "RMB ASSET MANAGEMENT (PTY) LTD",
             "city": "SANDTON",
             "branch": null,
             "swift_code": "RMBAZAJJ"
         },
         {
-            "id": 143,
+            "id": 249,
             "bank": "RMB SECURITIES (PTY) LIMITED",
             "city": "JOHANNESBURG",
             "branch": "(JSE SETTLEMENT OFFICE)",
             "swift_code": "RMBSZAJJJSE"
         },
         {
-            "id": 144,
+            "id": 250,
             "bank": "RMB SECURITIES (PTY) LIMITED",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "RMBSZAJJ"
         },
         {
-            "id": 145,
+            "id": 251,
             "bank": "RMB STOCKBROKING (PTY) LTD",
             "city": "SANDTON",
             "branch": null,
             "swift_code": "FNEQZAJJ"
         },
         {
-            "id": 146,
+            "id": 252,
+            "bank": "ROBERT COWEN INVESTMENTS (PTY) LTD",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "RCIPZAJ1"
+        },
+        {
+            "id": 253,
+            "bank": "ROYAL ASSET MANAGEMENT (PTY) LTD",
+            "city": "CAPE TOWN",
+            "branch": null,
+            "swift_code": "RAMYZAJ1"
+        },
+        {
+            "id": 254,
+            "bank": "RYAN ANDERSON AND CO (PTY) LTD",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "RYAPZAJ1"
+        },
+        {
+            "id": 255,
             "bank": "SA STOCK BROKERS (PTY) LTD",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "SBPTZAJJ"
         },
         {
-            "id": 147,
+            "id": 256,
+            "bank": "SAAMBOU BANK LTD",
+            "city": "PRETORIA",
+            "branch": null,
+            "swift_code": "SAABZAJ1"
+        },
+        {
+            "id": 257,
+            "bank": "SAFEX",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "XSAFZAJ1"
+        },
+        {
+            "id": 258,
+            "bank": "SAGE SELECTION CC",
+            "city": "CAPE TOWN",
+            "branch": null,
+            "swift_code": "SAGEZAJ1"
+        },
+        {
+            "id": 259,
+            "bank": "SAMSUNG ELECTRONICS SOUTH AFRICA (PTY) LTD.",
+            "city": "JOHANNESBURG",
+            "branch": "(SSA)",
+            "swift_code": "SECTZAJ1720"
+        },
+        {
+            "id": 260,
+            "bank": "SAMSUNG ELECTRONICS SOUTH AFRICA (PTY) LTD.",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "SECTZAJ1"
+        },
+        {
+            "id": 261,
+            "bank": "SAMSUNG ELECTRONICS SOUTH AFRICA (PTY) LTD.",
+            "city": "LA MERCY",
+            "branch": null,
+            "swift_code": "SECTZAJ1721"
+        },
+        {
+            "id": 262,
             "bank": "SANLAM CAPITAL MARKETS PROPRIETARY LIMITED",
             "city": "SANDTON",
             "branch": null,
             "swift_code": "GBSEZAJ2"
         },
         {
-            "id": 148,
+            "id": 263,
             "bank": "SANLAM CREDIT CONDUIT PROPRIETARY LIMITED",
             "city": "SANDTON",
             "branch": null,
             "swift_code": "GBSEZAJ5"
         },
         {
-            "id": 149,
+            "id": 264,
             "bank": "SANLAM INVESTMENT MANAGEMENT",
             "city": "BELLVILLE",
             "branch": null,
             "swift_code": "SANLZAJC"
         },
         {
-            "id": 150,
+            "id": 265,
             "bank": "SANLAM SECURITIES PROPRIETARY LIMITED",
             "city": "SANDTON",
             "branch": null,
             "swift_code": "GBSEZAJ3"
         },
         {
-            "id": 151,
+            "id": 266,
             "bank": "SASFIN BANK LIMITED",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "SASFZAJJ"
         },
         {
-            "id": 152,
+            "id": 267,
             "bank": "SASFIN FRANKEL POLLAK SECURITIES (PTY) LTD",
             "city": "BENONI",
             "branch": null,
             "swift_code": "SFPSZAJJ044"
         },
         {
-            "id": 153,
+            "id": 268,
             "bank": "SASFIN FRANKEL POLLAK SECURITIES (PTY) LTD",
             "city": "CAPE TOWN",
             "branch": null,
             "swift_code": "SFPSZAJJ055"
         },
         {
-            "id": 154,
+            "id": 269,
             "bank": "SASFIN FRANKEL POLLAK SECURITIES (PTY) LTD",
             "city": "DURBAN",
             "branch": null,
             "swift_code": "SFPSZAJJ066"
         },
         {
-            "id": 155,
+            "id": 270,
             "bank": "SASFIN FRANKEL POLLAK SECURITIES (PTY) LTD",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "SFPSZAJJ"
         },
         {
-            "id": 156,
+            "id": 271,
             "bank": "SASFIN FRANKEL POLLAK SECURITIES (PTY) LTD",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "SFPSZAJJ033"
         },
         {
-            "id": 157,
+            "id": 272,
             "bank": "SASFIN FRANKEL POLLAK SECURITIES (PTY) LTD",
             "city": "SANDTON",
             "branch": null,
             "swift_code": "SFPSZAJJ022"
         },
         {
-            "id": 158,
+            "id": 273,
             "bank": "SBG SECURITIES (PTY) LIMITED",
             "city": "ROSEBANK",
             "branch": null,
             "swift_code": "SBEQZAJJ"
         },
         {
-            "id": 159,
+            "id": 274,
+            "bank": "SEARDEL INVESTMENT CORPORATION LIMITED",
+            "city": "CAPE TOWN",
+            "branch": null,
+            "swift_code": "SENPZAJ1"
+        },
+        {
+            "id": 275,
+            "bank": "SENEKAL MOUTON AND KITSHOFF INC.",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "SEMKZAJ1"
+        },
+        {
+            "id": 276,
+            "bank": "SESFIKILE CAPITAL (PTY) LTD",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "SEPTZAJ1"
+        },
+        {
+            "id": 277,
             "bank": "SG FRANKEL POLLAK SECURITIES",
             "city": "VINCENT",
             "branch": "(EAST LONDON)",
             "swift_code": "SFPSZAJJ011"
         },
         {
-            "id": 160,
+            "id": 278,
+            "bank": "SG SECURITIIES JOHANNESBURG PTY LTD",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "SGSJZAJ1"
+        },
+        {
+            "id": 279,
+            "bank": "SHAREGRO INVESTMENT COMPANY (PTY) LTD",
+            "city": "MELVILLE",
+            "branch": null,
+            "swift_code": "SICPZAJ1"
+        },
+        {
+            "id": 280,
             "bank": "SINGULAR SYSTEMS",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "SSYSZAJB"
         },
         {
-            "id": 161,
+            "id": 281,
             "bank": "SISHEN IRON ORE COMPANY (PTY) LTD",
             "city": "CENTURION",
             "branch": null,
             "swift_code": "SIOCZAJJ"
         },
         {
-            "id": 162,
+            "id": 282,
+            "bank": "SITC",
+            "city": "CENTURION",
+            "branch": null,
+            "swift_code": "STTCZAJ1"
+        },
+        {
+            "id": 283,
+            "bank": "SMK SECURITIES (PTY) LTD",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "SMKSZAJ1"
+        },
+        {
+            "id": 284,
             "bank": "SOCIETE GENERALE, JOHANNESBURG BRANCH",
             "city": "JOHANNESBURG",
             "branch": "(SECURITIES BRANCH)",
             "swift_code": "SOGEZAJJSGS"
         },
         {
-            "id": 163,
+            "id": 285,
             "bank": "SOCIETE GENERALE, JOHANNESBURG BRANCH",
             "city": "JOHANNESBURG",
             "branch": "(SECURITIES LENDING AND BOROWING)",
             "swift_code": "SOGEZAJJSLB"
         },
         {
-            "id": 164,
+            "id": 286,
             "bank": "SOCIETE GENERALE, JOHANNESBURG BRANCH",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "SOGEZAJJ"
         },
         {
-            "id": 165,
+            "id": 287,
+            "bank": "SOUTH AFRICAN BREWERIES LTD",
+            "city": "JOHANNESBURG",
+            "branch": "(SABFIN BRANCH)",
+            "swift_code": "SABMZAJ1SFN"
+        },
+        {
+            "id": 288,
+            "bank": "SOUTH AFRICAN BREWERIES LTD",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "SABMZAJ1"
+        },
+        {
+            "id": 289,
+            "bank": "SOUTH AFRICAN BREWERIES LTD",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "SABMZAJ1ABL"
+        },
+        {
+            "id": 290,
+            "bank": "SOUTH AFRICAN BREWERIES LTD",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "SABMZAJ1SAB"
+        },
+        {
+            "id": 291,
+            "bank": "SOUTH AFRICAN FUTURES EXCHANGE - AGRICULTURAL MARKET DIVISION",
+            "city": "HOUGHTON",
+            "branch": null,
+            "swift_code": "XSFAZAJ1"
+        },
+        {
+            "id": 292,
+            "bank": "SOUTH AFRICAN HOUSING TRUST LIMITED",
+            "city": "RANDBURG",
+            "branch": null,
+            "swift_code": "SAHTZAJ1"
+        },
+        {
+            "id": 293,
+            "bank": "SOUTH AFRICAN INTERNATIONAL MONEY BROKERS (PTY) LTD.",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "SAIOZAJ1"
+        },
+        {
+            "id": 294,
+            "bank": "SOUTH AFRICAN MUTUAL LIFE ASSURANCE SOCIETY",
+            "city": "CAPE TOWN",
+            "branch": null,
+            "swift_code": "MLASZAJ1"
+        },
+        {
+            "id": 295,
             "bank": "SOUTH AFRICAN RESERVE BANK",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "SARBZAJ6"
         },
         {
-            "id": 166,
+            "id": 296,
             "bank": "SOUTH AFRICAN RESERVE BANK",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "SARBZAJH"
         },
         {
-            "id": 167,
+            "id": 297,
             "bank": "SOUTH AFRICAN RESERVE BANK",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "SARBZAJS"
         },
         {
-            "id": 168,
+            "id": 298,
             "bank": "SOUTH AFRICAN RESERVE BANK",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "SARBZAJT"
         },
         {
-            "id": 169,
+            "id": 299,
             "bank": "SOUTH AFRICAN RESERVE BANK",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "SARBZAJ5"
         },
         {
-            "id": 170,
+            "id": 300,
             "bank": "SOUTH AFRICAN RESERVE BANK",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "SARBZAJP"
         },
         {
-            "id": 171,
+            "id": 301,
             "bank": "SOUTH AFRICAN RESERVE BANK",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "SARBZAJ4"
         },
         {
-            "id": 172,
+            "id": 302,
             "bank": "SOUTH AFRICAN RESERVE BANK",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "SARBZAJ7"
         },
         {
-            "id": 173,
+            "id": 303,
             "bank": "SOUTH AFRICAN RESERVE BANK",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "SARBZAJ8"
         },
         {
-            "id": 174,
+            "id": 304,
+            "bank": "SOUTH AFRICAN RESERVE BANK FIR",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "SRROZAJ1"
+        },
+        {
+            "id": 305,
+            "bank": "SOUTH AFRICAN RESERVE BANK PCH",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "SRCRZAJ1"
+        },
+        {
+            "id": 306,
             "bank": "STAKEHOLDER DATA SERVICES (PTY) LTD",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "SHDAZAJJ"
         },
         {
-            "id": 175,
+            "id": 307,
+            "bank": "STANDARD BANK NOMINEES (TRANSVAAL) (PTY) LTD",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "SNTPZAJ1"
+        },
+        {
+            "id": 308,
             "bank": "STANDARD BANK OF SOUTH AFRICA LIMITED,THE",
             "city": "JOHANNESBURG",
             "branch": "(AFRICA CUSTODY NETWORK)",
             "swift_code": "SBZAZAJJAFR"
         },
         {
-            "id": 176,
+            "id": 309,
             "bank": "STANDARD BANK OF SOUTH AFRICA LIMITED,THE",
             "city": "JOHANNESBURG",
             "branch": "(CASH REPORTING)",
             "swift_code": "SBZAZAJJBOL"
         },
         {
-            "id": 177,
+            "id": 310,
             "bank": "STANDARD BANK OF SOUTH AFRICA LIMITED,THE",
             "city": "JOHANNESBURG",
             "branch": "(CONTINUOUS LINK SETTLEMENT)",
             "swift_code": "SBZAZAJJCLS"
         },
         {
-            "id": 178,
+            "id": 311,
             "bank": "STANDARD BANK OF SOUTH AFRICA LIMITED,THE",
             "city": "JOHANNESBURG",
             "branch": "(HEAD OFFICE AND ALL SOUTH AFRICAN OFFICES)",
             "swift_code": "SBZAZAJJ"
         },
         {
-            "id": 179,
+            "id": 312,
             "bank": "STANDARD BANK OF SOUTH AFRICA LIMITED,THE",
             "city": "JOHANNESBURG",
             "branch": "(INTERNATIONAL BANKING SYSTEM USERS)",
             "swift_code": "SBZAZAJJICM"
         },
         {
-            "id": 180,
+            "id": 313,
             "bank": "STANDARD BANK OF SOUTH AFRICA LIMITED,THE",
             "city": "JOHANNESBURG",
             "branch": "(PAN AFRICAN LIQUIDITY MANAGEMENT)",
             "swift_code": "SBZAZAJJPLM"
         },
         {
-            "id": 181,
+            "id": 314,
             "bank": "STANDARD BANK OF SOUTH AFRICA LIMITED,THE",
             "city": "JOHANNESBURG",
             "branch": "(SECURITIES LENDING)",
             "swift_code": "SBZAZAJJFSL"
         },
         {
-            "id": 182,
+            "id": 315,
             "bank": "STANDARD BANK OF SOUTH AFRICA LIMITED,THE",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "SBZAZAJJATG"
         },
         {
-            "id": 183,
+            "id": 316,
             "bank": "STANDARD BANK OF SOUTH AFRICA LIMITED,THE",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "SBZAZAJJSAL"
         },
         {
-            "id": 184,
+            "id": 317,
             "bank": "STANDARD CHARTERED BANK",
             "city": "JOHANNESBURG",
             "branch": "(SECURITIES SERVICES)",
             "swift_code": "SCBLZAJJSSU"
         },
         {
-            "id": 185,
+            "id": 318,
             "bank": "STANDARD CHARTERED BANK",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "SCBLZAJJ"
         },
         {
-            "id": 186,
+            "id": 319,
             "bank": "STANDARD CHARTERED BANK",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "SCBLZAJ2"
         },
         {
-            "id": 187,
+            "id": 320,
             "bank": "STANLIB ASSET MANAGEMENT",
             "city": "MELROSE ARCH",
             "branch": null,
             "swift_code": "LBAMZAJJ"
         },
         {
-            "id": 188,
+            "id": 321,
             "bank": "STATE BANK OF INDIA",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "SBINZAJJ"
         },
         {
-            "id": 189,
+            "id": 322,
             "bank": "STRATE",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "STRAZAJ2"
         },
         {
-            "id": 190,
+            "id": 323,
             "bank": "STRATE (PTY) LTD",
             "city": "JOHANNESBURG",
             "branch": "(STRATE REGISTRAR)",
             "swift_code": "STRAZAJJREG"
         },
         {
-            "id": 191,
+            "id": 324,
             "bank": "STRATE (PTY) LTD",
             "city": "JOHANNESBURG",
             "branch": "(TFS)",
             "swift_code": "STRAZAJJTFS"
         },
         {
-            "id": 192,
+            "id": 325,
             "bank": "STRATE (PTY) LTD",
             "city": "SANDTON",
             "branch": "(CENTRAL DEPOSITORY)",
             "swift_code": "STRAZAJJCDX"
         },
         {
-            "id": 193,
+            "id": 326,
             "bank": "STRATE (PTY) LTD",
             "city": "SANDTON",
             "branch": "(UNEXCOR)",
             "swift_code": "STRAZAJJUNX"
         },
         {
-            "id": 194,
+            "id": 327,
             "bank": "STRATE (PTY) LTD",
             "city": "SANDTON",
             "branch": null,
             "swift_code": "STRAZAJJ"
         },
         {
-            "id": 195,
+            "id": 328,
             "bank": "STRATE LTD.(FORMERLY UNIVERSAL EXCHANGE CORPORATION LIMITED)",
             "city": "SANDTON",
             "branch": null,
             "swift_code": "UNEXZAJJ"
         },
         {
-            "id": 196,
+            "id": 329,
             "bank": "SWISS RE LIFE AND HEALTH AFRICA LTD",
             "city": "CAPE TOWN",
             "branch": null,
             "swift_code": "SWREZAJJ"
         },
         {
-            "id": 197,
+            "id": 330,
             "bank": "SYFRETS SECURITIES LIMITED",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "SYSCZAJJ"
         },
         {
-            "id": 198,
+            "id": 331,
             "bank": "SYGNIA SECURITIES (PTY) LTD",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "SYSYZAJ2"
         },
         {
-            "id": 199,
+            "id": 332,
             "bank": "TAQUANTA SECURITIES (PTY) LTD",
             "city": "SANDOWN",
             "branch": null,
             "swift_code": "NIBZZAJJ"
         },
         {
-            "id": 200,
+            "id": 333,
             "bank": "TELKOM SA LIMITED",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "TELKZAJP"
         },
         {
-            "id": 201,
+            "id": 334,
             "bank": "TFS SECURITIES (PTY) LIMITED",
             "city": "SANDTON",
             "branch": null,
             "swift_code": "TFSSZAJJ"
         },
         {
-            "id": 202,
+            "id": 335,
             "bank": "THE GOVERNMENT OF THE RSA IN ITS NATIONAL TREASURY",
             "city": "PRETORIA",
             "branch": "(OFFICE OF THE ACCOUNTANT GENERAL)",
             "swift_code": "TALMZAJPOAG"
         },
         {
-            "id": 203,
+            "id": 336,
             "bank": "THE GOVERNMENT OF THE RSA IN ITS NATIONAL TREASURY",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "TALMZAJP"
         },
         {
-            "id": 204,
+            "id": 337,
             "bank": "THE SOUTH AFRICAN BANK OF ATHENS LIMITED",
             "city": "SANDTON",
             "branch": null,
             "swift_code": "BATHZAJJ"
         },
         {
-            "id": 205,
+            "id": 338,
+            "bank": "THE STANDARD BANK OF SOUTH AFRICA LIMITED",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "SBZAZA21"
+        },
+        {
+            "id": 339,
             "bank": "THEBE STOCKBROKING PTY LTD",
             "city": "BRYANSTON",
             "branch": null,
             "swift_code": "PLRPZAJJ"
         },
         {
-            "id": 206,
+            "id": 340,
+            "bank": "THIRTY FOUR SOUTH RESEARCH AND TRADING (PTY) LTD",
+            "city": "CAPE TOWN",
+            "branch": null,
+            "swift_code": "TFSRZAJ1"
+        },
+        {
+            "id": 341,
+            "bank": "TOV CAPITAL MARKETS AND SHARE TRADING (PTY) LTD",
+            "city": "SANDTON",
+            "branch": null,
+            "swift_code": "TOVSZAJ1"
+        },
+        {
+            "id": 342,
+            "bank": "TRANSNET LIMITED",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "TRNNZAJ1"
+        },
+        {
+            "id": 343,
             "bank": "TRANSNET LIMITED",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "TNETZAJJ"
         },
         {
-            "id": 207,
+            "id": 344,
+            "bank": "TREASURYONE (PTY) LTD",
+            "city": "PRETORIA",
+            "branch": null,
+            "swift_code": "TRPYZAJ1"
+        },
+        {
+            "id": 345,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJ"
         },
         {
-            "id": 208,
+            "id": 346,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJAAD"
         },
         {
-            "id": 209,
+            "id": 347,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJABC"
         },
         {
-            "id": 210,
+            "id": 348,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJACI"
         },
         {
-            "id": 211,
+            "id": 349,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJAFG"
         },
         {
-            "id": 212,
+            "id": 350,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJAFP"
         },
         {
-            "id": 213,
+            "id": 351,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJALE"
         },
         {
-            "id": 214,
+            "id": 352,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJAPL"
         },
         {
-            "id": 215,
+            "id": 353,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJARC"
         },
         {
-            "id": 216,
+            "id": 354,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJBCO"
         },
         {
-            "id": 217,
+            "id": 355,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJBJB"
         },
         {
-            "id": 218,
+            "id": 356,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJBLY"
         },
         {
-            "id": 219,
+            "id": 357,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJCDE"
         },
         {
-            "id": 220,
+            "id": 358,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJDEP"
         },
         {
-            "id": 221,
+            "id": 359,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJDWN"
         },
         {
-            "id": 222,
+            "id": 360,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJEFC"
         },
         {
-            "id": 223,
+            "id": 361,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJENG"
         },
         {
-            "id": 224,
+            "id": 362,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJEVE"
         },
         {
-            "id": 225,
+            "id": 363,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJFRV"
         },
         {
-            "id": 226,
+            "id": 364,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJGFN"
         },
         {
-            "id": 227,
+            "id": 365,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJGFS"
         },
         {
-            "id": 228,
+            "id": 366,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJGLO"
         },
         {
-            "id": 229,
+            "id": 367,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJGLP"
         },
         {
-            "id": 230,
+            "id": 368,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJGOS"
         },
         {
-            "id": 231,
+            "id": 369,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJGPP"
         },
         {
-            "id": 232,
+            "id": 370,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJGRA"
         },
         {
-            "id": 233,
+            "id": 371,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJGRO"
         },
         {
-            "id": 234,
+            "id": 372,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJGSS"
         },
         {
-            "id": 235,
+            "id": 373,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJGTD"
         },
         {
-            "id": 236,
+            "id": 374,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJHEF"
         },
         {
-            "id": 237,
+            "id": 375,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJHMH"
         },
         {
-            "id": 238,
+            "id": 376,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJHWS"
         },
         {
-            "id": 239,
+            "id": 377,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJICL"
         },
         {
-            "id": 240,
+            "id": 378,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJIGL"
         },
         {
-            "id": 241,
+            "id": 379,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJIPP"
         },
         {
-            "id": 242,
+            "id": 380,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJKAR"
         },
         {
-            "id": 243,
+            "id": 381,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJKLM"
         },
         {
-            "id": 244,
+            "id": 382,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJKOM"
         },
         {
-            "id": 245,
+            "id": 383,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJLIM"
         },
         {
-            "id": 246,
+            "id": 384,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJLVC"
         },
         {
-            "id": 247,
+            "id": 385,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJMAH"
         },
         {
-            "id": 248,
+            "id": 386,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJMER"
         },
         {
-            "id": 249,
+            "id": 387,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJMIL"
         },
         {
-            "id": 250,
+            "id": 388,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJNAM"
         },
         {
-            "id": 251,
+            "id": 389,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJNAR"
         },
         {
-            "id": 252,
+            "id": 390,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJOMN"
         },
         {
-            "id": 253,
+            "id": 391,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJPAN"
         },
         {
-            "id": 254,
+            "id": 392,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJPEP"
         },
         {
-            "id": 255,
+            "id": 393,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJPGG"
         },
         {
-            "id": 256,
+            "id": 394,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJPRC"
         },
         {
-            "id": 257,
+            "id": 395,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJRBP"
         },
         {
-            "id": 258,
+            "id": 396,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJRBR"
         },
         {
-            "id": 259,
+            "id": 397,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJSIC"
         },
         {
-            "id": 260,
+            "id": 398,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJSUP"
         },
         {
-            "id": 261,
+            "id": 399,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJTFG"
         },
         {
-            "id": 262,
+            "id": 400,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJTIC"
         },
         {
-            "id": 263,
+            "id": 401,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJTR1"
         },
         {
-            "id": 264,
+            "id": 402,
             "bank": "TRUSTLINK (PTY) LTD",
             "city": "PRETORIA",
             "branch": null,
             "swift_code": "LINKZAJJUMG"
         },
         {
-            "id": 265,
+            "id": 403,
             "bank": "UBANK LIMITED",
             "city": "SUNNINGHILL",
             "branch": null,
             "swift_code": "YOUBZAJJ"
         },
         {
-            "id": 266,
+            "id": 404,
             "bank": "UBS SOUTH AFRICA (PROPRIETARY) LIMITED",
             "city": "JOHANNESBURG",
             "branch": null,
             "swift_code": "UBSWZAJJ"
         },
         {
-            "id": 267,
+            "id": 405,
+            "bank": "UNIBANK LTD",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "UNAAZAJ1"
+        },
+        {
+            "id": 406,
             "bank": "VBS MUTUAL BANK",
             "city": "RIVONIA",
             "branch": null,
             "swift_code": "VBSMZAJJ"
         },
         {
-            "id": 268,
+            "id": 407,
+            "bank": "VECTOR EQUITIES (PTY) LTD",
+            "city": "CAPE TOWN",
+            "branch": null,
+            "swift_code": "VEQTZAJ1"
+        },
+        {
+            "id": 408,
             "bank": "VISIO CAPITAL MANAGEMENT PTY LTD",
             "city": "SANDTON",
             "branch": "(AIM\/POMS SERVICE)",
             "swift_code": "VMGCZAJJ"
         },
         {
-            "id": 269,
+            "id": 409,
+            "bank": "VUNANI FUND MANGERS (PTY) LTD",
+            "city": "CAPE TOWN",
+            "branch": null,
+            "swift_code": "VFMPZAJ1"
+        },
+        {
+            "id": 410,
             "bank": "VUNANI SECURITIES (PROPRIETARY) LIMITED",
             "city": "SANDTON",
             "branch": null,
             "swift_code": "CEQPZAJJ"
         },
         {
-            "id": 270,
+            "id": 411,
+            "bank": "VW OF SOUTH AFRICA",
+            "city": "UITENHAGE",
+            "branch": null,
+            "swift_code": "SOAFZAJ1"
+        },
+        {
+            "id": 412,
+            "bank": "WATERMARK SECURITIES (PTY) LTD",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "WASPZAJ1"
+        },
+        {
+            "id": 413,
+            "bank": "WELLSFABER (PTY) LTD",
+            "city": "HOWARD PLACE",
+            "branch": null,
+            "swift_code": "WEPTZAJ1"
+        },
+        {
+            "id": 414,
+            "bank": "WJ MORGAN AND ASSOCIATES",
+            "city": "JOHANNESBURG",
+            "branch": null,
+            "swift_code": "WJMAZAJ1"
+        },
+        {
+            "id": 415,
             "bank": "WWC SECURITIES",
             "city": "JOHANNESBURG",
             "branch": null,

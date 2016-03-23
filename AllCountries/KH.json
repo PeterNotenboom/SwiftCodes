@@ -60,251 +60,279 @@
         },
         {
             "id": 9,
+            "bank": "BRITISH AMERICAN TOBACCO (CAMBODGE) INT LTD",
+            "city": "PHNOM PENH",
+            "branch": null,
+            "swift_code": "BATSKH21"
+        },
+        {
+            "id": 10,
+            "bank": "BRITISH AMERICAN TOBACCO CAMBODIA LTD",
+            "city": "PHNOM PENH",
+            "branch": null,
+            "swift_code": "BATSKHP1"
+        },
+        {
+            "id": 11,
             "bank": "CAMBODIA ASIA BANK LTD",
             "city": "PHNOM PENH",
             "branch": null,
             "swift_code": "CABCKHPP"
         },
         {
-            "id": 10,
+            "id": 12,
             "bank": "CAMBODIA MEKONG BANK PUBLIC LIMITED",
             "city": "PHNOM PENH",
             "branch": null,
             "swift_code": "MKGBKHPP"
         },
         {
-            "id": 11,
+            "id": 13,
+            "bank": "CAMBODIA POST BANK PLC",
+            "city": "PHNOM PENH",
+            "branch": null,
+            "swift_code": "CPBPKHP1"
+        },
+        {
+            "id": 14,
             "bank": "CAMBODIAN COMMERCIAL BANK LIMITED",
             "city": "PHNOM PENH",
             "branch": null,
             "swift_code": "SICOKHPP"
         },
         {
-            "id": 12,
+            "id": 15,
             "bank": "CAMBODIAN PUBLIC BANK PLC",
             "city": "PHNOM PENH",
             "branch": null,
             "swift_code": "CPBLKHPP"
         },
         {
-            "id": 13,
+            "id": 16,
             "bank": "CANADIA BANK PLC",
             "city": "PHNOM PENH",
             "branch": null,
             "swift_code": "CADIKHPP"
         },
         {
-            "id": 14,
+            "id": 17,
             "bank": "CATHAY UNITED BANK (CAMBODIA) CORPORATION LTD (FORMERLY SBC BANK)",
             "city": "PHNOM PENH",
             "branch": null,
             "swift_code": "CSBCKHPP"
         },
         {
-            "id": 15,
+            "id": 18,
             "bank": "CIMB BANK PLC",
             "city": "PHNOM PENH",
             "branch": null,
             "swift_code": "CIBBKHPP"
         },
         {
-            "id": 16,
+            "id": 19,
+            "bank": "CREDIT AGRICOLE CIB",
+            "city": "PHNOM PENH",
+            "branch": null,
+            "swift_code": "BSUIKHP1"
+        },
+        {
+            "id": 20,
             "bank": "FIRST COMMERCIAL BANK PHNOM PENH BRANCH",
             "city": "PHNOM PENH",
             "branch": "(CHAMKAR MON SUB-BRANCH)",
             "swift_code": "FCBKKHPP003"
         },
         {
-            "id": 17,
+            "id": 21,
             "bank": "FIRST COMMERCIAL BANK PHNOM PENH BRANCH",
             "city": "PHNOM PENH",
             "branch": "(CHORM CHAOV SUB-BRANCH)",
             "swift_code": "FCBKKHPP001"
         },
         {
-            "id": 18,
+            "id": 22,
             "bank": "FIRST COMMERCIAL BANK PHNOM PENH BRANCH",
             "city": "PHNOM PENH",
             "branch": "(CHROY CHONGVA SUB-BRANCH)",
             "swift_code": "FCBKKHPP005"
         },
         {
-            "id": 19,
+            "id": 23,
             "bank": "FIRST COMMERCIAL BANK PHNOM PENH BRANCH",
             "city": "PHNOM PENH",
             "branch": "(OLYMPIC SUB-BRANCH)",
             "swift_code": "FCBKKHPP002"
         },
         {
-            "id": 20,
+            "id": 24,
             "bank": "FIRST COMMERCIAL BANK PHNOM PENH BRANCH",
             "city": "PHNOM PENH",
             "branch": "(TUOL KOUK SUB-BRANCH)",
             "swift_code": "FCBKKHPP004"
         },
         {
-            "id": 21,
+            "id": 25,
             "bank": "FIRST COMMERCIAL BANK PHNOM PENH BRANCH",
             "city": "PHNOM PENH",
             "branch": "(VENG SRENG SUB-BRANCH)",
             "swift_code": "FCBKKHPP006"
         },
         {
-            "id": 22,
+            "id": 26,
             "bank": "FIRST COMMERCIAL BANK PHNOM PENH BRANCH",
             "city": "PHNOM PENH",
             "branch": null,
             "swift_code": "FCBKKHPP"
         },
         {
-            "id": 23,
+            "id": 27,
             "bank": "FOREIGN TRADE BANK OF CAMBODIA",
             "city": "PHNOM PENH",
             "branch": null,
             "swift_code": "FTCCKHPP"
         },
         {
-            "id": 24,
+            "id": 28,
             "bank": "HONG LEONG BANK (CAMBODIA) PLC",
             "city": "PHNOM PENH",
             "branch": null,
             "swift_code": "HLBBKHPP"
         },
         {
-            "id": 25,
+            "id": 29,
             "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED PHNOM PENH BRANCH",
             "city": "PHNOM PENH",
             "branch": null,
             "swift_code": "ICBKKHPP"
         },
         {
-            "id": 26,
+            "id": 30,
             "bank": "KOOKMIN BANK CAMBODIA PLC",
             "city": "PHNOM PENH",
             "branch": null,
             "swift_code": "CZNBKHPP"
         },
         {
-            "id": 27,
+            "id": 31,
             "bank": "MARUHAN JAPAN BANK PLC",
             "city": "PHNOM PENH",
             "branch": null,
             "swift_code": "MJBKKHPP"
         },
         {
-            "id": 28,
+            "id": 32,
             "bank": "MAYBANK (CAMBODIA) PLC.",
             "city": "PHNOM PENH",
             "branch": null,
             "swift_code": "MBBEKHPP"
         },
         {
-            "id": 29,
+            "id": 33,
             "bank": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
             "city": "PHNOM PENH",
             "branch": "(OLYMPIC SUB-BRANCH)",
             "swift_code": "ICBCKHPPOLY"
         },
         {
-            "id": 30,
+            "id": 34,
             "bank": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
             "city": "PHNOM PENH",
             "branch": "(P.P. AIRPORT SUBBRANCH)",
             "swift_code": "ICBCKHPPPPA"
         },
         {
-            "id": 31,
+            "id": 35,
             "bank": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
             "city": "PHNOM PENH",
             "branch": "(TOULKOK SUB-BRANCH)",
             "swift_code": "ICBCKHPPTKK"
         },
         {
-            "id": 32,
+            "id": 36,
             "bank": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
             "city": "PHNOM PENH",
             "branch": null,
             "swift_code": "ICBCKHPP"
         },
         {
-            "id": 33,
+            "id": 37,
             "bank": "NATIONAL BANK OF CAMBODIA",
             "city": "PHNOM PENH",
             "branch": null,
             "swift_code": "NCAMKHPP"
         },
         {
-            "id": 34,
+            "id": 38,
             "bank": "OSK INDOCHINA BANK LIMITED",
             "city": "PHNOM PENH",
             "branch": null,
             "swift_code": "OSKIKHPP"
         },
         {
-            "id": 35,
+            "id": 39,
             "bank": "PHILLIP BANK PLC",
             "city": "PHNOM PENH",
             "branch": null,
             "swift_code": "HDSBKHPP"
         },
         {
-            "id": 36,
+            "id": 40,
             "bank": "PHNOM PENH COMMERCIAL BANK",
             "city": "PHNOM PENH",
             "branch": null,
             "swift_code": "PPCBKHPP"
         },
         {
-            "id": 37,
+            "id": 41,
             "bank": "SHB PLC PHNOMPENH BRANCH, CAMBODIA",
             "city": "PHNOM PENH",
             "branch": null,
             "swift_code": "SHBAKHPP"
         },
         {
-            "id": 38,
+            "id": 42,
             "bank": "SHINHAN KHMER BANK",
             "city": "PHNOM PENH",
             "branch": null,
             "swift_code": "SHBKKHPP"
         },
         {
-            "id": 39,
+            "id": 43,
             "bank": "TAIWAN COOPERATIVE BANK, PHNOM PENH BRANCH",
             "city": "PHNOM PENH",
             "branch": "(POSENCHEY SUB-BRANCH)",
             "swift_code": "TACBKHPP914"
         },
         {
-            "id": 40,
+            "id": 44,
             "bank": "TAIWAN COOPERATIVE BANK, PHNOM PENH BRANCH",
             "city": "PHNOM PENH",
             "branch": "(TEOK THLA SUB-BRANCH)",
             "swift_code": "TACBKHPP913"
         },
         {
-            "id": 41,
+            "id": 45,
             "bank": "TAIWAN COOPERATIVE BANK, PHNOM PENH BRANCH",
             "city": "PHNOM PENH",
             "branch": null,
             "swift_code": "TACBKHPP"
         },
         {
-            "id": 42,
+            "id": 46,
             "bank": "UNION COMMERCIAL BANK PLC",
             "city": "PHNOM PENH",
             "branch": null,
             "swift_code": "UCBPKHPP"
         },
         {
-            "id": 43,
+            "id": 47,
             "bank": "VATTANAC BANK",
             "city": "PHNOM PENH",
             "branch": null,
             "swift_code": "VBLCKHPP"
         },
         {
-            "id": 44,
+            "id": 48,
             "bank": "VIETNAM BANK FOR AGRICULTURE AND RURAL DEVELOPMENT CAMBODIA BRANCH",
             "city": "PHNOM PENH",
             "branch": null,

@@ -18,384 +18,552 @@
         },
         {
             "id": 3,
+            "bank": "ASHA PHILLIP SECURITIES LIMITED",
+            "city": "COLOMBO",
+            "branch": null,
+            "swift_code": "ALSBLKL1"
+        },
+        {
+            "id": 4,
+            "bank": "ASIA STOCKBROKING AND INVESTMENT MANAGMENT (PVT) LTD",
+            "city": "COLOMBO",
+            "branch": null,
+            "swift_code": "ASIMLKL1"
+        },
+        {
+            "id": 5,
+            "bank": "ASIAN SECURITIES (PVT) LTD",
+            "city": "COLOMBO",
+            "branch": null,
+            "swift_code": "ASSPLKL1"
+        },
+        {
+            "id": 6,
             "bank": "AXIS BANK LTD.",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "AXISLKLX"
         },
         {
-            "id": 4,
+            "id": 7,
             "bank": "BANK OF CEYLON",
             "city": "COLOMBO",
             "branch": "(CENTRAL BUS STAND BRANCH)",
             "swift_code": "BCEYLKLX573"
         },
         {
-            "id": 5,
+            "id": 8,
             "bank": "BANK OF CEYLON",
             "city": "COLOMBO",
             "branch": "(FOREIGN CURRENCY BANKING UNIT)",
             "swift_code": "BCEYLKLX131"
         },
         {
-            "id": 6,
+            "id": 9,
             "bank": "BANK OF CEYLON",
             "city": "COLOMBO",
             "branch": "(METROPOLITAN BRANCH)",
             "swift_code": "BCEYLKLX618"
         },
         {
-            "id": 7,
+            "id": 10,
             "bank": "BANK OF CEYLON",
             "city": "COLOMBO",
             "branch": "(NON RESIDENT FOREIGN CURRENCY UNIT)",
             "swift_code": "BCEYLKLX125"
         },
         {
-            "id": 8,
+            "id": 11,
             "bank": "BANK OF CEYLON",
             "city": "COLOMBO",
             "branch": "(PRIMARY DEALER UNIT)",
             "swift_code": "BCEYLKLXPRI"
         },
         {
-            "id": 9,
+            "id": 12,
             "bank": "BANK OF CEYLON",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "BCEYLKLX"
         },
         {
-            "id": 10,
+            "id": 13,
             "bank": "BANK OF CEYLON",
             "city": "KANDY",
             "branch": "(SUPER GRADE BRANCH)",
             "swift_code": "BCEYLKLX002"
         },
         {
-            "id": 11,
+            "id": 14,
             "bank": "BANK OF CEYLON",
             "city": "PETTAH",
             "branch": null,
             "swift_code": "BCEYLKLX004"
         },
         {
-            "id": 12,
+            "id": 15,
+            "bank": "BARTLEET MALLORY STOCKBROKERS (PVT) LTD.",
+            "city": "COLOMBO",
+            "branch": null,
+            "swift_code": "BMSVLKL1"
+        },
+        {
+            "id": 16,
+            "bank": "C T SMITH STOCKBROKERS (PVT) LTD",
+            "city": "COLOMBO",
+            "branch": null,
+            "swift_code": "SMSPLKL1"
+        },
+        {
+            "id": 17,
             "bank": "CAPITAL ALLIANCE LIMITED",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "CALDLKLX"
         },
         {
-            "id": 13,
+            "id": 18,
             "bank": "CARGILLS BANK LIMITED",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "CGRBLKLX"
         },
         {
-            "id": 14,
+            "id": 19,
+            "bank": "CDIC SASSOON CUMBERBATCH STOCKBROKERS (PVT) LTD",
+            "city": "COLOMBO",
+            "branch": null,
+            "swift_code": "CSCSLKL1"
+        },
+        {
+            "id": 20,
             "bank": "CENTRAL BANK OF SRI LANKA",
             "city": "COLOMBO",
             "branch": "(EMPLOYEES' PROVIDENT FUND - CBSL)",
             "swift_code": "CBCELKLXEPF"
         },
         {
-            "id": 15,
+            "id": 21,
             "bank": "CENTRAL BANK OF SRI LANKA",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "CBCELKLS"
         },
         {
-            "id": 16,
+            "id": 22,
             "bank": "CENTRAL BANK OF SRI LANKA",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "CBCELKLX"
         },
         {
-            "id": 17,
+            "id": 23,
             "bank": "CENTRAL DEPOSITORY SYSTEMS (PVT) LTD",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "CDSPLKLC"
         },
         {
-            "id": 18,
+            "id": 24,
+            "bank": "CEYLON TOBACCO COMPANY PLC",
+            "city": "COLOMBO",
+            "branch": null,
+            "swift_code": "BATSLKA1"
+        },
+        {
+            "id": 25,
             "bank": "CITIBANK N.A. SRI LANKA",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "CITILKLX"
         },
         {
-            "id": 19,
+            "id": 26,
+            "bank": "COLOMBO STOCK EXCHANGE",
+            "city": "COLOMBO",
+            "branch": null,
+            "swift_code": "XCOLLKL1"
+        },
+        {
+            "id": 27,
             "bank": "COMMERCIAL BANK OF CEYLON PLC",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "CCEYLKLX"
         },
         {
-            "id": 20,
+            "id": 28,
+            "bank": "COMMERCIAL BANK PRIMARY DEALER LTD.",
+            "city": "COLOMBO",
+            "branch": null,
+            "swift_code": "CBPDLKL1"
+        },
+        {
+            "id": 29,
+            "bank": "COMMERCIAL STOCKBROKERS (PVT) LTD",
+            "city": "COLOMBO",
+            "branch": null,
+            "swift_code": "COSPLKL1"
+        },
+        {
+            "id": 30,
+            "bank": "DE SILVA AND ABEYWARDENA STOCKBROKERS (PVT) LTD",
+            "city": "COLOMBO",
+            "branch": null,
+            "swift_code": "SASVLKL1"
+        },
+        {
+            "id": 31,
             "bank": "DEUTSCHE BANK AG, COLOMBO BRANCH",
             "city": "COLOMBO",
             "branch": "(COLOMBO BRANCH)",
             "swift_code": "DEUTLKLX001"
         },
         {
-            "id": 21,
+            "id": 32,
             "bank": "DEUTSCHE BANK AG, COLOMBO BRANCH",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "DEUTLKLX"
         },
         {
-            "id": 22,
+            "id": 33,
             "bank": "DEUTSCHE BANK AG, COLOMBO BRANCH",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "DEUTLKLXGMO"
         },
         {
-            "id": 23,
+            "id": 34,
             "bank": "DFCC BANK PLC",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "DFCCLKLX"
         },
         {
-            "id": 24,
+            "id": 35,
             "bank": "ENTRUST SECURITIES PLC",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "CSSLLKLX"
         },
         {
-            "id": 25,
+            "id": 36,
             "bank": "FIRST CAPITAL TREASURIES LIMITED",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "FCTLLKLX"
         },
         {
-            "id": 26,
+            "id": 37,
+            "bank": "FITCH RATINGS LANKA LTD.",
+            "city": "COLOMBO",
+            "branch": null,
+            "swift_code": "FRIPLKL1"
+        },
+        {
+            "id": 38,
+            "bank": "FORBES AND WALKER STOCKBROKERS (PVT) LTD",
+            "city": "COLOMBO",
+            "branch": null,
+            "swift_code": "FWSPLKL1"
+        },
+        {
+            "id": 39,
             "bank": "HABIB BANK LTD.",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "HABBLKLC"
         },
         {
-            "id": 27,
+            "id": 40,
             "bank": "HATTON NATIONAL BANK PLC",
             "city": "COLOMBO",
             "branch": "(FOREIGN CURRENCY BANKING UNIT)",
             "swift_code": "HBLILKLX001"
         },
         {
-            "id": 28,
+            "id": 41,
             "bank": "HATTON NATIONAL BANK PLC",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "HBLILKLX"
         },
         {
-            "id": 29,
+            "id": 42,
+            "bank": "HDF SECURITIES (PVT) LTD.",
+            "city": "COLOMBO",
+            "branch": null,
+            "swift_code": "HDSPLKL1"
+        },
+        {
+            "id": 43,
             "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "HSBCLKLX"
         },
         {
-            "id": 30,
+            "id": 44,
             "bank": "ICICI BANK LTD",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "ICICLKLX"
         },
         {
-            "id": 31,
+            "id": 45,
+            "bank": "IIFL SECURITIES CEYLON (PVT) LTD",
+            "city": "COLOMBO",
+            "branch": null,
+            "swift_code": "IFLLLKL1"
+        },
+        {
+            "id": 46,
             "bank": "INDIAN BANK",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "IDIBLKLC"
         },
         {
-            "id": 32,
+            "id": 47,
             "bank": "INDIAN OVERSEAS BANK",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "IOBALKLC"
         },
         {
-            "id": 33,
+            "id": 48,
+            "bank": "JOHN KEELLS STOCKBROKERS (PVT) LTD.",
+            "city": "COLOMBO",
+            "branch": null,
+            "swift_code": "JKSPLKL1"
+        },
+        {
+            "id": 49,
             "bank": "LANKA ORIX FINANCE PLC",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "LOFCLKLC"
         },
         {
-            "id": 34,
+            "id": 50,
+            "bank": "LANKA SECURITIES (PVT) LIMITED",
+            "city": "COLOMBO",
+            "branch": null,
+            "swift_code": "LASPLKL1"
+        },
+        {
+            "id": 51,
             "bank": "MCB BANK LTD.",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "MUCBLKLC"
         },
         {
-            "id": 35,
+            "id": 52,
             "bank": "NAT WEALTH SECURITIES LIMITED",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "NWSLLKLX"
         },
         {
-            "id": 36,
+            "id": 53,
+            "bank": "NATION LANKA EQUITIES (PVT) LTD.",
+            "city": "COLOMBO",
+            "branch": null,
+            "swift_code": "CESPLKL1"
+        },
+        {
+            "id": 54,
             "bank": "NATIONAL DEVELOPMENT BANK PLC.",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "NDBSLKLX"
         },
         {
-            "id": 37,
+            "id": 55,
             "bank": "NATIONAL SAVINGS BANK",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "NSBALKLX"
         },
         {
-            "id": 38,
+            "id": 56,
             "bank": "NATIONS TRUST BANK PLC",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "NTBCLKLX"
         },
         {
-            "id": 39,
+            "id": 57,
+            "bank": "NDBS STOCKBROKERS (PVT) LTD",
+            "city": "COLOMBO",
+            "branch": null,
+            "swift_code": "NDSPLKL1"
+        },
+        {
+            "id": 58,
             "bank": "NSB FUND MANAGEMENT COMPANY LIMITED",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "NSBFLKLX"
         },
         {
-            "id": 40,
+            "id": 59,
             "bank": "PAN ASIA BANKING CORPORATION PLC",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "PABSLKLX"
         },
         {
-            "id": 41,
+            "id": 60,
             "bank": "PEOPLE'S BANK,HEAD OFFICE",
             "city": "COLOMBO",
             "branch": "(HEAD OFFICE)",
             "swift_code": "PSBKLKLX"
         },
         {
-            "id": 42,
+            "id": 61,
             "bank": "PEOPLE'S BANK,HEAD OFFICE",
             "city": "COLOMBO",
             "branch": "(INTERNATIONAL DEPARTMENT)",
             "swift_code": "PSBKLKLX022"
         },
         {
-            "id": 43,
+            "id": 62,
             "bank": "PEOPLE'S BANK,HEAD OFFICE",
             "city": "COLOMBO",
             "branch": "(OVERSEAS DEPARTMENT)",
             "swift_code": "PSBKLKLX023"
         },
         {
-            "id": 44,
+            "id": 63,
+            "bank": "PEOPLE'S MERCHANT BANK LIMITED",
+            "city": "COLOMBO",
+            "branch": null,
+            "swift_code": "MEBPLKL1"
+        },
+        {
+            "id": 64,
             "bank": "PERPETUAL TREASURIES LIMITED",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "PPTLLKLX"
         },
         {
-            "id": 45,
+            "id": 65,
             "bank": "PUBLIC BANK BERHAD",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "PBBELKLX"
         },
         {
-            "id": 46,
+            "id": 66,
             "bank": "SAMPATH BANK PLC",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "BSAMLKLX"
         },
         {
-            "id": 47,
+            "id": 67,
             "bank": "SENKADAGALA FINANCE PLC",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "SENFLKLX"
         },
         {
-            "id": 48,
+            "id": 68,
             "bank": "SEYLAN BANK PLC",
             "city": "COLOMBO",
             "branch": "(TREASURY DIVISION)",
             "swift_code": "SEYBLKLXTRY"
         },
         {
-            "id": 49,
+            "id": 69,
             "bank": "SEYLAN BANK PLC",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "SEYBLKLX"
         },
         {
-            "id": 50,
+            "id": 70,
+            "bank": "SOFTLOGIC STOCKBROKERS (PVT) LTD",
+            "city": "COLOMBO",
+            "branch": null,
+            "swift_code": "ARAVLKL1"
+        },
+        {
+            "id": 71,
+            "bank": "SOMERVILLE STOCKBROKERS (PVT) LTD",
+            "city": "COLOMBO",
+            "branch": null,
+            "swift_code": "SOSPLKL1"
+        },
+        {
+            "id": 72,
             "bank": "STANDARD CHARTERED BANK",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "SCBLLKLX"
         },
         {
-            "id": 51,
+            "id": 73,
             "bank": "STANDARD CHARTERED BANK",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "SCBLLKLXEQI"
         },
         {
-            "id": 52,
+            "id": 74,
             "bank": "STATE BANK OF INDIA",
             "city": "COLOMBO",
             "branch": "(FOREIGN CURRENCY BANKING UNIT)",
             "swift_code": "SBINLKLXFCB"
         },
         {
-            "id": 53,
+            "id": 75,
             "bank": "STATE BANK OF INDIA",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "SBINLKLX"
         },
         {
-            "id": 54,
+            "id": 76,
             "bank": "STATE BANK OF INDIA",
             "city": "JAFFNA",
             "branch": "(JAFFNA BRANCH)",
             "swift_code": "SBINLKLXJFN"
         },
         {
-            "id": 55,
+            "id": 77,
             "bank": "STATE BANK OF INDIA",
             "city": "KANDY",
             "branch": "(KANDY BRANCH)",
             "swift_code": "SBINLKLXKDY"
         },
         {
-            "id": 56,
+            "id": 78,
+            "bank": "TA SECURITIES LANKA (PUT) LTD.",
+            "city": "COLOMBO",
+            "branch": null,
+            "swift_code": "SETELKL1"
+        },
+        {
+            "id": 79,
+            "bank": "TKS SECURITIES PVT LTD.",
+            "city": "COLOMBO",
+            "branch": null,
+            "swift_code": "TKSPLKL1"
+        },
+        {
+            "id": 80,
             "bank": "UNION BANK OF COLOMBO PLC",
             "city": "COLOMBO",
             "branch": null,
             "swift_code": "UBCLLKLC"
         },
         {
-            "id": 57,
+            "id": 81,
             "bank": "WEALTHTRUST SECURITIES LTD",
             "city": "COLOMBO",
             "branch": null,

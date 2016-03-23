@@ -4,311 +4,878 @@
     "list": [
         {
             "id": 1,
+            "bank": "ABV INVESTICII EOOD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "ABIEBGS1"
+        },
+        {
+            "id": 2,
+            "bank": "ACTIVA ASSET MANAGEMENT JSC",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "AAMJBGS1"
+        },
+        {
+            "id": 3,
+            "bank": "ADAMANT CAPITAL PARTNERS AD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "ADCRBGS1"
+        },
+        {
+            "id": 4,
+            "bank": "AGENCY FOR CREDIT RATINGS AND ANALYSES AD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "ACCGBGS1"
+        },
+        {
+            "id": 5,
+            "bank": "ALFA ASSET MANAGEMENT EAD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "AAMEBGS1"
+        },
+        {
+            "id": 6,
             "bank": "ALLIANZ BANK BULGARIA AD",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "BUINBGSF"
         },
         {
-            "id": 2,
+            "id": 7,
             "bank": "ALPHA BANK-BULGARIA BRANCH",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "CRBABGSF"
         },
         {
-            "id": 3,
+            "id": 8,
+            "bank": "ARCUS ASSET MANAGEMENT JSC",
+            "city": "PLOVDIV",
+            "branch": null,
+            "swift_code": "AAAJBG21"
+        },
+        {
+            "id": 9,
+            "bank": "AUSTRIAN BULGARIAN INVESTMENT GROUP AD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "ABIGBGS1"
+        },
+        {
+            "id": 10,
+            "bank": "AVAL IN JSC",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "AVJCBGS1"
+        },
+        {
+            "id": 11,
+            "bank": "AVC FINANCE PLC",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "AVFIBGS1"
+        },
+        {
+            "id": 12,
+            "bank": "AVUS CAPITAL",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "AVCABGS1"
+        },
+        {
+            "id": 13,
+            "bank": "BALKAN ADVISORY COMPANY-IP EAD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "BAPDBGS1"
+        },
+        {
+            "id": 14,
+            "bank": "BALKAN INVESTMENT COMPANY AD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "BICYBGS1"
+        },
+        {
+            "id": 15,
+            "bank": "BANK LEUMI ROMANIA-SOFIA BRANCH",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "LUMIBGS1"
+        },
+        {
+            "id": 16,
             "bank": "BANKSERVICE AD",
             "city": "SOFIA",
             "branch": "(T2 INTEROPERABILITY)",
             "swift_code": "BSBGBGSFIOP"
         },
         {
-            "id": 4,
+            "id": 17,
             "bank": "BANKSERVICE AD",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "BSBGBGSF"
         },
         {
-            "id": 5,
+            "id": 18,
+            "bank": "BENCHMARK FINANCE",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "BEFNBGS1"
+        },
+        {
+            "id": 19,
+            "bank": "BETA CORP JSC",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "BEJSBGS1"
+        },
+        {
+            "id": 20,
+            "bank": "BGPROINVEST",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "BGPRBGS1"
+        },
+        {
+            "id": 21,
             "bank": "BNP PARIBAS S.A.-SOFIA BRANCH",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "BNPABGSX"
         },
         {
-            "id": 6,
+            "id": 22,
+            "bank": "BULBROKERS A D",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "BULBBGS1"
+        },
+        {
+            "id": 23,
+            "bank": "BULBROKERS EAD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "BUAABGS1"
+        },
+        {
+            "id": 24,
+            "bank": "BULEX INVEST PLC",
+            "city": "VARNA",
+            "branch": null,
+            "swift_code": "BUIVBG21"
+        },
+        {
+            "id": 25,
+            "bank": "BULGARIAN CREDIT RATING AGENCY",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "BCRCBGS1"
+        },
+        {
+            "id": 26,
             "bank": "BULGARIAN DEVELOPMENT BANK (FORMERLY ENCOURAGEMENT BANK)",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "NASBBGSF"
         },
         {
-            "id": 7,
+            "id": 27,
             "bank": "BULGARIAN NATIONAL BANK",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "BNBGBGSF"
         },
         {
-            "id": 8,
+            "id": 28,
             "bank": "BULGARIAN NATIONAL BANK - BGN",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "BNBGBGSD"
         },
         {
-            "id": 9,
+            "id": 29,
+            "bank": "BULGARIAN STOCK EXCHANGE",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "XBULBGS1"
+        },
+        {
+            "id": 30,
             "bank": "BULGARIAN-AMERICAN CREDIT BANK",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "BGUSBGSF"
         },
         {
-            "id": 10,
+            "id": 31,
+            "bank": "BULL TREND BROKERAGE LTD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "BUTKBGS1"
+        },
+        {
+            "id": 32,
+            "bank": "CAPITAL INVEST JSC",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "CAIJBGS1"
+        },
+        {
+            "id": 33,
+            "bank": "CAPITAL MARKETS JSC",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "CAMJBGS1"
+        },
+        {
+            "id": 34,
+            "bank": "CAPMAN ASSET MANAGEMENT",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "CPSMBGS1"
+        },
+        {
+            "id": 35,
+            "bank": "CAPMAN INC.",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "CPNMBGS1"
+        },
+        {
+            "id": 36,
+            "bank": "CCB ASSETS MANAGEMENT EAD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "CSMEBGS1"
+        },
+        {
+            "id": 37,
             "bank": "CENTRAL COOPERATIVE BANK PLC",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "CECBBGSF"
         },
         {
-            "id": 11,
+            "id": 38,
             "bank": "CENTRAL DEPOSITORY AD",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "CEDPBGSF"
         },
         {
-            "id": 12,
+            "id": 39,
             "bank": "CIBANK JSC",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "BUIBBGSF"
         },
         {
-            "id": 13,
+            "id": 40,
             "bank": "CIBANK JSC",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "BUIBBGSF"
         },
         {
-            "id": 14,
+            "id": 41,
             "bank": "CITIBANK EUROPE PLC, BULGARIA BRANCH",
             "city": "SOFIA",
             "branch": "(TRADE SERVICES DEPARTMENT)",
             "swift_code": "CITIBGSFTRD"
         },
         {
-            "id": 15,
+            "id": 42,
             "bank": "CITIBANK EUROPE PLC, BULGARIA BRANCH",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "CITIBGSF"
         },
         {
-            "id": 16,
+            "id": 43,
+            "bank": "COMPASS INVEST JSC",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "COIJBGS1"
+        },
+        {
+            "id": 44,
+            "bank": "CONCORD ASSET MANAGEMENT",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "CNAEBGS1"
+        },
+        {
+            "id": 45,
             "bank": "D COMMERCE BANK AD",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "DEMIBGSF"
         },
         {
-            "id": 17,
+            "id": 46,
+            "bank": "D.I.S.L. SECURITIES JSC.",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "DISJBGS1"
+        },
+        {
+            "id": 47,
+            "bank": "DE NOVO EAD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "NODABGS1"
+        },
+        {
+            "id": 48,
+            "bank": "DELTASTOCK AD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "DETTBGS1"
+        },
+        {
+            "id": 49,
+            "bank": "DILINGOVA FINANSOVA KOMPANIA AD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "DIFKBGS1"
+        },
+        {
+            "id": 50,
             "bank": "DSK BANK (FORMERLY STATE SAVINGS BANK)",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "STSABGSF"
         },
         {
-            "id": 18,
+            "id": 51,
+            "bank": "EF ASSET MANAGEMENT",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "AMNMBGS1"
+        },
+        {
+            "id": 52,
+            "bank": "ELANA FUND MANAGEMENT",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "ELFGBGS1"
+        },
+        {
+            "id": 53,
+            "bank": "ELANA TRADING INC",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "ELTABGS1"
+        },
+        {
+            "id": 54,
             "bank": "EUROBANK BULGARIA AD",
             "city": "SOFIA",
             "branch": "(CUSTODY DEPARTMENT)",
             "swift_code": "BPBIBGSFSEC"
         },
         {
-            "id": 19,
+            "id": 55,
             "bank": "EUROBANK BULGARIA AD",
             "city": "SOFIA",
             "branch": "(INTERNATIONAL SECURITIES DEPOSITORY)",
             "swift_code": "BPBIBGSFISD"
         },
         {
-            "id": 20,
+            "id": 56,
             "bank": "EUROBANK BULGARIA AD",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "BPBIBGSF"
         },
         {
-            "id": 21,
+            "id": 57,
             "bank": "EURO-FINANCE LTD",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "EUFCBGSF"
         },
         {
-            "id": 22,
+            "id": 58,
+            "bank": "EXPAT ASSET MANAGEMENT",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "EAMGBGS1"
+        },
+        {
+            "id": 59,
+            "bank": "FACTORI JSCO",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "FAJSBGS1"
+        },
+        {
+            "id": 60,
+            "bank": "FFBH ASSET MANAGEMENT",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "FFAMBGS1"
+        },
+        {
+            "id": 61,
+            "bank": "FH EVER INC.",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "EEERBGS1"
+        },
+        {
+            "id": 62,
+            "bank": "FINANCE ENGINEERING JSC",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "FIEJBGS1"
+        },
+        {
+            "id": 63,
+            "bank": "FINA-S AD INVESTMENT INTERMEDIARY",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "FIRYBGS1"
+        },
+        {
+            "id": 64,
+            "bank": "FIRST FINANCIAL BROKERAGE HOUSE LTD.",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "FFBHBGS1"
+        },
+        {
+            "id": 65,
             "bank": "FIRST INVESTMENT BANK AD",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "FINVBGSF"
         },
         {
-            "id": 23,
+            "id": 66,
+            "bank": "FOCAL POINT INVESTMENTS JSC",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "FPIJBGS1"
+        },
+        {
+            "id": 67,
+            "bank": "GLOBAL MARKETS",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "GLMKBGS1"
+        },
+        {
+            "id": 68,
             "bank": "ING BANK N.V. SOFIA BRANCH",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "INGBBGSF"
         },
         {
-            "id": 24,
+            "id": 69,
             "bank": "INTERCARD FINANCE AD",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "INTFBGSF"
         },
         {
-            "id": 25,
+            "id": 70,
             "bank": "INTERNATIONAL ASSET BANK AD",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "IABGBGSF"
         },
         {
-            "id": 26,
+            "id": 71,
+            "bank": "INVEST CAPITAL JSC",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "INCJBGS1"
+        },
+        {
+            "id": 72,
+            "bank": "INVEST FUND MANAGEMENT",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "IVFMBGS1"
+        },
+        {
+            "id": 73,
             "bank": "INVESTBANK PLC",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "IORTBGSF"
         },
         {
-            "id": 27,
+            "id": 74,
+            "bank": "INVETSMENT INTERMEDIARY RNK CAPITAL AD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "IIRCBGS1"
+        },
+        {
+            "id": 75,
+            "bank": "IP FAVORIT CLS",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "FALSBGS1"
+        },
+        {
+            "id": 76,
+            "bank": "IP INTERCAPITAL MARKETS AD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "INMKBGS1"
+        },
+        {
+            "id": 77,
             "bank": "ISBANK AG SOFIA BRANCH",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "ISBKBGSF"
         },
         {
-            "id": 28,
+            "id": 78,
+            "bank": "KAROLL",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "KAOLBGS1"
+        },
+        {
+            "id": 79,
+            "bank": "KAROLL CAPITAL MANAGEMENT",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "KACABGS1"
+        },
+        {
+            "id": 80,
+            "bank": "KBC SECURITIES N.V-BULGARIA BRANCH",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "KSBRBGS1"
+        },
+        {
+            "id": 81,
+            "bank": "MANAGEMENT COMPANY DSK ASSET MANAGEMENT AD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "MCDABGS1"
+        },
+        {
+            "id": 82,
+            "bank": "MUNICIPAL BANK ASSET MANAGEMENT",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "MUAABGS1"
+        },
+        {
+            "id": 83,
             "bank": "MUNICIPAL BANK PLC",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "SOMBBGSF"
         },
         {
-            "id": 29,
+            "id": 84,
+            "bank": "NABA INVEST PLC",
+            "city": "VARNA",
+            "branch": null,
+            "swift_code": "NAIVBG21"
+        },
+        {
+            "id": 85,
             "bank": "PIRAEUS BANK BULGARIA AD",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "PIRBBGSF"
         },
         {
-            "id": 30,
+            "id": 86,
+            "bank": "POSITIVA JSC",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "POJSBGS1"
+        },
+        {
+            "id": 87,
             "bank": "PROCREDIT BANK (BULGARIA) EAD",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "PRCBBGSF"
         },
         {
-            "id": 31,
+            "id": 88,
+            "bank": "RAIFFEISEN ASSET MANAGEMENT (BULGARIA) EAD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "RAMUBGS1"
+        },
+        {
+            "id": 89,
             "bank": "RAIFFEISENBANK (BULGARIA) EAD",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "RZBBBGSF"
         },
         {
-            "id": 32,
+            "id": 90,
+            "bank": "REAL FINANCE AD",
+            "city": "VARNA",
+            "branch": null,
+            "swift_code": "REIABG21"
+        },
+        {
+            "id": 91,
+            "bank": "REAL FINANCE ASSET MANAGEMENT",
+            "city": "VARNA",
+            "branch": null,
+            "swift_code": "RFAABG21"
+        },
+        {
+            "id": 92,
+            "bank": "SAGLASIE ASSET MANAGEMENT",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "SATGBGS1"
+        },
+        {
+            "id": 93,
+            "bank": "SELECT ASSET MANAGMENT",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "SATTBGS1"
+        },
+        {
+            "id": 94,
+            "bank": "SKY ASSET MANAGEMENT",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "SKSMBGS1"
+        },
+        {
+            "id": 95,
             "bank": "SOCIETE GENERALE EXPRESSBANK",
             "city": "VARNA",
             "branch": "(CUSTODY MANAGEMENT)",
             "swift_code": "TTBBBG22CUS"
         },
         {
-            "id": 33,
+            "id": 96,
             "bank": "SOCIETE GENERALE EXPRESSBANK",
             "city": "VARNA",
             "branch": null,
             "swift_code": "TTBBBG22"
         },
         {
-            "id": 34,
+            "id": 97,
+            "bank": "SOFIA INTERNATIONAL SECURITIES AD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "SOIUBGS1"
+        },
+        {
+            "id": 98,
+            "bank": "SOMONI FINANCIAL BROKERAGE LTD.",
+            "city": "STARA ZAGORA",
+            "branch": null,
+            "swift_code": "SOFKBG21"
+        },
+        {
+            "id": 99,
+            "bank": "STANDARD INVESTMENT",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "STVVBGS1"
+        },
+        {
+            "id": 100,
+            "bank": "STATUS INVEST AD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "STVNBGS1"
+        },
+        {
+            "id": 101,
+            "bank": "STS FINANCE SC",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "STSFBGS1"
+        },
+        {
+            "id": 102,
+            "bank": "SYNERGON ASSET MANAGEMENT JSC",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "SAMJBGS1"
+        },
+        {
+            "id": 103,
             "bank": "T.C. ZIRAAT BANKASI - SOFIA BRANCH",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "TCZBBGSF"
         },
         {
-            "id": 35,
+            "id": 104,
+            "bank": "TBI ASSET MANAGEMENT EAD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "TASGBGS1"
+        },
+        {
+            "id": 105,
             "bank": "TBI BANK EAD",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "TBIBBGSF"
         },
         {
-            "id": 36,
+            "id": 106,
+            "bank": "TBI INVEST EAD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "TBIEBGS1"
+        },
+        {
+            "id": 107,
+            "bank": "TEXIM ASSET MANAGEMENT",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "TESMBGS1"
+        },
+        {
+            "id": 108,
             "bank": "TEXIM BANK AD",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "TEXIBGSF"
         },
         {
-            "id": 37,
+            "id": 109,
+            "bank": "TIC SAEDINENIE PLC",
+            "city": "PLOVDIV",
+            "branch": null,
+            "swift_code": "TICEBG21"
+        },
+        {
+            "id": 110,
             "bank": "TOKUDA BANK AD",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "CREXBGSF"
         },
         {
-            "id": 38,
+            "id": 111,
+            "bank": "UBB ASSET MANAGEMENT",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "UBATBGS1"
+        },
+        {
+            "id": 112,
+            "bank": "UG MARKET FUND MANAGEMENT JSC",
+            "city": "PLOVDIV",
+            "branch": null,
+            "swift_code": "UGMJBG21"
+        },
+        {
+            "id": 113,
+            "bank": "UG MARKET JSC",
+            "city": "PLOVDIV",
+            "branch": null,
+            "swift_code": "MAJSBG21"
+        },
+        {
+            "id": 114,
             "bank": "UNICREDIT BULBANK AD",
             "city": "PLOVDIV",
             "branch": "(PLOVDIV BRANCH)",
             "swift_code": "UNCRBGSF720"
         },
         {
-            "id": 39,
+            "id": 115,
             "bank": "UNICREDIT BULBANK AD",
             "city": "SOFIA",
             "branch": "(SERDIKA BRANCH)",
             "swift_code": "UNCRBGSF031"
         },
         {
-            "id": 40,
+            "id": 116,
             "bank": "UNICREDIT BULBANK AD",
             "city": "SOFIA",
             "branch": "(VITOSHA BRANCH)",
             "swift_code": "UNCRBGSF426"
         },
         {
-            "id": 41,
+            "id": 117,
             "bank": "UNICREDIT BULBANK AD",
             "city": "SOFIA",
             "branch": null,
             "swift_code": "UNCRBGSF"
         },
         {
-            "id": 42,
+            "id": 118,
             "bank": "UNICREDIT BULBANK AD",
             "city": "V. TARNOVO",
             "branch": "(V. TARNOVO BRANCH)",
             "swift_code": "UNCRBGSF081"
         },
         {
-            "id": 43,
+            "id": 119,
             "bank": "UNICREDIT BULBANK AD",
             "city": "VARNA",
             "branch": null,
             "swift_code": "UNCRBGSF733"
         },
         {
-            "id": 44,
+            "id": 120,
             "bank": "UNITED BULGARIAN BANK",
             "city": "SOFIA",
             "branch": "(HEADQUARTER)",
             "swift_code": "UBBSBGSF"
+        },
+        {
+            "id": 121,
+            "bank": "VARCHEV FINANCE EOOD",
+            "city": "VARNA",
+            "branch": null,
+            "swift_code": "VAFEBG21"
+        },
+        {
+            "id": 122,
+            "bank": "VARCHEV MANAGING COMPANY EAD",
+            "city": "VARNA",
+            "branch": null,
+            "swift_code": "VMCEBG21"
+        },
+        {
+            "id": 123,
+            "bank": "ZAGORA FINACORP AD",
+            "city": "HASKOVO",
+            "branch": null,
+            "swift_code": "ZAFIBG21"
+        },
+        {
+            "id": 124,
+            "bank": "ZLATEN LEV BROKERI LTD",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "ZLLBBGS1"
+        },
+        {
+            "id": 125,
+            "bank": "ZLATEN LEV CAPITAL",
+            "city": "SOFIA",
+            "branch": null,
+            "swift_code": "ZLLCBGS1"
         }
     ]
 }

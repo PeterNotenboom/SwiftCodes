@@ -11,335 +11,867 @@
         },
         {
             "id": 2,
+            "bank": "ABN AMRO TRUST COMPANY (JERSEY) LIMITED",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "ATCJJES1"
+        },
+        {
+            "id": 3,
             "bank": "ABU DHABI COMMERCIAL BANK PJSC, JERSEY BRANCH",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "ADCBJESH"
         },
         {
-            "id": 3,
+            "id": 4,
+            "bank": "ALPHA BANK JERSEY LIMITED",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "ALJEJES1"
+        },
+        {
+            "id": 5,
+            "bank": "ASAHI LIFE INVESTMENT EUROPE LIMITED",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "ALIEJES1"
+        },
+        {
+            "id": 6,
+            "bank": "ASHBURTON (JERSEY) LIMITED",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "ASHMJES1"
+        },
+        {
+            "id": 7,
+            "bank": "B.A.I.I. TRUST LTD",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "BTRUJES1"
+        },
+        {
+            "id": 8,
+            "bank": "BALOISE FINANCE (JERSEY) LIMITED",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "BAFJJES1"
+        },
+        {
+            "id": 9,
+            "bank": "BANK LEUMI JERSEY LIMITED",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "LUMIJES1"
+        },
+        {
+            "id": 10,
             "bank": "BANK OF INDIA, JERSEY BRANCH",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "BKIDJESH"
         },
         {
-            "id": 4,
+            "id": 11,
+            "bank": "BANK OF SCOTLAND - JERSEY TREASURY",
+            "city": "ST. HELIER",
+            "branch": "(DON ROAD OFFSHORE)",
+            "swift_code": "BOFSJES1DRO"
+        },
+        {
+            "id": 12,
+            "bank": "BANK OF SCOTLAND - JERSEY TREASURY",
+            "city": "ST. HELIER",
+            "branch": "(INTERNATIONAL , JERSEY)",
+            "swift_code": "BOFSJES1JER"
+        },
+        {
+            "id": 13,
+            "bank": "BANK OF SCOTLAND - JERSEY TREASURY",
+            "city": "ST. HELIER",
+            "branch": "(JERSEY (R) 12.47.53)",
+            "swift_code": "BOFSJES1011"
+        },
+        {
+            "id": 14,
+            "bank": "BANK OF SCOTLAND - JERSEY TREASURY",
+            "city": "ST. HELIER",
+            "branch": "(JERSEY MONEY MKT A\/C CTRE (R) 12.47.54)",
+            "swift_code": "BOFSJES1012"
+        },
+        {
+            "id": 15,
+            "bank": "BANK OF SCOTLAND - JERSEY TREASURY",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "BOFSJES1"
+        },
+        {
+            "id": 16,
+            "bank": "BANK OF SCOTLAND (JERSEY) LIMITED",
+            "city": "ST. HELIER",
+            "branch": "(JERSEY MONEY MARKET ACCOUNTS CENTRE)",
+            "swift_code": "BOFSJES1001"
+        },
+        {
+            "id": 17,
+            "bank": "BANK OF SCOTLAND (JERSEY) LIMITED",
+            "city": "ST. HELIER",
+            "branch": "(PERSONAL FINANCIAL SERVICES JERSEY)",
+            "swift_code": "BOFSJES1002"
+        },
+        {
+            "id": 18,
+            "bank": "BANK OF SCOTLAND (JERSEY) LIMITED",
+            "city": "ST. HELIER",
+            "branch": "(SPEIRS AND JEFFREY JERSEY BRANCH)",
+            "swift_code": "BOFSJES1SPJ"
+        },
+        {
+            "id": 19,
+            "bank": "BANK OF SCOTLAND (JERSEY) LIMITED",
+            "city": "ST. HELIER",
+            "branch": "(TURCAN CONNELL OFFSHORE BRANCH)",
+            "swift_code": "BOFSJES1TCO"
+        },
+        {
+            "id": 20,
             "bank": "BANQUE NATIONALE DE PARIS",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "BNPAJESH"
         },
         {
-            "id": 5,
+            "id": 21,
+            "bank": "BARCLAYS BANK PLC",
+            "city": "GEORGETOWN",
+            "branch": "(PERSONAL BANKING INTERNATIONAL - CUST. A-J (JERSEY))",
+            "swift_code": "BARCJES1022"
+        },
+        {
+            "id": 22,
+            "bank": "BARCLAYS BANK PLC",
+            "city": "GEORGETOWN",
+            "branch": "(PERSONAL BANKING INTERNATIONAL - CUST. K-Z (JERSEY))",
+            "swift_code": "BARCJES1023"
+        },
+        {
+            "id": 23,
+            "bank": "BARCLAYS BANK PLC",
+            "city": "GEORGETOWN",
+            "branch": "(PERSONAL BANKING INTERNATIONAL - JERSEY)",
+            "swift_code": "BARCJES1026"
+        },
+        {
+            "id": 24,
+            "bank": "BARCLAYS BANK PLC",
+            "city": "ST. HELIER",
+            "branch": "(BARCLAYS BANK PLC JERSEY)",
+            "swift_code": "BARCJES10S3"
+        },
+        {
+            "id": 25,
+            "bank": "BARCLAYS BANK PLC",
+            "city": "ST. HELIER",
+            "branch": "(BPCI LIMITED WOOLWICH JERSEY)",
+            "swift_code": "BARCJES10WJ"
+        },
+        {
+            "id": 26,
+            "bank": "BARCLAYS BANK PLC",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "BARCJES1"
+        },
+        {
+            "id": 27,
             "bank": "BARCLAYS BANK PLC FIDUCIARY DEPOSIT BUSINESS",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "BARCJESX"
         },
         {
-            "id": 6,
+            "id": 28,
+            "bank": "BARCLAYS PRIVATE BANK AND TRUST LTD",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "BPBLJES1"
+        },
+        {
+            "id": 29,
             "bank": "BARCLAYS PRIVATE CLIENTS INTERNATIONAL LIMITED, JERSEY BRANCH",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "BARCJESA"
         },
         {
-            "id": 7,
+            "id": 30,
             "bank": "BEDELL TRUST COMPANY LIMITED",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "BEDLJESH"
         },
         {
-            "id": 8,
+            "id": 31,
             "bank": "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH",
             "city": "ST. HELIER",
             "branch": "(GLOBAL CUSTODY)",
             "swift_code": "PARBJESHISI"
         },
         {
-            "id": 9,
+            "id": 32,
             "bank": "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH",
             "city": "ST. HELIER",
             "branch": "(JERSEY)",
             "swift_code": "PARBJESHFDA"
         },
         {
-            "id": 10,
+            "id": 33,
             "bank": "BNP PARIBAS SECURITIES SERVICES JERSEY BRANCH",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "PARBJESH"
         },
         {
-            "id": 11,
+            "id": 34,
+            "bank": "BREVAN HOWARD INVESTMENT PRODUCTS LIMITED",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "BHIRJES1"
+        },
+        {
+            "id": 35,
+            "bank": "CAPITA FIDUCIARY GROUP LIMITED",
+            "city": "ST. HELIER",
+            "branch": "(CLIENT 1)",
+            "swift_code": "CFGRJES1CL1"
+        },
+        {
+            "id": 36,
+            "bank": "CAPITA FIDUCIARY GROUP LIMITED",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "CFGRJES1"
+        },
+        {
+            "id": 37,
+            "bank": "CAPITA FIDUCIARY GROUP LIMITED",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "CFGRJES1AVM"
+        },
+        {
+            "id": 38,
+            "bank": "CAPITA FIDUCIARY GROUP LIMITED",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "CFGRJES1LVM"
+        },
+        {
+            "id": 39,
+            "bank": "CATER ALLEN STOCKBROKERS LIMITED",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "JEFEJES1"
+        },
+        {
+            "id": 40,
+            "bank": "CAZENOVE PORTFOLIO MANAGEMENT JERSEY",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "CAZEJES1"
+        },
+        {
+            "id": 41,
+            "bank": "CFP ENERGY LIMITED",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "CFPEJES1"
+        },
+        {
+            "id": 42,
             "bank": "CITIBANK (CHANNEL ISLANDS) LIMITED",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "CITIJEJX"
         },
         {
-            "id": 12,
+            "id": 43,
             "bank": "CITIBANK N.A.",
             "city": "ST. HELIER",
             "branch": "(CITIBANK JERSEY EMFX CONFIRMATIONS)",
             "swift_code": "CITIJESXEFX"
         },
         {
-            "id": 13,
+            "id": 44,
             "bank": "CITIBANK N.A.",
             "city": "ST. HELIER",
             "branch": "(PRIVATE BANKING GROUP)",
             "swift_code": "CITIJESXLPN"
         },
         {
-            "id": 14,
+            "id": 45,
             "bank": "CITIBANK N.A.",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "CITIJESX"
         },
         {
-            "id": 15,
+            "id": 46,
             "bank": "CITICORP BANKING CORPORATION",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "CITIJEHX"
         },
         {
-            "id": 16,
+            "id": 47,
+            "bank": "COLLINS STEWART (OFFSHORE) LIMITED",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "MATSJES1"
+        },
+        {
+            "id": 48,
             "bank": "DEUTSCHE BANK INTERNATIONAL LIMITED",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "MGCOJESH"
         },
         {
-            "id": 17,
+            "id": 49,
+            "bank": "DEUTSCHE INTERNATIONAL CORPORATE SERVICES LTD",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "DICEJES1"
+        },
+        {
+            "id": 50,
+            "bank": "EBC TRUST COMPANY (JERSEY) LIMITED",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "EBCJJES1"
+        },
+        {
+            "id": 51,
             "bank": "EFG PRIVATE BANK (C.I.) LT, JERSEY BRANCH",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "EFGBJESH"
         },
         {
-            "id": 18,
+            "id": 52,
             "bank": "ELIAN FIDUCIARY SERVICES (JERSEY) LIMITED",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "EFSJJESH"
         },
         {
-            "id": 19,
+            "id": 53,
+            "bank": "FENCHURCH TRUST LTD.",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "FETRJES1"
+        },
+        {
+            "id": 54,
+            "bank": "FORTEN ASSET MANAGEMENT LIMITED",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "FOSNJES1"
+        },
+        {
+            "id": 55,
+            "bank": "GARTMORE FUND MANAGERS INTERNATIONAL LIMITED",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "GRTLJES1"
+        },
+        {
+            "id": 56,
+            "bank": "GOLDMAN SACHS JERSEY LIMITED",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "GOSYJES1"
+        },
+        {
+            "id": 57,
             "bank": "HSBC BANK INTERNATIONAL LIMITED",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "MIDLJESH"
         },
         {
-            "id": 20,
+            "id": 58,
             "bank": "HSBC BANK INTERNATIONAL LIMITED",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "MIDLJESH01A"
         },
         {
-            "id": 21,
+            "id": 59,
+            "bank": "HSBC BANK PLC",
+            "city": "ST. HELIER",
+            "branch": "(402533)",
+            "swift_code": "MIDLJEH104A"
+        },
+        {
+            "id": 60,
+            "bank": "HSBC BANK PLC",
+            "city": "ST. HELIER",
+            "branch": "(FIVE OAKS, JERSEY)",
+            "swift_code": "MIDLJEH106A"
+        },
+        {
+            "id": 61,
+            "bank": "HSBC BANK PLC",
+            "city": "ST. HELIER",
+            "branch": "(HALKETT STREET, JERSEY)",
+            "swift_code": "MIDLJEH105A"
+        },
+        {
+            "id": 62,
+            "bank": "HSBC BANK PLC",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "MIDLJEH1"
+        },
+        {
+            "id": 63,
+            "bank": "HSBC GLOBAL ASSET MANAGEMENT (INTERNATIONAL) LIMITED",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "JCCLJES1"
+        },
+        {
+            "id": 64,
+            "bank": "HSBC JERSEY ST. BRELADE",
+            "city": "ST. BRELADE",
+            "branch": null,
+            "swift_code": "MIDLJEJ1"
+        },
+        {
+            "id": 65,
+            "bank": "INCOME PARTNERS",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "ICMEJES1"
+        },
+        {
+            "id": 66,
+            "bank": "J. P. MORGAN INTERNATIONAL DERIVATIVES LTD.",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "MOIEJES1"
+        },
+        {
+            "id": 67,
             "bank": "JPMORGAN CHASE BANK, N.A.",
             "city": "ST. HELIER",
             "branch": "(TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES)",
             "swift_code": "CHASJESXENQ"
         },
         {
-            "id": 22,
+            "id": 68,
             "bank": "JPMORGAN CHASE BANK, N.A.",
             "city": "ST. HELIER",
             "branch": "(TEST KEY AND BKE ADMINISTRATION)",
             "swift_code": "CHASJESXKEY"
         },
         {
-            "id": 23,
+            "id": 69,
             "bank": "JPMORGAN CHASE BANK, N.A.",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "CHASJESX"
         },
         {
-            "id": 24,
+            "id": 70,
+            "bank": "L.B.I. FINANCE (JERSEY) LTD",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "LBFJJES1"
+        },
+        {
+            "id": 71,
             "bank": "LLOYDS BANK INTERNATIONAL LIMITED",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "HSAMJESH"
         },
         {
-            "id": 25,
+            "id": 72,
+            "bank": "LLOYDS BANK PLC-JERSEY",
+            "city": "ST. BRELADE",
+            "branch": "(ST. BRELADE (774702))",
+            "swift_code": "LOYDJES1003"
+        },
+        {
+            "id": 73,
+            "bank": "LLOYDS BANK PLC-JERSEY",
+            "city": "ST. HELIER",
+            "branch": "(FIVE OAKS (774703))",
+            "swift_code": "LOYDJES1004"
+        },
+        {
+            "id": 74,
+            "bank": "LLOYDS BANK PLC-JERSEY",
+            "city": "ST. HELIER",
+            "branch": "(FIVE OAKS (774704))",
+            "swift_code": "LOYDJES1005"
+        },
+        {
+            "id": 75,
+            "bank": "LLOYDS BANK PLC-JERSEY",
+            "city": "ST. HELIER",
+            "branch": "(JERSEY OFFSHORE CENTRE - 301642 )",
+            "swift_code": "LOYDJES1006"
+        },
+        {
+            "id": 76,
+            "bank": "LLOYDS BANK PLC-JERSEY",
+            "city": "ST. HELIER",
+            "branch": "(JERSEY OFFSHORE CENTRE - 774709)",
+            "swift_code": "LOYDJES1007"
+        },
+        {
+            "id": 77,
+            "bank": "LLOYDS BANK PLC-JERSEY",
+            "city": "ST. HELIER",
+            "branch": "(ST. HELIER (309461))",
+            "swift_code": "LOYDJES1001"
+        },
+        {
+            "id": 78,
+            "bank": "LLOYDS BANK PLC-JERSEY",
+            "city": "ST. HELIER",
+            "branch": "(ST. HELIER (774701))",
+            "swift_code": "LOYDJES1002"
+        },
+        {
+            "id": 79,
             "bank": "LLOYDS BANK PLC-JERSEY",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "LOYDJESH"
         },
         {
-            "id": 26,
+            "id": 80,
+            "bank": "LLOYDS BANK PLC-JERSEY",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "LOYDJEJ1"
+        },
+        {
+            "id": 81,
+            "bank": "LLOYDS TSB OFFSHORE LIMITED",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "LOYDJEH1"
+        },
+        {
+            "id": 82,
+            "bank": "LOMBARD ODIER DARIER HENTSCH (JERSEY) LIMITED",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "LOCYJES1"
+        },
+        {
+            "id": 83,
+            "bank": "LYXOR\/BLACK DIAMOND ARBITRAGE",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "LYDAJES1"
+        },
+        {
+            "id": 84,
             "bank": "MERRILL LYNCH PORTFOLIO MANAGERS (CHANNEL ISLANDS)",
             "city": "ST. HELIER",
             "branch": "(HLD)",
             "swift_code": "MLPMJESXHLD"
         },
         {
-            "id": 27,
+            "id": 85,
             "bank": "MERRILL LYNCH PORTFOLIO MANAGERS (CHANNEL ISLANDS)",
             "city": "ST. HELIER",
             "branch": "(STP)",
             "swift_code": "MLPMJESXSTP"
         },
         {
-            "id": 28,
+            "id": 86,
             "bank": "MERRILL LYNCH PORTFOLIO MANAGERS (CHANNEL ISLANDS)",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "MLPMJESX"
         },
         {
-            "id": 29,
+            "id": 87,
             "bank": "MERRILL LYNCH PORTFOLIO MANAGERS (CHANNEL ISLANDS)",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "MLPMJESXCIT"
         },
         {
-            "id": 30,
+            "id": 88,
             "bank": "MERRILL LYNCH PORTFOLIO MANAGERS (CHANNEL ISLANDS)",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "MLPMJESXFST"
         },
         {
-            "id": 31,
+            "id": 89,
             "bank": "MINERVA TRUST AND CORPORATE SERVICES LIMITED",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "MTCSJESH"
         },
         {
-            "id": 32,
+            "id": 90,
             "bank": "MOORE STEPHENS",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "MSJYJESH"
         },
         {
-            "id": 33,
+            "id": 91,
+            "bank": "MORGAN GUARANTY TRUST CO. OF NEW YORK",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "MGTCJES1"
+        },
+        {
+            "id": 92,
+            "bank": "MOURANT AND CO. LIMITED",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "MOURJES1"
+        },
+        {
+            "id": 93,
+            "bank": "NATWEST OFFSHORE - JERSEY",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "RBOSJE41"
+        },
+        {
+            "id": 94,
             "bank": "NATWEST-JERSEY",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "RBOSJESH"
         },
         {
-            "id": 34,
+            "id": 95,
             "bank": "NEDBANK PRIVATE WEALTH LTD",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "RFLCJESX"
         },
         {
-            "id": 35,
+            "id": 96,
             "bank": "NET-GOLD SERVICES LTD",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "GMNYJESH"
         },
         {
-            "id": 36,
+            "id": 97,
+            "bank": "NEWTON FUND MANAGERS (C.I.) LIMITED",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "NEFAJEH1"
+        },
+        {
+            "id": 98,
             "bank": "PERSHING (CHANNEL ISLANDS) LIMITED",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "PERLJESH"
         },
         {
-            "id": 37,
+            "id": 99,
+            "bank": "PLATFORM SECURITIES INTERNATIONAL LIMITED",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "PLSIJEJ1"
+        },
+        {
+            "id": 100,
+            "bank": "QUILTER AND CO CHANNEL ISLANDS",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "QUITJES1"
+        },
+        {
+            "id": 101,
+            "bank": "R AND H FUND SERVICES (JERSEY) LIMITED",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "FUSJJES1"
+        },
+        {
+            "id": 102,
             "bank": "ROYAL BANK OF SCOTLAND INTERNATIONAL LIMITED, THE",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "RBOSJESX"
         },
         {
-            "id": 38,
+            "id": 103,
+            "bank": "ROYAL BANK OF SCOTLAND JERSEY ST. HELIER (PLC)",
+            "city": "ST. HELIER",
+            "branch": "(JERSEY ST. HELIER BRANCH)",
+            "swift_code": "RBOSJES1028"
+        },
+        {
+            "id": 104,
+            "bank": "ROYAL BANK OF SCOTLAND JERSEY ST. HELIER (PLC)",
+            "city": "ST. HELIER",
+            "branch": "(JERSEY ST. HELIER BRANCH)",
+            "swift_code": "RBOSJES1891"
+        },
+        {
+            "id": 105,
+            "bank": "ROYAL BANK OF SCOTLAND JERSEY ST. HELIER (PLC)",
+            "city": "ST. HELIER",
+            "branch": "(JERSEY ST. HELIER BRANCH)",
+            "swift_code": "RBOSJES1893"
+        },
+        {
+            "id": 106,
+            "bank": "ROYAL BANK OF SCOTLAND JERSEY ST. HELIER (PLC)",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "RBOSJES1"
+        },
+        {
+            "id": 107,
+            "bank": "ROYAL BANK OF SCOTLAND JERSEY ST. HELIER (PLC)",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "RBOSJES1560"
+        },
+        {
+            "id": 108,
             "bank": "SANNE FIDUCIARY SERVICES LIMITED",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "SNLTJESH"
         },
         {
-            "id": 39,
+            "id": 109,
             "bank": "SANTANDER UK PLC",
             "city": "ST. HELIER",
             "branch": "(TREASURY OPERATIONS)",
             "swift_code": "ANILJESHTSY"
         },
         {
-            "id": 40,
+            "id": 110,
             "bank": "SANTANDER UK PLC",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "ANILJESH"
         },
         {
-            "id": 41,
+            "id": 111,
             "bank": "SG HAMBROS BANK (CHANNEL ISLANDS)",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "HAMBJESX"
         },
         {
-            "id": 42,
+            "id": 112,
+            "bank": "SOCIETE GENERAL INVESTMENT MANAGEMENT (CHANNEL IS LANDS) LIMITED",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "SGIMJES1"
+        },
+        {
+            "id": 113,
+            "bank": "SODITIC AND CO. LTD",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "SOFLJES1"
+        },
+        {
+            "id": 114,
             "bank": "STANDARD BANK JERSEY LTD.",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "SBICJESH"
         },
         {
-            "id": 43,
+            "id": 115,
+            "bank": "STANDARD BANK STOCKBROKERS (C.I.) LTD",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "SBICJES1"
+        },
+        {
+            "id": 116,
+            "bank": "STANDARD BANK STOCKBROKERS (C.I.) LTD",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "SBICJES1243"
+        },
+        {
+            "id": 117,
             "bank": "STANDARD CHARTERED BANK, JERSEY BRANCH",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "SCBLJESH"
         },
         {
-            "id": 44,
+            "id": 118,
+            "bank": "STANDARD CHARTERED TRUST CO.",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "SDCTJES1"
+        },
+        {
+            "id": 119,
             "bank": "STATE STREET BANK AND TRUST COMPANY",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "SBOSJESH"
         },
         {
-            "id": 45,
+            "id": 120,
             "bank": "STONEHAGE FLEMING DEALING AND TREASURY SERVICES (JERSEY) LTD",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "SDTSJESH"
         },
         {
-            "id": 46,
+            "id": 121,
             "bank": "STONEHAGE FLEMING TRUST HOLDINGS (JERSEY) LIMITED",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "SFSHJESH"
         },
         {
-            "id": 47,
+            "id": 122,
+            "bank": "TINTRADE LTD",
+            "city": "ST. HELIER",
+            "branch": null,
+            "swift_code": "TINRJES1"
+        },
+        {
+            "id": 123,
             "bank": "UBS AG JERSEY BRANCH",
             "city": "ST. HELIER",
             "branch": "(JERSEY BRANCH)",
             "swift_code": "UBSWJESH"
         },
         {
-            "id": 48,
+            "id": 124,
             "bank": "UNION BANCAIRE PRIVEE, UBP",
             "city": "ST. HELIER",
             "branch": null,
             "swift_code": "UBPGJESX"
         },
         {
-            "id": 49,
+            "id": 125,
             "bank": "VISTRA (JERSEY) LIMITED",
             "city": "ST. HELIER",
             "branch": null,

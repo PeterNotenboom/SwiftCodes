@@ -4,150 +4,185 @@
     "list": [
         {
             "id": 1,
+            "bank": "ACESCO CARIBE, MFG.",
+            "city": "CATANO",
+            "branch": null,
+            "swift_code": "ACAIPR21"
+        },
+        {
+            "id": 2,
             "bank": "ACTIVO INTERNATIONAL BANK",
             "city": "SAN JUAN",
             "branch": null,
             "swift_code": "ACTTPRSJ"
         },
         {
-            "id": 2,
+            "id": 3,
             "bank": "ANDCAPITAL BANK INTERNATIONAL CORP",
             "city": "HATO REY",
             "branch": null,
             "swift_code": "ACBIPR22"
         },
         {
-            "id": 3,
+            "id": 4,
             "bank": "ARCA INTERNATIONAL BANK, INC.",
             "city": "SAN JUAN",
             "branch": null,
             "swift_code": "ARNRPRSJ"
         },
         {
-            "id": 4,
+            "id": 5,
             "bank": "BANCO POPULAR DE PUERTO RICO",
             "city": "SAN JUAN",
             "branch": null,
             "swift_code": "BPPRPRSX"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "BANCO POPULAR DE PUERTO RICO",
             "city": "SAN JUAN",
             "branch": null,
             "swift_code": "BPPRPRSB"
         },
         {
-            "id": 6,
+            "id": 7,
             "bank": "BANCO SAN JUAN INTERNACIONAL INC",
             "city": "SAN JUAN",
             "branch": null,
             "swift_code": "BSJIPRSJ"
         },
         {
-            "id": 7,
+            "id": 8,
             "bank": "BANCO SANTANDER PUERTO RICO",
             "city": "SAN JUAN",
             "branch": null,
             "swift_code": "BSCHPRSX"
         },
         {
-            "id": 8,
+            "id": 9,
+            "bank": "BANCO SANTANDER PUERTO RICO",
+            "city": "SAN JUAN",
+            "branch": null,
+            "swift_code": "BSCHPRP1SOB"
+        },
+        {
+            "id": 10,
             "bank": "BANCO SANTANDER PUERTO RICO",
             "city": "SAN JUAN",
             "branch": null,
             "swift_code": "BSCHPRSXSOV"
         },
         {
-            "id": 9,
+            "id": 11,
             "bank": "BANCOLOMBIA PUERTO RICO INTERNACIONAL INC.",
             "city": "SAN JUAN",
             "branch": null,
             "swift_code": "CFSUPRSJ"
         },
         {
-            "id": 10,
+            "id": 12,
             "bank": "BANCREDITO INTERNATIONAL BANK CORP",
             "city": "SAN JUAN",
             "branch": null,
             "swift_code": "BIBCPRSJ"
         },
         {
-            "id": 11,
+            "id": 13,
             "bank": "BBO INTERNATIONAL PRIVATE BANK INC",
             "city": "SAN JUAN",
             "branch": null,
             "swift_code": "BBOIPRSJ"
         },
         {
-            "id": 12,
+            "id": 14,
             "bank": "BST INTERNATIONAL BANK, INC",
             "city": "HATO REY",
             "branch": null,
             "swift_code": "TOTAPR22"
         },
         {
-            "id": 13,
+            "id": 15,
             "bank": "CARACAS INTERNATIONAL BANKING CORP.",
             "city": "SAN JUAN",
             "branch": null,
             "swift_code": "CIBPPRSJ"
         },
         {
-            "id": 14,
+            "id": 16,
             "bank": "CITIBANK, NA PUERTO RICO",
             "city": "SAN JUAN",
             "branch": null,
             "swift_code": "CITIPRSJ"
         },
         {
-            "id": 15,
+            "id": 17,
             "bank": "FACEBANK INTERNATIONAL CORPORATION",
             "city": "GUAYNABO",
             "branch": null,
             "swift_code": "FILCPR22"
         },
         {
-            "id": 16,
+            "id": 18,
             "bank": "FIRSTBANK PUERTO RICO",
             "city": "SANTURCE",
             "branch": null,
             "swift_code": "FBPRPRSJ"
         },
         {
-            "id": 17,
+            "id": 19,
+            "bank": "GBTD CAPITAL ADVISERS LLC",
+            "city": "GUAYNABO",
+            "branch": null,
+            "swift_code": "GBDCPR21"
+        },
+        {
+            "id": 20,
+            "bank": "GBTD GROUP-PUERTO RICO",
+            "city": "GUAYNABO",
+            "branch": null,
+            "swift_code": "GBPRPR21"
+        },
+        {
+            "id": 21,
+            "bank": "GBTD SAVINGS AND LOAN GROUP-PUERTO RICO",
+            "city": "GUAYNABO",
+            "branch": null,
+            "swift_code": "GBLGPR21"
+        },
+        {
+            "id": 22,
             "bank": "ITALBANK INTERNATIONAL, INC",
             "city": "SAN JUAN",
             "branch": null,
             "swift_code": "IBIIPRSJ"
         },
         {
-            "id": 18,
+            "id": 23,
             "bank": "NODUS INTERNATIONAL BANK",
             "city": "SAN JUAN",
             "branch": null,
             "swift_code": "NDBKPRSJ"
         },
         {
-            "id": 19,
+            "id": 24,
             "bank": "ORIENTAL BANK",
             "city": "HATO REY",
             "branch": null,
             "swift_code": "OBPRPRSJ"
         },
         {
-            "id": 20,
+            "id": 25,
+            "bank": "PONCE FEDERAL BANK",
+            "city": "PONCE",
+            "branch": null,
+            "swift_code": "PFEBPR21"
+        },
+        {
+            "id": 26,
             "bank": "SCOTIABANK DE PUERTO RICO",
             "city": "HATO REY",
             "branch": null,
             "swift_code": "NOSCPR22"
-        },
-        {
-            "id": 21,
-            "bank": "SCOTIABANK DE PUERTO RICO",
-            "city": "SAN JUAN",
-            "branch": null,
-            "swift_code": "NOSCPR22MIA"
         }
     ]
 }

@@ -95,27 +95,41 @@
         },
         {
             "id": 14,
+            "bank": "INDUSTRIAL DEVELOPMENT BANK OF AFGHANISTAN",
+            "city": "KABUL",
+            "branch": null,
+            "swift_code": "IDTBAFK1"
+        },
+        {
+            "id": 15,
             "bank": "KABUL BANK",
             "city": "KABUL",
             "branch": null,
             "swift_code": "KABUAFKA"
         },
         {
-            "id": 15,
+            "id": 16,
             "bank": "MAIWAND BANK",
             "city": "KABUL",
             "branch": null,
             "swift_code": "MWBKAFKA"
         },
         {
-            "id": 16,
+            "id": 17,
+            "bank": "MORTGAGE AND CONSTRUCTION BANK",
+            "city": "KABUL",
+            "branch": null,
+            "swift_code": "CBMOAFK1"
+        },
+        {
+            "id": 18,
             "bank": "NATIONAL BANK OF PAKISTAN, KABUL BRANCH",
             "city": "KABUL",
             "branch": null,
             "swift_code": "NBPAAFKA"
         },
         {
-            "id": 17,
+            "id": 19,
             "bank": "PASHTANY BANK",
             "city": "KABUL",
             "branch": null,

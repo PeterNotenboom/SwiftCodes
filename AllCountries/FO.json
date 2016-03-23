@@ -15,6 +15,27 @@
             "city": "TORSHAVN",
             "branch": null,
             "swift_code": "EIKBFOTF"
+        },
+        {
+            "id": 3,
+            "bank": "FOSSBANKIN",
+            "city": "TORSHAVN",
+            "branch": null,
+            "swift_code": "FOSSFO21"
+        },
+        {
+            "id": 4,
+            "bank": "NORDOYA SPARIKASSI",
+            "city": "KLAKSVIK",
+            "branch": null,
+            "swift_code": "NOYAFO21"
+        },
+        {
+            "id": 5,
+            "bank": "SUDUROYAR SPARIKASSI",
+            "city": "VAGUR",
+            "branch": null,
+            "swift_code": "SUSPFOT1"
         }
     ]
 }

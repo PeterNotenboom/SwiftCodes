@@ -1,5 +1,5 @@
 {
-    "country": "C\u00f4te d\u2019Ivoire",
+    "country": "C\u4e48te d\u9225\u6a67voire",
     "country_code": "CI",
     "list": [
         {
@@ -263,146 +263,188 @@
         },
         {
             "id": 38,
+            "bank": "BIAO INVESTISSEMENT",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "BRCICIA1"
+        },
+        {
+            "id": 39,
+            "bank": "BOURSE DES VALEURS ABIDJAN",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "XABJCIA1"
+        },
+        {
+            "id": 40,
+            "bank": "BOURSE REGIONALE DES VALEURS MOBILIERES",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "BRVICIA1"
+        },
+        {
+            "id": 41,
             "bank": "BRIDGE BANK GROUP COTE D'IVOIRE",
             "city": "ABIDJAN",
             "branch": null,
             "swift_code": "BGCDCIAB"
         },
         {
-            "id": 39,
+            "id": 42,
             "bank": "BSIC COTE D'IVOIRE",
             "city": "ABIDJAN",
             "branch": null,
             "swift_code": "BSAHCIAB"
         },
         {
-            "id": 40,
+            "id": 43,
             "bank": "CAISSE NATIONALE DES CAISSE EPARGNE",
             "city": "ABIDJAN",
             "branch": null,
             "swift_code": "CNCGCIAB"
         },
         {
-            "id": 41,
+            "id": 44,
             "bank": "CITIBANK N.A.",
             "city": "ABIDJAN",
             "branch": null,
             "swift_code": "CITICIAX"
         },
         {
-            "id": 42,
+            "id": 45,
             "bank": "COFIPA INVESTMENT BANK CI",
             "city": "ABIDJAN",
             "branch": null,
             "swift_code": "IBCICIAB"
         },
         {
-            "id": 43,
+            "id": 46,
             "bank": "CORIS BANK INTERNATIONAL",
             "city": "ABIDJAN",
             "branch": null,
             "swift_code": "CORICIAB"
         },
         {
-            "id": 44,
+            "id": 47,
             "bank": "DIAMONDBANK COTE D'IVOIRE",
             "city": "ABIDJAN",
             "branch": null,
             "swift_code": "DBLNCIAB"
         },
         {
-            "id": 45,
+            "id": 48,
             "bank": "ECOBANK - COTE D'IVOIRE S.A.",
             "city": "ABIDJAN",
             "branch": null,
             "swift_code": "ECOCCIAB"
         },
         {
-            "id": 46,
+            "id": 49,
+            "bank": "EXPORT-IMPORT BANK OF KOREA, THE",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "EXIKCIA1"
+        },
+        {
+            "id": 50,
             "bank": "GUARANTY TRUST BANK COTE D'IVOIRE",
             "city": "ABIDJAN",
             "branch": null,
             "swift_code": "GTBICIAB"
         },
         {
-            "id": 47,
+            "id": 51,
             "bank": "NSIA BANQUE COTE D'IVOIRE (NSIA BANQUE CI)",
             "city": "ABIDJAN",
             "branch": "(HEAD OFFICE)",
             "swift_code": "BIAOCIAB"
         },
         {
-            "id": 48,
+            "id": 52,
             "bank": "NSIA BANQUE COTE D'IVOIRE (NSIA BANQUE CI)",
             "city": "BOUAKE",
             "branch": null,
             "swift_code": "BIAOCIAB032"
         },
         {
-            "id": 49,
+            "id": 53,
             "bank": "NSIA BANQUE COTE D'IVOIRE (NSIA BANQUE CI)",
             "city": "DALOA",
             "branch": null,
             "swift_code": "BIAOCIAB034"
         },
         {
-            "id": 50,
+            "id": 54,
             "bank": "NSIA BANQUE COTE D'IVOIRE (NSIA BANQUE CI)",
             "city": "KORHOGO",
             "branch": null,
             "swift_code": "BIAOCIAB033"
         },
         {
-            "id": 51,
+            "id": 55,
             "bank": "ORABANK COTE D'IVOIRE",
             "city": "ABIDJAN",
             "branch": null,
             "swift_code": "ORBKCIAB"
         },
         {
-            "id": 52,
+            "id": 56,
+            "bank": "PARIBAS",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "PARBCIA1"
+        },
+        {
+            "id": 57,
+            "bank": "SGI HUDSON AND CIE",
+            "city": "ABIDJAN",
+            "branch": null,
+            "swift_code": "SGHUCIA1"
+        },
+        {
+            "id": 58,
             "bank": "SOCIETE GENERALE DE BANQUES EN COTE D'IVOIRE",
             "city": "ABIDJAN",
             "branch": null,
             "swift_code": "SGCICIAB"
         },
         {
-            "id": 53,
+            "id": 59,
             "bank": "SOCIETE IVOIRIENNE DE BANQUE",
             "city": "ABIDJAN",
             "branch": "(SIEGE)",
             "swift_code": "SIVBCIAB"
         },
         {
-            "id": 54,
+            "id": 60,
             "bank": "STANDARD CHARTERED BANK COTE D'IVOIRE",
             "city": "ABIDJAN",
             "branch": "(SECURITIES SERVICES)",
             "swift_code": "SCBLCIABSSU"
         },
         {
-            "id": 55,
+            "id": 61,
             "bank": "STANDARD CHARTERED BANK COTE D'IVOIRE",
             "city": "ABIDJAN",
             "branch": "(STORM II)",
             "swift_code": "SCBLCIABSTM"
         },
         {
-            "id": 56,
+            "id": 62,
             "bank": "STANDARD CHARTERED BANK COTE D'IVOIRE",
             "city": "ABIDJAN",
             "branch": null,
             "swift_code": "SCBLCIAB"
         },
         {
-            "id": 57,
+            "id": 63,
             "bank": "UNITED BANK FOR AFRICA COTE D'IVOIRE",
             "city": "ABIDJAN",
             "branch": null,
             "swift_code": "UNAFCIAB"
         },
         {
-            "id": 58,
+            "id": 64,
             "bank": "VERSUS BANK",
             "city": "ABIDJAN",
             "branch": null,

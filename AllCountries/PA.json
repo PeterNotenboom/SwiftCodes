@@ -4,528 +4,857 @@
     "list": [
         {
             "id": 1,
+            "bank": "A.I. CREDIT FUSION INC",
+            "city": "PANAMA CITY",
+            "branch": null,
+            "swift_code": "AICNPAP1"
+        },
+        {
+            "id": 2,
+            "bank": "AIRBEX SA",
+            "city": "CHITRE",
+            "branch": null,
+            "swift_code": "AIREPAP1"
+        },
+        {
+            "id": 3,
             "bank": "ALLBANK CORP.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "ALLKPAPA"
         },
         {
-            "id": 2,
+            "id": 4,
             "bank": "ANDBANC (PANAMA), S.A.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "BACAPAPA"
         },
         {
-            "id": 3,
+            "id": 5,
+            "bank": "ARGENTARIA HOLDINGS INC",
+            "city": "CHITRE",
+            "branch": null,
+            "swift_code": "ARHOPAP1"
+        },
+        {
+            "id": 6,
+            "bank": "ARK INVESTMENTS SA",
+            "city": "PANAMA CITY",
+            "branch": null,
+            "swift_code": "ARVNPAP1"
+        },
+        {
+            "id": 7,
+            "bank": "ASPHALTOS TRADE S.A. PANAMA 9TH FLOOR OFFICE,",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "ATPFPAP1"
+        },
+        {
+            "id": 8,
+            "bank": "ATLANTIC SECURITY BANK",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "ATSEPAP1"
+        },
+        {
+            "id": 9,
             "bank": "AUSTROBANK (OVERSEAS) PANAMA S.A.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "AUBAPAPA"
         },
         {
-            "id": 4,
+            "id": 10,
             "bank": "AUTORIDAD DEL CANAL DE PANAMA",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "ACPMPAPA"
         },
         {
-            "id": 5,
+            "id": 11,
             "bank": "BAC INTERNATIONAL BANK, INC.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "BCINPAPA"
         },
         {
-            "id": 6,
+            "id": 12,
             "bank": "BALBOA BANK AND TRUST CORP",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "BTACPAPA"
         },
         {
-            "id": 7,
+            "id": 13,
+            "bank": "BANAPREST S.A.",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "BNASPAP1"
+        },
+        {
+            "id": 14,
             "bank": "BANCA PRIVADA D'ANDORRA (PANAMA) SA",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "BPANPAPA"
         },
         {
-            "id": 8,
+            "id": 15,
+            "bank": "BANCLEAR GROUP INC",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "BNGOPAP1"
+        },
+        {
+            "id": 16,
+            "bank": "BANCLEAR WIRE TRANSFERS INC",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "BAWTPAP1"
+        },
+        {
+            "id": 17,
             "bank": "BANCO ALIADO, S.A.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "BAALPAPA"
         },
         {
-            "id": 9,
+            "id": 18,
             "bank": "BANCO AZTECA (PANAMA), S.A.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "AZTKPAPA"
         },
         {
-            "id": 10,
+            "id": 19,
             "bank": "BANCO CITIBANK (PANAMA), S.A.",
             "city": "PANAMA",
             "branch": "(PANAMA BRANCH)",
             "swift_code": "BACUPAPANOS"
         },
         {
-            "id": 11,
+            "id": 20,
             "bank": "BANCO CITIBANK (PANAMA), S.A.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "BACUPAPA"
         },
         {
-            "id": 12,
+            "id": 21,
             "bank": "BANCO COLPATRIA PANAMA",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "COLPPAPA"
         },
         {
-            "id": 13,
+            "id": 22,
+            "bank": "BANCO CORFICOLOMBIANA (PANAMA) S.A.",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "CRNMPAP1"
+        },
+        {
+            "id": 23,
             "bank": "BANCO DAVIVIENDA (PANAMA), S.A.",
             "city": "COLON",
             "branch": "(SUCURSAL ZONA LIBRE)",
             "swift_code": "CAFEPAPAZLC"
         },
         {
-            "id": 14,
+            "id": 24,
             "bank": "BANCO DAVIVIENDA (PANAMA), S.A.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "CAFEPAPA"
         },
         {
-            "id": 15,
+            "id": 25,
             "bank": "BANCO DAVIVIENDA INTERNACIONAL (PANAMA), S.A.",
             "city": "PANAMA CITY",
             "branch": null,
             "swift_code": "DAVPPAPA"
         },
         {
-            "id": 16,
+            "id": 26,
             "bank": "BANCO DE BOGOTA (PANAMA), S.A.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "BBOGPAPA"
         },
         {
-            "id": 17,
+            "id": 27,
             "bank": "BANCO DE BOGOTA S.A",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "BBOGPAPB"
         },
         {
-            "id": 18,
+            "id": 28,
+            "bank": "BANCO DE CREDITO DEL PERU SUCURSAL PANAMA",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "BCPLPAP1"
+        },
+        {
+            "id": 29,
+            "bank": "BANCO DE LA EXPORTACION (BANEX) S.A.",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "BAXBPAP1"
+        },
+        {
+            "id": 30,
             "bank": "BANCO DE LA NACION ARGENTINA",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "NACNPAPA"
         },
         {
-            "id": 19,
+            "id": 31,
+            "bank": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "PRBAPAP1"
+        },
+        {
+            "id": 32,
             "bank": "BANCO DE OCCIDENTE (PANAMA), S.A.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "OCCIPAPA"
         },
         {
-            "id": 20,
+            "id": 33,
             "bank": "BANCO DEL PACIFICO (PANAMA) S.A.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "PACIPAPX"
         },
         {
-            "id": 21,
+            "id": 34,
             "bank": "BANCO DELTA, S.A.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "BDSAPAPA"
         },
         {
-            "id": 22,
+            "id": 35,
+            "bank": "BANCO DISA",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "BDISPAP1"
+        },
+        {
+            "id": 36,
+            "bank": "BANCO DO BRASIL, S.A.",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "BRASPAP1"
+        },
+        {
+            "id": 37,
             "bank": "BANCO FICOHSA (PANAMA), S.A.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "FCOHPAPA"
         },
         {
-            "id": 23,
+            "id": 38,
             "bank": "BANCO GENERAL S A",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "BAGEPAPA"
         },
         {
-            "id": 24,
+            "id": 39,
             "bank": "BANCO INTERNACIONAL DE COSTA RICA S.A.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "COSRPAPA"
         },
         {
-            "id": 25,
+            "id": 40,
             "bank": "BANCO LAFISE PANAMA",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "BCCEPAPA"
         },
         {
-            "id": 26,
+            "id": 41,
             "bank": "BANCO LATINOAMERICANO DE COMERCIO EXTERIOR, S.A. (BLADEX)",
             "city": "PANAMA CITY",
             "branch": null,
             "swift_code": "BLAEPAPA"
         },
         {
-            "id": 27,
+            "id": 42,
             "bank": "BANCO NACIONAL DE PANAMA",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "NAPAPAPA"
         },
         {
-            "id": 28,
+            "id": 43,
             "bank": "BANCO PANAMA S.A.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "BPTYPAPA"
         },
         {
-            "id": 29,
+            "id": 44,
             "bank": "BANCO PANAMENO DE LA VIVIENDA",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "BPVVPAPA"
         },
         {
-            "id": 30,
+            "id": 45,
             "bank": "BANCO PICHINCHA PANAMA",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "PICHPAPA"
         },
         {
-            "id": 31,
+            "id": 46,
+            "bank": "BANCO SANTA CRUZ, S.A.",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "SCSPPAP1"
+        },
+        {
+            "id": 47,
             "bank": "BANCO SANTANDER PANAMA, S..A",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "BSCHPAPA"
         },
         {
-            "id": 32,
+            "id": 48,
             "bank": "BANCO UNIVERSAL S.A.",
             "city": "DAVID",
             "branch": null,
             "swift_code": "BUNVPAPA"
         },
         {
-            "id": 33,
+            "id": 49,
             "bank": "BANCOLOMBIA (PANAMA), S.A.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "COLOPAPA"
         },
         {
-            "id": 34,
+            "id": 50,
             "bank": "BANCOLOMBIA SUCURSAL PANAMA",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "COLOPAPS"
         },
         {
-            "id": 35,
+            "id": 51,
+            "bank": "BANCREDITO PANAMA S.A.",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "NCREPAP1"
+        },
+        {
+            "id": 52,
             "bank": "BANESCO S.A.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "BANSPAPA"
         },
         {
-            "id": 36,
+            "id": 53,
             "bank": "BANISI, S.A.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "GUAYPAPA"
         },
         {
-            "id": 37,
+            "id": 54,
             "bank": "BANISTMO S.A",
             "city": "COLON",
             "branch": "(COLON BRANCH)",
             "swift_code": "MIDLPAPACLN"
         },
         {
-            "id": 38,
+            "id": 55,
             "bank": "BANISTMO S.A",
             "city": "PANAMA",
             "branch": "(PANAMA BRANCH)",
             "swift_code": "MIDLPAPA"
         },
         {
-            "id": 39,
+            "id": 56,
             "bank": "BANISTMO S.A",
             "city": "PANAMA",
             "branch": "(SECURITIES)",
             "swift_code": "MIDLPAPA001"
         },
         {
-            "id": 40,
+            "id": 57,
             "bank": "BANK OF CHINA, PANAMA BRANCH",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "BKCHPAPA"
         },
         {
-            "id": 41,
+            "id": 58,
             "bank": "BANK OF NOVA SCOTIA, THE",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "NOSCPAPA"
         },
         {
-            "id": 42,
+            "id": 59,
             "bank": "BBP BANK, S.A.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "BBOLPAPA"
         },
         {
-            "id": 43,
+            "id": 60,
             "bank": "BCT BANK INTERNATIONAL, S.A.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "BCTBPAPA"
         },
         {
-            "id": 44,
+            "id": 61,
             "bank": "BHD INTERNATIONAL BANK (PANAMA), S.A.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "BHINPAPA"
         },
         {
-            "id": 45,
+            "id": 62,
+            "bank": "BOLSA DE VALORES DE PANAMA S.A.",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "XPTYPAP1"
+        },
+        {
+            "id": 63,
             "bank": "BPR BANK S.A.",
             "city": "PANAMA CITY",
             "branch": null,
             "swift_code": "BPRBPAPA"
         },
         {
-            "id": 46,
+            "id": 64,
             "bank": "BSI BANK (PANAMA)",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "BSILPAPA"
         },
         {
-            "id": 47,
+            "id": 65,
             "bank": "CAJA DE AHORROS",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "CAHRPAPA"
         },
         {
-            "id": 48,
+            "id": 66,
             "bank": "CANAL BANK, S. A. (BMF)",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "KNALPAPA"
         },
         {
-            "id": 49,
+            "id": 67,
             "bank": "CAPITAL BANK INC.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "CAPBPAPA"
         },
         {
-            "id": 50,
+            "id": 68,
             "bank": "CENTRAL LATINOAMERICANA DE VALORES",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "LPTYPAPA"
         },
         {
-            "id": 51,
+            "id": 69,
+            "bank": "CENTRAL LATINOAMERICANA DE VALORES, S.A.",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "CLVLPAP1"
+        },
+        {
+            "id": 70,
+            "bank": "CHASE MANHATTAN BANK, THE, PANAMA",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "CHASPAP1"
+        },
+        {
+            "id": 71,
             "bank": "CITIBANK N.A. SUCURSAL PANAMA",
             "city": "PANAMA",
             "branch": "(SECURITY SERVICES PANAMA)",
             "swift_code": "CITIPAPASFE"
         },
         {
-            "id": 52,
+            "id": 72,
             "bank": "CITIBANK N.A. SUCURSAL PANAMA",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "CITIPAPA"
         },
         {
-            "id": 53,
+            "id": 73,
+            "bank": "CITIBANK, N.A.",
+            "city": "COLON",
+            "branch": null,
+            "swift_code": "CITIPAP10PC"
+        },
+        {
+            "id": 74,
+            "bank": "CITIBANK, N.A.",
+            "city": "DAVID",
+            "branch": null,
+            "swift_code": "CITIPAP1"
+        },
+        {
+            "id": 75,
+            "bank": "CITIBANK, N.A.",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "CITIPAP10PA"
+        },
+        {
+            "id": 76,
+            "bank": "COLABANCO",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "COLNPAP1"
+        },
+        {
+            "id": 77,
+            "bank": "COMMERCE OVERSEAS BANK, S.A.",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "CCIOPAP1"
+        },
+        {
+            "id": 78,
             "bank": "CREDICORP BANK S.A",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "CRLDPAPA"
         },
         {
-            "id": 54,
+            "id": 79,
             "bank": "CREDIT ANDORRA PANAMA",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "CRDAPAPA"
         },
         {
-            "id": 55,
+            "id": 80,
+            "bank": "CRYPTO CAPITAL CORP SA",
+            "city": "PANAMA CITY",
+            "branch": null,
+            "swift_code": "CYCAPAP1"
+        },
+        {
+            "id": 81,
+            "bank": "ENGLAND FOREIGN EXCHANGE INC",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "ENFEPAP1"
+        },
+        {
+            "id": 82,
+            "bank": "FILABANCO TRUST AND BANKING CORP.",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "FILAPAP1"
+        },
+        {
+            "id": 83,
             "bank": "FIRST CENTRAL INTERNATIONAL BANK INC.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "FCINPAPA"
         },
         {
-            "id": 56,
+            "id": 84,
+            "bank": "FITCH CENTROAMERICA (PANAMA)",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "FRIPPAP1"
+        },
+        {
+            "id": 85,
             "bank": "FPB BANK INC.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "FPBIPAPA"
         },
         {
-            "id": 57,
+            "id": 86,
+            "bank": "GAJA BANK, LLC",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "GJLCPAP1"
+        },
+        {
+            "id": 87,
             "bank": "GLOBAL BANK CORPORATION",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "GLBLPAPA"
         },
         {
-            "id": 58,
+            "id": 88,
             "bank": "GNB SUDAMERIS BANK S.A.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "GNBKPAPA"
         },
         {
-            "id": 59,
+            "id": 89,
             "bank": "HELM BANK (PANAMA) S.A.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "BCTOPAPA"
         },
         {
-            "id": 60,
+            "id": 90,
+            "bank": "ICON CAPITAL RESERVE SA",
+            "city": "PANAMA CITY",
+            "branch": null,
+            "swift_code": "ICCVPAP1"
+        },
+        {
+            "id": 91,
             "bank": "INTELIGO BANK LTD",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "IBNKPAPA"
         },
         {
-            "id": 61,
+            "id": 92,
             "bank": "INTERNATIONAL UNION BANK S.A.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "IUBKPAPA"
         },
         {
-            "id": 62,
+            "id": 93,
             "bank": "KEB HANA BANK (FORMERLY KOREA EXCHANGE BANK)",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "KOEXPAPA"
         },
         {
-            "id": 63,
+            "id": 94,
             "bank": "KEEN HOLDING S.A, (BANCO PRIVAL S.A.)",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "KEHPPAPA"
         },
         {
-            "id": 64,
+            "id": 95,
+            "bank": "MAJESTIC CAPITAL GROUP S.A.",
+            "city": "PANAMA CITY",
+            "branch": null,
+            "swift_code": "MALOPAP1"
+        },
+        {
+            "id": 96,
             "bank": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
             "city": "PANAMA",
             "branch": "(COLON FREE ZONE BRANCH)",
             "swift_code": "ICBCPAPAZLC"
         },
         {
-            "id": 65,
+            "id": 97,
             "bank": "MEGA INTERNATIONAL COMMERCIAL BANK CO., LTD.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "ICBCPAPA"
         },
         {
-            "id": 66,
+            "id": 98,
             "bank": "MERCANTIL BANK (PANAMA) S.A.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "MPANPAPA"
         },
         {
-            "id": 67,
+            "id": 99,
             "bank": "METROBANK S.A.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "METOPAPA"
         },
         {
-            "id": 68,
+            "id": 100,
+            "bank": "METROBRANK",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "METKPAP1"
+        },
+        {
+            "id": 101,
+            "bank": "METROPOLITAN CAPITAL HOLDINGS SA",
+            "city": "PANAMA CITY",
+            "branch": null,
+            "swift_code": "MECDPAP1"
+        },
+        {
+            "id": 102,
             "bank": "MMG BANK CORPORATION",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "MMGBPAPA"
         },
         {
-            "id": 69,
+            "id": 103,
             "bank": "MULTIBANK INC.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "MCTBPAPA"
         },
         {
-            "id": 70,
+            "id": 104,
+            "bank": "OVERSEAS CLEARING CORPORATION",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "OVCCPAP1"
+        },
+        {
+            "id": 105,
+            "bank": "PAULLIER AND CIA INTL CASA DE VALORES",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "PCICPAP1"
+        },
+        {
+            "id": 106,
+            "bank": "PETROLEOS DE LATINOAMERICA S.A.",
+            "city": "PANAMA CITY",
+            "branch": null,
+            "swift_code": "PLAOPAP1"
+        },
+        {
+            "id": 107,
+            "bank": "PKB BANCA PRIVADA (PANAMA) SA",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "PKBSPAP1"
+        },
+        {
+            "id": 108,
             "bank": "POPULAR BANK LTD. INC.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "BPDOPAPA"
         },
         {
-            "id": 71,
+            "id": 109,
             "bank": "PRODUBANK PANAMA S.A.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "PRODPAPA"
         },
         {
-            "id": 72,
+            "id": 110,
+            "bank": "RSI CAPITAL HOLDINGS",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "RSCHPAP1"
+        },
+        {
+            "id": 111,
+            "bank": "SAMSUNG ELECTRONICS LATIN AMERICA PANAMA (ZONA LIBRE) S.A.",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "SECTPAP1"
+        },
+        {
+            "id": 112,
+            "bank": "SAMSUNG ELECTRONICS LATIN AMERICA PANAMA (ZONA LIBRE) S.A.",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "SECTPAP1"
+        },
+        {
+            "id": 113,
+            "bank": "SCANDIA CREDIT CORPORATION S.A.",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "SWCCPAP1"
+        },
+        {
+            "id": 114,
             "bank": "ST. GEORGES BANK",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "STGBPAPA"
         },
         {
-            "id": 73,
+            "id": 115,
+            "bank": "STATE BANK OF INDIA",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "SBINPAP1"
+        },
+        {
+            "id": 116,
             "bank": "SUPERINTENDENCIA DE BANCOS DE PANAM",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "SBPMPAPA"
         },
         {
-            "id": 74,
+            "id": 117,
+            "bank": "THE PREMIUM FINANCE INC",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "PFINPAP1"
+        },
+        {
+            "id": 118,
+            "bank": "TOWERBANK INTERNATIONAL INC.",
+            "city": "COLON",
+            "branch": null,
+            "swift_code": "TIINPAP1"
+        },
+        {
+            "id": 119,
             "bank": "TOWERBANK INTERNATIONAL, INC.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "TOWEPAPA"
         },
         {
-            "id": 75,
+            "id": 120,
             "bank": "UNIBANK, S.A.",
             "city": "PANAMA",
             "branch": null,
             "swift_code": "UNIBPAPA"
+        },
+        {
+            "id": 121,
+            "bank": "UNITED COMMUNITY CAPITAL CORP",
+            "city": "PANAMA CITY",
+            "branch": null,
+            "swift_code": "UCOCPAP1"
+        },
+        {
+            "id": 122,
+            "bank": "WEST CAPITAL INTERNATIONAL SA",
+            "city": "PANAMA",
+            "branch": null,
+            "swift_code": "WECRPAP1"
         }
     ]
 }

@@ -60,31 +60,129 @@
         },
         {
             "id": 9,
+            "bank": "CJSC AGROPROMBANK'",
+            "city": "BENDERY",
+            "branch": "(BENDERY BRANCH)",
+            "swift_code": "AGRRMD21BEN"
+        },
+        {
+            "id": 10,
+            "bank": "CJSC AGROPROMBANK'",
+            "city": "DNESTROVSK",
+            "branch": "(DNESTROVSK BRANCH)",
+            "swift_code": "AGRRMD21DNK"
+        },
+        {
+            "id": 11,
+            "bank": "CJSC AGROPROMBANK'",
+            "city": "DUBOSSARY",
+            "branch": "(DUBOSSARY BRANCH)",
+            "swift_code": "AGRRMD21DUB"
+        },
+        {
+            "id": 12,
+            "bank": "CJSC AGROPROMBANK'",
+            "city": "GRIGORIOPOL",
+            "branch": "(GRIGORIOPOL BRANCH)",
+            "swift_code": "AGRRMD21GRI"
+        },
+        {
+            "id": 13,
+            "bank": "CJSC AGROPROMBANK'",
+            "city": "KAMENKA",
+            "branch": "(KAMENKA BRANCH)",
+            "swift_code": "AGRRMD21KAM"
+        },
+        {
+            "id": 14,
+            "bank": "CJSC AGROPROMBANK'",
+            "city": "RYBNITSA",
+            "branch": "(RYBNITSA BRANCH)",
+            "swift_code": "AGRRMD21RYB"
+        },
+        {
+            "id": 15,
+            "bank": "CJSC AGROPROMBANK'",
+            "city": "SLOBODZEYA",
+            "branch": "(SLOBODZEYA BRANCH)",
+            "swift_code": "AGRRMD21SLB"
+        },
+        {
+            "id": 16,
+            "bank": "CJSC AGROPROMBANK'",
+            "city": "TIRASPOL",
+            "branch": null,
+            "swift_code": "AGRRMD21"
+        },
+        {
+            "id": 17,
+            "bank": "CJSC TIRASPROMSTROYBANK",
+            "city": "TIRASPOL",
+            "branch": null,
+            "swift_code": "CJTIMD21"
+        },
+        {
+            "id": 18,
+            "bank": "CLOSED JOINT STOCK COMPANY (CJSC) 'TRANS-DNIESTER SAVINGS BANK' ('SBERBANK')",
+            "city": "TIRASPOL",
+            "branch": null,
+            "swift_code": "CJSMMD21"
+        },
+        {
+            "id": 19,
             "bank": "JOINT-STOCK COMMERCIAL VICTORIABANK",
             "city": "CHISINAU",
             "branch": null,
             "swift_code": "VICBMD2X"
         },
         {
-            "id": 10,
+            "id": 20,
+            "bank": "JOINT-STOCK COMPANY THE EXPORT-IMPORT BANK",
+            "city": "TIRASPOL",
+            "branch": null,
+            "swift_code": "GAJCMD21"
+        },
+        {
+            "id": 21,
+            "bank": "JSCB IPOTECHNIY",
+            "city": "TIRASPOL",
+            "branch": null,
+            "swift_code": "IPOJMD21"
+        },
+        {
+            "id": 22,
             "bank": "MOLDINDCONBANK",
             "city": "CHISINAU",
             "branch": null,
             "swift_code": "MOLDMD2X"
         },
         {
-            "id": 11,
+            "id": 23,
             "bank": "NATIONAL BANK OF MOLDOVA",
             "city": "CHISINAU",
             "branch": "(HEAD OFFICE)",
             "swift_code": "NBMDMD2X"
         },
         {
-            "id": 12,
+            "id": 24,
             "bank": "ROMANIAN COMMERCIAL BANK CHISINAU S.A.",
             "city": "CHISINAU",
             "branch": null,
             "swift_code": "RNCBMD2X"
+        },
+        {
+            "id": 25,
+            "bank": "STATE ENTERPRISE 'POSTA MOLDOVEI'",
+            "city": "CHISINAU",
+            "branch": null,
+            "swift_code": "PMODMD21"
+        },
+        {
+            "id": 26,
+            "bank": "TRANS-DNIESTER REPUBLICAN BANK",
+            "city": "TIRASPOL",
+            "branch": null,
+            "swift_code": "PRBTMD21"
         }
     ]
 }

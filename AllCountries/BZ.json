@@ -60,38 +60,80 @@
         },
         {
             "id": 9,
+            "bank": "COMPANIA FINANCIERA DE APOYO AL DESARROLLO DEL COMERCIO Y LA INDUSTRIA, S.A.",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "CFADBZB1"
+        },
+        {
+            "id": 10,
+            "bank": "EU TRADING GROUP INC",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "TRRRBZB1"
+        },
+        {
+            "id": 11,
             "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK",
             "city": "BELIZE CITY",
             "branch": null,
             "swift_code": "FCIBBZBZ"
         },
         {
-            "id": 10,
+            "id": 12,
+            "bank": "HANDELS BANK AND TRUST CO. LTD.",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "HATTBZB1"
+        },
+        {
+            "id": 13,
             "bank": "HERITAGE BANK LIMITED",
             "city": "BELIZE CITY",
             "branch": null,
             "swift_code": "PRVTBZBD"
         },
         {
-            "id": 11,
+            "id": 14,
             "bank": "HERITAGE INTERNATIONAL BANK AND TRUST LIMITED",
             "city": "BELIZE CITY",
             "branch": null,
             "swift_code": "PRVTBZBS"
         },
         {
-            "id": 12,
+            "id": 15,
+            "bank": "ITREND LIMITED",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "ITREBZB1"
+        },
+        {
+            "id": 16,
+            "bank": "NEW HORIZON FINANCIAL SERVICES LIMITED",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "NHFSBZB1"
+        },
+        {
+            "id": 17,
             "bank": "SCOTIABANK (BELIZE) LTD.",
             "city": "BELIZE CITY",
             "branch": "(INTERNATIONAL)",
             "swift_code": "NOSCBZBSINT"
         },
         {
-            "id": 13,
+            "id": 18,
             "bank": "SCOTIABANK (BELIZE) LTD.",
             "city": "BELIZE CITY",
             "branch": null,
             "swift_code": "NOSCBZBS"
+        },
+        {
+            "id": 19,
+            "bank": "XFERION LATIN AMERICA S.A.",
+            "city": "BELIZE CITY",
+            "branch": null,
+            "swift_code": "FELABZB1"
         }
     ]
 }

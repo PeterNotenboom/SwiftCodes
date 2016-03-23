@@ -4,409 +4,4084 @@
     "list": [
         {
             "id": 1,
+            "bank": "A.G. SECURITIES",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "AGPAFIH1"
+        },
+        {
+            "id": 2,
+            "bank": "ACCOUNTOR ETELA-SUOMI OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "ACETFIH1"
+        },
+        {
+            "id": 3,
+            "bank": "ACCUNIA OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "ACUUFIH1"
+        },
+        {
+            "id": 4,
+            "bank": "AHTARIN OSUUSPANKKI",
+            "city": "AHTARI",
+            "branch": null,
+            "swift_code": "AHOSFI21"
+        },
+        {
+            "id": 5,
+            "bank": "AITO SAASTOPANKKI OY",
+            "city": "TAMPERE",
+            "branch": null,
+            "swift_code": "AISAFI21"
+        },
+        {
+            "id": 6,
+            "bank": "AKAAN SEUDUN OSUUSPANKKI",
+            "city": "TOIJALA",
+            "branch": null,
+            "swift_code": "AKSUFI21"
+        },
+        {
+            "id": 7,
+            "bank": "AKTIA ASSET MANAGEMENT OY AB",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "AKAMFIH1"
+        },
+        {
+            "id": 8,
             "bank": "AKTIA BANK P.L.C.",
             "city": "HELSINKI",
             "branch": null,
             "swift_code": "HELSFIHH"
         },
         {
-            "id": 2,
+            "id": 9,
+            "bank": "ALAJARVEN OSUUSPANKKI",
+            "city": "ALAJARVI",
+            "branch": null,
+            "swift_code": "ALOUFI21"
+        },
+        {
+            "id": 10,
+            "bank": "ALASTARON OSUUSPANKKI",
+            "city": "ALASTARO",
+            "branch": null,
+            "swift_code": "ALOPFI21"
+        },
+        {
+            "id": 11,
+            "bank": "ALAVIESKAN OSUUSPANKKI",
+            "city": "ALAVIESKA",
+            "branch": null,
+            "swift_code": "ALONFI21"
+        },
+        {
+            "id": 12,
+            "bank": "ALAVUDEN SEUDUN OSUUSPANKKI",
+            "city": "ALAVUS",
+            "branch": null,
+            "swift_code": "ALEPFI21"
+        },
+        {
+            "id": 13,
+            "bank": "ALEXANDRIA PANKKIIRILIIKE OYJ",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "ALPYFIH1"
+        },
+        {
+            "id": 14,
+            "bank": "ALFRED BERG OMAISUUDENHOITO SUOMI OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "ABOOFIH1"
+        },
+        {
+            "id": 15,
+            "bank": "ALFRED BERG PANKKIIRILIIKE",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "ALFFFIH1"
+        },
+        {
+            "id": 16,
+            "bank": "ANDELSBANKEN FOR ALAND",
+            "city": "MARIEHAMN",
+            "branch": null,
+            "swift_code": "ANADFI21"
+        },
+        {
+            "id": 17,
+            "bank": "ANDELSBANKEN RASEBORG",
+            "city": "KARIS",
+            "branch": null,
+            "swift_code": "ANRSFI21"
+        },
+        {
+            "id": 18,
+            "bank": "AROS SECURITIES OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "ABBOFIH1"
+        },
+        {
+            "id": 19,
+            "bank": "ARTJARVEN OSUUSPANKKI",
+            "city": "ARTJARVI",
+            "branch": null,
+            "swift_code": "AROUFI21"
+        },
+        {
+            "id": 20,
+            "bank": "AS LHV PANK FINNISH BRANCH",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "LPFBFIH1"
+        },
+        {
+            "id": 21,
+            "bank": "ASKOLAN OSUUSPANKKI",
+            "city": "MONNINKYLA",
+            "branch": null,
+            "swift_code": "ASOSFI21"
+        },
+        {
+            "id": 22,
+            "bank": "ATINE GROUP OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "ATGOFIH1"
+        },
+        {
+            "id": 23,
+            "bank": "AURAN OSUUSPANKKI",
+            "city": "AURA",
+            "branch": null,
+            "swift_code": "AUOSFI21"
+        },
+        {
+            "id": 24,
+            "bank": "AURATOR VARAINHOITO OY-AURATOR ASSET MANAGEMENT",
+            "city": "TURKU",
+            "branch": null,
+            "swift_code": "AVAAFI21"
+        },
+        {
+            "id": 25,
+            "bank": "AVIDA FINANS AB, FILIAL I FINLAND",
+            "city": "ESPOO",
+            "branch": null,
+            "swift_code": "AFFNFI21"
+        },
+        {
+            "id": 26,
+            "bank": "B10 VARAINHOITO OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "VARIFIH1"
+        },
+        {
+            "id": 27,
             "bank": "BANK OF ALAND PLC",
             "city": "MARIEHAMN",
             "branch": "(TREASURY DEPARTMENT)",
             "swift_code": "AABAFI22TMS"
         },
         {
-            "id": 3,
+            "id": 28,
             "bank": "BANK OF ALAND PLC",
             "city": "MARIEHAMN",
             "branch": null,
             "swift_code": "AABAFI22"
         },
         {
-            "id": 4,
+            "id": 29,
+            "bank": "BASWARE CORPORATION",
+            "city": "ESPOO",
+            "branch": null,
+            "swift_code": "BAWCFI21"
+        },
+        {
+            "id": 30,
+            "bank": "BELGRANO INVERSIONES OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "BEIDFIH1"
+        },
+        {
+            "id": 31,
+            "bank": "BIGBANK AS FINLAND BRANCH",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "BIGKFIH1"
+        },
+        {
+            "id": 32,
+            "bank": "BIGBANK AS SUOMEN SIVULIIKE",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "BISKFIH1"
+        },
+        {
+            "id": 33,
             "bank": "BONUM BANK LTD",
             "city": "ESPOO",
             "branch": null,
             "swift_code": "POPFFI22"
         },
         {
-            "id": 5,
+            "id": 34,
+            "bank": "BOSTADSOBLIGATIONSFONDEN",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "BOTDFIH1"
+        },
+        {
+            "id": 35,
             "bank": "CARGOTEC OYJ",
             "city": "HELSINKI",
             "branch": null,
             "swift_code": "CTECFIHH"
         },
         {
-            "id": 6,
+            "id": 36,
+            "bank": "CARNEGIE ASSET MANAGEMENT FINLAND LTD",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "CRTEFIH1"
+        },
+        {
+            "id": 37,
+            "bank": "CELERES RAHASTOYHTIO OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "CERHFIH1"
+        },
+        {
+            "id": 38,
             "bank": "CENTRAL BANK OF SAVINGS BANKS FINLAND PLC",
             "city": "ESPOO",
             "branch": null,
             "swift_code": "ITELFIHH"
         },
         {
-            "id": 7,
+            "id": 39,
             "bank": "CITIBANK INTERNATIONAL LIMITED FINLAND BRANCH",
             "city": "HELSINKI",
             "branch": null,
             "swift_code": "CITIFIHX"
         },
         {
-            "id": 8,
+            "id": 40,
+            "bank": "COLLECTOR CREDIT AB, FILIAL FINLAND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "CCFFFIH1"
+        },
+        {
+            "id": 41,
+            "bank": "CONVENTUM SECURITIES LIMITED",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "CVMLFIH1"
+        },
+        {
+            "id": 42,
             "bank": "CREDIT AGRICOLE CIB",
             "city": "HELSINKI",
             "branch": null,
             "swift_code": "BSUIFIHH"
         },
         {
-            "id": 9,
+            "id": 43,
+            "bank": "D. CARNEGIE AB, FINLAND BRANCH",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "CASFFIH1"
+        },
+        {
+            "id": 44,
             "bank": "DANSKE BANK",
             "city": "HELSINKI",
             "branch": null,
             "swift_code": "DABAFIHX"
         },
         {
-            "id": 10,
+            "id": 45,
+            "bank": "DANSKE BANK A\/S HELSINKI BRANCH",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "PROEFIH1"
+        },
+        {
+            "id": 46,
             "bank": "DANSKE BANK PLC",
             "city": "HELSINKI",
             "branch": "(CLS SERVICES)",
             "swift_code": "DABAFIHHCLS"
         },
         {
-            "id": 11,
+            "id": 47,
             "bank": "DANSKE BANK PLC",
             "city": "HELSINKI",
             "branch": "(DANSKE CAPITAL)",
             "swift_code": "DABAFIHHCAP"
         },
         {
-            "id": 12,
+            "id": 48,
             "bank": "DANSKE BANK PLC",
             "city": "HELSINKI",
             "branch": null,
             "swift_code": "DABAFIHH"
         },
         {
-            "id": 13,
+            "id": 49,
+            "bank": "DE LAGE LANDEN FINANS AB, SOUMEN SIVULIIKE",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "DLFNFIH1"
+        },
+        {
+            "id": 50,
+            "bank": "DEUTSCHE BANK AG",
+            "city": "HELSINKI",
+            "branch": "(DB HELSINKI)",
+            "swift_code": "DEUTFIH1HAM"
+        },
+        {
+            "id": 51,
+            "bank": "DEUTSCHE BANK AG",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "DEUTFIH1"
+        },
+        {
+            "id": 52,
+            "bank": "DEUTSCHE BANK AG",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "DEUTFIH1AWM"
+        },
+        {
+            "id": 53,
+            "bank": "DIGIA FINANCIAL SOFTWARE LTD",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "DIFSFIH1"
+        },
+        {
+            "id": 54,
+            "bank": "DINERS CLUB FINLAND BRANCH OF DINERS CLUB NORDIC AB",
+            "city": "HELSINGFORS",
+            "branch": null,
+            "swift_code": "DCFBFIH1"
+        },
+        {
+            "id": 55,
             "bank": "DNB BANK ASA, FILIAL FINLAND",
             "city": "HELSINKI",
             "branch": null,
             "swift_code": "DNBAFIHX"
         },
         {
-            "id": 14,
+            "id": 56,
+            "bank": "E. OHMAN J OR FONDBOLAG FINLAND AB",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "OJFAFIH1"
+        },
+        {
+            "id": 57,
+            "bank": "EKENAS SPARBANK",
+            "city": "EKENAS",
+            "branch": null,
+            "swift_code": "EKSRFI21"
+        },
+        {
+            "id": 58,
+            "bank": "ELCOTEQ SE",
+            "city": "ESPOO",
+            "branch": null,
+            "swift_code": "ELCOFI21"
+        },
+        {
+            "id": 59,
+            "bank": "ELINA PANKKIIRILIIKE OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "ELPAFIH1"
+        },
+        {
+            "id": 60,
+            "bank": "ELITE PRIVATE BANKING LTD",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "ELPRFIH1"
+        },
+        {
+            "id": 61,
+            "bank": "ELO MUTUAL PENSION INSURANCE COMPANY",
+            "city": "ESPOO",
+            "branch": null,
+            "swift_code": "EMPNFI21"
+        },
+        {
+            "id": 62,
+            "bank": "EMISSIONS TRADING REGISTRY OF FINLAND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "ETRFFIH1"
+        },
+        {
+            "id": 63,
+            "bank": "ENON OSUUSPANKKI",
+            "city": "ENO",
+            "branch": null,
+            "swift_code": "ENOSFI21"
+        },
+        {
+            "id": 64,
+            "bank": "EQ ASSET MANAGEMENT OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "ASNGFIH1"
+        },
+        {
+            "id": 65,
+            "bank": "EQ PANKKI OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "EQPIFIH1"
+        },
+        {
+            "id": 66,
+            "bank": "EQ TURKU OMAISUUDENHOITO OY",
+            "city": "TURKU",
+            "branch": null,
+            "swift_code": "TUOMFI21"
+        },
+        {
+            "id": 67,
+            "bank": "ERAJARVEN SAASTOPANKKI",
+            "city": "ERAJARVI",
+            "branch": null,
+            "swift_code": "ERSSFI21"
+        },
+        {
+            "id": 68,
+            "bank": "ERIK SELIN BANKERS LTD",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "ERSBFIH1"
+        },
+        {
+            "id": 69,
+            "bank": "ESTLANDER AND PARTNERS LTD",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "ESPRFIH1"
+        },
+        {
+            "id": 70,
+            "bank": "ESTLANDER AND RONNLUND FINANCIAL PRODUCTS OY",
+            "city": "VAASA",
+            "branch": null,
+            "swift_code": "ERFPFI21"
+        },
+        {
+            "id": 71,
+            "bank": "ETELA-KARJALAN OSUUSPANKKI",
+            "city": "LAPPEENRANTA",
+            "branch": null,
+            "swift_code": "ETOSFI21"
+        },
+        {
+            "id": 72,
+            "bank": "ETELA-KARJALAN SAASTOPANKKI",
+            "city": "LAPPEENRANTA",
+            "branch": null,
+            "swift_code": "ETSAFI21"
+        },
+        {
+            "id": 73,
+            "bank": "ETELA-PAIJANTEEN OSUUSPANKKI",
+            "city": "VAAKSY",
+            "branch": null,
+            "swift_code": "ETOAFI21"
+        },
+        {
+            "id": 74,
+            "bank": "ETELA-POHJANMAAN OSUUSPANKKI",
+            "city": "SEINAJOKI",
+            "branch": null,
+            "swift_code": "ETOPFI21"
+        },
+        {
+            "id": 75,
+            "bank": "ETELA-SAVON OSUUSPANKKI",
+            "city": "MIKKELI",
+            "branch": null,
+            "swift_code": "ETOUFI21"
+        },
+        {
+            "id": 76,
+            "bank": "ETERA MUTUAL PENSION INS. CO.",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "EMPIFI21"
+        },
+        {
+            "id": 77,
             "bank": "EUFEX LTD",
             "city": "ESPOO",
             "branch": null,
             "swift_code": "EUFXFIHH"
         },
         {
-            "id": 15,
+            "id": 78,
+            "bank": "EUFEX PANKKI OYJ",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "EUFPFIH1"
+        },
+        {
+            "id": 79,
+            "bank": "EURAJOEN SAASTOPANKKI",
+            "city": "RAUMA",
+            "branch": null,
+            "swift_code": "EUSPFI21"
+        },
+        {
+            "id": 80,
+            "bank": "EURAN OSUUSPANKKI",
+            "city": "EURA",
+            "branch": null,
+            "swift_code": "EUOUFI21"
+        },
+        {
+            "id": 81,
             "bank": "EUROCLEAR FINLAND LTD",
             "city": "HELSINKI",
             "branch": "(CSD COMMUNITY)",
             "swift_code": "APKEFIHHCLP"
         },
         {
-            "id": 16,
+            "id": 82,
             "bank": "EUROCLEAR FINLAND LTD",
             "city": "HELSINKI",
             "branch": "(MONEY MARKET SYSTEM)",
             "swift_code": "APKEFIHHATP"
         },
         {
-            "id": 17,
+            "id": 83,
             "bank": "EUROCLEAR FINLAND LTD",
             "city": "HELSINKI",
             "branch": null,
             "swift_code": "APKEFIHH"
         },
         {
-            "id": 18,
+            "id": 84,
             "bank": "EUROCLEAR FINLAND LTD",
             "city": "HELSINKI",
             "branch": null,
             "swift_code": "APKEFIHHMIG"
         },
         {
-            "id": 19,
+            "id": 85,
             "bank": "EVLI BANK PLC",
             "city": "HELSINKI",
             "branch": "(INVESTMENT FUNDS)",
             "swift_code": "EVSEFIHHFND"
         },
         {
-            "id": 20,
+            "id": 86,
             "bank": "EVLI BANK PLC",
             "city": "HELSINKI",
             "branch": null,
             "swift_code": "EVSEFIHH"
         },
         {
-            "id": 21,
+            "id": 87,
+            "bank": "FA SOLUTIONS OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "SOLTFIH1"
+        },
+        {
+            "id": 88,
+            "bank": "FENNIA ASSET MANAGEMENT LTD",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "FEANFIH1"
+        },
+        {
+            "id": 89,
+            "bank": "FIM ASSET MANAGEMENT LTD",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "FMAMFIH1"
+        },
+        {
+            "id": 90,
             "bank": "FIM INVESTMENT SERVICES LTD",
             "city": "HELSINKI",
             "branch": null,
             "swift_code": "FISEFIHH"
         },
         {
-            "id": 22,
+            "id": 91,
+            "bank": "FIM PANKKIIRILIIKE",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "FIPAFIH1"
+        },
+        {
+            "id": 92,
+            "bank": "FINLANDIA GROUP OYJ",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "FIGYFIH1"
+        },
+        {
+            "id": 93,
+            "bank": "FINNAIR PLC",
+            "city": "VANTAA",
+            "branch": null,
+            "swift_code": "FNARFI21"
+        },
+        {
+            "id": 94,
+            "bank": "FOLKIA AS, SUOMEN SIVULIIKE",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "FOSIFIH1"
+        },
+        {
+            "id": 95,
+            "bank": "FOREA CAPITAL OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "FOCTFIH1"
+        },
+        {
+            "id": 96,
+            "bank": "FOREX BANK AB, FILIAL I FINLAND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "FORXFIH1"
+        },
+        {
+            "id": 97,
+            "bank": "FORSSAN SEUDUN OSUUSPANKKI",
+            "city": "FORSSA",
+            "branch": null,
+            "swift_code": "FOSOFI21"
+        },
+        {
+            "id": 98,
+            "bank": "FORTUM OYJ",
+            "city": "ESPOO",
+            "branch": null,
+            "swift_code": "FOOYFI21"
+        },
+        {
+            "id": 99,
+            "bank": "FOURTON OY",
+            "city": "ESPOO",
+            "branch": null,
+            "swift_code": "FOURFI21"
+        },
+        {
+            "id": 100,
+            "bank": "FRONT CAPITAL OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "FRCPFIH1"
+        },
+        {
+            "id": 101,
+            "bank": "FSB OY PANKKIIRILIIKE",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "FSOPFIH1"
+        },
+        {
+            "id": 102,
+            "bank": "GLITNIR ALTERNATIVE INVESTMENTS OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "GLAIFIH1"
+        },
+        {
+            "id": 103,
+            "bank": "HAAPAJARVEN OSUUSPANKKI",
+            "city": "HAAPAJARVI",
+            "branch": null,
+            "swift_code": "HAOUFI21"
+        },
+        {
+            "id": 104,
+            "bank": "HAAPAMAEN SEUDUN OSUUSPANKKI",
+            "city": "HAAPAMAKI",
+            "branch": null,
+            "swift_code": "HASKFI21"
+        },
+        {
+            "id": 105,
+            "bank": "HAILUODON OSUUSPANKKI",
+            "city": "HAILUOTO",
+            "branch": null,
+            "swift_code": "HAOAFI21"
+        },
+        {
+            "id": 106,
+            "bank": "HALSUAN OSUUSPANKKI",
+            "city": "HALSUA",
+            "branch": null,
+            "swift_code": "HAONFI21"
+        },
+        {
+            "id": 107,
+            "bank": "HAMEENLINNAN SEUDUN OSUUSPANKKI",
+            "city": "HAMEENLINNA",
+            "branch": null,
+            "swift_code": "HAEOFI21"
+        },
+        {
+            "id": 108,
+            "bank": "HAMEENLINNAN SEUDUN OSUUSPANKKI",
+            "city": "HAMEENLINNA",
+            "branch": null,
+            "swift_code": "HAEOFI21"
+        },
+        {
+            "id": 109,
+            "bank": "HANNULAN OSUUSPANKKI",
+            "city": "HANNULA",
+            "branch": null,
+            "swift_code": "HAOSFI21"
+        },
+        {
+            "id": 110,
+            "bank": "HARJAVALLAN OSUUSPANKKI",
+            "city": "HARJAVALTA",
+            "branch": null,
+            "swift_code": "HAOKFI21"
+        },
+        {
+            "id": 111,
+            "bank": "HARTOLAN OSUUSPANKKI",
+            "city": "HARTOLA",
+            "branch": null,
+            "swift_code": "HAOIFI21"
+        },
+        {
+            "id": 112,
+            "bank": "HAUHON OSUUSPANKKI",
+            "city": "HAUHO",
+            "branch": null,
+            "swift_code": "HAUSFI21"
+        },
+        {
+            "id": 113,
+            "bank": "HAUKIVUOREN OSUUSPANKKI",
+            "city": "HAUKIVUORI",
+            "branch": null,
+            "swift_code": "HAUUFI21"
+        },
+        {
+            "id": 114,
+            "bank": "HEAD ASSET MANAGEMENT OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "HEAAFIH1"
+        },
+        {
+            "id": 115,
+            "bank": "HEINAVEDEN OSUUSPANKKI",
+            "city": "HEINAVESI",
+            "branch": null,
+            "swift_code": "HEOUFI21"
+        },
+        {
+            "id": 116,
+            "bank": "HELLANMAAN OSUUSPANKKI",
+            "city": "LAPUA",
+            "branch": null,
+            "swift_code": "HEOSFI21"
+        },
+        {
+            "id": 117,
+            "bank": "HELMI SAASTOPANKKI OY",
+            "city": "LAHTI",
+            "branch": null,
+            "swift_code": "HESAFI21"
+        },
+        {
+            "id": 118,
+            "bank": "HELSINGIN OP PANKKI OYJ",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "HEPYFI21"
+        },
+        {
+            "id": 119,
+            "bank": "HELSINKI CAPITAL PARTNERS RAHASTOYHTIO OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "HCPRFIH1"
+        },
+        {
+            "id": 120,
+            "bank": "HIMANGAN OSUUSPANKKI",
+            "city": "HIMANKA",
+            "branch": null,
+            "swift_code": "HIOSFI21"
+        },
+        {
+            "id": 121,
+            "bank": "HIRVENSALMEN OSUUSPANKKI",
+            "city": "HIRVENSALMI",
+            "branch": null,
+            "swift_code": "HIOUFI21"
+        },
+        {
+            "id": 122,
+            "bank": "HOLVI PAYMENT SERVICES LTD",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "HOLVFIH1"
+        },
+        {
+            "id": 123,
+            "bank": "HONKAJOEN OSUUSPANKKI",
+            "city": "HONKAJOKI",
+            "branch": null,
+            "swift_code": "HOOSFI21"
+        },
+        {
+            "id": 124,
+            "bank": "HONKILAHDEN OSUUSPANKKI",
+            "city": "HONKILAHTI",
+            "branch": null,
+            "swift_code": "HOOUFI21"
+        },
+        {
+            "id": 125,
+            "bank": "HUHTAMON OSUUSPANKKI",
+            "city": "HUHTAMO",
+            "branch": null,
+            "swift_code": "HUOSFI21"
+        },
+        {
+            "id": 126,
+            "bank": "HUITTISTEN OSUUSPANKKI",
+            "city": "HUITTINEN",
+            "branch": null,
+            "swift_code": "HUOUFI21"
+        },
+        {
+            "id": 127,
+            "bank": "HUITTISTEN SAASTOPANKKI",
+            "city": "HUITTINEN",
+            "branch": null,
+            "swift_code": "HUSOFI21"
+        },
+        {
+            "id": 128,
+            "bank": "HUMPPILAN OSUUSPANKKI",
+            "city": "HUMPPILA",
+            "branch": null,
+            "swift_code": "HUOPFI21"
+        },
+        {
+            "id": 129,
+            "bank": "ICECAPITAL ASSET MANAGEMENT LTD",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "ICSNFIH1"
+        },
+        {
+            "id": 130,
+            "bank": "ICECAPITAL MARKETS LTD",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "ICSUFIH1"
+        },
+        {
+            "id": 131,
+            "bank": "IF P AND C INSURANCE LTD",
+            "city": "ESPOO",
+            "branch": null,
+            "swift_code": "IFPCFIH1"
+        },
+        {
+            "id": 132,
+            "bank": "IKAALISTEN OSUUSPANKKI",
+            "city": "IKAALINEN",
+            "branch": null,
+            "swift_code": "IKOSFI21"
+        },
+        {
+            "id": 133,
+            "bank": "IKANO BANK AB (PUBL), FINLAND FILIAL",
+            "city": "VANTAA",
+            "branch": null,
+            "swift_code": "KPFFFI21"
+        },
+        {
+            "id": 134,
+            "bank": "ILOMANTSIN OSUUSPANKKI",
+            "city": "ILOMANTSI",
+            "branch": null,
+            "swift_code": "ILOSFI21"
+        },
+        {
+            "id": 135,
+            "bank": "INVESTA ASSET MANAGEMENT",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "INATFIH1"
+        },
+        {
+            "id": 136,
+            "bank": "ISOJOEN OSUUSPANKKI",
+            "city": "ISOJOKI",
+            "branch": null,
+            "swift_code": "ISOUFI21"
+        },
+        {
+            "id": 137,
+            "bank": "JAM ADVISORS LTD",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "JAADFIH1"
+        },
+        {
+            "id": 138,
+            "bank": "JAMIJARVEN OSUUSPANKKI",
+            "city": "JAMIJARVI",
+            "branch": null,
+            "swift_code": "JAOUFI21"
+        },
+        {
+            "id": 139,
+            "bank": "JAMSAN SEUDUN OSUUSPANKKI",
+            "city": "JAMSA",
+            "branch": null,
+            "swift_code": "JASSFI21"
+        },
+        {
+            "id": 140,
+            "bank": "JANAKKALAN OSUUSPANKKI",
+            "city": "TURENKI",
+            "branch": null,
+            "swift_code": "JAOPFI21"
+        },
+        {
+            "id": 141,
+            "bank": "JOENSUUN SEUDUN OSUUSPANKKI",
+            "city": "JOENSUU",
+            "branch": null,
+            "swift_code": "JOSSFI21"
+        },
+        {
+            "id": 142,
+            "bank": "JOKIOISTEN OSUUSPANKKI",
+            "city": "JOKIOINEN",
+            "branch": null,
+            "swift_code": "JOOSFI21"
+        },
+        {
+            "id": 143,
+            "bank": "JOROISTEN OSUUSPANKKI",
+            "city": "JOROINEN",
+            "branch": null,
+            "swift_code": "JORUFI21"
+        },
+        {
+            "id": 144,
             "bank": "JPMORGAN EUROPE LIMITED, HELSINKI BRANCH",
             "city": "HELSINKI",
             "branch": null,
             "swift_code": "CHASFIHH"
         },
         {
-            "id": 23,
+            "id": 145,
+            "bank": "JUUAN OSUUSPANKKI",
+            "city": "JUUKA",
+            "branch": null,
+            "swift_code": "JUOSFI21"
+        },
+        {
+            "id": 146,
+            "bank": "KAINUUN OSUUSPANKKI",
+            "city": "KAJAANI",
+            "branch": null,
+            "swift_code": "KAOKFI21"
+        },
+        {
+            "id": 147,
+            "bank": "KALAJOEN OSUUSPANKKI",
+            "city": "KALAJOKI",
+            "branch": null,
+            "swift_code": "KAOIFI21"
+        },
+        {
+            "id": 148,
+            "bank": "KALANNIN SAASTOPANKKI",
+            "city": "UUSIKAUPUNKI",
+            "branch": null,
+            "swift_code": "KALAFI21"
+        },
+        {
+            "id": 149,
+            "bank": "KALKKISTEN OSUUSPANKKI",
+            "city": "KALKKINEN",
+            "branch": null,
+            "swift_code": "KASPFI21"
+        },
+        {
+            "id": 150,
+            "bank": "KANGASALAN SEUDUN OSUUSPANKKI",
+            "city": "KANGASALA",
+            "branch": null,
+            "swift_code": "KASOFI21"
+        },
+        {
+            "id": 151,
+            "bank": "KANGASNIEMEN OSUUSPANKKI",
+            "city": "KANGASNIEMI",
+            "branch": null,
+            "swift_code": "KAUSFI21"
+        },
+        {
+            "id": 152,
+            "bank": "KANNONKOSKEN OSUUSPANKKI",
+            "city": "KANNONKOSKI",
+            "branch": null,
+            "swift_code": "KANOFI21"
+        },
+        {
+            "id": 153,
+            "bank": "KANNUKSEN OSUUSPANKKI",
+            "city": "KANNUS",
+            "branch": null,
+            "swift_code": "KAUUFI21"
+        },
+        {
+            "id": 154,
+            "bank": "KANTASAASTOPANKKI OY",
+            "city": "HAMEENLINNA",
+            "branch": null,
+            "swift_code": "KANPFI21"
+        },
+        {
+            "id": 155,
+            "bank": "KARJALAN OSUUSPANKKI",
+            "city": "MYNAMAKI",
+            "branch": null,
+            "swift_code": "KAUAFI21"
+        },
+        {
+            "id": 156,
+            "bank": "KARKOLAN OSUUSPANKKI",
+            "city": "JARVELA",
+            "branch": null,
+            "swift_code": "KAOSFI21"
+        },
+        {
+            "id": 157,
+            "bank": "KARKUN OSUUSPANKKI",
+            "city": "SASTAMALA",
+            "branch": null,
+            "swift_code": "KAUNFI21"
+        },
+        {
+            "id": 158,
+            "bank": "KARVIAN OSUUSPANKKI",
+            "city": "KARVIA",
+            "branch": null,
+            "swift_code": "KAOPFI21"
+        },
+        {
+            "id": 159,
+            "bank": "KAUSTISEN OSUUSPANKKI",
+            "city": "KAUSTINEN",
+            "branch": null,
+            "swift_code": "KAOAFI21"
+        },
+        {
+            "id": 160,
+            "bank": "KAYLAN OSUUSPANKKI",
+            "city": "KAYLA",
+            "branch": null,
+            "swift_code": "KAONFI21"
+        },
+        {
+            "id": 161,
+            "bank": "KEIKYAN OSUUSPANKKI",
+            "city": "SASTAMALA",
+            "branch": null,
+            "swift_code": "KESKFI21"
+        },
+        {
+            "id": 162,
+            "bank": "KEITELEEN OSUUSPANKKI",
+            "city": "KEITELE",
+            "branch": null,
+            "swift_code": "KEOPFI21"
+        },
+        {
+            "id": 163,
+            "bank": "KEMIN SEUDUN OSUUSPANKKI",
+            "city": "KEMI",
+            "branch": null,
+            "swift_code": "KESOFI21"
+        },
+        {
+            "id": 164,
+            "bank": "KEMIRA OYJ",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "KEMIFIH1"
+        },
+        {
+            "id": 165,
+            "bank": "KERIMAEN OSUUSPANKKI",
+            "city": "KERIMAKI",
+            "branch": null,
+            "swift_code": "KEOKFI21"
+        },
+        {
+            "id": 166,
+            "bank": "KESALAHDEN OSUUSPANKKI",
+            "city": "KESALAHTI",
+            "branch": null,
+            "swift_code": "KEOIFI21"
+        },
+        {
+            "id": 167,
+            "bank": "KESKINAINEN ELAKEVAKUUTUSYHTIOE ILMARINEN",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "IMPIFIH1"
+        },
+        {
+            "id": 168,
+            "bank": "KESKI-SUOMEN OSUUSPANKKI",
+            "city": "JYVASKYLA",
+            "branch": null,
+            "swift_code": "KEOUFI21"
+        },
+        {
+            "id": 169,
+            "bank": "KESKI-UUDENMAAN OSUUSPANKKI",
+            "city": "JARVENPAA",
+            "branch": null,
+            "swift_code": "KEONFI21"
+        },
+        {
+            "id": 170,
+            "bank": "KEURUUN OSUUSPANKKI",
+            "city": "KEURUU",
+            "branch": null,
+            "swift_code": "KEOAFI21"
+        },
+        {
+            "id": 171,
+            "bank": "KIHNION OSUUSPANKKI",
+            "city": "KIHNIO",
+            "branch": null,
+            "swift_code": "KIOUFI21"
+        },
+        {
+            "id": 172,
+            "bank": "KIIHTELYSVAARAN OSUUSPANKKI",
+            "city": "KIIHTELYSVAARA",
+            "branch": null,
+            "swift_code": "KIOPFI21"
+        },
+        {
+            "id": 173,
+            "bank": "KIIKOISTEN OSUUSPANKKI",
+            "city": "KIIKOINEN",
+            "branch": null,
+            "swift_code": "KIOAFI21"
+        },
+        {
+            "id": 174,
+            "bank": "KIIKOISTEN SAASTOPANKKI",
+            "city": "KIIKOINEN",
+            "branch": null,
+            "swift_code": "KISOFI21"
+        },
+        {
+            "id": 175,
+            "bank": "KITEEN SEUDUN OSUUSPANKKI",
+            "city": "KITEE",
+            "branch": null,
+            "swift_code": "KISUFI21"
+        },
+        {
+            "id": 176,
+            "bank": "KIURUVEDEN OSUUSPANKKI",
+            "city": "KIURUVESI",
+            "branch": null,
+            "swift_code": "KIOSFI21"
+        },
+        {
+            "id": 177,
+            "bank": "KJK CAPITAL OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "KJKCFIH1"
+        },
+        {
+            "id": 178,
+            "bank": "KOILLIS-SAVON OSUUSPANKKI",
+            "city": "NILSIA",
+            "branch": null,
+            "swift_code": "KOOUFI21"
+        },
+        {
+            "id": 179,
+            "bank": "KOITIN-PERTUNMAAN OSUUSPANKKI",
+            "city": "KOITTI",
+            "branch": null,
+            "swift_code": "KOOKFI21"
+        },
+        {
+            "id": 180,
+            "bank": "KOKEMAEN OSUUSPANKKI",
+            "city": "KOKEMAKI",
+            "branch": null,
+            "swift_code": "KOOIFI21"
+        },
+        {
+            "id": 181,
+            "bank": "KOKKOLAN OSUUSPANKKI",
+            "city": "KOKKOLA",
+            "branch": null,
+            "swift_code": "KOSPFI21"
+        },
+        {
+            "id": 182,
+            "bank": "KONNEVEDEN OSUUSPANKKI",
+            "city": "KONNEVESI",
+            "branch": null,
+            "swift_code": "KONOFI21"
+        },
+        {
+            "id": 183,
+            "bank": "KORPILAHDEN OSUUSPANKKI",
+            "city": "KORPILAHTI",
+            "branch": null,
+            "swift_code": "KOSNFI21"
+        },
+        {
+            "id": 184,
+            "bank": "KORSNAS ANDELSBANK",
+            "city": "KORSNAS",
+            "branch": null,
+            "swift_code": "KOADFI21"
+        },
+        {
+            "id": 185,
+            "bank": "KORTESJARVEN SAASTOPANKKI",
+            "city": "KORTESJARVI",
+            "branch": null,
+            "swift_code": "KOSAFI21"
+        },
+        {
+            "id": 186,
+            "bank": "KOSKEN OSUUSPANKKI",
+            "city": "KOSKI TL",
+            "branch": null,
+            "swift_code": "KOOSFI21"
+        },
+        {
+            "id": 187,
+            "bank": "KOTKAN SEUDUN OSUUSPANKKI",
+            "city": "KOTKA",
+            "branch": null,
+            "swift_code": "KOSOFI21"
+        },
+        {
+            "id": 188,
+            "bank": "KOUVOLAN SEUDUN OSUUSPANKKI",
+            "city": "KOUVOLA",
+            "branch": null,
+            "swift_code": "KOSUFI21"
+        },
+        {
+            "id": 189,
+            "bank": "KOYLION OSUUSPANKKI",
+            "city": "KOYLIO",
+            "branch": null,
+            "swift_code": "KOONFI21"
+        },
+        {
+            "id": 190,
+            "bank": "KRISTINESTADS SPARBANK",
+            "city": "LAPPFJARD",
+            "branch": null,
+            "swift_code": "KRSNFI21"
+        },
+        {
+            "id": 191,
+            "bank": "KRONOBY ANDELSBANK",
+            "city": "KRONOBY",
+            "branch": null,
+            "swift_code": "KRADFI21"
+        },
+        {
+            "id": 192,
+            "bank": "KUHMOISTEN OSUUSPANKKI",
+            "city": "KUHMOINEN",
+            "branch": null,
+            "swift_code": "KUOAFI21"
+        },
+        {
+            "id": 193,
+            "bank": "KUHMON OSUUSPANKKI",
+            "city": "KUHMO",
+            "branch": null,
+            "swift_code": "KUOPFI21"
+        },
+        {
+            "id": 194,
+            "bank": "KUNTIEN ELAKEVAKUUTUS",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "KUELFIH1"
+        },
+        {
+            "id": 195,
+            "bank": "KUORTANEEN OSUUSPANKKI",
+            "city": "KUORTANE",
+            "branch": null,
+            "swift_code": "KUONFI21"
+        },
+        {
+            "id": 196,
+            "bank": "KURIKAN OSUUSPANKKI",
+            "city": "KURIKKA",
+            "branch": null,
+            "swift_code": "KUOUFI21"
+        },
+        {
+            "id": 197,
+            "bank": "KURUN OSUUSPANKKI",
+            "city": "KURU",
+            "branch": null,
+            "swift_code": "KUOKFI21"
+        },
+        {
+            "id": 198,
+            "bank": "KUUSAMON OSUUSPANKKI",
+            "city": "KUUSAMO",
+            "branch": null,
+            "swift_code": "KUSSFI21"
+        },
+        {
+            "id": 199,
+            "bank": "KVEVLAX SPARBANK",
+            "city": "KORSHOLM",
+            "branch": null,
+            "swift_code": "KVSPFI21"
+        },
+        {
+            "id": 200,
+            "bank": "KYMIJOEN OSUUSPANKKI",
+            "city": "ANJALANKOSKI",
+            "branch": null,
+            "swift_code": "KYOPFI21"
+        },
+        {
+            "id": 201,
+            "bank": "KYRON SEUDUN OSUUSPANKKI",
+            "city": "KYRO",
+            "branch": null,
+            "swift_code": "KYSOFI21"
+        },
+        {
+            "id": 202,
+            "bank": "KYRONMAAN OSUUSPANKKI",
+            "city": "ISOKYRO",
+            "branch": null,
+            "swift_code": "KYOUFI21"
+        },
+        {
+            "id": 203,
+            "bank": "KYYJARVEN OSUUSPANKKI",
+            "city": "KYYJARVI",
+            "branch": null,
+            "swift_code": "KYYOFIH1"
+        },
+        {
+            "id": 204,
+            "bank": "LAGO KAPITAL LTD",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "LAGOFIH1"
+        },
+        {
+            "id": 205,
+            "bank": "LAIHIAN OSUUSPANKKI",
+            "city": "LAIHIA",
+            "branch": null,
+            "swift_code": "LAOPFI21"
+        },
+        {
+            "id": 206,
+            "bank": "LAMMIN OSUUSPANKKI",
+            "city": "LAMMI",
+            "branch": null,
+            "swift_code": "LAONFI21"
+        },
+        {
+            "id": 207,
+            "bank": "LAMMIN SAASTOPANKKI",
+            "city": "HYVINKAA",
+            "branch": null,
+            "swift_code": "LAMTFI21"
+        },
+        {
+            "id": 208,
+            "bank": "LAMY OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "LAMYFIH1"
+        },
+        {
+            "id": 209,
+            "bank": "LANDSBANKI ISLANDS",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "LAISFIH1"
+        },
+        {
+            "id": 210,
+            "bank": "LANGELMAEN SAASTOPANKKI",
+            "city": "LANGELMAKI",
+            "branch": null,
+            "swift_code": "LASKFI21"
+        },
+        {
+            "id": 211,
+            "bank": "LANNEVEDEN OSUUSPANKKI",
+            "city": "LANNEVESI",
+            "branch": null,
+            "swift_code": "LAOAFI21"
+        },
+        {
+            "id": 212,
+            "bank": "LANSI-KYMEN OSUUSPANKKI",
+            "city": "ELIMAKI",
+            "branch": null,
+            "swift_code": "LAOKFI21"
+        },
+        {
+            "id": 213,
+            "bank": "LANSI-SUOMEN OSUUSPANKKI",
+            "city": "PORI",
+            "branch": null,
+            "swift_code": "LANOFI21"
+        },
+        {
+            "id": 214,
+            "bank": "LANSI-UUDENMAAN OSUUSPANKKI",
+            "city": "LOHJA",
+            "branch": null,
+            "swift_code": "LAOIFI21"
+        },
+        {
+            "id": 215,
+            "bank": "LANSI-UUDENMAAN SAASTOPANKKI",
+            "city": "LOHJA",
+            "branch": null,
+            "swift_code": "LASTFI21"
+        },
+        {
+            "id": 216,
+            "bank": "LAPIN OSUUSPANKKI",
+            "city": "LAPPI",
+            "branch": null,
+            "swift_code": "LASUFI21"
+        },
+        {
+            "id": 217,
+            "bank": "LAPINLAHDEN OSUUSPANKKI",
+            "city": "LAPINLAHTI",
+            "branch": null,
+            "swift_code": "LAPLFI21"
+        },
+        {
+            "id": 218,
+            "bank": "LAPPAJARVEN OSUUSPANKKI",
+            "city": "LAPPAJARVI",
+            "branch": null,
+            "swift_code": "LAOSFI21"
+        },
+        {
+            "id": 219,
+            "bank": "LAPPO ANDELSBANK",
+            "city": "LAPPO",
+            "branch": null,
+            "swift_code": "LAADFI21"
+        },
+        {
+            "id": 220,
+            "bank": "LAPUAN OSUUSPANKKI",
+            "city": "LAPUA",
+            "branch": null,
+            "swift_code": "LAPUFI21"
+        },
+        {
+            "id": 221,
+            "bank": "LAVIAN OSUUSPANKKI",
+            "city": "LAVIA",
+            "branch": null,
+            "swift_code": "LAOUFI21"
+        },
+        {
+            "id": 222,
+            "bank": "LEHTIMAEN OSUUSPANKKI",
+            "city": "LEHTIMAKI",
+            "branch": null,
+            "swift_code": "LEOSFI21"
+        },
+        {
+            "id": 223,
+            "bank": "LEMIN OSUUSPANKKI",
+            "city": "LEMI",
+            "branch": null,
+            "swift_code": "LEOKFI21"
+        },
+        {
+            "id": 224,
+            "bank": "LEPPAVIRRAN OSUUSPANKKI",
+            "city": "LEPPAVIRTA",
+            "branch": null,
+            "swift_code": "LEOUFI21"
+        },
+        {
+            "id": 225,
+            "bank": "LIEDON OSUUSPANKKI",
+            "city": "LIETO",
+            "branch": null,
+            "swift_code": "LIOSFI21"
+        },
+        {
+            "id": 226,
+            "bank": "LIEDON SAASTOPANKKI",
+            "city": "LIETO",
+            "branch": null,
+            "swift_code": "LSAAFI21"
+        },
+        {
+            "id": 227,
+            "bank": "LIMINGAN OSUUSPANKKI",
+            "city": "LIMINKA",
+            "branch": null,
+            "swift_code": "LIOUFI21"
+        },
+        {
+            "id": 228,
+            "bank": "LIPERIN OSUUSPANKKI",
+            "city": "LIPERI",
+            "branch": null,
+            "swift_code": "LIOPFI21"
+        },
+        {
+            "id": 229,
+            "bank": "LIQVINET OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "LIQVFIH1"
+        },
+        {
+            "id": 230,
             "bank": "LOCALTAPIOLA ASSET MANAGEMENT LTD",
             "city": "ESPOO",
             "branch": null,
             "swift_code": "LTAPFI22"
         },
         {
-            "id": 24,
+            "id": 231,
+            "bank": "LOIMAAN SEUDUN OSUUSPANKKI",
+            "city": "LOIMAA",
+            "branch": null,
+            "swift_code": "LOSOFI21"
+        },
+        {
+            "id": 232,
+            "bank": "LOKALAHDEN OSUUSPANKKI",
+            "city": "LOKALAHTI",
+            "branch": null,
+            "swift_code": "LOOSFI21"
+        },
+        {
+            "id": 233,
+            "bank": "LOPEN OSUUSPANKKI",
+            "city": "LOPPI",
+            "branch": null,
+            "swift_code": "LOOUFI21"
+        },
+        {
+            "id": 234,
+            "bank": "LOUNAIS-SUOMEN OSUUSPANKKI",
+            "city": "PAIMIO",
+            "branch": null,
+            "swift_code": "LOOPFI21"
+        },
+        {
+            "id": 235,
+            "bank": "LUHANGAN OSUUSPANKKI",
+            "city": "TAMMIJARVI",
+            "branch": null,
+            "swift_code": "LUOPFI21"
+        },
+        {
+            "id": 236,
+            "bank": "LUOPIOISTEN OSUUSPANKKI",
+            "city": "LUOPIOINEN",
+            "branch": null,
+            "swift_code": "LUOSFI21"
+        },
+        {
+            "id": 237,
+            "bank": "LUUMAEN OSUUSPANKKI",
+            "city": "TAAVETTI",
+            "branch": null,
+            "swift_code": "LUOAFI21"
+        },
+        {
+            "id": 238,
+            "bank": "LUVIAN OSUUSPANKKI",
+            "city": "LUVIA",
+            "branch": null,
+            "swift_code": "LUOUFI21"
+        },
+        {
+            "id": 239,
+            "bank": "MAANINGAN OSUUSPANKKI",
+            "city": "MAANINKA",
+            "branch": null,
+            "swift_code": "MAOAFI21"
+        },
+        {
+            "id": 240,
+            "bank": "MANDATUM LIFE INVESTMENT SERVICES LTD",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "MLIRFIH1"
+        },
+        {
+            "id": 241,
+            "bank": "MANTAN SEUDUN OSUUSPANKKI",
+            "city": "MANTTA",
+            "branch": null,
+            "swift_code": "MAEKFI21"
+        },
+        {
+            "id": 242,
+            "bank": "MANTSALAN OSUUSPANKKI",
+            "city": "MANTSALA",
+            "branch": null,
+            "swift_code": "MAOKFI21"
+        },
+        {
+            "id": 243,
+            "bank": "MARTTILAN OSUUSPANKKI",
+            "city": "MARTTILA",
+            "branch": null,
+            "swift_code": "MAUNFI21"
+        },
+        {
+            "id": 244,
+            "bank": "MASKUN OSUUSPANKKI",
+            "city": "MASKU",
+            "branch": null,
+            "swift_code": "MAUKFI21"
+        },
+        {
+            "id": 245,
+            "bank": "MB CORPORATE FINANCE LIMITED",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "MBCFFIH1"
+        },
+        {
+            "id": 246,
+            "bank": "MELLILAN SEUDUN OSUUSPANKKI",
+            "city": "MELLILA",
+            "branch": null,
+            "swift_code": "MESNFI21"
+        },
+        {
+            "id": 247,
+            "bank": "MERIMASKUN OSUUSPANKKI",
+            "city": "MERIMASKU",
+            "branch": null,
+            "swift_code": "MEOSFI21"
+        },
+        {
+            "id": 248,
             "bank": "METSA GROUP TREASURY OY",
             "city": "ESPOO",
             "branch": null,
             "swift_code": "MGRPFI22"
         },
         {
-            "id": 25,
+            "id": 249,
+            "bank": "METSAMAAN OSUUSPANKKI",
+            "city": "METSAMAA",
+            "branch": null,
+            "swift_code": "MEOUFI21"
+        },
+        {
+            "id": 250,
             "bank": "METSO CORPORATION",
             "city": "HELSINKI",
             "branch": null,
             "swift_code": "MTSOFIHH"
         },
         {
-            "id": 26,
+            "id": 251,
+            "bank": "MIEHIKKALAN OSUUSPANKKI",
+            "city": "MIEHIKKALA",
+            "branch": null,
+            "swift_code": "MIOUFI21"
+        },
+        {
+            "id": 252,
+            "bank": "MIETOISTEN SAASTOPANKKI",
+            "city": "MIETOINEN",
+            "branch": null,
+            "swift_code": "MISNFI21"
+        },
+        {
+            "id": 253,
+            "bank": "MODEL IT OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "MDDEFIH1"
+        },
+        {
+            "id": 254,
+            "bank": "MOUHIJARVEN OSUUSPANKKI",
+            "city": "SASTAMALA",
+            "branch": null,
+            "swift_code": "MOOUFI21"
+        },
+        {
+            "id": 255,
+            "bank": "MULTIAN OSUUSPANKKI",
+            "city": "MULTIA",
+            "branch": null,
+            "swift_code": "MUOSFI21"
+        },
+        {
+            "id": 256,
             "bank": "MUNICIPALITY FINANCE PLC",
             "city": "HELSINKI",
             "branch": null,
             "swift_code": "MUFIFIHH"
         },
         {
-            "id": 27,
+            "id": 257,
+            "bank": "MYNAMAEN OSUUSPANKKI",
+            "city": "MYNAMAKI",
+            "branch": null,
+            "swift_code": "MYOSFI21"
+        },
+        {
+            "id": 258,
+            "bank": "MYRSKYLAN OSUUSPANKKI",
+            "city": "MYRSKYLA",
+            "branch": null,
+            "swift_code": "MYOUFI21"
+        },
+        {
+            "id": 259,
+            "bank": "MYRSKYLAN SAASTOPANKKI",
+            "city": "MYRSKYLA",
+            "branch": null,
+            "swift_code": "MYSAFI21"
+        },
+        {
+            "id": 260,
+            "bank": "NAGU ANDELSBANK",
+            "city": "NAGU",
+            "branch": null,
+            "swift_code": "NAANFI21"
+        },
+        {
+            "id": 261,
+            "bank": "NAKKILAN OSUUSPANKKI",
+            "city": "NAKKILA",
+            "branch": null,
+            "swift_code": "NAOUFI21"
+        },
+        {
+            "id": 262,
+            "bank": "NARPES SPARBANK",
+            "city": "NARPES",
+            "branch": null,
+            "swift_code": "NASKFI21"
+        },
+        {
+            "id": 263,
+            "bank": "NETPOSTI",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NETPFIH1"
+        },
+        {
+            "id": 264,
+            "bank": "NIINIJOEN OSUUSPANKKI",
+            "city": "NIINIJOKI",
+            "branch": null,
+            "swift_code": "NIOSFI21"
+        },
+        {
+            "id": 265,
+            "bank": "NIVALAN JARVIKYLAN OSUUSPANKKI",
+            "city": "NIVALA",
+            "branch": null,
+            "swift_code": "NIJOFI21"
+        },
+        {
+            "id": 266,
+            "bank": "NIVALAN OSUUSPANKKI",
+            "city": "NIVALA",
+            "branch": null,
+            "swift_code": "NIOUFI21"
+        },
+        {
+            "id": 267,
+            "bank": "NOKIA CORPORATION",
+            "city": "ESPOO",
+            "branch": null,
+            "swift_code": "NOOAFI21"
+        },
+        {
+            "id": 268,
+            "bank": "NOMURA INTERNATIONAL PLC, SUOMEN SIVULIIKE",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NISUFIH1"
+        },
+        {
+            "id": 269,
+            "bank": "NOOA SAASTOEPANKKI OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOASFIH1"
+        },
+        {
+            "id": 270,
+            "bank": "NORDEA AAA GOVERNMENT BOND FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NAGBFIH1"
+        },
+        {
+            "id": 271,
+            "bank": "NORDEA AKTIEFOND STABIL",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOKTFIH1"
+        },
+        {
+            "id": 272,
+            "bank": "NORDEA AKTIEFONDEN SVERIGE",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOKVFIH1"
+        },
+        {
+            "id": 273,
+            "bank": "NORDEA AKTIEFONDEN VAERDEN",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOKAFIH1"
+        },
+        {
+            "id": 274,
+            "bank": "NORDEA ALFA",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOLLFIH1"
+        },
+        {
+            "id": 275,
+            "bank": "NORDEA AVTALSPENSIONSFOND MIDI",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOVDFIH1"
+        },
+        {
+            "id": 276,
             "bank": "NORDEA BANK FINLAND PLC",
             "city": "HELSINKI",
             "branch": "(MARKETS CLIENTS)",
             "swift_code": "NDEAFIHHNFC"
         },
         {
-            "id": 28,
+            "id": 277,
             "bank": "NORDEA BANK FINLAND PLC",
             "city": "HELSINKI",
             "branch": "(MARKETS EQUITIES)",
             "swift_code": "NDEAFIHH030"
         },
         {
-            "id": 29,
+            "id": 278,
             "bank": "NORDEA BANK FINLAND PLC",
             "city": "HELSINKI",
             "branch": "(MARKETS HOUSE)",
             "swift_code": "NDEAFIHHNFH"
         },
         {
-            "id": 30,
+            "id": 279,
             "bank": "NORDEA BANK FINLAND PLC",
             "city": "HELSINKI",
             "branch": null,
             "swift_code": "NDEAFIHHISA"
         },
         {
-            "id": 31,
+            "id": 280,
             "bank": "NORDEA BANK FINLAND PLC",
             "city": "HELSINKI",
             "branch": null,
             "swift_code": "NDEAFIHHNCL"
         },
         {
-            "id": 32,
+            "id": 281,
             "bank": "NORDEA BANK FINLAND PLC",
             "city": "HELSINKI",
             "branch": null,
             "swift_code": "NDEAFIHHTRI"
         },
         {
-            "id": 33,
+            "id": 282,
+            "bank": "NORDEA CAPITAL PROTECTION 75",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOAOFIH1"
+        },
+        {
+            "id": 283,
+            "bank": "NORDEA CHINA FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOHFFIH1"
+        },
+        {
+            "id": 284,
+            "bank": "NORDEA CORPORATE BOND FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NCBFFIH1"
+        },
+        {
+            "id": 285,
+            "bank": "NORDEA CORPORATE BOND FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NCBFFIH1"
+        },
+        {
+            "id": 286,
+            "bank": "NORDEA DONATIONSMEDELSFOND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NODOFIH1"
+        },
+        {
+            "id": 287,
+            "bank": "NORDEA EASTERN EUROPE FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NEEFFIH1"
+        },
+        {
+            "id": 288,
+            "bank": "NORDEA EMERGING MARKET BOND FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NEMOFIH1"
+        },
+        {
+            "id": 289,
+            "bank": "NORDEA EMERGING MARKET EQUITIES FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NEMEFIH1"
+        },
+        {
+            "id": 290,
+            "bank": "NORDEA EQUITY PORTFOLIO",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOELFIH1"
+        },
+        {
+            "id": 291,
+            "bank": "NORDEA EUROPE FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOEUFIH1"
+        },
+        {
+            "id": 292,
+            "bank": "NORDEA EUROPEAN EQUITY MARKETS FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NEEMFIH1"
+        },
+        {
+            "id": 293,
+            "bank": "NORDEA EUROPEAN HIGH YIELD FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NEHYFIH1"
+        },
+        {
+            "id": 294,
+            "bank": "NORDEA EUROPEAN INDEX FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NEIFFIH1"
+        },
+        {
+            "id": 295,
+            "bank": "NORDEA EUROPEAN NEW FRONTIERS",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NENFFIH1"
+        },
+        {
+            "id": 296,
+            "bank": "NORDEA FAR EAST FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NFEFFIH1"
+        },
+        {
+            "id": 297,
+            "bank": "NORDEA FINLAND FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOFUFIH1"
+        },
+        {
+            "id": 298,
+            "bank": "NORDEA FINNISH 130\/30",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOFHFIH1"
+        },
+        {
+            "id": 299,
+            "bank": "NORDEA FINNISH SMALL CAP",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NFMCFIH1"
+        },
+        {
+            "id": 300,
+            "bank": "NORDEA FIXED INCOME PORTFOLIO PLUS",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NFIOFIH1"
+        },
+        {
+            "id": 301,
+            "bank": "NORDEA FOERETAGSOBLIGATIONSFOND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOFEFIH1"
+        },
+        {
+            "id": 302,
+            "bank": "NORDEA FORESTA FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOFFFIH1"
+        },
+        {
+            "id": 303,
+            "bank": "NORDEA GENERATIONSFOND 90-TAL",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NONTFIH1"
+        },
+        {
+            "id": 304,
+            "bank": "NORDEA GENERATIONSFOND SENIOR",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NONEFIH1"
+        },
+        {
+            "id": 305,
+            "bank": "NORDEA GLOBAL DIVIDEND FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NGDFFIH1"
+        },
+        {
+            "id": 306,
+            "bank": "NORDEA GLOBAL EMERGING MARKETS EQUITIES UCITS ETF",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NGEMFIH1"
+        },
+        {
+            "id": 307,
+            "bank": "NORDEA GLOBAL HIGH YIELD",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NGHYFIH1"
+        },
+        {
+            "id": 308,
+            "bank": "NORDEA GLOBAL INDEX FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NGIFFIH1"
+        },
+        {
+            "id": 309,
+            "bank": "NORDEA GLOBAL TECHNOLOGY FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NGTFFIH1"
+        },
+        {
+            "id": 310,
+            "bank": "NORDEA HENKIVAKUUTUS",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOHEFIH1"
+        },
+        {
+            "id": 311,
+            "bank": "NORDEA INDEXFOND SVERIGE",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NONSFIH1"
+        },
+        {
+            "id": 312,
+            "bank": "NORDEA INDIA FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOIFFIH1"
+        },
+        {
+            "id": 313,
+            "bank": "NORDEA INSTITUTIONELL AKTIEFOERVALTNING",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOIKFIH1"
+        },
+        {
+            "id": 314,
+            "bank": "NORDEA INVEST, EUROPEAN SMALLER FAVOURITES FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NIEMFIH1"
+        },
+        {
+            "id": 315,
+            "bank": "NORDEA INVESTMENT MANAGEMENT AB FINNISH BRANCH",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NIMFFIH1"
+        },
+        {
+            "id": 316,
+            "bank": "NORDEA JAPAN FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOJFFIH1"
+        },
+        {
+            "id": 317,
+            "bank": "NORDEA LATINAMERIKAFOND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOLTFIH1"
+        },
+        {
+            "id": 318,
+            "bank": "NORDEA LIFE ASSURANCE FINLAND LTD, AKTIVA AGGRESSIV",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NLSAFIH1"
+        },
+        {
+            "id": 319,
+            "bank": "NORDEA LIFE ASSURANCE FINLAND LTD, AKTIVA BALANS",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NLADFIH1"
+        },
+        {
+            "id": 320,
+            "bank": "NORDEA LIFE ASSURANCE FINLAND LTD, AKTIVA DEFENSIV",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NLSNFIH1"
+        },
+        {
+            "id": 321,
+            "bank": "NORDEA LIFE ASSURANCE FINLAND LTD, AKTIVA GLOBAL",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NLAGFIH1"
+        },
+        {
+            "id": 322,
+            "bank": "NORDEA LIFE ASSURANCE FINLAND LTD, AKTIVA OFFENSIV",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NLSLFIH1"
+        },
+        {
+            "id": 323,
+            "bank": "NORDEA LIFE ASSURANCE FINLAND LTD, ALTERNATIVES",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NLALFIH1"
+        },
+        {
+            "id": 324,
+            "bank": "NORDEA LIFE ASSURANCE FINLAND LTD, EQUITY NLP",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NLAFFIH1"
+        },
+        {
+            "id": 325,
+            "bank": "NORDEA LIFE ASSURANCE FINLAND LTD, ERKKI ETOLA",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NLSIFIH1"
+        },
+        {
+            "id": 326,
+            "bank": "NORDEA LIFE ASSURANCE FINLAND LTD, HEIKKI KYOSTILA",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NLAAFIH1"
+        },
+        {
+            "id": 327,
+            "bank": "NORDEA LIFE ASSURANCE FINLAND LTD, KAUPPA JA KONE",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NLANFIH1"
+        },
+        {
+            "id": 328,
+            "bank": "NORDEA LIFE ASSURANCE FINLAND LTD, NORDEA MAAILMA OSAKE",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NLSDFIH1"
+        },
+        {
+            "id": 329,
+            "bank": "NORDEA LIFE ASSURANCE FINLAND LTD, PRIVATE EQUITY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NLPQFIH1"
+        },
+        {
+            "id": 330,
+            "bank": "NORDEA LIFE ASSURANCE FINLAND LTD, REAL ESTATE",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NLSFFIH1"
+        },
+        {
+            "id": 331,
+            "bank": "NORDEA MEDICA FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOMFFIH1"
+        },
+        {
+            "id": 332,
+            "bank": "NORDEA NORDENFOND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NONOFIH1"
+        },
+        {
+            "id": 333,
+            "bank": "NORDEA NORDIC FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NONFFIH1"
+        },
+        {
+            "id": 334,
+            "bank": "NORDEA NORDIC SMALL CAP FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NNSCFIH1"
+        },
+        {
+            "id": 335,
+            "bank": "NORDEA NORSK KREDITTOBLIGASJON FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NNKFFIH1"
+        },
+        {
+            "id": 336,
+            "bank": "NORDEA NORTH AMERICA FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NNAFFIH1"
+        },
+        {
+            "id": 337,
+            "bank": "NORDEA OBLIGATIONSFOND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOOIFIH1"
+        },
+        {
+            "id": 338,
+            "bank": "NORDEA OLYMPIAFOND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOOLFIH1"
+        },
+        {
+            "id": 339,
+            "bank": "NORDEA PLAN KONSERVATIV PLACERINGSFORENING",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NPKPFIH1"
+        },
+        {
+            "id": 340,
+            "bank": "NORDEA PREMIUM ASSET MANAGEMENT BALANCED FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NPAAFIH1"
+        },
+        {
+            "id": 341,
+            "bank": "NORDEA PREMIUM ASSET MANAGEMENT CONSERVATIVE FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NPATFIH1"
+        },
+        {
+            "id": 342,
+            "bank": "NORDEA PREMIUM ASSET MANAGEMENT GROWTH FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NPAGFIH1"
+        },
+        {
+            "id": 343,
+            "bank": "NORDEA PREMIUM ASSET MANAGEMENT MODERATE FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NPANFIH1"
+        },
+        {
+            "id": 344,
+            "bank": "NORDEA PRIVATE BANKING EQUITY OPPORTUNITIES FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NPEOFIH1"
+        },
+        {
+            "id": 345,
+            "bank": "NORDEA PRIVATE BANKING FIXED INCOME",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NPFCFIH1"
+        },
+        {
+            "id": 346,
+            "bank": "NORDEA PRIVATE BANKING FOCUS FINLAND FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NPFIFIH1"
+        },
+        {
+            "id": 347,
+            "bank": "NORDEA PRIVATE BANKING FOCUS NORDIC FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NPFNFIH1"
+        },
+        {
+            "id": 348,
+            "bank": "NORDEA PRIVATE BANKING KORT OBLIGASJON FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NPKOFIH1"
+        },
+        {
+            "id": 349,
+            "bank": "NORDEA PRIVATE BANKING LIKVIDITET FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NPLFFIH1"
+        },
+        {
+            "id": 350,
+            "bank": "NORDEA PRIVATE BANKING NORSK AKSJE PORTEFOLJE",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NPNAFIH1"
+        },
+        {
+            "id": 351,
+            "bank": "NORDEA PRIVATE BANKING RAENTEPORTFOELIE",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOPRFIH1"
+        },
+        {
+            "id": 352,
+            "bank": "NORDEA PRO EUROPEAN FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NPEFFIH1"
+        },
+        {
+            "id": 353,
+            "bank": "NORDEA PRO FINLAND FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NPFFFIH1"
+        },
+        {
+            "id": 354,
+            "bank": "NORDEA PRO STABLE RETURN FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NPSRFIH1"
+        },
+        {
+            "id": 355,
+            "bank": "NORDEA RENTEFOND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NONDFIH1"
+        },
+        {
+            "id": 356,
+            "bank": "NORDEA RENTEFOND LAANGA PLACEMENT",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NRLPFIH1"
+        },
+        {
+            "id": 357,
+            "bank": "NORDEA RUSSIA FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NRFNFIH1"
+        },
+        {
+            "id": 358,
+            "bank": "NORDEA SAVINGS 10",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOVGFIH1"
+        },
+        {
+            "id": 359,
+            "bank": "NORDEA SAVINGS 25",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOAVFIH1"
+        },
+        {
+            "id": 360,
+            "bank": "NORDEA SAVINGS 25",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOIIFIH1"
+        },
+        {
+            "id": 361,
+            "bank": "NORDEA SAVINGS 75",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOVVFIH1"
+        },
+        {
+            "id": 362,
+            "bank": "NORDEA SAVINGS FIXED INCOME",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NSFNFIH1"
+        },
+        {
+            "id": 363,
+            "bank": "NORDEA SMAABOLAGSFOND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOSDFIH1"
+        },
+        {
+            "id": 364,
+            "bank": "NORDEA STABILE EQUITIES UCITS ETF",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NSEUFIH1"
+        },
+        {
+            "id": 365,
+            "bank": "NORDEA STABLE RETURN FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NSRFFIH1"
+        },
+        {
+            "id": 366,
+            "bank": "NORDEA STRATEGA 10",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOGGFIH1"
+        },
+        {
+            "id": 367,
+            "bank": "NORDEA STRATEGA FIXED INCOME",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NSFIFIH1"
+        },
+        {
+            "id": 368,
+            "bank": "NORDEA SWE INFLATION LINKED BOND FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NSILFIH1"
+        },
+        {
+            "id": 369,
+            "bank": "NORDEA SWE INSTITUTIONAL SHORT DURATION BOND FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NSISFIH1"
+        },
+        {
+            "id": 370,
+            "bank": "NORDEA SWEDISH EQUIDITY MARKET FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NSEMFIH1"
+        },
+        {
+            "id": 371,
+            "bank": "NORDEA SWEDISH IDEAS EQUITY FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NSIQFIH1"
+        },
+        {
+            "id": 372,
+            "bank": "NORDEA SWEDISH STARS",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOWSFIH1"
+        },
+        {
+            "id": 373,
+            "bank": "NORDEA US EQUIDITY MARKET FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NEMFFIH1"
+        },
+        {
+            "id": 374,
+            "bank": "NORDEA WORLD FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOWFFIH1"
+        },
+        {
+            "id": 375,
+            "bank": "NORDEA YIELD FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOYFFIH1"
+        },
+        {
+            "id": 376,
+            "bank": "NORDEAPRIVATE BANKING OBLIGASJON FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NPOFFIH1"
+        },
+        {
+            "id": 377,
             "bank": "NORDIC INVESTMENT BANK",
             "city": "HELSINKI",
             "branch": null,
             "swift_code": "NOINFIHH"
         },
         {
-            "id": 34,
+            "id": 378,
+            "bank": "NORDNET BANK AB SUOMEN SIVULIIKE",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOUSFIH1"
+        },
+        {
+            "id": 379,
+            "bank": "NORVESTIA OYJ",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NOOYFIH1"
+        },
+        {
+            "id": 380,
+            "bank": "NOUSIAISTEN OSUUSPANKKI",
+            "city": "NOUSIAINEN",
+            "branch": null,
+            "swift_code": "NOOSFI21"
+        },
+        {
+            "id": 381,
+            "bank": "OMA SAASTOPANKKI OY",
+            "city": "SEINAJOKI",
+            "branch": null,
+            "swift_code": "OMSAFI21"
+        },
+        {
+            "id": 382,
+            "bank": "OMX NORDIC EXCHANGE GROUP OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "XFOMFIH1"
+        },
+        {
+            "id": 383,
+            "bank": "ONVEST OY",
+            "city": "VANTAA",
+            "branch": null,
+            "swift_code": "ONVEFI21"
+        },
+        {
+            "id": 384,
+            "bank": "OP PENSION FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "PEFNFIH1"
+        },
+        {
+            "id": 385,
+            "bank": "OP-POHJOLA GROUP (SECURITIES TRANSACTION REPORTINGOP BRANCHES)",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "POHGFIH1"
+        },
+        {
+            "id": 386,
             "bank": "OPUSCAPITA GROUP OY",
             "city": "ESPOO",
             "branch": null,
             "swift_code": "OPUSFI2H"
         },
         {
-            "id": 35,
+            "id": 387,
+            "bank": "ORIMATTILAN OSUUSPANKKI",
+            "city": "ORIMATTILA",
+            "branch": null,
+            "swift_code": "OROSFI21"
+        },
+        {
+            "id": 388,
+            "bank": "ORIPAAN OSUUSPANKKI",
+            "city": "ORIPAA",
+            "branch": null,
+            "swift_code": "OROPFI21"
+        },
+        {
+            "id": 389,
+            "bank": "ORIVEDEN SEUDUN OSUUSPANKKI",
+            "city": "ORIVESI",
+            "branch": null,
+            "swift_code": "ORSOFI21"
+        },
+        {
+            "id": 390,
+            "bank": "OSTNYLANDS ANDELSBANK",
+            "city": "BORGA",
+            "branch": null,
+            "swift_code": "OSANFI21"
+        },
+        {
+            "id": 391,
+            "bank": "OSTRA KORSHOLMS ANDELSBANK",
+            "city": "VEIKARS",
+            "branch": null,
+            "swift_code": "OSKNFI21"
+        },
+        {
+            "id": 392,
+            "bank": "OSUUSPANKKI KANTRISALO",
+            "city": "INKERE",
+            "branch": null,
+            "swift_code": "OSKAFI21"
+        },
+        {
+            "id": 393,
+            "bank": "OULAISTEN OSUUSPANKKI",
+            "city": "OULAINEN",
+            "branch": null,
+            "swift_code": "OUOSFI21"
+        },
+        {
+            "id": 394,
+            "bank": "OULUN OSUUSPANKKI",
+            "city": "OULU",
+            "branch": null,
+            "swift_code": "OUOPFI21"
+        },
+        {
+            "id": 395,
+            "bank": "OUTOKUMMUN OSUUSPANKKI",
+            "city": "OUTOKUMPU",
+            "branch": null,
+            "swift_code": "OUOUFI21"
+        },
+        {
+            "id": 396,
             "bank": "OUTOTEC OYJ",
             "city": "ESPOO",
             "branch": null,
             "swift_code": "OUTCFI22"
         },
         {
-            "id": 36,
+            "id": 397,
+            "bank": "OVERMARK ANDELSBANK",
+            "city": "OVERMARK",
+            "branch": null,
+            "swift_code": "OVANFI21"
+        },
+        {
+            "id": 398,
+            "bank": "OY AHOLA MALINIEMI PARTNERS AB",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "AHMPFIH1"
+        },
+        {
+            "id": 399,
+            "bank": "OY SAMLINK AB",
+            "city": "ESPOO",
+            "branch": null,
+            "swift_code": "SALKFI21"
+        },
+        {
+            "id": 400,
+            "bank": "PAATTISTEN OSUUSPANKKI",
+            "city": "PAATTINEN",
+            "branch": null,
+            "swift_code": "PAOPFI21"
+        },
+        {
+            "id": 401,
+            "bank": "PAIJAT-HAMEEN OSUUSPANKKI",
+            "city": "LAHTI",
+            "branch": null,
+            "swift_code": "PAOUFI21"
+        },
+        {
+            "id": 402,
+            "bank": "PALTAMON OSUUSPANKKI",
+            "city": "PALTAMO",
+            "branch": null,
+            "swift_code": "PAOAFI21"
+        },
+        {
+            "id": 403,
+            "bank": "PARETO SECURITIES OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "OJFFFIH1"
+        },
+        {
+            "id": 404,
+            "bank": "PARIKKALAN OSUUSPANKKI",
+            "city": "PARIKKALA",
+            "branch": null,
+            "swift_code": "PAOKFI21"
+        },
+        {
+            "id": 405,
+            "bank": "PARKANON OSUUSPANKKI",
+            "city": "PARKANO",
+            "branch": null,
+            "swift_code": "PAOIFI21"
+        },
+        {
+            "id": 406,
+            "bank": "PARKANON SAASTOPANKKI",
+            "city": "PARKANO",
+            "branch": null,
+            "swift_code": "PAAKFI21"
+        },
+        {
+            "id": 407,
+            "bank": "PEDERSORENEJDENS ANDELSBANK",
+            "city": "JAKOBSTAD",
+            "branch": null,
+            "swift_code": "PEAEFI21"
+        },
+        {
+            "id": 408,
+            "bank": "PENSION FENNIA",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "PEFEFI21"
+        },
+        {
+            "id": 409,
+            "bank": "PERASEINAJOEN OSUUSPANKKI",
+            "city": "PERASEINAJOKI",
+            "branch": null,
+            "swift_code": "PEOUFI21"
+        },
+        {
+            "id": 410,
+            "bank": "PERHON OSUUSPANKKI",
+            "city": "PERHO",
+            "branch": null,
+            "swift_code": "PEOPFI21"
+        },
+        {
+            "id": 411,
+            "bank": "PERHON OSUUSPANKKI",
+            "city": "PERHO",
+            "branch": null,
+            "swift_code": "PEOPFI21"
+        },
+        {
+            "id": 412,
+            "bank": "PIELAVEDEN OSUUSPANKKI",
+            "city": "PIELAVESI",
+            "branch": null,
+            "swift_code": "PIOUFI21"
+        },
+        {
+            "id": 413,
+            "bank": "PIELISEN OSUUSPANKKI",
+            "city": "LIEKSA",
+            "branch": null,
+            "swift_code": "PIOSFI21"
+        },
+        {
+            "id": 414,
+            "bank": "PIHTIPUTAAN OSUUSPANKKI",
+            "city": "PIHTIPUDAS",
+            "branch": null,
+            "swift_code": "PIOAFI21"
+        },
+        {
+            "id": 415,
+            "bank": "PIIKKION OSUUSPANKKI",
+            "city": "PIIKKIO",
+            "branch": null,
+            "swift_code": "PIIKFI21"
+        },
+        {
+            "id": 416,
+            "bank": "POHJANMAAN OSUUSPANKKI",
+            "city": "KAUHAVA",
+            "branch": null,
+            "swift_code": "KAOUFI21"
+        },
+        {
+            "id": 417,
+            "bank": "POHJOIS-SAVON OSUUSPANKKI",
+            "city": "KUOPIO",
+            "branch": null,
+            "swift_code": "POOSFI21"
+        },
+        {
+            "id": 418,
+            "bank": "POHJOLA ASSET MANAGEMENT LIMITED",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "POAEFIH1"
+        },
+        {
+            "id": 419,
             "bank": "POHJOLA PANKKI OYJ (POHJOLA BANK PLC)",
             "city": "HELSINKI",
             "branch": null,
             "swift_code": "OKOYFIHH"
         },
         {
-            "id": 37,
+            "id": 420,
+            "bank": "POHJOLA PANKKI OYJ (POHJOLA BANK PLC) (MARKETS\/CLEARING AND SETTLEMENT)",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "OPSEFIH1"
+        },
+        {
+            "id": 421,
+            "bank": "POHJOLAN OSUUSPANKKI",
+            "city": "ROVANIEMI",
+            "branch": null,
+            "swift_code": "POOAFI21"
+        },
+        {
+            "id": 422,
+            "bank": "POLVIJARVEN OSUUSPANKKI",
+            "city": "POLVIJARVI",
+            "branch": null,
+            "swift_code": "POOUFI21"
+        },
+        {
+            "id": 423,
+            "bank": "PORVOON OSUUSPANKKI",
+            "city": "PORVOO",
+            "branch": null,
+            "swift_code": "POOPFI21"
+        },
+        {
+            "id": 424,
+            "bank": "POSION OSUUSPANKKI",
+            "city": "POSIO",
+            "branch": null,
+            "swift_code": "POONFI21"
+        },
+        {
+            "id": 425,
+            "bank": "POYTYAN OSUUSPANKKI",
+            "city": "RIIHIKOSKI",
+            "branch": null,
+            "swift_code": "POOKFI21"
+        },
+        {
+            "id": 426,
+            "bank": "PP-LASKENTA",
+            "city": "ESPOO",
+            "branch": null,
+            "swift_code": "PPLAFI21"
+        },
+        {
+            "id": 427,
+            "bank": "PRIVANET CAPITAL MARKETS OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NAGPFI21"
+        },
+        {
+            "id": 428,
+            "bank": "PRIVANET CAPITAL MARKETS OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "NAGPFIH1"
+        },
+        {
+            "id": 429,
+            "bank": "PRIVANET SECURITIES LTD",
+            "city": "TURKU",
+            "branch": null,
+            "swift_code": "PSEUFI21"
+        },
+        {
+            "id": 430,
+            "bank": "PUDASJARVEN OSUUSPANKKI",
+            "city": "PUDASJARVI",
+            "branch": null,
+            "swift_code": "PUOSFI21"
+        },
+        {
+            "id": 431,
+            "bank": "PUKKILAN OSUUSPANKKI",
+            "city": "PUKKILA",
+            "branch": null,
+            "swift_code": "PUOUFI21"
+        },
+        {
+            "id": 432,
+            "bank": "PULKKILAN OSUUSPANKKI",
+            "city": "PULKKILA",
+            "branch": null,
+            "swift_code": "PUOPFI21"
+        },
+        {
+            "id": 433,
+            "bank": "PUNKALAITUMEN OSUUSPANKKI",
+            "city": "PUNKALAIDUN",
+            "branch": null,
+            "swift_code": "PUONFI21"
+        },
+        {
+            "id": 434,
+            "bank": "PUOLANGAN OSUUSPANKKI",
+            "city": "PUOLANKA",
+            "branch": null,
+            "swift_code": "PUOKFI21"
+        },
+        {
+            "id": 435,
+            "bank": "PURMO ANDELSBANK",
+            "city": "LILLBY",
+            "branch": null,
+            "swift_code": "PUANFI21"
+        },
+        {
+            "id": 436,
+            "bank": "PYHAJARVEN OSUUSPANKKI",
+            "city": "PYHASALMI",
+            "branch": null,
+            "swift_code": "PYOUFI21"
+        },
+        {
+            "id": 437,
+            "bank": "PYHALAAKSON OSUUSPANKKI",
+            "city": "HAAPAVESI",
+            "branch": null,
+            "swift_code": "PYOSFI21"
+        },
+        {
+            "id": 438,
+            "bank": "PYHARANNAN SAASTOPANKKI",
+            "city": "PYHARANTA",
+            "branch": null,
+            "swift_code": "PYSAFI21"
+        },
+        {
+            "id": 439,
+            "bank": "PYHASELAN PAIKALLISOSUUSPANKKI",
+            "city": "HAMMASLAHTI",
+            "branch": null,
+            "swift_code": "PYPAFI21"
+        },
+        {
+            "id": 440,
+            "bank": "QUORUM FUND MANAGEMENT COMPANY LTD",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "QFMCFIH1"
+        },
+        {
+            "id": 441,
+            "bank": "RAAHEN SEUDUN OSUUSPANKKI",
+            "city": "RAAHE",
+            "branch": null,
+            "swift_code": "RASUFI21"
+        },
+        {
+            "id": 442,
+            "bank": "RAAKKYLAN OSUUSPANKKI",
+            "city": "RAAKKYLA",
+            "branch": null,
+            "swift_code": "RAOSFI21"
+        },
+        {
+            "id": 443,
             "bank": "RAMIRENT PLC",
             "city": "VANTAA",
             "branch": null,
             "swift_code": "RMRTFI22"
         },
         {
-            "id": 38,
+            "id": 444,
+            "bank": "RANTASALMEN OSUUSPANKKI",
+            "city": "RANTASALMI",
+            "branch": null,
+            "swift_code": "RAOUFI21"
+        },
+        {
+            "id": 445,
             "bank": "RAPALA VMC OYJ",
             "city": "HELSINKI",
             "branch": null,
             "swift_code": "RVMOFIHH"
         },
         {
-            "id": 39,
+            "id": 446,
+            "bank": "RAUTALAMMIN OSUUSPANKKI",
+            "city": "RAUTALAMPI",
+            "branch": null,
+            "swift_code": "RAOKFI21"
+        },
+        {
+            "id": 447,
+            "bank": "REISJARVEN OSUUSPANKKI",
+            "city": "REISJARVI",
+            "branch": null,
+            "swift_code": "REOSFI21"
+        },
+        {
+            "id": 448,
+            "bank": "RESURS BANK AB SUOMEN SIVULIIKE",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "RESKFIH1"
+        },
+        {
+            "id": 449,
+            "bank": "RIIHIMAEN SEUDUN OSUUSPANKKI",
+            "city": "RIIHIMAKI",
+            "branch": null,
+            "swift_code": "RISOFI21"
+        },
+        {
+            "id": 450,
+            "bank": "RIISTAVEDEN OSUUSPANKKI",
+            "city": "RIISTAVESI",
+            "branch": null,
+            "swift_code": "RIOSFI21"
+        },
+        {
+            "id": 451,
+            "bank": "RUOVEDEN OSUUSPANKKI",
+            "city": "RUOVESI",
+            "branch": null,
+            "swift_code": "RUOSFI21"
+        },
+        {
+            "id": 452,
+            "bank": "RUUKIN OSUUSPANKKI",
+            "city": "RUUKKI",
+            "branch": null,
+            "swift_code": "RUOUFI21"
+        },
+        {
+            "id": 453,
+            "bank": "RVM INVESTIUM OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "RVINFIH1"
+        },
+        {
+            "id": 454,
+            "bank": "RYMATTYLAN OSUUSPANKKI",
+            "city": "RYMATTYLA",
+            "branch": null,
+            "swift_code": "RYOUFI21"
+        },
+        {
+            "id": 455,
+            "bank": "SAASTOPANKKI OPTIA",
+            "city": "IISALMI",
+            "branch": null,
+            "swift_code": "SAOTFI21"
+        },
+        {
+            "id": 456,
+            "bank": "SAKYLAN OSUUSPANKKI",
+            "city": "SAKYLA",
+            "branch": null,
+            "swift_code": "SAOSFI21"
+        },
+        {
+            "id": 457,
+            "bank": "SALLAN OSUUSPANKKI",
+            "city": "SALLA",
+            "branch": null,
+            "swift_code": "SAOUFI21"
+        },
+        {
+            "id": 458,
+            "bank": "SALON OSUUSPANKKI",
+            "city": "SALO",
+            "branch": null,
+            "swift_code": "SAOKFI21"
+        },
+        {
+            "id": 459,
+            "bank": "SAMPO PLC",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "SAHOFIH1"
+        },
+        {
+            "id": 460,
+            "bank": "SAMPO PLC",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "SAHOFIH1KVA"
+        },
+        {
+            "id": 461,
+            "bank": "SAMPO PLC",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "SAHOFIH1MLI"
+        },
+        {
+            "id": 462,
+            "bank": "SAMPO PLC",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "SAHOFIH1MNS"
+        },
+        {
+            "id": 463,
+            "bank": "SAMPO PLC",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "SAHOFIH1SAM"
+        },
+        {
+            "id": 464,
             "bank": "SANOMAWSOY CORPORATION",
             "city": "HELSINKI",
             "branch": null,
             "swift_code": "SAWSFIHH"
         },
         {
-            "id": 40,
+            "id": 465,
+            "bank": "SAUVON OSUUSPANKKI",
+            "city": "SAUVO",
+            "branch": null,
+            "swift_code": "SAOIFI21"
+        },
+        {
+            "id": 466,
+            "bank": "SAVITAIPALEEN OSUUSPANKKI",
+            "city": "SAVITAIPALE",
+            "branch": null,
+            "swift_code": "SAUPFI21"
+        },
+        {
+            "id": 467,
             "bank": "S-BANK LTD",
             "city": "HELSINKI",
             "branch": null,
             "swift_code": "SBANFIHH"
         },
         {
-            "id": 41,
+            "id": 468,
+            "bank": "SCANIA FINANS AB, FINNISH BRANCH",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "SFFNFIH1"
+        },
+        {
+            "id": 469,
+            "bank": "SEB FUND MANAGEMENT COMPANY FINLAND LTD.",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "SEGOFIH1"
+        },
+        {
+            "id": 470,
+            "bank": "SEB KORT BANK AB, HELSINGIN SIVULIIKE",
+            "city": "HELSINGFORS",
+            "branch": null,
+            "swift_code": "SKHSFI21"
+        },
+        {
+            "id": 471,
+            "bank": "SEB WEALTH MANAGEMENT FINLAND LTD.(FORMER SEB GYLLENBERG ASSET MANAGEMENT LTD.)",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "GYAMFIH1"
+        },
+        {
+            "id": 472,
+            "bank": "SELIGSON AND CO OYJ",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "SEOYFIH1"
+        },
+        {
+            "id": 473,
+            "bank": "SIDEBY ANDELSBANK",
+            "city": "SIDEBY",
+            "branch": null,
+            "swift_code": "SIAKFI21"
+        },
+        {
+            "id": 474,
+            "bank": "SIEVIN OSUUSPANKKI",
+            "city": "SIEVI",
+            "branch": null,
+            "swift_code": "SIOUFI21"
+        },
+        {
+            "id": 475,
+            "bank": "SIIKAJOEN OSUUSPANKKI",
+            "city": "SIIKAJOKI",
+            "branch": null,
+            "swift_code": "SIOKFI21"
+        },
+        {
+            "id": 476,
+            "bank": "SIIKALATVAN OSUUSPANKKI",
+            "city": "RANTSILA",
+            "branch": null,
+            "swift_code": "SIONFI21"
+        },
+        {
+            "id": 477,
+            "bank": "SIILINJARVEN OSUUSPANKKI",
+            "city": "SIILINJARVI",
+            "branch": null,
+            "swift_code": "SIOSFI21"
+        },
+        {
+            "id": 478,
+            "bank": "SIMPELEEN OSUUSPANKKI",
+            "city": "SIMPELE",
+            "branch": null,
+            "swift_code": "SIOIFI21"
+        },
+        {
+            "id": 479,
             "bank": "SKANDINAVISKA ENSKILDA BANKEN",
             "city": "HELSINKI",
             "branch": null,
             "swift_code": "ESSEFIHX"
         },
         {
-            "id": 42,
+            "id": 480,
+            "bank": "SKANDINAVISKA ENSKILDA BANKEN AB (PUBL) HELSINKI BRANCH",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "ENSSFIH1"
+        },
+        {
+            "id": 481,
+            "bank": "SKARGARDSSPARBANKEN AB",
+            "city": "HOUTSKAR",
+            "branch": null,
+            "swift_code": "SKASFI21"
+        },
+        {
+            "id": 482,
+            "bank": "SOFI PANKKIIRILIIKE SOFI SECURITIES INC",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "SOPAFIH1"
+        },
+        {
+            "id": 483,
+            "bank": "SOLIDUS OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "SODUFIH1"
+        },
+        {
+            "id": 484,
+            "bank": "SOMERNIEMEN OSUUSPANKKI",
+            "city": "SOMERNIEMI",
+            "branch": null,
+            "swift_code": "SOOSFI21"
+        },
+        {
+            "id": 485,
+            "bank": "SOMERON OSUUSPANKKI",
+            "city": "SOMERO",
+            "branch": null,
+            "swift_code": "SOOUFI21"
+        },
+        {
+            "id": 486,
+            "bank": "SOMERON SAASTOPANKKI",
+            "city": "SOMERO",
+            "branch": null,
+            "swift_code": "SOAOFI21"
+        },
+        {
+            "id": 487,
+            "bank": "SONKAJARVEN OSUUSPANKKI",
+            "city": "SONKAJARVI",
+            "branch": null,
+            "swift_code": "SOOPFI21"
+        },
+        {
+            "id": 488,
+            "bank": "SOTKAMON OSUUSPANKKI",
+            "city": "SOTKAMO",
+            "branch": null,
+            "swift_code": "SOOAFI21"
+        },
+        {
+            "id": 489,
+            "bank": "SP KAPITAALI OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "KAPLFIH1"
+        },
+        {
+            "id": 490,
+            "bank": "SPECIALFONDEN PAPPERS",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "SEEPFIH1"
+        },
+        {
+            "id": 491,
+            "bank": "SP-RAHASTOYHTIO OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "SPHTFIH1"
+        },
+        {
+            "id": 492,
+            "bank": "STADSHYPOTEK AB (JULK), SUOMEN SIVUKONTTORITOIMINTA",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "SJSIFIH1"
+        },
+        {
+            "id": 493,
             "bank": "STATE TREASURY",
             "city": "HELSINKI",
             "branch": null,
             "swift_code": "VKSKFIHH"
         },
         {
-            "id": 43,
+            "id": 494,
+            "bank": "SULKAVAN OSUUSPANKKI",
+            "city": "SULKAVA",
+            "branch": null,
+            "swift_code": "SUOUFI21"
+        },
+        {
+            "id": 495,
+            "bank": "SUODENNIEMEN SAASTOPANKKI",
+            "city": "SASTAMALA",
+            "branch": null,
+            "swift_code": "SUSOFI21"
+        },
+        {
+            "id": 496,
+            "bank": "SUOMEN HYPOTEEKKIYHDISTYS (MORTGAGE SOCIETY OF FINLAND)",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "SHMSFIH1"
+        },
+        {
+            "id": 497,
             "bank": "SUOMEN PANKKI - FINLANDS BANK",
             "city": "HELSINKI",
             "branch": "(COLLATERAL MANAGEMENT)",
             "swift_code": "SPFBFIHHCMS"
         },
         {
-            "id": 44,
+            "id": 498,
             "bank": "SUOMEN PANKKI - FINLANDS BANK",
             "city": "HELSINKI",
             "branch": "(ECB OPERATIONS)",
             "swift_code": "SPFBFIHHECB"
         },
         {
-            "id": 45,
+            "id": 499,
             "bank": "SUOMEN PANKKI - FINLANDS BANK",
             "city": "HELSINKI",
             "branch": "(TARGET2 NCB\/ECB INTERNAL)",
             "swift_code": "SPFBFIHHEUX"
         },
         {
-            "id": 46,
+            "id": 500,
             "bank": "SUOMEN PANKKI - FINLANDS BANK",
             "city": "HELSINKI",
             "branch": "(TARGET2 PMJ-AS DTS)",
             "swift_code": "SPFBFIHH1A1"
         },
         {
-            "id": 47,
+            "id": 501,
             "bank": "SUOMEN PANKKI - FINLANDS BANK",
             "city": "HELSINKI",
             "branch": "(TARGET2 PMJ-AS NTS)",
             "swift_code": "SPFBFIHHASI"
         },
         {
-            "id": 48,
+            "id": 502,
             "bank": "SUOMEN PANKKI - FINLANDS BANK",
             "city": "HELSINKI",
             "branch": "(TARGET2 RAHAHUOLTO)",
             "swift_code": "SPFBFIHH1A2"
         },
         {
-            "id": 49,
+            "id": 503,
             "bank": "SUOMEN PANKKI - FINLANDS BANK",
             "city": "HELSINKI",
             "branch": "(TARGET2 RMA INTERNAL)",
             "swift_code": "SPFBFIHHRMA"
         },
         {
-            "id": 50,
+            "id": 504,
             "bank": "SUOMEN PANKKI - FINLANDS BANK",
             "city": "HELSINKI",
             "branch": "(TARGET2 SFA INTERNAL)",
             "swift_code": "SPFBFIHHSFA"
         },
         {
-            "id": 51,
+            "id": 505,
             "bank": "SUOMEN PANKKI - FINLANDS BANK",
             "city": "HELSINKI",
             "branch": "(TARGET2 SFM INTERNAL)",
             "swift_code": "SPFBFIHHSFM"
         },
         {
-            "id": 52,
+            "id": 506,
             "bank": "SUOMEN PANKKI - FINLANDS BANK",
             "city": "HELSINKI",
             "branch": null,
             "swift_code": "SPFBFIHH"
         },
         {
-            "id": 53,
+            "id": 507,
             "bank": "SUOMEN PANKKI - FINLANDS BANK",
             "city": "HELSINKI",
             "branch": null,
             "swift_code": "SPFBFIHHCON"
         },
         {
-            "id": 54,
+            "id": 508,
+            "bank": "SUOMEN PANKKIIRILIIKE OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "SUPNFIH1"
+        },
+        {
+            "id": 509,
+            "bank": "SUOMENNIEMEN SAASTOPANKKI",
+            "city": "SUOMENNIEMI",
+            "branch": null,
+            "swift_code": "SUSSFI21"
+        },
+        {
+            "id": 510,
+            "bank": "SUOMUSSALMEN OSUUSPANKKI",
+            "city": "SUOMUSSALMI",
+            "branch": null,
+            "swift_code": "SUOPFI21"
+        },
+        {
+            "id": 511,
+            "bank": "SUONENJOEN OSUUSPANKKI",
+            "city": "SUONENJOKI",
+            "branch": null,
+            "swift_code": "SUOAFI21"
+        },
+        {
+            "id": 512,
+            "bank": "SUUPOHJAN OSUUSPANKKI",
+            "city": "KAUHAJOKI",
+            "branch": null,
+            "swift_code": "SUOSFI21"
+        },
+        {
+            "id": 513,
+            "bank": "SUUR-SAVON OSUUSPANKKI",
+            "city": "MIKKELI",
+            "branch": null,
+            "swift_code": "SUONFI21"
+        },
+        {
+            "id": 514,
+            "bank": "SVEA EKONOMI AB, FILIAL I FINLAND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "SEIDFIH1"
+        },
+        {
+            "id": 515,
             "bank": "SVENSKA HANDELSBANKEN",
             "city": "HELSINKI",
             "branch": "(NORDIC CUSTODY SERVICES)",
             "swift_code": "HANDFIHHCUS"
         },
         {
-            "id": 55,
+            "id": 516,
             "bank": "SVENSKA HANDELSBANKEN",
             "city": "HELSINKI",
             "branch": null,
             "swift_code": "HANDFIHH"
         },
         {
-            "id": 56,
+            "id": 517,
             "bank": "SWEDBANK AB",
             "city": "HELSINKI",
             "branch": null,
             "swift_code": "SWEDFIHH"
         },
         {
-            "id": 57,
+            "id": 518,
+            "bank": "SYSMAN OSUUSPANKKI",
+            "city": "SYSMA",
+            "branch": null,
+            "swift_code": "SYOSFI21"
+        },
+        {
+            "id": 519,
+            "bank": "SYSMAN SAASTOPANKKI",
+            "city": "SYSMA",
+            "branch": null,
+            "swift_code": "SYSAFI21"
+        },
+        {
+            "id": 520,
+            "bank": "TAALERITEHDAS OY",
+            "city": "ESPOO",
+            "branch": null,
+            "swift_code": "TAALFI21"
+        },
+        {
+            "id": 521,
+            "bank": "TAIVALKOSKEN OSUUSPANKKI",
+            "city": "TAIVALKOSKI",
+            "branch": null,
+            "swift_code": "TAOAFI21"
+        },
+        {
+            "id": 522,
+            "bank": "TAIVASSALON OSUUSPANKKI",
+            "city": "TAIVASSALO",
+            "branch": null,
+            "swift_code": "TAOUFI21"
+        },
+        {
+            "id": 523,
+            "bank": "TAMPEREEN SEUDUN OSUUSPANKKI",
+            "city": "TAMPERE",
+            "branch": null,
+            "swift_code": "TAEOFI21"
+        },
+        {
+            "id": 524,
+            "bank": "TAPIOLA ASSET MANAGEMENT LTD",
+            "city": "TAPIOLA",
+            "branch": null,
+            "swift_code": "TAPLFI21"
+        },
+        {
+            "id": 525,
+            "bank": "TARVASJOEN OSUUSPANKKI",
+            "city": "TARVASJOKI",
+            "branch": null,
+            "swift_code": "TAOPFI21"
+        },
+        {
+            "id": 526,
+            "bank": "TELIASONERA FINANS FINLAND, FILIAL TILL TELIASONERA FINANS AB",
+            "city": "HELSINGFORS",
+            "branch": null,
+            "swift_code": "TFFFFI21"
+        },
+        {
+            "id": 527,
+            "bank": "TERVOLAN OSUUSPANKKI",
+            "city": "TERVOLA",
+            "branch": null,
+            "swift_code": "TEOUFI21"
+        },
+        {
+            "id": 528,
+            "bank": "TERVON OSUUSPANKKI",
+            "city": "TERVO",
+            "branch": null,
+            "swift_code": "TEOSFI21"
+        },
+        {
+            "id": 529,
+            "bank": "TF BANK AB, FILIAL FINLAND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "FIFDFIH1"
+        },
+        {
+            "id": 530,
+            "bank": "THE ROYAL BANK OF SCOTLAND PLC, FILIAL I FINLAND",
+            "city": "HELSINGFORS",
+            "branch": null,
+            "swift_code": "RBOSFIH1"
+        },
+        {
+            "id": 531,
+            "bank": "THE STATE PENSION FUND",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "STPDFI21"
+        },
+        {
+            "id": 532,
+            "bank": "TIISTENJOEN OSUUSPANKKI",
+            "city": "TIISTENJOKI",
+            "branch": null,
+            "swift_code": "TIOSFI21"
+        },
+        {
+            "id": 533,
+            "bank": "TIISTENJOEN OSUUSPANKKI",
+            "city": "TIISTENJOKI",
+            "branch": null,
+            "swift_code": "TIOSFI21"
+        },
+        {
+            "id": 534,
+            "bank": "TITANIUM RAHASTOYHTIO OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "TIRHFIH1"
+        },
+        {
+            "id": 535,
+            "bank": "TOHOLAMMIN OSUUSPANKKI",
+            "city": "TOHOLAMPI",
+            "branch": null,
+            "swift_code": "TOOSFI21"
+        },
+        {
+            "id": 536,
+            "bank": "TORNION OSUUSPANKKI",
+            "city": "TORNIO",
+            "branch": null,
+            "swift_code": "TOOPFI21"
+        },
+        {
+            "id": 537,
+            "bank": "TURUN SEUDUN OSUUSPANKKI",
+            "city": "TURKU",
+            "branch": null,
+            "swift_code": "TUSUFI21"
+        },
+        {
+            "id": 538,
+            "bank": "TUULOKSEN SAASTOPANKKI",
+            "city": "HAMEENLINNA",
+            "branch": null,
+            "swift_code": "TUSAFI21"
+        },
+        {
+            "id": 539,
+            "bank": "TUUPOVAARAN OSUUSPANKKI",
+            "city": "TUUPOVAARA",
+            "branch": null,
+            "swift_code": "TUOUFI21"
+        },
+        {
+            "id": 540,
+            "bank": "TUUSNIEMEN OSUUSPANKKI",
+            "city": "TUUSNIEMI",
+            "branch": null,
+            "swift_code": "TUOSFI21"
+        },
+        {
+            "id": 541,
+            "bank": "TYRNAVAN OSUUSPANKKI",
+            "city": "TYRNAVA",
+            "branch": null,
+            "swift_code": "TYOSFI21"
+        },
+        {
+            "id": 542,
+            "bank": "UB RAHASTOYHTIO OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "RAHTFIH1"
+        },
+        {
+            "id": 543,
+            "bank": "UB SECURITIES OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "UNBRFIH1"
+        },
+        {
+            "id": 544,
+            "bank": "ULLAVAN OSUUSPANKKI",
+            "city": "ULLAVA",
+            "branch": null,
+            "swift_code": "ULOSFI21"
+        },
+        {
+            "id": 545,
+            "bank": "UNITED BANKERS OMAISUUDENHOITO OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "UNOMFIH1"
+        },
+        {
+            "id": 546,
             "bank": "UPM-KYMMENE CORPORATION",
             "city": "HELSINKI",
             "branch": null,
             "swift_code": "UPMKFIHH"
         },
         {
-            "id": 58,
+            "id": 547,
+            "bank": "URJALAN OSUUSPANKKI",
+            "city": "URJALA",
+            "branch": null,
+            "swift_code": "UROSFI21"
+        },
+        {
+            "id": 548,
+            "bank": "UTAJARVEN OSUUSPANKKI",
+            "city": "UTAJARVI",
+            "branch": null,
+            "swift_code": "UTOSFI21"
+        },
+        {
+            "id": 549,
+            "bank": "UUKUNIEMEN OSUUSPANKKI",
+            "city": "UUKUNIEMI",
+            "branch": null,
+            "swift_code": "UUOSFI21"
+        },
+        {
+            "id": 550,
+            "bank": "VAASAN OSUUSPANKKI",
+            "city": "VAASA",
+            "branch": null,
+            "swift_code": "VAOPFI21"
+        },
+        {
+            "id": 551,
+            "bank": "VAKKA-SUOMEN OSUUSPANKKI",
+            "city": "UUSIKAUPUNKI",
+            "branch": null,
+            "swift_code": "VAOUFI21"
+        },
+        {
+            "id": 552,
+            "bank": "VALKEAKOSKEN OSUUSPANKKI",
+            "city": "VALKEAKOSKI",
+            "branch": null,
+            "swift_code": "VAOAFI21"
+        },
+        {
+            "id": 553,
             "bank": "VALMET CORPORATION",
             "city": "ESPOO",
             "branch": null,
             "swift_code": "VLMTFIHH"
+        },
+        {
+            "id": 554,
+            "bank": "VAMMALAN SEUDUN OSUUSPANKKI",
+            "city": "SASTAMALA",
+            "branch": null,
+            "swift_code": "VASOFI21"
+        },
+        {
+            "id": 555,
+            "bank": "VAMMALAN SEUDUN OSUUSPANKKI",
+            "city": "SASTAMALA",
+            "branch": null,
+            "swift_code": "VASOFI21"
+        },
+        {
+            "id": 556,
+            "bank": "VAMPULAN OSUUSPANKKI",
+            "city": "VAMPULA",
+            "branch": null,
+            "swift_code": "VAONFI21"
+        },
+        {
+            "id": 557,
+            "bank": "VARAINHALLINTA TRESOR OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "VATSFIH1"
+        },
+        {
+            "id": 558,
+            "bank": "VARPAISJARVEN OSUUSPANKKI",
+            "city": "VARPAISJARVI",
+            "branch": null,
+            "swift_code": "VAOKFI21"
+        },
+        {
+            "id": 559,
+            "bank": "VASKION OSUUSPANKKI",
+            "city": "VASKIO",
+            "branch": null,
+            "swift_code": "VAOSFI21"
+        },
+        {
+            "id": 560,
+            "bank": "VEHMERSALMEN OSUUSPANKKI",
+            "city": "VEHMERSALMI",
+            "branch": null,
+            "swift_code": "VEOSFI21"
+        },
+        {
+            "id": 561,
+            "bank": "VERITAS PENSION FUND",
+            "city": "TURKU",
+            "branch": null,
+            "swift_code": "VEPFFI21"
+        },
+        {
+            "id": 562,
+            "bank": "VESANNON OSUUSPANKKI",
+            "city": "VESANTO",
+            "branch": null,
+            "swift_code": "VEOUFI21"
+        },
+        {
+            "id": 563,
+            "bank": "VESSILA OY AB",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "VESSFIH1"
+        },
+        {
+            "id": 564,
+            "bank": "VETELIN OSUUSPANKKI",
+            "city": "VETELI",
+            "branch": null,
+            "swift_code": "VEOPFI21"
+        },
+        {
+            "id": 565,
+            "bank": "VETELIN YLIPAAN OSUUSPANKKI",
+            "city": "RAYRINKI",
+            "branch": null,
+            "swift_code": "VEYOFI21"
+        },
+        {
+            "id": 566,
+            "bank": "VIEREMAN OSUUSPANKKI",
+            "city": "VIEREMA",
+            "branch": null,
+            "swift_code": "VIERFI21"
+        },
+        {
+            "id": 567,
+            "bank": "VIHANNIN OSUUSPANKKI",
+            "city": "VIHANTI",
+            "branch": null,
+            "swift_code": "VIOSFI21"
+        },
+        {
+            "id": 568,
+            "bank": "VIMPELIN OSUUSPANKKI",
+            "city": "VIMPELI",
+            "branch": null,
+            "swift_code": "VIOUFI21"
+        },
+        {
+            "id": 569,
+            "bank": "VIMPU INTRESSENTER AB",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "VIITFIH1"
+        },
+        {
+            "id": 570,
+            "bank": "VIRALA OY AB",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "VIRAFIH1"
+        },
+        {
+            "id": 571,
+            "bank": "VIROLAHDEN OSUUSPANKKI",
+            "city": "VIROLAHTI",
+            "branch": null,
+            "swift_code": "VIOPFI21"
+        },
+        {
+            "id": 572,
+            "bank": "VIRTAIN OSUUSPANKKI",
+            "city": "VIRRAT",
+            "branch": null,
+            "swift_code": "VIOAFI21"
+        },
+        {
+            "id": 573,
+            "bank": "VISIO VARAINHOITO OY",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "VISVFIH1"
+        },
+        {
+            "id": 574,
+            "bank": "VORA SPARBANK",
+            "city": "VORA",
+            "branch": null,
+            "swift_code": "VOSPFI21"
+        },
+        {
+            "id": 575,
+            "bank": "WALLSTREET ASSET MANAGEMENT LTD",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "WAAGFIH1"
+        },
+        {
+            "id": 576,
+            "bank": "WILLIAMS DE BROE",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "WIBRFIH1"
+        },
+        {
+            "id": 577,
+            "bank": "WIP ASSET MANAGEMENT",
+            "city": "HELSINKI",
+            "branch": null,
+            "swift_code": "WIANFIH1"
+        },
+        {
+            "id": 578,
+            "bank": "YLANEEN OSUUSPANKKI",
+            "city": "YLANE",
+            "branch": null,
+            "swift_code": "YLOSFI21"
+        },
+        {
+            "id": 579,
+            "bank": "YLIHARMAN SAASTOPANKKI",
+            "city": "YLIHARMA",
+            "branch": null,
+            "swift_code": "YLSAFI21"
+        },
+        {
+            "id": 580,
+            "bank": "YLITORNION OSUUSPANKKI",
+            "city": "YLITORNIO",
+            "branch": null,
+            "swift_code": "YLOUFI21"
+        },
+        {
+            "id": 581,
+            "bank": "YLIVIESKAN OSUUSPANKKI",
+            "city": "YLIVIESKA",
+            "branch": null,
+            "swift_code": "YLOPFI21"
+        },
+        {
+            "id": 582,
+            "bank": "YPAJAN OSUUSPANKKI",
+            "city": "YPAJA",
+            "branch": null,
+            "swift_code": "YPOSFI21"
+        },
+        {
+            "id": 583,
+            "bank": "YTTERMARK SPARBANK",
+            "city": "NARPES",
+            "branch": null,
+            "swift_code": "YTSPFI21"
         }
     ]
 }

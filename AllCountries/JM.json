@@ -4,66 +4,458 @@
     "list": [
         {
             "id": 1,
+            "bank": "ALLIANCE INVESTMENT MANAGEMENT LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "ALNGJMK1"
+        },
+        {
+            "id": 2,
+            "bank": "AUTOMATED PAYMENTS LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "JAPLJMK1"
+        },
+        {
+            "id": 3,
+            "bank": "BANK OF JAMAICA",
+            "city": "KINGSTON",
+            "branch": "(RTGS)",
+            "swift_code": "BAJAJMK11KN"
+        },
+        {
+            "id": 4,
             "bank": "BANK OF JAMAICA",
             "city": "KINGSTON",
             "branch": null,
             "swift_code": "BAJAJMKN"
         },
         {
-            "id": 2,
+            "id": 5,
             "bank": "BANK OF NOVA SCOTIA JAMAICA LTD., THE",
             "city": "KINGSTON",
             "branch": null,
             "swift_code": "NOSCJMKN"
         },
         {
-            "id": 3,
+            "id": 6,
+            "bank": "BARITA INVESTMENTS LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "BAVSJMK1"
+        },
+        {
+            "id": 7,
+            "bank": "BPM FINANCIAL LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "BPFIJMK1"
+        },
+        {
+            "id": 8,
+            "bank": "C.O.K. CO-OPERATIVE CREDIT UNION LTD.",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "CCENJMK1"
+        },
+        {
+            "id": 9,
+            "bank": "CAPITAL AND CREDIT MERCHANT BANK LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "CCMKJMK1"
+        },
+        {
+            "id": 10,
+            "bank": "CAPITAL AND CREDIT SECURITIES LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "CPCSJMK1"
+        },
+        {
+            "id": 11,
+            "bank": "CAPITAL SOLUTIONS LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "CPSOJMK1"
+        },
+        {
+            "id": 12,
+            "bank": "CARRERAS LIMITED",
+            "city": "SAINT-CATHERINE",
+            "branch": null,
+            "swift_code": "BATSJMK1"
+        },
+        {
+            "id": 13,
+            "bank": "CCU INVESTMENTS LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "CCNVJMK1"
+        },
+        {
+            "id": 14,
+            "bank": "CHURCHES CO-OPERATIVE CREDIT UNION LTD.",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "CCEOJMK1"
+        },
+        {
+            "id": 15,
+            "bank": "CITIBANK N.A.",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "CITIJMK1"
+        },
+        {
+            "id": 16,
+            "bank": "CITIFINANCE LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "CIAFJMK1"
+        },
+        {
+            "id": 17,
+            "bank": "CREDIT UNION FUND MANAGEMENT COMPANY LTD",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "CUFMJMK1"
+        },
+        {
+            "id": 18,
+            "bank": "DEVELOPMENT BANK OF JAMAICA LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "NDBJJMK1"
+        },
+        {
+            "id": 19,
             "bank": "FIRST GLOBAL BANK LIMITED",
             "city": "KINGSTON",
             "branch": null,
             "swift_code": "FILBJMKN"
         },
         {
-            "id": 4,
+            "id": 20,
+            "bank": "FIRST GLOBAL FINANCIAL SERVICES LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "FGFSJMK1"
+        },
+        {
+            "id": 21,
+            "bank": "FIRST HERITAGE CO-OPERATIVE CREDIT UNION LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "FHCRJMK1"
+        },
+        {
+            "id": 22,
             "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (JAMAICA) LIMITED",
             "city": "KINGSTON",
             "branch": null,
             "swift_code": "FCIBJMKN"
         },
         {
-            "id": 5,
+            "id": 23,
+            "bank": "FIRSTCARIBBEAN INTERNATIONAL TRUST AND MERCHANT BANK (JAMAICA) LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "FCIBJM21"
+        },
+        {
+            "id": 24,
+            "bank": "GUARDIAN ASSET MANAGEMENT JAMAICA LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "GAMJJMK1"
+        },
+        {
+            "id": 25,
+            "bank": "GUARDIAN LIFE LIMTED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "GULIJMK1"
+        },
+        {
+            "id": 26,
+            "bank": "IDEAL FINANCE CORPORATION LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "IDFCJMK1"
+        },
+        {
+            "id": 27,
+            "bank": "IDEAL PORTFOLIO SERVICES CO LTD",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "IDPSJMK1"
+        },
+        {
+            "id": 28,
+            "bank": "INFINITI CAPITAL",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "IFCPJMK1"
+        },
+        {
+            "id": 29,
+            "bank": "INTERTRADE FINANCE CORPORATION LTD.",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "ITFCJMK1"
+        },
+        {
+            "id": 30,
+            "bank": "JAMAICA CENTRAL SECURITIES DEPOSITORY LIMITED",
+            "city": "KINGSTON",
+            "branch": "(RETAIL REPO)",
+            "swift_code": "JCSDJMK1JRR"
+        },
+        {
+            "id": 31,
+            "bank": "JAMAICA CENTRAL SECURITIES DEPOSITORY LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "JCSDJMK1"
+        },
+        {
+            "id": 32,
+            "bank": "JAMAICA CO-OPERATIVE CREDIT UNION LEAGUE LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "JCCUJMK1"
+        },
+        {
+            "id": 33,
+            "bank": "JAMAICA MONEY MARKET BROKERS LTD",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "JMMBJMK1"
+        },
+        {
+            "id": 34,
             "bank": "JAMAICA NATIONAL BUILDING SOCIETY",
             "city": "KINGSTON",
             "branch": null,
             "swift_code": "JNBSJMKN"
         },
         {
-            "id": 6,
+            "id": 35,
+            "bank": "JN FUND MANAGERS LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "FUNMJMK1"
+        },
+        {
+            "id": 36,
+            "bank": "M\/VL STOCKBROKERS LTD.",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "MVSTJMK1"
+        },
+        {
+            "id": 37,
+            "bank": "MAYBERRY INVESTMENTS LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "MAYNJMK1"
+        },
+        {
+            "id": 38,
+            "bank": "MF AND G ASSET MANAGEMENT LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "ASAEJMK1"
+        },
+        {
+            "id": 39,
+            "bank": "MF AND G TRUST AND FINANCE COMPANY",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "MFGTJMK1"
+        },
+        {
+            "id": 40,
+            "bank": "MONEYMASTERS LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "MONMJMK1"
+        },
+        {
+            "id": 41,
+            "bank": "NATIONAL COMMERCIAL BANK JAMAICA LIMITED",
+            "city": "KINGSTON",
+            "branch": "(KING STREET)",
+            "swift_code": "JNCBJMK10K2"
+        },
+        {
+            "id": 42,
             "bank": "NATIONAL COMMERCIAL BANK JAMAICA LIMITED",
             "city": "KINGSTON",
             "branch": null,
             "swift_code": "JNCBJMKX"
         },
         {
-            "id": 7,
+            "id": 43,
             "bank": "NATIONAL EXPORT-IMPORT BANK OF JAMAICA LIMITED",
             "city": "KINGSTON",
             "branch": null,
             "swift_code": "NAEBJMKI"
         },
         {
-            "id": 8,
+            "id": 44,
+            "bank": "NCB CAPITAL MARKETS LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "NCCMJMK1"
+        },
+        {
+            "id": 45,
+            "bank": "NCB INSURANCE COMPANY LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "NCICJMK1"
+        },
+        {
+            "id": 46,
+            "bank": "PAN CARIBBEAN BANK LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "PCARJMK1"
+        },
+        {
+            "id": 47,
+            "bank": "PAN CARIBBEAN FINANCIAL SERVICES LTD",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "PCFSJMK1"
+        },
+        {
+            "id": 48,
+            "bank": "PAN CARIBBEAN MERCHANT BANK LTD.",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "PCMBJMK1"
+        },
+        {
+            "id": 49,
+            "bank": "PRIME ASSET MANAGEMENT LTD",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "PRTGJMK1"
+        },
+        {
+            "id": 50,
+            "bank": "PROVEN WEALTH LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "PWELJMK1"
+        },
+        {
+            "id": 51,
+            "bank": "RBTT SECURITIES JAMAICA LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "RBSJJMK1"
+        },
+        {
+            "id": 52,
+            "bank": "SAGICOR BANK JAMAICA LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "SAJAJMK1"
+        },
+        {
+            "id": 53,
             "bank": "SAGICOR BANK JAMAICA LIMITED",
             "city": "KINGSTON",
             "branch": null,
             "swift_code": "SAJAJMKN"
         },
         {
-            "id": 9,
+            "id": 54,
+            "bank": "SAGICOR LIFE JAMAICA LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "SALJJMK1"
+        },
+        {
+            "id": 55,
+            "bank": "SCOTIA DBG MERCHANT BANK LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "SCDMJMK1"
+        },
+        {
+            "id": 56,
             "bank": "SCOTIA INVESTMENTS JAMAICA LTD",
             "city": "KINGSTON",
             "branch": null,
             "swift_code": "SCNJJMKN"
+        },
+        {
+            "id": 57,
+            "bank": "STERLING ASSET MANAGEMENT LTD.",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "STEGJMK1"
+        },
+        {
+            "id": 58,
+            "bank": "STOCKS AND SECURITIES LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "SSERJMK1"
+        },
+        {
+            "id": 59,
+            "bank": "THE JAMAICA STOCK EXCHANGE LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "XJAMJMK1"
+        },
+        {
+            "id": 60,
+            "bank": "UGI FINANCE AND INVESTMENTS LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "UGFIJMK1"
+        },
+        {
+            "id": 61,
+            "bank": "VICTORIA MUTUAL BUILDING SOCIETY",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "VMBSJMK1"
+        },
+        {
+            "id": 62,
+            "bank": "VICTORIA MUTUAL WEALTH MANAGEMENT LIMITED",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "VMWMJMK1"
+        },
+        {
+            "id": 63,
+            "bank": "WEST INDIES UNION INVESTMENT MANAGEMENT LIMITED",
+            "city": "MANDEVILLE",
+            "branch": null,
+            "swift_code": "WIUIJMK1"
+        },
+        {
+            "id": 64,
+            "bank": "WORKERS BANK TRUST COMPANY",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "WBTCJMK1"
+        },
+        {
+            "id": 65,
+            "bank": "WORKERS TRUST AND MERCHANT BANK LTD",
+            "city": "KINGSTON",
+            "branch": null,
+            "swift_code": "WTMBJMK1"
         }
     ]
 }

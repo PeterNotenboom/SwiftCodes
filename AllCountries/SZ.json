@@ -32,10 +32,24 @@
         },
         {
             "id": 5,
+            "bank": "SWAZILAND BEVERAGES LIMITED",
+            "city": "MATSAPHA",
+            "branch": null,
+            "swift_code": "SABMSZM1"
+        },
+        {
+            "id": 6,
             "bank": "SWAZILAND DEVELOPMENT AND SAVINGS BANK",
             "city": "MBABANE",
             "branch": null,
             "swift_code": "SDSBSZMB"
+        },
+        {
+            "id": 7,
+            "bank": "SWAZILAND STOCKBROKERS LTD",
+            "city": "MBABANE",
+            "branch": null,
+            "swift_code": "SWAOSZM1"
         }
     ]
 }
