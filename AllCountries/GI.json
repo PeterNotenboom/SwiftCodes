@@ -25,45 +25,45 @@
         },
         {
             "id": 4,
-            "bank": "BARCLAYS BANK PLC",
+            "bank": "BANK JSS (GIBRALTAR) LTD",
             "city": "GIBRALTAR",
             "branch": null,
-            "swift_code": "BARCGIG10GI"
+            "swift_code": "CRESGIGI"
         },
         {
             "id": 5,
             "bank": "BARCLAYS BANK PLC",
             "city": "GIBRALTAR",
             "branch": null,
-            "swift_code": "BARCGIG1PCI"
+            "swift_code": "BARCGIG10GI"
         },
         {
             "id": 6,
             "bank": "BARCLAYS BANK PLC",
             "city": "GIBRALTAR",
             "branch": null,
-            "swift_code": "BARCGIGI"
+            "swift_code": "BARCGIG1PCI"
         },
         {
             "id": 7,
+            "bank": "BARCLAYS BANK PLC",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "BARCGIGI"
+        },
+        {
+            "id": 8,
             "bank": "BARCLAYTRUST INTERNATIONAL NOMINEES (GIBRALTAR) LIMITED",
             "city": "GIBRALTAR",
             "branch": null,
             "swift_code": "BIGIGIG1"
         },
         {
-            "id": 8,
+            "id": 9,
             "bank": "CLOSE BROTHERS MARRACHE BANK LIMITED",
             "city": "GIBRALTAR",
             "branch": null,
             "swift_code": "CLOSGIG1"
-        },
-        {
-            "id": 9,
-            "bank": "CREDIT SUISSE (GIBRALTAR) LTD",
-            "city": "GIBRALTAR",
-            "branch": null,
-            "swift_code": "CRESGIGI"
         },
         {
             "id": 10,
@@ -133,14 +133,14 @@
             "bank": "LLOYDS BANK (GIBRALTAR) LIMITED",
             "city": "GIBRALTAR",
             "branch": null,
-            "swift_code": "LOYDGIGI"
+            "swift_code": "LOYDGIB1"
         },
         {
             "id": 20,
             "bank": "LLOYDS BANK (GIBRALTAR) LIMITED",
             "city": "GIBRALTAR",
             "branch": null,
-            "swift_code": "LOYDGIB1"
+            "swift_code": "LOYDGIGI"
         },
         {
             "id": 21,
@@ -172,41 +172,48 @@
         },
         {
             "id": 25,
+            "bank": "MONEYCORP BANK",
+            "city": "GIBRALTAR",
+            "branch": null,
+            "swift_code": "MOYPGIGI"
+        },
+        {
+            "id": 26,
             "bank": "NATWEST OFFSHORE-GIBRALTAR",
             "city": "GIBRALTAR",
             "branch": null,
             "swift_code": "RBOSGI21"
         },
         {
-            "id": 26,
+            "id": 27,
             "bank": "NATWEST-GIBRALTAR",
             "city": "GIBRALTAR",
             "branch": null,
             "swift_code": "RBOSGIGI"
         },
         {
-            "id": 27,
-            "bank": "NOVISTA INSURANCE LTD",
+            "id": 28,
+            "bank": "PAYONEER (EU) LIMITED",
             "city": "GIBRALTAR",
             "branch": null,
-            "swift_code": "NOVRGIGI"
+            "swift_code": "PAYNGIG1"
         },
         {
-            "id": 28,
-            "bank": "SG HAMBROS BANK (GIBRALTAR) LIMITED",
+            "id": 29,
+            "bank": "SG KLEINWORT HAMBROS BANK (GIBRALTAR) LIMITED",
             "city": "GIBRALTAR",
             "branch": null,
             "swift_code": "HAMBGIGI"
         },
         {
-            "id": 29,
+            "id": 30,
             "bank": "SPRINGFIELD BANK AND TRUST LTD",
             "city": "GIBRALTAR",
             "branch": null,
             "swift_code": "SPRNGIG1"
         },
         {
-            "id": 30,
+            "id": 31,
             "bank": "TURICUM PRIVATE BANK LIMITED",
             "city": "GIBRALTAR",
             "branch": null,

@@ -39,24 +39,24 @@
         },
         {
             "id": 6,
+            "bank": "BANCO DE VENEZUELA S.A.",
+            "city": "LA HABANA",
+            "branch": null,
+            "swift_code": "INDSCUHH"
+        },
+        {
+            "id": 7,
             "bank": "BANCO EXTERIOR DE CUBA",
             "city": "LA HABANA",
             "branch": null,
             "swift_code": "BECUCUHH"
         },
         {
-            "id": 7,
+            "id": 8,
             "bank": "BANCO FINANCIERO INTERNACIONAL, S.A.",
             "city": "LA HABANA",
             "branch": null,
             "swift_code": "BFICCUHH"
-        },
-        {
-            "id": 8,
-            "bank": "BANCO INDUSTRIAL DE VENEZUELA- CUBA S.A.",
-            "city": "LA HABANA",
-            "branch": null,
-            "swift_code": "INDSCUHH"
         },
         {
             "id": 9,

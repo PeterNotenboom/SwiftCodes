@@ -18,24 +18,24 @@
         },
         {
             "id": 3,
-            "bank": "BANCO EQUADOR, SARL",
-            "city": "SAO TOME",
-            "branch": null,
-            "swift_code": "EQSRSTST"
-        },
-        {
-            "id": 4,
-            "bank": "BANCO INTERNACIONAL S TOME E PRINCIPE",
+            "bank": "BANCO INTERNACIONAL DE SAO TOME E PRINCIPE",
             "city": "SAO TOME",
             "branch": null,
             "swift_code": "INOISTST"
         },
         {
-            "id": 5,
+            "id": 4,
             "bank": "BANCO NACIONAL DE SAO TOME E PRINCIPE",
             "city": "SAO TOME",
             "branch": null,
             "swift_code": "BNSTSTS1"
+        },
+        {
+            "id": 5,
+            "bank": "BANCO PRIVADO SAO TOME E PRINCIPE",
+            "city": "SAO TOME",
+            "branch": null,
+            "swift_code": "BPACSTST"
         },
         {
             "id": 6,
@@ -46,20 +46,13 @@
         },
         {
             "id": 7,
-            "bank": "COMMERCIAL BANK - SAO TOME E PRINCIPE",
-            "city": "SAO TOME",
-            "branch": null,
-            "swift_code": "CBSTSTST"
-        },
-        {
-            "id": 8,
             "bank": "ECOBANK SAO TOME",
             "city": "SAO TOME",
             "branch": null,
             "swift_code": "ECOCSTST"
         },
         {
-            "id": 9,
+            "id": 8,
             "bank": "ENERGYBANK SAO TOME E PRICIPE S.A",
             "city": "SAO TOME",
             "branch": null,

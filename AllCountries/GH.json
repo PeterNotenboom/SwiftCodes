@@ -126,14 +126,14 @@
             "bank": "BANK OF GHANA",
             "city": "ACCRA",
             "branch": null,
-            "swift_code": "BAGHGHAC"
+            "swift_code": "BAGHGHA5"
         },
         {
             "id": 19,
             "bank": "BANK OF GHANA",
             "city": "ACCRA",
             "branch": null,
-            "swift_code": "BAGHGHA5"
+            "swift_code": "BAGHGHAC"
         },
         {
             "id": 20,
@@ -361,279 +361,321 @@
         },
         {
             "id": 52,
+            "bank": "GHL BANK LTD",
+            "city": "ACCRA",
+            "branch": null,
+            "swift_code": "GHLLGHAC"
+        },
+        {
+            "id": 53,
             "bank": "GN BANK LIMITED",
             "city": "ACCRA",
             "branch": null,
             "swift_code": "GNBGGHAC"
         },
         {
-            "id": 53,
+            "id": 54,
             "bank": "GOLD COAST SECURITIES",
             "city": "ACCRA",
             "branch": null,
             "swift_code": "GOCEGHA1"
         },
         {
-            "id": 54,
+            "id": 55,
             "bank": "GUARANTY TRUST BANK (GHANA) LTD",
             "city": "ACCRA",
             "branch": null,
             "swift_code": "GTBIGHAC"
         },
         {
-            "id": 55,
+            "id": 56,
+            "bank": "HERITAGE BANK LIMITED",
+            "city": "ACCRA",
+            "branch": null,
+            "swift_code": "HRTGGHAC"
+        },
+        {
+            "id": 57,
             "bank": "HFC BANK (GHANA) LTD",
             "city": "ACCRA",
             "branch": "(CUSTODY SERVICES)",
             "swift_code": "HFCAGHACCSD"
         },
         {
-            "id": 56,
+            "id": 58,
             "bank": "HFC BANK (GHANA) LTD",
             "city": "ACCRA",
             "branch": null,
             "swift_code": "HFCAGHAC"
         },
         {
-            "id": 57,
+            "id": 59,
             "bank": "IC SECURITIES (GH) LIMITED",
             "city": "ACCRA",
             "branch": null,
             "swift_code": "ICGHGHA1"
         },
         {
-            "id": 58,
+            "id": 60,
             "bank": "MAGNATE FINANCIAL SERVICES GHANA LIMITED",
             "city": "ACCRA",
             "branch": null,
             "swift_code": "MFSHGHA1"
         },
         {
-            "id": 59,
+            "id": 61,
             "bank": "MERBAN STOCKBROKERS LIMITED",
             "city": "ACCRA",
             "branch": null,
             "swift_code": "MSTCGHA1"
         },
         {
-            "id": 60,
+            "id": 62,
             "bank": "NATIONAL INVESTMENT BANK",
             "city": "ACCRA",
             "branch": null,
             "swift_code": "NIBGGHAC"
         },
         {
-            "id": 61,
+            "id": 63,
             "bank": "NEW WORLD RENAISSANCE SECURITIES LTD",
             "city": "ACCRA",
             "branch": null,
             "swift_code": "NWIVGHA1"
         },
         {
-            "id": 62,
+            "id": 64,
             "bank": "NTHC LIMITED",
             "city": "ACCRA",
             "branch": null,
             "swift_code": "NTHCGHA1"
         },
         {
-            "id": 63,
+            "id": 65,
+            "bank": "OMNIBANK GHANA LIMITED",
+            "city": "ACCRA",
+            "branch": null,
+            "swift_code": "OMBLGHAC"
+        },
+        {
+            "id": 66,
+            "bank": "PREMIUM BANK GHANA LIMITED",
+            "city": "ACCRA",
+            "branch": null,
+            "swift_code": "PMEBGHAC"
+        },
+        {
+            "id": 67,
             "bank": "PRUDENTIAL BANK LIMITED",
             "city": "ACCRA",
             "branch": null,
             "swift_code": "PUBKGHAC"
         },
         {
-            "id": 64,
+            "id": 68,
             "bank": "SABMILLER GHANA",
             "city": "ACCRA",
             "branch": null,
             "swift_code": "SABMGHA1"
         },
         {
-            "id": 65,
+            "id": 69,
             "bank": "SABMILLER GHANA",
             "city": "ACCRA",
             "branch": null,
             "swift_code": "SABMGHA1ABL"
         },
         {
-            "id": 66,
+            "id": 70,
             "bank": "SABMILLER GHANA",
             "city": "ACCRA",
             "branch": null,
             "swift_code": "SABMGHA1VGL"
         },
         {
-            "id": 67,
+            "id": 71,
             "bank": "SDC BROKERAGE SERVICES LIMITED",
             "city": "ACCRA",
             "branch": null,
             "swift_code": "SDBRGHA1"
         },
         {
-            "id": 68,
+            "id": 72,
             "bank": "SIC BROKERAGE LIMITED",
             "city": "ACCRA",
             "branch": null,
             "swift_code": "SICGGHA1"
         },
         {
-            "id": 69,
+            "id": 73,
             "bank": "SOCIAL SECURITY AND NATIONAL INSURANCE TRUST",
             "city": "ACCRA",
             "branch": null,
             "swift_code": "SSNTGHAC"
         },
         {
-            "id": 70,
+            "id": 74,
             "bank": "SOCIETE GENERALE GHANA LIMITED",
             "city": "ACCRA",
             "branch": null,
             "swift_code": "SSEBGHAC"
         },
         {
-            "id": 71,
+            "id": 75,
             "bank": "SOCIETE GENERALE GHANA LIMITED",
             "city": "KUMASI",
             "branch": null,
             "swift_code": "SSEBGHACKSI"
         },
         {
-            "id": 72,
+            "id": 76,
             "bank": "SOCIETE GENERALE GHANA LIMITED",
             "city": "TAMALE",
             "branch": null,
             "swift_code": "SSEBGHACTAM"
         },
         {
-            "id": 73,
+            "id": 77,
+            "bank": "SOVEREIGN BANK LIMITED",
+            "city": "ACCRA",
+            "branch": null,
+            "swift_code": "SVBGGHAC"
+        },
+        {
+            "id": 78,
             "bank": "STANBIC BANK GHANA LIMITED",
             "city": "ACCRA",
             "branch": null,
             "swift_code": "SBICGHAC"
         },
         {
-            "id": 74,
+            "id": 79,
+            "bank": "STANDARD CHARTERED BANK GHANA LIMITED",
+            "city": "ACCRA",
+            "branch": "(HEAD OFFICE)",
+            "swift_code": "SCBLGHAC"
+        },
+        {
+            "id": 80,
             "bank": "STANDARD CHARTERED BANK GHANA LIMITED",
             "city": "ACCRA",
             "branch": "(SECURITIES SERVICES UNIT)",
             "swift_code": "SCBLGHACSSU"
         },
         {
-            "id": 75,
+            "id": 81,
             "bank": "STANDARD CHARTERED BANK GHANA LIMITED",
             "city": "KUMASI",
             "branch": null,
             "swift_code": "SCBLGHACKSI"
         },
         {
-            "id": 76,
+            "id": 82,
             "bank": "STANDARD CHARTERED BANK GHANA LIMITED",
             "city": "TAKORADI",
             "branch": null,
             "swift_code": "SCBLGHACTDI"
         },
         {
-            "id": 77,
+            "id": 83,
             "bank": "STANDARD CHARTERED BANK GHANA LIMITED",
             "city": "TEMA",
             "branch": null,
             "swift_code": "SCBLGHACTMA"
         },
         {
-            "id": 78,
+            "id": 84,
             "bank": "STERLING SECURITIES LIMITED",
             "city": "ACCRA",
             "branch": null,
             "swift_code": "STSIGHA1"
         },
         {
-            "id": 79,
+            "id": 85,
             "bank": "STRATEGIC AFRICAN SECURITIES LIMITED",
             "city": "ACCRA",
             "branch": null,
             "swift_code": "SARSGHA1"
         },
         {
-            "id": 80,
-            "bank": "STRATEGIC AFRICAN SECURITIES LIMITED",
-            "city": "ACCRA",
-            "branch": null,
-            "swift_code": "SARSGHA1"
-        },
-        {
-            "id": 81,
+            "id": 86,
             "bank": "TAKORADI INTERNATIONAL COMPANY",
             "city": "TAKORADI",
             "branch": null,
             "swift_code": "TAKOGHA1"
         },
         {
-            "id": 82,
+            "id": 87,
+            "bank": "THE BEIGE BANK LIMITED",
+            "city": "ACCRA",
+            "branch": null,
+            "swift_code": "TBGBGHAC"
+        },
+        {
+            "id": 88,
             "bank": "THE ROYAL BANK",
             "city": "ACCRA",
             "branch": null,
             "swift_code": "TRBGGHAC"
         },
         {
-            "id": 83,
+            "id": 89,
             "bank": "UNIBANK GHANA LIMITED",
             "city": "ACCRA",
             "branch": null,
             "swift_code": "UBGHGHAC"
         },
         {
-            "id": 84,
+            "id": 90,
             "bank": "UNITED BANK FOR AFRICA (GHANA) LTD",
             "city": "ACCRA",
             "branch": null,
             "swift_code": "STBGGHAC"
         },
         {
-            "id": 85,
+            "id": 91,
             "bank": "UNIVERSAL MERCHANT BANK LIMITED",
             "city": "ACCRA",
             "branch": null,
             "swift_code": "MBGHGHAC"
         },
         {
-            "id": 86,
+            "id": 92,
             "bank": "UNIVERSAL MERCHANT BANK LIMITED",
             "city": "KUMASI",
             "branch": null,
             "swift_code": "MBGHGHACKSI"
         },
         {
-            "id": 87,
+            "id": 93,
             "bank": "UNIVERSAL MERCHANT BANK LIMITED",
             "city": "TAKORADI",
             "branch": null,
             "swift_code": "MBGHGHACTDI"
         },
         {
-            "id": 88,
+            "id": 94,
             "bank": "UNIVERSAL MERCHANT BANK LIMITED",
             "city": "TEMA",
             "branch": null,
             "swift_code": "MBGHGHACTMA"
         },
         {
-            "id": 89,
+            "id": 95,
             "bank": "UT BANK LTD",
             "city": "ACCRA",
             "branch": null,
             "swift_code": "UTBKGHAC"
         },
         {
-            "id": 90,
+            "id": 96,
             "bank": "VOLTA RIVER AUTHORITY",
             "city": "ACCRA",
             "branch": null,
-            "swift_code": "VRATGHA1"
+            "swift_code": "VRATGHAC"
         },
         {
-            "id": 91,
+            "id": 97,
             "bank": "ZENITH BANK (GHANA) LIMITED",
             "city": "ACCRA",
             "branch": null,

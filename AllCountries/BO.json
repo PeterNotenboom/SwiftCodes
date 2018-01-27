@@ -60,73 +60,73 @@
         },
         {
             "id": 9,
+            "bank": "BANCO DE DESARROLLO PRODUCTIVO SAM",
+            "city": "LA PAZ",
+            "branch": null,
+            "swift_code": "BDRSBOLP"
+        },
+        {
+            "id": 10,
             "bank": "BANCO DE INVERSION BOLIVIANO S.A.",
             "city": "LA PAZ",
             "branch": null,
             "swift_code": "BIBOBOL1"
         },
         {
-            "id": 10,
+            "id": 11,
             "bank": "BANCO DE LA NACION ARGENTINA",
             "city": "SANTA CRUZ DE LA SIERRA",
             "branch": null,
             "swift_code": "NACNBOLP"
         },
         {
-            "id": 11,
+            "id": 12,
             "bank": "BANCO DE LA PAZ, S.A.",
             "city": "COCHABAMBA",
             "branch": null,
             "swift_code": "BPAZBOL1023"
         },
         {
-            "id": 12,
+            "id": 13,
             "bank": "BANCO DE LA PAZ, S.A.",
             "city": "LA PAZ",
             "branch": null,
             "swift_code": "BPAZBOL1"
         },
         {
-            "id": 13,
+            "id": 14,
             "bank": "BANCO DE LA PAZ, S.A.",
             "city": "SANTA CRUZ DE LA SIERRA",
             "branch": null,
             "swift_code": "BPAZBOL1022"
         },
         {
-            "id": 14,
+            "id": 15,
             "bank": "BANCO DO BRASIL S.A. SUCURSAL BOLIVIA",
             "city": "LA PAZ",
             "branch": null,
             "swift_code": "BRASBOLX"
         },
         {
-            "id": 15,
+            "id": 16,
             "bank": "BANCO ECONOMICO S.A.",
             "city": "COCHABAMBA",
             "branch": "(COCHABAMBA BRANCH)",
             "swift_code": "BOEOBO22CBB"
         },
         {
-            "id": 16,
+            "id": 17,
             "bank": "BANCO ECONOMICO S.A.",
             "city": "LA PAZ",
             "branch": "(LA PAZ BRANCH)",
             "swift_code": "BOEOBO22LPZ"
         },
         {
-            "id": 17,
+            "id": 18,
             "bank": "BANCO ECONOMICO S.A.",
             "city": "SANTA CRUZ DE LA SIERRA",
             "branch": "(SANTA CRUZ BRANCH)",
             "swift_code": "BOEOBO22SCZ"
-        },
-        {
-            "id": 18,
-            "bank": "BANCO ECONOMICO S.A.",
-            "city": "SANTA CRUZ DE LA SIERRA",
-            "branch": null,
-            "swift_code": "BOEOBO22BEC"
         },
         {
             "id": 19,
@@ -137,265 +137,279 @@
         },
         {
             "id": 20,
+            "bank": "BANCO ECONOMICO S.A.",
+            "city": "SANTA CRUZ DE LA SIERRA",
+            "branch": null,
+            "swift_code": "BOEOBO22BEC"
+        },
+        {
+            "id": 21,
             "bank": "BANCO FASSIL S.A.",
             "city": "SANTA CRUZ DE LA SIERRA",
             "branch": null,
             "swift_code": "BSCFBO22"
         },
         {
-            "id": 21,
+            "id": 22,
+            "bank": "BANCO FIE S.A.",
+            "city": "LA PAZ",
+            "branch": null,
+            "swift_code": "BFIFBOLP"
+        },
+        {
+            "id": 23,
             "bank": "BANCO FORTALEZA SA",
             "city": "LA PAZ",
             "branch": null,
             "swift_code": "BFORBOLP"
         },
         {
-            "id": 22,
+            "id": 24,
             "bank": "BANCO GANADERO S.A.",
             "city": "SANTA CRUZ DE LA SIERRA",
             "branch": null,
             "swift_code": "GNDRBO22"
         },
         {
-            "id": 23,
+            "id": 25,
             "bank": "BANCO GANADERO S.A.",
             "city": "SANTA CRUZ DE LA SIERRA",
             "branch": null,
             "swift_code": "GNDRBO22CMI"
         },
         {
-            "id": 24,
+            "id": 26,
             "bank": "BANCO GANADERO S.A.",
             "city": "SANTA CRUZ DE LA SIERRA",
             "branch": null,
             "swift_code": "GNDRBO22FIT"
         },
         {
-            "id": 25,
+            "id": 27,
             "bank": "BANCO GANADERO S.A.",
             "city": "SANTA CRUZ DE LA SIERRA",
             "branch": null,
             "swift_code": "GNDRBO22GEB"
         },
         {
-            "id": 26,
+            "id": 28,
             "bank": "BANCO HIPOTECARIO NACIONAL",
             "city": "LA PAZ",
             "branch": null,
             "swift_code": "BHNABOL1"
         },
         {
-            "id": 27,
+            "id": 29,
             "bank": "BANCO LATINOAMERICANO DE DESARROLLO S.A.",
             "city": "LA PAZ",
             "branch": null,
             "swift_code": "BALDBOL1"
         },
         {
-            "id": 28,
+            "id": 30,
             "bank": "BANCO MERCANTIL SANTA CRUZ S.A.",
             "city": "COCHABAMBA",
             "branch": null,
             "swift_code": "MERBBOLXCBB"
         },
         {
-            "id": 29,
+            "id": 31,
             "bank": "BANCO MERCANTIL SANTA CRUZ S.A.",
             "city": "LA PAZ",
             "branch": null,
             "swift_code": "MERBBOLX"
         },
         {
-            "id": 30,
+            "id": 32,
             "bank": "BANCO MERCANTIL SANTA CRUZ S.A.",
             "city": "SANTA CRUZ DE LA SIERRA",
             "branch": null,
             "swift_code": "MERBBOLXSCZ"
         },
         {
-            "id": 31,
+            "id": 33,
             "bank": "BANCO MINERO DE BOLIVIA",
             "city": "LA PAZ",
             "branch": null,
             "swift_code": "BAMIBOL1"
         },
         {
-            "id": 32,
+            "id": 34,
             "bank": "BANCO NACIONAL DE BOLIVIA",
             "city": "COCHABAMBA",
             "branch": "(DEPARTAMENTO INTERNACIONAL)",
             "swift_code": "BNBOBOLXCBB"
         },
         {
-            "id": 33,
+            "id": 35,
             "bank": "BANCO NACIONAL DE BOLIVIA",
             "city": "LA PAZ",
             "branch": "(DPTO. INTERNACIONAL)",
             "swift_code": "BNBOBOLXLPZ"
         },
         {
-            "id": 34,
+            "id": 36,
             "bank": "BANCO NACIONAL DE BOLIVIA",
             "city": "LA PAZ",
             "branch": "(TRESORERIA)",
             "swift_code": "BNBOBOLXTES"
         },
         {
-            "id": 35,
+            "id": 37,
             "bank": "BANCO NACIONAL DE BOLIVIA",
             "city": "LA PAZ",
             "branch": null,
             "swift_code": "BNBOBOLX"
         },
         {
-            "id": 36,
+            "id": 38,
             "bank": "BANCO NACIONAL DE BOLIVIA",
             "city": "ORURO",
             "branch": "(DEPARTAMENTO INTERNACIONAL)",
             "swift_code": "BNBOBOLXORU"
         },
         {
-            "id": 37,
+            "id": 39,
             "bank": "BANCO NACIONAL DE BOLIVIA",
             "city": "POTOSI",
             "branch": "(DEPARTAMENTO INTERNACIONAL)",
             "swift_code": "BNBOBOLXPOI"
         },
         {
-            "id": 38,
+            "id": 40,
             "bank": "BANCO NACIONAL DE BOLIVIA",
             "city": "SANTA CRUZ DE LA SIERRA",
             "branch": "(DPTO. INTERNACIONAL)",
             "swift_code": "BNBOBOLXSCZ"
         },
         {
-            "id": 39,
+            "id": 41,
             "bank": "BANCO NACIONAL DE BOLIVIA",
             "city": "SUCRE",
             "branch": "(DEPARTAMENTO INTERNACIONAL)",
             "swift_code": "BNBOBOLXSRE"
         },
         {
-            "id": 40,
+            "id": 42,
             "bank": "BANCO NACIONAL DE BOLIVIA",
             "city": "TARIJA",
             "branch": "(DEPARTAMENTO INTERNACIONAL)",
             "swift_code": "BNBOBOLXTJA"
         },
         {
-            "id": 41,
+            "id": 43,
             "bank": "BANCO PRODEM S.A.",
             "city": "LA PAZ",
             "branch": null,
             "swift_code": "BPRMBOLP"
         },
         {
-            "id": 42,
-            "bank": "BANCO PYME LOS ANDES PROCREDIT S.A.",
-            "city": "SANTA CRUZ DE LA SIERRA",
+            "id": 44,
+            "bank": "BANCO PYME ECOFUTURO S.A.",
+            "city": "LA PAZ",
             "branch": null,
-            "swift_code": "PRCBBO22"
+            "swift_code": "PYEOBOLP"
         },
         {
-            "id": 43,
+            "id": 45,
             "bank": "BANCO SANTA CRUZ S.A.",
             "city": "COCHABAMBA",
             "branch": "(COCHABAMBA BRANCH)",
             "swift_code": "BSCHBO21CBB"
         },
         {
-            "id": 44,
+            "id": 46,
             "bank": "BANCO SANTA CRUZ S.A.",
             "city": "LA PAZ",
             "branch": "(LA PAZ BRANCH)",
             "swift_code": "BSCHBO21LPZ"
         },
         {
-            "id": 45,
+            "id": 47,
             "bank": "BANCO SANTA CRUZ S.A.",
             "city": "ORURO",
             "branch": "(ORURO BRANCH)",
             "swift_code": "BSCHBO21024"
         },
         {
-            "id": 46,
+            "id": 48,
             "bank": "BANCO SANTA CRUZ S.A.",
             "city": "SANTA CRUZ DE LA SIERRA",
             "branch": "(HEAD OFFICE)",
             "swift_code": "BSCHBO21"
         },
         {
-            "id": 47,
+            "id": 49,
             "bank": "BANCO SANTA CRUZ S.A.",
             "city": "SUCRE",
             "branch": "(SUCRE BRANCH)",
             "swift_code": "BSCHBO21025"
         },
         {
-            "id": 48,
+            "id": 50,
             "bank": "BANCO SOLIDARIO S.A.",
             "city": "LA PAZ",
             "branch": null,
             "swift_code": "BSOLBOLP"
         },
         {
-            "id": 49,
+            "id": 51,
             "bank": "BANCO UNION S.A.",
             "city": "COCHABAMBA",
             "branch": "(SUCURSAL COCHABAMBA)",
             "swift_code": "BAUNBO22CBB"
         },
         {
-            "id": 50,
+            "id": 52,
             "bank": "BANCO UNION S.A.",
             "city": "LA PAZ",
             "branch": "(SUCURSAL LA PAZ)",
             "swift_code": "BAUNBO22LPZ"
         },
         {
-            "id": 51,
+            "id": 53,
+            "bank": "BANCO UNION S.A.",
+            "city": "LA PAZ",
+            "branch": null,
+            "swift_code": "BAUNBO22"
+        },
+        {
+            "id": 54,
             "bank": "BANCO UNION S.A.",
             "city": "SANTA CRUZ DE LA SIERRA",
             "branch": "(SUCURSAL SANTA CRUZ)",
             "swift_code": "BAUNBO22SCZ"
         },
         {
-            "id": 52,
-            "bank": "BANCO UNION S.A.",
-            "city": "SANTA CRUZ DE LA SIERRA",
-            "branch": null,
-            "swift_code": "BAUNBO22"
-        },
-        {
-            "id": 53,
+            "id": 55,
             "bank": "BHN MULTIBANCO S.A.",
             "city": "COCHABAMBA",
             "branch": null,
             "swift_code": "BHNMBOL1023"
         },
         {
-            "id": 54,
+            "id": 56,
             "bank": "BHN MULTIBANCO S.A.",
             "city": "LA PAZ",
             "branch": null,
             "swift_code": "BHNMBOL1"
         },
         {
-            "id": 55,
+            "id": 57,
             "bank": "BHN MULTIBANCO S.A.",
             "city": "SANTA CRUZ DE LA SIERRA",
             "branch": null,
             "swift_code": "BHNMBOL1022"
         },
         {
-            "id": 56,
+            "id": 58,
             "bank": "BOLSA BOLIVIANA DE VALORES S.A.",
             "city": "LA PAZ",
             "branch": null,
             "swift_code": "XBOLBOL1"
         },
         {
-            "id": 57,
+            "id": 59,
             "bank": "CITIBANK N.A.",
             "city": "LA PAZ",
             "branch": null,

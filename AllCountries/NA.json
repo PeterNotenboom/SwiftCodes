@@ -11,136 +11,150 @@
         },
         {
             "id": 2,
+            "bank": "BANCO PRIVADO ATLANTICO - EUROPA S.A., NAMIBIA BRANCH",
+            "city": "WINDHOEK",
+            "branch": null,
+            "swift_code": "BAPANANX"
+        },
+        {
+            "id": 3,
+            "bank": "BANK BIC NAMIBIA LIMITED",
+            "city": "WINDHOEK",
+            "branch": null,
+            "swift_code": "BBNLNANA"
+        },
+        {
+            "id": 4,
             "bank": "BANK OF NAMIBIA",
             "city": "WINDHOEK",
             "branch": "(CLEARING HOUSE)",
             "swift_code": "CBKNNANAPCH"
         },
         {
-            "id": 3,
+            "id": 5,
             "bank": "BANK OF NAMIBIA",
             "city": "WINDHOEK",
             "branch": null,
             "swift_code": "CBKNNANX"
         },
         {
-            "id": 4,
+            "id": 6,
             "bank": "BANK WINDHOEK LIMITED",
             "city": "WINDHOEK",
             "branch": "(GLOBAL CUSTODY BRANCH)",
             "swift_code": "BWLINANXCHM"
         },
         {
-            "id": 5,
+            "id": 7,
             "bank": "BANK WINDHOEK LIMITED",
             "city": "WINDHOEK",
             "branch": null,
             "swift_code": "BWLINANX"
         },
         {
-            "id": 6,
+            "id": 8,
             "bank": "CITY SAVINGS AND INVESTMENT BANK HOLDINGS LTD.",
             "city": "WINDHOEK",
             "branch": null,
             "swift_code": "CSIHNAN1"
         },
         {
-            "id": 7,
-            "bank": "EBANK LTD",
-            "city": "WINDHOEK",
-            "branch": null,
-            "swift_code": "EBNKNANX"
-        },
-        {
-            "id": 8,
+            "id": 9,
             "bank": "FIRST NATIONAL BANK OF NAMIBIA LIMITED",
             "city": "WINDHOEK",
             "branch": null,
             "swift_code": "FIRNNANX"
         },
         {
-            "id": 9,
+            "id": 10,
             "bank": "FIRST NATIONAL BANK OF NAMIBIA LIMITED",
             "city": "WINDHOEK",
             "branch": null,
             "swift_code": "FIRNNANXCUS"
         },
         {
-            "id": 10,
+            "id": 11,
             "bank": "INVESTMENT HOUSE NAMIBIA (PTY) LTD",
             "city": "WINDHOEK",
             "branch": null,
             "swift_code": "IHNANANX"
         },
         {
-            "id": 11,
+            "id": 12,
             "bank": "INVESTMENT HOUSE NAMIBIA (PTY) LTD.",
             "city": "WINDHOEK",
             "branch": null,
             "swift_code": "HYSANAN1"
         },
         {
-            "id": 12,
+            "id": 13,
             "bank": "IRWIN, JACOBS, GREENE AND ASSOCIATES (PTY) LTD.",
             "city": "WINDHOEK",
             "branch": null,
             "swift_code": "IJGLNANA"
         },
         {
-            "id": 13,
+            "id": 14,
+            "bank": "LETSHEGO BANK NAMIBIA LIMITED",
+            "city": "WINDHOEK",
+            "branch": null,
+            "swift_code": "LFSGNANA"
+        },
+        {
+            "id": 15,
             "bank": "NAMCLEAR (PTY) LIMITED",
             "city": "WINDHOEK",
             "branch": null,
             "swift_code": "NAMCNANX"
         },
         {
-            "id": 14,
+            "id": 16,
             "bank": "NAMIBIA EQUITY BROKERS (PTY) LTD",
             "city": "WINDHOEK",
             "branch": null,
             "swift_code": "NBOENANX"
         },
         {
-            "id": 15,
+            "id": 17,
             "bank": "NAMIBIAN STOCK EXCHANGE",
             "city": "WINDHOEK",
             "branch": null,
             "swift_code": "XNAMNAN1"
         },
         {
-            "id": 16,
+            "id": 18,
             "bank": "NEDBANK NAMIBIA LIMITED",
             "city": "WINDHOEK",
             "branch": null,
             "swift_code": "NEDSNANX"
         },
         {
-            "id": 17,
+            "id": 19,
             "bank": "SIMONIS STORM SECURITIES (PTY) LTD",
             "city": "WINDHOEK",
             "branch": null,
             "swift_code": "FLMSNANX"
         },
         {
-            "id": 18,
-            "bank": "SMALL AND MEDIUM ENTERPRISES BANK",
-            "city": "WINDHOEK",
-            "branch": null,
-            "swift_code": "SMEBNANA"
-        },
-        {
-            "id": 19,
+            "id": 20,
             "bank": "STANDARD BANK NAMIBIA LIMITED",
             "city": "WINDHOEK",
             "branch": "(STANLIB)",
             "swift_code": "SBNMNANXLIB"
         },
         {
-            "id": 20,
+            "id": 21,
             "bank": "STANDARD BANK NAMIBIA LIMITED",
             "city": "WINDHOEK",
             "branch": null,
             "swift_code": "SBNMNANX"
+        },
+        {
+            "id": 22,
+            "bank": "TRUSTCO BANK NAMIBIA",
+            "city": "WINDHOEK",
+            "branch": null,
+            "swift_code": "TRNANANX"
         }
     ]
 }

@@ -25,391 +25,433 @@
         },
         {
             "id": 4,
+            "bank": "'HI-TECH BANK' PRIVATE CLOSED JOINT STOCK COMMERCIAL BANK",
+            "city": "TASHKENT",
+            "branch": null,
+            "swift_code": "HPCJUZ22"
+        },
+        {
+            "id": 5,
             "bank": "INFINBANK",
             "city": "TASHKENT",
             "branch": null,
             "swift_code": "INFBUZ2X"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "IPOTEKA-BANK",
             "city": "TASHKENT",
             "branch": null,
             "swift_code": "UZHOUZ22"
         },
         {
-            "id": 6,
+            "id": 7,
             "bank": "JOINT STOCK COMMERCIAL BANK 'AGROBANK'",
             "city": "TASHKENT",
             "branch": null,
             "swift_code": "PAKHUZ22"
         },
         {
-            "id": 7,
+            "id": 8,
             "bank": "JOINT STOCK COMMERCIAL BANK SAVDOGAR",
             "city": "TASHKENT",
             "branch": null,
             "swift_code": "JSCSUZ22"
         },
         {
-            "id": 8,
+            "id": 9,
+            "bank": "JOINT-STOCK COMMERCIAL BANK ASAKA",
+            "city": "TASHKENT",
+            "branch": null,
+            "swift_code": "ASBKUZ22"
+        },
+        {
+            "id": 10,
             "bank": "JOINT-STOCK COMMERCIAL BANK TURONBANK",
             "city": "ANDIJAN",
             "branch": "(ANDIJAN BRANCH)",
             "swift_code": "TUROUZ21AND"
         },
         {
-            "id": 9,
+            "id": 11,
             "bank": "JOINT-STOCK COMMERCIAL BANK TURONBANK",
             "city": "BUKHARA",
             "branch": "(BUKHARA BRANCH)",
             "swift_code": "TUROUZ21BUH"
         },
         {
-            "id": 10,
+            "id": 12,
             "bank": "JOINT-STOCK COMMERCIAL BANK TURONBANK",
             "city": "FERGHANA",
             "branch": "(FERGANA BRANCH)",
             "swift_code": "TUROUZ21FER"
         },
         {
-            "id": 11,
+            "id": 13,
             "bank": "JOINT-STOCK COMMERCIAL BANK TURONBANK",
             "city": "GULISTAN",
             "branch": "(SYRDARYA BRANCH)",
             "swift_code": "TUROUZ21SYR"
         },
         {
-            "id": 12,
+            "id": 14,
             "bank": "JOINT-STOCK COMMERCIAL BANK TURONBANK",
             "city": "JIZZAH",
             "branch": "(JIZZAH BRANCH)",
             "swift_code": "TUROUZ21JIZ"
         },
         {
-            "id": 13,
+            "id": 15,
             "bank": "JOINT-STOCK COMMERCIAL BANK TURONBANK",
             "city": "KARSHI",
             "branch": "(KARSHI BRANCH)",
             "swift_code": "TUROUZ21KAR"
         },
         {
-            "id": 14,
+            "id": 16,
             "bank": "JOINT-STOCK COMMERCIAL BANK TURONBANK",
             "city": "NAMANGAN",
             "branch": "(NAMANGAN BRANCH)",
             "swift_code": "TUROUZ21NAM"
         },
         {
-            "id": 15,
+            "id": 17,
             "bank": "JOINT-STOCK COMMERCIAL BANK TURONBANK",
             "city": "NAVOI",
             "branch": "(NAVOI BRANCH)",
             "swift_code": "TUROUZ21NAV"
         },
         {
-            "id": 16,
+            "id": 18,
             "bank": "JOINT-STOCK COMMERCIAL BANK TURONBANK",
             "city": "NUKUS",
             "branch": "(NUKUS BRANCH)",
             "swift_code": "TUROUZ21NUK"
         },
         {
-            "id": 17,
+            "id": 19,
             "bank": "JOINT-STOCK COMMERCIAL BANK TURONBANK",
             "city": "SAMARKAND",
             "branch": "(SAMARKAND BRANCH)",
             "swift_code": "TUROUZ21SAM"
         },
         {
-            "id": 18,
+            "id": 20,
             "bank": "JOINT-STOCK COMMERCIAL BANK TURONBANK",
             "city": "SHAKHRISABZ",
             "branch": "(SHAKHRISABZ BRANCH)",
             "swift_code": "TUROUZ21SHK"
         },
         {
-            "id": 19,
+            "id": 21,
             "bank": "JOINT-STOCK COMMERCIAL BANK TURONBANK",
             "city": "TASHKENT",
             "branch": "(CHILANZAR BRANCH)",
             "swift_code": "TUROUZ21CHL"
         },
         {
-            "id": 20,
+            "id": 22,
             "bank": "JOINT-STOCK COMMERCIAL BANK TURONBANK",
             "city": "TASHKENT",
             "branch": "(KHAMZA BRANCH)",
             "swift_code": "TUROUZ21KHZ"
         },
         {
-            "id": 21,
+            "id": 23,
             "bank": "JOINT-STOCK COMMERCIAL BANK TURONBANK",
             "city": "TASHKENT",
             "branch": "(MIROBOD BRANCH)",
             "swift_code": "TUROUZ21MIR"
         },
         {
-            "id": 22,
+            "id": 24,
             "bank": "JOINT-STOCK COMMERCIAL BANK TURONBANK",
             "city": "TASHKENT",
             "branch": null,
             "swift_code": "TUROUZ22"
         },
         {
-            "id": 23,
+            "id": 25,
             "bank": "JOINT-STOCK COMMERCIAL BANK TURONBANK",
             "city": "TERMEZ",
             "branch": "(SURKHANDARYA BRANCH)",
             "swift_code": "TUROUZ21SUR"
         },
         {
-            "id": 24,
+            "id": 26,
             "bank": "JOINT-STOCK COMMERCIAL BANK TURONBANK",
             "city": "URGENCH",
             "branch": "(KHOREZM BRANCH)",
             "swift_code": "TUROUZ21KHR"
         },
         {
-            "id": 25,
+            "id": 27,
             "bank": "JOINT-STOCK COMMERCIAL BANK TURONBANK",
             "city": "ZANGIOTA",
             "branch": "(ZANGIOTA BRANCH)",
             "swift_code": "TUROUZ21ZAN"
         },
         {
-            "id": 26,
+            "id": 28,
+            "bank": "JOINT-STOCK COMMERCIAL XALQ BANK OF THE REPUBLIC OF UZBEKISTAN",
+            "city": "TASHKENT",
+            "branch": null,
+            "swift_code": "SCPEUZ22"
+        },
+        {
+            "id": 29,
             "bank": "JSC ALOQABANK",
             "city": "TASHKENT",
             "branch": null,
             "swift_code": "JSCLUZ22"
         },
         {
-            "id": 27,
+            "id": 30,
             "bank": "JSIC BANK IPAK YULI",
             "city": "ANDIJAN",
             "branch": "(ANDIJAN)",
             "swift_code": "INIPUZ21AND"
         },
         {
-            "id": 28,
+            "id": 31,
             "bank": "JSIC BANK IPAK YULI",
             "city": "KARSHI",
             "branch": "(KARSHI)",
             "swift_code": "INIPUZ21QAR"
         },
         {
-            "id": 29,
+            "id": 32,
             "bank": "JSIC BANK IPAK YULI",
             "city": "NAMANGAN",
             "branch": "(NAMANGAN)",
             "swift_code": "INIPUZ21NAM"
         },
         {
-            "id": 30,
+            "id": 33,
             "bank": "JSIC BANK IPAK YULI",
             "city": "NAVOI",
             "branch": "(NAVOI BRANCH)",
             "swift_code": "INIPUZ21NAV"
         },
         {
-            "id": 31,
+            "id": 34,
             "bank": "JSIC BANK IPAK YULI",
             "city": "SAMARKAND",
             "branch": "(REGIONAL BRANCH 'UMAR')",
             "swift_code": "INIPUZ21UMA"
         },
         {
-            "id": 32,
+            "id": 35,
             "bank": "JSIC BANK IPAK YULI",
             "city": "SHAKHRISABZ",
             "branch": "(SHAKHRISABZ)",
             "swift_code": "INIPUZ21SHZ"
         },
         {
-            "id": 33,
-            "bank": "JSIC BANK IPAK YULI",
-            "city": "SHAKHRISABZ",
-            "branch": "(SHAKHRISABZ)",
-            "swift_code": "INIPUZ21SHZ"
-        },
-        {
-            "id": 34,
+            "id": 36,
             "bank": "JSIC BANK IPAK YULI",
             "city": "TASHKENT",
             "branch": "(CHILANZAR)",
             "swift_code": "INIPUZ21CHL"
         },
         {
-            "id": 35,
+            "id": 37,
             "bank": "JSIC BANK IPAK YULI",
             "city": "TASHKENT",
             "branch": "(MIRABAD BRANCH)",
             "swift_code": "INIPUZ21MRB"
         },
         {
-            "id": 36,
+            "id": 38,
             "bank": "JSIC BANK IPAK YULI",
             "city": "TASHKENT",
             "branch": "(MIRZO ULUGBEK BRANCH)",
             "swift_code": "INIPUZ21MUB"
         },
         {
-            "id": 37,
+            "id": 39,
             "bank": "JSIC BANK IPAK YULI",
             "city": "TASHKENT",
             "branch": "(SAGBON)",
             "swift_code": "INIPUZ21SGB"
         },
         {
-            "id": 38,
+            "id": 40,
+            "bank": "JSIC BANK IPAK YULI",
+            "city": "TASHKENT",
+            "branch": "(SHAYHONTOHUR)",
+            "swift_code": "INIPUZ21SHB"
+        },
+        {
+            "id": 41,
             "bank": "JSIC BANK IPAK YULI",
             "city": "TASHKENT",
             "branch": "(URIKZOR BRANCH)",
             "swift_code": "INIPUZ21URB"
         },
         {
-            "id": 39,
+            "id": 42,
+            "bank": "JSIC BANK IPAK YULI",
+            "city": "TASHKENT",
+            "branch": "(YAKKASARAY BRANCH)",
+            "swift_code": "INIPUZ21YKB"
+        },
+        {
+            "id": 43,
             "bank": "JSIC BANK IPAK YULI",
             "city": "TASHKENT",
             "branch": null,
             "swift_code": "INIPUZ22"
         },
         {
-            "id": 40,
+            "id": 44,
             "bank": "JSIC BANK IPAK YULI",
             "city": "YANGIYUL",
             "branch": "(YANGIYUL')",
             "swift_code": "INIPUZ21YNG"
         },
         {
-            "id": 41,
+            "id": 45,
             "bank": "KAPITALBANK, JSCB",
             "city": "TASHKENT",
             "branch": null,
             "swift_code": "KACHUZ22"
         },
         {
-            "id": 42,
+            "id": 46,
             "bank": "KDB BANK UZBEKISTAN JSC",
             "city": "TASHKENT",
             "branch": null,
             "swift_code": "KODBUZ22"
         },
         {
-            "id": 43,
+            "id": 47,
             "bank": "KHAMKORBANK AKB",
             "city": "ANDIZHAN",
             "branch": null,
             "swift_code": "KHKKUZ22"
         },
         {
-            "id": 44,
+            "id": 48,
             "bank": "KHOREZM INTERREGION COMMODITY EXCHANGE",
             "city": "TASHKENT",
             "branch": null,
             "swift_code": "XKCEUZ31"
         },
         {
-            "id": 45,
+            "id": 49,
             "bank": "MICROCREDITBANK",
             "city": "TASHKENT",
             "branch": null,
             "swift_code": "MICDUZ22"
         },
         {
-            "id": 46,
+            "id": 50,
             "bank": "NATIONAL BANK FOR FOREIGN ECONOMIC ACTIVITY OF THE REPUBLIC OF UZBEKISTAN",
             "city": "TASHKENT",
             "branch": null,
             "swift_code": "NBFAUZ2X"
         },
         {
-            "id": 47,
+            "id": 51,
             "bank": "OJSC MICROCREDITBANK",
             "city": "TASHKENT",
             "branch": null,
             "swift_code": "OJMIUZ21"
         },
         {
-            "id": 48,
+            "id": 52,
             "bank": "PJSCB 'ORIENT FINANCE'",
             "city": "TASHKENT",
             "branch": null,
             "swift_code": "ORFBUZ22"
         },
         {
-            "id": 49,
+            "id": 53,
+            "bank": "PJSCB TURKISTON",
+            "city": "TASHKENT",
+            "branch": null,
+            "swift_code": "TRKSUZ22"
+        },
+        {
+            "id": 54,
+            "bank": "PJSCB UNIVERSAL BANK",
+            "city": "KOKAND",
+            "branch": null,
+            "swift_code": "PJUNUZ22"
+        },
+        {
+            "id": 55,
             "bank": "PRIVATE BANK 'DAVR BANK'",
             "city": "TASHKENT",
             "branch": null,
             "swift_code": "DVRBUZ22"
         },
         {
-            "id": 50,
+            "id": 56,
+            "bank": "'QISHLOQ QURILISH BANK' JOINT-STOCK COMMERCIAL BANK",
+            "city": "TASHKENT",
+            "branch": null,
+            "swift_code": "GJSOUZ22"
+        },
+        {
+            "id": 57,
             "bank": "RAVNAQ BANK",
             "city": "TASHKENT",
             "branch": null,
             "swift_code": "RVBKUZ22"
         },
         {
-            "id": 51,
-            "bank": "STATE COMMERCIAL PEOPLE-BANK OF THE REPUBLIC OF UZBEKISTAN",
-            "city": "TASHKENT",
-            "branch": null,
-            "swift_code": "SCPEUZ22"
-        },
-        {
-            "id": 52,
-            "bank": "STATE JOINT-STOCK COMMERCIAL BANK ASAKA",
-            "city": "TASHKENT",
-            "branch": null,
-            "swift_code": "ASBKUZ22"
-        },
-        {
-            "id": 53,
+            "id": 58,
             "bank": "TRUSTBANK, PRIVATE JOINT STOCK-EXCHANGE BANK",
             "city": "TASHKENT",
             "branch": null,
             "swift_code": "TRSAUZ22"
         },
         {
-            "id": 54,
+            "id": 59,
             "bank": "UNIVERSAL BANK PRIVATE JOINT-STOCK COMMERCIAL BANK",
             "city": "KOKANY",
             "branch": null,
             "swift_code": "POUNUZ21"
         },
         {
-            "id": 55,
+            "id": 60,
             "bank": "UNIVERSAL BROKER'S EXCHANGE 'TASHKENT'",
             "city": "TASHKENT",
             "branch": null,
             "swift_code": "XUNIUZ21"
         },
         {
-            "id": 56,
+            "id": 61,
             "bank": "UNIVERSAL COMMODITY EXCHANGE 'TASHKENT'",
             "city": "TASHKENT",
             "branch": null,
             "swift_code": "XCETUZ21"
         },
         {
-            "id": 57,
+            "id": 62,
             "bank": "UT-BANK",
             "city": "TASHKENT",
             "branch": null,
             "swift_code": "UZTUUZ22"
         },
         {
-            "id": 58,
+            "id": 63,
+            "bank": "'UZBEK INDUSTRIAL AND CONSTRUCTION BANK' JOINT-STOCK COMMERCIAL BANK",
+            "city": "TASHKENT",
+            "branch": null,
+            "swift_code": "UJSIUZ22"
+        },
+        {
+            "id": 64,
             "bank": "UZBEKISTAN REPUBLICAN CURRENCY EXCHANGE, THE",
             "city": "TASHKENT",
             "branch": null,
             "swift_code": "XCUEUZ21"
         },
         {
-            "id": 59,
+            "id": 65,
             "bank": "UZBEKISTAN STOCK EXCHANGE",
             "city": "TASHKENT",
             "branch": null,

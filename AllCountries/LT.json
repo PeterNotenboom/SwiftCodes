@@ -11,45 +11,45 @@
         },
         {
             "id": 2,
-            "bank": "AB DNB BANKAS",
-            "city": "VILNIUS",
-            "branch": "(FOR MINIMUM RESERVES AT CENTRAL BANK)",
-            "swift_code": "AGBLLT2XTGT"
-        },
-        {
-            "id": 3,
-            "bank": "AB DNB BANKAS",
-            "city": "VILNIUS",
-            "branch": null,
-            "swift_code": "AGBLLT2X"
-        },
-        {
-            "id": 4,
             "bank": "AB FMI FINASTA",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "FNSTLTL1"
         },
         {
-            "id": 5,
+            "id": 3,
             "bank": "ABFC FINANCE",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "ABFCLT21"
         },
         {
-            "id": 6,
+            "id": 4,
+            "bank": "AKADEMINE KREDITO UNIJA",
+            "city": "KAUNAS",
+            "branch": null,
+            "swift_code": "AKKULT21"
+        },
+        {
+            "id": 5,
             "bank": "AKCIN BENDROV VB BUSTO KREDIT IR OBLIGACIJ BANKAS",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "BKOBLT21"
         },
         {
-            "id": 7,
+            "id": 6,
             "bank": "AKCINE BENDROVE LIETUVOS PASTAS",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "ABLPLT21"
+        },
+        {
+            "id": 7,
+            "bank": "AMBERIO KREDITAS",
+            "city": "GARGZDAI",
+            "branch": null,
+            "swift_code": "AMKRLT21"
         },
         {
             "id": 8,
@@ -74,402 +74,983 @@
         },
         {
             "id": 11,
-            "bank": "BANK FINASTA",
-            "city": "VILNIUS",
-            "branch": null,
-            "swift_code": "FIBALT22"
-        },
-        {
-            "id": 12,
             "bank": "BIGBANK AS LITHUANIA BRANCH",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "BIGKLT21"
         },
         {
+            "id": 12,
+            "bank": "BIRZU KREDITO UNIJA",
+            "city": "DRUSKININKAI",
+            "branch": null,
+            "swift_code": "BIKNLT21"
+        },
+        {
             "id": 13,
+            "bank": "BNP FINANCE, AB",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "BNFNLT21"
+        },
+        {
+            "id": 14,
+            "bank": "CITADELE FAKTORINGAS IR LIZINGAS",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "CFLZLT21"
+        },
+        {
+            "id": 15,
             "bank": "CJSC FBC MRC MARKETS",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "CFMALT21"
         },
         {
-            "id": 14,
+            "id": 16,
+            "bank": "'CONNECTPAY' UAB",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "CNUALT21"
+        },
+        {
+            "id": 17,
+            "bank": "CORPORATE SERVICES UAB",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "CRVULT21"
+        },
+        {
+            "id": 18,
+            "bank": "CREDITSTAR LITHUANIA, UAB",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "CRHBLT21"
+        },
+        {
+            "id": 19,
             "bank": "DANSKE BANK A\/S,LITHUANIA BRANCH",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "SMPOLT22"
         },
         {
-            "id": 15,
+            "id": 20,
             "bank": "DISKONTAS FINANSINIO MAKLERIO UAB",
             "city": "PANEVEZYS",
             "branch": null,
             "swift_code": "DISTLT21"
         },
         {
-            "id": 16,
+            "id": 21,
             "bank": "EKSPRES COMMERCIAL BANK",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "EKCBLT21"
         },
         {
-            "id": 17,
+            "id": 22,
+            "bank": "ELEKTRONINIU MOKEJIMU AGENTURA UAB",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "EMAULT21"
+        },
+        {
+            "id": 23,
             "bank": "EVERNORD UAB FMI",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "EVUFLT21"
         },
         {
-            "id": 18,
+            "id": 24,
             "bank": "EVLI BANK LTD",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "EVSELT21"
         },
         {
-            "id": 19,
-            "bank": "EVP INTERNATIONAL, UAB",
-            "city": "VILNIUS",
-            "branch": null,
-            "swift_code": "EVIULT21"
-        },
-        {
-            "id": 20,
+            "id": 25,
             "bank": "FINANCIAL BROKERAGE COMPANY DV INVEST LTD",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "DVINLT21"
         },
         {
-            "id": 21,
+            "id": 26,
             "bank": "FINHILL",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "FIHHLT21"
         },
         {
-            "id": 22,
+            "id": 27,
             "bank": "FM UAB SUPREMA",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "SPRALT21"
         },
         {
-            "id": 23,
+            "id": 28,
             "bank": "FMI UAB BALTIC STOCKHOLM SPARKASSA",
             "city": "KLAIPEDA",
             "branch": null,
             "swift_code": "BATKLT21"
         },
         {
-            "id": 24,
+            "id": 29,
             "bank": "G. STEPONKAUS KONTORA FMUAB",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "STEKLT21"
         },
         {
-            "id": 25,
+            "id": 30,
+            "bank": "GENERAL FINANCING",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "GRFNLT21"
+        },
+        {
+            "id": 31,
+            "bank": "GLOCASH PAYMENT",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "GLPELT21"
+        },
+        {
+            "id": 32,
+            "bank": "GYVENTOJU IR SMULKAUS VERSLO KREDITO UNIJA",
+            "city": "KAUNAS",
+            "branch": null,
+            "swift_code": "GSVKLT21"
+        },
+        {
+            "id": 33,
+            "bank": "IBS LITHUANIA",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "IBIULT21"
+        },
+        {
+            "id": 34,
+            "bank": "IGNALINOS KREDITO UNIJA",
+            "city": "IGNALINA",
+            "branch": null,
+            "swift_code": "IGKULT21"
+        },
+        {
+            "id": 35,
+            "bank": "II AUJAMA-CREDIT",
+            "city": "KAUNAS",
+            "branch": null,
+            "swift_code": "AUJALT21"
+        },
+        {
+            "id": 36,
+            "bank": "INTERNATIONAL FINTECH UAB",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "INHULT21"
+        },
+        {
+            "id": 37,
+            "bank": "INVL FINASTA",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "IVFILT21"
+        },
+        {
+            "id": 38,
+            "bank": "IPF DIGITAL LIETUVA, UAB",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "IDLULT21"
+        },
+        {
+            "id": 39,
+            "bank": "JURBARKO KREDITO UNIJA",
+            "city": "TAURAGE",
+            "branch": null,
+            "swift_code": "JUKULT21"
+        },
+        {
+            "id": 40,
             "bank": "KAPITALO SRAUTAL UAB FM",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "KPTLLT21"
         },
         {
-            "id": 26,
+            "id": 41,
+            "bank": "KELMES KREDITO UNIJA",
+            "city": "SIAULIAI",
+            "branch": null,
+            "swift_code": "KEKULT21"
+        },
+        {
+            "id": 42,
             "bank": "KREDITO BANKAS",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "KRBALT21"
         },
         {
-            "id": 27,
+            "id": 43,
             "bank": "KREDITO UNIJA AMBER",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "KUAMLT21"
         },
         {
-            "id": 28,
+            "id": 44,
+            "bank": "KREDITO UNIJA PANEVEZIO REGIONO TAUPOMOJI KASA",
+            "city": "PANEVEZYS",
+            "branch": null,
+            "swift_code": "KUPRLT21"
+        },
+        {
+            "id": 45,
             "bank": "KREDITO UNIJA SOSTINES KREDITAS",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "KUSRLT21"
         },
         {
-            "id": 29,
+            "id": 46,
             "bank": "KREDITO UNIJA VILNIAUS KREDITAS",
             "city": "TRAKAI",
             "branch": null,
             "swift_code": "KUVKLT21"
         },
         {
-            "id": 30,
+            "id": 47,
+            "bank": "KREDITO UNIJA ZANAVYKU BANKELIS",
+            "city": "SAKIAI",
+            "branch": null,
+            "swift_code": "KRUZLT21"
+        },
+        {
+            "id": 48,
+            "bank": "LATEKO LIZINGAS, UAB",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "LLUALT21"
+        },
+        {
+            "id": 49,
             "bank": "LIETUVOS BANKAS (BANK OF LITHUANIA)",
             "city": "VILNIUS",
             "branch": "(BANKING SERVICE)",
             "swift_code": "LIABLT2XMMS"
         },
         {
-            "id": 31,
+            "id": 50,
             "bank": "LIETUVOS BANKAS (BANK OF LITHUANIA)",
             "city": "VILNIUS",
             "branch": "(INFORMATION SERVICE)",
             "swift_code": "LIABLT2XSNO"
         },
         {
-            "id": 32,
+            "id": 51,
             "bank": "LIETUVOS BANKAS (BANK OF LITHUANIA)",
             "city": "VILNIUS",
             "branch": "(PAYMENT SYSTEMS DEPARTMENT)",
             "swift_code": "LIABLT2XMSD"
         },
         {
-            "id": 33,
+            "id": 52,
             "bank": "LIETUVOS BANKAS (BANK OF LITHUANIA)",
             "city": "VILNIUS",
             "branch": "(TARGET2 CONTINGENCY)",
             "swift_code": "LIABLT2XCON"
         },
         {
-            "id": 34,
+            "id": 53,
             "bank": "LIETUVOS BANKAS (BANK OF LITHUANIA)",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "LIABLT2X"
         },
         {
-            "id": 35,
+            "id": 54,
+            "bank": "LIETUVOS BANKAS (BANK OF LITHUANIA)",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "LIABLT2XPAY"
+        },
+        {
+            "id": 55,
             "bank": "LIETUVOS CENTRINIS VERTYBINIU POPIERIU DEPOZITORIUMAS, AB (CENTRAL SECURITIES DEPOSITORY OF LITHUANIA)",
             "city": "VILNIUS",
             "branch": "(PM)",
             "swift_code": "CSDLLT22RTG"
         },
         {
-            "id": 36,
+            "id": 56,
             "bank": "LIETUVOS CENTRINIS VERTYBINIU POPIERIU DEPOZITORIUMAS, AB (CENTRAL SECURITIES DEPOSITORY OF LITHUANIA)",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "CSDLLT22"
         },
         {
-            "id": 37,
+            "id": 57,
             "bank": "LIETUVOS CENTRINIS VERTYBINIU POPIERIU DEPOZITORIUMAS, AB (CENTRAL SECURITIES DEPOSITORY OF LITHUANIA)",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "CSDLLT22577"
         },
         {
-            "id": 38,
+            "id": 58,
             "bank": "LITHUANIAN CENTRAL CREDIT UNION",
             "city": "KAUNAS",
             "branch": null,
             "swift_code": "LCKULT22"
         },
         {
-            "id": 39,
+            "id": 59,
             "bank": "LTL KREDITO UNIJA",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "LTKULT21"
         },
         {
-            "id": 40,
+            "id": 60,
+            "bank": "LUMINOR BANK AB (FORMER AB DNB BANKAS LITHUANIA)",
+            "city": "VILNIUS",
+            "branch": "(FOR MINIMUM RESERVES AT CENTRAL BANK)",
+            "swift_code": "AGBLLT2XTGT"
+        },
+        {
+            "id": 61,
+            "bank": "LUMINOR BANK AB (FORMER AB DNB BANKAS LITHUANIA)",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "AGBLLT2X"
+        },
+        {
+            "id": 62,
+            "bank": "LUMINOR BANK AB (FORMER NORDEA BANK AB LITHUANIA)",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "NDEALT2X"
+        },
+        {
+            "id": 63,
+            "bank": "MAJESTIC FINANCIAL UAB",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "MAABLT21"
+        },
+        {
+            "id": 64,
+            "bank": "METASITE BUSINESS SOLUTIONS, UAB",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "MBSULT21"
+        },
+        {
+            "id": 65,
             "bank": "MISTERTANGO",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "MIEGLT21"
         },
         {
-            "id": 41,
+            "id": 66,
+            "bank": "MOKILIZINGAS",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "MOKZLT21"
+        },
+        {
+            "id": 67,
+            "bank": "MOMENT CREDIT",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "MMCRLT21"
+        },
+        {
+            "id": 68,
+            "bank": "MONETA INTERNATIONAL UAB",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "MOIULT21"
+        },
+        {
+            "id": 69,
             "bank": "MP INVESTMENT BANK HF",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "INBHLT21"
         },
         {
-            "id": 42,
+            "id": 70,
             "bank": "NASDAQ OMX VILNIUS AB",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "XLITLT21"
         },
         {
-            "id": 43,
+            "id": 71,
             "bank": "NAUGVILDA FMI UAB",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "NAUVLT21"
         },
         {
-            "id": 44,
-            "bank": "NORDEA BANK AB LITHUANIA BRANCH (FORMERLY NORDEA BANK FINLAND PLC LITHUANIA BRANCH)",
+            "id": 72,
+            "bank": "OP CORPORATE BANK PLC LITHUANIA BRANCH",
             "city": "VILNIUS",
             "branch": null,
-            "swift_code": "NDEALT2X"
+            "swift_code": "OKOYLT2X"
         },
         {
-            "id": 45,
+            "id": 73,
+            "bank": "PAREIGUNU KREDITO UNIJA",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "PAKULT21"
+        },
+        {
+            "id": 74,
+            "bank": "PAYSERA LT UAB",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "EVIULT21"
+        },
+        {
+            "id": 75,
             "bank": "PERLO PASLAUGOS",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "PEPGLT21"
         },
         {
-            "id": 46,
-            "bank": "POHJOLA BANK PLC LITHUANIAN BRANCH",
+            "id": 76,
+            "bank": "PROVIDENT FINANSAI",
             "city": "VILNIUS",
             "branch": null,
-            "swift_code": "OKOYLT2X"
+            "swift_code": "PRDFLT21"
         },
         {
-            "id": 47,
+            "id": 77,
+            "bank": "RASEINIU KREDITO UNIJA",
+            "city": "RASEINIAI",
+            "branch": null,
+            "swift_code": "RAKNLT21"
+        },
+        {
+            "id": 78,
+            "bank": "RATO KREDITO UNIJA",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "VRKULT21"
+        },
+        {
+            "id": 79,
+            "bank": "RENTION UAB",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "RNUALT21"
+        },
+        {
+            "id": 80,
+            "bank": "REVOLUT TECHNOLOGIES UAB",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "RETBLT21"
+        },
+        {
+            "id": 81,
+            "bank": "SB LIZINGAS",
+            "city": "KAUNAS",
+            "branch": null,
+            "swift_code": "LIZGLT21"
+        },
+        {
+            "id": 82,
             "bank": "SEB BANK",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "CBVILT2X"
         },
         {
-            "id": 48,
+            "id": 83,
             "bank": "SEB ENSKILDA UAB",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "SENULT21"
         },
         {
-            "id": 49,
+            "id": 84,
+            "bank": "SEVEN SEAS EUROPE",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "SESOLT21"
+        },
+        {
+            "id": 85,
+            "bank": "SIA UNICREDIT LEASING LIETUVOS FILIALAS",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "SULLLT21"
+        },
+        {
+            "id": 86,
             "bank": "SIAULIU BANKAS AB",
             "city": "SIAULIAI",
             "branch": null,
             "swift_code": "CBSBLT26"
         },
         {
-            "id": 50,
+            "id": 87,
             "bank": "SIAULIU KREDITO UNIJA",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "SIKNLT21"
         },
         {
-            "id": 51,
+            "id": 88,
+            "bank": "SILALES KREDITO UNIJA",
+            "city": "SILUTE",
+            "branch": null,
+            "swift_code": "SIKILT21"
+        },
+        {
+            "id": 89,
             "bank": "SINKUS FM UAB",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "SIKULT21"
         },
         {
-            "id": 52,
+            "id": 90,
+            "bank": "SOHO GROUP, UAB",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "SORBLT21"
+        },
+        {
+            "id": 91,
             "bank": "STATE ENTERPRISE CENTRE OF REGISTERS",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "SNCTLT21"
         },
         {
-            "id": 53,
+            "id": 92,
+            "bank": "STOKKER FINANCE, UAB",
+            "city": "KAUNAS",
+            "branch": null,
+            "swift_code": "SFNALT21"
+        },
+        {
+            "id": 93,
             "bank": "SVENSKA HANDELSBANKEN AB",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "HANDLT2X"
         },
         {
-            "id": 54,
+            "id": 94,
             "bank": "SWEDBANK AB",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "HABALT22"
         },
         {
-            "id": 55,
+            "id": 95,
+            "bank": "SWEDBANK INVESTICIJU VALDYMAS UAB",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "ROBRLT21"
+        },
+        {
+            "id": 96,
+            "bank": "TRUSTCOM FINANCIAL UAB",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "TRFBLT21"
+        },
+        {
+            "id": 97,
             "bank": "UAB ALTERNATIVE PAYMENTS",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "UAPYLT21"
         },
         {
-            "id": 56,
+            "id": 98,
+            "bank": "UAB ARGENTUM MOBILE",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "UAAMLT21"
+        },
+        {
+            "id": 99,
+            "bank": "UAB ARN GROUP",
+            "city": "KAUNAS",
+            "branch": null,
+            "swift_code": "ARNPLT21"
+        },
+        {
+            "id": 100,
+            "bank": "UAB BALTIJOS KREDITO SPRENDIMAI",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "BKSULT21"
+        },
+        {
+            "id": 101,
+            "bank": "UAB BC FINANCE",
+            "city": "KAUNAS",
+            "branch": null,
+            "swift_code": "BCFNLT21"
+        },
+        {
+            "id": 102,
+            "bank": "UAB BENDRAS FINANSAVIMAS",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "BFSVLT21"
+        },
+        {
+            "id": 103,
+            "bank": "UAB BLENDER LITHUANIA",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "BLDRLT21"
+        },
+        {
+            "id": 104,
+            "bank": "UAB CREDIT SERVICE",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "CDSVLT21"
+        },
+        {
+            "id": 105,
+            "bank": "UAB DEVERE E-MONEY",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "UADELT21"
+        },
+        {
+            "id": 106,
+            "bank": "UAB FERRATUM FINANCE",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "UAFILT21"
+        },
+        {
+            "id": 107,
+            "bank": "UAB FINANSU BITE",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "FNBULT21"
+        },
+        {
+            "id": 108,
+            "bank": "UAB FINTEGENCE",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "UAFNLT21"
+        },
+        {
+            "id": 109,
+            "bank": "UAB FINVERTA",
+            "city": "KAUNAS",
+            "branch": null,
+            "swift_code": "FNVTLT21"
+        },
+        {
+            "id": 110,
             "bank": "UAB FM BALTIJOS VERTYBLNLAI POPLERLAI",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "BVPPLT21"
         },
         {
-            "id": 57,
+            "id": 111,
             "bank": "UAB FM FINBALTUS",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "FNBTLT21"
         },
         {
-            "id": 58,
+            "id": 112,
             "bank": "UAB FM INTERNATIONAL MARKET",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "INLTLT21"
         },
         {
-            "id": 59,
+            "id": 113,
             "bank": "UAB FM TECHNOLOGIJU VALDYMO",
             "city": "KAUNAS",
             "branch": null,
             "swift_code": "TEVALT21"
         },
         {
-            "id": 60,
+            "id": 114,
             "bank": "UAB FMI FINVESTA",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "UAFFLT22"
         },
         {
-            "id": 61,
+            "id": 115,
             "bank": "UAB FMI JUS TARPININKAS",
             "city": "KAUNAS",
             "branch": null,
             "swift_code": "UABFLT21"
         },
         {
-            "id": 62,
+            "id": 116,
             "bank": "UAB FMI SPEKONIS IR GASTONAS",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "SPEKLT21"
         },
         {
-            "id": 63,
+            "id": 117,
             "bank": "UAB FMI ZABOLIS IR PARTNERIAI",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "UFZPLT21"
         },
         {
-            "id": 64,
+            "id": 118,
+            "bank": "UAB G4S LIETUVA",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "GFSLLT21"
+        },
+        {
+            "id": 119,
+            "bank": "UAB GLOBEBILL LITHUANIA",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "UAGLLT21"
+        },
+        {
+            "id": 120,
+            "bank": "UAB HST KOMUNIKACIJOS",
+            "city": "KAUNAS",
+            "branch": null,
+            "swift_code": "HSTKLT21"
+        },
+        {
+            "id": 121,
+            "bank": "UAB INSTAREM EU",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "UAINLT21"
+        },
+        {
+            "id": 122,
+            "bank": "UAB INVL ASSET MANAGEMENT",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "UIAMLT21"
+        },
+        {
+            "id": 123,
+            "bank": "UAB KATALOGAS",
+            "city": "KAUNAS",
+            "branch": null,
+            "swift_code": "UAKALT21"
+        },
+        {
+            "id": 124,
+            "bank": "UAB KUBIS",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "UKUBLT21"
+        },
+        {
+            "id": 125,
+            "bank": "UAB LITKREDITAS",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "LKDTLT21"
+        },
+        {
+            "id": 126,
+            "bank": "UAB LSV INTERGROUP",
+            "city": "KAUNAS",
+            "branch": null,
+            "swift_code": "LSVILT21"
+        },
+        {
+            "id": 127,
             "bank": "UAB MEDICINOS BANKAS",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "MDBALT22"
         },
         {
-            "id": 65,
+            "id": 128,
+            "bank": "UAB MINIBANK",
+            "city": "KLAIPEDA",
+            "branch": null,
+            "swift_code": "MNBNLT21"
+        },
+        {
+            "id": 129,
+            "bank": "UAB MOBILUS MOKEJIMAI",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "UAMMLT21"
+        },
+        {
+            "id": 130,
+            "bank": "UAB MOGO LT",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "MOGOLT21"
+        },
+        {
+            "id": 131,
+            "bank": "UAB MYRIAD CAPITAL",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "UAMALT21"
+        },
+        {
+            "id": 132,
+            "bank": "UAB NEO FINANCE",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "UANFLT21"
+        },
+        {
+            "id": 133,
+            "bank": "UAB NORDEA FINANCE LITHUANIA",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "NFLBLT21"
+        },
+        {
+            "id": 134,
+            "bank": "UAB NORDECUM",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "NODCLT21"
+        },
+        {
+            "id": 135,
+            "bank": "UAB PASKOLU GARANTAS",
+            "city": "KLAIPEDA",
+            "branch": null,
+            "swift_code": "PKGRLT21"
+        },
+        {
+            "id": 136,
+            "bank": "UAB PERVESK",
+            "city": "SIAULIAI",
+            "branch": null,
+            "swift_code": "UAPELT21"
+        },
+        {
+            "id": 137,
+            "bank": "UAB POLENERA",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "UAPOLT21"
+        },
+        {
+            "id": 138,
+            "bank": "UAB PRO INVEST GROUP",
+            "city": "KAUNAS",
+            "branch": null,
+            "swift_code": "PNGPLT21"
+        },
+        {
+            "id": 139,
+            "bank": "UAB PROCENTAS",
+            "city": "KAUNAS",
+            "branch": null,
+            "swift_code": "UAPRLT21"
+        },
+        {
+            "id": 140,
+            "bank": "UAB PYRROS LITHUANIA",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "UAPLLT21"
+        },
+        {
+            "id": 141,
+            "bank": "UAB SIGIRE",
+            "city": "KAUNAS",
+            "branch": null,
+            "swift_code": "SGRULT21"
+        },
+        {
+            "id": 142,
+            "bank": "UAB SOSTINES KREDITAI",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "STKDLT21"
+        },
+        {
+            "id": 143,
+            "bank": "UAB SUTELKTINIS FINANSAVIMAS",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "UASFLT21"
+        },
+        {
+            "id": 144,
+            "bank": "UAB ZEROSUM LEASING",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "UAZLLT21"
+        },
+        {
+            "id": 145,
+            "bank": "VERIFIED PAYMENTS",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "VEPALT21"
+        },
+        {
+            "id": 146,
+            "bank": "VIA PAYMENTS UAB",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "VIPULT21"
+        },
+        {
+            "id": 147,
+            "bank": "VILAVISKIO KREDITO UNIJA",
+            "city": "VILKAVISKIS",
+            "branch": null,
+            "swift_code": "VIKILT21"
+        },
+        {
+            "id": 148,
             "bank": "VILNIAUS KREDITO UNIJA",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "VIKULT21"
         },
         {
-            "id": 66,
-            "bank": "VILNIAUS REGIONO KREDITO UNIJA",
-            "city": "VILNIUS",
-            "branch": null,
-            "swift_code": "VRKULT21"
-        },
-        {
-            "id": 67,
+            "id": 149,
             "bank": "VIVUM FMI UAB",
             "city": "VILNIUS",
             "branch": null,
             "swift_code": "VIVULT21"
+        },
+        {
+            "id": 150,
+            "bank": "WB21 UAB",
+            "city": "VILNIUS",
+            "branch": null,
+            "swift_code": "UABULT21"
         }
     ]
 }

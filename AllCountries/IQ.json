@@ -11,605 +11,654 @@
         },
         {
             "id": 2,
+            "bank": "AL ARABIYA ISLAMIC BANK",
+            "city": "BAGHDAD",
+            "branch": null,
+            "swift_code": "ARLMIQBA"
+        },
+        {
+            "id": 3,
             "bank": "AL BARAKA TURK KATILIM BANKASI A.S. ERBIL BRANCH",
             "city": "ARBIL",
             "branch": null,
             "swift_code": "BTFHIQBA"
         },
         {
-            "id": 3,
+            "id": 4,
+            "bank": "AL IRAQ NOOR ISLAMIC BANK FOR INVESTMENT AND FINANCE",
+            "city": "BAGHDAD",
+            "branch": null,
+            "swift_code": "SBIBIQBA"
+        },
+        {
+            "id": 5,
             "bank": "AL NIBAL AL ARABYA FOR MONEY TRANSFER",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "ANATIQBA"
         },
         {
-            "id": 4,
+            "id": 6,
             "bank": "AL RAFIDAIN BANK",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "RAFBIQBA"
         },
         {
-            "id": 5,
+            "id": 7,
             "bank": "AL-ASSWAR CO. FOR MONEY TRANSFER",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "ASWRIQB1"
         },
         {
-            "id": 6,
+            "id": 8,
             "bank": "AL-BILAD ISLAMIC BANK FOR INVESTMENT AND FINANCE",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "AIIFIQBA"
         },
         {
-            "id": 7,
-            "bank": "AL-HAREER COMPANY FOR MONEY TRANSFER",
-            "city": "AL NAJAF",
-            "branch": null,
-            "swift_code": "IJHAIQBA"
-        },
-        {
-            "id": 8,
+            "id": 9,
             "bank": "AL-HUDA BANK",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "BHDAIQBA"
         },
         {
-            "id": 9,
-            "bank": "AL-IRAQIA FOR MONEY TRANSFER CO.",
-            "city": "BAGHDAD",
-            "branch": null,
-            "swift_code": "IRAQIQBA"
-        },
-        {
             "id": 10,
-            "bank": "AL-MARAJ AL ALAMIYA COMPANY FOR MONEY TRANSFER",
+            "bank": "AL-JANOOB ISLAMIC BANK",
             "city": "BAGHDAD",
             "branch": null,
-            "swift_code": "MCFTIQBA"
+            "swift_code": "AJILIQBA"
         },
         {
             "id": 11,
-            "bank": "AL-MUHEJ COMPANY FOR MONEY TRANSFER",
+            "bank": "AL-QABIDH ISLAMIC BANK CO. FOR FINANCE AND INVESTMENT",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "BMMCIQBA"
         },
         {
             "id": 12,
-            "bank": "AL-NAHIR AL-KHALED MONEY TRANSFER",
+            "bank": "AL-QURTAS ISLAMIC BANK FOR INVESTMENT AND FINANCE",
             "city": "BAGHDAD",
             "branch": null,
-            "swift_code": "IRFTIQBA"
+            "swift_code": "AQSBIQBA"
         },
         {
             "id": 13,
-            "bank": "ALNOOR FOR MONEY TRANSFER CO. SHAREHOLDING",
+            "bank": "ALRAWAHEL ISLAMIC INVESTMENT AND FINANCE BANK",
             "city": "BAGHDAD",
             "branch": null,
-            "swift_code": "NOORIQBA"
+            "swift_code": "IRMTIQBA"
         },
         {
             "id": 14,
-            "bank": "ALRABITA ALMALIYA FOR MONEY TRANSFER",
-            "city": "AL-SAMAWAH",
-            "branch": null,
-            "swift_code": "AAMTIQBA"
-        },
-        {
-            "id": 15,
             "bank": "ARAB BANKING CORPORATION",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "ABCOIQB1"
         },
         {
-            "id": 16,
+            "id": 15,
             "bank": "ASHUR INTERNATIONAL BANK FOR INVESTMENT",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "AIBIIQBA"
         },
         {
-            "id": 17,
-            "bank": "ASYA KATILIM BANKASI A.S. ARBIL BRANCH",
-            "city": "ARBIL",
-            "branch": null,
-            "swift_code": "ASYAIQBA"
-        },
-        {
-            "id": 18,
-            "bank": "ATAA ALGHARY FOR MONEY TRANSFERRING COMPANY",
-            "city": "BAGHDAD",
-            "branch": null,
-            "swift_code": "AAMYIQBA"
-        },
-        {
-            "id": 19,
-            "bank": "BABYLON BANK COMPANY",
+            "id": 16,
+            "bank": "BABYLON BANK",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "BABKIQBA"
         },
         {
-            "id": 20,
+            "id": 17,
             "bank": "BANK AUDI S.A.L. (IRAQ BRANCHES)",
             "city": "BAGHDAD",
             "branch": null,
-            "swift_code": "AUDBIQB1"
+            "swift_code": "AUDBIQBA"
         },
         {
-            "id": 21,
+            "id": 18,
+            "bank": "BANK MELLI IRAN-IRAQ BRANCH",
+            "city": "BAGHDAD",
+            "branch": null,
+            "swift_code": "MELIIQBA"
+        },
+        {
+            "id": 19,
             "bank": "BANK OF BAGHDAD",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "BABIIQBA"
         },
         {
-            "id": 22,
+            "id": 20,
             "bank": "BANKMED SAL, IRAQ",
             "city": "ARBIL",
             "branch": null,
             "swift_code": "MEDLIQBAARB"
         },
         {
-            "id": 23,
+            "id": 21,
             "bank": "BANKMED SAL, IRAQ",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "MEDLIQBA"
         },
         {
-            "id": 24,
+            "id": 22,
             "bank": "BANKMED SAL, IRAQ",
             "city": "BASRAH",
             "branch": "(BASRAH BRANCH)",
             "swift_code": "MEDLIQBABAS"
         },
         {
-            "id": 25,
+            "id": 23,
             "bank": "BANQUE LIBANO-FRANAISE SAL - IRAQ",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "BLFSIQBA"
         },
         {
-            "id": 26,
+            "id": 24,
             "bank": "BASRAH INTERNATIONAL BANK FOR INVESTMENT",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "BIBIIQB1"
         },
         {
-            "id": 27,
+            "id": 25,
             "bank": "BBAC SAL ERBIL BRANCH",
             "city": "ARBIL",
             "branch": null,
             "swift_code": "BBACIQBA"
         },
         {
-            "id": 28,
+            "id": 26,
             "bank": "BLOM BANK S.A.L.",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "BLOMIQBA"
         },
         {
-            "id": 29,
+            "id": 27,
             "bank": "BYBLOS BANK SAL IRAQ",
             "city": "ARBIL",
             "branch": null,
             "swift_code": "BYBAIQBA"
         },
         {
-            "id": 30,
+            "id": 28,
             "bank": "BYBLOS BANK SAL IRAQ",
             "city": "BAGHDAD",
             "branch": "(BYBLOS BANK SAL)",
             "swift_code": "BYBAIQBABAG"
         },
         {
-            "id": 31,
+            "id": 29,
             "bank": "BYBLOS BANK SAL IRAQ",
             "city": "BASRAH",
             "branch": null,
             "swift_code": "BYBAIQBABAS"
         },
         {
-            "id": 32,
+            "id": 30,
             "bank": "BYBLOS BANK SAL IRAQ",
             "city": "SULAYMINYA",
             "branch": null,
             "swift_code": "BYBAIQBASUL"
         },
         {
-            "id": 33,
+            "id": 31,
             "bank": "CENTRAL BANK OF IRAQ",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "CBIRIQBA"
         },
         {
-            "id": 34,
+            "id": 32,
             "bank": "CIHAN BANK FOR ISLAMIC INVESTMENT AND FINANCE",
             "city": "ARBIL",
             "branch": null,
             "swift_code": "CIHBIQBA"
         },
         {
+            "id": 33,
+            "bank": "COMMERCIAL BANK OF IRAQ P.S.C.",
+            "city": "BAGHDAD",
+            "branch": "(ADHAMYA BRANCH)",
+            "swift_code": "AUBBIQBA808"
+        },
+        {
+            "id": 34,
+            "bank": "COMMERCIAL BANK OF IRAQ P.S.C.",
+            "city": "BAGHDAD",
+            "branch": "(BASRA BRANCH)",
+            "swift_code": "AUBBIQBA809"
+        },
+        {
             "id": 35,
-            "bank": "COMMERCIAL BANK OF IRAQ (S.A.)",
+            "bank": "COMMERCIAL BANK OF IRAQ P.S.C.",
+            "city": "BAGHDAD",
+            "branch": "(KADHUMAIN BRANCH)",
+            "swift_code": "AUBBIQBA807"
+        },
+        {
+            "id": 36,
+            "bank": "COMMERCIAL BANK OF IRAQ P.S.C.",
+            "city": "BAGHDAD",
+            "branch": "(KHULANI BRANCH)",
+            "swift_code": "AUBBIQBA802"
+        },
+        {
+            "id": 37,
+            "bank": "COMMERCIAL BANK OF IRAQ P.S.C.",
+            "city": "BAGHDAD",
+            "branch": "(MAIN BRANCH)",
+            "swift_code": "AUBBIQBA810"
+        },
+        {
+            "id": 38,
+            "bank": "COMMERCIAL BANK OF IRAQ P.S.C.",
+            "city": "BAGHDAD",
+            "branch": "(MANSOUR BRANCH)",
+            "swift_code": "AUBBIQBA805"
+        },
+        {
+            "id": 39,
+            "bank": "COMMERCIAL BANK OF IRAQ P.S.C.",
+            "city": "BAGHDAD",
+            "branch": "(PALESTINE BRANCH)",
+            "swift_code": "AUBBIQBA804"
+        },
+        {
+            "id": 40,
+            "bank": "COMMERCIAL BANK OF IRAQ P.S.C.",
+            "city": "BAGHDAD",
+            "branch": "(RASHEED CAMP BRANCH)",
+            "swift_code": "AUBBIQBA806"
+        },
+        {
+            "id": 41,
+            "bank": "COMMERCIAL BANK OF IRAQ P.S.C.",
+            "city": "BAGHDAD",
+            "branch": "(SHORJA BRANCH)",
+            "swift_code": "AUBBIQBA803"
+        },
+        {
+            "id": 42,
+            "bank": "COMMERCIAL BANK OF IRAQ P.S.C.",
+            "city": "BAGHDAD",
+            "branch": "(WATHIQ BRANCH)",
+            "swift_code": "AUBBIQBA801"
+        },
+        {
+            "id": 43,
+            "bank": "COMMERCIAL BANK OF IRAQ P.S.C.",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "AUBBIQBA"
         },
         {
-            "id": 36,
+            "id": 44,
             "bank": "CREDIT BANK OF IRAQ",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "CBIQIQBA"
         },
         {
-            "id": 37,
+            "id": 45,
             "bank": "CREDIT LIBANAIS SAL",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "CLIBIQBA"
         },
         {
-            "id": 38,
+            "id": 46,
             "bank": "DAR ES SALAAM INVESTMENT BANK",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "DSIVIQBA"
         },
         {
-            "id": 39,
+            "id": 47,
             "bank": "DIJLAH AND FURAT BANK",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "DFDIIQBA"
         },
         {
-            "id": 40,
+            "id": 48,
             "bank": "ECONOMY BANK",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "ECOOIQB1"
         },
         {
-            "id": 41,
+            "id": 49,
             "bank": "ECONOMY BANK FOR INVESTMENT AND FINANCE",
             "city": "BAGHDAD",
             "branch": "(ALSHORJAH)",
             "swift_code": "ECOVIQBA616"
         },
         {
-            "id": 42,
+            "id": 50,
             "bank": "ECONOMY BANK FOR INVESTMENT AND FINANCE",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "ECOVIQBA"
         },
         {
-            "id": 43,
+            "id": 51,
             "bank": "ELAF ISLAMIC BANK",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "ELAFIQBA"
         },
         {
-            "id": 44,
+            "id": 52,
             "bank": "ERBIL BANK FOR INVESTMENT AND FINANCE",
             "city": "ARBIL",
             "branch": null,
             "swift_code": "EBIFIQBA"
         },
         {
-            "id": 45,
+            "id": 53,
             "bank": "FRANSABANK SAL, IRAQ BRANCH",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "FSABIQBA"
         },
         {
-            "id": 46,
+            "id": 54,
             "bank": "GULF COMMERCIAL BANK",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "GUCEIQBA"
         },
         {
-            "id": 47,
+            "id": 55,
             "bank": "IBL BANK, SAL",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "INLEIQBA"
         },
         {
-            "id": 48,
+            "id": 56,
             "bank": "INDUSTRIAL BANK,THE",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "IBIQIQB1"
         },
         {
-            "id": 49,
+            "id": 57,
             "bank": "INTERNATIONAL DEVELOPMENT BANK FOR INVESTMENT AND FINANCE",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "IDBQIQBA"
         },
         {
-            "id": 50,
+            "id": 58,
+            "bank": "INTERNATIONAL ISLAMIC BANK",
+            "city": "BAGHDAD",
+            "branch": null,
+            "swift_code": "IRAQIQBA"
+        },
+        {
+            "id": 59,
             "bank": "INVESTMENT BANK OF IRAQ",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "IVBIIQBA"
         },
         {
-            "id": 51,
+            "id": 60,
             "bank": "IRAQI ISLAMIC BANK FOR INVESTMENT AND DEVELOPMENT",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "IRIBIQBA"
         },
         {
-            "id": 52,
+            "id": 61,
             "bank": "IRAQI MIDDLE EAST INVESTMENT BANK",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "IMEBIQBA"
         },
         {
-            "id": 53,
-            "bank": "IRAQNA MONEY TRANSFER",
+            "id": 62,
+            "bank": "ISLAMIC COOPERATION BANK FOR DEVELOPMENT AND INVESTMENT",
             "city": "BAGHDAD",
-            "branch": null,
-            "swift_code": "IRMTIQBA"
+            "branch": "(RCDFIQBAMLD)",
+            "swift_code": "RCDFIQBAMLD"
         },
         {
-            "id": 54,
+            "id": 63,
+            "bank": "ISLAMIC COOPERATION BANK FOR DEVELOPMENT AND INVESTMENT",
+            "city": "BAGHDAD",
+            "branch": null,
+            "swift_code": "RCDFIQBA"
+        },
+        {
+            "id": 64,
             "bank": "KARMAL STOCK EXCHANGE",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "KARMIQB1"
         },
         {
-            "id": 55,
+            "id": 65,
             "bank": "KURDISTAN INTERNATIONAL BANK",
             "city": "ARBIL",
             "branch": "(PESHWA (ERBIL)  BRANCH)",
             "swift_code": "KIBIIQBAERB"
         },
         {
-            "id": 56,
+            "id": 66,
             "bank": "KURDISTAN INTERNATIONAL BANK",
             "city": "ARBIL",
             "branch": null,
             "swift_code": "KIBIIQBA"
         },
         {
-            "id": 57,
+            "id": 67,
             "bank": "KURDISTAN INTERNATIONAL BANK",
             "city": "BAGHDAD",
             "branch": "(BAGHDAD BRANCH)",
             "swift_code": "KIBIIQBABGH"
         },
         {
-            "id": 58,
+            "id": 68,
             "bank": "KURDISTAN INTERNATIONAL BANK",
             "city": "DUHOK",
             "branch": "(DUHOK BRANCH)",
             "swift_code": "KIBIIQBADHK"
         },
         {
-            "id": 59,
+            "id": 69,
             "bank": "KURDISTAN INTERNATIONAL BANK",
             "city": "SULAYMINYA",
             "branch": "(SULAYMINYA BRANCH)",
             "swift_code": "KIBIIQBASUL"
         },
         {
-            "id": 60,
+            "id": 70,
             "bank": "MANSOUR BANK FOR INVESTMENT",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "MBIVIQBA"
         },
         {
-            "id": 61,
+            "id": 71,
+            "bank": "MIDDLE EAST AND AFRICA BANK (L.J.S.C)",
+            "city": "BAGHDAD",
+            "branch": null,
+            "swift_code": "BAMOIQBA"
+        },
+        {
+            "id": 72,
             "bank": "MOSUL BANK",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "MOUUIQBA"
         },
         {
-            "id": 62,
+            "id": 73,
             "bank": "NATIONAL BANK OF IRAQ",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "NBIQIQBA"
         },
         {
-            "id": 63,
+            "id": 74,
             "bank": "NATIONAL ISLAMIC BANK",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "NISBIQBA"
         },
         {
-            "id": 64,
-            "bank": "NOBLES FOR MONEY TRANSFER CO.SHARE HOLDING",
-            "city": "BAGHDAD",
-            "branch": null,
-            "swift_code": "NBLSIQBA"
-        },
-        {
-            "id": 65,
+            "id": 75,
             "bank": "NORTH BANK",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "NRTTIQBA"
         },
         {
-            "id": 66,
+            "id": 76,
+            "bank": "PARSIAN BANK",
+            "city": "BAGHDAD",
+            "branch": null,
+            "swift_code": "BKPAIQBA"
+        },
+        {
+            "id": 77,
             "bank": "RABEE SECURITIES",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "RASEIQB1"
         },
         {
-            "id": 67,
-            "bank": "RASHEED BANK",
-            "city": "BAGHDAD",
-            "branch": "(AL-RUSAFI BRANCH 505)",
-            "swift_code": "RDBAIQB10B2"
-        },
-        {
-            "id": 68,
-            "bank": "RASHEED BANK",
-            "city": "BAGHDAD",
-            "branch": "(COMMERCIAL CREDIT BRANCH NO. 506)",
-            "swift_code": "RDBAIQB10B3"
-        },
-        {
-            "id": 69,
-            "bank": "RASHEED BANK",
-            "city": "BAGHDAD",
-            "branch": null,
-            "swift_code": "RDBAIQB1"
-        },
-        {
-            "id": 70,
+            "id": 78,
             "bank": "RASHEED BANK",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "RDBAIQBB"
         },
         {
-            "id": 71,
-            "bank": "RASHEED BANK",
-            "city": "BASRAH",
-            "branch": "(AL-THAWRA STREET BRANCH NO. 88)",
-            "swift_code": "RDBAIQB10B8"
-        },
-        {
-            "id": 72,
-            "bank": "RASHEED BANK",
-            "city": "HILLA",
-            "branch": "(HILLA BRANCH NO. 5)",
-            "swift_code": "RDBAIQB10B7"
-        },
-        {
-            "id": 73,
-            "bank": "RASHEED BANK",
-            "city": "KIRKUK",
-            "branch": "(ARRAPHA BRANCH NO.76)",
-            "swift_code": "RDBAIQB10B6"
-        },
-        {
-            "id": 74,
-            "bank": "RASHEED BANK",
-            "city": "MOSUL",
-            "branch": "(MOSUL BRANCH NO. 3)",
-            "swift_code": "RDBAIQB10B5"
-        },
-        {
-            "id": 75,
+            "id": 79,
             "bank": "REAL ESTATE BANK,THE",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "REEBIQB1"
         },
         {
-            "id": 76,
+            "id": 80,
             "bank": "REGION TRADE BANK FOR INVESTMENT AND FINANCE (FORMERLY EMERALD BANK)",
             "city": "ARBIL",
             "branch": null,
-            "swift_code": "EMERIQBA"
+            "swift_code": "RTBAIQBA"
         },
         {
-            "id": 77,
+            "id": 81,
             "bank": "STANDARD CHARTERED BANK IRAQ BRANCH",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "SCBLIQBD"
         },
         {
-            "id": 78,
+            "id": 82,
             "bank": "SUMER COMMERCIAL BANK",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "SUCIIQBA"
         },
         {
-            "id": 79,
+            "id": 83,
+            "bank": "THE BANK OF ISLAMIC WORLD FOR INVESTMENT AND FINANCING, PJSC",
+            "city": "BAGHDAD",
+            "branch": null,
+            "swift_code": "WDBKIQBA"
+        },
+        {
+            "id": 84,
             "bank": "TRADE BANK OF IRAQ",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "TRIQIQBA"
         },
         {
-            "id": 80,
+            "id": 85,
             "bank": "TRANS IRAQ BANK",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "TIRAIQBA"
         },
         {
-            "id": 81,
+            "id": 86,
+            "bank": "TRUST INTERNATIONAL ISLAMIC BANK",
+            "city": "BAGHDAD",
+            "branch": null,
+            "swift_code": "MCFTIQBA"
+        },
+        {
+            "id": 87,
             "bank": "TURKIYE CUMHURIYETI ZIRAAT BANKASI A.S.",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "TCZBIQBA"
         },
         {
-            "id": 82,
+            "id": 88,
             "bank": "TURKIYE IS BANKASI A.S. ALL IRAQ BRANCHES",
             "city": "ARBIL",
             "branch": null,
             "swift_code": "ISBKIQBA"
         },
         {
-            "id": 83,
+            "id": 89,
             "bank": "TURKIYE VAKIFLAR BANKASI ERBIL BRANCH",
             "city": "ARBIL",
             "branch": null,
             "swift_code": "TVBAIQBR"
         },
         {
-            "id": 84,
+            "id": 90,
             "bank": "UNION BANK OF IRAQ",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "UNRAIQBA"
         },
         {
-            "id": 85,
+            "id": 91,
             "bank": "UNITED BANK FOR INVESTMENT",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "UNTVIQBA"
         },
         {
-            "id": 86,
+            "id": 92,
             "bank": "UNITED COMPANY FOR FINANCIAL TRANSFER",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "UCFTIQB1"
         },
         {
-            "id": 87,
+            "id": 93,
             "bank": "WARKA BANK FOR INVESTMENT AND FINANCE",
             "city": "BAGHDAD",
             "branch": null,
             "swift_code": "WAIVIQBA"
+        },
+        {
+            "id": 94,
+            "bank": "ZAIN IRAQ ISLAMIC BANK FOR INVESTMENT AND FINANCE",
+            "city": "BAGHDAD",
+            "branch": null,
+            "swift_code": "BZIIIQBA"
         }
     ]
 }

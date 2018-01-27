@@ -42,21 +42,21 @@
             "bank": "CENTRAL BANK OF BARBADOS",
             "city": "BRIDGETOWN",
             "branch": null,
-            "swift_code": "CBABBBBB"
+            "swift_code": "CBABBBB1ACC"
         },
         {
             "id": 7,
             "bank": "CENTRAL BANK OF BARBADOS",
             "city": "BRIDGETOWN",
             "branch": null,
-            "swift_code": "CBABBBB1ACC"
+            "swift_code": "CBABBBB1BSE"
         },
         {
             "id": 8,
             "bank": "CENTRAL BANK OF BARBADOS",
             "city": "BRIDGETOWN",
             "branch": null,
-            "swift_code": "CBABBBB1BSE"
+            "swift_code": "CBABBBBB"
         },
         {
             "id": 9,
@@ -123,17 +123,17 @@
         },
         {
             "id": 18,
-            "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (OFFSHORE) LIMITED",
-            "city": "CHRISTCHURCH",
-            "branch": null,
-            "swift_code": "FCIBBBB2"
-        },
-        {
-            "id": 19,
             "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK LIMITED",
             "city": "ST. MICHAEL",
             "branch": null,
             "swift_code": "FCIBBBBB"
+        },
+        {
+            "id": 19,
+            "bank": "FIRSTCARIBBEAN INTERNATIONAL WEALTH MANAGEMENT BANK (BARBADOS) LIMITED",
+            "city": "CHRISTCHURCH",
+            "branch": null,
+            "swift_code": "FCIBBBB2"
         },
         {
             "id": 20,
@@ -173,7 +173,7 @@
         {
             "id": 25,
             "bank": "RBC BARBADOS TRADING BANK CORPORATION",
-            "city": "ST. MICHAEL",
+            "city": "ST. JAMES",
             "branch": null,
             "swift_code": "RBTOBBBB"
         },

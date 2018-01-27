@@ -11,801 +11,850 @@
         },
         {
             "id": 2,
+            "bank": "AGENTURA PRE RIADENIE DLHU A LIKVIDITY",
+            "city": "BRATISLAVA",
+            "branch": null,
+            "swift_code": "APRDSKB1"
+        },
+        {
+            "id": 3,
             "bank": "AIG FUNDS CENTRAL EUROPE SPRAV.SPOL., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "AFEUSKB1"
         },
         {
-            "id": 3,
+            "id": 4,
             "bank": "AKCENTA, S.U.D., POBOCKA SLOVENSKO",
             "city": "KOSICE",
             "branch": null,
             "swift_code": "AKCTSK21"
         },
         {
-            "id": 4,
+            "id": 5,
             "bank": "ALLIANZ ASSET MANAGEMENT, SPRAV. SPOL.,A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "AAMPSKB1"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "AM SLSP SPRAV. SPOL., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "SLSSSKB1"
         },
         {
-            "id": 6,
+            "id": 7,
             "bank": "AMSLICO AIG SECURITIES O.C.P, A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "AASCSKB1"
         },
         {
-            "id": 7,
+            "id": 8,
+            "bank": "ASSET MANAGEMENT SLOVENSKEJ SPORITE LNE, SPRAV. SPOL., A.S.",
+            "city": "BRATISLAVA",
+            "branch": null,
+            "swift_code": "AMLSSKB1"
+        },
+        {
+            "id": 9,
             "bank": "BHS SLOVAKIA, O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "BHSOSKB1"
         },
         {
-            "id": 8,
+            "id": 10,
             "bank": "BKS BANK AG, POBOCKA ZAHRANICNEJ BANKY",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "BFKKSKBB"
         },
         {
-            "id": 9,
+            "id": 11,
+            "bank": "BNP PARIBAS PERSONAL FINANCE SA POBOCKA ZAHRANICNEJ BANKY",
+            "city": "BRATISLAVA",
+            "branch": null,
+            "swift_code": "BPPCSKB1"
+        },
+        {
+            "id": 12,
             "bank": "BROKERSKY DOM O.C.P. A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "BRODSKB1"
         },
         {
-            "id": 10,
+            "id": 13,
             "bank": "BUDA-CASH ZRT.-POBOCKA BRATISLAVA",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "BUZBSKB1"
         },
         {
-            "id": 11,
+            "id": 14,
             "bank": "BURZA CENNYCH PAPIEROV V BRATISLAVE, A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "XBRASKB1"
         },
         {
-            "id": 12,
+            "id": 15,
             "bank": "CAPITAL INVEST, O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "CINHSKB1"
         },
         {
-            "id": 13,
+            "id": 16,
             "bank": "CAPITAL MARKETS, O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "CMRCSKB1"
         },
         {
-            "id": 14,
+            "id": 17,
+            "bank": "CENTRALNY DEPOZITAR CENNYCH PAPIEROV SR, A.S.",
+            "city": "BRATISLAVA",
+            "branch": "(DEPOSITORY INFORMATION SYSTEM)",
+            "swift_code": "CSDSSKBASYS"
+        },
+        {
+            "id": 18,
             "bank": "CENTRALNY DEPOZITAR CENNYCH PAPIEROV SR, A.S.",
             "city": "BRATISLAVA",
             "branch": "(DEPOSITORY TECHNICAL ACCOUNT)",
             "swift_code": "CSDSSKBADTA"
         },
         {
-            "id": 15,
+            "id": 19,
             "bank": "CENTRALNY DEPOZITAR CENNYCH PAPIEROV SR, A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "CSDSSKBA"
         },
         {
-            "id": 16,
+            "id": 20,
             "bank": "CESKOSLOVENSKA OBCHODNA BANKA, A.S.",
             "city": "BRATISLAVA",
             "branch": "(SLOVAK REPUBLIC DIVISION)",
             "swift_code": "CEKOSKBX"
         },
         {
-            "id": 17,
+            "id": 21,
             "bank": "CITIBANK EUROPE PLC, POBOCKA ZAHRANICNEJ BANKY",
             "city": "BRATISLAVA",
             "branch": "(RESTRICTED USE CITIBANK BRATISLAVA TARGET 2)",
             "swift_code": "CITISKBASEC"
         },
         {
-            "id": 18,
+            "id": 22,
             "bank": "CITIBANK EUROPE PLC, POBOCKA ZAHRANICNEJ BANKY",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "CITISKBA"
         },
         {
-            "id": 19,
+            "id": 23,
             "bank": "COMMERZBANK AG",
             "city": "BRATISLAVA",
             "branch": "(ADMINISTRATION)",
             "swift_code": "COBASKBXTBR"
         },
         {
-            "id": 20,
+            "id": 24,
             "bank": "COMMERZBANK AG",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "COBASKBX"
         },
         {
-            "id": 21,
+            "id": 25,
             "bank": "CSOB ASSET MANAGEMENT, SPRAV.SPOL., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "CSMPSKB1"
         },
         {
-            "id": 22,
+            "id": 26,
             "bank": "CSOB STAVEBNA SPORITELNA, A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "KBSPSKBX"
         },
         {
-            "id": 23,
+            "id": 27,
             "bank": "DLHOPIS, O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "DLOCSKB1"
         },
         {
-            "id": 24,
+            "id": 28,
             "bank": "EUROPEAN INVESTMENT CENTRE",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "EUICSKB1"
         },
         {
-            "id": 25,
+            "id": 29,
             "bank": "EUROPEAN RATING AGENCY, A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "EUACSKB1"
         },
         {
-            "id": 26,
+            "id": 30,
             "bank": "EXPORT-IMPORT BANK OF SLOVAK REPUBLIC",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "EXSKSKBX"
         },
         {
-            "id": 27,
+            "id": 31,
             "bank": "FIMEX CAPITAL O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "FIAPSKB1"
         },
         {
-            "id": 28,
+            "id": 32,
             "bank": "FIO BANKA, A.S., POBOCKA ZAHRANICNEJ BANKY",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "FIOZSKBA"
         },
         {
-            "id": 29,
+            "id": 33,
             "bank": "FIO O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "FOOCSKB1"
         },
         {
-            "id": 30,
+            "id": 34,
             "bank": "FIRST DATA SLOVAKIA, S.R.O.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "FDXXSKBA"
         },
         {
-            "id": 31,
+            "id": 35,
             "bank": "INFINITY CAPITAL, O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "IFCCSKB1"
         },
         {
-            "id": 32,
+            "id": 36,
             "bank": "ING BANK N.V., POBOCKA ZAHR, BANKY",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "INGBSKBX"
         },
         {
-            "id": 33,
+            "id": 37,
             "bank": "INVESTICNA A DOCHODKOVA, SPRAV. SPOL., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "IDSSSKB1"
         },
         {
-            "id": 34,
+            "id": 38,
             "bank": "J AND T BANKA, A.S.,POBOCKA ZAHRANICNEJ BANKY",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "JTBPSKBA"
         },
         {
-            "id": 35,
+            "id": 39,
             "bank": "J AND T CORPORATE FINANCE SLOVAKIA, A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "SESCSKB1"
         },
         {
-            "id": 36,
+            "id": 40,
             "bank": "J AND T FINANCE GROUP, A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "FGRPSKB1"
         },
         {
-            "id": 37,
+            "id": 41,
             "bank": "KDB BANK EUROPE LTD SLOVAKIAN BRANCH OFFICE",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "KODBSKBX"
         },
         {
-            "id": 38,
+            "id": 42,
             "bank": "KOMERCNI BANKA , A.S., POBOCKA ZAHRANICNEJ BANKY",
             "city": "BRATISLAVA",
             "branch": "(RESTRICTED TARGET USE)",
             "swift_code": "KOMBSKBATGT"
         },
         {
-            "id": 39,
+            "id": 43,
             "bank": "KOMERCNI BANKA , A.S., POBOCKA ZAHRANICNEJ BANKY",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "KOMBSKBA"
         },
         {
-            "id": 40,
+            "id": 44,
             "bank": "M SECURITIES O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "KEIOSKB1"
         },
         {
-            "id": 41,
+            "id": 45,
             "bank": "MBANK S.A., POBOCKA ZAHRANICNEJ BANKY",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "BREXSKBX"
         },
         {
-            "id": 42,
+            "id": 46,
             "bank": "MINISTRY OF FINANCE OF THE SLOVAK REPUBLIC",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "MFSRSKB1"
         },
         {
-            "id": 43,
+            "id": 47,
             "bank": "MOBIS SLOVAKIA S.R.O.",
             "city": "GBELANY",
             "branch": null,
             "swift_code": "HYMOSK21"
         },
         {
-            "id": 44,
+            "id": 48,
             "bank": "MONDELEZ EUROPEAN BUSINESS SERVICES CENTRE, S.R.O.",
             "city": "BRATISLAVA",
             "branch": "(CUSTOMER NAMING CONVENTION)",
             "swift_code": "KRAFSKBAPYL"
         },
         {
-            "id": 45,
+            "id": 49,
             "bank": "MONDELEZ EUROPEAN BUSINESS SERVICES CENTRE, S.R.O.",
             "city": "BRATISLAVA",
             "branch": "(SHARED SERVICE CENTRE)",
             "swift_code": "KRAFSKBASSC"
         },
         {
-            "id": 46,
+            "id": 50,
             "bank": "MONDELEZ EUROPEAN BUSINESS SERVICES CENTRE, S.R.O.",
             "city": "BRATISLAVA",
             "branch": "(TREASURY)",
             "swift_code": "KRAFSKBATSY"
         },
         {
-            "id": 47,
+            "id": 51,
             "bank": "MONDELEZ EUROPEAN BUSINESS SERVICES CENTRE, S.R.O.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "KRAFSKBA"
         },
         {
-            "id": 48,
+            "id": 52,
             "bank": "MONEY MARKET BROKERS, O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "MMBCSKB1"
         },
         {
-            "id": 49,
+            "id": 53,
             "bank": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
             "city": "BRATISLAVA",
             "branch": "(ACCOUNT FOR EBA CLEARING SETTLEMENT)",
             "swift_code": "NBSBSKBXEBA"
         },
         {
-            "id": 50,
+            "id": 54,
             "bank": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
             "city": "BRATISLAVA",
             "branch": "(ACCOUNT FOR FEES)",
             "swift_code": "NBSBSKBXFE1"
         },
         {
-            "id": 51,
+            "id": 55,
             "bank": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
             "city": "BRATISLAVA",
             "branch": "(ACCOUNT FOR INTERESTS)",
             "swift_code": "NBSBSKBXIN1"
         },
         {
-            "id": 52,
+            "id": 56,
             "bank": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
             "city": "BRATISLAVA",
             "branch": "(AS)",
             "swift_code": "NBSBSKBXSIP"
         },
         {
-            "id": 53,
+            "id": 57,
             "bank": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
             "city": "BRATISLAVA",
             "branch": "(CCB ACCOUNT)",
             "swift_code": "NBSBSKBXCCB"
         },
         {
-            "id": 54,
+            "id": 58,
             "bank": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
             "city": "BRATISLAVA",
             "branch": "(ECB ACCOUNT)",
             "swift_code": "NBSBSKBXEUX"
         },
         {
-            "id": 55,
+            "id": 59,
+            "bank": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
+            "city": "BRATISLAVA",
+            "branch": "(TARGET2 CUSTOMER PAYMENTS)",
+            "swift_code": "NBSBSKBXTGT"
+        },
+        {
+            "id": 60,
             "bank": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
             "city": "BRATISLAVA",
             "branch": "(TEST ACCOUNT)",
             "swift_code": "NBSBSKBX100"
         },
         {
-            "id": 56,
+            "id": 61,
             "bank": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
             "city": "BRATISLAVA",
             "branch": "(TEST ACCOUNT)",
             "swift_code": "NBSBSKBX200"
         },
         {
-            "id": 57,
+            "id": 62,
             "bank": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "NBSBSKBX"
         },
         {
-            "id": 58,
+            "id": 63,
             "bank": "NARODNY CENTRALNY DEPOZITAR CENNYCH PAPIEROV, A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "NCDCSKBA"
         },
         {
-            "id": 59,
+            "id": 64,
+            "bank": "NARODNY CENTRALNY DEPOZITAR CENNYCH PAPIEROV, A.S.",
+            "city": "BRATISLAVA",
+            "branch": null,
+            "swift_code": "NCDCSKBATPM"
+        },
+        {
+            "id": 65,
             "bank": "OBERBANK AG",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "OBKLSKBA"
         },
         {
-            "id": 60,
+            "id": 66,
             "bank": "OTP BANKA SLOVENSKO, A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "OTPVSKBX"
         },
         {
-            "id": 61,
+            "id": 67,
             "bank": "OXYS CAPITAL, A.S., O.C.P.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "OXCCSKB1"
         },
         {
-            "id": 62,
+            "id": 68,
             "bank": "PALCO BROKERS, O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "PABOSKB1"
         },
         {
-            "id": 63,
+            "id": 69,
+            "bank": "PAYMENT INSTITUTION NFD A.S.",
+            "city": "STARA LUBOVNA",
+            "branch": null,
+            "swift_code": "NFDNSKBA"
+        },
+        {
+            "id": 70,
             "bank": "PORTFIN, O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "POOCSKB1"
         },
         {
-            "id": 64,
+            "id": 71,
             "bank": "POSTOVA BANKA A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "POBNSKBA"
         },
         {
-            "id": 65,
+            "id": 72,
             "bank": "PRIMA BANKA SLOVENSKO, A.S.",
             "city": "BANSKA BYSTRICA",
             "branch": "(BANSKA BYSTRICA BRANCH)",
             "swift_code": "KOMASK2XBBY"
         },
         {
-            "id": 66,
+            "id": 73,
             "bank": "PRIMA BANKA SLOVENSKO, A.S.",
             "city": "BANSKA STIAVNICA",
             "branch": "(BANSKA STIAVNICA BRANCH)",
             "swift_code": "KOMASK2XBST"
         },
         {
-            "id": 67,
+            "id": 74,
             "bank": "PRIMA BANKA SLOVENSKO, A.S.",
             "city": "BRATISLAVA",
             "branch": "(BRATISLAVA BRANCH)",
             "swift_code": "KOMASK2XBRA"
         },
         {
-            "id": 68,
+            "id": 75,
             "bank": "PRIMA BANKA SLOVENSKO, A.S.",
             "city": "BREZNO",
             "branch": "(BREZNO BRANCH)",
             "swift_code": "KOMASK2XBRE"
         },
         {
-            "id": 69,
+            "id": 76,
             "bank": "PRIMA BANKA SLOVENSKO, A.S.",
             "city": "KOSICE",
             "branch": "(KOSICE BRANCH)",
             "swift_code": "KOMASK2XKOS"
         },
         {
-            "id": 70,
+            "id": 77,
             "bank": "PRIMA BANKA SLOVENSKO, A.S.",
             "city": "LIPTOVSKY HRADOK",
             "branch": "(LIPTOVSKY HRADOK BRANCH)",
             "swift_code": "KOMASK2XLHR"
         },
         {
-            "id": 71,
+            "id": 78,
             "bank": "PRIMA BANKA SLOVENSKO, A.S.",
             "city": "LUCENEC",
             "branch": "(LUCENEC BRANCH)",
             "swift_code": "KOMASK2XLCN"
         },
         {
-            "id": 72,
+            "id": 79,
             "bank": "PRIMA BANKA SLOVENSKO, A.S.",
             "city": "MALACKY",
             "branch": "(MALACKY BRANCH)",
             "swift_code": "KOMASK2XMAL"
         },
         {
-            "id": 73,
+            "id": 80,
             "bank": "PRIMA BANKA SLOVENSKO, A.S.",
             "city": "MICHALOVCE",
             "branch": "(MICHALOVCE BRANCH)",
             "swift_code": "KOMASK2XMCH"
         },
         {
-            "id": 74,
+            "id": 81,
             "bank": "PRIMA BANKA SLOVENSKO, A.S.",
             "city": "NITRA",
             "branch": "(NITRA BRANCH)",
             "swift_code": "KOMASK2XNIT"
         },
         {
-            "id": 75,
+            "id": 82,
             "bank": "PRIMA BANKA SLOVENSKO, A.S.",
             "city": "POVAZSKA BYSTRICA",
             "branch": "(POVAZSKA BYSTRICA BRANCH)",
             "swift_code": "KOMASK2XPBY"
         },
         {
-            "id": 76,
+            "id": 83,
             "bank": "PRIMA BANKA SLOVENSKO, A.S.",
             "city": "SPISSKA NOVA VES",
             "branch": "(SPISSKA NOVA VES BRANCH)",
             "swift_code": "KOMASK2XSNV"
         },
         {
-            "id": 77,
+            "id": 84,
             "bank": "PRIMA BANKA SLOVENSKO, A.S.",
             "city": "TRENCIN",
             "branch": "(TRENCIN BRANCH)",
             "swift_code": "KOMASK2XTRE"
         },
         {
-            "id": 78,
+            "id": 85,
             "bank": "PRIMA BANKA SLOVENSKO, A.S.",
             "city": "TRNAVA",
             "branch": "(TRNAVA BRANCH)",
             "swift_code": "KOMASK2XTNA"
         },
         {
-            "id": 79,
+            "id": 86,
             "bank": "PRIMA BANKA SLOVENSKO, A.S.",
             "city": "ZILINA",
             "branch": "(HEAD OFFICE)",
             "swift_code": "KOMASK2X"
         },
         {
-            "id": 80,
+            "id": 87,
             "bank": "PRIMA BANKA SLOVENSKO, A.S.",
             "city": "ZILINA",
             "branch": "(ZILINA BRANCH)",
             "swift_code": "KOMASK2XZIL"
         },
         {
-            "id": 81,
+            "id": 88,
+            "bank": "PRIMA BANKA SLOVENSKO, A.S. (FORMERLY SBERBANK SLOVENSKO, A.S.)",
+            "city": "ZILINA",
+            "branch": null,
+            "swift_code": "LUBASKBX"
+        },
+        {
+            "id": 89,
             "bank": "PRIVATBANKA, A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "BSLOSK22"
         },
         {
-            "id": 82,
+            "id": 90,
             "bank": "PROXENTA FINANCE, O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "PRFOSKB1"
         },
         {
-            "id": 83,
+            "id": 91,
             "bank": "PRVA STAVEBNA SPORITELNA, A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "PRVASKBA"
         },
         {
-            "id": 84,
+            "id": 92,
+            "bank": "QUANTON SOLUTIONS",
+            "city": "BRATISLAVA",
+            "branch": null,
+            "swift_code": "QSOLSKB1"
+        },
+        {
+            "id": 93,
+            "bank": "RAIFFEISEN CENTROBANK AG SLOVAK BRANCH, POBOCKA ZAHRANICNEJ BANKY",
+            "city": "BRATISLAVA",
+            "branch": null,
+            "swift_code": "CENBSKB1"
+        },
+        {
+            "id": 94,
             "bank": "RM-S MARKET, O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "RMMOSKB1"
         },
         {
-            "id": 85,
+            "id": 95,
             "bank": "RVS, A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "SNCESKB1"
         },
         {
-            "id": 86,
+            "id": 96,
             "bank": "SALVE INVESTMENTS, O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "SAIPSKB1"
         },
         {
-            "id": 87,
+            "id": 97,
             "bank": "SAMSUNG ELECTRONICS LCD SLOVAKIA S.R.O.",
             "city": "BRATISLAVA",
             "branch": "(SEH-SK)",
             "swift_code": "SECTSKS1492"
         },
         {
-            "id": 88,
+            "id": 98,
             "bank": "SAMSUNG ELECTRONICS LCD SLOVAKIA S.R.O.",
             "city": "GALANTA",
             "branch": "(SESK)",
             "swift_code": "SECTSKS14M0"
         },
         {
-            "id": 89,
+            "id": 99,
             "bank": "SAMSUNG ELECTRONICS LCD SLOVAKIA S.R.O.",
             "city": "TRNAVA",
             "branch": "(SELSK)",
             "swift_code": "SECTSKS14B5"
         },
         {
-            "id": 90,
+            "id": 100,
             "bank": "SAMSUNG ELECTRONICS LCD SLOVAKIA S.R.O.",
             "city": "TRNAVA",
             "branch": null,
             "swift_code": "SECTSKS1"
         },
         {
-            "id": 91,
-            "bank": "SBERBANK SLOVENSKO, A.S.",
-            "city": "BRATISLAVA",
-            "branch": null,
-            "swift_code": "LUBASKBX"
-        },
-        {
-            "id": 92,
-            "bank": "SBERBANK SLOVENSKO, A.S.",
-            "city": "GALANTA",
-            "branch": null,
-            "swift_code": "LUBASKBXGAL"
-        },
-        {
-            "id": 93,
-            "bank": "SBERBANK SLOVENSKO, A.S.",
-            "city": "KOSICE",
-            "branch": null,
-            "swift_code": "LUBASKBXKOS"
-        },
-        {
-            "id": 94,
-            "bank": "SBERBANK SLOVENSKO, A.S.",
-            "city": "NITRA",
-            "branch": null,
-            "swift_code": "LUBASKBXNIT"
-        },
-        {
-            "id": 95,
+            "id": 101,
             "bank": "SEVISBROKERS FINANCE O.C.P., A.S.",
             "city": "ZILINA",
             "branch": null,
             "swift_code": "SEFOSK21"
         },
         {
-            "id": 96,
+            "id": 102,
             "bank": "SFM GROUP, O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "SFGOSKB1"
         },
         {
-            "id": 97,
+            "id": 103,
             "bank": "SKODA AUTO SLOVENSKO",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "SKAOSKB1"
         },
         {
-            "id": 98,
+            "id": 104,
             "bank": "SLAVIA CAPITAL, A.S., O.C.P.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "SLCCSKB1"
         },
         {
-            "id": 99,
+            "id": 105,
             "bank": "SLOVAK NATIONAL EMISSION REGISTRY",
             "city": "ZILINA",
             "branch": null,
             "swift_code": "SNERSK21"
         },
         {
-            "id": 100,
+            "id": 106,
             "bank": "SLOVENSKA SPORITELNA, A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "GIBASKBX"
         },
         {
-            "id": 101,
+            "id": 107,
             "bank": "SLOVENSKA ZARUCNA A ROZVOJOVA BANKA, A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "SLZBSKBA"
         },
         {
-            "id": 102,
+            "id": 108,
             "bank": "STATNA POKLADNICA",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "SPSRSKBA"
         },
         {
-            "id": 103,
+            "id": 109,
             "bank": "STATNA POKLADNICA",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "SPSRSKBAARD"
         },
         {
-            "id": 104,
+            "id": 110,
             "bank": "SYMPATIA FINANCIE, O.C.P., A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "SYFOSKB1"
         },
         {
-            "id": 105,
+            "id": 111,
             "bank": "TATRA ASSET MANAGEMENT, SPRAV.SPOL. A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "TAMPSKB1"
         },
         {
-            "id": 106,
+            "id": 112,
             "bank": "TATRA BANKA A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "TATRSKBX"
         },
         {
-            "id": 107,
+            "id": 113,
             "bank": "TRUST PAY, A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "TPAYSKBX"
         },
         {
-            "id": 108,
+            "id": 114,
             "bank": "UNIBON-SPORITELNI A UVERNI DRUZSTVO",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "UNUDSKB1"
         },
         {
-            "id": 109,
+            "id": 115,
             "bank": "UNICREDIT BANK CZ AND SK, SK BRANCH",
             "city": "BRATISLAVA",
             "branch": "(INTERNAL FILE ACT ROUTING)",
             "swift_code": "UNCRSKBXFAR"
         },
         {
-            "id": 110,
+            "id": 116,
+            "bank": "UNICREDIT BANK CZ AND SK, SK BRANCH",
+            "city": "BRATISLAVA",
+            "branch": "(SECURITIES SETTLEMENT)",
+            "swift_code": "UNCRSKBXOWN"
+        },
+        {
+            "id": 117,
             "bank": "UNICREDIT BANK CZ AND SK, SK BRANCH",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "UNCRSKBX"
         },
         {
-            "id": 111,
+            "id": 118,
+            "bank": "VALOR O.C.P., A.S.",
+            "city": "BRATISLAVA",
+            "branch": null,
+            "swift_code": "VOCPSKB1"
+        },
+        {
+            "id": 119,
             "bank": "VOLKSWAGEN FINANCE SLUZBY SLOVENSKO",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "VFSSSKB1"
         },
         {
-            "id": 112,
+            "id": 120,
             "bank": "VSEOBECNA UVEROVA BANKA A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "SUBASKBX"
         },
         {
-            "id": 113,
+            "id": 121,
             "bank": "WUSTENROT STAVEBNA SPORITELNA, A.S.",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "WUSTSKBA"
         },
         {
-            "id": 114,
+            "id": 122,
             "bank": "X-TRADE BROKERS DM S.A., ORGANIZACNA ZLOZKA",
             "city": "BRATISLAVA",
             "branch": null,
             "swift_code": "TBRDSKB1"
-        },
-        {
-            "id": 115,
-            "bank": "ZUNO BANK AG POBOCKA ZAHRANICNEJ BANKY",
-            "city": "BRATISLAVA",
-            "branch": null,
-            "swift_code": "RIDBSKBX"
         }
     ]
 }

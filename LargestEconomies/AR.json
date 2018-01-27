@@ -60,1238 +60,1231 @@
         },
         {
             "id": 9,
+            "bank": "BANCO COLUMBIA S.A.",
+            "city": "BUENOS AIRES",
+            "branch": null,
+            "swift_code": "CLLUARBA"
+        },
+        {
+            "id": 10,
             "bank": "BANCO COMAFI S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "QUILARBA"
         },
         {
-            "id": 10,
+            "id": 11,
             "bank": "BANCO COOPERATIVO DEL ESTE ARGENTINO LTDO.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "CESTARB1"
         },
         {
-            "id": 11,
+            "id": 12,
             "bank": "BANCO CREDICOOP COOPERATIVO LIMITADO",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "BCOOARBA"
         },
         {
-            "id": 12,
+            "id": 13,
+            "bank": "BANCO DE COMERCIO S.A. (FORMERLY METROPOLIS COMPANIA FINANCIERA S.A.)",
+            "city": "BUENOS AIRES",
+            "branch": null,
+            "swift_code": "MCFAARBA"
+        },
+        {
+            "id": 14,
             "bank": "BANCO DE CORRIENTES S.A.",
             "city": "CORRIENTES",
             "branch": null,
             "swift_code": "BCORARBC"
         },
         {
-            "id": 13,
+            "id": 15,
             "bank": "BANCO DE FORMOSA S.A.",
             "city": "FORMOSA",
             "branch": null,
             "swift_code": "BFSAARBF"
         },
         {
-            "id": 14,
+            "id": 16,
             "bank": "BANCO DE GALICIA Y BUENOS AIRES",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "GABAARBA"
         },
         {
-            "id": 15,
+            "id": 17,
             "bank": "BANCO DE INVERSION Y COMERCIO EXTERIOR S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "BICXARBA"
         },
         {
-            "id": 16,
+            "id": 18,
             "bank": "BANCO DE LA CIUDAD DE BUENOS AIRES",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "BACIARBA"
         },
         {
-            "id": 17,
+            "id": 19,
             "bank": "BANCO DE LA NACION ARGENTINA",
             "city": "BAHIA BLANCA",
             "branch": "(BAHIA BLANCA BRANCH)",
             "swift_code": "NACNARBABAH"
         },
         {
-            "id": 18,
+            "id": 20,
             "bank": "BANCO DE LA NACION ARGENTINA",
             "city": "BUENOS AIRES",
             "branch": "(CASA CENTRAL)",
             "swift_code": "NACNARBACCL"
         },
         {
-            "id": 19,
+            "id": 21,
             "bank": "BANCO DE LA NACION ARGENTINA",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "NACNARBA"
         },
         {
-            "id": 20,
+            "id": 22,
             "bank": "BANCO DE LA NACION ARGENTINA",
             "city": "CONCORDIA",
             "branch": "(CONCORDIA BRANCH)",
             "swift_code": "NACNARBACON"
         },
         {
-            "id": 21,
+            "id": 23,
             "bank": "BANCO DE LA NACION ARGENTINA",
             "city": "CORDOBA",
             "branch": "(CORDOBA BRANCH)",
             "swift_code": "NACNARBACOR"
         },
         {
-            "id": 22,
+            "id": 24,
             "bank": "BANCO DE LA NACION ARGENTINA",
             "city": "CORRIENTES",
             "branch": "(CORRIENTES BRANCH)",
             "swift_code": "NACNARBACTS"
         },
         {
-            "id": 23,
+            "id": 25,
             "bank": "BANCO DE LA NACION ARGENTINA",
             "city": "MAR DEL PLATA",
             "branch": "(MAR DEL PLATA BRANCH)",
             "swift_code": "NACNARBAMPL"
         },
         {
-            "id": 24,
+            "id": 26,
             "bank": "BANCO DE LA NACION ARGENTINA",
             "city": "MENDOZA",
             "branch": "(MENDOZA BRANCH)",
             "swift_code": "NACNARBAMEN"
         },
         {
-            "id": 25,
+            "id": 27,
             "bank": "BANCO DE LA NACION ARGENTINA",
             "city": "NEUQUEN",
             "branch": "(NEUQUEN BRANCH)",
             "swift_code": "NACNARBANEU"
         },
         {
-            "id": 26,
+            "id": 28,
             "bank": "BANCO DE LA NACION ARGENTINA",
             "city": "PERGAMINO",
             "branch": "(PERGAMINO BRANCH)",
             "swift_code": "NACNARBAPER"
         },
         {
-            "id": 27,
+            "id": 29,
             "bank": "BANCO DE LA NACION ARGENTINA",
             "city": "POSADAS",
             "branch": "(POSADAS BRANCH)",
             "swift_code": "NACNARBAPOS"
         },
         {
-            "id": 28,
+            "id": 30,
             "bank": "BANCO DE LA NACION ARGENTINA",
             "city": "RAFAELA",
             "branch": "(RAFAELA BRANCH)",
             "swift_code": "NACNARBARAF"
         },
         {
-            "id": 29,
+            "id": 31,
             "bank": "BANCO DE LA NACION ARGENTINA",
             "city": "RECONQUISTA",
             "branch": "(RECONQUISTA BRANCH)",
             "swift_code": "NACNARBAREC"
         },
         {
-            "id": 30,
+            "id": 32,
             "bank": "BANCO DE LA NACION ARGENTINA",
             "city": "RIO CUARTO",
             "branch": "(RIO CUARTO BRANCH)",
             "swift_code": "NACNARBARCU"
         },
         {
-            "id": 31,
+            "id": 33,
             "bank": "BANCO DE LA NACION ARGENTINA",
             "city": "ROSARIO",
             "branch": "(ROSARIO BRANCH)",
             "swift_code": "NACNARBAROS"
         },
         {
-            "id": 32,
+            "id": 34,
             "bank": "BANCO DE LA NACION ARGENTINA",
             "city": "SALTA",
             "branch": "(SALTA BRANCH)",
             "swift_code": "NACNARBASAL"
         },
         {
-            "id": 33,
+            "id": 35,
             "bank": "BANCO DE LA NACION ARGENTINA",
             "city": "SAN JUAN",
             "branch": "(SAN JUAN BRANCH)",
             "swift_code": "NACNARBASJU"
         },
         {
-            "id": 34,
+            "id": 36,
             "bank": "BANCO DE LA NACION ARGENTINA",
             "city": "SAN MIGUEL DE TUCUMAN",
             "branch": "(SAN MIGUEL DE TUCUMAN BRANCH)",
             "swift_code": "NACNARBASMT"
         },
         {
-            "id": 35,
+            "id": 37,
             "bank": "BANCO DE LA NACION ARGENTINA",
             "city": "SAN RAFAEL",
             "branch": "(SAN RAFAEL BRANCH)",
             "swift_code": "NACNARBASRA"
         },
         {
-            "id": 36,
+            "id": 38,
             "bank": "BANCO DE LA NACION ARGENTINA",
             "city": "SANTA FE",
             "branch": "(SANTA FE BRANCH)",
             "swift_code": "NACNARBASFE"
         },
         {
-            "id": 37,
+            "id": 39,
             "bank": "BANCO DE LA NACION ARGENTINA",
             "city": "VILLA MARIA",
             "branch": "(VILLA MARIA BRANCH)",
             "swift_code": "NACNARBAVMA"
         },
         {
-            "id": 38,
+            "id": 40,
             "bank": "BANCO DE LA PAMPA S.E.M.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "PAMPARBA"
         },
         {
-            "id": 39,
+            "id": 41,
             "bank": "BANCO DE LA PAMPA S.E.M.",
             "city": "GENERAL PICO",
             "branch": null,
             "swift_code": "PAMPARBA200"
         },
         {
-            "id": 40,
+            "id": 42,
             "bank": "BANCO DE LA PAMPA S.E.M.",
             "city": "SANTA ROSA",
             "branch": null,
             "swift_code": "PAMPARBA001"
         },
         {
-            "id": 41,
+            "id": 43,
             "bank": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
             "city": "BAHIA BLANCA",
             "branch": "(BAHIA BLANCA BRANCH)",
             "swift_code": "PRBAARBABAH"
         },
         {
-            "id": 42,
+            "id": 44,
             "bank": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
             "city": "BUENOS AIRES",
             "branch": "(DEPARTAMENTO DE CONTABILIDAD INTERNATIONAL BRANCH)",
             "swift_code": "PRBAARBADIV"
         },
         {
-            "id": 43,
+            "id": 45,
             "bank": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "PRBAARBA"
         },
         {
-            "id": 44,
+            "id": 46,
             "bank": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
             "city": "LA PLATA",
             "branch": "(LA PLATA HOUSE)",
             "swift_code": "PRBAARBALPT"
         },
         {
-            "id": 45,
+            "id": 47,
             "bank": "BANCO DE LA PROVINCIA DE BUENOS AIRES",
             "city": "MAR DEL PLATA",
             "branch": null,
             "swift_code": "PRBAARBAMP1"
         },
         {
-            "id": 46,
+            "id": 48,
             "bank": "BANCO DE LA PROVINCIA DE CORDOBA",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "CORDARBA"
         },
         {
-            "id": 47,
+            "id": 49,
             "bank": "BANCO DE LA PROVINCIA DE CORDOBA",
             "city": "CORDOBA",
             "branch": "(GERENCIA DE COMERCIO EXTERIOR)",
             "swift_code": "CORDARBACOR"
         },
         {
-            "id": 48,
+            "id": 50,
             "bank": "BANCO DE LA PROVINCIA DEL NEUQUEN S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "BPNEARBA"
         },
         {
-            "id": 49,
+            "id": 51,
             "bank": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "BROUARBA"
         },
         {
-            "id": 50,
+            "id": 52,
             "bank": "BANCO DE SAN JUAN SA",
             "city": "SAN JUAN",
             "branch": null,
             "swift_code": "BSJUARBJ"
         },
         {
-            "id": 51,
+            "id": 53,
             "bank": "BANCO DE SANTA CRUZ S A",
             "city": "RIO GALLEGOS",
             "branch": null,
             "swift_code": "BPSCARBA"
         },
         {
-            "id": 52,
+            "id": 54,
             "bank": "BANCO DE SERVICIOS Y TRANSACCIONES SA",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "BSTIARBA"
         },
         {
-            "id": 53,
+            "id": 55,
             "bank": "BANCO DE VALORES",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "BAVAARBA"
         },
         {
-            "id": 54,
+            "id": 56,
             "bank": "BANCO DEL CHUBUT S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "BPCHARBA"
         },
         {
-            "id": 55,
+            "id": 57,
             "bank": "BANCO DEL TUCUMAN S.A.",
             "city": "SAN MIGUEL DE TUCUMAN",
             "branch": null,
             "swift_code": "BDTUARBM"
         },
         {
-            "id": 56,
+            "id": 58,
             "bank": "BANCO FINANSUR S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "BFSUARBA"
         },
         {
-            "id": 57,
+            "id": 59,
             "bank": "BANCO HIPOTECARIO S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "BHIPARBA"
         },
         {
-            "id": 58,
+            "id": 60,
             "bank": "BANCO INDUSTRIAL S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "NBIAARBA"
         },
         {
-            "id": 59,
+            "id": 61,
             "bank": "BANCO INTERAMERICANO DE DESARROLLO",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "IDESARB1"
         },
         {
-            "id": 60,
+            "id": 62,
             "bank": "BANCO INTERFINANZAS S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "BIINARBA"
         },
         {
-            "id": 61,
+            "id": 63,
             "bank": "BANCO ITAU ARGENTINA S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "ITAUARBA"
         },
         {
-            "id": 62,
+            "id": 64,
+            "bank": "BANCO JULIO SOCIEDAD ANONIMA",
+            "city": "CORDOBA",
+            "branch": null,
+            "swift_code": "BJULARBC"
+        },
+        {
+            "id": 65,
             "bank": "BANCO MACRO S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "BOSUARBA"
         },
         {
-            "id": 63,
+            "id": 66,
             "bank": "BANCO MARIVA S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "MARIARBA"
         },
         {
-            "id": 64,
+            "id": 67,
             "bank": "BANCO MERCURIO S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "CMERARB1"
         },
         {
-            "id": 65,
+            "id": 68,
             "bank": "BANCO MERIDIAN S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "BMRDARBA"
         },
         {
-            "id": 66,
+            "id": 69,
             "bank": "BANCO MUNICIPAL DE ROSARIO",
             "city": "ROSARIO",
             "branch": null,
             "swift_code": "MUNRARBR"
         },
         {
-            "id": 67,
+            "id": 70,
             "bank": "BANCO PATAGONIA S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "BSUDARBA"
         },
         {
-            "id": 68,
+            "id": 71,
             "bank": "BANCO PIANO S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "BAPIARBA"
         },
         {
-            "id": 69,
+            "id": 72,
             "bank": "BANCO PROVINCIA DE TIERRA DEL FUEGO",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "TTFAARBA"
         },
         {
-            "id": 70,
+            "id": 73,
             "bank": "BANCO ROELA S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "ROEBARB10BA"
         },
         {
-            "id": 71,
+            "id": 74,
             "bank": "BANCO ROELA S.A.",
             "city": "CORDOBA",
             "branch": "(SUCURSAL ALEM)",
             "swift_code": "ROEBARB10B2"
         },
         {
-            "id": 72,
+            "id": 75,
             "bank": "BANCO ROELA S.A.",
             "city": "CORDOBA",
             "branch": "(SUCURSAL JUSTO)",
             "swift_code": "ROEBARB10B3"
         },
         {
-            "id": 73,
+            "id": 76,
             "bank": "BANCO ROELA S.A.",
             "city": "CORDOBA",
             "branch": "(SUCURSAL SAN MARTIN)",
             "swift_code": "ROEBARB10B4"
         },
         {
-            "id": 74,
+            "id": 77,
             "bank": "BANCO ROELA S.A.",
             "city": "CORDOBA",
             "branch": null,
             "swift_code": "ROEBARB1"
         },
         {
-            "id": 75,
+            "id": 78,
             "bank": "BANCO SAENZ S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "BSAEARBA"
         },
         {
-            "id": 76,
+            "id": 79,
             "bank": "BANCO SANTANDER RIO S.A.",
             "city": "BUENOS AIRES",
             "branch": "(SECURITIES SERVICES SYSTEM)",
             "swift_code": "BSCHARBASSS"
         },
         {
-            "id": 77,
+            "id": 80,
             "bank": "BANCO SANTANDER RIO S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "BSCHARBA"
         },
         {
-            "id": 78,
+            "id": 81,
             "bank": "BANCO SUPERVIELLE",
             "city": "BUENOS AIRES",
             "branch": "(DTO. COMERCIO EXTERIOR)",
             "swift_code": "BSUPARBAEXT"
         },
         {
-            "id": 79,
+            "id": 82,
             "bank": "BANCO SUPERVIELLE",
             "city": "BUENOS AIRES",
             "branch": "(DTO. OPERACIONES DE MERCADO)",
             "swift_code": "BSUPARBAFIN"
         },
         {
-            "id": 80,
+            "id": 83,
             "bank": "BANCO SUPERVIELLE",
             "city": "BUENOS AIRES",
             "branch": "(DTO. OPERACIONES DE TITULOS)",
             "swift_code": "BSUPARBATIT"
         },
         {
-            "id": 81,
+            "id": 84,
             "bank": "BANCO SUPERVIELLE",
             "city": "BUENOS AIRES",
             "branch": "(OPERACIONES CENTRALIZADAS)",
             "swift_code": "BSUPARBADOC"
         },
         {
-            "id": 82,
+            "id": 85,
             "bank": "BANCO SUPERVIELLE",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "BSUPARBA"
         },
         {
-            "id": 83,
+            "id": 86,
+            "bank": "BANCO VOII S.A.",
+            "city": "BUENOS AIRES",
+            "branch": null,
+            "swift_code": "VOIBARBA"
+        },
+        {
+            "id": 87,
             "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
             "city": "BUENOS AIRES",
             "branch": "(BUENOS AIRES BRANCH)",
             "swift_code": "BOTKARBA"
         },
         {
-            "id": 84,
+            "id": 88,
             "bank": "BANKERS TRUST ARGENTINA S.A., SOCIEDAD DE BOLSA",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "BTABARB1"
         },
         {
-            "id": 85,
+            "id": 89,
             "bank": "BANKERS TRUST RIO DE LA PLATA SACF",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "BKTRARB1"
         },
         {
-            "id": 86,
+            "id": 90,
             "bank": "BBVA - BANCO FRANCES S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "BFRPARBA"
         },
         {
-            "id": 87,
+            "id": 91,
             "bank": "BBVA - BANCO FRANCES S.A.",
             "city": "CORDOBA",
             "branch": null,
             "swift_code": "BFRPARB10BC"
         },
         {
-            "id": 88,
+            "id": 92,
             "bank": "BBVA - BANCO FRANCES S.A.",
             "city": "MAR DEL PLATA",
             "branch": null,
             "swift_code": "BFRPARB10B6"
         },
         {
-            "id": 89,
+            "id": 93,
             "bank": "BBVA - BANCO FRANCES S.A.",
             "city": "PASO DE LOS LIBRES",
             "branch": null,
             "swift_code": "BFRPARB10B7"
         },
         {
-            "id": 90,
+            "id": 94,
             "bank": "BBVA - BANCO FRANCES S.A.",
             "city": "ROSARIO",
             "branch": null,
             "swift_code": "BFRPARB10BR"
         },
         {
-            "id": 91,
+            "id": 95,
+            "bank": "BELL INVESTMENTS S.A.",
+            "city": "BUENOS AIRES",
+            "branch": null,
+            "swift_code": "BENNARB1"
+        },
+        {
+            "id": 96,
             "bank": "BNP PARIBAS - SUCCURSALE DE BUENOS AIRES",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "BNPAARBA"
         },
         {
-            "id": 92,
+            "id": 97,
             "bank": "BOLSA DE COMERCIO ROSARIO",
             "city": "ROSARIO",
             "branch": null,
             "swift_code": "XROSARB1"
         },
         {
-            "id": 93,
+            "id": 98,
             "bank": "BOSTON INVERSORA DE VALORES S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "BOIVARB1"
         },
         {
-            "id": 94,
+            "id": 99,
             "bank": "CAJA DE VALORES S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "CAVLARBA"
         },
         {
-            "id": 95,
+            "id": 100,
             "bank": "CAMBIO ALPE S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
-            "swift_code": "CALPARBA"
+            "swift_code": "CALPARB1"
         },
         {
-            "id": 96,
+            "id": 101,
             "bank": "CAMBIO EXCURSIONES TURISMO COLUMBUS S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "COLUARBA"
         },
         {
-            "id": 97,
+            "id": 102,
             "bank": "CAMBIO GARCIA NAVARRO, RAMAGLIO Y CIA. S.A.",
             "city": "MAR DEL PLATA",
             "branch": null,
             "swift_code": "CGNRARBA"
         },
         {
-            "id": 98,
-            "bank": "CAMBIO SANTIAGO SA",
-            "city": "MENDOZA",
-            "branch": null,
-            "swift_code": "CSNTARB1"
-        },
-        {
-            "id": 99,
+            "id": 103,
             "bank": "CAPITAL MARKETS",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "CAKRARB1"
         },
         {
-            "id": 100,
+            "id": 104,
             "bank": "CASA LERCHUNDI SACIF",
             "city": "CORDOBA",
             "branch": null,
             "swift_code": "CALSARB1"
         },
         {
-            "id": 101,
+            "id": 105,
             "bank": "CITIBANK N.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "CITIARBA"
         },
         {
-            "id": 102,
+            "id": 106,
             "bank": "CORPORACION DE SERVICIOS FINANCIEROS S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "FSERARB1"
         },
         {
-            "id": 103,
-            "bank": "DEUTSCHE BANK SA",
-            "city": "BUENOS AIRES",
-            "branch": null,
-            "swift_code": "DEUTARBA"
-        },
-        {
-            "id": 104,
+            "id": 107,
             "bank": "FINANCIERA BUENOS AIRES S.A.L. Y C.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "BUEAARB1"
         },
         {
-            "id": 105,
+            "id": 108,
             "bank": "FITCH ARGENTINA CALIFICADORA DE RIESGO S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "FRIPARB1"
         },
         {
-            "id": 106,
+            "id": 109,
             "bank": "GARCIA NAVARROY CIA. S.A.",
             "city": "BAHIA BLANCA",
             "branch": null,
             "swift_code": "GANCARB1"
         },
         {
-            "id": 107,
+            "id": 110,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "AVELLANEDA",
             "branch": "(AVELLANEDA BRANCH)",
             "swift_code": "BACOARB10B7"
         },
         {
-            "id": 108,
+            "id": 111,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "BOULOGNE-SUR-MER",
             "branch": "(SHOPPING SOLEIL BRANCH)",
             "swift_code": "BACOARB10BV"
         },
         {
-            "id": 109,
+            "id": 112,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "BUENOS AIRES",
             "branch": "(ALTO PALERMO BRANCH)",
             "swift_code": "BACOARB10B8"
         },
         {
-            "id": 110,
+            "id": 113,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "BUENOS AIRES",
             "branch": "(AVENIDA DE MAYO BRANCH)",
             "swift_code": "BACOARB10BB"
         },
         {
-            "id": 111,
+            "id": 114,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "BUENOS AIRES",
             "branch": "(BELGRANO BRANCH)",
             "swift_code": "BACOARB10BD"
         },
         {
-            "id": 112,
+            "id": 115,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "BUENOS AIRES",
             "branch": "(CABILDO BRANCH)",
             "swift_code": "BACOARB10BE"
         },
         {
-            "id": 113,
+            "id": 116,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "BUENOS AIRES",
             "branch": "(CAPITAL MARKETS DEPARTMENT)",
             "swift_code": "BACOARBARCM"
         },
         {
-            "id": 114,
+            "id": 117,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "BUENOS AIRES",
             "branch": "(CENTRO BRANCH)",
             "swift_code": "BACOARB10BF"
         },
         {
-            "id": 115,
+            "id": 118,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "BUENOS AIRES",
             "branch": "(CONSTITUCION BRANCH)",
             "swift_code": "BACOARB10BG"
         },
         {
-            "id": 116,
+            "id": 119,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "BUENOS AIRES",
             "branch": "(LAS HERAS BRANCH)",
             "swift_code": "BACOARB10BJ"
         },
         {
-            "id": 117,
+            "id": 120,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "BUENOS AIRES",
             "branch": "(LINIERS BRANCH)",
             "swift_code": "BACOARB10BK"
         },
         {
-            "id": 118,
+            "id": 121,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "BUENOS AIRES",
             "branch": "(NUNEZ BRANCH)",
             "swift_code": "BACOARB10BM"
         },
         {
-            "id": 119,
+            "id": 122,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "BUENOS AIRES",
             "branch": "(ONCE BRANCH)",
             "swift_code": "BACOARB10BP"
         },
         {
-            "id": 120,
+            "id": 123,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "BUENOS AIRES",
             "branch": "(PALERMO BRANCH)",
             "swift_code": "BACOARB10BQ"
         },
         {
-            "id": 121,
+            "id": 124,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "BUENOS AIRES",
             "branch": "(SAAVEDRA BRANCH)",
             "swift_code": "BACOARB10BR"
         },
         {
-            "id": 122,
+            "id": 125,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "BUENOS AIRES",
             "branch": "(TRIBUNALES BRANCH)",
             "swift_code": "BACOARB10BW"
         },
         {
-            "id": 123,
+            "id": 126,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "BUENOS AIRES",
             "branch": "(VILLA CRESPO BRANCH)",
             "swift_code": "BACOARB10BZ"
         },
         {
-            "id": 124,
+            "id": 127,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "BACOARBA"
         },
         {
-            "id": 125,
+            "id": 128,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "CONCEPCION DEL URUGUAY",
             "branch": "(CONCEPCION BRANCH)",
             "swift_code": "BACOARB10B6"
         },
         {
-            "id": 126,
+            "id": 129,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "CORDOBA",
             "branch": null,
             "swift_code": "BACOARB10BC"
         },
         {
-            "id": 127,
+            "id": 130,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "FLORIDA",
             "branch": "(FLORIDA BRANCH)",
             "swift_code": "BACOARB10BH"
         },
         {
-            "id": 128,
+            "id": 131,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "LA PLATA",
             "branch": "(LA PLATA BRANCH)",
             "swift_code": "BACOARB10BI"
         },
         {
-            "id": 129,
+            "id": 132,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "LOMAS DE ZAMORA",
             "branch": null,
             "swift_code": "BACOARB1023"
         },
         {
-            "id": 130,
+            "id": 133,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "MAR DEL PLATA",
             "branch": "(MAR DEL PLATA BRANCH)",
             "swift_code": "BACOARB10BL"
         },
         {
-            "id": 131,
+            "id": 134,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "MENDOZA",
             "branch": null,
             "swift_code": "BACOARB10B2"
         },
         {
-            "id": 132,
+            "id": 135,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "OLIVOS",
             "branch": "(OLIVOS BRANCH)",
             "swift_code": "BACOARB10BN"
         },
         {
-            "id": 133,
+            "id": 136,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "RESISTENCIA",
             "branch": "(RESISTENCIA BRANCH)",
             "swift_code": "BACOARB1024"
         },
         {
-            "id": 134,
+            "id": 137,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "ROSARIO",
             "branch": null,
             "swift_code": "BACOARB10B3"
         },
         {
-            "id": 135,
+            "id": 138,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "SALTA",
             "branch": null,
             "swift_code": "BACOARB10B4"
         },
         {
-            "id": 136,
+            "id": 139,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "SAN FERNANDO",
             "branch": "(SAN FERNANDO BRANCH)",
             "swift_code": "BACOARB10BS"
         },
         {
-            "id": 137,
+            "id": 140,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "SAN ISIDRO",
             "branch": "(SAN ISIDRO BRANCH)",
             "swift_code": "BACOARB10BT"
         },
         {
-            "id": 138,
+            "id": 141,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "SAN MARTIN",
             "branch": "(SAN MARTIN BRANCH)",
             "swift_code": "BACOARB10BU"
         },
         {
-            "id": 139,
+            "id": 142,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "SAN MIGUEL DE TUCUMAN",
             "branch": null,
             "swift_code": "BACOARB10B5"
         },
         {
-            "id": 140,
+            "id": 143,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "SANTA FE",
             "branch": null,
             "swift_code": "BACOARB1022"
         },
         {
-            "id": 141,
+            "id": 144,
             "bank": "HSBC BANK ARGENTINA SA",
             "city": "VICENTE LOPEZ",
             "branch": "(VICENTE LOPEZ BRANCH)",
             "swift_code": "BACOARB10BY"
         },
         {
-            "id": 142,
+            "id": 145,
             "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA)S.A.",
             "city": "BUENOS AIRES",
             "branch": "(CASH MANAGEMENT)",
             "swift_code": "ICBKARBAGCM"
         },
         {
-            "id": 143,
+            "id": 146,
             "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA)S.A.",
             "city": "BUENOS AIRES",
             "branch": "(CLEARING OFFICE)",
             "swift_code": "ICBKARBACLR"
         },
         {
-            "id": 144,
+            "id": 147,
             "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA)S.A.",
             "city": "BUENOS AIRES",
             "branch": "(GLOBAL CUSTODY DEPARTMENT)",
             "swift_code": "ICBKARBAGCD"
         },
         {
-            "id": 145,
+            "id": 148,
             "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ARGENTINA)S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "ICBKARBA"
         },
         {
-            "id": 146,
+            "id": 149,
             "bank": "INVERSIONARIA ARGENTINA S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "IANAARB1"
         },
         {
-            "id": 147,
+            "id": 150,
             "bank": "INVERSIONES UNIDAS S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "INUNARB1"
         },
         {
-            "id": 148,
+            "id": 151,
             "bank": "INVERSORA S.A. COMPANIA FINANCIERA",
             "city": "LA PLATA",
             "branch": null,
             "swift_code": "CFINARB1"
         },
         {
-            "id": 149,
+            "id": 152,
             "bank": "INVERSUR S.R.L.",
             "city": "SANTO TOME",
             "branch": null,
             "swift_code": "INVEARB1"
         },
         {
-            "id": 150,
-            "bank": "JPMORGAN CHASE BANK, N.A.",
+            "id": 153,
+            "bank": "JPMORGAN CHASE BANK, N.A., BUENOS AIRES BRANCH",
             "city": "BUENOS AIRES",
             "branch": "(TEST KEY AND BKE ADMINISTRATION)",
             "swift_code": "CHASARBAKEY"
         },
         {
-            "id": 151,
-            "bank": "JPMORGAN CHASE BANK, N.A.",
+            "id": 154,
+            "bank": "JPMORGAN CHASE BANK, N.A., BUENOS AIRES BRANCH",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "CHASARBA"
         },
         {
-            "id": 152,
-            "bank": "MAXINTA S.A.C.T Y B.",
-            "city": "BUENOS AIRES",
-            "branch": null,
-            "swift_code": "MXSAARBA"
-        },
-        {
-            "id": 153,
+            "id": 155,
             "bank": "MBA BANCO DE INVERSIONES SA",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "MBINARB1"
         },
         {
-            "id": 154,
-            "bank": "MBA LAZARD BANCO DE INVERSION SA",
+            "id": 156,
+            "bank": "MERCADO ABIERTO ELECTRONICO",
             "city": "BUENOS AIRES",
             "branch": null,
-            "swift_code": "VOIBARB1"
+            "swift_code": "MABTARBA"
         },
         {
-            "id": 155,
+            "id": 157,
             "bank": "MERCADO DE VALORES DE BUENOS AIRES S.A. - MERVAL",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "XMEVARB1"
         },
         {
-            "id": 156,
+            "id": 158,
             "bank": "MERCADO DE VALORES DE BUENOS AIRES SA",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "XBUEARB1"
         },
         {
-            "id": 157,
+            "id": 159,
             "bank": "MERCHANT BANK ARGENTINA",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "MEARARB1"
         },
         {
-            "id": 158,
-            "bank": "METROPOLIS COMPANIA FINANCIERA S.A.",
-            "city": "BUENOS AIRES",
-            "branch": null,
-            "swift_code": "MCFAARBA"
-        },
-        {
-            "id": 159,
+            "id": 160,
             "bank": "MONTEMAR COMPANIA FINANCIERA S.A.",
             "city": "MENDOZA",
             "branch": null,
             "swift_code": "MCFIARB1"
         },
         {
-            "id": 160,
+            "id": 161,
             "bank": "MONTEMAR COMPANIA FINANCIERA S.A.",
             "city": "MENDOZA",
             "branch": null,
             "swift_code": "MCFIARBM"
         },
         {
-            "id": 161,
+            "id": 162,
             "bank": "MONTEMAR COMPANIA FINANCIERA S.A.",
             "city": "SAN JUAN",
             "branch": null,
             "swift_code": "MCFIARB10B3"
         },
         {
-            "id": 162,
+            "id": 163,
             "bank": "MONTEMAR COMPANIA FINANCIERA S.A.",
             "city": "SAN RAFAEL",
             "branch": null,
             "swift_code": "MCFIARB10BS"
         },
         {
-            "id": 163,
+            "id": 164,
             "bank": "MOODY'S LATIN AMERICA, CALIFICADORA DE RIESGO S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "MLACARB1"
         },
         {
-            "id": 164,
+            "id": 165,
             "bank": "MULTIFINANZAS COMPANIA FINANCIERA S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "MFCFARBA"
         },
         {
-            "id": 165,
+            "id": 166,
             "bank": "NOBLEZA-PICCARDO S.A.I.C.Y F.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "BATSARB1"
         },
         {
-            "id": 166,
+            "id": 167,
             "bank": "NUEVO BANCO DE ENTRE RIOS S.A.",
             "city": "PARANA (ENTRE RIOS)",
             "branch": null,
             "swift_code": "BERAARBA"
         },
         {
-            "id": 167,
+            "id": 168,
             "bank": "NUEVO BANCO DE SANTA FE S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "BPSFARBA"
         },
         {
-            "id": 168,
+            "id": 169,
             "bank": "NUEVO BANCO DE SANTA FE S.A.",
             "city": "RIO GALLEGOS",
             "branch": null,
             "swift_code": "BPSFARBAA86"
         },
         {
-            "id": 169,
+            "id": 170,
             "bank": "NUEVO BANCO DE SANTA FE S.A.",
             "city": "ROSARIO",
             "branch": null,
             "swift_code": "BPSFARBA000"
         },
         {
-            "id": 170,
+            "id": 171,
             "bank": "NUEVO BANCO DE SANTA FE S.A.",
             "city": "SAN JUAN",
             "branch": null,
             "swift_code": "BPSFARBAA45"
         },
         {
-            "id": 171,
+            "id": 172,
             "bank": "NUEVO BANCO DE SANTA FE S.A.",
             "city": "SANTA FE",
             "branch": null,
             "swift_code": "BPSFARBA500"
         },
         {
-            "id": 172,
+            "id": 173,
             "bank": "NUEVO BANCO DEL CHACO S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "BACHARBA"
         },
         {
-            "id": 173,
+            "id": 174,
             "bank": "RABELLO Y CIA S.A. SOCIEDAD DE BOLSA",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "RABCARB1"
         },
         {
-            "id": 174,
+            "id": 175,
             "bank": "RAYMOND JAMES ARGENTINA SOCIEDAD DE BOLSA SOCIEDADANONIMA",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "RAJRARB1"
         },
         {
-            "id": 175,
+            "id": 176,
             "bank": "REPUBBLICA ARGENTINA",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "REAGARB1"
         },
         {
-            "id": 176,
+            "id": 177,
             "bank": "SAMSUNG ELECTRONICS ARGENTINA S.A.",
             "city": "BUENOS AIRES",
             "branch": "(SEASA)",
             "swift_code": "SECTARB1830"
         },
         {
-            "id": 177,
+            "id": 178,
             "bank": "SAMSUNG ELECTRONICS ARGENTINA S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "SECTARB1"
         },
         {
-            "id": 178,
+            "id": 179,
             "bank": "SBS SOCIEDAD DE BOLSA S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "SBSOARB1"
         },
         {
-            "id": 179,
+            "id": 180,
             "bank": "T.P.C.G. CAPITAL S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "TPCGARB1"
         },
         {
-            "id": 180,
+            "id": 181,
             "bank": "TAVELLI Y CIA.S.A.SOCIEDAD DE BOLSA",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "TAVEARB1"
         },
         {
-            "id": 181,
-            "bank": "TRANSATLANTICA SA",
-            "city": "ROSARIO",
-            "branch": null,
-            "swift_code": "TRTNARBR"
-        },
-        {
             "id": 182,
-            "bank": "TRANSCAMBIO S.A.",
-            "city": "BUENOS AIRES",
-            "branch": null,
-            "swift_code": "GFTCARBA"
-        },
-        {
-            "id": 183,
             "bank": "TUTELAR COMPANIA FINANCIERA S.A.",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "TUCFARB1"
         },
         {
-            "id": 184,
+            "id": 183,
             "bank": "VANEXVA BURSATIL SA",
             "city": "BUENOS AIRES",
             "branch": null,
             "swift_code": "VNXBARB1"
         },
         {
-            "id": 185,
+            "id": 184,
             "bank": "VW ARGENTINA S.A.",
             "city": "GENERAL PACHECO",
             "branch": null,

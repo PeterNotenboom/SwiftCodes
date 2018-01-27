@@ -25,45 +25,45 @@
         },
         {
             "id": 4,
-            "bank": "AVENIDA S.A EMPRESA DE SERVICIOS FINANCIEROS",
-            "city": "MONTEVIDEO",
-            "branch": null,
-            "swift_code": "AVESUYMM"
-        },
-        {
-            "id": 5,
             "bank": "BANCO BILBAO VIZCAYA ARGENTARIA URUGUAY S.A.",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "BBVAUYMM"
         },
         {
-            "id": 6,
+            "id": 5,
             "bank": "BANCO CENTRAL DEL URUGUAY",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "CBCUUYMD"
         },
         {
-            "id": 7,
+            "id": 6,
             "bank": "BANCO CENTRAL DEL URUGUAY",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "CBCUUYMF"
         },
         {
-            "id": 8,
+            "id": 7,
             "bank": "BANCO CENTRAL DEL URUGUAY",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "CBCUUYMM"
         },
         {
-            "id": 9,
+            "id": 8,
             "bank": "BANCO CENTRAL DEL URUGUAY",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "CBCUUYMMFGD"
+        },
+        {
+            "id": 9,
+            "bank": "BANCO CENTRAL DEL URUGUAY",
+            "city": "MONTEVIDEO",
+            "branch": null,
+            "swift_code": "CBCUUYMMGPA"
         },
         {
             "id": 10,
@@ -130,7 +130,7 @@
         },
         {
             "id": 19,
-            "bank": "BANQUE HERITAGE (URUGUAY) S.A. (FORMERLY BANCO SURINVEST S.A.)",
+            "bank": "BANQUE HERITAGE (URUGUAY) S.A.",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "SURIUYMM"
@@ -193,360 +193,276 @@
         },
         {
             "id": 28,
-            "bank": "CENTRO SUDAMERICANO S.A. (DELTA SERVICIOS FINANCIEROS)",
-            "city": "MONTEVIDEO",
-            "branch": null,
-            "swift_code": "CSDRUYMM"
-        },
-        {
-            "id": 29,
             "bank": "CHASE MANHATTAN INVESTMENTS S.A.",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "CHMIUYM1"
         },
         {
-            "id": 30,
+            "id": 29,
             "bank": "CITIBANK N.A. URUGUAY",
             "city": "COLONIA",
             "branch": null,
             "swift_code": "CITIUYMMCOL"
         },
         {
-            "id": 31,
+            "id": 30,
             "bank": "CITIBANK N.A. URUGUAY",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "CITIUYMM"
         },
         {
-            "id": 32,
+            "id": 31,
             "bank": "CITIBANK N.A. URUGUAY",
             "city": "PUNTA DEL ESTE",
             "branch": null,
             "swift_code": "CITIUYMMPDE"
         },
         {
-            "id": 33,
+            "id": 32,
             "bank": "COLUMBUSNET S.A.",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "COLUUYMM"
         },
         {
-            "id": 34,
+            "id": 33,
             "bank": "COPAB",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "COPAUYM1"
         },
         {
-            "id": 35,
+            "id": 34,
             "bank": "CUENTAS DEL F.G.D.B",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "SPABUYM1"
         },
         {
-            "id": 36,
+            "id": 35,
             "bank": "DEPOSITARIO CENTRAL DE VALORES",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "DECVUYM1"
         },
         {
-            "id": 37,
+            "id": 36,
             "bank": "DEUTSCHE BANK (URUGUAY) S.A.I.F.E.",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "DEUTUYM1"
         },
         {
-            "id": 38,
+            "id": 37,
             "bank": "EUROCAM SA",
             "city": "MONTEVIDEO",
             "branch": "(EJIDO BRANCH)",
             "swift_code": "CBEUUYM10ME"
         },
         {
-            "id": 39,
+            "id": 38,
             "bank": "EUROCAM SA",
             "city": "MONTEVIDEO",
             "branch": "(EL GAUCHO BRANCH)",
             "swift_code": "CBEUUYM10MG"
         },
         {
-            "id": 40,
+            "id": 39,
             "bank": "EUROCAM SA",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "CBEUUYMM"
         },
         {
-            "id": 41,
-            "bank": "EXPRINTER (URUGUAY) S.A.",
-            "city": "MONTEVIDEO",
-            "branch": null,
-            "swift_code": "ECBUUYMM"
-        },
-        {
-            "id": 42,
-            "bank": "FINACAM SA",
-            "city": "MONTEVIDEO",
-            "branch": null,
-            "swift_code": "FNCMUYM1"
-        },
-        {
-            "id": 43,
+            "id": 40,
             "bank": "FITCH URUGUAY CALIFICADORA RIESGO S.A.",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "FRIPUYM1"
         },
         {
-            "id": 44,
+            "id": 41,
             "bank": "FORTIGOL S.A.",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "FOTTUYM1"
         },
         {
-            "id": 45,
-            "bank": "GALES SERVICIOS FINANCIEROS S.A.",
-            "city": "MONTEVIDEO",
-            "branch": null,
-            "swift_code": "GSEFUYMM"
-        },
-        {
-            "id": 46,
-            "bank": "HAPOALIM LATIN AMERICA S.A.",
-            "city": "MONTEVIDEO",
-            "branch": null,
-            "swift_code": "POALUYMM"
-        },
-        {
-            "id": 47,
-            "bank": "HAPOALIM LATIN AMERICA S.A.",
-            "city": "MONTEVIDEO",
-            "branch": null,
-            "swift_code": "POALUYMM001"
-        },
-        {
-            "id": 48,
-            "bank": "HAPOALIM LATIN AMERICA S.A.",
-            "city": "PUNTA DEL ESTE",
-            "branch": null,
-            "swift_code": "POALUYMM002"
-        },
-        {
-            "id": 49,
-            "bank": "HSBC BANK (URUGUAY) S.A. (FORMERLY REPUBLIC NATIONAL BANK OF NEW YORK (URUGUAY) S.A.)",
+            "id": 42,
+            "bank": "HSBC BANK (URUGUAY) S.A.",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "BLICUYMM"
         },
         {
-            "id": 50,
+            "id": 43,
             "bank": "I.F.E. BANCO ROBERTS S.A. (URUGUAY)",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "BACOUYM1"
         },
         {
-            "id": 51,
+            "id": 44,
             "bank": "INDUMEX S.A.",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "INUXUYM1"
         },
         {
-            "id": 52,
+            "id": 45,
             "bank": "INTEGRACION A.F.A.P. S.A.",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "IAFAUYM1"
         },
         {
-            "id": 53,
+            "id": 46,
             "bank": "LESPAN .S.A",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "LSPNUYM1"
         },
         {
-            "id": 54,
-            "bank": "LEUMI (LATIN AMERICA) S.A.",
-            "city": "MONTEVIDEO",
-            "branch": null,
-            "swift_code": "LUMIUYMM"
-        },
-        {
-            "id": 55,
+            "id": 47,
             "bank": "LOYAR S.A.",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "LOYRUYM1"
         },
         {
-            "id": 56,
-            "bank": "LUNDIN SA - MONEX EMPRESA DE SERVICIOS FINANCIEROS",
-            "city": "MONTEVIDEO",
-            "branch": null,
-            "swift_code": "LUNDUYMT"
-        },
-        {
-            "id": 57,
+            "id": 48,
             "bank": "MINISTERIO DE ECONOMIA Y FINANZAS",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "TGENUYM1"
         },
         {
-            "id": 58,
-            "bank": "MONEY SUR S.A.",
+            "id": 49,
+            "bank": "OVADIAH FINANCIAL SA",
             "city": "MONTEVIDEO",
             "branch": null,
-            "swift_code": "MSURUYMM"
+            "swift_code": "OVFIUYM1"
         },
         {
-            "id": 59,
-            "bank": "NIXUS S.A.",
-            "city": "MONTEVIDEO",
-            "branch": null,
-            "swift_code": "NIXSUYMM"
-        },
-        {
-            "id": 60,
-            "bank": "PAULLIER AND CIA. AGENTE DE VALORES S.A",
-            "city": "MONTEVIDEO",
-            "branch": null,
-            "swift_code": "PCAVUYM1"
-        },
-        {
-            "id": 61,
+            "id": 50,
             "bank": "PIANO INTERNATIONAL CORP.",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "PMTRUYM1"
         },
         {
-            "id": 62,
+            "id": 51,
             "bank": "PLATAFORMA TRANSACCIONAL BEVSA",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "SIOPUYM1"
         },
         {
-            "id": 63,
+            "id": 52,
             "bank": "PLATAFORMA TRANSACCIONAL BVM",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "SIBEUYM1"
         },
         {
-            "id": 64,
+            "id": 53,
             "bank": "REPUBLICA A.F.A.P. S.A.",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "RAFAUYM1"
         },
         {
-            "id": 65,
+            "id": 54,
             "bank": "SCOTIABANK URUGUAY S.A.",
             "city": "MONTEVIDEO",
             "branch": "(HEAD OFFICE)",
             "swift_code": "COMEUYMM"
         },
         {
-            "id": 66,
+            "id": 55,
             "bank": "SCOTIABANK URUGUAY S.A.",
             "city": "MONTEVIDEO",
             "branch": "(HEAD OFFICE)",
             "swift_code": "COMEUYMMALL"
         },
         {
-            "id": 67,
-            "bank": "SCOTIABANK URUGUAY S.A. (FORMERLY DISCOUNT BANK LATIN AMERICA)",
-            "city": "MONTEVIDEO",
-            "branch": null,
-            "swift_code": "DBLAUYMM"
-        },
-        {
-            "id": 68,
+            "id": 56,
             "bank": "SECVALORIS SA",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "SECVUYM1"
         },
         {
-            "id": 69,
+            "id": 57,
             "bank": "SISTEMA DE LIQUIDACION BRUTA",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "RTSXUYM1"
         },
         {
-            "id": 70,
+            "id": 58,
             "bank": "SISTEMA DE PAGOS INTERBANCARIOS",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "SIPNUYM1"
         },
         {
-            "id": 71,
+            "id": 59,
             "bank": "SOUTH FINANCIAL CORPORATION",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "SFCOUYM1"
         },
         {
-            "id": 72,
+            "id": 60,
             "bank": "SWISS CALEDONIA WEALTH MANAGEMENT AGENTE DE VALORES S.A.",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "SCWMUYM1"
         },
         {
-            "id": 73,
+            "id": 61,
             "bank": "TPCG FINANCIAL SERVICES S.A.",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "TPFSUYM1"
         },
         {
-            "id": 74,
+            "id": 62,
             "bank": "TRANSAMERICA CASA BANCARIA",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "TRCAUYM1"
         },
         {
-            "id": 75,
+            "id": 63,
             "bank": "UNION-CAPITAL A.F.A.P.S.A.",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "UAFAUYM1"
         },
         {
-            "id": 76,
+            "id": 64,
             "bank": "UTE",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "UTEUUYM1"
         },
         {
-            "id": 77,
+            "id": 65,
             "bank": "VARLIX S.A.",
             "city": "MONTEVIDEO",
             "branch": null,
             "swift_code": "VARLUYM1"
         },
         {
-            "id": 78,
+            "id": 66,
             "bank": "VICTOR PAULLIER AND CIA. SOCIEDAD DE BOLSA S.A.",
             "city": "MONTEVIDEO",
             "branch": null,
-            "swift_code": "VPCOUYM1"
+            "swift_code": "VPCOUYMM"
         }
     ]
 }

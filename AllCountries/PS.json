@@ -207,209 +207,195 @@
         },
         {
             "id": 30,
-            "bank": "HSBC BANK MIDDLE EAST",
-            "city": "RAMALLAH",
-            "branch": null,
-            "swift_code": "BBMEPS22"
-        },
-        {
-            "id": 31,
             "bank": "JORDAN AHLI BANK-PLC FOREIGN PUBLIC COMPANY",
             "city": "RAMALLAH",
             "branch": null,
             "swift_code": "JONBPS22"
         },
         {
-            "id": 32,
+            "id": 31,
             "bank": "JORDAN AND PALESTINE INVESTMENT CO.",
             "city": "RAMALLAH",
             "branch": null,
             "swift_code": "JPAIPS21"
         },
         {
-            "id": 33,
+            "id": 32,
             "bank": "JORDAN COMMERCIAL BANK",
             "city": "RAMALLAH",
             "branch": null,
             "swift_code": "JCBAPS22"
         },
         {
-            "id": 34,
+            "id": 33,
             "bank": "JORDAN GULF BANK",
             "city": "GAZA",
             "branch": null,
             "swift_code": "JGBAPS21"
         },
         {
-            "id": 35,
+            "id": 34,
             "bank": "JORDAN KUWAIT BANK",
             "city": "RAMALLAH",
             "branch": null,
             "swift_code": "JKBAPS22"
         },
         {
-            "id": 36,
+            "id": 35,
             "bank": "JORDAN PALESTINE CO. FOR FINANCIAL INVESTMENT",
             "city": "RAMALLAH",
             "branch": null,
             "swift_code": "JOPFPS21"
         },
         {
-            "id": 37,
+            "id": 36,
             "bank": "LOTUS FINANCIAL INVESTMENT CO.",
             "city": "RAMALLAH",
             "branch": null,
             "swift_code": "LOFNPS21"
         },
         {
-            "id": 38,
+            "id": 37,
             "bank": "NATIONAL COMPANY FOR SECURITIES INVESTMENT",
             "city": "RAMALLAH",
             "branch": null,
             "swift_code": "NCSIPS21"
         },
         {
-            "id": 39,
+            "id": 38,
             "bank": "NAWRAS BROKERAGE CO.",
             "city": "BETHLEHEM",
             "branch": null,
             "swift_code": "NAWRPS21"
         },
         {
-            "id": 40,
-            "bank": "PALESTINE COMMERCIAL BANK",
-            "city": "RAMALLAH",
-            "branch": null,
-            "swift_code": "PCBQPS22"
-        },
-        {
-            "id": 41,
+            "id": 39,
             "bank": "PALESTINE INVESTMENT BANK",
             "city": "RAMALLAH",
             "branch": null,
             "swift_code": "PINVPS22"
         },
         {
-            "id": 42,
+            "id": 40,
             "bank": "PALESTINE ISLAMIC BANK",
             "city": "RAMALLAH",
             "branch": null,
             "swift_code": "PIBCPS22"
         },
         {
-            "id": 43,
+            "id": 41,
             "bank": "PALESTINE MONETARY AUTHORITY",
             "city": "AL-BIREH",
             "branch": "(CSD)",
             "swift_code": "PMAPPS22PEX"
         },
         {
-            "id": 44,
+            "id": 42,
             "bank": "PALESTINE MONETARY AUTHORITY",
             "city": "AL-BIREH",
             "branch": null,
             "swift_code": "PMAPPS22"
         },
         {
-            "id": 45,
+            "id": 43,
             "bank": "PALESTINE MONETARY AUTHORITY",
             "city": "RAMALLAH",
             "branch": "(AUTHORIZED SETTLEMENT AGENRT)",
             "swift_code": "PMAPPS22ASA"
         },
         {
-            "id": 46,
+            "id": 44,
             "bank": "PALESTINE MONETARY AUTHORITY",
             "city": "RAMALLAH",
             "branch": "(TECHNICAL INFRATRUCTURE AGENT)",
             "swift_code": "PMAPPS22TIA"
         },
         {
-            "id": 47,
-            "bank": "PALESTINE MONETARY AUTHORITY",
-            "city": "RAMALLAH",
-            "branch": null,
-            "swift_code": "PMAPPS2P"
-        },
-        {
-            "id": 48,
+            "id": 45,
             "bank": "PALESTINE MONETARY AUTHORITY",
             "city": "RAMALLAH",
             "branch": null,
             "swift_code": "PMAPPS22ACH"
         },
         {
-            "id": 49,
+            "id": 46,
+            "bank": "PALESTINE MONETARY AUTHORITY",
+            "city": "RAMALLAH",
+            "branch": null,
+            "swift_code": "PMAPPS2P"
+        },
+        {
+            "id": 47,
             "bank": "PALESTINE SECURITIES EXCHANGE",
             "city": "NABLUS",
             "branch": null,
             "swift_code": "XPAEPS21"
         },
         {
-            "id": 50,
-            "bank": "PALESTINIAN ISLAMIC BANK",
-            "city": "GAZA",
-            "branch": null,
-            "swift_code": "PISBPS21"
-        },
-        {
-            "id": 51,
+            "id": 48,
             "bank": "QUDS BANK",
             "city": "RAMALLAH",
             "branch": null,
             "swift_code": "ALDNPS22"
         },
         {
-            "id": 52,
+            "id": 49,
+            "bank": "SAFA BANK",
+            "city": "RAMALLAH",
+            "branch": null,
+            "swift_code": "SAFKPS22"
+        },
+        {
+            "id": 50,
             "bank": "SAHEM TRADING AND INVESTMENT COMPANY",
             "city": "RAMALLAH",
             "branch": null,
             "swift_code": "STIPPS21"
         },
         {
-            "id": 53,
+            "id": 51,
             "bank": "TARGET INVESTMENT CO.",
             "city": "NABLUS",
             "branch": null,
             "swift_code": "TARVPS21"
         },
         {
-            "id": 54,
+            "id": 52,
             "bank": "TARGET JORDAN PALESTINE SECURITIES",
             "city": "RAMALLAH",
             "branch": null,
             "swift_code": "TJPSPS21"
         },
         {
-            "id": 55,
+            "id": 53,
             "bank": "THE CLEARING, DEPOSITORY AND SETTLEMENT DEPARTMEN(CDS)",
             "city": "NABLUS",
             "branch": null,
             "swift_code": "CDSEPS21"
         },
         {
-            "id": 56,
+            "id": 54,
             "bank": "THE HOUSING BANK FOR TRADE AND FINANCE\/RAMALLAH",
             "city": "RAMALLAH",
             "branch": null,
             "swift_code": "HBHOPS22"
         },
         {
-            "id": 57,
+            "id": 55,
             "bank": "THE NATIONAL BANK PLC (FORMERLY AL RAFAH MICROFINANCE BANK)",
             "city": "RAMALLAH",
             "branch": null,
             "swift_code": "TNBCPS22"
         },
         {
-            "id": 58,
+            "id": 56,
             "bank": "UNITED SECURITIES CO",
             "city": "RAMALLAH",
             "branch": null,
             "swift_code": "UNTEPS21"
         },
         {
-            "id": 59,
+            "id": 57,
             "bank": "WATANIYA SECURITIES CO",
             "city": "RAMALLAH",
             "branch": null,

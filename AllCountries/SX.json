@@ -39,13 +39,20 @@
         },
         {
             "id": 6,
+            "bank": "PSB BANK N.V.",
+            "city": "PHILIPSBURG",
+            "branch": null,
+            "swift_code": "PBBPSXS1"
+        },
+        {
+            "id": 7,
             "bank": "RBC ROYAL BANK N.V. (FORMERLY RBTT BANK ST. MAARTEN N.V.)",
             "city": "PHILIPSBURG",
             "branch": null,
             "swift_code": "RBTTSXSM"
         },
         {
-            "id": 7,
+            "id": 8,
             "bank": "WINDWARD ISLANDS BANK LTD, THE",
             "city": "PHILIPSBURG",
             "branch": null,

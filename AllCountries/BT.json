@@ -4,48 +4,55 @@
     "list": [
         {
             "id": 1,
-            "bank": "BANK OF BHUTAN",
+            "bank": "BANK OF BHUTAN LIMITED",
             "city": "PHUNTSHOLING",
             "branch": "(PHUENTSHOLING MAIN BRANCH)",
             "swift_code": "BHUBBTBT001"
         },
         {
             "id": 2,
-            "bank": "BANK OF BHUTAN",
-            "city": "PHUNTSHOLING",
+            "bank": "BANK OF BHUTAN LIMITED",
+            "city": "THIMPHU",
             "branch": null,
             "swift_code": "BHUBBTBT"
         },
         {
             "id": 3,
-            "bank": "BANK OF BHUTAN",
+            "bank": "BANK OF BHUTAN LIMITED",
             "city": "THIMPHU",
             "branch": null,
             "swift_code": "BHUBBTBT022"
         },
         {
             "id": 4,
+            "bank": "BHUTAN DEVELOPMENT BANK LIMITED",
+            "city": "THIMPHU",
+            "branch": null,
+            "swift_code": "BHDEBTBT"
+        },
+        {
+            "id": 5,
             "bank": "BHUTAN NATIONAL BANK LTD",
             "city": "THIMPHU",
             "branch": null,
             "swift_code": "BNBTBTBT"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "DRUK PNB BANK LIMITED",
             "city": "THIMPHU",
             "branch": null,
             "swift_code": "PUNBBTBT"
         },
         {
-            "id": 6,
+            "id": 7,
             "bank": "ROYAL MONETARY AUTHORITY OF BHUTAN",
             "city": "THIMPHU",
             "branch": null,
             "swift_code": "RMABBTBT"
         },
         {
-            "id": 7,
+            "id": 8,
             "bank": "T BANK LTD",
             "city": "THIMPHU",
             "branch": null,

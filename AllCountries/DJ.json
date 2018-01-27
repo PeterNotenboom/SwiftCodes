@@ -14,14 +14,14 @@
             "bank": "BANQUE CENTRALE DE DJIBOUTI",
             "city": "DJIBOUTI",
             "branch": null,
-            "swift_code": "BNDJDJD1"
+            "swift_code": "BCDJDJJD"
         },
         {
             "id": 3,
             "bank": "BANQUE CENTRALE DE DJIBOUTI",
             "city": "DJIBOUTI",
             "branch": null,
-            "swift_code": "BCDJDJJD"
+            "swift_code": "BNDJDJD1"
         },
         {
             "id": 4,
@@ -81,6 +81,13 @@
         },
         {
             "id": 12,
+            "bank": "SABA ISLAMIC BANK",
+            "city": "DJIBOUTI",
+            "branch": null,
+            "swift_code": "SAAIDJJD"
+        },
+        {
+            "id": 13,
             "bank": "SALAAM AFRICAN BANK",
             "city": "DJIBOUTI",
             "branch": null,

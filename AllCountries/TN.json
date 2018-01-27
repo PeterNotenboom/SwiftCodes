@@ -445,24 +445,24 @@
         },
         {
             "id": 64,
-            "bank": "STUSID BANK",
-            "city": "TUNIS",
-            "branch": null,
-            "swift_code": "TSIDTNTT"
-        },
-        {
-            "id": 65,
             "bank": "TUNIS INTERNATIONAL BANK",
             "city": "TUNIS",
             "branch": null,
             "swift_code": "TUIBTNTT"
         },
         {
-            "id": 66,
+            "id": 65,
             "bank": "TUNISIAN FOREIGN BANK",
             "city": "TUNIS",
             "branch": null,
             "swift_code": "UTUBTNTT"
+        },
+        {
+            "id": 66,
+            "bank": "TUNISIAN SAUDI BANK",
+            "city": "TUNIS",
+            "branch": null,
+            "swift_code": "TSIDTNTT"
         },
         {
             "id": 67,
@@ -543,10 +543,17 @@
         },
         {
             "id": 78,
-            "bank": "UNION INTERNATIONALE DE BANQUE",
+            "bank": "UNION INTERNATIONALE DE BANQUES",
             "city": "TUNIS",
             "branch": null,
             "swift_code": "UIBKTNTT"
+        },
+        {
+            "id": 79,
+            "bank": "WIFACK INTERNATIONAL BANK",
+            "city": "MEDENINE",
+            "branch": null,
+            "swift_code": "WKIBTNTT"
         }
     ]
 }

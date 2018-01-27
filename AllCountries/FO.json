@@ -11,7 +11,7 @@
         },
         {
             "id": 2,
-            "bank": "EIK BANKI P\/F",
+            "bank": "BETRI BANKI P\/F",
             "city": "TORSHAVN",
             "branch": null,
             "swift_code": "EIKBFOTF"
@@ -27,11 +27,18 @@
             "id": 4,
             "bank": "NORDOYA SPARIKASSI",
             "city": "KLAKSVIK",
+            "branch": "(FAROE ISLANDS BRANCH)",
+            "swift_code": "NOYAFO21149"
+        },
+        {
+            "id": 5,
+            "bank": "NORDOYA SPARIKASSI",
+            "city": "KLAKSVIK",
             "branch": null,
             "swift_code": "NOYAFO21"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "SUDUROYAR SPARIKASSI",
             "city": "VAGUR",
             "branch": null,

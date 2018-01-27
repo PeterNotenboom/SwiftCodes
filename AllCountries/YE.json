@@ -4,122 +4,122 @@
     "list": [
         {
             "id": 1,
+            "bank": "AL-AMAL MICROFINANCE BANK (AMB)",
+            "city": "SANAA",
+            "branch": null,
+            "swift_code": "AARMYESA"
+        },
+        {
+            "id": 2,
             "bank": "ALKURAIMI ISLAMIC MICROFINANCE BANK",
             "city": "SANAA",
             "branch": null,
             "swift_code": "KRMBYESA"
         },
         {
-            "id": 2,
+            "id": 3,
             "bank": "ARAB BANK PLC - YEMEN",
             "city": "ADEN",
             "branch": "(ADEN BRANCH)",
             "swift_code": "ARABYESAADN"
         },
         {
-            "id": 3,
+            "id": 4,
             "bank": "ARAB BANK PLC - YEMEN",
             "city": "HODEIDA",
             "branch": "(HODAIDA BRANCH)",
             "swift_code": "ARABYESAHOD"
         },
         {
-            "id": 4,
+            "id": 5,
             "bank": "ARAB BANK PLC - YEMEN",
             "city": "HODEIDA",
             "branch": null,
             "swift_code": "ARABYES102H"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "ARAB BANK PLC - YEMEN",
             "city": "IBB",
             "branch": "(IBB BRANCH)",
             "swift_code": "ARABYESAIBB"
         },
         {
-            "id": 6,
+            "id": 7,
             "bank": "ARAB BANK PLC - YEMEN",
             "city": "MUKALLA",
             "branch": "(MUKALLA BRANCH)",
             "swift_code": "ARABYESAMKL"
         },
         {
-            "id": 7,
+            "id": 8,
             "bank": "ARAB BANK PLC - YEMEN",
             "city": "SANAA",
             "branch": "(CENTRAL OPERATION UNIT)",
             "swift_code": "ARABYESACOU"
         },
         {
-            "id": 8,
+            "id": 9,
             "bank": "ARAB BANK PLC - YEMEN",
             "city": "SANAA",
             "branch": "(PAYMENTS INVESTIGATIONS)",
             "swift_code": "ARABYESAINV"
         },
         {
-            "id": 9,
+            "id": 10,
             "bank": "ARAB BANK PLC - YEMEN",
             "city": "SANAA",
             "branch": "(SANAA BRANCH)",
             "swift_code": "ARABYESASA1"
         },
         {
-            "id": 10,
+            "id": 11,
             "bank": "ARAB BANK PLC - YEMEN",
             "city": "SANAA",
             "branch": "(YEMEN BRANCH CENTRE)",
             "swift_code": "ARABYESAYBC"
         },
         {
-            "id": 11,
+            "id": 12,
             "bank": "ARAB BANK PLC - YEMEN",
             "city": "SANAA",
             "branch": null,
             "swift_code": "ARABYESA"
         },
         {
-            "id": 12,
+            "id": 13,
             "bank": "ARAB BANK PLC - YEMEN",
             "city": "TAIZZ",
             "branch": "(TAIZZ BRANCH)",
             "swift_code": "ARABYESATAZ"
         },
         {
-            "id": 13,
+            "id": 14,
             "bank": "ARAB BANK PLC - YEMEN",
             "city": "TAIZZ",
             "branch": null,
             "swift_code": "ARABYES102T"
         },
         {
-            "id": 14,
+            "id": 15,
             "bank": "BANK OF YEMEN",
             "city": "ADEN",
             "branch": null,
             "swift_code": "BAYEYEY1"
         },
         {
-            "id": 15,
+            "id": 16,
             "bank": "CENTRAL BANK OF YEMEN",
-            "city": "SANAA",
+            "city": "ADEN",
             "branch": null,
             "swift_code": "CBYEYESA"
-        },
-        {
-            "id": 16,
-            "bank": "COOPERATIVE AND AGRICULTURAL CREDIT BANK",
-            "city": "SANAA",
-            "branch": "(HEAD OFFICE)",
-            "swift_code": "CACBYESASAN"
         },
         {
             "id": 17,
             "bank": "COOPERATIVE AND AGRICULTURAL CREDIT BANK",
             "city": "SANAA",
-            "branch": null,
-            "swift_code": "CACBYESAYIS"
+            "branch": "(HEAD OFFICE)",
+            "swift_code": "CACBYESASAN"
         },
         {
             "id": 18,
@@ -130,150 +130,150 @@
         },
         {
             "id": 19,
+            "bank": "COOPERATIVE AND AGRICULTURAL CREDIT BANK",
+            "city": "SANAA",
+            "branch": null,
+            "swift_code": "CACBYESAYIS"
+        },
+        {
+            "id": 20,
             "bank": "HOUSING CREDIT BANK",
             "city": "SANAA",
             "branch": null,
             "swift_code": "HOCBYES1"
         },
         {
-            "id": 20,
+            "id": 21,
             "bank": "INTERNATIONAL BANK OF YEMEN Y.S.C.",
             "city": "SANAA",
             "branch": null,
             "swift_code": "IBOYYESA"
         },
         {
-            "id": 21,
+            "id": 22,
             "bank": "ISLAMIC BANK OF YEMEN FOR FINANCE AND INVESTMENT",
             "city": "ADEN",
             "branch": "(ADEN - CRATER BRANCH)",
             "swift_code": "ISBYYESA107"
         },
         {
-            "id": 22,
+            "id": 23,
             "bank": "ISLAMIC BANK OF YEMEN FOR FINANCE AND INVESTMENT",
             "city": "ADEN",
             "branch": "(SHEIKH OTHMAN BRANCH)",
             "swift_code": "ISBYYESA109"
         },
         {
-            "id": 23,
+            "id": 24,
             "bank": "ISLAMIC BANK OF YEMEN FOR FINANCE AND INVESTMENT",
             "city": "HODEIDA",
             "branch": "(HODEIDAH BRANCH)",
             "swift_code": "ISBYYESA103"
         },
         {
-            "id": 24,
+            "id": 25,
             "bank": "ISLAMIC BANK OF YEMEN FOR FINANCE AND INVESTMENT",
             "city": "SANAA",
             "branch": "(SANA'A BRANCH)",
             "swift_code": "ISBYYESA101"
         },
         {
-            "id": 25,
+            "id": 26,
             "bank": "ISLAMIC BANK OF YEMEN FOR FINANCE AND INVESTMENT",
             "city": "SANAA",
             "branch": null,
             "swift_code": "ISBYYESA"
         },
         {
-            "id": 26,
+            "id": 27,
             "bank": "ISLAMIC BANK OF YEMEN FOR FINANCE AND INVESTMENT",
             "city": "TAIZZ",
             "branch": "(TAIZ BRANCH)",
             "swift_code": "ISBYYESA105"
         },
         {
-            "id": 27,
+            "id": 28,
             "bank": "MINISTRY OF FINANCE",
             "city": "SANAA",
             "branch": null,
-            "swift_code": "MOFYYESA"
+            "swift_code": "MOFYYES1"
         },
         {
-            "id": 28,
+            "id": 29,
             "bank": "NATIONAL BANK OF YEMEN",
             "city": "ADEN",
             "branch": "(AIDROOS BRANCH)",
             "swift_code": "NBOYYESA001"
         },
         {
-            "id": 29,
+            "id": 30,
             "bank": "NATIONAL BANK OF YEMEN",
             "city": "ADEN",
             "branch": "(ARAWA BRANCH)",
             "swift_code": "NBOYYESA002"
         },
         {
-            "id": 30,
+            "id": 31,
             "bank": "NATIONAL BANK OF YEMEN",
             "city": "ADEN",
             "branch": "(MALAA BRANCH)",
             "swift_code": "NBOYYESA003"
         },
         {
-            "id": 31,
+            "id": 32,
             "bank": "NATIONAL BANK OF YEMEN",
             "city": "ADEN",
             "branch": null,
             "swift_code": "NBOYYESA"
         },
         {
-            "id": 32,
+            "id": 33,
             "bank": "NATIONAL BANK OF YEMEN",
             "city": "HODEIDA",
             "branch": "(HODEIDA BRANCH)",
             "swift_code": "NBOYYESA034"
         },
         {
-            "id": 33,
+            "id": 34,
             "bank": "NATIONAL BANK OF YEMEN",
             "city": "MUKALLA",
             "branch": "(MUKALLA)",
             "swift_code": "NBOYYESA009"
         },
         {
-            "id": 34,
+            "id": 35,
             "bank": "NATIONAL BANK OF YEMEN",
             "city": "SANAA",
             "branch": "(SANAA BRANCH)",
             "swift_code": "NBOYYESA033"
         },
         {
-            "id": 35,
+            "id": 36,
             "bank": "NATIONAL BANK OF YEMEN",
             "city": "SEIYUN",
             "branch": "(SEIYUN BRANCH)",
             "swift_code": "NBOYYESA007"
         },
         {
-            "id": 36,
+            "id": 37,
             "bank": "QATAR NATIONAL BANK SAQ",
             "city": "SANAA",
             "branch": null,
             "swift_code": "QNBAYESA"
         },
         {
-            "id": 37,
+            "id": 38,
             "bank": "RAFIDAIN BANK",
             "city": "SANAA",
             "branch": null,
             "swift_code": "RAFBYES1"
         },
         {
-            "id": 38,
-            "bank": "SABA ISLAMIC BANK",
-            "city": "SANAA",
-            "branch": null,
-            "swift_code": "SAAIYESA"
-        },
-        {
             "id": 39,
             "bank": "SABA ISLAMIC BANK",
             "city": "SANAA",
             "branch": null,
-            "swift_code": "SSLBYES1"
+            "swift_code": "SAAIYESA"
         },
         {
             "id": 40,
@@ -469,7 +469,7 @@
             "bank": "YEMEN GULF BANK",
             "city": "SANAA",
             "branch": null,
-            "swift_code": "YGBKYESA"
+            "swift_code": "YGBKYES1"
         },
         {
             "id": 68,
@@ -480,13 +480,6 @@
         },
         {
             "id": 69,
-            "bank": "YEMEN KUWAIT BANK-ISLAMIC BRANCH",
-            "city": "SANAA",
-            "branch": null,
-            "swift_code": "YKIBYESA"
-        },
-        {
-            "id": 70,
             "bank": "YEMEN LNG COMPANY LTD.",
             "city": "SANAA",
             "branch": null,

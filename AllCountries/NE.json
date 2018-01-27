@@ -25,21 +25,21 @@
         },
         {
             "id": 4,
-            "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE ET DE L'OUEST",
+            "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
             "city": "MARADI",
             "branch": "(MARADI BRANCH)",
             "swift_code": "BCAONENIMAR"
         },
         {
             "id": 5,
-            "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE ET DE L'OUEST",
+            "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
             "city": "NIAMEY",
             "branch": null,
             "swift_code": "BCAONENI"
         },
         {
             "id": 6,
-            "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE ET DE L'OUEST",
+            "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
             "city": "ZINDER",
             "branch": "(ZINDER BRANCH)",
             "swift_code": "BCAONENIZIN"
@@ -81,48 +81,55 @@
         },
         {
             "id": 12,
+            "bank": "BANQUE REGIONALE DE MARCHES",
+            "city": "NIAMEY",
+            "branch": null,
+            "swift_code": "BRMXNENI"
+        },
+        {
+            "id": 13,
             "bank": "BANQUE SAHELO-SAHARIENNE POUR L'INVESTISSEMENT ET LE COMMERCE (NIGER) S.A.",
             "city": "NIAMEY",
             "branch": null,
             "swift_code": "BSAHNENI"
         },
         {
-            "id": 13,
+            "id": 14,
             "bank": "CBAO GROUPE ATTIJARIWAFA BANK",
             "city": "NIAMEY",
             "branch": null,
             "swift_code": "CBAONENI"
         },
         {
-            "id": 14,
+            "id": 15,
             "bank": "CITIBANK NIGERIA LIMITED",
             "city": "NIAMEY",
             "branch": null,
             "swift_code": "NIBANEN1"
         },
         {
-            "id": 15,
+            "id": 16,
             "bank": "DEPOSITAIRE CENTRAL-BANQUE DE REGLEMENT (DCBR NIGER)",
             "city": "NIAMEY",
             "branch": null,
             "swift_code": "DCRRNEN1"
         },
         {
-            "id": 16,
+            "id": 17,
             "bank": "ECOBANK NIGER ECN",
             "city": "NIAMEY",
             "branch": null,
             "swift_code": "ECOCNENI"
         },
         {
-            "id": 17,
+            "id": 18,
             "bank": "ORABANK NIGER",
             "city": "NIAMEY",
             "branch": null,
             "swift_code": "ORBKNENI"
         },
         {
-            "id": 18,
+            "id": 19,
             "bank": "SOCIETE NIGERIENNE DE BANQUE",
             "city": "NIAMEY",
             "branch": null,

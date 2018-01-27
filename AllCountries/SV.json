@@ -25,157 +25,171 @@
         },
         {
             "id": 4,
+            "bank": "BANCO AZUL DE EL SALVADOR, SOCIEDAD ANONIMA",
+            "city": "SAN SALVADOR",
+            "branch": null,
+            "swift_code": "AZULSVSS"
+        },
+        {
+            "id": 5,
             "bank": "BANCO CENTRAL DE RESERVA DE EL SALVADOR",
             "city": "SAN SALVADOR",
             "branch": "(GERENCIA DE TESORERIA)",
             "swift_code": "CENRSVSSGTE"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "BANCO CENTRAL DE RESERVA DE EL SALVADOR",
             "city": "SAN SALVADOR",
             "branch": null,
             "swift_code": "CENRSVSS"
         },
         {
-            "id": 6,
+            "id": 7,
             "bank": "BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA",
             "city": "SAN SALVADOR",
             "branch": null,
             "swift_code": "BCIESVS1"
         },
         {
-            "id": 7,
-            "bank": "BANCO CITIBANK DE EL SALVADOR S.A.",
+            "id": 8,
+            "bank": "BANCO CUSCATLAN DE EL SALVADOR S.A.",
             "city": "SAN SALVADOR",
             "branch": "(NOSTRO ACCOUNT)",
             "swift_code": "BACUSVSSNOS"
         },
         {
-            "id": 8,
-            "bank": "BANCO CITIBANK DE EL SALVADOR S.A.",
+            "id": 9,
+            "bank": "BANCO CUSCATLAN DE EL SALVADOR S.A.",
             "city": "SAN SALVADOR",
             "branch": null,
             "swift_code": "BACUSVSS"
         },
         {
-            "id": 9,
+            "id": 10,
             "bank": "BANCO DAVIVIENDA SALVADORENO SA",
             "city": "SAN SALVADOR",
             "branch": null,
             "swift_code": "BSALSVSS"
         },
         {
-            "id": 10,
+            "id": 11,
             "bank": "BANCO DE AMERICA CENTRAL, S.A.",
             "city": "SAN SALVADOR",
             "branch": null,
             "swift_code": "BAMCSVSS"
         },
         {
-            "id": 11,
+            "id": 12,
             "bank": "BANCO DE CREDITO POPULAR S.A.",
             "city": "SAN SALVADOR",
             "branch": null,
             "swift_code": "POPCSVS1"
         },
         {
-            "id": 12,
+            "id": 13,
             "bank": "BANCO DE FOMENTO AGROPECUARIO",
             "city": "SAN SALVADOR",
             "branch": null,
-            "swift_code": "FOAGSVS1"
+            "swift_code": "FOAGSVSS"
         },
         {
-            "id": 13,
+            "id": 14,
             "bank": "BANCO G AND T CONTINENTAL EL SALVADOR",
             "city": "SAN SALVADOR",
             "branch": null,
             "swift_code": "GTCSSVSS"
         },
         {
-            "id": 14,
+            "id": 15,
             "bank": "BANCO HIPOTECARIO DE EL SALVADOR S.A.",
             "city": "SAN SALVADOR",
             "branch": null,
             "swift_code": "BHSASVSS"
         },
         {
-            "id": 15,
+            "id": 16,
             "bank": "BANCO INDUSTRIAL EL SALVADOR, S.A.",
             "city": "SAN SALVADOR",
             "branch": null,
             "swift_code": "INDLSVSS"
         },
         {
-            "id": 16,
+            "id": 17,
             "bank": "BANCO PROCREDIT, S.A.",
             "city": "SAN SALVADOR",
             "branch": null,
             "swift_code": "PRCBSVSS"
         },
         {
-            "id": 17,
+            "id": 18,
             "bank": "BANCO PROMERICA, S.A.",
             "city": "ANTIGUO CUSCATLAN",
             "branch": null,
             "swift_code": "BPRASVSS"
         },
         {
-            "id": 18,
+            "id": 19,
             "bank": "CENTRAL DE DEPOSITO DE VALORES DE EL SALVADOR SA DE CV",
             "city": "SAN SALVADOR",
             "branch": null,
             "swift_code": "CDVSSVS1"
         },
         {
-            "id": 19,
+            "id": 20,
             "bank": "CITIBANK, N.A",
             "city": "SAN SALVADOR",
             "branch": null,
             "swift_code": "CITISVS1"
         },
         {
-            "id": 20,
+            "id": 21,
             "bank": "FEDECREDITO DE CV",
             "city": "SAN SALVADOR",
             "branch": null,
             "swift_code": "FEDRSVS1"
         },
         {
-            "id": 21,
+            "id": 22,
             "bank": "FITCH CENTROAMERICA (EL SALVADOR BRANCH OF PANAMANIAN ENTITY)",
             "city": "SAN SALVADOR",
             "branch": null,
             "swift_code": "FRIPSVS1"
         },
         {
-            "id": 22,
+            "id": 23,
             "bank": "MULTI INVERSIONES BANCO COOPERATIVO DE LOS TRABAJADORES S.C. DE R.L. DE C.V.",
             "city": "SAN SALVADOR",
             "branch": null,
             "swift_code": "MICJSVS1"
         },
         {
-            "id": 23,
+            "id": 24,
             "bank": "PRIMER BANCO DE LOS TRABAJADORES SOC. COOP. DE R.L. DE C.V.",
             "city": "SAN SALVADOR",
             "branch": null,
             "swift_code": "PBTRSVS1"
         },
         {
-            "id": 24,
+            "id": 25,
             "bank": "SCOTIABANK EL SALVADOR, S.A.",
             "city": "SAN SALVADOR",
             "branch": null,
             "swift_code": "BCSASVSS"
         },
         {
-            "id": 25,
+            "id": 26,
             "bank": "SOCIEDAD DE AHORRO Y CREDITO CONSTELACION, S.A.",
             "city": "LA LIBERTAD",
             "branch": null,
             "swift_code": "SADTSV21"
+        },
+        {
+            "id": 27,
+            "bank": "SOCIEDAD DE AHORRO Y CREDITO MULTIVALORES",
+            "city": "SAN SALVADOR",
+            "branch": null,
+            "swift_code": "SADISVS1"
         }
     ]
 }

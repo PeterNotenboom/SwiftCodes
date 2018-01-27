@@ -67,17 +67,17 @@
         },
         {
             "id": 10,
+            "bank": "EBONY NATIONAL BANK LTD",
+            "city": "JUBA",
+            "branch": null,
+            "swift_code": "EBONSSJB"
+        },
+        {
+            "id": 11,
             "bank": "ECOBANK SOUTH SUDAN LIMITED",
             "city": "JUBA",
             "branch": null,
             "swift_code": "ECOCSSJB"
-        },
-        {
-            "id": 11,
-            "bank": "EDEN COMMERCIAL BANK LTD",
-            "city": "JUBA",
-            "branch": null,
-            "swift_code": "EDBKSSJB"
         },
         {
             "id": 12,
@@ -102,7 +102,7 @@
         },
         {
             "id": 15,
-            "bank": "KCB SUDAN LTD",
+            "bank": "KCB BANK SOUTH SUDAN LIMITED",
             "city": "JUBA",
             "branch": null,
             "swift_code": "KCBLSSJB"
@@ -116,87 +116,66 @@
         },
         {
             "id": 17,
-            "bank": "LIBERTY COMMERCIAL BANK",
-            "city": "JUBA",
-            "branch": null,
-            "swift_code": "LINYSSJB"
-        },
-        {
-            "id": 18,
             "bank": "MOUNTAINS TRADE AND DEVELOPMENT BANK",
             "city": "JUBA",
             "branch": null,
             "swift_code": "MTDBSSJB"
         },
         {
-            "id": 19,
+            "id": 18,
             "bank": "NATIONAL COMMERCIAL BANK PLC",
             "city": "JUBA",
             "branch": null,
             "swift_code": "NBCPSSJ1"
         },
         {
-            "id": 20,
+            "id": 19,
             "bank": "NATIONAL CREDIT BANK",
             "city": "JUBA",
             "branch": null,
-            "swift_code": "CNABSSJB"
+            "swift_code": "CNABSSJ1"
         },
         {
-            "id": 21,
+            "id": 20,
             "bank": "NILE COMMERCIAL BANK LTD",
             "city": "JUBA",
             "branch": null,
-            "swift_code": "NCBLSSJB"
+            "swift_code": "NCBLSSJ1"
         },
         {
-            "id": 22,
+            "id": 21,
             "bank": "OPPORTUNITY BANK PLC",
             "city": "JUBA",
             "branch": null,
             "swift_code": "OBXXSSJB"
         },
         {
-            "id": 23,
-            "bank": "ORBIT BANK PLC",
-            "city": "JUBA",
-            "branch": null,
-            "swift_code": "ORBTSSJU"
-        },
-        {
-            "id": 24,
-            "bank": "PEOPLES BANK PLC",
-            "city": "JUBA",
-            "branch": null,
-            "swift_code": "PBJBSSJB"
-        },
-        {
-            "id": 25,
-            "bank": "PHOENIX COMMERCIAL BANK",
-            "city": "JUBA",
-            "branch": null,
-            "swift_code": "PXCBSSJB"
-        },
-        {
-            "id": 26,
+            "id": 22,
             "bank": "QNB",
             "city": "JUBA",
             "branch": null,
             "swift_code": "QNBASSJB"
         },
         {
-            "id": 27,
+            "id": 23,
             "bank": "REGENT AFRICAN BANK",
             "city": "JUBA",
             "branch": null,
-            "swift_code": "RABKSSJB"
+            "swift_code": "RABKSSJ1"
         },
         {
-            "id": 28,
+            "id": 24,
             "bank": "SOUTH SUDAN COMMERCIAL BANK LTD",
             "city": "JUBA",
             "branch": null,
             "swift_code": "SSDCSSJB"
+        },
+        {
+            "id": 25,
+            "bank": "SOUTHERN ROCK BANK",
+            "city": "JUBA",
+            "branch": null,
+            "swift_code": "SRBASSJB"
         }
     ]
 }

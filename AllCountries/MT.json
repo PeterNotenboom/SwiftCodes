@@ -67,29 +67,29 @@
         },
         {
             "id": 10,
+            "bank": "AURORA SICAV PLC",
+            "city": "VALLETTA",
+            "branch": null,
+            "swift_code": "AUSVMTM1"
+        },
+        {
+            "id": 11,
             "bank": "AVUS FUND",
             "city": "BIRKIRKARA",
             "branch": null,
             "swift_code": "AVFUMTM1"
         },
         {
-            "id": 11,
+            "id": 12,
             "bank": "AXERIA RE",
             "city": "SWIEQI",
             "branch": null,
             "swift_code": "AXERMTM1"
         },
         {
-            "id": 12,
-            "bank": "BANIF BANK (MALTA) PLC",
-            "city": "GZIRA",
-            "branch": null,
-            "swift_code": "BNIFMTMT"
-        },
-        {
             "id": 13,
             "bank": "BANK OF VALLETTA P.L.C.",
-            "city": "ST. VENERA",
+            "city": "VALLETTA",
             "branch": null,
             "swift_code": "VALLMTMT"
         },
@@ -102,17 +102,17 @@
         },
         {
             "id": 15,
-            "bank": "BAWAG MALTA BANK LTD",
-            "city": "SLIEMA",
+            "bank": "BNF BANK PLC (FORMERLY BANIF BANK MALTA)",
+            "city": "GZIRA",
             "branch": null,
-            "swift_code": "BAWAMTM3"
+            "swift_code": "BNIFMTMT"
         },
         {
             "id": 16,
-            "bank": "CALAMATTA CUSCHIERI AND CO. LIMITED",
-            "city": "VALLETTA",
+            "bank": "CALAMATTA CUSCHIERI INVESTMENT SERVICES LIMITED",
+            "city": "BIRKIRKARA",
             "branch": null,
-            "swift_code": "CCUHMTM1"
+            "swift_code": "CCUHMTMT"
         },
         {
             "id": 17,
@@ -224,430 +224,521 @@
             "bank": "EMONEY PLC",
             "city": "SLIEMA",
             "branch": null,
-            "swift_code": "EMONMTM1"
+            "swift_code": "EMONMTM2"
         },
         {
             "id": 33,
+            "bank": "EMP SYSTEMS LIMITED",
+            "city": "SLIEMA",
+            "branch": null,
+            "swift_code": "EMSYMTM1"
+        },
+        {
+            "id": 34,
             "bank": "EPIC FINANCIAL SERVICES LIMITED",
             "city": "BURMARRAD",
             "branch": null,
             "swift_code": "EPFSMTM1"
         },
         {
-            "id": 34,
-            "bank": "ESS-DATABRIDGE EXCHANGE LIMITED",
-            "city": "VALLETTA",
+            "id": 35,
+            "bank": "EUROCHANGE FINANCIAL SERVICES LTD",
+            "city": "GZIRA",
             "branch": null,
-            "swift_code": "ESSDMTMT"
+            "swift_code": "EUFVMTM1"
         },
         {
-            "id": 35,
+            "id": 36,
             "bank": "EXANTE LTD.",
             "city": "ST. JULIAN'S",
             "branch": null,
             "swift_code": "EXAEMTM1"
         },
         {
-            "id": 36,
+            "id": 37,
             "bank": "FCM BANK LIMITED",
             "city": "ST. JULIAN'S",
             "branch": null,
             "swift_code": "FCMFMTMT"
         },
         {
-            "id": 37,
+            "id": 38,
             "bank": "FERRATUM BANK LIMITED",
             "city": "SLIEMA",
             "branch": null,
             "swift_code": "FEMAMTMT"
         },
         {
-            "id": 38,
+            "id": 39,
             "bank": "FEXSERV FINANCIAL SERVICES LIMITED",
             "city": "SAN GWANN",
             "branch": null,
             "swift_code": "FFSMMTM1"
         },
         {
-            "id": 39,
+            "id": 40,
             "bank": "FIMBANK PLC",
             "city": "ST. JULIAN'S",
             "branch": null,
             "swift_code": "FIMBMTM3"
         },
         {
-            "id": 40,
+            "id": 41,
             "bank": "FINACOM INVESTMENT HOUSE LIMITED",
             "city": "G'MANGIA",
             "branch": null,
             "swift_code": "FIIHMTM1"
         },
         {
-            "id": 41,
+            "id": 42,
             "bank": "FINANCIAL PLANNING SERVICES LIMITED",
             "city": "TA'XBIEX",
             "branch": null,
             "swift_code": "FPLSMTM1"
         },
         {
-            "id": 42,
+            "id": 43,
             "bank": "FINANCIAL PLUS INVESTMENT SERVICES LIMITED",
             "city": "SLIEMA",
             "branch": null,
             "swift_code": "FPISMTM1"
         },
         {
-            "id": 43,
+            "id": 44,
             "bank": "FINCO TREASURY MANAGEMENT LIMITED",
             "city": "FLORIANA",
             "branch": null,
             "swift_code": "FTRMMTM1"
         },
         {
-            "id": 44,
+            "id": 45,
             "bank": "GARANTI BANK, MALTA BRANCH",
             "city": "SLIEMA",
             "branch": null,
             "swift_code": "TGBAMTMT"
         },
         {
-            "id": 45,
+            "id": 46,
             "bank": "GLOBALCAPITAL FINANCIAL MANAGEMENT LIMITED",
             "city": "BALZAN",
             "branch": null,
             "swift_code": "GLFMMTM1"
         },
         {
-            "id": 46,
+            "id": 47,
             "bank": "GLOBALCAPITAL FUND ADVISORS LIMITED",
             "city": "GZIRA",
             "branch": null,
             "swift_code": "GLFAMTM1"
         },
         {
-            "id": 47,
+            "id": 48,
             "bank": "GROWTH INVESTMENTS LIMITED",
             "city": "FLORIANA",
             "branch": null,
             "swift_code": "GROIMTM1"
         },
         {
-            "id": 48,
-            "bank": "HOGG CAPITAL INVESTMENTS LIMITED",
-            "city": "SLIEMA",
+            "id": 49,
+            "bank": "HEKA FUNDS SICAV PLC",
+            "city": "MRIEHEL",
             "branch": null,
-            "swift_code": "HOCVMTM1"
+            "swift_code": "HFSIMTM1"
         },
         {
-            "id": 49,
+            "id": 50,
+            "bank": "HIGHLAND SICAV PLC",
+            "city": "TA'XBIEX",
+            "branch": null,
+            "swift_code": "HISVMTM1"
+        },
+        {
+            "id": 51,
             "bank": "HOGG CAPITAL INVESTMENTS LIMITED",
             "city": "SLIEMA",
             "branch": null,
             "swift_code": "HOCIMTM1"
         },
         {
-            "id": 50,
+            "id": 52,
+            "bank": "HOGG CAPITAL INVESTMENTS LIMITED",
+            "city": "SLIEMA",
+            "branch": null,
+            "swift_code": "HOCVMTM1"
+        },
+        {
+            "id": 53,
             "bank": "HSBC BANK MALTA P.L.C.",
             "city": "QORMI",
             "branch": null,
             "swift_code": "MMEBMTM10M2"
         },
         {
-            "id": 51,
+            "id": 54,
             "bank": "HSBC BANK MALTA P.L.C.",
             "city": "VALLETTA",
             "branch": null,
             "swift_code": "MMEBMTMT"
         },
         {
-            "id": 52,
+            "id": 55,
             "bank": "HSBC FUND MANAGEMENT (MALTA) LIMITED",
             "city": "BLATA IL-BAJDA",
             "branch": null,
             "swift_code": "HSFMMTM1"
         },
         {
-            "id": 53,
+            "id": 56,
             "bank": "HSBC INVESTMENT SERVICES (MALTA) LIMITED",
             "city": "BLATA IL-BAJDA",
             "branch": null,
             "swift_code": "HINSMTM1"
         },
         {
-            "id": 54,
+            "id": 57,
             "bank": "HSBC STOCKBROKERS (MALTA) LIMITED",
             "city": "VALLETTA",
             "branch": null,
             "swift_code": "HSSBMTM1"
         },
         {
-            "id": 55,
+            "id": 58,
             "bank": "IIG BANK (MALTA) LTD",
             "city": "ST. JULIAN'S",
             "branch": null,
             "swift_code": "IIGBMTMT"
         },
         {
-            "id": 56,
+            "id": 59,
             "bank": "ISLAND FINANCIAL SERVICES LIMITED",
             "city": "BIRKIRKARA",
             "branch": null,
             "swift_code": "ISFSMTM1"
         },
         {
-            "id": 57,
+            "id": 60,
             "bank": "IZOLA BANK LIMITED",
             "city": "VALLETTA",
             "branch": null,
             "swift_code": "IZOLMTMT"
         },
         {
-            "id": 58,
+            "id": 61,
             "bank": "JESMOND MIZZI FINANCIAL SERVICES LIMITED",
             "city": "VALLETTA",
             "branch": null,
             "swift_code": "JMFSMTM1"
         },
         {
-            "id": 59,
+            "id": 62,
+            "bank": "KBC EURO CREDIT LIMITED",
+            "city": "SLIEMA",
+            "branch": null,
+            "swift_code": "KBCEMTMT"
+        },
+        {
+            "id": 63,
             "bank": "LOMBARD ASSET MANAGERS LIMITED",
             "city": "MRIEHEL",
             "branch": null,
             "swift_code": "LOAGMTM1"
         },
         {
-            "id": 60,
+            "id": 64,
             "bank": "LOMBARD BANK MALTA PLC",
             "city": "VALLETTA",
             "branch": null,
             "swift_code": "LBMAMTMT"
         },
         {
-            "id": 61,
+            "id": 65,
+            "bank": "M.Z. INVESTMENT SERVICES LIMITED",
+            "city": "RABAT",
+            "branch": null,
+            "swift_code": "MZNSMTM1"
+        },
+        {
+            "id": 66,
             "bank": "MALTA STOCK EXCHANGE",
             "city": "VALLETTA",
             "branch": null,
             "swift_code": "XMALMTMT"
         },
         {
-            "id": 62,
-            "bank": "MEDITERRANEAN BANK PLC",
+            "id": 67,
+            "bank": "MEDIRECT BANK (MALTA) PLC",
             "city": "VALLETTA",
             "branch": null,
             "swift_code": "MBWMMTMT"
         },
         {
-            "id": 63,
-            "bank": "MEDITERRANEAN CORPORATE BANK",
+            "id": 68,
+            "bank": "MFC MERCHANT BANK LIMITED",
             "city": "SLIEMA",
             "branch": null,
-            "swift_code": "VBMAMTM3"
+            "swift_code": "MFCBMTMS"
         },
         {
-            "id": 64,
+            "id": 69,
             "bank": "MICHAEL GRECH FINANCIAL INVESTMENT SERVICES LIMITED",
             "city": "VICTORIA",
             "branch": null,
             "swift_code": "MGFIMTM1"
         },
         {
-            "id": 65,
+            "id": 70,
             "bank": "MISTRAL PAY LTD",
             "city": "VALLETTA",
             "branch": "(ALL BRANCHES)",
             "swift_code": "MIPYMTM1ALL"
         },
         {
-            "id": 66,
+            "id": 71,
             "bank": "MISTRAL PAY LTD",
             "city": "VALLETTA",
             "branch": null,
             "swift_code": "MIPYMTM1"
         },
         {
-            "id": 67,
+            "id": 72,
+            "bank": "MTACC LIMITED",
+            "city": "ST. JULIAN'S",
+            "branch": null,
+            "swift_code": "MTCCMTMT"
+        },
+        {
+            "id": 73,
             "bank": "NBG BANK MALTA LIMITED",
             "city": "SLIEMA",
             "branch": null,
             "swift_code": "FNNBMTMT"
         },
         {
-            "id": 68,
-            "bank": "NEMEA BANK",
-            "city": "ST. JULIAN'S",
-            "branch": null,
-            "swift_code": "NMEAMTMT"
-        },
-        {
-            "id": 69,
+            "id": 74,
             "bank": "NOVUM BANK LTD",
             "city": "TA'XBIEX",
             "branch": null,
             "swift_code": "VOCBMTMT"
         },
         {
-            "id": 70,
+            "id": 75,
+            "bank": "PAPAYA LTD",
+            "city": "BIRKIRKARA",
+            "branch": null,
+            "swift_code": "PAPYMTM1"
+        },
+        {
+            "id": 76,
             "bank": "PAYMIX LIMITED",
             "city": "SAN GWANN",
             "branch": null,
             "swift_code": "PYMXMTMT"
         },
         {
-            "id": 71,
+            "id": 77,
             "bank": "PDK FINANCIAL SERVICES LIMITED",
             "city": "ST. JULIAN'S",
             "branch": null,
             "swift_code": "PDKFMTM1"
         },
         {
-            "id": 72,
-            "bank": "PILATUS BANK LTD",
+            "id": 78,
+            "bank": "PERSYSTEMCY SICAV PLC",
+            "city": "SLIEMA",
+            "branch": null,
+            "swift_code": "PESIMTM1"
+        },
+        {
+            "id": 79,
+            "bank": "PILATUS BANK PLC",
             "city": "TA'XBIEX",
             "branch": null,
             "swift_code": "PLTSMTMT"
         },
         {
-            "id": 73,
+            "id": 80,
             "bank": "RAIFFEISEN MALTA BANK PLC",
             "city": "SLIEMA",
             "branch": null,
             "swift_code": "RZBMMTM1"
         },
         {
-            "id": 74,
+            "id": 81,
+            "bank": "REDHEDGE SICAV PLC",
+            "city": "MRIEHEL",
+            "branch": "(REDHEDGE RELATIVE VALUE FUND)",
+            "swift_code": "RECVMTM1001"
+        },
+        {
+            "id": 82,
+            "bank": "REDHEDGE SICAV PLC",
+            "city": "MRIEHEL",
+            "branch": null,
+            "swift_code": "RECVMTM1"
+        },
+        {
+            "id": 83,
             "bank": "RIZZO FARRUGIA AND CO.(STOCKBROKERS) LIMITED",
             "city": "SLIEMA",
             "branch": null,
             "swift_code": "RIFSMTM1"
         },
         {
-            "id": 75,
+            "id": 84,
             "bank": "SAMROB LTD",
             "city": "FLORIANA",
             "branch": null,
             "swift_code": "SAOBMTM1"
         },
         {
-            "id": 76,
+            "id": 85,
             "bank": "SATABANK P.L.C.",
             "city": "ST. JULIAN'S",
             "branch": null,
             "swift_code": "STBAMTMT"
         },
         {
-            "id": 77,
+            "id": 86,
             "bank": "SPARKASSE BANK MALTA PLC",
             "city": "SLIEMA",
             "branch": null,
-            "swift_code": "SBMTMTM1"
+            "swift_code": "SBMTMTMT"
         },
         {
-            "id": 78,
+            "id": 87,
             "bank": "SYSPAY LIMITED",
             "city": "SLIEMA",
             "branch": null,
             "swift_code": "SYSPMTM1"
         },
         {
-            "id": 79,
+            "id": 88,
             "bank": "TELL CAPITAL LIMITED",
             "city": "SLIEMA",
             "branch": null,
             "swift_code": "TECAMTM1"
         },
         {
-            "id": 80,
+            "id": 89,
             "bank": "TELL INVESTMENTS CP",
             "city": "SLIEMA",
             "branch": null,
             "swift_code": "TELTMTM1"
         },
         {
-            "id": 81,
-            "bank": "TGA FUNDS",
+            "id": 90,
+            "bank": "TGA FUNDS SICAV PLC",
+            "city": "MRIEHEL",
+            "branch": "(AVUS FUND)",
+            "swift_code": "TGAFMTM1003"
+        },
+        {
+            "id": 91,
+            "bank": "TGA FUNDS SICAV PLC",
+            "city": "MRIEHEL",
+            "branch": "(MARCHE FUND)",
+            "swift_code": "TGAFMTM1002"
+        },
+        {
+            "id": 92,
+            "bank": "TGA FUNDS SICAV PLC",
+            "city": "MRIEHEL",
+            "branch": "(TG FUND)",
+            "swift_code": "TGAFMTM1001"
+        },
+        {
+            "id": 93,
+            "bank": "TGA FUNDS SICAV PLC",
             "city": "MRIEHEL",
             "branch": null,
             "swift_code": "TGAFMTM1"
         },
         {
-            "id": 82,
+            "id": 94,
             "bank": "TRADEXEC (TEX) LIMITED",
             "city": "VALLETTA",
             "branch": null,
             "swift_code": "TRTEMTM1"
         },
         {
-            "id": 83,
+            "id": 95,
             "bank": "UNION CAPITAL MANAGEMENT LTD",
             "city": "GZIRA",
             "branch": null,
             "swift_code": "UCMNMTM1"
         },
         {
-            "id": 84,
+            "id": 96,
             "bank": "VALLETTA FUND MANAGEMENT LIMITED",
             "city": "FLORIANA",
             "branch": null,
             "swift_code": "VAFMMTM1"
         },
         {
-            "id": 85,
+            "id": 97,
             "bank": "VALLETTA FUND SERVICES LIMITED",
             "city": "L-IMRIEHEL",
             "branch": null,
             "swift_code": "VAFRMTM1"
         },
         {
-            "id": 86,
+            "id": 98,
             "bank": "VITESSE ADVISORS LIMITED",
             "city": "BIRKIRKARA",
             "branch": null,
             "swift_code": "VIADMTM1"
         },
         {
-            "id": 87,
+            "id": 99,
             "bank": "VITESSE FUNDS SICAV LIMITED",
             "city": "BIRKIRKARA",
             "branch": null,
             "swift_code": "VIFSMTM1"
         },
         {
-            "id": 88,
+            "id": 100,
             "bank": "W AND J COPPINI AND CO",
             "city": "SLIEMA",
             "branch": null,
             "swift_code": "COPXMTMT"
         },
         {
-            "id": 89,
+            "id": 101,
             "bank": "W AND J COPPINI INVESTMENT SERVICES LIMITED",
             "city": "VALLETTA",
             "branch": null,
             "swift_code": "CISRMTM1"
         },
         {
-            "id": 90,
+            "id": 102,
+            "bank": "WEBCOR INVESTMENTS LTD",
+            "city": "QORMI",
+            "branch": null,
+            "swift_code": "WCORMTMQ"
+        },
+        {
+            "id": 103,
             "bank": "WESTERN UNION BUSINESS SOLUTIONS (MALTA) LTD",
             "city": "SLIEMA",
             "branch": null,
             "swift_code": "TGBPMTMT"
         },
         {
-            "id": 91,
+            "id": 104,
             "bank": "YAPI KREDI BANK MALTA LTD.",
             "city": "ST. JULIAN'S",
             "branch": null,
             "swift_code": "YAPIMTMT"
         },
         {
-            "id": 92,
+            "id": 105,
             "bank": "Z INVESTMENT PARTNERS MALTA LTD",
             "city": "VALLETTA",
             "branch": null,
             "swift_code": "IVPMMTM1"
         },
         {
-            "id": 93,
+            "id": 106,
             "bank": "ZFP EQUITY TRADING (MALTA) LIMITED",
             "city": "SLIEMA",
             "branch": null,

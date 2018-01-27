@@ -60,20 +60,34 @@
         },
         {
             "id": 9,
+            "bank": "REPUBLIC BANK (SURINAME) N.V.",
+            "city": "PARAMARIBO",
+            "branch": null,
+            "swift_code": "RBNKSRPA"
+        },
+        {
+            "id": 10,
+            "bank": "SOUTHERN COMMERCIAL BANK NV",
+            "city": "PARAMARIBO",
+            "branch": null,
+            "swift_code": "SOUOSRPP"
+        },
+        {
+            "id": 11,
             "bank": "SURICHANGE BANK N.V.",
             "city": "PARAMARIBO",
             "branch": null,
             "swift_code": "SURCSRPA"
         },
         {
-            "id": 10,
+            "id": 12,
             "bank": "SURINAAMSE POSTSPAARBANK",
             "city": "PARAMARIBO",
             "branch": null,
             "swift_code": "SDPOSRPA"
         },
         {
-            "id": 11,
+            "id": 13,
             "bank": "SURINAAMSE VOLKSCREDIETBANK",
             "city": "PARAMARIBO",
             "branch": null,

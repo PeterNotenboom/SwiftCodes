@@ -18,13 +18,20 @@
         },
         {
             "id": 3,
-            "bank": "BANKING AND PAYMENTS AUTHORITY OF EAST TIMOR",
+            "bank": "BANCO NACIONAL DE COMERCIO DE TIMOR-LESTE, S.A.",
             "city": "DILI",
-            "branch": "(AIM\/POMS SERVICE)",
-            "swift_code": "BCTLTLDA"
+            "branch": null,
+            "swift_code": "BNCTTLDD"
         },
         {
             "id": 4,
+            "bank": "BANKING AND PAYMENTS AUTHORITY OF EAST TIMOR",
+            "city": "DILI",
+            "branch": null,
+            "swift_code": "BCTLTLDA"
+        },
+        {
+            "id": 5,
             "bank": "CAIXA GERAL DE DEPOSITOS, SA",
             "city": "DILI",
             "branch": null,

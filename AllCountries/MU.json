@@ -46,45 +46,45 @@
         },
         {
             "id": 7,
-            "bank": "BANK INTERNASIONAL INDONESIA",
-            "city": "PORT LOUIS",
-            "branch": null,
-            "swift_code": "IBBKMUMU"
-        },
-        {
-            "id": 8,
             "bank": "BANK OF BARODA",
             "city": "PORT LOUIS",
             "branch": "(OFFSHORE BANKING UNIT)",
             "swift_code": "BARBMUMUOBU"
         },
         {
-            "id": 9,
+            "id": 8,
             "bank": "BANK OF BARODA",
             "city": "PORT LOUIS",
             "branch": null,
             "swift_code": "BARBMUMU"
         },
         {
+            "id": 9,
+            "bank": "BANK OF CHINA (MAURITIUS) LIMITED",
+            "city": "PORT LOUIS",
+            "branch": null,
+            "swift_code": "BKCHMUMU"
+        },
+        {
             "id": 10,
+            "bank": "BANK OF MAURITIUS",
+            "city": "PORT LOUIS",
+            "branch": null,
+            "swift_code": "BOMMMUPG"
+        },
+        {
+            "id": 11,
             "bank": "BANK OF MAURITIUS",
             "city": "PORT LOUIS",
             "branch": null,
             "swift_code": "BOMMMUPL"
         },
         {
-            "id": 11,
+            "id": 12,
             "bank": "BANK ONE LTD",
             "city": "PORT LOUIS",
             "branch": null,
             "swift_code": "BKONMUMU"
-        },
-        {
-            "id": 12,
-            "bank": "BANK PRIVEE DE FLEURY LIMITED",
-            "city": "CYBER CITY",
-            "branch": null,
-            "swift_code": "BPFLMUMU"
         },
         {
             "id": 13,
@@ -270,143 +270,143 @@
         },
         {
             "id": 39,
-            "bank": "MATCO LIMITED",
-            "city": "CYBER CITY",
-            "branch": null,
-            "swift_code": "MTTCMUMM"
-        },
-        {
-            "id": 40,
-            "bank": "MAURITIUS COMMERCIAL BANK LTD., THE",
-            "city": "PORT LOUIS",
-            "branch": null,
-            "swift_code": "MCBLMUMU"
-        },
-        {
-            "id": 41,
-            "bank": "MAURITIUS POST AND COOPERATIVE BANK LTD",
+            "bank": "MAUBANK LTD",
             "city": "PORT LOUIS",
             "branch": null,
             "swift_code": "MPCBMUMU"
         },
         {
-            "id": 42,
+            "id": 40,
             "bank": "MCB STOCKBROKERS LIMITED",
             "city": "PORT LOUIS",
             "branch": null,
             "swift_code": "MCSOMUM1"
         },
         {
-            "id": 43,
-            "bank": "NATIONAL COMMERCIAL BANK LTD",
-            "city": "PORT LOUIS",
-            "branch": null,
-            "swift_code": "BBCLMUMU"
-        },
-        {
-            "id": 44,
+            "id": 41,
             "bank": "NEWTON SECURITIES LTD",
             "city": "PORT LOUIS",
             "branch": null,
             "swift_code": "NESCMUM1"
         },
         {
-            "id": 45,
+            "id": 42,
             "bank": "NOMURA MAURITIUS LIMITED",
             "city": "PORT LOUIS",
             "branch": null,
             "swift_code": "NOMAMUMU"
         },
         {
-            "id": 46,
+            "id": 43,
             "bank": "PLATINUM ONE LIMITED",
             "city": "PORT LOUIS",
             "branch": null,
             "swift_code": "PLOEMUM1"
         },
         {
-            "id": 47,
+            "id": 44,
             "bank": "PROVIDENCE LIFE LIMITED, PCC",
             "city": "EBENE",
             "branch": null,
             "swift_code": "PLLPMUMU"
         },
         {
-            "id": 48,
+            "id": 45,
+            "bank": "RICHEFOND LIMITED",
+            "city": "GRAND BAY",
+            "branch": null,
+            "swift_code": "RICFMUM1"
+        },
+        {
+            "id": 46,
             "bank": "SBI (MAURITIUS) LTD",
             "city": "PORT LOUIS",
             "branch": "(WILLIAM NEWTON STREET)",
             "swift_code": "INILMUMU101"
         },
         {
-            "id": 49,
+            "id": 47,
             "bank": "SBI (MAURITIUS) LTD",
             "city": "PORT LOUIS",
             "branch": null,
             "swift_code": "INILMUMU"
         },
         {
-            "id": 50,
+            "id": 48,
+            "bank": "SBM BANK(MAURITIUS)LTD",
+            "city": "PORT LOUIS",
+            "branch": "(CUSTODY)",
+            "swift_code": "STCBMUMU575"
+        },
+        {
+            "id": 49,
             "bank": "SBM BANK(MAURITIUS)LTD",
             "city": "PORT LOUIS",
             "branch": null,
             "swift_code": "STCBMUMU"
         },
         {
-            "id": 51,
+            "id": 50,
             "bank": "SPARKASSA EKONOMISK FORENING LTEE",
             "city": "PAMPLEMOUSSES",
             "branch": null,
             "swift_code": "KSSAMUM1"
         },
         {
-            "id": 52,
+            "id": 51,
             "bank": "STANDARD BANK (MAURITIUS) LIMITED",
             "city": "EBENE",
             "branch": null,
             "swift_code": "SBICMUMU"
         },
         {
-            "id": 53,
+            "id": 52,
             "bank": "STANDARD CHARTERED BANK (MAURITIUS) LTD",
             "city": "EBENE",
             "branch": "(SECURITIES SERVICES UNIT)",
             "swift_code": "SCBLMUMUSSU"
         },
         {
-            "id": 54,
+            "id": 53,
             "bank": "STANDARD CHARTERED BANK (MAURITIUS) LTD",
             "city": "EBENE",
             "branch": null,
             "swift_code": "SCBLMUMU"
         },
         {
-            "id": 55,
+            "id": 54,
             "bank": "STANDARD CHARTERED BANK (MAURITIUS) LTD",
             "city": "PORT LOUIS",
             "branch": "(FM ASSET SERVICING)",
             "swift_code": "SCBLMUMUZOP"
         },
         {
-            "id": 56,
+            "id": 55,
             "bank": "STOCK EXCHANGE OF MAURITIUS LTD, THE",
             "city": "PORT LOUIS",
             "branch": null,
             "swift_code": "XMAUMUM1"
         },
         {
-            "id": 57,
+            "id": 56,
             "bank": "SUPER GROUP TRADING LIMITED",
             "city": "PORT LOUIS",
             "branch": null,
             "swift_code": "SGCTMUM1"
         },
         {
-            "id": 58,
+            "id": 57,
             "bank": "SWAN SECURITIES LTD",
             "city": "PORT LOUIS",
             "branch": null,
             "swift_code": "GENRMUM1"
+        },
+        {
+            "id": 58,
+            "bank": "THE MAURITIUS COMMERCIAL BANK LIMITED",
+            "city": "PORT LOUIS",
+            "branch": null,
+            "swift_code": "MCBLMUMU"
         },
         {
             "id": 59,
@@ -418,7 +418,7 @@
         {
             "id": 60,
             "bank": "WARWYCK PRIVATE BANK LTD",
-            "city": "EBENE",
+            "city": "PHOENIX",
             "branch": null,
             "swift_code": "WPBLMUMU"
         }

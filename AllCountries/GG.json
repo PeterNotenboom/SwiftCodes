@@ -4,143 +4,143 @@
     "list": [
         {
             "id": 1,
-            "bank": "ABN AMRO (GUERNSEY) LIMITED",
+            "bank": "ABN AMRO (CHANNEL ISLANDS) LIMITED",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "MEESGGSP"
         },
         {
             "id": 2,
+            "bank": "ALTERNATIVE RISK MANAGEMENT LIMITED",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "ARMKGGSP"
+        },
+        {
+            "id": 3,
             "bank": "AUGENTIUS FUND ADMINISTRATION (GUERNSEY) LIMITED",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "AFALGGSP"
         },
         {
-            "id": 3,
+            "id": 4,
             "bank": "BANK J. SAFRA SARASIN LTD, GUERNSEY BRANCH",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "SARAGGSP"
         },
         {
-            "id": 4,
+            "id": 5,
             "bank": "BANK JULIUS BAER AND CO LTD (GUERNSEY BRANCH)",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "BAERGGSP"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "BANK OF CYPRUS (CHANNEL ISLANDS) LIMITED",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "BCYPGGS1"
         },
         {
-            "id": 6,
+            "id": 7,
             "bank": "BANQUE CANTONALE VAUDOISE",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "BCVLGGSP"
         },
         {
-            "id": 7,
+            "id": 8,
             "bank": "BARCLAYS BANK PLC",
             "city": "ST. PETER PORT",
             "branch": "(BARCLAYS BANK PLC GUERNSEY)",
             "swift_code": "BARCGGS10S2"
         },
         {
-            "id": 8,
+            "id": 9,
             "bank": "BARCLAYS BANK PLC",
             "city": "ST. PETER PORT",
             "branch": "(BCPI LIMITED WOOLWICH GUERNSEY)",
             "swift_code": "BARCGGS10WG"
         },
         {
-            "id": 9,
+            "id": 10,
             "bank": "BARCLAYS BANK PLC",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "BARCGGS1"
         },
         {
-            "id": 10,
+            "id": 11,
             "bank": "BARCLAYS FINANCE CO (GUERNSEY) LTD",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "BGUEGGS1"
         },
         {
-            "id": 11,
+            "id": 12,
             "bank": "BARCLAYS PRIVATE BANK AND TRUST LTD",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "BPBLGGS1"
         },
         {
-            "id": 12,
+            "id": 13,
             "bank": "BISYS INVESTMENT SERVICES",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "BSYSGGS1"
         },
         {
-            "id": 13,
+            "id": 14,
             "bank": "BNP PARIBAS (SUISSE) SA",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "BPPBGGS1"
         },
         {
-            "id": 14,
+            "id": 15,
             "bank": "BUTTERFIELD BANK (GUERNSEY) LIMITED",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "BNTBGGSX"
         },
         {
-            "id": 15,
+            "id": 16,
             "bank": "CANACCORD GENUITY WEALTH (INTERNATIONAL) LIMITED",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "CGWIGGSP"
         },
         {
-            "id": 16,
+            "id": 17,
             "bank": "CENKOS CHANNEL ISLANDS LIMITED",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "CECIGGS1"
         },
         {
-            "id": 17,
+            "id": 18,
             "bank": "CHANDLER SECURITIES (EUROPE) LIMITED",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "CHSOGGS1"
         },
         {
-            "id": 18,
+            "id": 19,
             "bank": "CIE FINANCIERE PARIBAS NEDERLAND",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "PARBGGS1"
         },
         {
-            "id": 19,
+            "id": 20,
             "bank": "CLSA GUERNSEY LTD",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "CLSAGGS1"
-        },
-        {
-            "id": 20,
-            "bank": "CLYDESDALE BANK PLC",
-            "city": "ST. PETER PORT",
-            "branch": null,
-            "swift_code": "CLYDGGST"
         },
         {
             "id": 21,
@@ -151,7 +151,7 @@
         },
         {
             "id": 22,
-            "bank": "CREDIT SUISSE (CHANNEL ISLANDS) LTD",
+            "bank": "CREDIT SUISSE AG, GUERNSEY BRANCH",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "CRESGGSP"
@@ -263,307 +263,300 @@
         },
         {
             "id": 38,
-            "bank": "HSBC PRIVATE BANK (C.I.) LIMITED (FORMERLY HSBC PRIVATE BANK (GUERNSEY) LIMITED)",
+            "bank": "HSBC PRIVATE BANK (C.I.) LIMITED",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "BLICGGSX"
         },
         {
             "id": 39,
-            "bank": "HSBC PRIVATE BANK (SUISSE) SA GUERNSEY BRANCH (FORM. REPUBLIC NATIONAL BANK OF NEW YORK (SUISSE) S.A.)",
-            "city": "ST. PETER PORT",
-            "branch": null,
-            "swift_code": "BLICGGBX"
-        },
-        {
-            "id": 40,
-            "bank": "INGENIOUS ASSET MANAGEMENT INTERNATIONAL LIMITED",
-            "city": "ST. PETER PORT",
-            "branch": null,
-            "swift_code": "IAMTGGS1"
-        },
-        {
-            "id": 41,
             "bank": "INTERNATIONAL PRIVATE EQUITY SERVICE LIMITED",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "IPESGGSP"
         },
         {
-            "id": 42,
+            "id": 40,
             "bank": "INVESTEC ASSET MANAGEMENT GUERNSEY LTD",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "GFFMGGS1"
         },
         {
-            "id": 43,
+            "id": 41,
             "bank": "INVESTEC BANK (CHANNEL ISLANDS) LIMITED",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "GMGUGGSP"
         },
         {
-            "id": 44,
-            "bank": "INVESTMENT CONSULTANTS AND BROKERS LTD.",
-            "city": "ST. PETER PORT",
-            "branch": null,
-            "swift_code": "INOBGGS1"
-        },
-        {
-            "id": 45,
+            "id": 42,
             "bank": "JOANNOU AND PARASKEVAIDES (OVERSEAS) LIMITED",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "JPOLGGSA"
         },
         {
-            "id": 46,
-            "bank": "KLEINWORT BENSON (CHANNEL ISLANDS) LIMITED",
-            "city": "ST. PETER PORT",
-            "branch": null,
-            "swift_code": "KBENGGST"
-        },
-        {
-            "id": 47,
+            "id": 43,
             "bank": "LAZARD BROTHERS AND CO (GUERNSEY) LTD",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "LBGUGGS1"
         },
         {
-            "id": 48,
+            "id": 44,
             "bank": "LEONTEQ SECURITIES AG, GUERNSEY BRANCH",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "EFGFGGSP"
         },
         {
-            "id": 49,
+            "id": 45,
             "bank": "LLOYDS BANK INTERNATIONAL LIMITED",
             "city": "ALDERNEY",
             "branch": "(ALDERNEY (774708))",
             "swift_code": "LOYDGGS1005"
         },
         {
-            "id": 50,
+            "id": 46,
             "bank": "LLOYDS BANK INTERNATIONAL LIMITED",
             "city": "ST. MARTIN",
             "branch": "(ST. MARTIN (774707))",
             "swift_code": "LOYDGGS1004"
         },
         {
-            "id": 51,
+            "id": 47,
             "bank": "LLOYDS BANK INTERNATIONAL LIMITED",
             "city": "ST. PETER PORT",
             "branch": "(GUERNSEY (309373))",
             "swift_code": "LOYDGGS1001"
         },
         {
-            "id": 52,
+            "id": 48,
             "bank": "LLOYDS BANK INTERNATIONAL LIMITED",
             "city": "ST. PETER PORT",
             "branch": "(GUERNSEY (774705))",
             "swift_code": "LOYDGGS1002"
         },
         {
-            "id": 53,
+            "id": 49,
             "bank": "LLOYDS BANK INTERNATIONAL LIMITED",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "LOYDGGS1"
         },
         {
-            "id": 54,
+            "id": 50,
             "bank": "LLOYDS BANK INTERNATIONAL LIMITED",
             "city": "ST. SAMPSON",
             "branch": "(ST. SAMPSON (774706))",
             "swift_code": "LOYDGGS1003"
         },
         {
-            "id": 55,
+            "id": 51,
             "bank": "NATIONAL BANK OF GREECE S.A.",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "ETHNGGS1"
         },
         {
-            "id": 56,
+            "id": 52,
             "bank": "NATWEST OFFSHORE LIMITED",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "RBOSGG21"
         },
         {
-            "id": 57,
+            "id": 53,
             "bank": "NATWEST-GUERNSEY",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "RBOSGGSX"
         },
         {
-            "id": 58,
+            "id": 54,
             "bank": "NOMURA REINSURANCE 1 IC LIMITED",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "NREIGGSP"
         },
         {
-            "id": 59,
+            "id": 55,
             "bank": "NORTHERN TRUST (GUERNSEY) LIMITED",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "BBCOGGSP"
         },
         {
-            "id": 60,
+            "id": 56,
             "bank": "OAK TRUST (GUERNSEY) LIMITED",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "OAKTGGSP"
         },
         {
-            "id": 61,
+            "id": 57,
             "bank": "ODEY WEALTH MANAGEMENT (C.I.) LIMITED",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "ODWMGGS1"
         },
         {
-            "id": 62,
-            "bank": "PARTNERS GROUP",
-            "city": "ST. PETER PORT",
-            "branch": null,
-            "swift_code": "PAGRGGS1"
-        },
-        {
-            "id": 63,
+            "id": 58,
             "bank": "PRAXIS FIDUCIARIES LIMITED",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "PRAXGGS1"
         },
         {
-            "id": 64,
+            "id": 59,
+            "bank": "PRAXISIFM TRUST LIMITED",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "PXISGGSP"
+        },
+        {
+            "id": 60,
             "bank": "ROTHSCHILD BANK (CI) LIMITED",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "ROSWGGSP"
         },
         {
-            "id": 65,
+            "id": 61,
             "bank": "ROTHSCHILD BANK INTERNATIONAL LTD",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "ROTHGGSP"
         },
         {
-            "id": 66,
+            "id": 62,
             "bank": "ROWAN AND COMPANY LTD",
             "city": "VALE",
             "branch": null,
             "swift_code": "ROWAGGV1"
         },
         {
-            "id": 67,
+            "id": 63,
             "bank": "ROYAL BANK OF CANADA (CHANNEL ISLANDS) LIMITED",
             "city": "ST. PETER PORT",
             "branch": "(OFM)",
             "swift_code": "ROYCGGSPOFM"
         },
         {
-            "id": 68,
+            "id": 64,
             "bank": "ROYAL BANK OF CANADA (CHANNEL ISLANDS) LIMITED",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "ROYCGGSP"
         },
         {
-            "id": 69,
+            "id": 65,
             "bank": "ROYAL BANK OF SCOTLAND INTERNATIONAL LIMITED, THE",
             "city": "ST. PETER PORT",
             "branch": "(GUERNSEY LTD CHAPS ONLY)",
             "swift_code": "RBOSGGS1888"
         },
         {
-            "id": 70,
+            "id": 66,
             "bank": "ROYAL BANK OF SCOTLAND INTERNATIONAL LIMITED, THE",
             "city": "ST. PETER PORT",
             "branch": "(GUERNSEY)",
             "swift_code": "RBOSGGS1029"
         },
         {
-            "id": 71,
+            "id": 67,
             "bank": "ROYAL BANK OF SCOTLAND INTERNATIONAL LIMITED, THE",
             "city": "ST. PETER PORT",
             "branch": "(ST. PETER PORT, GUERNSEY)",
             "swift_code": "RBOSGGS1886"
         },
         {
-            "id": 72,
+            "id": 68,
             "bank": "ROYAL BANK OF SCOTLAND INTERNATIONAL LIMITED, THE",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "RBOSGGSP"
         },
         {
-            "id": 73,
+            "id": 69,
             "bank": "SCHRODER INVESTMENT MANAGEMENT (GUERNSEY) LTD",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "SIMGGGS1"
         },
         {
-            "id": 74,
+            "id": 70,
             "bank": "SCHRODERS (C.I.) LIMITED",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "SCHDGGSP"
         },
         {
-            "id": 75,
+            "id": 71,
             "bank": "SEI INVESTMENTS-GUERNSEY LIMITED",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "SEIQGGSP"
         },
         {
-            "id": 76,
+            "id": 72,
             "bank": "SEI INVESTMENTS-GUERNSEY LIMITED",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "SEIQGGSPG26"
         },
         {
-            "id": 77,
-            "bank": "SG HAMBROS BANK (CHANNEL ISLANDS) LTD GUERNSEY BRANCH",
+            "id": 73,
+            "bank": "SEI INVESTMENTS-GUERNSEY LIMITED",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "SEIQGGSPG66"
+        },
+        {
+            "id": 74,
+            "bank": "SG KLEINWORT HAMBROS BANK (CI) LIMITED - GUERNSEY BRANCH",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "HAMBGGSP"
         },
         {
-            "id": 78,
+            "id": 75,
+            "bank": "SG KLEINWORT HAMBROS BANK (CI) LIMITED - GUERNSEY BRANCH (FORMERLY KLEINWORT BENSON (CI) LTD)",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "KBENGGST"
+        },
+        {
+            "id": 76,
             "bank": "SPEARPOINT LIMITED",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "SPEAGGS1"
         },
         {
-            "id": 79,
+            "id": 77,
             "bank": "THE CO-OPERATIVE BANK PLC",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "CPBKGGS1"
         },
         {
-            "id": 80,
+            "id": 78,
+            "bank": "TILNEY ASSET MANAGEMENT (GUERNSEY) LTD",
+            "city": "ST. PETER PORT",
+            "branch": null,
+            "swift_code": "IAMTGGS1"
+        },
+        {
+            "id": 79,
             "bank": "US CB REINSURANCE 1 IC LIMITED",
             "city": "ST. PETER PORT",
             "branch": null,
             "swift_code": "USCBGGSP"
         },
         {
-            "id": 81,
+            "id": 80,
             "bank": "VALCOURT (GUERNSEY) LIMITED.",
             "city": "ST. PETER PORT",
             "branch": null,

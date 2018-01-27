@@ -4,10 +4,10 @@
     "list": [
         {
             "id": 1,
-            "bank": "BANK OF GUAM",
+            "bank": "ALLIED MERCANTILE BANK CORPORATION",
             "city": "SAIPAN",
             "branch": null,
-            "swift_code": "GMBKMPM1"
+            "swift_code": "ALMPMPMP"
         },
         {
             "id": 2,
@@ -22,6 +22,13 @@
             "city": "SAIPAN",
             "branch": null,
             "swift_code": "BSAIMPM1"
+        },
+        {
+            "id": 4,
+            "bank": "BANK OF GUAM",
+            "city": "SAIPAN",
+            "branch": null,
+            "swift_code": "GMBKMPM1"
         }
     ]
 }

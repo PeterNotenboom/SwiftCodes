@@ -90,557 +90,620 @@
             "id": 13,
             "bank": "ATTIJARIWAFA BANK (FORMERLY BANQUE COMMERCIALE DU MAROC)",
             "city": "CASABLANCA",
+            "branch": "(BCMAMAMCBAS)",
+            "swift_code": "BCMAMAMCBAS"
+        },
+        {
+            "id": 14,
+            "bank": "ATTIJARIWAFA BANK (FORMERLY BANQUE COMMERCIALE DU MAROC)",
+            "city": "CASABLANCA",
             "branch": "(BRANCH CTN DEVISE)",
             "swift_code": "BCMAMAMCDEV"
         },
         {
-            "id": 14,
+            "id": 15,
             "bank": "ATTIJARIWAFA BANK (FORMERLY BANQUE COMMERCIALE DU MAROC)",
             "city": "CASABLANCA",
             "branch": null,
             "swift_code": "BCMAMAMC"
         },
         {
-            "id": 15,
+            "id": 16,
             "bank": "BANCO DE SABADELL, S.A.",
             "city": "CASABLANCA",
             "branch": null,
             "swift_code": "BSABMAMC"
         },
         {
-            "id": 16,
+            "id": 17,
             "bank": "BANK AL-MAGHRIB",
             "city": "RABAT",
             "branch": null,
             "swift_code": "BKAMMAMR"
         },
         {
-            "id": 17,
+            "id": 18,
             "bank": "BANQUE CENTRALE POPULAIRE",
             "city": "CASABLANCA",
             "branch": "(DEPT. BACK OFFICE)",
             "swift_code": "BCPOMAMCBKO"
         },
         {
-            "id": 18,
+            "id": 19,
             "bank": "BANQUE CENTRALE POPULAIRE",
             "city": "CASABLANCA",
             "branch": "(DEPT. MONETIQUES)",
             "swift_code": "BCPOMAMCMON"
         },
         {
-            "id": 19,
+            "id": 20,
             "bank": "BANQUE CENTRALE POPULAIRE",
             "city": "CASABLANCA",
             "branch": "(DEPT. RECONCILIATION)",
             "swift_code": "BCPOMAMCREC"
         },
         {
-            "id": 20,
+            "id": 21,
             "bank": "BANQUE CENTRALE POPULAIRE",
             "city": "CASABLANCA",
             "branch": "(SCE. DOCUMENTAIRE)",
             "swift_code": "BCPOMAMCDOC"
         },
         {
-            "id": 21,
+            "id": 22,
             "bank": "BANQUE CENTRALE POPULAIRE",
             "city": "CASABLANCA",
             "branch": "(SCE. FINANCIER)",
             "swift_code": "BCPOMAMCFIN"
         },
         {
-            "id": 22,
+            "id": 23,
             "bank": "BANQUE CENTRALE POPULAIRE",
             "city": "CASABLANCA",
             "branch": "(TRANFERTS DES MAROCAINS RESIDANTS A L'ETRANGER)",
             "swift_code": "BCPOMAMCMRE"
         },
         {
-            "id": 23,
+            "id": 24,
+            "bank": "BANQUE CENTRALE POPULAIRE",
+            "city": "CASABLANCA",
+            "branch": "(YSR)",
+            "swift_code": "BCPOMAMCYSR"
+        },
+        {
+            "id": 25,
             "bank": "BANQUE CENTRALE POPULAIRE",
             "city": "CASABLANCA",
             "branch": null,
             "swift_code": "BCPOMAMC"
         },
         {
-            "id": 24,
+            "id": 26,
             "bank": "BANQUE CENTRALE POPULAIRE",
             "city": "TANGER",
-            "branch": "(OFFSCHORE BRANCH, TANGIER)",
+            "branch": "(OFFSHORE BRANCH, TANGIER)",
             "swift_code": "BCPOMAMCCIB"
         },
         {
-            "id": 25,
+            "id": 27,
             "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
             "city": "CASABLANCA",
             "branch": "(AGENCE CORPORATE)",
             "swift_code": "BMCEMAMCCOR"
         },
         {
-            "id": 26,
+            "id": 28,
             "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
             "city": "CASABLANCA",
             "branch": "(COMPTE SPECIAL MRE)",
             "swift_code": "BMCEMAMCMRE"
         },
         {
-            "id": 27,
+            "id": 29,
             "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
             "city": "CASABLANCA",
             "branch": "(SALLE DES MARCHES, CASABLANCA)",
             "swift_code": "BMCEMAMCSDM"
         },
         {
-            "id": 28,
+            "id": 30,
             "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
             "city": "CASABLANCA",
             "branch": null,
             "swift_code": "BMCEMAMC"
         },
         {
-            "id": 29,
+            "id": 31,
+            "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
+            "city": "CASABLANCA",
+            "branch": null,
+            "swift_code": "BMCEMAMCBTI"
+        },
+        {
+            "id": 32,
             "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
             "city": "TANGER",
             "branch": "(OFFSHORE BRANCH TRADING ROOM, TANGIER)",
             "swift_code": "BMCEMAMCTCM"
         },
         {
-            "id": 30,
+            "id": 33,
             "bank": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR",
             "city": "TANGER",
             "branch": "(OFFSHORE BRANCH, TANGIER)",
             "swift_code": "BMCEMAMCTZF"
         },
         {
-            "id": 31,
+            "id": 34,
+            "bank": "BANQUE MAROCAINE POUR LE COMMERCE ET L'INDUSTRIE",
+            "city": "CASABLANCA",
+            "branch": "(BMCI FINANCE PARTICIPATIVE)",
+            "swift_code": "BMCIMAMCNFP"
+        },
+        {
+            "id": 35,
             "bank": "BANQUE MAROCAINE POUR LE COMMERCE ET L'INDUSTRIE",
             "city": "CASABLANCA",
             "branch": null,
             "swift_code": "BMCIMAMC"
         },
         {
-            "id": 32,
+            "id": 36,
             "bank": "BANQUE MAROCAINE POUR LE COMMERCE ET L'INDUSTRIE",
             "city": "TANGER",
             "branch": "(OFFSHORE BRANCH)",
             "swift_code": "BMCIMAMCTOF"
         },
         {
-            "id": 33,
+            "id": 37,
             "bank": "BANQUE POPULAIRE AGADIR",
             "city": "AGADIR",
             "branch": null,
             "swift_code": "BCPOMAMCCES"
         },
         {
-            "id": 34,
+            "id": 38,
             "bank": "BANQUE POPULAIRE AL HOCEIMA",
             "city": "AL HOCEIMA",
             "branch": null,
             "swift_code": "BCPOMAMCALH"
         },
         {
-            "id": 35,
+            "id": 39,
             "bank": "BANQUE POPULAIRE BENI MELLAL",
             "city": "BENI MELLAL",
             "branch": null,
             "swift_code": "BCPOMAMCBNM"
         },
         {
-            "id": 36,
+            "id": 40,
             "bank": "BANQUE POPULAIRE BERKANE",
             "city": "BERKANE",
             "branch": null,
             "swift_code": "BCPOMAMCBRK"
         },
         {
-            "id": 37,
+            "id": 41,
             "bank": "BANQUE POPULAIRE CASA-ANFA",
             "city": "CASABLANCA",
             "branch": null,
             "swift_code": "BCPOMAMCCAS"
         },
         {
-            "id": 38,
+            "id": 42,
             "bank": "BANQUE POPULAIRE CASA-EST",
             "city": "CASABLANCA",
             "branch": null,
             "swift_code": "BCPOMAM10MG"
         },
         {
-            "id": 39,
+            "id": 43,
             "bank": "BANQUE POPULAIRE CASA-SUD",
             "city": "CASABLANCA",
             "branch": null,
             "swift_code": "BCPOMAM10MH"
         },
         {
-            "id": 40,
+            "id": 44,
             "bank": "BANQUE POPULAIRE EL JADIDA",
             "city": "EL JADIDA",
             "branch": null,
             "swift_code": "BCPOMAMCELJ"
         },
         {
-            "id": 41,
+            "id": 45,
             "bank": "BANQUE POPULAIRE ERRACHIDIA",
             "city": "ERRACHIDIA",
             "branch": null,
             "swift_code": "BCPOMAM10MJ"
         },
         {
-            "id": 42,
+            "id": 46,
             "bank": "BANQUE POPULAIRE FES",
             "city": "FES",
             "branch": null,
             "swift_code": "BCPOMAMCFES"
         },
         {
-            "id": 43,
+            "id": 47,
             "bank": "BANQUE POPULAIRE GHARB",
             "city": "GHARB",
             "branch": null,
             "swift_code": "BCPOMAMCGHA"
         },
         {
-            "id": 44,
+            "id": 48,
             "bank": "BANQUE POPULAIRE LAAYOUNE",
             "city": "LAAYOUNE",
             "branch": null,
             "swift_code": "BCPOMAMCLAY"
         },
         {
-            "id": 45,
+            "id": 49,
             "bank": "BANQUE POPULAIRE MARRAKECH",
             "city": "MARRAKECH",
             "branch": null,
             "swift_code": "BCPOMAMCMKH"
         },
         {
-            "id": 46,
+            "id": 50,
             "bank": "BANQUE POPULAIRE MEKNES",
             "city": "MEKNES",
             "branch": null,
             "swift_code": "BCPOMAMCMEK"
         },
         {
-            "id": 47,
+            "id": 51,
             "bank": "BANQUE POPULAIRE NADOR",
             "city": "NADOR",
             "branch": null,
             "swift_code": "BCPOMAMCNAD"
         },
         {
-            "id": 48,
+            "id": 52,
             "bank": "BANQUE POPULAIRE OUARZAZATE",
             "city": "OUARZAZATE",
             "branch": null,
             "swift_code": "BCPOMAM10MS"
         },
         {
-            "id": 49,
+            "id": 53,
             "bank": "BANQUE POPULAIRE OUJDA",
             "city": "OUJDA",
             "branch": null,
             "swift_code": "BCPOMAMCOUJ"
         },
         {
-            "id": 50,
+            "id": 54,
             "bank": "BANQUE POPULAIRE RABAT",
             "city": "RABAT",
             "branch": null,
             "swift_code": "BCPOMAMCRAB"
         },
         {
-            "id": 51,
+            "id": 55,
             "bank": "BANQUE POPULAIRE SAFI",
             "city": "SAFI",
             "branch": null,
             "swift_code": "BCPOMAMCSAF"
         },
         {
-            "id": 52,
+            "id": 56,
             "bank": "BANQUE POPULAIRE TANGER",
             "city": "TANGER",
             "branch": null,
             "swift_code": "BCPOMAMCTAT"
         },
         {
-            "id": 53,
+            "id": 57,
             "bank": "BANQUE POPULAIRE TAZA",
             "city": "TAZA",
             "branch": null,
             "swift_code": "BCPOMAM10MV"
         },
         {
-            "id": 54,
+            "id": 58,
             "bank": "BANQUE POPULAIRE TETOUAN",
             "city": "TETOUAN",
             "branch": null,
             "swift_code": "BCPOMAM10MW"
         },
         {
-            "id": 55,
+            "id": 59,
             "bank": "BANQUE POPULAIRE TIZNIT",
             "city": "TIZNIT",
             "branch": null,
             "swift_code": "BCPOMAM10MY"
         },
         {
-            "id": 56,
+            "id": 60,
             "bank": "BOURSE DE CASABLANCA SA",
             "city": "CASABLANCA",
             "branch": null,
             "swift_code": "XCASMAM1"
         },
         {
-            "id": 57,
+            "id": 61,
             "bank": "CAISSE DE DEPOT ET DE GESTION",
             "city": "RABAT",
             "branch": null,
             "swift_code": "CADGMAMR"
         },
         {
-            "id": 58,
-            "bank": "CASABLANCA FINANCE MARKETS",
+            "id": 62,
+            "bank": "CAIXABANK, S.A. SUCCURSALE AU MAROC",
             "city": "CASABLANCA",
             "branch": null,
-            "swift_code": "CAFGMAMC"
+            "swift_code": "CAIXMAMC"
         },
         {
-            "id": 59,
+            "id": 63,
             "bank": "CDG CAPITAL",
             "city": "RABAT",
             "branch": null,
             "swift_code": "RDGCMAMR"
         },
         {
-            "id": 60,
+            "id": 64,
             "bank": "CENTRALE POPULAIRE (BANQUE) SA",
             "city": "CASABLANCA",
             "branch": null,
             "swift_code": "CRPMMAM1"
         },
         {
-            "id": 61,
+            "id": 65,
+            "bank": "CFG BANK",
+            "city": "CASABLANCA",
+            "branch": null,
+            "swift_code": "CAFGMAMC"
+        },
+        {
+            "id": 66,
             "bank": "CITIBANK MAGHREB",
             "city": "CASABLANCA",
             "branch": "(TRADE SERVICES DEPARTMENT)",
             "swift_code": "CITIMAMCTRD"
         },
         {
-            "id": 62,
+            "id": 67,
             "bank": "CITIBANK MAGHREB",
             "city": "CASABLANCA",
             "branch": null,
             "swift_code": "CITIMAMC"
         },
         {
-            "id": 63,
+            "id": 68,
             "bank": "COMPAGNIE NATIONALE ROYAL AIR MAROC",
             "city": "CASABLANCA",
             "branch": null,
             "swift_code": "RAMSMAMC"
         },
         {
-            "id": 64,
+            "id": 69,
+            "bank": "CREDIT AGRICOLE DU MAROC",
+            "city": "RABAT",
+            "branch": "(AL AKHDAR BRANCH)",
+            "swift_code": "CNCAMAMRAAB"
+        },
+        {
+            "id": 70,
             "bank": "CREDIT AGRICOLE DU MAROC",
             "city": "RABAT",
             "branch": null,
             "swift_code": "CNCAMAMR"
         },
         {
-            "id": 65,
+            "id": 71,
             "bank": "CREDIT DU MAROC",
             "city": "AGADIR",
             "branch": "(TRADE CENTER TALBORJT)",
             "swift_code": "CDMAMAMC706"
         },
         {
-            "id": 66,
+            "id": 72,
+            "bank": "CREDIT DU MAROC",
+            "city": "CASABLANCA",
+            "branch": "(ACTIVITES ET OPERATIONS PARTICIPATIVES)",
+            "swift_code": "CDMAMAMCPAR"
+        },
+        {
+            "id": 73,
             "bank": "CREDIT DU MAROC",
             "city": "CASABLANCA",
             "branch": "(ALL MOROCCO BRANCHES)",
             "swift_code": "CDMAMAMC"
         },
         {
-            "id": 67,
+            "id": 74,
+            "bank": "CREDIT DU MAROC",
+            "city": "CASABLANCA",
+            "branch": "(OFFSHORE SERVICES)",
+            "swift_code": "CDMAMAMCCOS"
+        },
+        {
+            "id": 75,
             "bank": "CREDIT DU MAROC",
             "city": "CASABLANCA",
             "branch": "(TRADE CENTER CENTRE-VILLE)",
             "swift_code": "CDMAMAMC703"
         },
         {
-            "id": 68,
+            "id": 76,
             "bank": "CREDIT DU MAROC",
             "city": "CASABLANCA",
             "branch": "(TRADE CENTER EXPANSION)",
             "swift_code": "CDMAMAMC700"
         },
         {
-            "id": 69,
+            "id": 77,
             "bank": "CREDIT DU MAROC",
             "city": "CASABLANCA",
             "branch": null,
             "swift_code": "CDMAMAMC701"
         },
         {
-            "id": 70,
+            "id": 78,
             "bank": "CREDIT DU MAROC",
             "city": "CASABLANCA",
             "branch": null,
             "swift_code": "CDMAMAMC702"
         },
         {
-            "id": 71,
+            "id": 79,
             "bank": "CREDIT DU MAROC",
             "city": "FES",
             "branch": "(TRADE CENTER QUARAOUYINE)",
             "swift_code": "CDMAMAMC707"
         },
         {
-            "id": 72,
+            "id": 80,
             "bank": "CREDIT DU MAROC",
             "city": "MARRAKECH",
             "branch": "(TRADE CENTER MENARA)",
             "swift_code": "CDMAMAMC704"
         },
         {
-            "id": 73,
+            "id": 81,
             "bank": "CREDIT DU MAROC",
             "city": "OUJDA",
             "branch": "(TRADE CENTER AL MOUSTAGBAL)",
             "swift_code": "CDMAMAMC708"
         },
         {
-            "id": 74,
+            "id": 82,
             "bank": "CREDIT DU MAROC",
             "city": "RABAT",
             "branch": "(TRADE CENTER CHELLAH)",
             "swift_code": "CDMAMAMC709"
         },
         {
-            "id": 75,
+            "id": 83,
             "bank": "CREDIT DU MAROC",
             "city": "TANGER",
             "branch": "(TRADE CENTER BOUGHAZ)",
             "swift_code": "CDMAMAMC705"
         },
         {
-            "id": 76,
+            "id": 84,
             "bank": "CREDIT IMMOBILIER ET HOTELIER",
             "city": "CASABLANCA",
             "branch": "(DEPARTEMENT ETRANGER)",
             "swift_code": "CIHMMAMCDEP"
         },
         {
-            "id": 77,
+            "id": 85,
             "bank": "CREDIT IMMOBILIER ET HOTELIER",
             "city": "CASABLANCA",
             "branch": "(SALLE DES MARCHES)",
             "swift_code": "CIHMMAMCSDM"
         },
         {
-            "id": 78,
+            "id": 86,
+            "bank": "CREDIT IMMOBILIER ET HOTELIER",
+            "city": "CASABLANCA",
+            "branch": "(UMNIA BANK)",
+            "swift_code": "CIHMMAMCUBP"
+        },
+        {
+            "id": 87,
             "bank": "CREDIT IMMOBILIER ET HOTELIER",
             "city": "CASABLANCA",
             "branch": null,
             "swift_code": "CIHMMAMC"
         },
         {
-            "id": 79,
+            "id": 88,
             "bank": "GROUPE OCP",
             "city": "CASABLANCA",
             "branch": null,
             "swift_code": "GOCPMAMC"
         },
         {
-            "id": 80,
+            "id": 89,
             "bank": "INTEGRA BOURSE",
             "city": "CASABLANCA",
             "branch": null,
             "swift_code": "ITBOMAM1"
         },
         {
-            "id": 81,
-            "bank": "LA CAIXA, SUCCURSALE MAROC",
-            "city": "CASABLANCA",
-            "branch": null,
-            "swift_code": "CAIXMAMC"
-        },
-        {
-            "id": 82,
+            "id": 90,
             "bank": "MAROC SERVICES INTERMEDIATION",
             "city": "CASABLANCA",
             "branch": null,
             "swift_code": "MAVIMAM1"
         },
         {
-            "id": 83,
+            "id": 91,
             "bank": "MAROCLEAR SA",
             "city": "CASABLANCA",
             "branch": null,
             "swift_code": "MAROMAM1"
         },
         {
-            "id": 84,
+            "id": 92,
             "bank": "MEDIAFINANCE",
             "city": "CASABLANCA",
             "branch": null,
             "swift_code": "MEDCMAMC"
         },
         {
-            "id": 85,
-            "bank": "SAMSUNG ELECTRONICS MOROCCO",
-            "city": "CASABLANCA",
-            "branch": null,
-            "swift_code": "SECTMAM1780"
-        },
-        {
-            "id": 86,
+            "id": 93,
             "bank": "SAMSUNG ELECTRONICS MOROCCO",
             "city": "CASABLANCA",
             "branch": null,
             "swift_code": "SECTMAM1"
         },
         {
-            "id": 87,
+            "id": 94,
+            "bank": "SAMSUNG ELECTRONICS MOROCCO",
+            "city": "CASABLANCA",
+            "branch": null,
+            "swift_code": "SECTMAM1780"
+        },
+        {
+            "id": 95,
             "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
             "city": "CASABLANCA",
             "branch": "(CASH MANAGEMENT INTERNATIONAL)",
             "swift_code": "SGMBMAMCCMI"
         },
         {
-            "id": 88,
+            "id": 96,
+            "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
+            "city": "CASABLANCA",
+            "branch": "(FLUX CASH MANAGEMENT)",
+            "swift_code": "SGMBMAMCFCM"
+        },
+        {
+            "id": 97,
             "bank": "SOCIETE GENERALE MAROCAINE DE BANQUES",
             "city": "CASABLANCA",
             "branch": null,
             "swift_code": "SGMBMAMC"
         },
         {
-            "id": 89,
+            "id": 98,
             "bank": "SOCIETE GENERALE TANGER OFFSHORE",
-            "city": "CASABLANCA",
+            "city": "TANGER",
             "branch": null,
             "swift_code": "SGTGMAMC"
         },
         {
-            "id": 90,
+            "id": 99,
             "bank": "TANGER (BANQUE INTERNATIONALE DE) SA",
             "city": "TANGER",
             "branch": null,
             "swift_code": "ITABMAM1"
         },
         {
-            "id": 91,
+            "id": 100,
             "bank": "UNION MAROCAINE DE BANQUES",
             "city": "CASABLANCA",
             "branch": null,
             "swift_code": "UMABMAMC"
         },
         {
-            "id": 92,
+            "id": 101,
             "bank": "UPLINE INTERNATIONAL S.A.",
             "city": "CASABLANCA",
             "branch": null,

@@ -18,41 +18,48 @@
         },
         {
             "id": 3,
+            "bank": "COMMERCIAL BANK OF MALDIVES PRIVATE LIMITED",
+            "city": "MALE",
+            "branch": null,
+            "swift_code": "CBMVMVMV"
+        },
+        {
+            "id": 4,
             "bank": "HABIB BANK LIMITED",
             "city": "MALE",
             "branch": null,
             "swift_code": "HABBMVMV"
         },
         {
-            "id": 4,
+            "id": 5,
             "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
             "city": "MALE",
             "branch": null,
             "swift_code": "HSBCMVMV"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "MALDIVES ISLAMIC BANK PVT. LTD",
             "city": "MALE",
             "branch": null,
             "swift_code": "MADVMVMV"
         },
         {
-            "id": 6,
+            "id": 7,
             "bank": "MALDIVES MONETARY AUTHORITY",
             "city": "MALE",
             "branch": null,
             "swift_code": "MMAUMVMV"
         },
         {
-            "id": 7,
+            "id": 8,
             "bank": "STATE BANK OF INDIA",
             "city": "MALE",
             "branch": null,
             "swift_code": "SBINMVMV"
         },
         {
-            "id": 8,
+            "id": 9,
             "bank": "THE MAURITIUS COMMERCIAL BANK LIMITED",
             "city": "MALE",
             "branch": null,

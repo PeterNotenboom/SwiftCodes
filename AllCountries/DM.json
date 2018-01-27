@@ -11,55 +11,83 @@
         },
         {
             "id": 2,
+            "bank": "BANDENIA BANK AND TRUST INC",
+            "city": "ROSEAU",
+            "branch": null,
+            "swift_code": "BNTSDMD1"
+        },
+        {
+            "id": 3,
+            "bank": "BANK OF NOVA SCOTIA,THE",
+            "city": "ROSEAU",
+            "branch": null,
+            "swift_code": "NOSCDMDM"
+        },
+        {
+            "id": 4,
             "bank": "BARNETT CAPITAL BANK",
             "city": "ROSEAU",
             "branch": null,
             "swift_code": "BCBKDMDM"
         },
         {
-            "id": 3,
-            "bank": "BRILLA BANK CORPORATION",
-            "city": "ROSEAU",
-            "branch": null,
-            "swift_code": "BRLLDMDM"
-        },
-        {
-            "id": 4,
-            "bank": "COMMONWEALTH BANK",
+            "id": 5,
+            "bank": "COMMONWEALTH BANK AND TRUST LIMITED",
             "city": "ROSEAU",
             "branch": null,
             "swift_code": "CMWBDMDM"
         },
         {
-            "id": 5,
-            "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK",
+            "id": 6,
+            "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (BARBADOS) LIMITED",
             "city": "ROSEAU",
             "branch": null,
             "swift_code": "FCIBDMDM"
         },
         {
-            "id": 6,
+            "id": 7,
+            "bank": "FORT BANK INC.",
+            "city": "ROSEAU",
+            "branch": null,
+            "swift_code": "FRTTDMDM"
+        },
+        {
+            "id": 8,
             "bank": "GOVERNMENT OF DOMINICA",
             "city": "ROSEAU",
             "branch": null,
             "swift_code": "GVDMDMDM"
         },
         {
-            "id": 7,
+            "id": 9,
             "bank": "NATIONAL BANK OF DOMINICA",
             "city": "ROSEAU",
             "branch": null,
             "swift_code": "NCDMDMDM"
         },
         {
-            "id": 8,
+            "id": 10,
+            "bank": "PAXUM BANK LIMITED",
+            "city": "ROSEAU",
+            "branch": null,
+            "swift_code": "PAXUDMDM"
+        },
+        {
+            "id": 11,
             "bank": "ROYAL BANK OF CANADA",
             "city": "ROSEAU",
             "branch": null,
             "swift_code": "ROYCDMDM"
         },
         {
-            "id": 9,
+            "id": 12,
+            "bank": "STANDARD COMMERCE BANK LTD.",
+            "city": "CANEFIELD",
+            "branch": null,
+            "swift_code": "STDMDMDM"
+        },
+        {
+            "id": 13,
             "bank": "ZUMA BANK CORPORATION",
             "city": "ROSEAU",
             "branch": null,

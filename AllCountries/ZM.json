@@ -74,7 +74,7 @@
         },
         {
             "id": 11,
-            "bank": "CAVMONT MERCHANT BANK LIMITED",
+            "bank": "CAVMONT BANK LIMITED",
             "city": "LUSAKA",
             "branch": null,
             "swift_code": "CVMTZMLU"
@@ -161,7 +161,7 @@
             "bank": "INTERMARKET BANKING CORPORATION LIMITED",
             "city": "LUSAKA",
             "branch": null,
-            "swift_code": "IDHZZMLU"
+            "swift_code": "IDHZZML1"
         },
         {
             "id": 24,
@@ -207,80 +207,80 @@
         },
         {
             "id": 30,
+            "bank": "NATIONAL PENSION SCHEME AUTHORITY",
+            "city": "LUSAKA",
+            "branch": null,
+            "swift_code": "NPSAZML1"
+        },
+        {
+            "id": 31,
             "bank": "NATIONAL SAVINGS AND CREDIT BANK OF ZAMBIA",
             "city": "CHIPATA",
             "branch": null,
             "swift_code": "NSCBZML1022"
         },
         {
-            "id": 31,
+            "id": 32,
             "bank": "NATIONAL SAVINGS AND CREDIT BANK OF ZAMBIA",
             "city": "KASAMA",
             "branch": null,
             "swift_code": "NSCBZML1023"
         },
         {
-            "id": 32,
+            "id": 33,
             "bank": "NATIONAL SAVINGS AND CREDIT BANK OF ZAMBIA",
             "city": "LIVINGSTONE",
             "branch": null,
             "swift_code": "NSCBZML1024"
         },
         {
-            "id": 33,
+            "id": 34,
             "bank": "NATIONAL SAVINGS AND CREDIT BANK OF ZAMBIA",
             "city": "LUSAKA",
             "branch": null,
             "swift_code": "NSCBZML1"
         },
         {
-            "id": 34,
+            "id": 35,
             "bank": "NATIONAL SAVINGS AND CREDIT BANK OF ZAMBIA",
             "city": "MANSA",
             "branch": null,
             "swift_code": "NSCBZML1025"
         },
         {
-            "id": 35,
+            "id": 36,
             "bank": "NATIONAL SAVINGS AND CREDIT BANK OF ZAMBIA",
             "city": "MONGU",
             "branch": null,
             "swift_code": "NSCBZML1026"
         },
         {
-            "id": 36,
+            "id": 37,
             "bank": "NATIONAL SAVINGS AND CREDIT BANK OF ZAMBIA",
             "city": "NDOLA",
             "branch": null,
             "swift_code": "NSCBZML102N"
         },
         {
-            "id": 37,
+            "id": 38,
             "bank": "NATIONAL SAVINGS AND CREDIT BANK OF ZAMBIA",
             "city": "SOLWEZI",
             "branch": null,
             "swift_code": "NSCBZML1027"
         },
         {
-            "id": 38,
+            "id": 39,
             "bank": "NEW CAPITAL BANK PLC",
             "city": "LUSAKA",
             "branch": null,
             "swift_code": "NCBPZML1"
         },
         {
-            "id": 39,
+            "id": 40,
             "bank": "PANGAEA\/EMI SECURITIES LIMITED",
             "city": "LUSAKA",
             "branch": null,
             "swift_code": "PSNIZML1"
-        },
-        {
-            "id": 40,
-            "bank": "SABMILLER ZAMBIA",
-            "city": "LUSAKA",
-            "branch": null,
-            "swift_code": "SABMZMZ1HSL"
         },
         {
             "id": 41,
@@ -294,7 +294,7 @@
             "bank": "SABMILLER ZAMBIA",
             "city": "LUSAKA",
             "branch": null,
-            "swift_code": "SABMZMZ1ZBP"
+            "swift_code": "SABMZMZ1HSL"
         },
         {
             "id": 43,
@@ -305,66 +305,66 @@
         },
         {
             "id": 44,
+            "bank": "SABMILLER ZAMBIA",
+            "city": "LUSAKA",
+            "branch": null,
+            "swift_code": "SABMZMZ1ZBP"
+        },
+        {
+            "id": 45,
             "bank": "STANBIC BANK ZAMBIA LTD.",
             "city": "KITWE",
             "branch": null,
             "swift_code": "SBICZML10ZK"
         },
         {
-            "id": 45,
+            "id": 46,
             "bank": "STANBIC BANK ZAMBIA LTD.",
             "city": "LUSAKA",
             "branch": "(LUSAKA BRANCH)",
             "swift_code": "SBICZMLX"
         },
         {
-            "id": 46,
+            "id": 47,
             "bank": "STANBIC BANK ZAMBIA LTD.",
             "city": "NDOLA",
             "branch": null,
             "swift_code": "SBICZML10ZN"
         },
         {
-            "id": 47,
-            "bank": "STANDARD CHARTERED BANK ZAMBIA LTD",
+            "id": 48,
+            "bank": "STANDARD CHARTERED BANK ZAMBIA PLC",
             "city": "LUSAKA",
             "branch": "(SECURITIES SERVICES UNIT)",
             "swift_code": "SCBLZMLXSSU"
         },
         {
-            "id": 48,
-            "bank": "STANDARD CHARTERED BANK ZAMBIA LTD",
+            "id": 49,
+            "bank": "STANDARD CHARTERED BANK ZAMBIA PLC",
             "city": "LUSAKA",
             "branch": null,
             "swift_code": "SCBLZMLX"
         },
         {
-            "id": 49,
-            "bank": "STANDARD CHARTERED BANK ZAMBIA LTD",
+            "id": 50,
+            "bank": "STANDARD CHARTERED BANK ZAMBIA PLC",
             "city": "NDOLA",
             "branch": "(NDOLA SOUTH BRANCH)",
             "swift_code": "SCBLZML102N"
         },
         {
-            "id": 50,
+            "id": 51,
             "bank": "UNITED BANK FOR AFRICA ZAMBIA LIMITED",
             "city": "LUSAKA",
             "branch": null,
             "swift_code": "UNAFZMLU"
         },
         {
-            "id": 51,
+            "id": 52,
             "bank": "ZAMBIA EXPORT AND IMPORT BANK LIMITED",
             "city": "LUSAKA",
             "branch": null,
             "swift_code": "ZAEIZML1"
-        },
-        {
-            "id": 52,
-            "bank": "ZAMBIA NATIONAL COMMERCIAL",
-            "city": "LUSAKA",
-            "branch": null,
-            "swift_code": "ZNCOZMLU"
         },
         {
             "id": 53,

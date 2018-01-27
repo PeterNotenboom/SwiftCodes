@@ -25,108 +25,108 @@
         },
         {
             "id": 4,
+            "bank": "ARGUN",
+            "city": "DUSHANBE",
+            "branch": null,
+            "swift_code": "ARUNTJ22"
+        },
+        {
+            "id": 5,
+            "bank": "BANK TEJARAT DUSHANBE BRANCH",
+            "city": "DUSHANBE",
+            "branch": null,
+            "swift_code": "BTEJTJ22"
+        },
+        {
+            "id": 6,
             "bank": "CENTRAL ASIAN BANK",
             "city": "DUSHANBE",
             "branch": null,
             "swift_code": "CEAATJ21"
         },
         {
-            "id": 5,
+            "id": 7,
+            "bank": "CJSC 'BANK ASIA'",
+            "city": "DUSHANBE",
+            "branch": null,
+            "swift_code": "BASTTJ22"
+        },
+        {
+            "id": 8,
             "bank": "CJSC 'BONKI RUSHDI TOJIKISTON'",
             "city": "DUSHANBE",
             "branch": null,
             "swift_code": "BRTATJ22"
         },
         {
-            "id": 6,
-            "bank": "CJSC IB 'KONT'",
+            "id": 9,
+            "bank": "CJSC INTERNATIONAL BANK OF TAJIKISTAN",
             "city": "DUSHANBE",
             "branch": null,
-            "swift_code": "KONTTJ22"
+            "swift_code": "IBTKTJ22"
         },
         {
-            "id": 7,
+            "id": 10,
             "bank": "CJSC MICROCREDIT DEPOSIT ORGANIZATION HUMO",
             "city": "DUSHANBE",
             "branch": null,
             "swift_code": "HUMOTJ22"
         },
         {
-            "id": 8,
+            "id": 11,
             "bank": "CJSC SPITAMEN BANK",
             "city": "DUSHANBE",
             "branch": null,
             "swift_code": "SPRBTJ22"
         },
         {
-            "id": 9,
-            "bank": "CJSU MIKROKREDIT DEPOSIT ORGANIZATION CPITAL PLUS",
-            "city": "DUSHANBE",
-            "branch": null,
-            "swift_code": "CPBSTJ22"
-        },
-        {
-            "id": 10,
+            "id": 12,
             "bank": "CSD MDO 'IMON INTERNATIONAL'",
             "city": "KHUJAND",
             "branch": null,
             "swift_code": "NABWTJ22"
         },
         {
-            "id": 11,
+            "id": 13,
             "bank": "ESKAHA BANK OPENED JOINT STOCK COMPANY",
             "city": "KHUJAND",
             "branch": null,
             "swift_code": "EOJSTJ21"
         },
         {
-            "id": 12,
+            "id": 14,
             "bank": "ESKHATA BANK OPENED JOINT STOCK COMPANY",
             "city": "KHUJAND",
             "branch": null,
             "swift_code": "EJSATJ22"
         },
         {
-            "id": 13,
+            "id": 15,
             "bank": "FNBO CREDITINVEST ZAO",
             "city": "DUSHANBE",
             "branch": null,
             "swift_code": "CRZNTJ21"
         },
         {
-            "id": 14,
-            "bank": "FONONBANK CJSC",
-            "city": "DUSHANBE",
-            "branch": null,
-            "swift_code": "FONOTJ22"
-        },
-        {
-            "id": 15,
+            "id": 16,
             "bank": "KAFOLATBANK",
             "city": "DUSHANBE",
             "branch": null,
             "swift_code": "KACJTJ22"
         },
         {
-            "id": 16,
+            "id": 17,
             "bank": "KAZKOMMERTSBANK TAJIKISTAN",
             "city": "DUSHANBE",
             "branch": null,
             "swift_code": "KATJTJ21"
         },
         {
-            "id": 17,
+            "id": 18,
             "bank": "KAZKOMMERTSBANK TAJIKISTAN",
             "city": "DUSHANBE",
             "branch": null,
             "swift_code": "KZKOTJ22"
-        },
-        {
-            "id": 18,
-            "bank": "LIMITED LIABILITY MICROCREDIT DEPOSIT ORGANIZATION 'STANDARD MOLIYA'",
-            "city": "DUSHANBE",
-            "branch": null,
-            "swift_code": "IBTKTJ22"
         },
         {
             "id": 19,
@@ -137,7 +137,7 @@
         },
         {
             "id": 20,
-            "bank": "LLC MDO 'SARMOYAI HIKMAT'",
+            "bank": "LLC MDO 'FAZO S'",
             "city": "DUSHANBE",
             "branch": null,
             "swift_code": "SARHTJ22"
@@ -165,76 +165,55 @@
         },
         {
             "id": 24,
-            "bank": "MDO DISI INVEST",
-            "city": "DUSHANBE",
-            "branch": null,
-            "swift_code": "DISBTJ22"
-        },
-        {
-            "id": 25,
             "bank": "MDO MATIN",
             "city": "KHUJAND",
             "branch": null,
             "swift_code": "MDMATJ21"
         },
         {
-            "id": 26,
-            "bank": "MOLIYA VA SARMOYA",
-            "city": "DUSHANBE",
-            "branch": null,
-            "swift_code": "MVSATJ22"
-        },
-        {
-            "id": 27,
+            "id": 25,
             "bank": "NATIONAL BANK OF TAJIKISTAN",
             "city": "DUSHANBE",
             "branch": null,
             "swift_code": "NATJTJ22"
         },
         {
-            "id": 28,
+            "id": 26,
             "bank": "NBP PAKISTAN SUBSIDIARY BANK",
             "city": "DUSHANBE",
             "branch": null,
             "swift_code": "NBPATJ22"
         },
         {
-            "id": 29,
-            "bank": "NISOR FOM",
+            "id": 27,
+            "bank": "OJSC COMMERCE BANK OF TAJIKISTAN",
             "city": "DUSHANBE",
             "branch": null,
-            "swift_code": "NFZSTJ22"
+            "swift_code": "MFARTJ22"
         },
         {
-            "id": 30,
+            "id": 28,
             "bank": "ORIENBANK, OPEN JOINT STOCK COMPANY",
             "city": "DUSHANBE",
             "branch": null,
             "swift_code": "OTJKTJ22"
         },
         {
-            "id": 31,
+            "id": 29,
             "bank": "SOHIBKORBANK",
             "city": "DUSHANBE",
             "branch": null,
             "swift_code": "SOHBTJ22"
         },
         {
-            "id": 32,
-            "bank": "TAJPROMBANK ZAO",
-            "city": "DUSHANBE",
-            "branch": null,
-            "swift_code": "TAZATJ22"
-        },
-        {
-            "id": 33,
+            "id": 30,
             "bank": "THE FIRST MICROFINANCEBANK",
             "city": "DUSHANBE",
             "branch": null,
             "swift_code": "FMBTTJ22"
         },
         {
-            "id": 34,
+            "id": 31,
             "bank": "TOJIKSODIROTBONK",
             "city": "DUSHANBE",
             "branch": null,

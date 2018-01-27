@@ -140,14 +140,14 @@
             "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (T AND T) LTD.",
             "city": "PORT OF SPAIN",
             "branch": null,
-            "swift_code": "FCIBTTPS"
+            "swift_code": "FCIBTTP2"
         },
         {
             "id": 21,
-            "bank": "INTERCOMMERCIAL BANK LIMITED",
-            "city": "CHAGUANAS",
+            "bank": "FIRSTCARIBBEAN INTERNATIONAL BANK (T AND T) LTD.",
+            "city": "PORT OF SPAIN",
             "branch": null,
-            "swift_code": "IBLITTPS"
+            "swift_code": "FCIBTTPS"
         },
         {
             "id": 22,
@@ -158,111 +158,125 @@
         },
         {
             "id": 23,
+            "bank": "JMMB BANK (T AND T) LIMITED",
+            "city": "CHAGUANAS",
+            "branch": null,
+            "swift_code": "IBLITTPS"
+        },
+        {
+            "id": 24,
+            "bank": "JMMB BANK (T AND T) LIMITED",
+            "city": "CHAGUANAS",
+            "branch": null,
+            "swift_code": "JMMBTTPS"
+        },
+        {
+            "id": 25,
             "bank": "MERCANTILE BANKING AND FINANCIAL CORPORATION LIMITED, THE",
             "city": "PORT OF SPAIN",
             "branch": null,
             "swift_code": "MEFRTTP1"
         },
         {
-            "id": 24,
+            "id": 26,
             "bank": "NCB GLOBAL FINANCE LIMITED",
             "city": "PORT OF SPAIN",
             "branch": null,
             "swift_code": "AICBTTPS"
         },
         {
-            "id": 25,
+            "id": 27,
             "bank": "RBC ROYAL BANK (TRINIDAD AND TOBAGO) LIMITED (FORMERLY RBTT BANK LIMITED)",
             "city": "PORT OF SPAIN",
             "branch": null,
             "swift_code": "RBTTTTPX"
         },
         {
-            "id": 26,
+            "id": 28,
             "bank": "RBTT MERCHANT BANK LIMITED",
             "city": "PORT OF SPAIN",
             "branch": null,
             "swift_code": "RBMETTP1"
         },
         {
-            "id": 27,
+            "id": 29,
             "bank": "REPUBLIC BANK LIMITED",
             "city": "PORT OF SPAIN",
             "branch": null,
             "swift_code": "RBNKTTPX"
         },
         {
-            "id": 28,
+            "id": 30,
             "bank": "REPUBLIC FINANCE AND MERCHANT BANK LIMITED",
             "city": "PORT OF SPAIN",
             "branch": null,
             "swift_code": "REFHTTP1"
         },
         {
-            "id": 29,
+            "id": 31,
             "bank": "REPUBLIC SECURITIES LIMITED",
             "city": "PORT OF SPAIN",
             "branch": null,
             "swift_code": "REPSTTP1"
         },
         {
-            "id": 30,
+            "id": 32,
             "bank": "SCOTIA DBG INVESTMENTS LTD",
             "city": "PORT OF SPAIN",
             "branch": null,
             "swift_code": "DEBOTTP1"
         },
         {
-            "id": 31,
+            "id": 33,
             "bank": "SCOTIABANK TRINIDAD AND TOBAGO LTD.",
             "city": "PORT OF SPAIN",
             "branch": null,
             "swift_code": "NOSCTTPS"
         },
         {
-            "id": 32,
+            "id": 34,
             "bank": "SCOTIATRUST AND MERCHANT BANK TRINIDAD AND TOBAGO LIMITED",
             "city": "PORT OF SPAIN",
             "branch": null,
             "swift_code": "SMTTTTP1"
         },
         {
-            "id": 33,
+            "id": 35,
             "bank": "THE TRINIDAD AND TOBAGO STOCK EXCHANGE LIMITED",
             "city": "PORT OF SPAIN",
             "branch": null,
             "swift_code": "XTRNTTP1"
         },
         {
-            "id": 34,
+            "id": 36,
             "bank": "THE WEST INDIAN TOBACCO COMPANY LIMITED",
             "city": "SAN JUAN",
             "branch": null,
             "swift_code": "BATSTTP1"
         },
         {
-            "id": 35,
+            "id": 37,
             "bank": "TRINIDAD AND TOBAGO CENTRAL SECURITIES DEPOSITORY LIMITED",
             "city": "PORT OF SPAIN",
             "branch": null,
             "swift_code": "TTCSTTP1"
         },
         {
-            "id": 36,
+            "id": 38,
             "bank": "TRINIDAD AND TOBAGO UNIT TRUST CORPORATION",
             "city": "PORT OF SPAIN",
             "branch": null,
             "swift_code": "TTUTTTP1"
         },
         {
-            "id": 37,
+            "id": 39,
             "bank": "UNITED BANK OF TRINIDAD AND TOBAGO",
             "city": "PORT OF SPAIN",
             "branch": null,
             "swift_code": "UBTTTTP1"
         },
         {
-            "id": 38,
+            "id": 40,
             "bank": "WEST INDIES STOCKBROKERS LIMITED",
             "city": "PORT OF SPAIN",
             "branch": null,

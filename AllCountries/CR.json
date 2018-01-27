@@ -39,206 +39,234 @@
         },
         {
             "id": 6,
-            "bank": "BANCO CITIBANK DE COSTA RICA S.A.",
-            "city": "SAN JOSE",
-            "branch": null,
-            "swift_code": "BACUCRSJ"
-        },
-        {
-            "id": 7,
             "bank": "BANCO CREDITO AGRICOLA DE CARTAGO",
             "city": "CARTAGO",
             "branch": null,
             "swift_code": "BCACCRS1"
         },
         {
-            "id": 8,
+            "id": 7,
             "bank": "BANCO CREDITO AGRICOLA DE CARTAGO",
             "city": "SAN JOSE",
             "branch": null,
             "swift_code": "BCACCRSJ"
         },
         {
+            "id": 8,
+            "bank": "BANCO DAVIVIENDA (COSTA RICA), S.A.",
+            "city": "SAN JOSE",
+            "branch": "(TRADING ADM)",
+            "swift_code": "BXBACRSJDP1"
+        },
+        {
             "id": 9,
+            "bank": "BANCO DAVIVIENDA (COSTA RICA), S.A.",
+            "city": "SAN JOSE",
+            "branch": "(TRADING)",
+            "swift_code": "BXBACRSJDPR"
+        },
+        {
+            "id": 10,
             "bank": "BANCO DAVIVIENDA (COSTA RICA), S.A.",
             "city": "SAN JOSE",
             "branch": null,
             "swift_code": "BXBACRSJ"
         },
         {
-            "id": 10,
+            "id": 11,
             "bank": "BANCO DE COSTA RICA",
             "city": "SAN JOSE",
             "branch": null,
             "swift_code": "BCRICRSJ"
         },
         {
-            "id": 11,
+            "id": 12,
             "bank": "BANCO DEL ISTMO (COSTA RICA) S.A.",
             "city": "SAN JOSE",
             "branch": null,
             "swift_code": "BALYCRS1"
         },
         {
-            "id": 12,
+            "id": 13,
             "bank": "BANCO GENERAL (COSTA RICA), S.A.",
             "city": "SAN JOSE",
             "branch": null,
             "swift_code": "BAGECRSJ"
         },
         {
-            "id": 13,
+            "id": 14,
             "bank": "BANCO IMPROSA, S.A.",
             "city": "SAN JOSE",
             "branch": null,
             "swift_code": "BIMPCRSJ"
         },
         {
-            "id": 14,
+            "id": 15,
             "bank": "BANCO INTERNACIONAL DE EXPORTACION S.A.",
             "city": "SAN JOSE",
             "branch": null,
             "swift_code": "BAIECRS1"
         },
         {
-            "id": 15,
+            "id": 16,
             "bank": "BANCO LAFISE S.A.",
             "city": "SAN JOSE",
             "branch": null,
             "swift_code": "BCCECRSJ"
         },
         {
-            "id": 16,
+            "id": 17,
             "bank": "BANCO NACIONAL DE COSTA RICA",
             "city": "SAN JOSE",
             "branch": null,
             "swift_code": "BNCRCRSJ"
         },
         {
-            "id": 17,
+            "id": 18,
             "bank": "BANCO NACIONAL DE COSTA RICA",
             "city": "SAN JOSE",
             "branch": null,
             "swift_code": "BNCRCRSJGCI"
         },
         {
-            "id": 18,
+            "id": 19,
             "bank": "BANCO POPULAR Y DE DESARROLLO COMUNAL",
             "city": "SAN JOSE",
             "branch": null,
             "swift_code": "BPDCCRSJ"
         },
         {
-            "id": 19,
+            "id": 20,
             "bank": "BANCO PROMERICA",
             "city": "SAN JOSE",
             "branch": null,
             "swift_code": "PRMKCRSJ"
         },
         {
-            "id": 20,
+            "id": 21,
             "bank": "BASS AMERICAS S.A.",
             "city": "HEREDIA",
             "branch": null,
             "swift_code": "BATSCR21"
         },
         {
-            "id": 21,
+            "id": 22,
             "bank": "BATCCA PARK INVERSIONES INMOBILIARIAS, S.A.",
             "city": "HEREDIA",
             "branch": null,
             "swift_code": "BATSCR41"
         },
         {
-            "id": 22,
+            "id": 23,
             "bank": "BATCCA SERVICIOS S.A.",
             "city": "HEREDIA",
             "branch": null,
             "swift_code": "BATSCRS1"
         },
         {
-            "id": 23,
+            "id": 24,
             "bank": "BCT VALORES PUESTO DE BOLSA SA",
             "city": "SAN JOSE",
             "branch": null,
             "swift_code": "BVPBCRS1"
         },
         {
-            "id": 24,
+            "id": 25,
             "bank": "BRITISH AMERICAN TOBACCO CENTRAL AMERICA S.A., SUCURSAL COSTA RICA",
             "city": "SAN JOAQUIN",
             "branch": null,
             "swift_code": "BATSCR51"
         },
         {
-            "id": 25,
+            "id": 26,
+            "bank": "CENTRAL DE VALORES, S.A. (CEVAL)",
+            "city": "SAN JOSE",
+            "branch": null,
+            "swift_code": "CEVCCRS1"
+        },
+        {
+            "id": 27,
             "bank": "COMPANIA FINANCIERA DE LONDRES LTDA.",
             "city": "SAN JOSE",
             "branch": null,
             "swift_code": "FILOCRS1"
         },
         {
-            "id": 26,
+            "id": 28,
             "bank": "COOPENAE",
             "city": "SAN JOSE",
             "branch": null,
             "swift_code": "CPOPCRS1"
         },
         {
-            "id": 27,
+            "id": 29,
             "bank": "COOPERATIVA DE AHORRO Y CREDITO DE LOS SERVIDORES PUBLICOS",
             "city": "SAN JOSE",
             "branch": null,
             "swift_code": "CAOVCRS1"
         },
         {
-            "id": 28,
+            "id": 30,
             "bank": "CORPORACION FRANCO-AMERICANA DE FINANZAS(COSTA RICA) S.A.",
             "city": "SAN JOSE",
             "branch": null,
             "swift_code": "FAFCCRS1"
         },
         {
-            "id": 29,
+            "id": 31,
             "bank": "FINANCIERA G AND T CONTINENTAL COSTA RICA S.A.",
             "city": "SAN JOSE",
             "branch": null,
             "swift_code": "FCCRCRS1"
         },
         {
-            "id": 30,
+            "id": 32,
             "bank": "FITCH COSTA RICA CALIFICADORA DE RIESGO S.A.",
             "city": "SAN JOSE",
             "branch": null,
             "swift_code": "FRIPCRS1"
         },
         {
-            "id": 31,
+            "id": 33,
             "bank": "GRUPO MUTUAL ALAJUELA-LA VIVIENDA DE AHORRO Y PRESTAMO",
             "city": "ALAJUELA",
             "branch": null,
             "swift_code": "GMAVCRS1"
         },
         {
-            "id": 32,
+            "id": 34,
+            "bank": "INSTITUTO COSTARRICENSE DE ELECTRICIDAD",
+            "city": "SAN JOSE",
+            "branch": null,
+            "swift_code": "ICELCRSJ"
+        },
+        {
+            "id": 35,
             "bank": "INSTITUTO NACIONAL DE SEGUROS",
             "city": "SAN JOSE",
             "branch": null,
             "swift_code": "ISNSCRS1"
         },
         {
-            "id": 33,
+            "id": 36,
             "bank": "PRIVAL BANK (COSTA RICA) S.A.",
             "city": "SAN PEDRO",
             "branch": null,
             "swift_code": "BDSOCRSJ"
         },
         {
-            "id": 34,
+            "id": 37,
             "bank": "SCOTIABANK DE COSTA RICA",
             "city": "SAN JOSE",
             "branch": null,
             "swift_code": "NOSCCRSJ"
+        },
+        {
+            "id": 38,
+            "bank": "THE BANK OF NOVA SCOTIA (COSTA RICA) S.A. (FORMERLY BANCO CITIBANK DE COSTA RICA S.A.)",
+            "city": "SAN JOSE",
+            "branch": null,
+            "swift_code": "BACUCRSJ"
         }
     ]
 }

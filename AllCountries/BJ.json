@@ -7,14 +7,14 @@
             "bank": "BANK OF AFRICA - BENIN",
             "city": "COTONOU",
             "branch": null,
-            "swift_code": "AFRIBJBJ"
+            "swift_code": "AFRIBJB1BWB"
         },
         {
             "id": 2,
             "bank": "BANK OF AFRICA - BENIN",
             "city": "COTONOU",
             "branch": null,
-            "swift_code": "AFRIBJB1BWB"
+            "swift_code": "AFRIBJBJ"
         },
         {
             "id": 3,
@@ -81,41 +81,55 @@
         },
         {
             "id": 12,
+            "bank": "CORIS BANK INTERNATIONAL BENIN",
+            "city": "COTONOU",
+            "branch": null,
+            "swift_code": "CORIBJBJ"
+        },
+        {
+            "id": 13,
             "bank": "DEPOSITAIRE CENTRAL-BANQUE DE REGLEMENT (DCBR BENIN)",
             "city": "COTONOU",
             "branch": null,
             "swift_code": "DCRDBJB1"
         },
         {
-            "id": 13,
+            "id": 14,
             "bank": "DIAMOND BANK BENIN SA",
             "city": "COTONOU",
             "branch": null,
             "swift_code": "DBLNBJBJ"
         },
         {
-            "id": 14,
+            "id": 15,
+            "bank": "DIRECTION GENERALE DU TRESOR ET DE LA COMPTABILITE PUBLIQUE (DGTCP)",
+            "city": "COTONOU",
+            "branch": null,
+            "swift_code": "DGTPBJBJ"
+        },
+        {
+            "id": 16,
             "bank": "ECOBANK BENIN",
             "city": "COTONOU",
             "branch": null,
             "swift_code": "ECOCBJBJ"
         },
         {
-            "id": 15,
+            "id": 17,
             "bank": "ORABANK BENIN",
             "city": "COTONOU",
             "branch": null,
             "swift_code": "ORBKBJBJ"
         },
         {
-            "id": 16,
+            "id": 18,
             "bank": "SOCIETE GENERALE BENIN",
             "city": "COTONOU",
             "branch": null,
             "swift_code": "SOGEBJBJ"
         },
         {
-            "id": 17,
+            "id": 19,
             "bank": "UNITED BANK FOR AFRICA BENIN",
             "city": "COTONOU",
             "branch": null,

@@ -4,2239 +4,6313 @@
     "list": [
         {
             "id": 1,
+            "bank": "AYANDEH BANK",
+            "city": "TEHRAN",
+            "branch": null,
+            "swift_code": "AYBKIRTH"
+        },
+        {
+            "id": 2,
             "bank": "BANK DAY",
             "city": "TEHRAN",
             "branch": null,
             "swift_code": "DAYBIRTH"
         },
         {
-            "id": 2,
+            "id": 3,
             "bank": "BANK EGHTESAD NOVIN",
             "city": "BUSHEHR",
             "branch": "(BUSHEHR)",
             "swift_code": "BEGNIRTHBSH"
         },
         {
-            "id": 3,
+            "id": 4,
             "bank": "BANK EGHTESAD NOVIN",
             "city": "ISFAHAN",
             "branch": "(AZADI ISFAHAN)",
             "swift_code": "BEGNIRTHAZD"
         },
         {
-            "id": 4,
+            "id": 5,
             "bank": "BANK EGHTESAD NOVIN",
             "city": "KISH ISLAND",
             "branch": "(KISH ISLAND BRANCH)",
             "swift_code": "BEGNIRTHKSH"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "BANK EGHTESAD NOVIN",
             "city": "MASHHAD",
             "branch": "(IMAM KHOMEINI)",
             "swift_code": "BEGNIRTHIKH"
         },
         {
-            "id": 6,
+            "id": 7,
             "bank": "BANK EGHTESAD NOVIN",
             "city": "MASHHAD",
             "branch": "(TAGHI ABAD)",
             "swift_code": "BEGNIRTHTGH"
         },
         {
-            "id": 7,
+            "id": 8,
             "bank": "BANK EGHTESAD NOVIN",
             "city": "SHIRAZ",
             "branch": "(ZAND)",
             "swift_code": "BEGNIRTHZND"
         },
         {
-            "id": 8,
+            "id": 9,
             "bank": "BANK EGHTESAD NOVIN",
             "city": "TABRIZ",
             "branch": "(ARTESH)",
             "swift_code": "BEGNIRTHART"
         },
         {
-            "id": 9,
+            "id": 10,
             "bank": "BANK EGHTESAD NOVIN",
             "city": "TEHRAN",
             "branch": "(AFRIGHA)",
             "swift_code": "BEGNIRTHAFG"
         },
         {
-            "id": 10,
+            "id": 11,
+            "bank": "BANK EGHTESAD NOVIN",
+            "city": "TEHRAN",
+            "branch": "(ARGENTINA SQUARE)",
+            "swift_code": "BEGNIRTHMAR"
+        },
+        {
+            "id": 12,
             "bank": "BANK EGHTESAD NOVIN",
             "city": "TEHRAN",
             "branch": "(CMS\/ATM)",
             "swift_code": "BEGNIRTHSHB"
         },
         {
-            "id": 11,
+            "id": 13,
             "bank": "BANK EGHTESAD NOVIN",
             "city": "TEHRAN",
             "branch": "(ESFANDYAR)",
             "swift_code": "BEGNIRTHESF"
         },
         {
-            "id": 12,
+            "id": 14,
             "bank": "BANK EGHTESAD NOVIN",
             "city": "TEHRAN",
             "branch": "(FERDOSI)",
             "swift_code": "BEGNIRTHFER"
         },
         {
-            "id": 13,
+            "id": 15,
             "bank": "BANK EGHTESAD NOVIN",
             "city": "TEHRAN",
             "branch": "(GHADIR)",
             "swift_code": "BEGNIRTHGHD"
         },
         {
-            "id": 14,
+            "id": 16,
+            "bank": "BANK EGHTESAD NOVIN",
+            "city": "TEHRAN",
+            "branch": "(KHABARNEGAR)",
+            "swift_code": "BEGNIRTHKBN"
+        },
+        {
+            "id": 17,
             "bank": "BANK EGHTESAD NOVIN",
             "city": "TEHRAN",
             "branch": "(MOFATTEH BRANCH)",
             "swift_code": "BEGNIRTHMFT"
         },
         {
-            "id": 15,
+            "id": 18,
             "bank": "BANK EGHTESAD NOVIN",
             "city": "TEHRAN",
             "branch": "(NFT)",
             "swift_code": "BEGNIRTHNFT"
         },
         {
-            "id": 16,
+            "id": 19,
+            "bank": "BANK EGHTESAD NOVIN",
+            "city": "TEHRAN",
+            "branch": "(SAADAT ABAD  BRANCH)",
+            "swift_code": "BEGNIRTHSAA"
+        },
+        {
+            "id": 20,
             "bank": "BANK EGHTESAD NOVIN",
             "city": "TEHRAN",
             "branch": "(SANAATGARAN)",
             "swift_code": "BEGNIRTHSNT"
         },
         {
-            "id": 17,
+            "id": 21,
             "bank": "BANK EGHTESAD NOVIN",
             "city": "TEHRAN",
             "branch": null,
             "swift_code": "BEGNIRTH"
         },
         {
-            "id": 18,
+            "id": 22,
             "bank": "BANK HEKMAT IRANIAN",
             "city": "TEHRAN",
             "branch": null,
             "swift_code": "HEKMIRTH"
         },
         {
-            "id": 19,
+            "id": 23,
+            "bank": "BANK KESHAVARZI",
+            "city": "AHWAZ",
+            "branch": "(AHWAZ)",
+            "swift_code": "KESHIRTH950"
+        },
+        {
+            "id": 24,
+            "bank": "BANK KESHAVARZI",
+            "city": "AMOL",
+            "branch": "(AMOL BRANCH)",
+            "swift_code": "KESHIRTH00B"
+        },
+        {
+            "id": 25,
             "bank": "BANK KESHAVARZI",
             "city": "ARAK",
             "branch": "(ARAK)",
             "swift_code": "KESHIRTH240"
         },
         {
-            "id": 20,
+            "id": 26,
+            "bank": "BANK KESHAVARZI",
+            "city": "ARDABIL",
+            "branch": "(ARDABIL)",
+            "swift_code": "KESHIRTH97N"
+        },
+        {
+            "id": 27,
             "bank": "BANK KESHAVARZI",
             "city": "BANDAR ABBAS",
             "branch": "(PERSIAN GULF)",
             "swift_code": "KESHIRTH450"
         },
         {
-            "id": 21,
+            "id": 28,
+            "bank": "BANK KESHAVARZI",
+            "city": "BUSHEHR",
+            "branch": "(BUSHEHR)",
+            "swift_code": "KESHIRTH16M"
+        },
+        {
+            "id": 29,
             "bank": "BANK KESHAVARZI",
             "city": "CHABAHAR PORT",
             "branch": "(CHABAHAR BRANCH)",
             "swift_code": "KESHIRTH390"
         },
         {
-            "id": 22,
+            "id": 30,
+            "bank": "BANK KESHAVARZI",
+            "city": "HAMADAN",
+            "branch": "(HAMEDAN)",
+            "swift_code": "KESHIRTH050"
+        },
+        {
+            "id": 31,
             "bank": "BANK KESHAVARZI",
             "city": "ISFAHAN",
             "branch": "(ISFAHAN BRANCH)",
             "swift_code": "KESHIRTH030"
         },
         {
-            "id": 23,
+            "id": 32,
             "bank": "BANK KESHAVARZI",
             "city": "KARAJ",
             "branch": "(TOHID BRANCH)",
             "swift_code": "KESHIRTH701"
         },
         {
-            "id": 24,
+            "id": 33,
             "bank": "BANK KESHAVARZI",
             "city": "KERMAN",
             "branch": "(KERMAN BRANCH)",
             "swift_code": "KESHIRTH070"
         },
         {
-            "id": 25,
+            "id": 34,
             "bank": "BANK KESHAVARZI",
             "city": "KISH ISLAND",
             "branch": "(KISH BRANCH)",
             "swift_code": "KESHIRTH300"
         },
         {
-            "id": 26,
+            "id": 35,
             "bank": "BANK KESHAVARZI",
             "city": "MASHHAD",
             "branch": "(MASHHAD BRANCH)",
             "swift_code": "KESHIRTH140"
         },
         {
-            "id": 27,
+            "id": 36,
             "bank": "BANK KESHAVARZI",
             "city": "ORUMIYEH",
             "branch": "(ORUMIYEH)",
             "swift_code": "KESHIRTH020"
         },
         {
-            "id": 28,
+            "id": 37,
             "bank": "BANK KESHAVARZI",
             "city": "QAZVIN",
             "branch": "(QAZVIN BRANCH)",
             "swift_code": "KESHIRTH100"
         },
         {
-            "id": 29,
+            "id": 38,
             "bank": "BANK KESHAVARZI",
             "city": "QESHM",
             "branch": "(QESHM BRANCH)",
             "swift_code": "KESHIRTH703"
         },
         {
-            "id": 30,
+            "id": 39,
             "bank": "BANK KESHAVARZI",
             "city": "QOM",
             "branch": "(QOM BRANCH)",
             "swift_code": "KESHIRTH810"
         },
         {
-            "id": 31,
+            "id": 40,
             "bank": "BANK KESHAVARZI",
             "city": "RASHT",
             "branch": "(RASHT BRANCH)",
             "swift_code": "KESHIRTH210"
         },
         {
-            "id": 32,
+            "id": 41,
             "bank": "BANK KESHAVARZI",
             "city": "SARI",
             "branch": "(SARI BRANCH)",
             "swift_code": "KESHIRTH204"
         },
         {
-            "id": 33,
+            "id": 42,
+            "bank": "BANK KESHAVARZI",
+            "city": "SEMNAN",
+            "branch": "(SEMNAN)",
+            "swift_code": "KESHIRTH18K"
+        },
+        {
+            "id": 43,
+            "bank": "BANK KESHAVARZI",
+            "city": "SHAHROUD",
+            "branch": "(SHAHROUD)",
+            "swift_code": "KESHIRTH21K"
+        },
+        {
+            "id": 44,
             "bank": "BANK KESHAVARZI",
             "city": "SHIRAZ",
             "branch": "(SHIRAZ BRANCH)",
             "swift_code": "KESHIRTH705"
         },
         {
-            "id": 34,
+            "id": 45,
             "bank": "BANK KESHAVARZI",
             "city": "TABRIZ",
             "branch": "(TABRIZ BRANCH)",
             "swift_code": "KESHIRTH040"
         },
         {
-            "id": 35,
+            "id": 46,
+            "bank": "BANK KESHAVARZI",
+            "city": "TEHRAN",
+            "branch": "(BAHARESTAN)",
+            "swift_code": "KESHIRTH47A"
+        },
+        {
+            "id": 47,
             "bank": "BANK KESHAVARZI",
             "city": "TEHRAN",
             "branch": "(CREDIT CARD SERVICES)",
             "swift_code": "KESHIRTHSHB"
         },
         {
-            "id": 36,
+            "id": 48,
             "bank": "BANK KESHAVARZI",
             "city": "TEHRAN",
             "branch": "(DOLATI BRANCH)",
             "swift_code": "KESHIRTH340"
         },
         {
-            "id": 37,
+            "id": 49,
             "bank": "BANK KESHAVARZI",
             "city": "TEHRAN",
             "branch": "(MARKAZ TEJARI GOLESTAN BRANCH)",
             "swift_code": "KESHIRTH180"
         },
         {
-            "id": 38,
+            "id": 50,
+            "bank": "BANK KESHAVARZI",
+            "city": "TEHRAN",
+            "branch": "(PALIZI)",
+            "swift_code": "KESHIRTH01Q"
+        },
+        {
+            "id": 51,
+            "bank": "BANK KESHAVARZI",
+            "city": "TEHRAN",
+            "branch": "(SAADAT ABAD)",
+            "swift_code": "KESHIRTH63S"
+        },
+        {
+            "id": 52,
             "bank": "BANK KESHAVARZI",
             "city": "TEHRAN",
             "branch": "(SHADMEHR BRANCH)",
             "swift_code": "KESHIRTH103"
         },
         {
-            "id": 39,
+            "id": 53,
             "bank": "BANK KESHAVARZI",
             "city": "TEHRAN",
             "branch": "(SHAHID BEHESHTI BRANCH)",
             "swift_code": "KESHIRTH820"
         },
         {
-            "id": 40,
+            "id": 54,
             "bank": "BANK KESHAVARZI",
             "city": "TEHRAN",
             "branch": "(SHAHRARA)",
             "swift_code": "KESHIRTH110"
         },
         {
-            "id": 41,
+            "id": 55,
             "bank": "BANK KESHAVARZI",
             "city": "TEHRAN",
             "branch": "(SIE-TIR)",
             "swift_code": "KESHIRTH760"
         },
         {
-            "id": 42,
+            "id": 56,
             "bank": "BANK KESHAVARZI",
             "city": "TEHRAN",
             "branch": "(TOHID BRANCH)",
             "swift_code": "KESHIRTH620"
         },
         {
-            "id": 43,
+            "id": 57,
             "bank": "BANK KESHAVARZI",
             "city": "TEHRAN",
             "branch": "(VALI-ASR BRANCH)",
             "swift_code": "KESHIRTH440"
         },
         {
-            "id": 44,
+            "id": 58,
             "bank": "BANK KESHAVARZI",
             "city": "TEHRAN",
             "branch": "(VANAK)",
             "swift_code": "KESHIRTH610"
         },
         {
-            "id": 45,
+            "id": 59,
             "bank": "BANK KESHAVARZI",
             "city": "TEHRAN",
             "branch": null,
             "swift_code": "KESHIRTH"
         },
         {
-            "id": 46,
+            "id": 60,
             "bank": "BANK KESHAVARZI",
             "city": "TEHRAN",
             "branch": null,
             "swift_code": "KESHIRTH160"
         },
         {
-            "id": 47,
+            "id": 61,
+            "bank": "BANK KESHAVARZI",
+            "city": "TEHRAN",
+            "branch": null,
+            "swift_code": "KESHIRTH53A"
+        },
+        {
+            "id": 62,
             "bank": "BANK KESHAVARZI",
             "city": "TEHRAN",
             "branch": null,
             "swift_code": "KESHIRTH880"
         },
         {
-            "id": 48,
+            "id": 63,
+            "bank": "BANK KESHAVARZI",
+            "city": "YAZD",
+            "branch": "(YAZD)",
+            "swift_code": "KESHIRTH130"
+        },
+        {
+            "id": 64,
+            "bank": "BANK KESHAVARZI",
+            "city": "ZANJAN",
+            "branch": "(ZANJAN)",
+            "swift_code": "KESHIRTH190"
+        },
+        {
+            "id": 65,
+            "bank": "BANK MARKAZI JOMHOURI ISLAMI IRAN",
+            "city": "TEHRAN",
+            "branch": "(ASIAN CLEARING UNION)",
+            "swift_code": "BMJIIRTHACU"
+        },
+        {
+            "id": 66,
+            "bank": "BANK MARKAZI JOMHOURI ISLAMI IRAN",
+            "city": "TEHRAN",
+            "branch": "(EXPORT DEPARTMENT)",
+            "swift_code": "BMJIIRTHEXD"
+        },
+        {
+            "id": 67,
+            "bank": "BANK MARKAZI JOMHOURI ISLAMI IRAN",
+            "city": "TEHRAN",
+            "branch": "(FOREIGN DEBTS DEPARTMENT)",
+            "swift_code": "BMJIIRTHFDD"
+        },
+        {
+            "id": 68,
+            "bank": "BANK MARKAZI JOMHOURI ISLAMI IRAN",
+            "city": "TEHRAN",
+            "branch": "(FOREIGN EXCHANGE DEPARTMENT)",
+            "swift_code": "BMJIIRTHFED"
+        },
+        {
+            "id": 69,
+            "bank": "BANK MARKAZI JOMHOURI ISLAMI IRAN",
+            "city": "TEHRAN",
+            "branch": "(GENERAL ACCOUNT AND BUDGET DEPARTMENT)",
+            "swift_code": "BMJIIRTHGAD"
+        },
+        {
+            "id": 70,
+            "bank": "BANK MARKAZI JOMHOURI ISLAMI IRAN",
+            "city": "TEHRAN",
+            "branch": "(GENERAL SECRETARIAT DEPARTMENT)",
+            "swift_code": "BMJIIRTHGSD"
+        },
+        {
+            "id": 71,
+            "bank": "BANK MARKAZI JOMHOURI ISLAMI IRAN",
+            "city": "TEHRAN",
+            "branch": "(HARDWARE ENGINEERING DEPARTMENT)",
+            "swift_code": "BMJIIRTHHED"
+        },
+        {
+            "id": 72,
+            "bank": "BANK MARKAZI JOMHOURI ISLAMI IRAN",
+            "city": "TEHRAN",
+            "branch": "(INTERNATIONAL DEPARTMENT)",
+            "swift_code": "BMJIIRTHINT"
+        },
+        {
+            "id": 73,
+            "bank": "BANK MARKAZI JOMHOURI ISLAMI IRAN",
+            "city": "TEHRAN",
+            "branch": "(INTERNATIONAL FINANCE DEPARTMENT)",
+            "swift_code": "BMJIIRTHIFD"
+        },
+        {
+            "id": 74,
+            "bank": "BANK MARKAZI JOMHOURI ISLAMI IRAN",
+            "city": "TEHRAN",
+            "branch": "(PAYMENT AND SETTLEMENT SYSTEM DEPARTMENT)",
+            "swift_code": "BMJIIRTHSHB"
+        },
+        {
+            "id": 75,
+            "bank": "BANK MARKAZI JOMHOURI ISLAMI IRAN",
+            "city": "TEHRAN",
+            "branch": "(RIAL TRANSACTIONS DEPARTMENT)",
+            "swift_code": "BMJIIRTHRTD"
+        },
+        {
+            "id": 76,
+            "bank": "BANK MARKAZI JOMHOURI ISLAMI IRAN",
+            "city": "TEHRAN",
+            "branch": null,
+            "swift_code": "BMJIIRTH"
+        },
+        {
+            "id": 77,
             "bank": "BANK MASKAN",
             "city": "ARAK",
             "branch": "( ARAK CENTRAL BR.)",
             "swift_code": "BKMNIRTH158"
         },
         {
-            "id": 49,
+            "id": 78,
             "bank": "BANK MASKAN",
             "city": "ARDABIL",
             "branch": "(ARDABIL CENTRAL BRANCH)",
             "swift_code": "BKMNIRTH151"
         },
         {
-            "id": 50,
+            "id": 79,
             "bank": "BANK MASKAN",
             "city": "BANDAR ABBAS",
             "branch": "( BANDAR ABBAS CENTRAL BR.)",
             "swift_code": "BKMNIRTH178"
         },
         {
-            "id": 51,
+            "id": 80,
             "bank": "BANK MASKAN",
             "city": "BUSHEHR",
             "branch": "( BUSHEHR CENTRAL BR.)",
             "swift_code": "BKMNIRTH152"
         },
         {
-            "id": 52,
+            "id": 81,
             "bank": "BANK MASKAN",
             "city": "CHABAHAR PORT",
             "branch": "(SADAF TRADE CENTRE)",
             "swift_code": "BKMNIRTH276"
         },
         {
-            "id": 53,
+            "id": 82,
             "bank": "BANK MASKAN",
             "city": "HAMADAN",
             "branch": "(HAMADAN CENTRAL BR.)",
             "swift_code": "BKMNIRTH116"
         },
         {
-            "id": 54,
+            "id": 83,
             "bank": "BANK MASKAN",
             "city": "ISFAHAN",
             "branch": "(ISFAHAN CENTRAL BRANCH)",
             "swift_code": "BKMNIRTH114"
         },
         {
-            "id": 55,
+            "id": 84,
             "bank": "BANK MASKAN",
             "city": "ISFAHAN",
             "branch": "(ISFAHAN FERDOWSI BRANCH)",
             "swift_code": "BKMNIRTH417"
         },
         {
-            "id": 56,
+            "id": 85,
             "bank": "BANK MASKAN",
             "city": "KARAJ",
             "branch": "( KARAJ CENTRAL BR.)",
             "swift_code": "BKMNIRTH217"
         },
         {
-            "id": 57,
+            "id": 86,
             "bank": "BANK MASKAN",
             "city": "KASHAN",
             "branch": "( KASHAN CENTRAL BR.)",
             "swift_code": "BKMNIRTH211"
         },
         {
-            "id": 58,
+            "id": 87,
             "bank": "BANK MASKAN",
             "city": "KERMAN",
             "branch": "(KERMAN CENTRAL BR.)",
             "swift_code": "BKMNIRTH128"
         },
         {
-            "id": 59,
+            "id": 88,
             "bank": "BANK MASKAN",
             "city": "KERMANSHAH",
             "branch": "( KERMANSHAH CENTRAL BR.)",
             "swift_code": "BKMNIRTH118"
         },
         {
-            "id": 60,
+            "id": 89,
             "bank": "BANK MASKAN",
             "city": "KISH ISLAND",
             "branch": "(KISH VENOOS BRANCH)",
             "swift_code": "BKMNIRTH286"
         },
         {
-            "id": 61,
+            "id": 90,
             "bank": "BANK MASKAN",
             "city": "MASHHAD",
             "branch": "(MASHHAD CENTRAL BR.)",
             "swift_code": "BKMNIRTH112"
         },
         {
-            "id": 62,
+            "id": 91,
+            "bank": "BANK MASKAN",
+            "city": "MASHHAD",
+            "branch": "(SADJAD BLVD. BR.)",
+            "swift_code": "BKMNIRTH615"
+        },
+        {
+            "id": 92,
             "bank": "BANK MASKAN",
             "city": "ORUMIYEH",
             "branch": "(ORUMIYEH CENTRAL BR.)",
             "swift_code": "BKMNIRTH141"
         },
         {
-            "id": 63,
+            "id": 93,
             "bank": "BANK MASKAN",
             "city": "QAZVIN",
             "branch": "( QAZVIN CENTRAL BR.)",
             "swift_code": "BKMNIRTH121"
         },
         {
-            "id": 64,
+            "id": 94,
             "bank": "BANK MASKAN",
             "city": "QESHM",
             "branch": "(QESHM ISLAND CENTRAL BRANCH)",
             "swift_code": "BKMNIRTH782"
         },
         {
-            "id": 65,
+            "id": 95,
             "bank": "BANK MASKAN",
             "city": "QOM",
             "branch": "(QOM CENTRAL BRANCH)",
             "swift_code": "BKMNIRTH146"
         },
         {
-            "id": 66,
+            "id": 96,
             "bank": "BANK MASKAN",
             "city": "RASHT",
             "branch": "( RASHT CENTRAL BR.)",
             "swift_code": "BKMNIRTH124"
         },
         {
-            "id": 67,
+            "id": 97,
             "bank": "BANK MASKAN",
             "city": "SARI",
             "branch": "( SARI CENTRAL BR.)",
             "swift_code": "BKMNIRTH148"
         },
         {
-            "id": 68,
+            "id": 98,
             "bank": "BANK MASKAN",
             "city": "SHAHREKORD",
             "branch": "(SHAHREKORD CENTRAL BR.)",
             "swift_code": "BKMNIRTH229"
         },
         {
-            "id": 69,
+            "id": 99,
             "bank": "BANK MASKAN",
             "city": "SHIRAZ",
             "branch": "(SHIRAZ CENTRAL BRANCH)",
             "swift_code": "BKMNIRTH117"
         },
         {
-            "id": 70,
+            "id": 100,
             "bank": "BANK MASKAN",
             "city": "TABRIZ",
             "branch": "(TABRIZ CENTRAL BR.)",
             "swift_code": "BKMNIRTH115"
         },
         {
-            "id": 71,
+            "id": 101,
             "bank": "BANK MASKAN",
             "city": "TEHRAN",
             "branch": "( VALIASR SQ. BRANCH )",
             "swift_code": "BKMNIRTH171"
         },
         {
-            "id": 72,
+            "id": 102,
             "bank": "BANK MASKAN",
             "city": "TEHRAN",
             "branch": "( VANAK SQ. BRANCH )",
             "swift_code": "BKMNIRTH889"
         },
         {
-            "id": 73,
+            "id": 103,
             "bank": "BANK MASKAN",
             "city": "TEHRAN",
             "branch": "(ACCOUNTING DIVISION)",
             "swift_code": "BKMNIRTHACC"
         },
         {
-            "id": 74,
+            "id": 104,
             "bank": "BANK MASKAN",
             "city": "TEHRAN",
             "branch": "(AFRIQA BRANCH)",
             "swift_code": "BKMNIRTH554"
         },
         {
-            "id": 75,
+            "id": 105,
+            "bank": "BANK MASKAN",
+            "city": "TEHRAN",
+            "branch": "(ATTAR BRANCH)",
+            "swift_code": "BKMNIRTH454"
+        },
+        {
+            "id": 106,
             "bank": "BANK MASKAN",
             "city": "TEHRAN",
             "branch": "(CENTRAL BRANCH)",
             "swift_code": "BKMNIRTH111"
         },
         {
-            "id": 76,
+            "id": 107,
+            "bank": "BANK MASKAN",
+            "city": "TEHRAN",
+            "branch": "(KISH CENTRAL BRANCH)",
+            "swift_code": "BKMNIRTH942"
+        },
+        {
+            "id": 108,
             "bank": "BANK MASKAN",
             "city": "TEHRAN",
             "branch": "(MIRDAMAD BRANCH)",
             "swift_code": "BKMNIRTH469"
         },
         {
-            "id": 77,
+            "id": 109,
             "bank": "BANK MASKAN",
             "city": "TEHRAN",
             "branch": "(MOTAHARI BRANCH)",
             "swift_code": "BKMNIRTH661"
         },
         {
-            "id": 78,
+            "id": 110,
             "bank": "BANK MASKAN",
             "city": "TEHRAN",
             "branch": "(SA'ADAT ABAD BR.)",
             "swift_code": "BKMNIRTH412"
         },
         {
-            "id": 79,
+            "id": 111,
             "bank": "BANK MASKAN",
             "city": "TEHRAN",
             "branch": "(TADJRISH BR.)",
             "swift_code": "BKMNIRTH181"
         },
         {
-            "id": 80,
-            "bank": "BANK MASKAN",
-            "city": "TEHRAN",
-            "branch": "(TEHRAN FOREIGN EXCHANGE BRANCH)",
-            "swift_code": "BKMNIRTH454"
-        },
-        {
-            "id": 81,
+            "id": 112,
             "bank": "BANK MASKAN",
             "city": "TEHRAN",
             "branch": "(TEHRAN NARMAK BRANCH)",
             "swift_code": "BKMNIRTH297"
         },
         {
-            "id": 82,
+            "id": 113,
             "bank": "BANK MASKAN",
             "city": "TEHRAN",
             "branch": "(TEHRAN SEPAHBOD QARANI BRANCH)",
             "swift_code": "BKMNIRTH421"
         },
         {
-            "id": 83,
+            "id": 114,
             "bank": "BANK MASKAN",
             "city": "TEHRAN",
             "branch": "(TEHRAN SHOHADA BRANCH)",
             "swift_code": "BKMNIRTH142"
         },
         {
-            "id": 84,
+            "id": 115,
             "bank": "BANK MASKAN",
             "city": "TEHRAN",
             "branch": "(TEHRAN TALEQANI BRANCH)",
             "swift_code": "BKMNIRTH295"
         },
         {
-            "id": 85,
+            "id": 116,
             "bank": "BANK MASKAN",
             "city": "TEHRAN",
             "branch": "(TOHID BRANCH)",
             "swift_code": "BKMNIRTH129"
         },
         {
-            "id": 86,
+            "id": 117,
             "bank": "BANK MASKAN",
             "city": "TEHRAN",
             "branch": "(YOUSEFABAD BRANCH)",
             "swift_code": "BKMNIRTH219"
         },
         {
-            "id": 87,
+            "id": 118,
             "bank": "BANK MASKAN",
             "city": "TEHRAN",
             "branch": null,
             "swift_code": "BKMNIRTH"
         },
         {
-            "id": 88,
+            "id": 119,
             "bank": "BANK MASKAN",
             "city": "TEHRAN",
             "branch": null,
             "swift_code": "BKMNIRTHSHB"
         },
         {
-            "id": 89,
+            "id": 120,
             "bank": "BANK MASKAN",
             "city": "YAZD",
             "branch": "( YAZD CENTRAL BR.)",
             "swift_code": "BKMNIRTH125"
         },
         {
-            "id": 90,
+            "id": 121,
+            "bank": "BANK MELLAT",
+            "city": "AHWAZ",
+            "branch": "(AHWAZ BRANCH)",
+            "swift_code": "BKMTIRTH044"
+        },
+        {
+            "id": 122,
+            "bank": "BANK MELLAT",
+            "city": "AHWAZ",
+            "branch": "(MANATEGH NAFT KHIZ JONOB)",
+            "swift_code": "BKMTIRTH079"
+        },
+        {
+            "id": 123,
+            "bank": "BANK MELLAT",
+            "city": "ARAK",
+            "branch": "(ARAK BRANCH)",
+            "swift_code": "BKMTIRTH049"
+        },
+        {
+            "id": 124,
+            "bank": "BANK MELLAT",
+            "city": "ARDABIL",
+            "branch": "(ARDABIL)",
+            "swift_code": "BKMTIRTH073"
+        },
+        {
+            "id": 125,
+            "bank": "BANK MELLAT",
+            "city": "BANDAR ABBAS",
+            "branch": "(HORMOZGAN BRANCH)",
+            "swift_code": "BKMTIRTH064"
+        },
+        {
+            "id": 126,
+            "bank": "BANK MELLAT",
+            "city": "BIRJAND",
+            "branch": "(BIRJAND BRANCH)",
+            "swift_code": "BKMTIRTHBBR"
+        },
+        {
+            "id": 127,
+            "bank": "BANK MELLAT",
+            "city": "BOJNOORD",
+            "branch": "(SHARIATI BOJNOORD)",
+            "swift_code": "BKMTIRTH065"
+        },
+        {
+            "id": 128,
+            "bank": "BANK MELLAT",
+            "city": "BUSHEHR",
+            "branch": "(BUSHEHR BRANCH)",
+            "swift_code": "BKMTIRTH053"
+        },
+        {
+            "id": 129,
+            "bank": "BANK MELLAT",
+            "city": "CHABAHAR PORT",
+            "branch": "(CHABAHAR BRANCH)",
+            "swift_code": "BKMTIRTH056"
+        },
+        {
+            "id": 130,
+            "bank": "BANK MELLAT",
+            "city": "GHASRSHIRIN",
+            "branch": "(GHASR SHIRIN)",
+            "swift_code": "BKMTIRTH070"
+        },
+        {
+            "id": 131,
+            "bank": "BANK MELLAT",
+            "city": "GHAZVIN",
+            "branch": "(QAZVIN BRANCH)",
+            "swift_code": "BKMTIRTHQZV"
+        },
+        {
+            "id": 132,
+            "bank": "BANK MELLAT",
+            "city": "GORGAN",
+            "branch": "(GORGAN BR.)",
+            "swift_code": "BKMTIRTHGRG"
+        },
+        {
+            "id": 133,
+            "bank": "BANK MELLAT",
+            "city": "GORGAN",
+            "branch": "(VALI-ASR GORGAN BRANCH)",
+            "swift_code": "BKMTIRTH058"
+        },
+        {
+            "id": 134,
+            "bank": "BANK MELLAT",
+            "city": "HAMADAN",
+            "branch": "(HAMEDAN)",
+            "swift_code": "BKMTIRTH071"
+        },
+        {
+            "id": 135,
+            "bank": "BANK MELLAT",
+            "city": "ISFAHAN",
+            "branch": "(ISFAHAN BRANCH)",
+            "swift_code": "BKMTIRTH041"
+        },
+        {
+            "id": 136,
+            "bank": "BANK MELLAT",
+            "city": "ISFAHAN",
+            "branch": "(SHEIKH SADOGH)",
+            "swift_code": "BKMTIRTH074"
+        },
+        {
+            "id": 137,
+            "bank": "BANK MELLAT",
+            "city": "KARAJ",
+            "branch": "(CHAHAR RAH GOLZAR)",
+            "swift_code": "BKMTIRTH021"
+        },
+        {
+            "id": 138,
+            "bank": "BANK MELLAT",
+            "city": "KARAJ",
+            "branch": "(KARAJ BRANCH)",
+            "swift_code": "BKMTIRTH052"
+        },
+        {
+            "id": 139,
+            "bank": "BANK MELLAT",
+            "city": "KASHAN",
+            "branch": "(KASHAN BRANCH)",
+            "swift_code": "BKMTIRTH090"
+        },
+        {
+            "id": 140,
+            "bank": "BANK MELLAT",
+            "city": "KERMAN",
+            "branch": "(KERMAN BRANCH)",
+            "swift_code": "BKMTIRTH050"
+        },
+        {
+            "id": 141,
+            "bank": "BANK MELLAT",
+            "city": "KERMAN",
+            "branch": "(SHAHID SADOUGHI KERMAN)",
+            "swift_code": "BKMTIRTHSQR"
+        },
+        {
+            "id": 142,
+            "bank": "BANK MELLAT",
+            "city": "KERMANSHAH",
+            "branch": "(CHAHAR RAH BASIJ)",
+            "swift_code": "BKMTIRTH094"
+        },
+        {
+            "id": 143,
+            "bank": "BANK MELLAT",
+            "city": "KERMANSHAH",
+            "branch": "(MARKAZI BRANCH)",
+            "swift_code": "BKMTIRTH057"
+        },
+        {
+            "id": 144,
+            "bank": "BANK MELLAT",
+            "city": "KHORRAMABAD",
+            "branch": "(KHORRAMABAD)",
+            "swift_code": "BKMTIRTH075"
+        },
+        {
+            "id": 145,
+            "bank": "BANK MELLAT",
+            "city": "KISH ISLAND",
+            "branch": "(BAZAR ARABHA)",
+            "swift_code": "BKMTIRTH097"
+        },
+        {
+            "id": 146,
+            "bank": "BANK MELLAT",
+            "city": "KISH ISLAND",
+            "branch": "(BAZAR PARDIS)",
+            "swift_code": "BKMTIRTH096"
+        },
+        {
+            "id": 147,
+            "bank": "BANK MELLAT",
+            "city": "KISH ISLAND",
+            "branch": "(KISH CENTRAL BRANCH)",
+            "swift_code": "BKMTIRTH054"
+        },
+        {
+            "id": 148,
+            "bank": "BANK MELLAT",
+            "city": "KISH ISLAND",
+            "branch": "(MARKAZ TEJARI)",
+            "swift_code": "BKMTIRTH095"
+        },
+        {
+            "id": 149,
+            "bank": "BANK MELLAT",
+            "city": "MASHHAD",
+            "branch": "(ASTANE GHODS BRANCH)",
+            "swift_code": "BKMTIRTH059"
+        },
+        {
+            "id": 150,
+            "bank": "BANK MELLAT",
+            "city": "MASHHAD",
+            "branch": "(DAHOME DEY)",
+            "swift_code": "BKMTIRTH062"
+        },
+        {
+            "id": 151,
+            "bank": "BANK MELLAT",
+            "city": "MASHHAD",
+            "branch": "(MASHHAD BRANCH)",
+            "swift_code": "BKMTIRTH042"
+        },
+        {
+            "id": 152,
+            "bank": "BANK MELLAT",
+            "city": "MASHHAD",
+            "branch": "(SADJAD BLVD. BRANCH)",
+            "swift_code": "BKMTIRTH068"
+        },
+        {
+            "id": 153,
+            "bank": "BANK MELLAT",
+            "city": "ORUMIYEH",
+            "branch": "(MARKAZI BRANCH)",
+            "swift_code": "BKMTIRTH063"
+        },
+        {
+            "id": 154,
+            "bank": "BANK MELLAT",
+            "city": "QAZVIN",
+            "branch": "(SHAHRE SANATI ALBORZ BRANCH)",
+            "swift_code": "BKMTIRTH060"
+        },
+        {
+            "id": 155,
+            "bank": "BANK MELLAT",
+            "city": "QESHM",
+            "branch": "(QESHM CENTRAL BRANCH)",
+            "swift_code": "BKMTIRTH055"
+        },
+        {
+            "id": 156,
+            "bank": "BANK MELLAT",
+            "city": "QOM",
+            "branch": "(QOM)",
+            "swift_code": "BKMTIRTH045"
+        },
+        {
+            "id": 157,
+            "bank": "BANK MELLAT",
+            "city": "RASHT",
+            "branch": "(RASHT BRANCH)",
+            "swift_code": "BKMTIRTH051"
+        },
+        {
+            "id": 158,
+            "bank": "BANK MELLAT",
+            "city": "SANANDAJ",
+            "branch": "(SANANDAJ)",
+            "swift_code": "BKMTIRTH069"
+        },
+        {
+            "id": 159,
+            "bank": "BANK MELLAT",
+            "city": "SARI",
+            "branch": "(SARI EMAM SQUARE BRANCH)",
+            "swift_code": "BKMTIRTH066"
+        },
+        {
+            "id": 160,
+            "bank": "BANK MELLAT",
+            "city": "SEMNAN",
+            "branch": "(SEMNAN BRANCH)",
+            "swift_code": "BKMTIRTH047"
+        },
+        {
+            "id": 161,
+            "bank": "BANK MELLAT",
+            "city": "SHAHREKORD",
+            "branch": "(SHAHREKORD)",
+            "swift_code": "BKMTIRTH077"
+        },
+        {
+            "id": 162,
+            "bank": "BANK MELLAT",
+            "city": "SHIRAZ",
+            "branch": "(SHIRAZ BRANCH)",
+            "swift_code": "BKMTIRTH046"
+        },
+        {
+            "id": 163,
+            "bank": "BANK MELLAT",
+            "city": "SIRJAN",
+            "branch": "(SIRJAN BRANCH)",
+            "swift_code": "BKMTIRTH076"
+        },
+        {
+            "id": 164,
+            "bank": "BANK MELLAT",
+            "city": "TABRIZ",
+            "branch": "(MEYDAN SA'AT)",
+            "swift_code": "BKMTIRTH101"
+        },
+        {
+            "id": 165,
+            "bank": "BANK MELLAT",
+            "city": "TABRIZ",
+            "branch": "(SHAHID MADANI)",
+            "swift_code": "BKMTIRTH089"
+        },
+        {
+            "id": 166,
+            "bank": "BANK MELLAT",
+            "city": "TABRIZ",
+            "branch": "(TABRIZ BRANCH)",
+            "swift_code": "BKMTIRTH043"
+        },
+        {
+            "id": 167,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(ACCOUNTING AND FOREIGN DEBT. DEPT.)",
+            "swift_code": "BKMTIRTHFAC"
+        },
+        {
+            "id": 168,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(ARJANTIN SQUARE BRANCH)",
+            "swift_code": "BKMTIRTH084"
+        },
+        {
+            "id": 169,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(BAZAR BRANCH)",
+            "swift_code": "BKMTIRTH022"
+        },
+        {
+            "id": 170,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(BEHDASHT VA DARMAN BRANCH)",
+            "swift_code": "BKMTIRTH086"
+        },
+        {
+            "id": 171,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(BORSE KALA)",
+            "swift_code": "BKMTIRTH087"
+        },
+        {
+            "id": 172,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(CHAHAR RAHE RASHID BRANCH)",
+            "swift_code": "BKMTIRTH082"
+        },
+        {
+            "id": 173,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(CHAHAR RAHE VALIASR BRANCH)",
+            "swift_code": "BKMTIRTH012"
+        },
+        {
+            "id": 174,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(CHAHARRAH JOMHORI BRANCH)",
+            "swift_code": "BKMTIRTH028"
+        },
+        {
+            "id": 175,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(CORPORATE BANKING)",
+            "swift_code": "BKMTIRTHCOB"
+        },
+        {
+            "id": 176,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(DAMESHGH BRANCH)",
+            "swift_code": "BKMTIRTH014"
+        },
+        {
+            "id": 177,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(DANESHGAH TEHRAN)",
+            "swift_code": "BKMTIRTHDTH"
+        },
+        {
+            "id": 178,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(DOLAT BRANCH)",
+            "swift_code": "BKMTIRTH025"
+        },
+        {
+            "id": 179,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(DR.BEHESHTI)",
+            "swift_code": "BKMTIRTH098"
+        },
+        {
+            "id": 180,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(DR.FATEMI BRANCH)",
+            "swift_code": "BKMTIRTH080"
+        },
+        {
+            "id": 181,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(ESKAN BRANCH)",
+            "swift_code": "BKMTIRTH032"
+        },
+        {
+            "id": 182,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(ESLAMBOL BRANCH)",
+            "swift_code": "BKMTIRTH034"
+        },
+        {
+            "id": 183,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(ESTEGHLAL SQ. BRANCH)",
+            "swift_code": "BKMTIRTH011"
+        },
+        {
+            "id": 184,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(FARAZ ASEMAN SAADAT ABAD BRANCH)",
+            "swift_code": "BKMTIRTHUWS"
+        },
+        {
+            "id": 185,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(FERDOWSI SHOMALI)",
+            "swift_code": "BKMTIRTH091"
+        },
+        {
+            "id": 186,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(FERDOWSI SQ. BRANCH)",
+            "swift_code": "BKMTIRTH013"
+        },
+        {
+            "id": 187,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(FOREIGN EXCHANGE DEPT.)",
+            "swift_code": "BKMTIRTHFXD"
+        },
+        {
+            "id": 188,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(FOREIGN OPERATION DEPT..)",
+            "swift_code": "BKMTIRTHFOD"
+        },
+        {
+            "id": 189,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(GANDI BRANCH)",
+            "swift_code": "BKMTIRTH088"
+        },
+        {
+            "id": 190,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(GHOLHAK BRANCH)",
+            "swift_code": "BKMTIRTH018"
+        },
+        {
+            "id": 191,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(GOLESTANE PASDARAN BRANCH)",
+            "swift_code": "BKMTIRTH037"
+        },
+        {
+            "id": 192,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(GOLFAM AFRICA BRANCH)",
+            "swift_code": "BKMTIRTH033"
+        },
+        {
+            "id": 193,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(HAFTE TIR SQ. BRANCH)",
+            "swift_code": "BKMTIRTH029"
+        },
+        {
+            "id": 194,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(HEJRAT BRANCH)",
+            "swift_code": "BKMTIRTH015"
+        },
+        {
+            "id": 195,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(INTERNATIONAL DIV)",
+            "swift_code": "BKMTIRTHINT"
+        },
+        {
+            "id": 196,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(INTERNATIONAL RELATION DEPT)",
+            "swift_code": "BKMTIRTHREL"
+        },
+        {
+            "id": 197,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(IRAN KAVEH)",
+            "swift_code": "BKMTIRTHIKH"
+        },
+        {
+            "id": 198,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(JEYHOON BRANCH)",
+            "swift_code": "BKMTIRTH036"
+        },
+        {
+            "id": 199,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(KANDOVAN BRANCH)",
+            "swift_code": "BKMTIRTH035"
+        },
+        {
+            "id": 200,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(KHIABAN FAJR)",
+            "swift_code": "BKMTIRTH030"
+        },
+        {
+            "id": 201,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(LETTER OF GUARANTEE DEPT.)",
+            "swift_code": "BKMTIRTHLGD"
+        },
+        {
+            "id": 202,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(MAIN BRANCH)",
+            "swift_code": "BKMTIRTH031"
+        },
+        {
+            "id": 203,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(MARKAZ LALEH MELLAT BRANCH)",
+            "swift_code": "BKMTIRTH019"
+        },
+        {
+            "id": 204,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(MASJED JAME SHAHRAK GHODS BRANCH)",
+            "swift_code": "BKMTIRTH085"
+        },
+        {
+            "id": 205,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(MEYDANE TOHID)",
+            "swift_code": "BKMTIRTH078"
+        },
+        {
+            "id": 206,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(MIRDAMAD BRANCH)",
+            "swift_code": "BKMTIRTH026"
+        },
+        {
+            "id": 207,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(MIRDAMAD-NAFT COMMERCIAL BANKING CENTER)",
+            "swift_code": "BKMTIRTHBMN"
+        },
+        {
+            "id": 208,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(NARENJESTANE PASDARAN BRANCH)",
+            "swift_code": "BKMTIRTH038"
+        },
+        {
+            "id": 209,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(OSTAD NEJATALLAHI SHOMALI)",
+            "swift_code": "BKMTIRTH081"
+        },
+        {
+            "id": 210,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(OVERSEAS BRANCH AFFAIRS AND FOREIGN INVESTMENT DEPT.)",
+            "swift_code": "BKMTIRTHFBA"
+        },
+        {
+            "id": 211,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(PARSKHODRO BRANCH)",
+            "swift_code": "BKMTIRTH023"
+        },
+        {
+            "id": 212,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(PROJECT FINANCING DEPT.)",
+            "swift_code": "BKMTIRTHFIN"
+        },
+        {
+            "id": 213,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(SAADAT ABAD)",
+            "swift_code": "BKMTIRTH092"
+        },
+        {
+            "id": 214,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(SABZE MEYDAN)",
+            "swift_code": "BKMTIRTH093"
+        },
+        {
+            "id": 215,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(SANATI FATH)",
+            "swift_code": "BKMTIRTH020"
+        },
+        {
+            "id": 216,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(SAZMAN GOSTARESH)",
+            "swift_code": "BKMTIRTH100"
+        },
+        {
+            "id": 217,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(SEPAHBOD GHARANI BRANCH)",
+            "swift_code": "BKMTIRTH027"
+        },
+        {
+            "id": 218,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(SERAH TALEGHANI BRANCH)",
+            "swift_code": "BKMTIRTH016"
+        },
+        {
+            "id": 219,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(SETTLEMENT DEPARTMENT)",
+            "swift_code": "BKMTIRTHSTD"
+        },
+        {
+            "id": 220,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(SHAHID SARAFRAZ BRANCH)",
+            "swift_code": "BKMTIRTH039"
+        },
+        {
+            "id": 221,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(VALIASR NABSHE DR.BEHESHTI)",
+            "swift_code": "BKMTIRTH040"
+        },
+        {
+            "id": 222,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(VANAK BRANCH)",
+            "swift_code": "BKMTIRTH024"
+        },
+        {
+            "id": 223,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(VANAK TAK)",
+            "swift_code": "BKMTIRTH099"
+        },
+        {
+            "id": 224,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(VEZARAT NAFT)",
+            "swift_code": "BKMTIRTH017"
+        },
+        {
+            "id": 225,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": "(ZAMYAD BRANCH)",
+            "swift_code": "BKMTIRTH083"
+        },
+        {
+            "id": 226,
+            "bank": "BANK MELLAT",
+            "city": "TEHRAN",
+            "branch": null,
+            "swift_code": "BKMTIRTH"
+        },
+        {
+            "id": 227,
+            "bank": "BANK MELLAT",
+            "city": "YASUJ",
+            "branch": "(YASOUJ BRANCH)",
+            "swift_code": "BKMTIRTHYSJ"
+        },
+        {
+            "id": 228,
+            "bank": "BANK MELLAT",
+            "city": "YAZD",
+            "branch": "(JOMHOURI ESLAMI BLVD.)",
+            "swift_code": "BKMTIRTH061"
+        },
+        {
+            "id": 229,
+            "bank": "BANK MELLAT",
+            "city": "ZAHEDAN",
+            "branch": "(ZAHEDAN BRANCH)",
+            "swift_code": "BKMTIRTH067"
+        },
+        {
+            "id": 230,
+            "bank": "BANK MELLAT",
+            "city": "ZANJAN",
+            "branch": "(ZANJAN BRANCH)",
+            "swift_code": "BKMTIRTH048"
+        },
+        {
+            "id": 231,
+            "bank": "BANK MELLI IRAN",
+            "city": "ABADAN",
+            "branch": "(ABADAN BRANCH)",
+            "swift_code": "MELIIRTHABN"
+        },
+        {
+            "id": 232,
+            "bank": "BANK MELLI IRAN",
+            "city": "AHWAZ",
+            "branch": "(AHWAZ MAIN BRANCH)",
+            "swift_code": "MELIIRTHAHW"
+        },
+        {
+            "id": 233,
+            "bank": "BANK MELLI IRAN",
+            "city": "AMOL",
+            "branch": "( AMOL BR.)",
+            "swift_code": "MELIIRTHAML"
+        },
+        {
+            "id": 234,
+            "bank": "BANK MELLI IRAN",
+            "city": "ARAK",
+            "branch": "(ARAK BRANCH)",
+            "swift_code": "MELIIRTHARK"
+        },
+        {
+            "id": 235,
+            "bank": "BANK MELLI IRAN",
+            "city": "ARDABIL",
+            "branch": "(ARDABIL BRANCH)",
+            "swift_code": "MELIIRTHARD"
+        },
+        {
+            "id": 236,
+            "bank": "BANK MELLI IRAN",
+            "city": "ASTARA",
+            "branch": "(ASTARA BRANCH)",
+            "swift_code": "MELIIRTHAST"
+        },
+        {
+            "id": 237,
+            "bank": "BANK MELLI IRAN",
+            "city": "BABOL",
+            "branch": "(BABOL BRANCH)",
+            "swift_code": "MELIIRTHBBL"
+        },
+        {
+            "id": 238,
+            "bank": "BANK MELLI IRAN",
+            "city": "BANDAR ABBAS",
+            "branch": "(BANDAR ABBAS BRANCH)",
+            "swift_code": "MELIIRTHBND"
+        },
+        {
+            "id": 239,
+            "bank": "BANK MELLI IRAN",
+            "city": "BANDAR ABBAS",
+            "branch": "(GOMROK BANDAR ABBAS BR)",
+            "swift_code": "MELIIRTHGOB"
+        },
+        {
+            "id": 240,
+            "bank": "BANK MELLI IRAN",
+            "city": "BANDAR ANZALI",
+            "branch": "(BANDAR ANZALI BR.)",
+            "swift_code": "MELIIRTHANZ"
+        },
+        {
+            "id": 241,
+            "bank": "BANK MELLI IRAN",
+            "city": "BIRJAND",
+            "branch": "(BIRJAND BRANCH)",
+            "swift_code": "MELIIRTHBIR"
+        },
+        {
+            "id": 242,
+            "bank": "BANK MELLI IRAN",
+            "city": "BOJNOORD",
+            "branch": "(BOJNOORD BRANCH)",
+            "swift_code": "MELIIRTHBJN"
+        },
+        {
+            "id": 243,
+            "bank": "BANK MELLI IRAN",
+            "city": "BROUJERD",
+            "branch": "(BROUJERD BR.)",
+            "swift_code": "MELIIRTHBRJ"
+        },
+        {
+            "id": 244,
+            "bank": "BANK MELLI IRAN",
+            "city": "BUSHEHR",
+            "branch": "(BANDAR BOUSHEHR BRANCH)",
+            "swift_code": "MELIIRTHBSH"
+        },
+        {
+            "id": 245,
+            "bank": "BANK MELLI IRAN",
+            "city": "GHAEM SHAHR",
+            "branch": "(GHAEM SHAHR BR.)",
+            "swift_code": "MELIIRTHGHM"
+        },
+        {
+            "id": 246,
+            "bank": "BANK MELLI IRAN",
+            "city": "GONBAD-E QABUS",
+            "branch": "(GONBAD-E-KAVOOS BRANCH)",
+            "swift_code": "MELIIRTHGNB"
+        },
+        {
+            "id": 247,
+            "bank": "BANK MELLI IRAN",
+            "city": "GORGAN",
+            "branch": "(GORGAN BRANCH)",
+            "swift_code": "MELIIRTHGOR"
+        },
+        {
+            "id": 248,
+            "bank": "BANK MELLI IRAN",
+            "city": "HAMADAN",
+            "branch": "(HAMADAN BRANCH)",
+            "swift_code": "MELIIRTHHMN"
+        },
+        {
+            "id": 249,
+            "bank": "BANK MELLI IRAN",
+            "city": "ILAM",
+            "branch": "(ILAM BR.)",
+            "swift_code": "MELIIRTHILM"
+        },
+        {
+            "id": 250,
+            "bank": "BANK MELLI IRAN",
+            "city": "ISFAHAN",
+            "branch": "(ISFAHAN FERDOWSI AVE.)",
+            "swift_code": "MELIIRTHKFI"
+        },
+        {
+            "id": 251,
+            "bank": "BANK MELLI IRAN",
+            "city": "ISFAHAN",
+            "branch": "(ISFAHAN FEYZ SQ. BR.)",
+            "swift_code": "MELIIRTHFYZ"
+        },
+        {
+            "id": 252,
+            "bank": "BANK MELLI IRAN",
+            "city": "ISFAHAN",
+            "branch": "(ISFAHAN MAIN BRANCH)",
+            "swift_code": "MELIIRTHIFN"
+        },
+        {
+            "id": 253,
+            "bank": "BANK MELLI IRAN",
+            "city": "ISFAHAN",
+            "branch": "(ISFAHAN SAADAT ABAD AVE.)",
+            "swift_code": "MELIIRTHKSI"
+        },
+        {
+            "id": 254,
+            "bank": "BANK MELLI IRAN",
+            "city": "ISFAHAN",
+            "branch": "(MEYDAN EMAM HOSSEIN)",
+            "swift_code": "MELIIRTHEHI"
+        },
+        {
+            "id": 255,
+            "bank": "BANK MELLI IRAN",
+            "city": "ISFAHAN",
+            "branch": "(MOBARAKEH STEEL COMPLEX)",
+            "swift_code": "MELIIRTHMSC"
+        },
+        {
+            "id": 256,
+            "bank": "BANK MELLI IRAN",
+            "city": "JOLFA",
+            "branch": "(JOLFA BR.)",
+            "swift_code": "MELIIRTHJLF"
+        },
+        {
+            "id": 257,
+            "bank": "BANK MELLI IRAN",
+            "city": "KARAJ",
+            "branch": "(JAHANSHAHR-E-KARAJ BRANCH)",
+            "swift_code": "MELIIRTHJSK"
+        },
+        {
+            "id": 258,
+            "bank": "BANK MELLI IRAN",
+            "city": "KARAJ",
+            "branch": "(KARAJ BRANCH)",
+            "swift_code": "MELIIRTHKRJ"
+        },
+        {
+            "id": 259,
+            "bank": "BANK MELLI IRAN",
+            "city": "KASHAN",
+            "branch": "(KASHAN BRANCH)",
+            "swift_code": "MELIIRTHKSN"
+        },
+        {
+            "id": 260,
+            "bank": "BANK MELLI IRAN",
+            "city": "KERMAN",
+            "branch": "(JIROFT BR.)",
+            "swift_code": "MELIIRTHJIR"
+        },
+        {
+            "id": 261,
+            "bank": "BANK MELLI IRAN",
+            "city": "KERMAN",
+            "branch": "(KERMAN MAIN BRANCH)",
+            "swift_code": "MELIIRTHKER"
+        },
+        {
+            "id": 262,
+            "bank": "BANK MELLI IRAN",
+            "city": "KERMANSHAH",
+            "branch": "(KERMANSHAH BRANCH)",
+            "swift_code": "MELIIRTHKMN"
+        },
+        {
+            "id": 263,
+            "bank": "BANK MELLI IRAN",
+            "city": "KHORRAM SHAHR",
+            "branch": "(KHORRAM SHAHR BR.)",
+            "swift_code": "MELIIRTHKHM"
+        },
+        {
+            "id": 264,
+            "bank": "BANK MELLI IRAN",
+            "city": "KHORRAMABAD",
+            "branch": "(KHORRAM ABAD BR.)",
+            "swift_code": "MELIIRTHKHO"
+        },
+        {
+            "id": 265,
+            "bank": "BANK MELLI IRAN",
+            "city": "KISH ISLAND",
+            "branch": "(KISH ISLAND BRANCH)",
+            "swift_code": "MELIIRTHKIS"
+        },
+        {
+            "id": 266,
+            "bank": "BANK MELLI IRAN",
+            "city": "LAHIJAN",
+            "branch": "(LAHIJAN BR.)",
+            "swift_code": "MELIIRTHLHJ"
+        },
+        {
+            "id": 267,
+            "bank": "BANK MELLI IRAN",
+            "city": "MARAGHEH",
+            "branch": "(MARAGHEH BR.)",
+            "swift_code": "MELIIRTHMAR"
+        },
+        {
+            "id": 268,
+            "bank": "BANK MELLI IRAN",
+            "city": "MASHHAD",
+            "branch": "(MASHHAD MAIN BRANCH)",
+            "swift_code": "MELIIRTHMHD"
+        },
+        {
+            "id": 269,
+            "bank": "BANK MELLI IRAN",
+            "city": "MASHHAD",
+            "branch": "(MASHHAD RAHNAMAIE AVE. BR.)",
+            "swift_code": "MELIIRTHRHN"
+        },
+        {
+            "id": 270,
+            "bank": "BANK MELLI IRAN",
+            "city": "MASHHAD",
+            "branch": "(SAJAD BLVD BRANCH)",
+            "swift_code": "MELIIRTHSJD"
+        },
+        {
+            "id": 271,
+            "bank": "BANK MELLI IRAN",
+            "city": "MAYBOD",
+            "branch": "(MAYBOD BR.)",
+            "swift_code": "MELIIRTHMBD"
+        },
+        {
+            "id": 272,
+            "bank": "BANK MELLI IRAN",
+            "city": "NEYSHABUR",
+            "branch": "(NEYSHABUR BR.)",
+            "swift_code": "MELIIRTHNEY"
+        },
+        {
+            "id": 273,
+            "bank": "BANK MELLI IRAN",
+            "city": "NOSHAHR",
+            "branch": "(NOSHAHR BR.)",
+            "swift_code": "MELIIRTHNOS"
+        },
+        {
+            "id": 274,
+            "bank": "BANK MELLI IRAN",
+            "city": "ORUMIYEH",
+            "branch": "(ORUMIEH BRANCH)",
+            "swift_code": "MELIIRTHORU"
+        },
+        {
+            "id": 275,
+            "bank": "BANK MELLI IRAN",
+            "city": "ORUMIYEH",
+            "branch": "(ORUMIYEH MODARES BR.)",
+            "swift_code": "MELIIRTHMDR"
+        },
+        {
+            "id": 276,
+            "bank": "BANK MELLI IRAN",
+            "city": "QASR E SHIRIN",
+            "branch": "(QASR E SHIRIN BR.)",
+            "swift_code": "MELIIRTHQAS"
+        },
+        {
+            "id": 277,
+            "bank": "BANK MELLI IRAN",
+            "city": "QAZVIN",
+            "branch": "(ALBORZ INDUSTRIAL CITY BR.)",
+            "swift_code": "MELIIRTHAIC"
+        },
+        {
+            "id": 278,
+            "bank": "BANK MELLI IRAN",
+            "city": "QAZVIN",
+            "branch": "(QAZVIN BRANCH)",
+            "swift_code": "MELIIRTHQZN"
+        },
+        {
+            "id": 279,
+            "bank": "BANK MELLI IRAN",
+            "city": "QAZVIN",
+            "branch": "(QAZVIN VALIASR SQ.)",
+            "swift_code": "MELIIRTHMVQ"
+        },
+        {
+            "id": 280,
+            "bank": "BANK MELLI IRAN",
+            "city": "QESHM",
+            "branch": "(QESHM ISLAND BRANCH)",
+            "swift_code": "MELIIRTHQSH"
+        },
+        {
+            "id": 281,
+            "bank": "BANK MELLI IRAN",
+            "city": "QOM",
+            "branch": "(QOM BRANCH)",
+            "swift_code": "MELIIRTHQOM"
+        },
+        {
+            "id": 282,
+            "bank": "BANK MELLI IRAN",
+            "city": "QUCHAN",
+            "branch": "(GHOOCHAN BRANCH)",
+            "swift_code": "MELIIRTHHI7"
+        },
+        {
+            "id": 283,
+            "bank": "BANK MELLI IRAN",
+            "city": "RAFSANJAN",
+            "branch": "(RAFSANJAN BR.)",
+            "swift_code": "MELIIRTHRSJ"
+        },
+        {
+            "id": 284,
+            "bank": "BANK MELLI IRAN",
+            "city": "RASHT",
+            "branch": "(GOLSAR RASHT BR.)",
+            "swift_code": "MELIIRTHGOL"
+        },
+        {
+            "id": 285,
+            "bank": "BANK MELLI IRAN",
+            "city": "RASHT",
+            "branch": "(RASHT BRANCH)",
+            "swift_code": "MELIIRTHRSH"
+        },
+        {
+            "id": 286,
+            "bank": "BANK MELLI IRAN",
+            "city": "SABZEVAR",
+            "branch": "(SABZEVAR BR.)",
+            "swift_code": "MELIIRTHSBZ"
+        },
+        {
+            "id": 287,
+            "bank": "BANK MELLI IRAN",
+            "city": "SANANDAJ",
+            "branch": "(SANANDAJ BRANCH)",
+            "swift_code": "MELIIRTHSNJ"
+        },
+        {
+            "id": 288,
+            "bank": "BANK MELLI IRAN",
+            "city": "SARI",
+            "branch": "(SARI BRANCH)",
+            "swift_code": "MELIIRTHSRI"
+        },
+        {
+            "id": 289,
+            "bank": "BANK MELLI IRAN",
+            "city": "SARI",
+            "branch": "(SARI FARHANG AVE.)",
+            "swift_code": "MELIIRTHKFS"
+        },
+        {
+            "id": 290,
+            "bank": "BANK MELLI IRAN",
+            "city": "SAVEH",
+            "branch": "(SAVEH BR.)",
+            "swift_code": "MELIIRTHSVH"
+        },
+        {
+            "id": 291,
+            "bank": "BANK MELLI IRAN",
+            "city": "SEMNAN",
+            "branch": "(SEMNAN BRANCH)",
+            "swift_code": "MELIIRTHSEM"
+        },
+        {
+            "id": 292,
+            "bank": "BANK MELLI IRAN",
+            "city": "SHAHREKORD",
+            "branch": "(SHAHREKORD BRANCH)",
+            "swift_code": "MELIIRTHSHK"
+        },
+        {
+            "id": 293,
+            "bank": "BANK MELLI IRAN",
+            "city": "SHIRAZ",
+            "branch": "(SHIRAZ KOSAR BR.)",
+            "swift_code": "MELIIRTHKSR"
+        },
+        {
+            "id": 294,
+            "bank": "BANK MELLI IRAN",
+            "city": "SHIRAZ",
+            "branch": "(SHIRAZ MAIN BRANCH)",
+            "swift_code": "MELIIRTHSHI"
+        },
+        {
+            "id": 295,
+            "bank": "BANK MELLI IRAN",
+            "city": "SIRJAN",
+            "branch": "(SIRJAN BR.)",
+            "swift_code": "MELIIRTHSRJ"
+        },
+        {
+            "id": 296,
+            "bank": "BANK MELLI IRAN",
+            "city": "TABRIZ",
+            "branch": "(TABRIZ MAIN BRANCH)",
+            "swift_code": "MELIIRTHTBZ"
+        },
+        {
+            "id": 297,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(15 KHORDAD BRANCH)",
+            "swift_code": "MELIIRTH203"
+        },
+        {
+            "id": 298,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(ABSHAR VALIASR)",
+            "swift_code": "MELIIRTH999"
+        },
+        {
+            "id": 299,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(AFARINESH BR.)",
+            "swift_code": "MELIIRTHAFR"
+        },
+        {
+            "id": 300,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(AMIRIYEH BRANCH)",
+            "swift_code": "MELIIRTH102"
+        },
+        {
+            "id": 301,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(ANAHITA BRANCH)",
+            "swift_code": "MELIIRTH965"
+        },
+        {
+            "id": 302,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(APADANA)",
+            "swift_code": "MELIIRTH08A"
+        },
+        {
+            "id": 303,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(AREF BRANCH)",
+            "swift_code": "MELIIRTH208"
+        },
+        {
+            "id": 304,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(ARK)",
+            "swift_code": "MELIIRTH08I"
+        },
+        {
+            "id": 305,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(ASAD ABADI SQ. BR.)",
+            "swift_code": "MELIIRTH225"
+        },
+        {
+            "id": 306,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(BAGH FERDOWS)",
+            "swift_code": "MELIIRTH230"
+        },
+        {
+            "id": 307,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(BAGHER SHAHR)",
+            "swift_code": "MELIIRTH817"
+        },
+        {
+            "id": 308,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(BAZAR BRANCH)",
+            "swift_code": "MELIIRTH063"
+        },
+        {
+            "id": 309,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(BORJ -E- ARMITA BRANCH)",
+            "swift_code": "MELIIRTHARM"
+        },
+        {
+            "id": 310,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(BORJE GOLNAR ELAHIEH)",
+            "swift_code": "MELIIRTH328"
+        },
+        {
+            "id": 311,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(BOZORGRAH AFRIGHA)",
+            "swift_code": "MELIIRTH966"
+        },
+        {
+            "id": 312,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(CENTRAL BRANCH)",
+            "swift_code": "MELIIRTH060"
+        },
+        {
+            "id": 313,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(COLLEDGE BRANCH)",
+            "swift_code": "MELIIRTH433"
+        },
+        {
+            "id": 314,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(DANESHGHAH BRANCH)",
+            "swift_code": "MELIIRTH087"
+        },
+        {
+            "id": 315,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(DEHKHODA BR.)",
+            "swift_code": "MELIIRTH212"
+        },
+        {
+            "id": 316,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(DR. SHARIATI BR.)",
+            "swift_code": "MELIIRTH142"
+        },
+        {
+            "id": 317,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(EGHBAL)",
+            "swift_code": "MELIIRTH501"
+        },
+        {
+            "id": 318,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(EMAM HOSSEIN BRANCH)",
+            "swift_code": "MELIIRTH119"
+        },
+        {
+            "id": 319,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(ENGHELAB AVE BR)",
+            "swift_code": "MELIIRTH093"
+        },
+        {
+            "id": 320,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(ESKAN BRANCH)",
+            "swift_code": "MELIIRTHESK"
+        },
+        {
+            "id": 321,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(FERDOWSI BRANCH)",
+            "swift_code": "MELIIRTH137"
+        },
+        {
+            "id": 322,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(FORODGAH MEHRABAD)",
+            "swift_code": "MELIIRTHMHR"
+        },
+        {
+            "id": 323,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(GUARANTEE DEPT)",
+            "swift_code": "MELIIRTHLGD"
+        },
+        {
+            "id": 324,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(HAFEZ BRANCH)",
+            "swift_code": "MELIIRTH075"
+        },
+        {
+            "id": 325,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(HAFTOME TEER BRANCH)",
+            "swift_code": "MELIIRTH444"
+        },
+        {
+            "id": 326,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(HAJ VA ZIARAT BR.)",
+            "swift_code": "MELIIRTH304"
+        },
+        {
+            "id": 327,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(IMAM KHOMEINI AIRPORT BR.)",
+            "swift_code": "MELIIRTHIIA"
+        },
+        {
+            "id": 328,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(IMAM KHOMEINI RELIEF FOUNDATION BR)",
+            "swift_code": "MELIIRTH526"
+        },
+        {
+            "id": 329,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(INTERNATIONAL DEPT)",
+            "swift_code": "MELIIRTHINT"
+        },
+        {
+            "id": 330,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(INT'L FAIR BR.)",
+            "swift_code": "MELIIRTHTIF"
+        },
+        {
+            "id": 331,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(IRAN KHODROW BRANCH)",
+            "swift_code": "MELIIRTHKHD"
+        },
+        {
+            "id": 332,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(ISSAR BRANCH)",
+            "swift_code": "MELIIRTH179"
+        },
+        {
+            "id": 333,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(JAHAN KOODAK)",
+            "swift_code": "MELIIRTHJKD"
+        },
+        {
+            "id": 334,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(KARIMKHAN ZAND)",
+            "swift_code": "MELIIRTH168"
+        },
+        {
+            "id": 335,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(KARKHANE ARJ)",
+            "swift_code": "MELIIRTH07I"
+        },
+        {
+            "id": 336,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(KASHEF BRANCH)",
+            "swift_code": "MELIIRTHKSF"
+        },
+        {
+            "id": 337,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(KHASHAYAR BRANCH)",
+            "swift_code": "MELIIRTH544"
+        },
+        {
+            "id": 338,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(KHIABANE MOGHADASE ARDEBILI)",
+            "swift_code": "MELIIRTH305"
+        },
+        {
+            "id": 339,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(KHIYABANE DANESHGAHE MASHAD)",
+            "swift_code": "MELIIRTHKDM"
+        },
+        {
+            "id": 340,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(KHOJASTEH BR)",
+            "swift_code": "MELIIRTH799"
+        },
+        {
+            "id": 341,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(MELLAT BRANCH)",
+            "swift_code": "MELIIRTH141"
+        },
+        {
+            "id": 342,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(MEYDAN JAHAD)",
+            "swift_code": "MELIIRTH721"
+        },
+        {
+            "id": 343,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(MEYDAN OSTAD MOEIN BR.)",
+            "swift_code": "MELIIRTHOST"
+        },
+        {
+            "id": 344,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(MEYDAN SHOHADA BRANCH)",
+            "swift_code": "MELIIRTH081"
+        },
+        {
+            "id": 345,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(MIRDAMAD)",
+            "swift_code": "MELIIRTH064"
+        },
+        {
+            "id": 346,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(MIRZAYE SHIRAZI ST. )",
+            "swift_code": "MELIIRTH169"
+        },
+        {
+            "id": 347,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(MOKHABERAT BR.)",
+            "swift_code": "MELIIRTHMKH"
+        },
+        {
+            "id": 348,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(MOLAVI BRANCH)",
+            "swift_code": "MELIIRTH111"
+        },
+        {
+            "id": 349,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(NADERI BRANCH)",
+            "swift_code": "MELIIRTH159"
+        },
+        {
+            "id": 350,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(NASSER KHOSROW BRANCH)",
+            "swift_code": "MELIIRTH068"
+        },
+        {
+            "id": 351,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(NEMOUNEH MOMTAZ MELLI)",
+            "swift_code": "MELIIRTHNMM"
+        },
+        {
+            "id": 352,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(NIAVARAN BR.)",
+            "swift_code": "MELIIRTHNVR"
+        },
+        {
+            "id": 353,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(NOWBAHAR BRANCH)",
+            "swift_code": "MELIIRTH302"
+        },
+        {
+            "id": 354,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(PACHENAR BRANCH)",
+            "swift_code": "MELIIRTH202"
+        },
+        {
+            "id": 355,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(PALAYESHGAH-E-TEHRAN BR.)",
+            "swift_code": "MELIIRTHPLT"
+        },
+        {
+            "id": 356,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(PARDIS BR.)",
+            "swift_code": "MELIIRTHPDR"
+        },
+        {
+            "id": 357,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(PARK AVE. BR.)",
+            "swift_code": "MELIIRTH183"
+        },
+        {
+            "id": 358,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(PARSA BRANCH)",
+            "swift_code": "MELIIRTH974"
+        },
+        {
+            "id": 359,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(PAYAM ENGHELAB)",
+            "swift_code": "MELIIRTH098"
+        },
+        {
+            "id": 360,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(SAADAT-ABAD BRANCH)",
+            "swift_code": "MELIIRTHSDT"
+        },
+        {
+            "id": 361,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(SAADI BRANCH)",
+            "swift_code": "MELIIRTH069"
+        },
+        {
+            "id": 362,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(SABA BRANCH)",
+            "swift_code": "MELIIRTH546"
+        },
+        {
+            "id": 363,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(SADEGHIEH BR.)",
+            "swift_code": "MELIIRTH223"
+        },
+        {
+            "id": 364,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(SARAYE HAAJ HASSAN BRANCH)",
+            "swift_code": "MELIIRTH091"
+        },
+        {
+            "id": 365,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(SEYED KHANDAN BR.)",
+            "swift_code": "MELIIRTH214"
+        },
+        {
+            "id": 366,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(SHAHID FAHMIDEH BR.)",
+            "swift_code": "MELIIRTH342"
+        },
+        {
+            "id": 367,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(SHAHIN BRANCH)",
+            "swift_code": "MELIIRTH962"
+        },
+        {
+            "id": 368,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(SHAHRAK-E-EKBATAN)",
+            "swift_code": "MELIIRTHEKB"
+        },
+        {
+            "id": 369,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(SHAHR-E RAY BR.)",
+            "swift_code": "MELIIRTH237"
+        },
+        {
+            "id": 370,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(SOHEIL BR.)",
+            "swift_code": "MELIIRTH220"
+        },
+        {
+            "id": 371,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(SOUTH MEHRABAD BR.)",
+            "swift_code": "MELIIRTH219"
+        },
+        {
+            "id": 372,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(T AMIRAT-E-TAVANIR-E-KARAJ)",
+            "swift_code": "MELIIRTHTTK"
+        },
+        {
+            "id": 373,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(TAJRISH BR.)",
+            "swift_code": "MELIIRTH228"
+        },
+        {
+            "id": 374,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(TEHRANPARS BRANCH)",
+            "swift_code": "MELIIRTH215"
+        },
+        {
+            "id": 375,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(VAHDAT BRANCH)",
+            "swift_code": "MELIIRTH090"
+        },
+        {
+            "id": 376,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(VELAYAT BRANCH)",
+            "swift_code": "MELIIRTH559"
+        },
+        {
+            "id": 377,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(VEZARATE OMOURE KHAREJEH BR.)",
+            "swift_code": "MELIIRTHMFA"
+        },
+        {
+            "id": 378,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(ZAFAR ST. BR)",
+            "swift_code": "MELIIRTH120"
+        },
+        {
+            "id": 379,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": "(ZEBARJAD BR.)",
+            "swift_code": "MELIIRTHZBJ"
+        },
+        {
+            "id": 380,
+            "bank": "BANK MELLI IRAN",
+            "city": "TEHRAN",
+            "branch": null,
+            "swift_code": "MELIIRTH"
+        },
+        {
+            "id": 381,
+            "bank": "BANK MELLI IRAN",
+            "city": "TONEKABON",
+            "branch": "(TONEKABON)",
+            "swift_code": "MELIIRTHTNK"
+        },
+        {
+            "id": 382,
+            "bank": "BANK MELLI IRAN",
+            "city": "YASUJ",
+            "branch": "(YASUJ BR.)",
+            "swift_code": "MELIIRTHYSJ"
+        },
+        {
+            "id": 383,
+            "bank": "BANK MELLI IRAN",
+            "city": "YAZD",
+            "branch": "(ARDAKANE YAZD)",
+            "swift_code": "MELIIRTH787"
+        },
+        {
+            "id": 384,
+            "bank": "BANK MELLI IRAN",
+            "city": "YAZD",
+            "branch": "(GHADIR YAZD BR.)",
+            "swift_code": "MELIIRTHGDR"
+        },
+        {
+            "id": 385,
+            "bank": "BANK MELLI IRAN",
+            "city": "YAZD",
+            "branch": "(YAZD BRANCH)",
+            "swift_code": "MELIIRTHYAZ"
+        },
+        {
+            "id": 386,
+            "bank": "BANK MELLI IRAN",
+            "city": "ZAHEDAN",
+            "branch": "(ZAHEDAN BRANCH)",
+            "swift_code": "MELIIRTHZHD"
+        },
+        {
+            "id": 387,
+            "bank": "BANK MELLI IRAN",
+            "city": "ZANJAN",
+            "branch": "(KHORRAM SHAHR ST. BR.)",
+            "swift_code": "MELIIRTHKZN"
+        },
+        {
+            "id": 388,
+            "bank": "BANK MELLI IRAN",
+            "city": "ZANJAN",
+            "branch": "(ZANJAN BRANCH)",
+            "swift_code": "MELIIRTHZNJ"
+        },
+        {
+            "id": 389,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "AHWAZ",
+            "branch": "(AHWAZ BRANCH)",
+            "swift_code": "BOIMIRTHAHW"
+        },
+        {
+            "id": 390,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "ARAK",
+            "branch": "(ARAK)",
+            "swift_code": "BOIMIRTHARK"
+        },
+        {
+            "id": 391,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "ARDABIL",
+            "branch": "(ARDEBIL)",
+            "swift_code": "BOIMIRTHADB"
+        },
+        {
+            "id": 392,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "BANDAR ABBAS",
+            "branch": "(BANDAR ABBAS)",
+            "swift_code": "BOIMIRTHBAN"
+        },
+        {
+            "id": 393,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "BIRJAND",
+            "branch": "(BIRJAND)",
+            "swift_code": "BOIMIRTHBRJ"
+        },
+        {
+            "id": 394,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "BOJNOORD",
+            "branch": "(BOJNOORD)",
+            "swift_code": "BOIMIRTHBOJ"
+        },
+        {
+            "id": 395,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "BUSHEHR",
+            "branch": "(BUSHEHR)",
+            "swift_code": "BOIMIRTHBSH"
+        },
+        {
+            "id": 396,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "GORGAN",
+            "branch": "(GORGAN)",
+            "swift_code": "BOIMIRTHGOR"
+        },
+        {
+            "id": 397,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "HAMADAN",
+            "branch": "(HAMEDAN)",
+            "swift_code": "BOIMIRTHHMD"
+        },
+        {
+            "id": 398,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "ILAM",
+            "branch": "(ILAM)",
+            "swift_code": "BOIMIRTHILM"
+        },
+        {
+            "id": 399,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "ISFAHAN",
+            "branch": "(ISFAHAN BRANCH)",
+            "swift_code": "BOIMIRTHISF"
+        },
+        {
+            "id": 400,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "KARAJ",
+            "branch": "(KARAJ BRANCH)",
+            "swift_code": "BOIMIRTHKRJ"
+        },
+        {
+            "id": 401,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "KERMAN",
+            "branch": "(KERMAN)",
+            "swift_code": "BOIMIRTHKER"
+        },
+        {
+            "id": 402,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "KERMANSHAH",
+            "branch": "(KERMANSHAH)",
+            "swift_code": "BOIMIRTHKMS"
+        },
+        {
+            "id": 403,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "KHORRAMABAD",
+            "branch": "(KHORAM ABAD)",
+            "swift_code": "BOIMIRTHKHO"
+        },
+        {
+            "id": 404,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "KISH ISLAND",
+            "branch": "(KISH ISLAND BRANCH)",
+            "swift_code": "BOIMIRTHKSH"
+        },
+        {
+            "id": 405,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "MASHHAD",
+            "branch": "(MASHHAD)",
+            "swift_code": "BOIMIRTHMSH"
+        },
+        {
+            "id": 406,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "ORUMIYEH",
+            "branch": "(ORUMYEH)",
+            "swift_code": "BOIMIRTHORM"
+        },
+        {
+            "id": 407,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "QAZVIN",
+            "branch": "(QAZVIN INDUSTRIAL CITY BRANCH)",
+            "swift_code": "BOIMIRTHQIC"
+        },
+        {
+            "id": 408,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "QAZVIN",
+            "branch": "(QAZVIN)",
+            "swift_code": "BOIMIRTHQZN"
+        },
+        {
+            "id": 409,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "QESHM",
+            "branch": "(QESHM)",
+            "swift_code": "BOIMIRTHQSH"
+        },
+        {
+            "id": 410,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "QOM",
+            "branch": "(QOM BRANCH)",
+            "swift_code": "BOIMIRTHQOM"
+        },
+        {
+            "id": 411,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "QOM",
+            "branch": "(SKOHOUHIE QOM INDUSTRIAL CITY BRANCH)",
+            "swift_code": "BOIMIRTHSQI"
+        },
+        {
+            "id": 412,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "RASHT",
+            "branch": "(RASHT BRANCH)",
+            "swift_code": "BOIMIRTHRSH"
+        },
+        {
+            "id": 413,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "SANANDAJ",
+            "branch": "(SANANDAJ)",
+            "swift_code": "BOIMIRTHSNJ"
+        },
+        {
+            "id": 414,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "SARI",
+            "branch": "(SARI)",
+            "swift_code": "BOIMIRTHSRI"
+        },
+        {
+            "id": 415,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "SEMNAN",
+            "branch": "(SEMNAN)",
+            "swift_code": "BOIMIRTHSEM"
+        },
+        {
+            "id": 416,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "SEMNAN",
+            "branch": "(SHAHROOD BRANCH)",
+            "swift_code": "BOIMIRTHSHA"
+        },
+        {
+            "id": 417,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "SHAHREKORD",
+            "branch": "(SHAHREKORD)",
+            "swift_code": "BOIMIRTHSHK"
+        },
+        {
+            "id": 418,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "SHIRAZ",
+            "branch": "(SHIRAZ)",
+            "swift_code": "BOIMIRTHSRZ"
+        },
+        {
+            "id": 419,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "TABRIZ",
+            "branch": "(TABRIZ)",
+            "swift_code": "BOIMIRTHTAB"
+        },
+        {
+            "id": 420,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "TEHRAN",
+            "branch": "(CENTRAL BRANCH)",
+            "swift_code": "BOIMIRTHCEN"
+        },
+        {
+            "id": 421,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "TEHRAN",
+            "branch": "(DOKHANIAT BRANCH)",
+            "swift_code": "BOIMIRTHDKH"
+        },
+        {
+            "id": 422,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "TEHRAN",
+            "branch": "(FOULAD BRANCH)",
+            "swift_code": "BOIMIRTHFLD"
+        },
+        {
+            "id": 423,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "TEHRAN",
+            "branch": "(GOSTARESH BRANCH)",
+            "swift_code": "BOIMIRTHGSH"
+        },
+        {
+            "id": 424,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "TEHRAN",
+            "branch": "(HAFEZ BRANCH)",
+            "swift_code": "BOIMIRTHHAF"
+        },
+        {
+            "id": 425,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "TEHRAN",
+            "branch": "(KARIM KHAN BRANCH)",
+            "swift_code": "BOIMIRTHKAR"
+        },
+        {
+            "id": 426,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "TEHRAN",
+            "branch": "(SANAT BRANCH)",
+            "swift_code": "BOIMIRTHSAN"
+        },
+        {
+            "id": 427,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "TEHRAN",
+            "branch": "(SETAD)",
+            "swift_code": "BOIMIRTHHQA"
+        },
+        {
+            "id": 428,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "TEHRAN",
+            "branch": "(TOSEE MELLI)",
+            "swift_code": "BOIMIRTHTMB"
+        },
+        {
+            "id": 429,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "TEHRAN",
+            "branch": "(TREASURY DEPARTMENT)",
+            "swift_code": "BOIMIRTHSHB"
+        },
+        {
+            "id": 430,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "TEHRAN",
+            "branch": null,
+            "swift_code": "BOIMIRTH"
+        },
+        {
+            "id": 431,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "YASUJ",
+            "branch": "(YASOUJ)",
+            "swift_code": "BOIMIRTHYSJ"
+        },
+        {
+            "id": 432,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "YAZD",
+            "branch": "(YAZD)",
+            "swift_code": "BOIMIRTHYAZ"
+        },
+        {
+            "id": 433,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "ZAHEDAN",
+            "branch": "(ZAHEDAN)",
+            "swift_code": "BOIMIRTHZAH"
+        },
+        {
+            "id": 434,
+            "bank": "BANK OF INDUSTRY AND MINE",
+            "city": "ZANJAN",
+            "branch": "(ZANJAN)",
+            "swift_code": "BOIMIRTHZNJ"
+        },
+        {
+            "id": 435,
+            "bank": "BANK PASARGAD",
+            "city": "AMOL",
+            "branch": "(AMOL FOREIGN EXCHANGE MAIN BRANCH)",
+            "swift_code": "BKBPIRTH170"
+        },
+        {
+            "id": 436,
+            "bank": "BANK PASARGAD",
+            "city": "ISFAHAN",
+            "branch": "(ISFAHAN FOREIGN EXCHANGE MAIN BRANCH)",
+            "swift_code": "BKBPIRTH130"
+        },
+        {
+            "id": 437,
             "bank": "BANK PASARGAD",
             "city": "ISFAHAN",
             "branch": "(SAADAT ABAD ST.,)",
             "swift_code": "BKBPIRTHIS1"
         },
         {
-            "id": 91,
+            "id": 438,
             "bank": "BANK PASARGAD",
             "city": "KISH ISLAND",
             "branch": null,
             "swift_code": "BKBPIRTHKS1"
         },
         {
-            "id": 92,
+            "id": 439,
+            "bank": "BANK PASARGAD",
+            "city": "MASHHAD",
+            "branch": "(MASHHAD FOREIGN EXCHANGE MAIN BRANCH)",
+            "swift_code": "BKBPIRTH100"
+        },
+        {
+            "id": 440,
+            "bank": "BANK PASARGAD",
+            "city": "TABRIZ",
+            "branch": "(TABRIZ FOREIGN EXCHANGE MAIN BRANCH)",
+            "swift_code": "BKBPIRTH160"
+        },
+        {
+            "id": 441,
             "bank": "BANK PASARGAD",
             "city": "TEHRAN",
             "branch": "(CENTRAL BRANCH, NO.430, MIRDAMAD BLVD.,)",
             "swift_code": "BKBPIRTH201"
         },
         {
-            "id": 93,
+            "id": 442,
+            "bank": "BANK PASARGAD",
+            "city": "TEHRAN",
+            "branch": "(TREASURY DEPT.)",
+            "swift_code": "BKBPIRTHTRY"
+        },
+        {
+            "id": 443,
             "bank": "BANK PASARGAD",
             "city": "TEHRAN",
             "branch": null,
             "swift_code": "BKBPIRTH"
         },
         {
-            "id": 94,
+            "id": 444,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "AHWAZ",
+            "branch": "(AHWAZ CENTRAL BRANCH)",
+            "swift_code": "REFAIRTH205"
+        },
+        {
+            "id": 445,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "ALBORZ",
+            "branch": "(KARAJ BRANCH)",
+            "swift_code": "REFAIRTH877"
+        },
+        {
+            "id": 446,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "ARAK",
+            "branch": "(ARAK CENTRAL BRANCH)",
+            "swift_code": "REFAIRTH222"
+        },
+        {
+            "id": 447,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "BANDAR ABBAS",
+            "branch": "(BANDAR ABBAS CENTRAL BRANCH)",
+            "swift_code": "REFAIRTH218"
+        },
+        {
+            "id": 448,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "BUSHEHR",
+            "branch": "(BUSHEHR CENTRAL BRANCH)",
+            "swift_code": "REFAIRTH233"
+        },
+        {
+            "id": 449,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "GORGAN",
+            "branch": "(GORGAN CENTRAL BRANCH)",
+            "swift_code": "REFAIRTH230"
+        },
+        {
+            "id": 450,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "HAMADAN",
+            "branch": "(HAMADAN CENTRAL BRANCH)",
+            "swift_code": "REFAIRTH221"
+        },
+        {
+            "id": 451,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "ISFAHAN",
+            "branch": "(ISFAHAN CENTRAL BRANCH)",
+            "swift_code": "REFAIRTH201"
+        },
+        {
+            "id": 452,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "KASHAN",
+            "branch": "(KASHAN CENTRAL BRANCH)",
+            "swift_code": "REFAIRTH219"
+        },
+        {
+            "id": 453,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "KERMAN",
+            "branch": "(SHAHID SADOUGHI -E- KERMAN BRANCH)",
+            "swift_code": "REFAIRTH477"
+        },
+        {
+            "id": 454,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "KISH ISLAND",
+            "branch": "(KISH CENTRAL BRANCH)",
+            "swift_code": "REFAIRTH493"
+        },
+        {
+            "id": 455,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "MASHHAD",
+            "branch": "(MASHHAD CENTRAL BRANCH)",
+            "swift_code": "REFAIRTH207"
+        },
+        {
+            "id": 456,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "MASHHAD",
+            "branch": "(MASHHAD KHAYAM BRANCH)",
+            "swift_code": "REFAIRTH800"
+        },
+        {
+            "id": 457,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "ORUMIYEH",
+            "branch": "(ORUMIYEH CENTRAL BRANCH)",
+            "swift_code": "REFAIRTH217"
+        },
+        {
+            "id": 458,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "QAZVIN",
+            "branch": "(QAZVIN CENTRAL BRANCH)",
+            "swift_code": "REFAIRTH215"
+        },
+        {
+            "id": 459,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "QOM",
+            "branch": "(QOM CENTRAL BRANCH)",
+            "swift_code": "REFAIRTH228"
+        },
+        {
+            "id": 460,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "RASHT",
+            "branch": "(RASHT CENTRAL BRANCH)",
+            "swift_code": "REFAIRTH216"
+        },
+        {
+            "id": 461,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "SARI",
+            "branch": "(SARI CENTRAL BRANCH)",
+            "swift_code": "REFAIRTH232"
+        },
+        {
+            "id": 462,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "SEMNAN",
+            "branch": "(SEMNAN CENTRAL BRANCH)",
+            "swift_code": "REFAIRTH246"
+        },
+        {
+            "id": 463,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "SHAHREKORD",
+            "branch": "(SHAHR -E- KORD CENTRAL BRANCH)",
+            "swift_code": "REFAIRTH255"
+        },
+        {
+            "id": 464,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "SHIRAZ",
+            "branch": "(SHIRAZ CENTRAL BRANCH)",
+            "swift_code": "REFAIRTH211"
+        },
+        {
+            "id": 465,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "TABRIZ",
+            "branch": "(PEZESHKAN BRANCH)",
+            "swift_code": "REFAIRTH571"
+        },
+        {
+            "id": 466,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "TABRIZ",
+            "branch": "(TABRIZ CENTRAL BRANCH)",
+            "swift_code": "REFAIRTH202"
+        },
+        {
+            "id": 467,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "TEHRAN",
+            "branch": "(BOULVAR BRANCH)",
+            "swift_code": "REFAIRTH107"
+        },
+        {
+            "id": 468,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "TEHRAN",
+            "branch": "(CENTRAL BRANCH)",
+            "swift_code": "REFAIRTH101"
+        },
+        {
+            "id": 469,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "TEHRAN",
+            "branch": "(CORRESPONDING BANKING RELATIONS)",
+            "swift_code": "REFAIRTHCBR"
+        },
+        {
+            "id": 470,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "TEHRAN",
+            "branch": "(DR. HESABI BR.)",
+            "swift_code": "REFAIRTH258"
+        },
+        {
+            "id": 471,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "TEHRAN",
+            "branch": "(ENGHELAB BRANCH)",
+            "swift_code": "REFAIRTH112"
+        },
+        {
+            "id": 472,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "TEHRAN",
+            "branch": "(FALAKEH DOVOM-E- SADEGHIEH BRANCH)",
+            "swift_code": "REFAIRTH127"
+        },
+        {
+            "id": 473,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "TEHRAN",
+            "branch": "(GHOLHAK BRANCH)",
+            "swift_code": "REFAIRTH242"
+        },
+        {
+            "id": 474,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "TEHRAN",
+            "branch": "(JAHANKOODAK BRANCH)",
+            "swift_code": "REFAIRTH243"
+        },
+        {
+            "id": 475,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "TEHRAN",
+            "branch": "(KERMAN KHODRO BRANCH)",
+            "swift_code": "REFAIRTH333"
+        },
+        {
+            "id": 476,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "TEHRAN",
+            "branch": "(MANZARIEH NIAVARAN BRANCH)",
+            "swift_code": "REFAIRTH108"
+        },
+        {
+            "id": 477,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "TEHRAN",
+            "branch": "(MELLAT BRANCH)",
+            "swift_code": "REFAIRTH117"
+        },
+        {
+            "id": 478,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "TEHRAN",
+            "branch": "(MIRDAMAD BRANCH)",
+            "swift_code": "REFAIRTH152"
+        },
+        {
+            "id": 479,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "TEHRAN",
+            "branch": "(MOGHADDAS -E-ARDEBILI BRANCH)",
+            "swift_code": "REFAIRTH110"
+        },
+        {
+            "id": 480,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "TEHRAN",
+            "branch": "(OSTAD MOTAHARI)",
+            "swift_code": "REFAIRTH124"
+        },
+        {
+            "id": 481,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "TEHRAN",
+            "branch": "(PARDIS BRANCH)",
+            "swift_code": "REFAIRTH144"
+        },
+        {
+            "id": 482,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "TEHRAN",
+            "branch": "(PARK LALEH BRANCH)",
+            "swift_code": "REFAIRTH176"
+        },
+        {
+            "id": 483,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "TEHRAN",
+            "branch": "(PARS MINOO BRANCH)",
+            "swift_code": "REFAIRTH345"
+        },
+        {
+            "id": 484,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "TEHRAN",
+            "branch": "(PASDARAN BRANCH)",
+            "swift_code": "REFAIRTH140"
+        },
+        {
+            "id": 485,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "TEHRAN",
+            "branch": "(PEYKAN SHAHR BRANCH)",
+            "swift_code": "REFAIRTH126"
+        },
+        {
+            "id": 486,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "TEHRAN",
+            "branch": "(SANDOOGH -E- TOSE E MELLI BRANCH)",
+            "swift_code": "REFAIRTH164"
+        },
+        {
+            "id": 487,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "TEHRAN",
+            "branch": "(SEPAHBOD GHARANI BRANCH)",
+            "swift_code": "REFAIRTH328"
+        },
+        {
+            "id": 488,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "TEHRAN",
+            "branch": "(SHAHID BEHESHTI  -E-  GHARBI BRANCH)",
+            "swift_code": "REFAIRTH236"
+        },
+        {
+            "id": 489,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "TEHRAN",
+            "branch": "(VBAGH-E-FERDOWS BRANCH)",
+            "swift_code": "REFAIRTH368"
+        },
+        {
+            "id": 490,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "TEHRAN",
+            "branch": "(VEZARATKAR BRANCH)",
+            "swift_code": "REFAIRTH104"
+        },
+        {
+            "id": 491,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "TEHRAN",
+            "branch": null,
+            "swift_code": "REFAIRTH"
+        },
+        {
+            "id": 492,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "TEHRAN",
+            "branch": null,
+            "swift_code": "REFAIRTH197"
+        },
+        {
+            "id": 493,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "YAZD",
+            "branch": "(YAZD BRANCH)",
+            "swift_code": "REFAIRTH210"
+        },
+        {
+            "id": 494,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "ZAHEDAN",
+            "branch": "(ZAHEDAN ALAVI BRANCH)",
+            "swift_code": "REFAIRTH387"
+        },
+        {
+            "id": 495,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "ZAHEDAN",
+            "branch": "(ZAHEDAN CENTRAL BRANCH)",
+            "swift_code": "REFAIRTH225"
+        },
+        {
+            "id": 496,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "ZANJAN",
+            "branch": "(ZANJAN CENTRAL BRANCH)",
+            "swift_code": "REFAIRTH220"
+        },
+        {
+            "id": 497,
+            "bank": "BANK REFAH KARGARAN",
+            "city": "ZANJAN",
+            "branch": null,
+            "swift_code": "REFAIRTH46F"
+        },
+        {
+            "id": 498,
+            "bank": "BANK SEPAH",
+            "city": "AHWAZ",
+            "branch": "(AHWAZ BRANCH)",
+            "swift_code": "SEPBIRTH007"
+        },
+        {
+            "id": 499,
+            "bank": "BANK SEPAH",
+            "city": "ARAK",
+            "branch": "(ARAK BRANCH)",
+            "swift_code": "SEPBIRTH005"
+        },
+        {
+            "id": 500,
+            "bank": "BANK SEPAH",
+            "city": "BANDAR ABBAS",
+            "branch": null,
+            "swift_code": "SEPBIRTH015"
+        },
+        {
+            "id": 501,
+            "bank": "BANK SEPAH",
+            "city": "BUSHEHR",
+            "branch": "(BUSHEHR BRANCH)",
+            "swift_code": "SEPBIRTH044"
+        },
+        {
+            "id": 502,
+            "bank": "BANK SEPAH",
+            "city": "ISFAHAN",
+            "branch": null,
+            "swift_code": "SEPBIRTH006"
+        },
+        {
+            "id": 503,
+            "bank": "BANK SEPAH",
+            "city": "KARAJ",
+            "branch": "(KARAJ BRANCH)",
+            "swift_code": "SEPBIRTH054"
+        },
+        {
+            "id": 504,
+            "bank": "BANK SEPAH",
+            "city": "KASHAN",
+            "branch": "(SEPBIRTH040)",
+            "swift_code": "SEPBIRTH040"
+        },
+        {
+            "id": 505,
+            "bank": "BANK SEPAH",
+            "city": "KERMAN",
+            "branch": "(KERMAN BRANCH)",
+            "swift_code": "SEPBIRTH019"
+        },
+        {
+            "id": 506,
+            "bank": "BANK SEPAH",
+            "city": "KERMANSHAH",
+            "branch": "(KERMANSHAH BRANCH)",
+            "swift_code": "SEPBIRTH020"
+        },
+        {
+            "id": 507,
+            "bank": "BANK SEPAH",
+            "city": "KISH ISLAND",
+            "branch": "(KISH BRANCH)",
+            "swift_code": "SEPBIRTH115"
+        },
+        {
+            "id": 508,
+            "bank": "BANK SEPAH",
+            "city": "MASHHAD",
+            "branch": "(MASHHAD BRANCH)",
+            "swift_code": "SEPBIRTH238"
+        },
+        {
+            "id": 509,
+            "bank": "BANK SEPAH",
+            "city": "ORUMIYEH",
+            "branch": "(ORUMIYEH BRANCH)",
+            "swift_code": "SEPBIRTH014"
+        },
+        {
+            "id": 510,
+            "bank": "BANK SEPAH",
+            "city": "QAZVIN",
+            "branch": "(QAZVIN BRANCH)",
+            "swift_code": "SEPBIRTH017"
+        },
+        {
+            "id": 511,
+            "bank": "BANK SEPAH",
+            "city": "QOM",
+            "branch": "(QOM BRANCH)",
+            "swift_code": "SEPBIRTH018"
+        },
+        {
+            "id": 512,
+            "bank": "BANK SEPAH",
+            "city": "RASHT",
+            "branch": "(RASHT BRANCH)",
+            "swift_code": "SEPBIRTH012"
+        },
+        {
+            "id": 513,
+            "bank": "BANK SEPAH",
+            "city": "SARI",
+            "branch": "(GHARAN SARI BR.)",
+            "swift_code": "SEPBIRTHTMK"
+        },
+        {
+            "id": 514,
+            "bank": "BANK SEPAH",
+            "city": "SHIRAZ",
+            "branch": null,
+            "swift_code": "SEPBIRTH016"
+        },
+        {
+            "id": 515,
+            "bank": "BANK SEPAH",
+            "city": "TABRIZ",
+            "branch": null,
+            "swift_code": "SEPBIRTH009"
+        },
+        {
+            "id": 516,
+            "bank": "BANK SEPAH",
+            "city": "TEHRAN",
+            "branch": "(7TIR BR.)",
+            "swift_code": "SEPBIRTH776"
+        },
+        {
+            "id": 517,
+            "bank": "BANK SEPAH",
+            "city": "TEHRAN",
+            "branch": "(ABER BANK DEPARTMENT)",
+            "swift_code": "SEPBIRTHSHB"
+        },
+        {
+            "id": 518,
+            "bank": "BANK SEPAH",
+            "city": "TEHRAN",
+            "branch": "(AHMAD GHASIR BRANCH)",
+            "swift_code": "SEPBIRTH185"
+        },
+        {
+            "id": 519,
+            "bank": "BANK SEPAH",
+            "city": "TEHRAN",
+            "branch": "(AZADI BRANCH)",
+            "swift_code": "SEPBIRTH324"
+        },
+        {
+            "id": 520,
+            "bank": "BANK SEPAH",
+            "city": "TEHRAN",
+            "branch": "(BAZAR BRANCH)",
+            "swift_code": "SEPBIRTH002"
+        },
+        {
+            "id": 521,
+            "bank": "BANK SEPAH",
+            "city": "TEHRAN",
+            "branch": "(BEYHAGHI BRANCH)",
+            "swift_code": "SEPBIRTHBEY"
+        },
+        {
+            "id": 522,
+            "bank": "BANK SEPAH",
+            "city": "TEHRAN",
+            "branch": "(CENTRAL BRANCH)",
+            "swift_code": "SEPBIRTH001"
+        },
+        {
+            "id": 523,
+            "bank": "BANK SEPAH",
+            "city": "TEHRAN",
+            "branch": "(CHAHARAHE COLLEGE BRANCH)",
+            "swift_code": "SEPBIRTH396"
+        },
+        {
+            "id": 524,
+            "bank": "BANK SEPAH",
+            "city": "TEHRAN",
+            "branch": "(CHAMRAN BRANCH)",
+            "swift_code": "SEPBIRTH177"
+        },
+        {
+            "id": 525,
+            "bank": "BANK SEPAH",
+            "city": "TEHRAN",
+            "branch": "(DANESHGAH BRANCH)",
+            "swift_code": "SEPBIRTH057"
+        },
+        {
+            "id": 526,
+            "bank": "BANK SEPAH",
+            "city": "TEHRAN",
+            "branch": "(DR. FATEMI STREET)",
+            "swift_code": "SEPBIRTH387"
+        },
+        {
+            "id": 527,
+            "bank": "BANK SEPAH",
+            "city": "TEHRAN",
+            "branch": "(ENGHELAB BRANCH)",
+            "swift_code": "SEPBIRTH050"
+        },
+        {
+            "id": 528,
+            "bank": "BANK SEPAH",
+            "city": "TEHRAN",
+            "branch": "(KHALED SLAMBOLI BRANCH)",
+            "swift_code": "SEPBIRTH124"
+        },
+        {
+            "id": 529,
+            "bank": "BANK SEPAH",
+            "city": "TEHRAN",
+            "branch": "(KHAYAM BRANCH)",
+            "swift_code": "SEPBIRTH004"
+        },
+        {
+            "id": 530,
+            "bank": "BANK SEPAH",
+            "city": "TEHRAN",
+            "branch": "(MEYDANE VANAK BRANCH)",
+            "swift_code": "SEPBIRTH677"
+        },
+        {
+            "id": 531,
+            "bank": "BANK SEPAH",
+            "city": "TEHRAN",
+            "branch": "(MIRDAMAD SHARGHI BRANCH)",
+            "swift_code": "SEPBIRTH123"
+        },
+        {
+            "id": 532,
+            "bank": "BANK SEPAH",
+            "city": "TEHRAN",
+            "branch": "(OSTAD MOTAHARI GHARBI BRANCH)",
+            "swift_code": "SEPBIRTH459"
+        },
+        {
+            "id": 533,
+            "bank": "BANK SEPAH",
+            "city": "TEHRAN",
+            "branch": "(SAIPA BRANCH)",
+            "swift_code": "SEPBIRTH102"
+        },
+        {
+            "id": 534,
+            "bank": "BANK SEPAH",
+            "city": "TEHRAN",
+            "branch": "(SEPBIRTHNEG)",
+            "swift_code": "SEPBIRTHNEG"
+        },
+        {
+            "id": 535,
+            "bank": "BANK SEPAH",
+            "city": "TEHRAN",
+            "branch": "(SERAH AZARI)",
+            "swift_code": "SEPBIRTH131"
+        },
+        {
+            "id": 536,
+            "bank": "BANK SEPAH",
+            "city": "TEHRAN",
+            "branch": "(SIE TIR BRANCH)",
+            "swift_code": "SEPBIRTH160"
+        },
+        {
+            "id": 537,
+            "bank": "BANK SEPAH",
+            "city": "TEHRAN",
+            "branch": "(SYED KHANDAN BRANCH)",
+            "swift_code": "SEPBIRTH539"
+        },
+        {
+            "id": 538,
+            "bank": "BANK SEPAH",
+            "city": "TEHRAN",
+            "branch": "(TAVANIR-VALIASR)",
+            "swift_code": "SEPBIRTH200"
+        },
+        {
+            "id": 539,
+            "bank": "BANK SEPAH",
+            "city": "TEHRAN",
+            "branch": null,
+            "swift_code": "SEPBIRTH"
+        },
+        {
+            "id": 540,
+            "bank": "BANK SEPAH",
+            "city": "TEHRAN",
+            "branch": null,
+            "swift_code": "SEPBIRTHFEX"
+        },
+        {
+            "id": 541,
+            "bank": "BANK SEPAH",
+            "city": "YAZD",
+            "branch": null,
+            "swift_code": "SEPBIRTH026"
+        },
+        {
+            "id": 542,
+            "bank": "BANK TEJARAT",
+            "city": "AHWAZ",
+            "branch": "(CENTRAL BRANCH)",
+            "swift_code": "BTEJIRTHAWZ"
+        },
+        {
+            "id": 543,
+            "bank": "BANK TEJARAT",
+            "city": "ARAK",
+            "branch": "(ARAK MAIN BRANCH)",
+            "swift_code": "BTEJIRTHARK"
+        },
+        {
+            "id": 544,
+            "bank": "BANK TEJARAT",
+            "city": "ARDABIL",
+            "branch": "(ARDABIL BRANCH)",
+            "swift_code": "BTEJIRTHARD"
+        },
+        {
+            "id": 545,
+            "bank": "BANK TEJARAT",
+            "city": "BANDAR ABBAS",
+            "branch": "(BANDAR ABBAS MAIN BRANCH)",
+            "swift_code": "BTEJIRTHBND"
+        },
+        {
+            "id": 546,
+            "bank": "BANK TEJARAT",
+            "city": "BUSHEHR",
+            "branch": "(BUSHEHR MAIN BRANCH)",
+            "swift_code": "BTEJIRTHBSH"
+        },
+        {
+            "id": 547,
+            "bank": "BANK TEJARAT",
+            "city": "GHAZVIN",
+            "branch": "(GHAZVIN MAIN BRANCH)",
+            "swift_code": "BTEJIRTHQZN"
+        },
+        {
+            "id": 548,
+            "bank": "BANK TEJARAT",
+            "city": "GORGAN",
+            "branch": null,
+            "swift_code": "BTEJIRTHGAN"
+        },
+        {
+            "id": 549,
+            "bank": "BANK TEJARAT",
+            "city": "HAMADAN",
+            "branch": "(HAMEDAN BRANCH)",
+            "swift_code": "BTEJIRTHHAM"
+        },
+        {
+            "id": 550,
+            "bank": "BANK TEJARAT",
+            "city": "ILAM",
+            "branch": null,
+            "swift_code": "BTEJIRTHILM"
+        },
+        {
+            "id": 551,
+            "bank": "BANK TEJARAT",
+            "city": "ISFAHAN",
+            "branch": "(CENTRAL BRANCH)",
+            "swift_code": "BTEJIRTHISF"
+        },
+        {
+            "id": 552,
+            "bank": "BANK TEJARAT",
+            "city": "KARAJ",
+            "branch": null,
+            "swift_code": "BTEJIRTHKRJ"
+        },
+        {
+            "id": 553,
+            "bank": "BANK TEJARAT",
+            "city": "KASHAN",
+            "branch": "(KASHAN BRANCH)",
+            "swift_code": "BTEJIRTHKSN"
+        },
+        {
+            "id": 554,
+            "bank": "BANK TEJARAT",
+            "city": "KERMAN",
+            "branch": "(KERMAN MAIN BRANCH)",
+            "swift_code": "BTEJIRTHKER"
+        },
+        {
+            "id": 555,
+            "bank": "BANK TEJARAT",
+            "city": "KERMANSHAH",
+            "branch": "(KERMANSHAH MAIN BRANCH)",
+            "swift_code": "BTEJIRTHKRH"
+        },
+        {
+            "id": 556,
+            "bank": "BANK TEJARAT",
+            "city": "KISH ISLAND",
+            "branch": "(KISH MAIN BRANCH)",
+            "swift_code": "BTEJIRTHKSH"
+        },
+        {
+            "id": 557,
+            "bank": "BANK TEJARAT",
+            "city": "MASHHAD",
+            "branch": "(MASHHAD BRANCH)",
+            "swift_code": "BTEJIRTHMSD"
+        },
+        {
+            "id": 558,
+            "bank": "BANK TEJARAT",
+            "city": "ORUMIYEH",
+            "branch": "(ORUMIYEH MAIN BRANCH)",
+            "swift_code": "BTEJIRTHORM"
+        },
+        {
+            "id": 559,
+            "bank": "BANK TEJARAT",
+            "city": "QOM",
+            "branch": "(QOME MAIN BRANCH)",
+            "swift_code": "BTEJIRTHQOM"
+        },
+        {
+            "id": 560,
+            "bank": "BANK TEJARAT",
+            "city": "RASHT",
+            "branch": "(RASHT MAIN BRANCH)",
+            "swift_code": "BTEJIRTHRSH"
+        },
+        {
+            "id": 561,
+            "bank": "BANK TEJARAT",
+            "city": "SANANDAJ",
+            "branch": "(SANANDAJ MAIN BRANCH)",
+            "swift_code": "BTEJIRTHSNJ"
+        },
+        {
+            "id": 562,
+            "bank": "BANK TEJARAT",
+            "city": "SARI",
+            "branch": "(SARI MAIN BRANCH)",
+            "swift_code": "BTEJIRTHSAR"
+        },
+        {
+            "id": 563,
+            "bank": "BANK TEJARAT",
+            "city": "SEMNAN",
+            "branch": "(SEMNAN BRANCH)",
+            "swift_code": "BTEJIRTHSEM"
+        },
+        {
+            "id": 564,
+            "bank": "BANK TEJARAT",
+            "city": "SHIRAZ",
+            "branch": "(SHIRAZ MAIN BRANCH)",
+            "swift_code": "BTEJIRTHSHI"
+        },
+        {
+            "id": 565,
+            "bank": "BANK TEJARAT",
+            "city": "TABRIZ",
+            "branch": "(HEAD OFFICE)",
+            "swift_code": "BTEJIRTHTBR"
+        },
+        {
+            "id": 566,
+            "bank": "BANK TEJARAT",
+            "city": "TEHRAN",
+            "branch": "(BAZAR MAIN BRANCH)",
+            "swift_code": "BTEJIRTH811"
+        },
+        {
+            "id": 567,
+            "bank": "BANK TEJARAT",
+            "city": "TEHRAN",
+            "branch": "(CHEETGAR MAIN BRANCH)",
+            "swift_code": "BTEJIRTH802"
+        },
+        {
+            "id": 568,
+            "bank": "BANK TEJARAT",
+            "city": "TEHRAN",
+            "branch": "(ESKAN MAIN BRANCH)",
+            "swift_code": "BTEJIRTH500"
+        },
+        {
+            "id": 569,
+            "bank": "BANK TEJARAT",
+            "city": "TEHRAN",
+            "branch": "(FERDOWSI MAIN BRANCH)",
+            "swift_code": "BTEJIRTH100"
+        },
+        {
+            "id": 570,
+            "bank": "BANK TEJARAT",
+            "city": "TEHRAN",
+            "branch": "(GHARANI MAIN BRANCH)",
+            "swift_code": "BTEJIRTH200"
+        },
+        {
+            "id": 571,
+            "bank": "BANK TEJARAT",
+            "city": "TEHRAN",
+            "branch": "(GHODS MAIN BRANCH)",
+            "swift_code": "BTEJIRTH150"
+        },
+        {
+            "id": 572,
+            "bank": "BANK TEJARAT",
+            "city": "TEHRAN",
+            "branch": "(GUARANTEE DEPARTMENT)",
+            "swift_code": "BTEJIRTHLGD"
+        },
+        {
+            "id": 573,
+            "bank": "BANK TEJARAT",
+            "city": "TEHRAN",
+            "branch": "(HORMOZAN MAIN BRANCH)",
+            "swift_code": "BTEJIRTHHRM"
+        },
+        {
+            "id": 574,
+            "bank": "BANK TEJARAT",
+            "city": "TEHRAN",
+            "branch": "(IMAM KHOMEINI SQUARE MAIN BRANCH)",
+            "swift_code": "BTEJIRTH051"
+        },
+        {
+            "id": 575,
+            "bank": "BANK TEJARAT",
+            "city": "TEHRAN",
+            "branch": "(KARIMKHAN MAIN BRANCH)",
+            "swift_code": "BTEJIRTH700"
+        },
+        {
+            "id": 576,
+            "bank": "BANK TEJARAT",
+            "city": "TEHRAN",
+            "branch": "(MIRDAMAD MAIN BRANCH)",
+            "swift_code": "BTEJIRTH350"
+        },
+        {
+            "id": 577,
+            "bank": "BANK TEJARAT",
+            "city": "TEHRAN",
+            "branch": "(RAY BRANCH)",
+            "swift_code": "BTEJIRTHRAY"
+        },
+        {
+            "id": 578,
+            "bank": "BANK TEJARAT",
+            "city": "TEHRAN",
+            "branch": "(SAADI MAIN BRANCH)",
+            "swift_code": "BTEJIRTH250"
+        },
+        {
+            "id": 579,
+            "bank": "BANK TEJARAT",
+            "city": "TEHRAN",
+            "branch": "(TELEGHANI BRANCH)",
+            "swift_code": "BTEJIRTH023"
+        },
+        {
+            "id": 580,
+            "bank": "BANK TEJARAT",
+            "city": "TEHRAN",
+            "branch": "(VALI-E-ASR MAIN BRANCH)",
+            "swift_code": "BTEJIRTH300"
+        },
+        {
+            "id": 581,
+            "bank": "BANK TEJARAT",
+            "city": "TEHRAN",
+            "branch": null,
+            "swift_code": "BTEJIRTH"
+        },
+        {
+            "id": 582,
+            "bank": "BANK TEJARAT",
+            "city": "YAZD",
+            "branch": "(YAZD MAIN BRANCH)",
+            "swift_code": "BTEJIRTHYAZ"
+        },
+        {
+            "id": 583,
+            "bank": "BANK TEJARAT",
+            "city": "ZANJAN",
+            "branch": "(ZANJAN MAIN BRANCH)",
+            "swift_code": "BTEJIRTHZNJ"
+        },
+        {
+            "id": 584,
+            "bank": "CITY BANK (PUBLIC CORP)",
+            "city": "ALBORZ",
+            "branch": "(ALBORZ)",
+            "swift_code": "CIYBIRTHKRJ"
+        },
+        {
+            "id": 585,
+            "bank": "CITY BANK (PUBLIC CORP)",
+            "city": "BUSHEHR",
+            "branch": "(BUSHER)",
+            "swift_code": "CIYBIRTHBSH"
+        },
+        {
+            "id": 586,
+            "bank": "CITY BANK (PUBLIC CORP)",
+            "city": "GHAZVIN",
+            "branch": "(GHAZVIN)",
+            "swift_code": "CIYBIRTHQAZ"
+        },
+        {
+            "id": 587,
             "bank": "CITY BANK (PUBLIC CORP)",
             "city": "ISFAHAN",
             "branch": "(ISFAHAN BRANCH)",
             "swift_code": "CIYBIRTHESF"
         },
         {
-            "id": 95,
+            "id": 588,
             "bank": "CITY BANK (PUBLIC CORP)",
             "city": "KISH ISLAND",
             "branch": "(PARDIS BRANCH)",
             "swift_code": "CIYBIRTHKSH"
         },
         {
-            "id": 96,
+            "id": 589,
             "bank": "CITY BANK (PUBLIC CORP)",
             "city": "MASHHAD",
             "branch": "(MASHHAD BRANCH)",
             "swift_code": "CIYBIRTHMAS"
         },
         {
-            "id": 97,
+            "id": 590,
+            "bank": "CITY BANK (PUBLIC CORP)",
+            "city": "QOM",
+            "branch": "(QOM)",
+            "swift_code": "CIYBIRTHQOM"
+        },
+        {
+            "id": 591,
             "bank": "CITY BANK (PUBLIC CORP)",
             "city": "SHIRAZ",
             "branch": "(KARIM KHAN BRANCH)",
             "swift_code": "CIYBIRTHSHI"
         },
         {
-            "id": 98,
+            "id": 592,
             "bank": "CITY BANK (PUBLIC CORP)",
             "city": "TABRIZ",
             "branch": "(TABRIZ BRANCH)",
             "swift_code": "CIYBIRTHTAB"
         },
         {
-            "id": 99,
+            "id": 593,
+            "bank": "CITY BANK (PUBLIC CORP)",
+            "city": "TEHRAN",
+            "branch": "(ARZHANTIN)",
+            "swift_code": "CIYBIRTH248"
+        },
+        {
+            "id": 594,
             "bank": "CITY BANK (PUBLIC CORP)",
             "city": "TEHRAN",
             "branch": "(CENTRAL BRANCH)",
             "swift_code": "CIYBIRTH201"
         },
         {
-            "id": 100,
+            "id": 595,
+            "bank": "CITY BANK (PUBLIC CORP)",
+            "city": "TEHRAN",
+            "branch": "(FERDOSI SQ.)",
+            "swift_code": "CIYBIRTH329"
+        },
+        {
+            "id": 596,
+            "bank": "CITY BANK (PUBLIC CORP)",
+            "city": "TEHRAN",
+            "branch": "(FOREIGN EXCHANGE OPERATION DEPT.)",
+            "swift_code": "CIYBIRTHTRD"
+        },
+        {
+            "id": 597,
+            "bank": "CITY BANK (PUBLIC CORP)",
+            "city": "TEHRAN",
+            "branch": "(IRAN ZAMIN-MAHESTAN)",
+            "swift_code": "CIYBIRTH538"
+        },
+        {
+            "id": 598,
+            "bank": "CITY BANK (PUBLIC CORP)",
+            "city": "TEHRAN",
+            "branch": "(KAMRANIYEH)",
+            "swift_code": "CIYBIRTH331"
+        },
+        {
+            "id": 599,
+            "bank": "CITY BANK (PUBLIC CORP)",
+            "city": "TEHRAN",
+            "branch": "(MOLLA SADRA)",
+            "swift_code": "CIYBIRTH335"
+        },
+        {
+            "id": 600,
+            "bank": "CITY BANK (PUBLIC CORP)",
+            "city": "TEHRAN",
+            "branch": "(PAKNEZHAD)",
+            "swift_code": "CIYBIRTH240"
+        },
+        {
+            "id": 601,
+            "bank": "CITY BANK (PUBLIC CORP)",
+            "city": "TEHRAN",
+            "branch": "(SHARIATI-MIRDAMAD)",
+            "swift_code": "CIYBIRTH504"
+        },
+        {
+            "id": 602,
             "bank": "CITY BANK (PUBLIC CORP)",
             "city": "TEHRAN",
             "branch": null,
             "swift_code": "CIYBIRTH"
         },
         {
-            "id": 101,
+            "id": 603,
             "bank": "CREDIT INSTITUTE FOR DEVELOPMENT",
             "city": "ISFAHAN",
             "branch": "(ISFAHAN(201))",
             "swift_code": "BTOSIRTHISF"
         },
         {
-            "id": 102,
+            "id": 604,
             "bank": "CREDIT INSTITUTE FOR DEVELOPMENT",
             "city": "KISH ISLAND",
             "branch": "(KISH BRANCH(601))",
             "swift_code": "BTOSIRTHKSH"
         },
         {
-            "id": 103,
+            "id": 605,
             "bank": "CREDIT INSTITUTE FOR DEVELOPMENT",
             "city": "MASHHAD",
             "branch": "(MASHHAD(301))",
             "swift_code": "BTOSIRTHMSH"
         },
         {
-            "id": 104,
+            "id": 606,
             "bank": "CREDIT INSTITUTE FOR DEVELOPMENT",
             "city": "TABRIZ",
             "branch": "(TABRIZ)",
             "swift_code": "BTOSIRTHTAB"
         },
         {
-            "id": 105,
+            "id": 607,
             "bank": "CREDIT INSTITUTE FOR DEVELOPMENT",
             "city": "TEHRAN",
             "branch": "(CENTRAL)",
             "swift_code": "BTOSIRTHCNT"
         },
         {
-            "id": 106,
+            "id": 608,
             "bank": "CREDIT INSTITUTE FOR DEVELOPMENT",
             "city": "TEHRAN",
             "branch": "(MADAR SQ.,(104))",
             "swift_code": "BTOSIRTHMAD"
         },
         {
-            "id": 107,
+            "id": 609,
             "bank": "CREDIT INSTITUTE FOR DEVELOPMENT",
             "city": "TEHRAN",
             "branch": "(SANAIE(113))",
             "swift_code": "BTOSIRTHSAN"
         },
         {
-            "id": 108,
+            "id": 610,
             "bank": "CREDIT INSTITUTE FOR DEVELOPMENT",
             "city": "TEHRAN",
             "branch": null,
             "swift_code": "BTOSIRTH"
         },
         {
-            "id": 109,
+            "id": 611,
+            "bank": "EUROPAEISCH-IRANISCHE HANDELSBANK AG",
+            "city": "KISH ISLAND",
+            "branch": null,
+            "swift_code": "EIHBIRTHKSH"
+        },
+        {
+            "id": 612,
+            "bank": "EUROPAEISCH-IRANISCHE HANDELSBANK AG",
+            "city": "TEHRAN",
+            "branch": "(TEHRAN BRANCH)",
+            "swift_code": "EIHBIRTHTEH"
+        },
+        {
+            "id": 613,
+            "bank": "EUROPAEISCH-IRANISCHE HANDELSBANK AG",
+            "city": "TEHRAN",
+            "branch": null,
+            "swift_code": "EIHBIRTH"
+        },
+        {
+            "id": 614,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "AHWAZ",
+            "branch": "(AHWAZ MAIN BRANCH)",
+            "swift_code": "EDBIIRTHAWZ"
+        },
+        {
+            "id": 615,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "ARAK",
+            "branch": "(ARAK BRANCH)",
+            "swift_code": "EDBIIRTHARK"
+        },
+        {
+            "id": 616,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "ARDABIL",
+            "branch": "(BRANCH)",
+            "swift_code": "EDBIIRTHARD"
+        },
+        {
+            "id": 617,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "ASTARA",
+            "branch": "(ASTARA MAIN BRANCH)",
+            "swift_code": "EDBIIRTHAST"
+        },
+        {
+            "id": 618,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "BANDAR ABBAS",
+            "branch": "(BANDAR ABBAS MAIN BRANCH)",
+            "swift_code": "EDBIIRTHBAN"
+        },
+        {
+            "id": 619,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "BIRJAND",
+            "branch": null,
+            "swift_code": "EDBIIRTHBIR"
+        },
+        {
+            "id": 620,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "BOJNOORD",
+            "branch": null,
+            "swift_code": "EDBIIRTHBOJ"
+        },
+        {
+            "id": 621,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "BUSHEHR",
+            "branch": "(BUSHEHR MAIN BRANCH)",
+            "swift_code": "EDBIIRTHBSH"
+        },
+        {
+            "id": 622,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "CHABAHAR PORT",
+            "branch": "(CHABAHAR MAIN BRANCH)",
+            "swift_code": "EDBIIRTHCHA"
+        },
+        {
+            "id": 623,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "GORGAN",
+            "branch": "(GORGAN MAIN BRANCH)",
+            "swift_code": "EDBIIRTHGOR"
+        },
+        {
+            "id": 624,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "HAMADAN",
+            "branch": "(HAMADAN MAIN BRANCH)",
+            "swift_code": "EDBIIRTHHAM"
+        },
+        {
+            "id": 625,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "ILAM",
+            "branch": "(BRANCH)",
+            "swift_code": "EDBIIRTHILA"
+        },
+        {
+            "id": 626,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "ISFAHAN",
+            "branch": "(ISFAHAN MAIN BRANCH)",
+            "swift_code": "EDBIIRTHISF"
+        },
+        {
+            "id": 627,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "KARAJ",
+            "branch": "(KARAJ BRANCH)",
+            "swift_code": "EDBIIRTHKRJ"
+        },
+        {
+            "id": 628,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "KASHAN",
+            "branch": null,
+            "swift_code": "EDBIIRTHKAS"
+        },
+        {
+            "id": 629,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "KERMAN",
+            "branch": "(KERMAN MAIN BRANCH)",
+            "swift_code": "EDBIIRTHKER"
+        },
+        {
+            "id": 630,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "KERMANSHAH",
+            "branch": "(KERMANSHAH MAIN BRANCH)",
+            "swift_code": "EDBIIRTHKRH"
+        },
+        {
+            "id": 631,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "KHORRAMABAD",
+            "branch": "(KHORRAMABAD MAIN BRANCH)",
+            "swift_code": "EDBIIRTHKHO"
+        },
+        {
+            "id": 632,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "KISH ISLAND",
+            "branch": "(KISH MAIN BRANCH)",
+            "swift_code": "EDBIIRTHKSH"
+        },
+        {
+            "id": 633,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "MASHHAD",
+            "branch": "(MASHAD BRANCH)",
+            "swift_code": "EDBIIRTHMSH"
+        },
+        {
+            "id": 634,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "ORUMIYEH",
+            "branch": "(ORUMIYEH MAIN BRANCH)",
+            "swift_code": "EDBIIRTHORU"
+        },
+        {
+            "id": 635,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "QAZVIN",
+            "branch": null,
+            "swift_code": "EDBIIRTHQAZ"
+        },
+        {
+            "id": 636,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "QESHM",
+            "branch": "(QESHM MAIN BRANCH)",
+            "swift_code": "EDBIIRTHQSH"
+        },
+        {
+            "id": 637,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "QOM",
+            "branch": "(QOM BRANCH)",
+            "swift_code": "EDBIIRTHQOM"
+        },
+        {
+            "id": 638,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "RASHT",
+            "branch": "(RASHT MAIN BRANCH)",
+            "swift_code": "EDBIIRTHRSH"
+        },
+        {
+            "id": 639,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "SANANDAJ",
+            "branch": null,
+            "swift_code": "EDBIIRTHSAN"
+        },
+        {
+            "id": 640,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "SARI",
+            "branch": "(SARI MAIN BRANCH)",
+            "swift_code": "EDBIIRTHSAR"
+        },
+        {
+            "id": 641,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "SEMNAN",
+            "branch": "(SEMNAN BRANCH)",
+            "swift_code": "EDBIIRTHSEM"
+        },
+        {
+            "id": 642,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "SHAHREKORD",
+            "branch": null,
+            "swift_code": "EDBIIRTHSHK"
+        },
+        {
+            "id": 643,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "SHIRAZ",
+            "branch": "(SHIRAZ BRANCH)",
+            "swift_code": "EDBIIRTHSHI"
+        },
+        {
+            "id": 644,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "TABRIZ",
+            "branch": "(TABRIZ BRANCH)",
+            "swift_code": "EDBIIRTHTAB"
+        },
+        {
+            "id": 645,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "TEHRAN",
+            "branch": "(ARGENTINA SQ.)",
+            "swift_code": "EDBIIRTHARG"
+        },
+        {
+            "id": 646,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "TEHRAN",
+            "branch": "(BOULEVARD BRANCH)",
+            "swift_code": "EDBIIRTHBLV"
+        },
+        {
+            "id": 647,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "TEHRAN",
+            "branch": "(CENTRAL BRANCH)",
+            "swift_code": "EDBIIRTHCEN"
+        },
+        {
+            "id": 648,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "TEHRAN",
+            "branch": "(INTERNATIONAL DEPT.)",
+            "swift_code": "EDBIIRTHINT"
+        },
+        {
+            "id": 649,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "TEHRAN",
+            "branch": "(LG DEPT.)",
+            "swift_code": "EDBIIRTHLGD"
+        },
+        {
+            "id": 650,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "TEHRAN",
+            "branch": "(MIRDAMAD BRANCH)",
+            "swift_code": "EDBIIRTHMIR"
+        },
+        {
+            "id": 651,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "TEHRAN",
+            "branch": "(SHETAB DEPT)",
+            "swift_code": "EDBIIRTHSHB"
+        },
+        {
+            "id": 652,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "TEHRAN",
+            "branch": "(TAJRISH BRANCH)",
+            "swift_code": "EDBIIRTHTAJ"
+        },
+        {
+            "id": 653,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "TEHRAN",
+            "branch": "(TRADE FINANCE OPERATION)",
+            "swift_code": "EDBIIRTHTRF"
+        },
+        {
+            "id": 654,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "TEHRAN",
+            "branch": "(TREASURY DEPARTMENT)",
+            "swift_code": "EDBIIRTHFXD"
+        },
+        {
+            "id": 655,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "TEHRAN",
+            "branch": null,
+            "swift_code": "EDBIIRTH"
+        },
+        {
+            "id": 656,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "YASUJ",
+            "branch": "(YASUJ BRANCH)",
+            "swift_code": "EDBIIRTHYAS"
+        },
+        {
+            "id": 657,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "YAZD",
+            "branch": "(YAZD MAIN BRANCH)",
+            "swift_code": "EDBIIRTHYAZ"
+        },
+        {
+            "id": 658,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "ZAHEDAN",
+            "branch": "(ZAHEDAN)",
+            "swift_code": "EDBIIRTHZAH"
+        },
+        {
+            "id": 659,
+            "bank": "EXPORT DEVELOPMENT BANK OF IRAN",
+            "city": "ZANJAN",
+            "branch": "(ZANJAN MAIN BRANCH)",
+            "swift_code": "EDBIIRTHZAN"
+        },
+        {
+            "id": 660,
             "bank": "FNXCARD CORPORATION LTD",
             "city": "ISFAHAN",
             "branch": null,
             "swift_code": "FNXCIRT1"
         },
         {
-            "id": 110,
+            "id": 661,
             "bank": "HELAL IRAN MEDICAL DEVICES CO.",
             "city": "KARAJ",
             "branch": null,
             "swift_code": "HIMDIRT1"
         },
         {
-            "id": 111,
-            "bank": "IRANIAN VENEZUELAN BI-NATIONAL BANK",
+            "id": 662,
+            "bank": "IRAN VENEZUELA BI-NATIONAL BANK",
             "city": "TEHRAN",
             "branch": null,
             "swift_code": "IVBBIRTH"
         },
         {
-            "id": 112,
+            "id": 663,
             "bank": "KARAFARIN BANK",
             "city": "ISFAHAN",
             "branch": "(ESFAHAN CENTRAL BRANCH)",
             "swift_code": "KBIDIRTH004"
         },
         {
-            "id": 113,
+            "id": 664,
             "bank": "KARAFARIN BANK",
             "city": "KISH ISLAND",
             "branch": "(KISH ISLAND BRANCH)",
             "swift_code": "KBIDIRTH031"
         },
         {
-            "id": 114,
+            "id": 665,
             "bank": "KARAFARIN BANK",
             "city": "MASHHAD",
             "branch": "(MASHHAD CENTRAL BRANCH)",
             "swift_code": "KBIDIRTH018"
         },
         {
-            "id": 115,
+            "id": 666,
             "bank": "KARAFARIN BANK",
             "city": "TABRIZ",
             "branch": "(CENTRAL BRANCH OF TABRIZ)",
             "swift_code": "KBIDIRTH008"
         },
         {
-            "id": 116,
+            "id": 667,
             "bank": "KARAFARIN BANK",
             "city": "TEHRAN",
             "branch": "(FARMANIYEH BRANCH)",
             "swift_code": "KBIDIRTH005"
         },
         {
-            "id": 117,
+            "id": 668,
             "bank": "KARAFARIN BANK",
             "city": "TEHRAN",
             "branch": "(SEPAHAN BRANCH)",
             "swift_code": "KBIDIRTH022"
         },
         {
-            "id": 118,
+            "id": 669,
             "bank": "KARAFARIN BANK",
             "city": "TEHRAN",
             "branch": "(SHAHIS BEHESHTI BRANCH)",
             "swift_code": "KBIDIRTH050"
         },
         {
-            "id": 119,
+            "id": 670,
             "bank": "KARAFARIN BANK",
             "city": "TEHRAN",
             "branch": "(VANAK BRANCH)",
             "swift_code": "KBIDIRTH009"
         },
         {
-            "id": 120,
+            "id": 671,
             "bank": "KARAFARIN BANK",
             "city": "TEHRAN",
             "branch": "(ZAFAR BRANCH)",
             "swift_code": "KBIDIRTH016"
         },
         {
-            "id": 121,
+            "id": 672,
             "bank": "KARAFARIN BANK",
             "city": "TEHRAN",
             "branch": null,
             "swift_code": "KBIDIRTH"
         },
         {
-            "id": 122,
+            "id": 673,
             "bank": "KARAFARIN BANK",
             "city": "TEHRAN",
             "branch": null,
             "swift_code": "KBIDIRTHSHB"
         },
         {
-            "id": 123,
-            "bank": "KISH INTERNATIONAL BANK",
-            "city": "KISH ISLAND",
-            "branch": "(KSH1)",
-            "swift_code": "KIBOIRTH116"
-        },
-        {
-            "id": 124,
-            "bank": "KISH INTERNATIONAL BANK",
-            "city": "KISH ISLAND",
-            "branch": "(KSH2)",
-            "swift_code": "KIBOIRTH117"
-        },
-        {
-            "id": 125,
-            "bank": "KISH INTERNATIONAL BANK",
-            "city": "KISH ISLAND",
-            "branch": "(KSH3)",
-            "swift_code": "KIBOIRTH118"
-        },
-        {
-            "id": 126,
-            "bank": "KISH INTERNATIONAL BANK",
-            "city": "KISH ISLAND",
-            "branch": null,
-            "swift_code": "KIBOIRTH"
-        },
-        {
-            "id": 127,
-            "bank": "KISH INTERNATIONAL BANK",
-            "city": "TEHRAN",
-            "branch": "(TEH1)",
-            "swift_code": "KIBOIRTH110"
-        },
-        {
-            "id": 128,
-            "bank": "KISH INTERNATIONAL BANK",
-            "city": "TEHRAN",
-            "branch": "(TEH2)",
-            "swift_code": "KIBOIRTH111"
-        },
-        {
-            "id": 129,
-            "bank": "KISH INTERNATIONAL BANK",
-            "city": "TEHRAN",
-            "branch": "(TEH3)",
-            "swift_code": "KIBOIRTH112"
-        },
-        {
-            "id": 130,
-            "bank": "KISH INTERNATIONAL BANK",
-            "city": "TEHRAN",
-            "branch": "(TEH4)",
-            "swift_code": "KIBOIRTH113"
-        },
-        {
-            "id": 131,
-            "bank": "KISH INTERNATIONAL BANK",
-            "city": "TEHRAN",
-            "branch": "(TEH5)",
-            "swift_code": "KIBOIRTH114"
-        },
-        {
-            "id": 132,
-            "bank": "KISH INTERNATIONAL BANK",
-            "city": "TEHRAN",
-            "branch": "(TEH6)",
-            "swift_code": "KIBOIRTH115"
-        },
-        {
-            "id": 133,
-            "bank": "KISH INTERNATIONAL BANK",
-            "city": "TEHRAN",
-            "branch": "(TEH7)",
-            "swift_code": "KIBOIRTH119"
-        },
-        {
-            "id": 134,
-            "bank": "KISH INTERNATIONAL BANK",
-            "city": "TEHRAN",
-            "branch": "(TEH8)",
-            "swift_code": "KIBOIRTH120"
-        },
-        {
-            "id": 135,
+            "id": 674,
             "bank": "MIDDLE EAST BANK",
             "city": "TEHRAN",
             "branch": null,
             "swift_code": "KHMIIRTH"
         },
         {
-            "id": 136,
+            "id": 675,
             "bank": "PARSIAN BANK",
             "city": "AHWAZ",
             "branch": "(AHWAZ)",
             "swift_code": "BKPAIRTHAHW"
         },
         {
-            "id": 137,
+            "id": 676,
             "bank": "PARSIAN BANK",
             "city": "ISFAHAN",
             "branch": "(DR. NOURBAKHSH)",
             "swift_code": "BKPAIRTHNBI"
         },
         {
-            "id": 138,
+            "id": 677,
             "bank": "PARSIAN BANK",
             "city": "ISFAHAN",
             "branch": "(HAKIM NEZAMI ISFAHAN BRANCH)",
             "swift_code": "BKPAIRTHHAK"
         },
         {
-            "id": 139,
+            "id": 678,
             "bank": "PARSIAN BANK",
             "city": "KARAJ",
             "branch": "(MEYDAN MADAR KARAJ)",
             "swift_code": "BKPAIRTHMMK"
         },
         {
-            "id": 140,
+            "id": 679,
             "bank": "PARSIAN BANK",
             "city": "KERMAN",
             "branch": "(KERMAN BRANCH)",
             "swift_code": "BKPAIRTHKER"
         },
         {
-            "id": 141,
+            "id": 680,
             "bank": "PARSIAN BANK",
             "city": "KERMANSHAH",
             "branch": "(FERDOWSI KERMANSHAH BRANCH)",
             "swift_code": "BKPAIRTHFKR"
         },
         {
-            "id": 142,
+            "id": 681,
             "bank": "PARSIAN BANK",
             "city": "KISH ISLAND",
             "branch": "(KISH BRANCH)",
             "swift_code": "BKPAIRTHKSH"
         },
         {
-            "id": 143,
+            "id": 682,
             "bank": "PARSIAN BANK",
             "city": "MASHHAD",
             "branch": "(AHMAD ABAD MASHHAD)",
             "swift_code": "BKPAIRTHAMH"
         },
         {
-            "id": 144,
+            "id": 683,
             "bank": "PARSIAN BANK",
             "city": "ORUMIYEH",
             "branch": "(ORUMIYEH)",
             "swift_code": "BKPAIRTHORU"
         },
         {
-            "id": 145,
+            "id": 684,
             "bank": "PARSIAN BANK",
             "city": "RASHT",
             "branch": "(MOTAHARI RASHT)",
             "swift_code": "BKPAIRTHMOR"
         },
         {
-            "id": 146,
+            "id": 685,
             "bank": "PARSIAN BANK",
             "city": "SARI",
             "branch": "(SARI)",
             "swift_code": "BKPAIRTHSAR"
         },
         {
-            "id": 147,
+            "id": 686,
             "bank": "PARSIAN BANK",
             "city": "SHIRAZ",
             "branch": "(GHASRODASHT BRANCH)",
             "swift_code": "BKPAIRTHSHZ"
         },
         {
-            "id": 148,
+            "id": 687,
             "bank": "PARSIAN BANK",
             "city": "SHIRAZ",
             "branch": "(MA-ALI ABAD SHIRAZ)",
             "swift_code": "BKPAIRTHSHM"
         },
         {
-            "id": 149,
+            "id": 688,
             "bank": "PARSIAN BANK",
             "city": "TABRIZ",
             "branch": "(TABRIZ BRANCH)",
             "swift_code": "BKPAIRTHTBZ"
         },
         {
-            "id": 150,
+            "id": 689,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(AFRIGHAYE SHOMALI)",
             "swift_code": "BKPAIRTHAFS"
         },
         {
-            "id": 151,
+            "id": 690,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(APADANA)",
             "swift_code": "BKPAIRTHAPA"
         },
         {
-            "id": 152,
+            "id": 691,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(ARJANTIN BRANCH )",
             "swift_code": "BKPAIRTHARJ"
         },
         {
-            "id": 153,
+            "id": 692,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(AYATOLLAH KASHANI SHARGHI)",
             "swift_code": "BKPAIRTHKAS"
         },
         {
-            "id": 154,
+            "id": 693,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(AZADI BRANCH)",
             "swift_code": "BKPAIRTHAZD"
         },
         {
-            "id": 155,
+            "id": 694,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(BORJ TEJARAT ELECTRONIC)",
             "swift_code": "BKPAIRTHBTE"
         },
         {
-            "id": 156,
+            "id": 695,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(CENTRAL BRANCH)",
             "swift_code": "BKPAIRTHCEN"
         },
         {
-            "id": 157,
+            "id": 696,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(CENTRAL BRANCH)",
             "swift_code": "BKPAIRTHCNB"
         },
         {
-            "id": 158,
+            "id": 697,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(CHITGAR)",
             "swift_code": "BKPAIRTHCHT"
         },
         {
-            "id": 159,
+            "id": 698,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(DOCTOR FATEMI)",
             "swift_code": "BKPAIRTHDFT"
         },
         {
-            "id": 160,
-            "bank": "PARSIAN BANK",
-            "city": "TEHRAN",
-            "branch": "(ESKANDARI)",
-            "swift_code": "BKPAIRTHESK"
-        },
-        {
-            "id": 161,
+            "id": 699,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(ETTEHAD BRANCH)",
             "swift_code": "BKPAIRTHETD"
         },
         {
-            "id": 162,
+            "id": 700,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(FERDOSI BRANCH)",
             "swift_code": "BKPAIRTHFRD"
         },
         {
-            "id": 163,
+            "id": 701,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(FERESHTEH)",
             "swift_code": "BKPAIRTHFSH"
         },
         {
-            "id": 164,
+            "id": 702,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(GANDI)",
             "swift_code": "BKPAIRTHGAN"
         },
         {
-            "id": 165,
+            "id": 703,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(KAMRANIEH)",
             "swift_code": "BKPAIRTHKAM"
         },
         {
-            "id": 166,
+            "id": 704,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(KARIMKHAN ZAND BRANCH)",
             "swift_code": "BKPAIRTHKRZ"
         },
         {
-            "id": 167,
+            "id": 705,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(LALEH BRANCH)",
             "swift_code": "BKPAIRTHLAL"
         },
         {
-            "id": 168,
+            "id": 706,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(MIRDAMAD GHARBI BRANCH)",
             "swift_code": "BKPAIRTHMDG"
         },
         {
-            "id": 169,
+            "id": 707,
+            "bank": "PARSIAN BANK",
+            "city": "TEHRAN",
+            "branch": "(MIRDAMAD SHARGHI BRANCH)",
+            "swift_code": "BKPAIRTH005"
+        },
+        {
+            "id": 708,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(MOLASADRA BRANCH)",
             "swift_code": "BKPAIRTHMOL"
         },
         {
-            "id": 170,
+            "id": 709,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(MOTAHARI)",
             "swift_code": "BKPAIRTHMOT"
         },
         {
-            "id": 171,
+            "id": 710,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(NAFT SHOMALI)",
             "swift_code": "BKPAIRTHNFN"
         },
         {
-            "id": 172,
+            "id": 711,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(PAMENAR BRANCH)",
             "swift_code": "BKPAIRTHPMN"
         },
         {
-            "id": 173,
+            "id": 712,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(PARK SAEE)",
             "swift_code": "BKPAIRTHPSE"
         },
         {
-            "id": 174,
+            "id": 713,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(PASDARAN BRANCH)",
             "swift_code": "BKPAIRTHPAS"
         },
         {
-            "id": 175,
+            "id": 714,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(RASHID CROSS)",
             "swift_code": "BKPAIRTHRSH"
         },
         {
-            "id": 176,
+            "id": 715,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(SADRA BRANCH)",
             "swift_code": "BKPAIRTHSAD"
         },
         {
-            "id": 177,
+            "id": 716,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(SEPAHBOD GHARANI)",
             "swift_code": "BKPAIRTHSGH"
         },
         {
-            "id": 178,
+            "id": 717,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(SHAHID BEHESHTI SHARGHI)",
             "swift_code": "BKPAIRTHSBS"
         },
         {
-            "id": 179,
+            "id": 718,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(SHEIKH BAHAEE)",
             "swift_code": "BKPAIRTHSHK"
         },
         {
-            "id": 180,
+            "id": 719,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(SHETAB BRANCH)",
             "swift_code": "BKPAIRTHSHB"
         },
         {
-            "id": 181,
+            "id": 720,
+            "bank": "PARSIAN BANK",
+            "city": "TEHRAN",
+            "branch": "(SHIR PASTORIZEH BRANCH)",
+            "swift_code": "BKPAIRTH048"
+        },
+        {
+            "id": 721,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(SOLEYMAN KHATER)",
             "swift_code": "BKPAIRTHSKH"
         },
         {
-            "id": 182,
+            "id": 722,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(TAKHTI BRANCH)",
             "swift_code": "BKPAIRTHSBB"
         },
         {
-            "id": 183,
+            "id": 723,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(TALEGHANI BRANCH)",
             "swift_code": "BKPAIRTHTAL"
         },
         {
-            "id": 184,
+            "id": 724,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(TOHID BRANCH)",
             "swift_code": "BKPAIRTHTOH"
         },
         {
-            "id": 185,
+            "id": 725,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": "(ZAFAR BRANCH)",
             "swift_code": "BKPAIRTHZFR"
         },
         {
-            "id": 186,
+            "id": 726,
             "bank": "PARSIAN BANK",
             "city": "TEHRAN",
             "branch": null,
             "swift_code": "BKPAIRTH"
         },
         {
-            "id": 187,
+            "id": 727,
             "bank": "PARSIAN BANK",
             "city": "YAZD",
             "branch": "(YAZD BRANCH)",
             "swift_code": "BKPAIRTHYZD"
         },
         {
-            "id": 188,
+            "id": 728,
             "bank": "PHOENIX SOFT CORP LTD",
             "city": "ISFAHAN",
             "branch": null,
             "swift_code": "PSCLIRT1"
         },
         {
-            "id": 189,
+            "id": 729,
+            "bank": "POST BANK OF IRAN (P.B.I)",
+            "city": "BUSHEHR",
+            "branch": "(MARKAZI)",
+            "swift_code": "PBIRIRTH113"
+        },
+        {
+            "id": 730,
+            "bank": "POST BANK OF IRAN (P.B.I)",
+            "city": "GORGAN",
+            "branch": "(GORGAN)",
+            "swift_code": "PBIRIRTH653"
+        },
+        {
+            "id": 731,
+            "bank": "POST BANK OF IRAN (P.B.I)",
+            "city": "ISFAHAN",
+            "branch": "(MARKAZI)",
+            "swift_code": "PBIRIRTH803"
+        },
+        {
+            "id": 732,
+            "bank": "POST BANK OF IRAN (P.B.I)",
+            "city": "KARAJ",
+            "branch": "(MESBAH KARAJ)",
+            "swift_code": "PBIRIRTH355"
+        },
+        {
+            "id": 733,
+            "bank": "POST BANK OF IRAN (P.B.I)",
+            "city": "KERMAN",
+            "branch": "(MARKAZI)",
+            "swift_code": "PBIRIRTH238"
+        },
+        {
+            "id": 734,
+            "bank": "POST BANK OF IRAN (P.B.I)",
+            "city": "KERMANSHAH",
+            "branch": "(AZADI)",
+            "swift_code": "PBIRIRTH358"
+        },
+        {
+            "id": 735,
+            "bank": "POST BANK OF IRAN (P.B.I)",
+            "city": "KISH ISLAND",
+            "branch": "(MARKAZI KISH ISLAND)",
+            "swift_code": "PBIRIRTH365"
+        },
+        {
+            "id": 736,
+            "bank": "POST BANK OF IRAN (P.B.I)",
+            "city": "MASHHAD",
+            "branch": "(MARKAZI)",
+            "swift_code": "PBIRIRTH129"
+        },
+        {
+            "id": 737,
+            "bank": "POST BANK OF IRAN (P.B.I)",
+            "city": "RASHT",
+            "branch": "(RASHT)",
+            "swift_code": "PBIRIRTH227"
+        },
+        {
+            "id": 738,
+            "bank": "POST BANK OF IRAN (P.B.I)",
+            "city": "SHIRAZ",
+            "branch": "(MARKAZI-SHIRAZ)",
+            "swift_code": "PBIRIRTH197"
+        },
+        {
+            "id": 739,
+            "bank": "POST BANK OF IRAN (P.B.I)",
+            "city": "TABRIZ",
+            "branch": "(MARKAZI TABRIZ)",
+            "swift_code": "PBIRIRTH423"
+        },
+        {
+            "id": 740,
+            "bank": "POST BANK OF IRAN (P.B.I)",
+            "city": "TEHRAN",
+            "branch": "(AFRIGHA)",
+            "swift_code": "PBIRIRTH147"
+        },
+        {
+            "id": 741,
+            "bank": "POST BANK OF IRAN (P.B.I)",
+            "city": "TEHRAN",
+            "branch": "(EMAM KHOMEYNI)",
+            "swift_code": "PBIRIRTH016"
+        },
+        {
+            "id": 742,
+            "bank": "POST BANK OF IRAN (P.B.I)",
+            "city": "TEHRAN",
+            "branch": "(FALLAHI)",
+            "swift_code": "PBIRIRTH183"
+        },
+        {
+            "id": 743,
+            "bank": "POST BANK OF IRAN (P.B.I)",
+            "city": "TEHRAN",
+            "branch": "(FERDOWSI BR.)",
+            "swift_code": "PBIRIRTH414"
+        },
+        {
+            "id": 744,
+            "bank": "POST BANK OF IRAN (P.B.I)",
+            "city": "TEHRAN",
+            "branch": "(KHACHANI)",
+            "swift_code": "PBIRIRTH102"
+        },
+        {
+            "id": 745,
+            "bank": "POST BANK OF IRAN (P.B.I)",
+            "city": "TEHRAN",
+            "branch": "(MIRZA-E-SHIRAZI)",
+            "swift_code": "PBIRIRTH363"
+        },
+        {
+            "id": 746,
+            "bank": "POST BANK OF IRAN (P.B.I)",
+            "city": "TEHRAN",
+            "branch": "(MOLASADRA)",
+            "swift_code": "PBIRIRTH224"
+        },
+        {
+            "id": 747,
+            "bank": "POST BANK OF IRAN (P.B.I)",
+            "city": "TEHRAN",
+            "branch": "(MOSTAGHEL)",
+            "swift_code": "PBIRIRTH031"
+        },
+        {
+            "id": 748,
+            "bank": "POST BANK OF IRAN (P.B.I)",
+            "city": "TEHRAN",
+            "branch": "(POLESADR)",
+            "swift_code": "PBIRIRTH407"
+        },
+        {
+            "id": 749,
+            "bank": "POST BANK OF IRAN (P.B.I)",
+            "city": "TEHRAN",
+            "branch": "(SETTLEMENT DEPARTMENT)",
+            "swift_code": "PBIRIRTHSET"
+        },
+        {
+            "id": 750,
+            "bank": "POST BANK OF IRAN (P.B.I)",
+            "city": "TEHRAN",
+            "branch": "(SHARIATI)",
+            "swift_code": "PBIRIRTH296"
+        },
+        {
+            "id": 751,
+            "bank": "POST BANK OF IRAN (P.B.I)",
+            "city": "TEHRAN",
+            "branch": "(VALIASR)",
+            "swift_code": "PBIRIRTH079"
+        },
+        {
+            "id": 752,
+            "bank": "POST BANK OF IRAN (P.B.I)",
+            "city": "TEHRAN",
+            "branch": "(VANAK)",
+            "swift_code": "PBIRIRTH392"
+        },
+        {
+            "id": 753,
+            "bank": "POST BANK OF IRAN (P.B.I)",
+            "city": "TEHRAN",
+            "branch": null,
+            "swift_code": "PBIRIRTH"
+        },
+        {
+            "id": 754,
+            "bank": "POST BANK OF IRAN (P.B.I)",
+            "city": "ZAHEDAN",
+            "branch": "(MARKAZI)",
+            "swift_code": "PBIRIRTH327"
+        },
+        {
+            "id": 755,
             "bank": "SAMAN BANK CORPORATION",
             "city": "AHWAZ",
             "branch": "(AHWAZ BRANCH)",
             "swift_code": "SABCIRTH9AH"
         },
         {
-            "id": 190,
+            "id": 756,
             "bank": "SAMAN BANK CORPORATION",
             "city": "ALBORZ",
             "branch": null,
             "swift_code": "SABCIRTH8AL"
         },
         {
-            "id": 191,
+            "id": 757,
             "bank": "SAMAN BANK CORPORATION",
             "city": "AMOL",
             "branch": "(AMOL BRANCH)",
             "swift_code": "SABCIRTH9AM"
         },
         {
-            "id": 192,
+            "id": 758,
             "bank": "SAMAN BANK CORPORATION",
             "city": "ARAK",
             "branch": "(ARAK)",
             "swift_code": "SABCIRTH9AK"
         },
         {
-            "id": 193,
+            "id": 759,
             "bank": "SAMAN BANK CORPORATION",
             "city": "ARDABIL",
             "branch": "(ARDEBIL BRANCH)",
             "swift_code": "SABCIRTH9AR"
         },
         {
-            "id": 194,
+            "id": 760,
             "bank": "SAMAN BANK CORPORATION",
             "city": "BABOL",
             "branch": "(BABOL BRANCH)",
             "swift_code": "SABCIRTH9BL"
         },
         {
-            "id": 195,
+            "id": 761,
             "bank": "SAMAN BANK CORPORATION",
             "city": "BANDAR ABBAS",
             "branch": "(BANDAR ABBAS)",
             "swift_code": "SABCIRTH9BS"
         },
         {
-            "id": 196,
+            "id": 762,
             "bank": "SAMAN BANK CORPORATION",
             "city": "BUSHEHR",
             "branch": "(BUSHEHR BRANCH)",
             "swift_code": "SABCIRTH9BR"
         },
         {
-            "id": 197,
+            "id": 763,
             "bank": "SAMAN BANK CORPORATION",
             "city": "GHAZVIN",
             "branch": "(GHAZVIN)",
             "swift_code": "SABCIRTH9GH"
         },
         {
-            "id": 198,
+            "id": 764,
             "bank": "SAMAN BANK CORPORATION",
             "city": "GORGAN",
             "branch": "(GORGAN)",
             "swift_code": "SABCIRTH9GO"
         },
         {
-            "id": 199,
+            "id": 765,
             "bank": "SAMAN BANK CORPORATION",
             "city": "HAMADAN",
             "branch": "(HAMEDAN)",
             "swift_code": "SABCIRTH9HA"
         },
         {
-            "id": 200,
+            "id": 766,
             "bank": "SAMAN BANK CORPORATION",
             "city": "ISFAHAN",
             "branch": "(CHAHAR BAGH-E-BALA BRANCH)",
             "swift_code": "SABCIRTH9CH"
         },
         {
-            "id": 201,
-            "bank": "SAMAN BANK CORPORATION",
-            "city": "ISFAHAN",
-            "branch": "(ESFAHAN CORPORATION BRANCH)",
-            "swift_code": "SABCIRTH9CE"
-        },
-        {
-            "id": 202,
+            "id": 767,
             "bank": "SAMAN BANK CORPORATION",
             "city": "ISFAHAN",
             "branch": "(HAFEZ ISFAHAN BRANCH)",
             "swift_code": "SABCIRTH9HE"
         },
         {
-            "id": 203,
+            "id": 768,
             "bank": "SAMAN BANK CORPORATION",
             "city": "ISFAHAN",
             "branch": "(ISFAHAN BRANCH)",
             "swift_code": "SABCIRTH9ES"
         },
         {
-            "id": 204,
+            "id": 769,
+            "bank": "SAMAN BANK CORPORATION",
+            "city": "ISFAHAN",
+            "branch": "(UNIT 1 CORPORATION BRANCH)",
+            "swift_code": "SABCIRTH9CE"
+        },
+        {
+            "id": 770,
             "bank": "SAMAN BANK CORPORATION",
             "city": "KARAJ",
             "branch": "(JAHANSHAHR-E-KARAJ)",
             "swift_code": "SABCIRTH9JK"
         },
         {
-            "id": 205,
+            "id": 771,
             "bank": "SAMAN BANK CORPORATION",
             "city": "KARAJ",
             "branch": "(KARAJ BRANCH)",
             "swift_code": "SABCIRTH8KJ"
         },
         {
-            "id": 206,
+            "id": 772,
             "bank": "SAMAN BANK CORPORATION",
             "city": "KERMAN",
             "branch": "(KERMAN BRANCH)",
             "swift_code": "SABCIRTH9KE"
         },
         {
-            "id": 207,
+            "id": 773,
             "bank": "SAMAN BANK CORPORATION",
             "city": "KERMANSHAH",
             "branch": "(KERMANSHAH BRANCH)",
             "swift_code": "SABCIRTH9KM"
         },
         {
-            "id": 208,
+            "id": 774,
             "bank": "SAMAN BANK CORPORATION",
             "city": "KISH ISLAND",
             "branch": "(KISH BRANCH)",
             "swift_code": "SABCIRTH9KI"
         },
         {
-            "id": 209,
+            "id": 775,
             "bank": "SAMAN BANK CORPORATION",
             "city": "MASHHAD",
             "branch": "(MASHHAD BRANCH)",
             "swift_code": "SABCIRTH9MA"
         },
         {
-            "id": 210,
-            "bank": "SAMAN BANK CORPORATION",
-            "city": "MASHHAD",
-            "branch": "(MASHHAD CORPORATION BRANCH)",
-            "swift_code": "SABCIRTH9CM"
-        },
-        {
-            "id": 211,
+            "id": 776,
             "bank": "SAMAN BANK CORPORATION",
             "city": "MASHHAD",
             "branch": "(MODARRES MASHHAD BRANCH)",
             "swift_code": "SABCIRTH9MM"
         },
         {
-            "id": 212,
+            "id": 777,
             "bank": "SAMAN BANK CORPORATION",
             "city": "MASHHAD",
             "branch": "(SAJJAD-E- MASHHAD BRANCH)",
             "swift_code": "SABCIRTH9SM"
         },
         {
-            "id": 213,
+            "id": 778,
+            "bank": "SAMAN BANK CORPORATION",
+            "city": "MASHHAD",
+            "branch": "(UNIT 2 CORPORATION BRANCH)",
+            "swift_code": "SABCIRTH9CM"
+        },
+        {
+            "id": 779,
             "bank": "SAMAN BANK CORPORATION",
             "city": "ORUMIYEH",
             "branch": "(OROUMIEH BRANCH)",
             "swift_code": "SABCIRTH9OR"
         },
         {
-            "id": 214,
+            "id": 780,
             "bank": "SAMAN BANK CORPORATION",
             "city": "ORUMIYEH",
             "branch": "(SARDARAN-E-OROUMIEH)",
             "swift_code": "SABCIRTH9SO"
         },
         {
-            "id": 215,
+            "id": 781,
             "bank": "SAMAN BANK CORPORATION",
             "city": "QESHM",
             "branch": "(QESHM)",
             "swift_code": "SABCIRTH9QM"
         },
         {
-            "id": 216,
+            "id": 782,
             "bank": "SAMAN BANK CORPORATION",
             "city": "QOM",
             "branch": "(FALAKE JAHAD QOM BRANCH)",
             "swift_code": "SABCIRTH9JQ"
         },
         {
-            "id": 217,
+            "id": 783,
             "bank": "SAMAN BANK CORPORATION",
             "city": "QOM",
             "branch": "(QOM)",
             "swift_code": "SABCIRTH9QO"
         },
         {
-            "id": 218,
+            "id": 784,
             "bank": "SAMAN BANK CORPORATION",
             "city": "RASHT",
             "branch": "(RASHT BRANCH)",
             "swift_code": "SABCIRTH9RA"
         },
         {
-            "id": 219,
+            "id": 785,
             "bank": "SAMAN BANK CORPORATION",
             "city": "SADEGHIE",
             "branch": null,
             "swift_code": "SABCIRTH8SA"
         },
         {
-            "id": 220,
+            "id": 786,
             "bank": "SAMAN BANK CORPORATION",
             "city": "SANANDAJ",
             "branch": "(SANANDAJ)",
             "swift_code": "SABCIRTH9SN"
         },
         {
-            "id": 221,
+            "id": 787,
             "bank": "SAMAN BANK CORPORATION",
             "city": "SARI",
             "branch": "(SARY)",
             "swift_code": "SABCIRTH9SY"
         },
         {
-            "id": 222,
+            "id": 788,
             "bank": "SAMAN BANK CORPORATION",
             "city": "SHAHRAK GHARB",
             "branch": null,
             "swift_code": "SABCIRTH8SH"
         },
         {
-            "id": 223,
+            "id": 789,
             "bank": "SAMAN BANK CORPORATION",
             "city": "SHAHRIARI",
             "branch": "(SHAHRIAR)",
             "swift_code": "SABCIRTH9SR"
         },
         {
-            "id": 224,
+            "id": 790,
             "bank": "SAMAN BANK CORPORATION",
             "city": "SHIRAZ",
             "branch": "(BAZAR-E-VAKIL-E-SHIRAZ BRANCH)",
             "swift_code": "SABCIRTH9VS"
         },
         {
-            "id": 225,
+            "id": 791,
             "bank": "SAMAN BANK CORPORATION",
             "city": "SHIRAZ",
             "branch": "(FALAK-E-GAZ-E-SHIRAZ BRANCH)",
             "swift_code": "SABCIRTH9FS"
         },
         {
-            "id": 226,
+            "id": 792,
             "bank": "SAMAN BANK CORPORATION",
             "city": "SHIRAZ",
             "branch": "(GHASR-E-DASHT-E- SHIRAZ BRANCH)",
             "swift_code": "SABCIRTH9GS"
         },
         {
-            "id": 227,
+            "id": 793,
             "bank": "SAMAN BANK CORPORATION",
             "city": "SHIRAZ",
             "branch": "(MIRZAY-E-SHIRAZI BRANCH)",
             "swift_code": "SABCIRTH9MI"
         },
         {
-            "id": 228,
+            "id": 794,
             "bank": "SAMAN BANK CORPORATION",
             "city": "SHIRAZ",
             "branch": null,
             "swift_code": "SABCIRTH9SH"
         },
         {
-            "id": 229,
+            "id": 795,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TABRIZ",
             "branch": "(BAZAR-E-TABRIZ BRANCH)",
             "swift_code": "SABCIRTH9BT"
         },
         {
-            "id": 230,
+            "id": 796,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TABRIZ",
             "branch": "(SHAHRIYAR-E-TABRIZ BRANCH)",
             "swift_code": "SABCIRTH9TS"
         },
         {
-            "id": 231,
+            "id": 797,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TABRIZ",
             "branch": "(TABRIZ BRANCH)",
             "swift_code": "SABCIRTH9TA"
         },
         {
-            "id": 232,
+            "id": 798,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TABRIZ",
-            "branch": "(TABRIZ CORPORATION BRANCH)",
+            "branch": "(UNIT 3 CORPORATION BRANCH)",
             "swift_code": "SABCIRTH9CT"
         },
         {
-            "id": 233,
+            "id": 799,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TABRIZ",
             "branch": "(VALI-E-ASR TABRIZ BRANCH)",
             "swift_code": "SABCIRTH9VT"
         },
         {
-            "id": 234,
+            "id": 800,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(24 METRI SAADABAD BRANCH)",
             "swift_code": "SABCIRTH8BM"
         },
         {
-            "id": 235,
+            "id": 801,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(AFRIGHA BRANCH)",
             "swift_code": "SABCIRTH8AF"
         },
         {
-            "id": 236,
+            "id": 802,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(AFRIQA SHOMALI BRANCH)",
             "swift_code": "SABCIRTH8NA"
         },
         {
-            "id": 237,
+            "id": 803,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(AGHDASIEH BRANCH)",
             "swift_code": "SABCIRTH8AG"
         },
         {
-            "id": 238,
+            "id": 804,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(AJUDANIYE BRANCH)",
             "swift_code": "SABCIRTH8AY"
         },
         {
-            "id": 239,
+            "id": 805,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(AMIN HOZUR BRANCH)",
             "swift_code": "SABCIRTH8NR"
         },
         {
-            "id": 240,
+            "id": 806,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(ARIKE IRANIAN BRANCH)",
             "swift_code": "SABCIRTH8AI"
         },
         {
-            "id": 241,
+            "id": 807,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(ARJANTIN BRANCH)",
             "swift_code": "SABCIRTH8AJ"
         },
         {
-            "id": 242,
+            "id": 808,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(ASEF BRANCH)",
             "swift_code": "SABCIRTH8AS"
         },
         {
-            "id": 243,
+            "id": 809,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(AZARBAYJAN BRANCH)",
             "swift_code": "SABCIRTH8AZ"
         },
         {
-            "id": 244,
+            "id": 810,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(BAGH FERDOWS BRANCH)",
             "swift_code": "SABCIRTH8BA"
         },
         {
-            "id": 245,
+            "id": 811,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(BAZAR BRANCH)",
             "swift_code": "SABCIRTH8BZ"
         },
         {
-            "id": 246,
+            "id": 812,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(BEHESHTI BRANCH)",
             "swift_code": "SABCIRTH8BH"
         },
         {
-            "id": 247,
+            "id": 813,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(BOLVAR DARYA)",
             "swift_code": "SABCIRTH8BD"
         },
         {
-            "id": 248,
+            "id": 814,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(BOLVAR MARZDARAN BRANCH)",
             "swift_code": "SABCIRTH8MR"
         },
         {
-            "id": 249,
+            "id": 815,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(BOZORGRAH FATH BRANCH)",
             "swift_code": "SABCIRTH8BF"
         },
         {
-            "id": 250,
+            "id": 816,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(CENTRAL BRANCH)",
             "swift_code": "SABCIRTH8CB"
         },
         {
-            "id": 251,
+            "id": 817,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(CORPORATE)",
             "swift_code": "SABCIRTH8CD"
         },
         {
-            "id": 252,
+            "id": 818,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(CREDIT CARD SERVICES)",
             "swift_code": "SABCIRTHSHB"
         },
         {
-            "id": 253,
+            "id": 819,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(DEZASHIB BRANCH)",
             "swift_code": "SABCIRTH8DS"
         },
         {
-            "id": 254,
+            "id": 820,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(DOWLAT)",
             "swift_code": "SABCIRTH8DT"
         },
         {
-            "id": 255,
+            "id": 821,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(EKBATAN BRANCH)",
             "swift_code": "SABCIRTH8EK"
         },
         {
-            "id": 256,
+            "id": 822,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(EKHTIYARIYEH BRANCH)",
             "swift_code": "SABCIRTH8ET"
         },
         {
-            "id": 257,
+            "id": 823,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(ELAHIYEH BRANCH)",
             "swift_code": "SABCIRTH8EL"
         },
         {
-            "id": 258,
+            "id": 824,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(EVIN BRANCH)",
             "swift_code": "SABCIRTH8EV"
         },
         {
-            "id": 259,
+            "id": 825,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(FALAKE SEVOM TEHRAN PARS)",
             "swift_code": "SABCIRTH8TP"
         },
         {
-            "id": 260,
+            "id": 826,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(FALAK-E-AVAL-E-TEHRANPARS BRANCH)",
             "swift_code": "SABCIRTH8FT"
         },
         {
-            "id": 261,
+            "id": 827,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(FATEMI )",
             "swift_code": "SABCIRTH8FA"
         },
         {
-            "id": 262,
+            "id": 828,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(FOREIGN EXCHANGE DEPT.)",
             "swift_code": "SABCIRTHFXD"
         },
         {
-            "id": 263,
+            "id": 829,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(FOROUDGAHE MEHRABAD BRANCH)",
             "swift_code": "SABCIRTH8FM"
         },
         {
-            "id": 264,
+            "id": 830,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(GHOLHAK BRANCH)",
             "swift_code": "SABCIRTH8GL"
         },
         {
-            "id": 265,
+            "id": 831,
+            "bank": "SAMAN BANK CORPORATION",
+            "city": "TEHRAN",
+            "branch": "(GISHA BRANCH)",
+            "swift_code": "SABCIRTH8GI"
+        },
+        {
+            "id": 832,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(HOSSEINABAD SQ. BRANCH)",
             "swift_code": "SABCIRTH8HA"
         },
         {
-            "id": 266,
+            "id": 833,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(HYPERSTAR BRANCH)",
             "swift_code": "SABCIRTH8HS"
         },
         {
-            "id": 267,
+            "id": 834,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(IRAN ZAMIN )",
             "swift_code": "SABCIRTH8IZ"
         },
         {
-            "id": 268,
+            "id": 835,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(JAM-E-JAM BRANCH)",
             "swift_code": "SABCIRTH8JJ"
         },
         {
-            "id": 269,
+            "id": 836,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(JANNAT ABAD)",
             "swift_code": "SABCIRTH8JA"
         },
         {
-            "id": 270,
+            "id": 837,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(JOMHURI-ABUREYHAN BRANCH)",
             "swift_code": "SABCIRTH8JN"
         },
         {
-            "id": 271,
+            "id": 838,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(KAREGAR E SHOMALI BRANCH)",
             "swift_code": "SABCIRTH8NK"
         },
         {
-            "id": 272,
+            "id": 839,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(KARIMKHAN E ZAND BRANCH)",
             "swift_code": "SABCIRTH8KZ"
         },
         {
-            "id": 273,
+            "id": 840,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(LAVASANI BRANCH)",
             "swift_code": "SABCIRTH8LA"
         },
         {
-            "id": 274,
+            "id": 841,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(MAHAN)",
             "swift_code": "SABCIRTH8MN"
         },
         {
-            "id": 275,
+            "id": 842,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(MELLAT-E-EKBATAN BRANCH)",
             "swift_code": "SABCIRTH8ME"
         },
         {
-            "id": 276,
+            "id": 843,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(MEYDAN-E-NOBOVAT BRANCH)",
             "swift_code": "SABCIRTH8NB"
         },
         {
-            "id": 277,
+            "id": 844,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(MIRDAMAD BRANCH)",
             "swift_code": "SABCIRTH8MD"
         },
         {
-            "id": 278,
+            "id": 845,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(MOLAVI BRANCH)",
             "swift_code": "SABCIRTH8MV"
         },
         {
-            "id": 279,
+            "id": 846,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(MOLLASADRA BRANCH)",
             "swift_code": "SABCIRTH8ML"
         },
         {
-            "id": 280,
+            "id": 847,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(MONIRIEH BRANCH)",
             "swift_code": "SABCIRTH8MO"
         },
         {
-            "id": 281,
+            "id": 848,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(NIAVARAN BRANCH)",
             "swift_code": "SABCIRTH8NI"
         },
         {
-            "id": 282,
+            "id": 849,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(NISHABOUR MASHHAD BRANCH)",
             "swift_code": "SABCIRTH9NM"
         },
         {
-            "id": 283,
+            "id": 850,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(OLYMPIC BRANCH)",
             "swift_code": "SABCIRTH8OL"
         },
         {
-            "id": 284,
+            "id": 851,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(PARK-E-SAEI BRANCH)",
             "swift_code": "SABCIRTH8PS"
         },
         {
-            "id": 285,
+            "id": 852,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(PASDARAN BRANCH)",
             "swift_code": "SABCIRTH8PA"
         },
         {
-            "id": 286,
+            "id": 853,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(PIROUZI BRANCH)",
             "swift_code": "SABCIRTH8PI"
         },
         {
-            "id": 287,
+            "id": 854,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(POL-E-ROOMI BRANCH)",
             "swift_code": "SABCIRTH8PR"
         },
         {
-            "id": 288,
+            "id": 855,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(QEYTARIEH BRANCH)",
             "swift_code": "SABCIRTH8QE"
         },
         {
-            "id": 289,
+            "id": 856,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(SAADAT ABAD)",
             "swift_code": "SABCIRTH8SD"
         },
         {
-            "id": 290,
+            "id": 857,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(SAMAN EXCHANGE BRANCH)",
             "swift_code": "SABCIRTH8SE"
         },
         {
-            "id": 291,
+            "id": 858,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(SAMAN EXCHANGE PASDARAN)",
             "swift_code": "SABCIRTHSEP"
         },
         {
-            "id": 292,
+            "id": 859,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(SARV BRANCH)",
             "swift_code": "SABCIRTH8SV"
         },
         {
-            "id": 293,
+            "id": 860,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(SEYED JAMALEDDIN-E- ASADABADI)",
             "swift_code": "SABCIRTH8JM"
         },
         {
-            "id": 294,
+            "id": 861,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(SHAHRAK-E-RAHAHAN BRANCH)",
             "swift_code": "SABCIRTH8RH"
         },
         {
-            "id": 295,
+            "id": 862,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(SHAHR-E-KORD BRANCH)",
             "swift_code": "SABCIRTH8SK"
         },
         {
-            "id": 296,
+            "id": 863,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(SHAHR-E-REY BRANCH)",
             "swift_code": "SABCIRTH8SR"
         },
         {
-            "id": 297,
+            "id": 864,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(STOCK MARKET)",
             "swift_code": "SABCIRTH8ST"
         },
         {
-            "id": 298,
+            "id": 865,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(VALIASR ZARTOSHT BRANCH)",
             "swift_code": "SABCIRTH8ZV"
         },
         {
-            "id": 299,
+            "id": 866,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(VANAK BRANCH)",
             "swift_code": "SABCIRTH8VN"
         },
         {
-            "id": 300,
+            "id": 867,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(VELENJAK BRANCH)",
             "swift_code": "SABCIRTH8VJ"
         },
         {
-            "id": 301,
+            "id": 868,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(YAFTABAD BRANCH)",
             "swift_code": "SABCIRTH8YF"
         },
         {
-            "id": 302,
+            "id": 869,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": "(ZAYANDEH ROOD BRANCH)",
             "swift_code": "SABCIRTH9ZE"
         },
         {
-            "id": 303,
+            "id": 870,
             "bank": "SAMAN BANK CORPORATION",
             "city": "TEHRAN",
             "branch": null,
             "swift_code": "SABCIRTH"
         },
         {
-            "id": 304,
+            "id": 871,
             "bank": "SAMAN BANK CORPORATION",
             "city": "YAZD",
             "branch": "(BULVAR-E-JOMHURIYE YAZD BRANCH)",
             "swift_code": "SABCIRTH9JY"
         },
         {
-            "id": 305,
+            "id": 872,
             "bank": "SAMAN BANK CORPORATION",
             "city": "YAZD",
             "branch": "(YAZD BRANCH)",
             "swift_code": "SABCIRTH9YZ"
         },
         {
-            "id": 306,
+            "id": 873,
             "bank": "SAMAN BANK CORPORATION",
             "city": "ZAHEDAN",
             "branch": "(ZAHEDAN)",
             "swift_code": "SABCIRTH9ZN"
         },
         {
-            "id": 307,
+            "id": 874,
             "bank": "SAMAN BANK CORPORATION",
             "city": "ZANJAN",
             "branch": "(ZANJAN BRANCH)",
             "swift_code": "SABCIRTH9ZA"
         },
         {
-            "id": 308,
+            "id": 875,
+            "bank": "SARMAYE BANK (P.J.S.C)",
+            "city": "HAMADAN",
+            "branch": "(SARMAYE HAMEDAN BRANCH)",
+            "swift_code": "SRMBIRTH384"
+        },
+        {
+            "id": 876,
             "bank": "SARMAYE BANK (P.J.S.C)",
             "city": "ISFAHAN",
             "branch": "(ISFAHAN BRANCH)",
             "swift_code": "SRMBIRTHESF"
         },
         {
-            "id": 309,
+            "id": 877,
             "bank": "SARMAYE BANK (P.J.S.C)",
             "city": "ISFAHAN",
             "branch": "(SHEYKH SADOGH)",
             "swift_code": "SRMBIRTH601"
         },
         {
-            "id": 310,
+            "id": 878,
             "bank": "SARMAYE BANK (P.J.S.C)",
             "city": "KISH ISLAND",
             "branch": "(KISH)",
             "swift_code": "SRMBIRTH401"
         },
         {
-            "id": 311,
+            "id": 879,
             "bank": "SARMAYE BANK (P.J.S.C)",
             "city": "MASHHAD",
             "branch": "(AHMADABAD BRANCH)",
             "swift_code": "SRMBIRTHMSH"
         },
         {
-            "id": 312,
+            "id": 880,
+            "bank": "SARMAYE BANK (P.J.S.C)",
+            "city": "SARI",
+            "branch": "(SARMAYE FARHANG SARI BRANCH)",
+            "swift_code": "SRMBIRTH373"
+        },
+        {
+            "id": 881,
+            "bank": "SARMAYE BANK (P.J.S.C)",
+            "city": "SHIRAZ",
+            "branch": "(SARMAYE SHIRAZ BRANCH)",
+            "swift_code": "SRMBIRTH342"
+        },
+        {
+            "id": 882,
             "bank": "SARMAYE BANK (P.J.S.C)",
             "city": "TABRIZ",
             "branch": "(OSTAD SHAHRYAR)",
             "swift_code": "SRMBIRTH301"
         },
         {
-            "id": 313,
+            "id": 883,
+            "bank": "SARMAYE BANK (P.J.S.C)",
+            "city": "TABRIZ",
+            "branch": "(VALIASR TABRIZ)",
+            "swift_code": "SRMBIRTH300"
+        },
+        {
+            "id": 884,
+            "bank": "SARMAYE BANK (P.J.S.C)",
+            "city": "TEHRAN",
+            "branch": "(ASEF)",
+            "swift_code": "SRMBIRTHASF"
+        },
+        {
+            "id": 885,
             "bank": "SARMAYE BANK (P.J.S.C)",
             "city": "TEHRAN",
             "branch": "(CENTRAL BRANCH)",
             "swift_code": "SRMBIRTHCNT"
         },
         {
-            "id": 314,
+            "id": 886,
             "bank": "SARMAYE BANK (P.J.S.C)",
             "city": "TEHRAN",
             "branch": "(ELAHIYE BRANCH)",
             "swift_code": "SRMBIRTHELH"
         },
         {
-            "id": 315,
+            "id": 887,
             "bank": "SARMAYE BANK (P.J.S.C)",
             "city": "TEHRAN",
             "branch": "(ESKAN BRANCH)",
             "swift_code": "SRMBIRTHESK"
         },
         {
-            "id": 316,
+            "id": 888,
             "bank": "SARMAYE BANK (P.J.S.C)",
             "city": "TEHRAN",
             "branch": "(FATEMI BRANCH)",
             "swift_code": "SRMBIRTHFAT"
         },
         {
-            "id": 317,
+            "id": 889,
+            "bank": "SARMAYE BANK (P.J.S.C)",
+            "city": "TEHRAN",
+            "branch": "(KARIM KHAN)",
+            "swift_code": "SRMBIRTHKAR"
+        },
+        {
+            "id": 890,
+            "bank": "SARMAYE BANK (P.J.S.C)",
+            "city": "TEHRAN",
+            "branch": "(NAHID BRANCH)",
+            "swift_code": "SRMBIRTH056"
+        },
+        {
+            "id": 891,
+            "bank": "SARMAYE BANK (P.J.S.C)",
+            "city": "TEHRAN",
+            "branch": "(NORTH SHIRAZ)",
+            "swift_code": "SRMBIRTH002"
+        },
+        {
+            "id": 892,
+            "bank": "SARMAYE BANK (P.J.S.C)",
+            "city": "TEHRAN",
+            "branch": "(SARMAYE SAADAT ABAD BRANCH)",
+            "swift_code": "SRMBIRTH004"
+        },
+        {
+            "id": 893,
+            "bank": "SARMAYE BANK (P.J.S.C)",
+            "city": "TEHRAN",
+            "branch": "(SARMAYEH AFRICA BOULEVARD BRANCH)",
+            "swift_code": "SRMBIRTH035"
+        },
+        {
+            "id": 894,
+            "bank": "SARMAYE BANK (P.J.S.C)",
+            "city": "TEHRAN",
+            "branch": "(SARMAYEH ARGENTINA SQUARE BRANCH)",
+            "swift_code": "SRMBIRTH038"
+        },
+        {
+            "id": 895,
+            "bank": "SARMAYE BANK (P.J.S.C)",
+            "city": "TEHRAN",
+            "branch": "(SARMAYEH MIRDAMAD BRANCH)",
+            "swift_code": "SRMBIRTH034"
+        },
+        {
+            "id": 896,
+            "bank": "SARMAYE BANK (P.J.S.C)",
+            "city": "TEHRAN",
+            "branch": "(SARMAYEH MOTAHARI BRANCH)",
+            "swift_code": "SRMBIRTH014"
+        },
+        {
+            "id": 897,
             "bank": "SARMAYE BANK (P.J.S.C)",
             "city": "TEHRAN",
             "branch": null,
             "swift_code": "SRMBIRTH"
         },
         {
-            "id": 318,
-            "bank": "TAT BANK",
-            "city": "TEHRAN",
-            "branch": null,
-            "swift_code": "TATBIRTH"
+            "id": 898,
+            "bank": "SINA BANK",
+            "city": "KISH ISLAND",
+            "branch": "(KISH  ISLAND BRANCH)",
+            "swift_code": "SINAIRTH418"
         },
         {
-            "id": 319,
+            "id": 899,
+            "bank": "SINA BANK",
+            "city": "TEHRAN",
+            "branch": null,
+            "swift_code": "SINAIRTH"
+        },
+        {
+            "id": 900,
             "bank": "TEHERAN STOCK EXCHANGE",
             "city": "TEHRAN",
             "branch": null,
             "swift_code": "XTEHIRT1"
         },
         {
-            "id": 320,
+            "id": 901,
+            "bank": "TOSEE TAAVON BANK",
+            "city": "TEHRAN",
+            "branch": null,
+            "swift_code": "TTBIIRTH"
+        },
+        {
+            "id": 902,
             "bank": "TOURISM BANK",
             "city": "TEHRAN",
             "branch": null,

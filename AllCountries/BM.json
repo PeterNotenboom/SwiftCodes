@@ -4,7 +4,7 @@
     "list": [
         {
             "id": 1,
-            "bank": "ALTREE FINANCIAL LTD.",
+            "bank": "ALTREE FINANCIAL GROUP LTD.",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "ALCUBMHH"
@@ -18,370 +18,391 @@
         },
         {
             "id": 3,
+            "bank": "AXIS SPECIALTY BERMUDA LIMITED",
+            "city": "HAMILTON",
+            "branch": null,
+            "swift_code": "AXSBBMHM"
+        },
+        {
+            "id": 4,
             "bank": "BANK OF N.T. BUTTERFIELD AND SON LIMITED, THE",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "BNTBBMHM"
         },
         {
-            "id": 4,
+            "id": 5,
             "bank": "BERMUDA COMMERCIAL BANK LIMITED",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "BPBKBMHM"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "BERMUDA MONETARY AUTHORITY",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "BEMABMHM"
         },
         {
-            "id": 6,
+            "id": 7,
             "bank": "BERMUDA STOCK EXCHANGE LTD, THE",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "XBDABMH1"
         },
         {
-            "id": 7,
+            "id": 8,
             "bank": "BERMUDA TRUST COMPANY LIMITED",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "BERTBMH1"
         },
         {
-            "id": 8,
+            "id": 9,
             "bank": "BLOOMBERG TRADEBOOK (BERMUDA) LTD.",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "TBASBMHM"
         },
         {
-            "id": 9,
+            "id": 10,
             "bank": "BOLTON CAPITAL PARTNERS INTERNATIONAL LIMITED",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "BCPNBMH1"
         },
         {
-            "id": 10,
+            "id": 11,
             "bank": "BOSTON RE LTD",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "BOSRBMHM"
         },
         {
-            "id": 11,
+            "id": 12,
+            "bank": "BOSTON RE LTD",
+            "city": "HAMILTON",
+            "branch": null,
+            "swift_code": "BOSRBMHMVIS"
+        },
+        {
+            "id": 13,
+            "bank": "BTG PACTUAL GLOBAL ASSET MANAGEMENT LIMITED",
+            "city": "HAMILTON",
+            "branch": null,
+            "swift_code": "BPGTBMH1"
+        },
+        {
+            "id": 14,
             "bank": "BUTTERFIELD TRUST (BERMUDA) LIMITED",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "BNTBBMHS"
         },
         {
-            "id": 12,
+            "id": 15,
             "bank": "CAMBUSLANG INVESTMENTS LIMITED",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "CMILBMH1"
         },
         {
-            "id": 13,
+            "id": 16,
             "bank": "CASTLE HARBOUR INSURANCE LIMITED",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "CAHIBMH1"
         },
         {
-            "id": 14,
+            "id": 17,
             "bank": "CHURCHILL CAPITAL LTD.",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "CHCABMH1"
         },
         {
-            "id": 15,
+            "id": 18,
             "bank": "CLARIEN BANK LIMITED",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "CAGPBMHM"
         },
         {
-            "id": 16,
+            "id": 19,
             "bank": "CS LIFE BERMUDA",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "CSLEBMH1"
         },
         {
-            "id": 17,
+            "id": 20,
             "bank": "DKR IBEX",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "DKIBBMH1"
         },
         {
-            "id": 18,
+            "id": 21,
             "bank": "DKR OASIS FISCHER GROUP",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "DOFGBMH1"
         },
         {
-            "id": 19,
+            "id": 22,
             "bank": "EVEREST CAPITAL GLOBAL LTD",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "EVCIBMH1"
         },
         {
-            "id": 20,
+            "id": 23,
             "bank": "GLENCORE FINANCE (BERMUDA) LTD",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "GFBEBMH1"
         },
         {
-            "id": 21,
+            "id": 24,
             "bank": "G-TRADE SERVICES LLC",
             "city": "HAMILTON",
             "branch": "(DIVISION G-PORT)",
             "swift_code": "GTRDBMH1GPO"
         },
         {
-            "id": 22,
+            "id": 25,
             "bank": "G-TRADE SERVICES LLC",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "GTRDBMH1"
         },
         {
-            "id": 23,
+            "id": 26,
             "bank": "HARRINGTON SOUND INSURANCE LIMITED",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "HSILBMH1"
         },
         {
-            "id": 24,
-            "bank": "HSBC BANK BERMUDA",
+            "id": 27,
+            "bank": "HSBC BANK BERMUDA LIMITED",
             "city": "HAMILTON",
             "branch": "(CORPORATE TRUST SERVICES)",
             "swift_code": "BBDABMHMCTS"
         },
         {
-            "id": 25,
-            "bank": "HSBC BANK BERMUDA",
+            "id": 28,
+            "bank": "HSBC BANK BERMUDA LIMITED",
             "city": "HAMILTON",
             "branch": "(INVESTMENT DEPT)",
             "swift_code": "BBDABMHMINV"
         },
         {
-            "id": 26,
-            "bank": "HSBC BANK BERMUDA",
+            "id": 29,
+            "bank": "HSBC BANK BERMUDA LIMITED",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "BBDABMHM"
         },
         {
-            "id": 27,
-            "bank": "HSBC BANK BERMUDA",
+            "id": 30,
+            "bank": "HSBC BANK BERMUDA LIMITED",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "BBDABMHP"
         },
         {
-            "id": 28,
+            "id": 31,
             "bank": "INVESCO LTD",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "IVZLBMHH"
         },
         {
-            "id": 29,
+            "id": 32,
             "bank": "KINTORE INVESTMENTS LIMITED",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "KINTBMH1"
         },
         {
-            "id": 30,
+            "id": 33,
             "bank": "MARCUARD SPECTRUM LIMITED",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "MAUMBMH1"
         },
         {
-            "id": 31,
+            "id": 34,
             "bank": "MERRILL LYNCH REINSURANCE SOLUTIONS",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "MLRIBMHM"
         },
         {
-            "id": 32,
+            "id": 35,
             "bank": "MF GLOBAL LTD",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "MFGLBMH1"
         },
         {
-            "id": 33,
+            "id": 36,
             "bank": "MICROSOFT GLOBAL FINANCE",
             "city": "HAMILTON",
             "branch": "(MICROSOFT GLOBAL BOND)",
             "swift_code": "MSFTBMH1GLB"
         },
         {
-            "id": 34,
+            "id": 37,
             "bank": "MICROSOFT GLOBAL FINANCE",
             "city": "HAMILTON",
             "branch": "(MICROSOFT GLOBAL FINANCE FX)",
             "swift_code": "MSFTBMH1SPF"
         },
         {
-            "id": 35,
+            "id": 38,
             "bank": "MICROSOFT GLOBAL FINANCE",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "MSFTBMH1"
         },
         {
-            "id": 36,
+            "id": 39,
             "bank": "NEPHILA CAPITAL LTD.",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "NEPHBMHM"
         },
         {
-            "id": 37,
+            "id": 40,
             "bank": "NOMURA SECURITIES (BERMUDA) LIMITED",
             "city": "HAMILTON",
             "branch": null,
-            "swift_code": "NOSRBMH1"
+            "swift_code": "NOSRBMHM"
         },
         {
-            "id": 38,
+            "id": 41,
+            "bank": "NOVARTIS SECURITIES INVESTMENT LTD",
+            "city": "HAMILTON",
+            "branch": "(BEFICO)",
+            "swift_code": "NOVRBMHM019"
+        },
+        {
+            "id": 42,
             "bank": "NOVARTIS SECURITIES INVESTMENT LTD",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "NOVRBMHM"
         },
         {
-            "id": 39,
-            "bank": "NOVARTIS SECURITIES INVESTMENT LTD",
-            "city": "HAMILTON",
-            "branch": null,
-            "swift_code": "NOVRBMHM012"
-        },
-        {
-            "id": 40,
-            "bank": "NOVARTIS SECURITIES INVESTMENT LTD",
-            "city": "HAMILTON",
-            "branch": null,
-            "swift_code": "NOVRBMHM028"
-        },
-        {
-            "id": 41,
+            "id": 43,
             "bank": "NOVARTIS SECURITIES INVESTMENT LTD",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "NOVRBMHM035"
         },
         {
-            "id": 42,
+            "id": 44,
             "bank": "ORACLE MANAGEMENT LIMITED",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "ORMABMH1"
         },
         {
-            "id": 43,
+            "id": 45,
             "bank": "ORBIS INVESTMENT MANAGEMENT LIMITED",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "ORIMBMH1"
         },
         {
-            "id": 44,
+            "id": 46,
             "bank": "P.R.P PERFORMA LIMITED",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "PRPFBMH1"
         },
         {
-            "id": 45,
+            "id": 47,
             "bank": "PARSEC TRADING CORP",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "PTRNBMH1"
         },
         {
-            "id": 46,
+            "id": 48,
             "bank": "RENAISSANCERE HOLDINGS LTD.",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "RRHLBMH1"
         },
         {
-            "id": 47,
+            "id": 49,
             "bank": "ROCHE FINANCIAL INVESTMENTS LTD",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "ROCHBMHM"
         },
         {
-            "id": 48,
+            "id": 50,
             "bank": "ROCHE INTERTRADE LIMITED",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "ROCHBMHA"
         },
         {
-            "id": 49,
+            "id": 51,
             "bank": "SCHRODERS (BERMUDA) LIMITED",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "SBDABMH1"
         },
         {
-            "id": 50,
+            "id": 52,
             "bank": "SWISS REINSURANCE COMPANY",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "SWREBMH1"
         },
         {
-            "id": 51,
+            "id": 53,
             "bank": "TCC MARKETS LIMITED",
             "city": "HAMILTON",
             "branch": null,
-            "swift_code": "TCCMBMHM"
+            "swift_code": "TCCMBMH1"
         },
         {
-            "id": 52,
+            "id": 54,
             "bank": "THE ATLANTIC FINANCE COMPANY LIMITED",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "ATFNBMH1"
         },
         {
-            "id": 53,
+            "id": 55,
             "bank": "THRACIAN INVESTMENT MANAGERS",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "THIGBMH1"
         },
         {
-            "id": 54,
+            "id": 56,
+            "bank": "TWO AND FIVE INSURANCE COMPANY LTD",
+            "city": "HAMILTON",
+            "branch": null,
+            "swift_code": "TFIOBMH1"
+        },
+        {
+            "id": 57,
             "bank": "UFG ADVISORS LIMITED",
             "city": "HAMILTON",
             "branch": null,
             "swift_code": "UFADBMH1"
         },
         {
-            "id": 55,
+            "id": 58,
             "bank": "WORLDWIDE TRANSACTIONS",
             "city": "HAMILTON",
             "branch": null,

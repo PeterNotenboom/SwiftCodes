@@ -4,52 +4,52 @@
     "list": [
         {
             "id": 1,
-            "bank": "BANK OF NOVA SCOTIA,THE",
-            "city": "PORT AU PRINCE",
-            "branch": null,
-            "swift_code": "NOSCHTPP"
-        },
-        {
-            "id": 2,
             "bank": "BANQUE DE LA REPUBLIQUE D'HAITI",
             "city": "PORT AU PRINCE",
             "branch": null,
             "swift_code": "BRHAHTPP"
         },
         {
-            "id": 3,
+            "id": 2,
             "bank": "BANQUE DE L'UNION HAITIENNE",
             "city": "PORT AU PRINCE",
             "branch": null,
             "swift_code": "BUHEHTPP"
         },
         {
-            "id": 4,
+            "id": 3,
             "bank": "BANQUE DE PROMOTION COMMERCIALE ET INDUSTRIELLE S.A.",
             "city": "PETION-VILLE",
             "branch": null,
             "swift_code": "BDPCHTP1"
         },
         {
-            "id": 5,
+            "id": 4,
             "bank": "BANQUE NATIONALE DE CREDIT (BNC)",
             "city": "PORT AU PRINCE",
             "branch": null,
             "swift_code": "BNCHHTPP"
         },
         {
-            "id": 6,
+            "id": 5,
             "bank": "BANQUE NATIONALE DE DEVELOPPEMENT AGRICOLE ET INDUSTRIEL",
             "city": "CAP-HAITIEN",
             "branch": null,
             "swift_code": "BNDIHT21"
         },
         {
-            "id": 7,
+            "id": 6,
             "bank": "BANQUE NATIONALE DE PARIS",
             "city": "PORT AU PRINCE",
             "branch": null,
             "swift_code": "BNPAHTP1"
+        },
+        {
+            "id": 7,
+            "bank": "CANGE PLATEAU-CENTRAL BANQUE",
+            "city": "CANGE",
+            "branch": null,
+            "swift_code": "CNPTHTP1"
         },
         {
             "id": 8,
@@ -88,6 +88,13 @@
         },
         {
             "id": 13,
+            "bank": "UNIBANK S.A.",
+            "city": "PETION-VILLE",
+            "branch": null,
+            "swift_code": "NOSCHTPP"
+        },
+        {
+            "id": 14,
             "bank": "UNIBANK S.A.",
             "city": "PETION-VILLE",
             "branch": null,

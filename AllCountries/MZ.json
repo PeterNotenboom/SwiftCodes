@@ -4,73 +4,73 @@
     "list": [
         {
             "id": 1,
-            "bank": "AFRICAN BANKING CORPORATION (MOZAMBIQUE) SARL",
+            "bank": "BANCABC PART OF ATLAS MARA",
             "city": "MAPUTO",
             "branch": null,
             "swift_code": "FMBZMZMX"
         },
         {
             "id": 2,
+            "bank": "BANCO BIG MOCAMBIQUE, S.A.",
+            "city": "MAPUTO",
+            "branch": null,
+            "swift_code": "BDIGMZMA"
+        },
+        {
+            "id": 3,
             "bank": "BANCO COMERCIAL E DE INVESTIMENTOS SARL",
             "city": "MAPUTO",
             "branch": null,
             "swift_code": "CGDIMZMA"
         },
         {
-            "id": 3,
+            "id": 4,
             "bank": "BANCO DE MOCAMBIQUE",
             "city": "BEIRA",
             "branch": null,
             "swift_code": "BMOCMZM10MB"
         },
         {
-            "id": 4,
+            "id": 5,
             "bank": "BANCO DE MOCAMBIQUE",
             "city": "MAPUTO",
             "branch": null,
             "swift_code": "BMOCMZMA"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "BANCO DE MOCAMBIQUE",
             "city": "NAMPULA",
             "branch": null,
             "swift_code": "BMOCMZM10MN"
         },
         {
-            "id": 6,
+            "id": 7,
             "bank": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A",
             "city": "MAPUTO",
             "branch": "(DIRECCAO FINANCEIRA)",
             "swift_code": "BIMOMZMXFIN"
         },
         {
-            "id": 7,
+            "id": 8,
             "bank": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A",
             "city": "MAPUTO",
             "branch": "(DIRECCAO INTERNACIONAL)",
             "swift_code": "BIMOMZMXINT"
         },
         {
-            "id": 8,
+            "id": 9,
             "bank": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A",
             "city": "MAPUTO",
             "branch": null,
             "swift_code": "BIMOMZMX"
         },
         {
-            "id": 9,
+            "id": 10,
             "bank": "BANCO MAIS, SA",
             "city": "MAPUTO",
             "branch": null,
             "swift_code": "MAISMZMA"
-        },
-        {
-            "id": 10,
-            "bank": "BANCO MERCANTIL E DE INVESTIMENTOS",
-            "city": "MAPUTO",
-            "branch": null,
-            "swift_code": "MERVMZMA"
         },
         {
             "id": 11,
@@ -91,7 +91,7 @@
             "bank": "BANCO SOCIETE GENERALE (MOCAMBIQUE) S.A.",
             "city": "MAPUTO",
             "branch": null,
-            "swift_code": "MCBLMZMA"
+            "swift_code": "SOGEMZMA"
         },
         {
             "id": 14,
@@ -172,55 +172,62 @@
         },
         {
             "id": 25,
-            "bank": "SABMILLER MOZAMBIQUE",
+            "bank": "NOSSO BANCO, SA",
             "city": "MAPUTO",
             "branch": null,
-            "swift_code": "SABMMZM1"
+            "swift_code": "MERVMZMA"
         },
         {
             "id": 26,
             "bank": "SABMILLER MOZAMBIQUE",
             "city": "MAPUTO",
             "branch": null,
-            "swift_code": "SABMMZM1CDM"
+            "swift_code": "SABMMZM1"
         },
         {
             "id": 27,
+            "bank": "SABMILLER MOZAMBIQUE",
+            "city": "MAPUTO",
+            "branch": null,
+            "swift_code": "SABMMZM1CDM"
+        },
+        {
+            "id": 28,
             "bank": "SOCIEDADE AGRICOLA DE TOBACOS LIMITADA",
             "city": "MAPUTO",
             "branch": null,
             "swift_code": "BATSMZM1"
         },
         {
-            "id": 28,
-            "bank": "STANDARD BANK SARL",
+            "id": 29,
+            "bank": "STANDARD BANK SA",
             "city": "BEIRA",
             "branch": null,
             "swift_code": "SBICMZM10MB"
         },
         {
-            "id": 29,
-            "bank": "STANDARD BANK SARL",
+            "id": 30,
+            "bank": "STANDARD BANK SA",
             "city": "MAPUTO",
             "branch": null,
             "swift_code": "SBICMZMX"
         },
         {
-            "id": 30,
-            "bank": "STANDARD BANK SARL",
+            "id": 31,
+            "bank": "STANDARD BANK SA",
             "city": "NAMPULA",
             "branch": null,
             "swift_code": "SBICMZM10MN"
         },
         {
-            "id": 31,
+            "id": 32,
             "bank": "STANDARD CHARTERED BANK OF MOZAMBIQUE",
             "city": "MAPUTO",
             "branch": null,
             "swift_code": "SCBLMZM1"
         },
         {
-            "id": 32,
+            "id": 33,
             "bank": "UBA MOCAMBIQUE,SA",
             "city": "MAPUTO",
             "branch": null,

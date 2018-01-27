@@ -74,66 +74,66 @@
         },
         {
             "id": 11,
+            "bank": "BANCO DE DESARROLLO RURAL HONDURAS, S.A.",
+            "city": "TEGUCIGALPA",
+            "branch": null,
+            "swift_code": "PRCBHNTE"
+        },
+        {
+            "id": 12,
             "bank": "BANCO DE HONDURAS, S.A.",
             "city": "TEGUCIGALPA",
             "branch": null,
             "swift_code": "HONAHNT2"
         },
         {
-            "id": 12,
+            "id": 13,
             "bank": "BANCO DE LAS FUERZAS ARMADAS",
             "city": "TEGUCIGALPA",
             "branch": null,
             "swift_code": "BLFAHNT1"
         },
         {
-            "id": 13,
-            "bank": "BANCO DE LOS TRABAJADORES S.A.",
+            "id": 14,
+            "bank": "BANCO DE LOS TRABAJADORES",
             "city": "TEGUCIGALPA",
             "branch": null,
-            "swift_code": "TSBOHNT1"
+            "swift_code": "TSBOHNTA"
         },
         {
-            "id": 14,
+            "id": 15,
             "bank": "BANCO DE OCCIDENTE S.A.",
             "city": "SAN PEDRO SULA",
             "branch": "(SAN PEDRO SULA)",
             "swift_code": "BOCCHNTESPS"
         },
         {
-            "id": 15,
-            "bank": "BANCO DE OCCIDENTE S.A.",
-            "city": "SANTA ROSA DE COPAN",
-            "branch": "(SANTA ROSA DE COPAN)",
-            "swift_code": "BOCCHNTESRC"
-        },
-        {
             "id": 16,
             "bank": "BANCO DE OCCIDENTE S.A.",
-            "city": "SANTA ROSA DE COPAN",
+            "city": "SAN PEDRO SULA",
             "branch": null,
             "swift_code": "BOCCHNTE"
         },
         {
             "id": 17,
             "bank": "BANCO DE OCCIDENTE S.A.",
+            "city": "SANTA ROSA DE COPAN",
+            "branch": "(SANTA ROSA DE COPAN)",
+            "swift_code": "BOCCHNTESRC"
+        },
+        {
+            "id": 18,
+            "bank": "BANCO DE OCCIDENTE S.A.",
             "city": "TEGUCIGALPA",
             "branch": "(TEGUCIGALPA)",
             "swift_code": "BOCCHNTETGU"
         },
         {
-            "id": 18,
+            "id": 19,
             "bank": "BANCO DEL PAIS,S.A.",
             "city": "SAN PEDRO SULA",
             "branch": null,
             "swift_code": "PISAHNTE"
-        },
-        {
-            "id": 19,
-            "bank": "BANCO DESARROLLO RURAL HONDURAS S.A",
-            "city": "TEGUCIGALPA",
-            "branch": null,
-            "swift_code": "PRCBHNTE"
         },
         {
             "id": 20,
@@ -186,7 +186,7 @@
         },
         {
             "id": 27,
-            "bank": "BANCO LAFISE,S.A.",
+            "bank": "BANCO LAFISE (HONDURAS), S.A.",
             "city": "TEGUCIGALPA",
             "branch": null,
             "swift_code": "BCCEHNTE"
@@ -203,14 +203,14 @@
             "bank": "BANCO NACIONAL DE DESARROLLO AGRICOLA",
             "city": "COMAYAGUELA",
             "branch": null,
-            "swift_code": "DEAGHNT1022"
+            "swift_code": "DEAGHNT1"
         },
         {
             "id": 30,
             "bank": "BANCO NACIONAL DE DESARROLLO AGRICOLA",
             "city": "COMAYAGUELA",
             "branch": null,
-            "swift_code": "DEAGHNT1"
+            "swift_code": "DEAGHNT1022"
         },
         {
             "id": 31,
@@ -277,90 +277,97 @@
         },
         {
             "id": 40,
+            "bank": "COMPANIA FINANCIERA, S.A. COFISA",
+            "city": "SAN PEDRO SULA",
+            "branch": null,
+            "swift_code": "CFNCHNT1"
+        },
+        {
+            "id": 41,
             "bank": "CONTINENTAL CASA DE BOLSA, S.A",
             "city": "SAN PEDRO SULA",
             "branch": null,
             "swift_code": "CNCSHNT1"
         },
         {
-            "id": 41,
+            "id": 42,
             "bank": "CORPORACION FINANCIERA INTERNACIONAL (COFINTER)",
             "city": "TEGUCIGALPA",
             "branch": null,
             "swift_code": "CFNIHNT1"
         },
         {
-            "id": 42,
+            "id": 43,
             "bank": "FINANCIERA CODIMERSA EDIFICIO CODIMERSA",
             "city": "SANTA ROSA",
             "branch": null,
             "swift_code": "FCEOHNT1"
         },
         {
-            "id": 43,
+            "id": 44,
             "bank": "FINANCIERA CREDIQ SA",
             "city": "TEGUCIGALPA",
             "branch": null,
             "swift_code": "FIRQHNT1"
         },
         {
-            "id": 44,
+            "id": 45,
             "bank": "FINANCIERA FINCA HONDURAS",
             "city": "TEGUCIGALPA",
             "branch": null,
             "swift_code": "FIFHHNT1"
         },
         {
-            "id": 45,
+            "id": 46,
             "bank": "FINANCIERA SOLIDARIA, S.A.",
             "city": "SAN PEDRO SULA",
             "branch": null,
             "swift_code": "FIODHNT1"
         },
         {
-            "id": 46,
+            "id": 47,
             "bank": "FOMENTO FINANCIERO, S.A. CASA DE BOLSA",
             "city": "TEGUCIGALPA",
             "branch": null,
             "swift_code": "FFCBHNT1"
         },
         {
-            "id": 47,
+            "id": 48,
             "bank": "LAFISE VALORES CASA DE BOLSA",
             "city": "TEGUCIGALPA",
             "branch": null,
             "swift_code": "LVCBHNT1"
         },
         {
-            "id": 48,
+            "id": 49,
             "bank": "ODEF FINANCIERA S.A.",
             "city": "SAN PEDRO SULA",
             "branch": null,
             "swift_code": "ODFIHNT1"
         },
         {
-            "id": 49,
+            "id": 50,
             "bank": "SERVIGIROS CASA DE CAMBIO S.A.",
             "city": "TEGUCIGALPA",
             "branch": null,
             "swift_code": "SEAIHNT1"
         },
         {
-            "id": 50,
+            "id": 51,
             "bank": "SONIVAL, CASA DE BOLSA, S. A",
             "city": "TEGUCIGALPA",
             "branch": null,
             "swift_code": "SOABHNT1"
         },
         {
-            "id": 51,
+            "id": 52,
             "bank": "TABACALERA HONDURENA S.A.",
             "city": "CORTES",
             "branch": null,
             "swift_code": "BATSHNT1"
         },
         {
-            "id": 52,
+            "id": 53,
             "bank": "TABACALERA ISTMENA S.A",
             "city": "SAN PEDRO SULA",
             "branch": null,

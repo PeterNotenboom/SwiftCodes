@@ -4,7 +4,7 @@
     "list": [
         {
             "id": 1,
-            "bank": "BANCO ANGOLANO DE INVESTIMENTOS, SARL",
+            "bank": "BANCO ANGOLANO DE INVESTIMENTOS, SA",
             "city": "LUANDA",
             "branch": null,
             "swift_code": "BAIPAOLU"
@@ -25,24 +25,24 @@
         },
         {
             "id": 4,
+            "bank": "BANCO CAIXA GERAL DE ANGOLA",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "BCGAAOLU"
+        },
+        {
+            "id": 5,
             "bank": "BANCO COMERCIAL ANGOLANO",
             "city": "LUANDA",
             "branch": null,
             "swift_code": "COMLAOLU"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "BANCO COMERCIAL DO HUAMBO",
             "city": "HUAMBO",
             "branch": null,
             "swift_code": "BCHUAOLU"
-        },
-        {
-            "id": 6,
-            "bank": "BANCO DE ACTIVOS E CREDITO DE ANGOLA SA",
-            "city": "LUANDA",
-            "branch": null,
-            "swift_code": "YETUAOLU"
         },
         {
             "id": 7,
@@ -95,7 +95,7 @@
         },
         {
             "id": 14,
-            "bank": "BANCO ESPIRITO SANTO ANGOLA S.A",
+            "bank": "BANCO ECONOMICO, S.A.",
             "city": "LUANDA",
             "branch": null,
             "swift_code": "BESCAOLU"
@@ -109,24 +109,24 @@
         },
         {
             "id": 16,
-            "bank": "BANCO MILLENNIUM ANGOLA SA",
+            "bank": "BANCO MILLENNIUM ATLANTICO, S.A.",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "PRTLAOLU"
+        },
+        {
+            "id": 17,
+            "bank": "BANCO MILLENNIUM ATLANTICO, S.A. (FORMERLY BANCO MILLENNIUM ANGOLA SA)",
             "city": "LUANDA",
             "branch": null,
             "swift_code": "BCOMAOLU"
         },
         {
-            "id": 17,
+            "id": 18,
             "bank": "BANCO NACIONAL DE ANGOLA",
             "city": "LUANDA",
             "branch": "(T2S WAVE 1)",
             "swift_code": "BNANAOLU975"
-        },
-        {
-            "id": 18,
-            "bank": "BANCO NACIONAL DE ANGOLA",
-            "city": "LUANDA",
-            "branch": null,
-            "swift_code": "BNANAOLU"
         },
         {
             "id": 19,
@@ -137,45 +137,45 @@
         },
         {
             "id": 20,
+            "bank": "BANCO NACIONAL DE ANGOLA",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "BNANAOLU"
+        },
+        {
+            "id": 21,
+            "bank": "BANCO POSTAL, S.A.",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "POTAAOLU"
+        },
+        {
+            "id": 22,
             "bank": "BANCO PRESTIGIO, SA.",
             "city": "LUANDA",
             "branch": null,
             "swift_code": "PRTSAOLU"
         },
         {
-            "id": 21,
-            "bank": "BANCO PRIVADO ATLANTICO",
-            "city": "LUANDA",
-            "branch": null,
-            "swift_code": "PRTLAOLU"
-        },
-        {
-            "id": 22,
+            "id": 23,
             "bank": "BANCO PUNGO ANDONGO SA",
             "city": "LUANDA",
             "branch": null,
             "swift_code": "PUADAOLU"
         },
         {
-            "id": 23,
+            "id": 24,
             "bank": "BANCO REGIONAL DO KEVE, SARL",
             "city": "LUANDA",
             "branch": null,
             "swift_code": "BRDKAOLU"
         },
         {
-            "id": 24,
+            "id": 25,
             "bank": "BANCO SOL SARL",
             "city": "LUANDA",
             "branch": null,
             "swift_code": "SOLOAOLU"
-        },
-        {
-            "id": 25,
-            "bank": "BANCO TOTTA DE ANGOLA, S.A.R.L.",
-            "city": "LUANDA",
-            "branch": null,
-            "swift_code": "BCGTAOLU"
         },
         {
             "id": 26,
@@ -193,90 +193,97 @@
         },
         {
             "id": 28,
+            "bank": "BANCO YETU, S.A.",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "YETUAOLU"
+        },
+        {
+            "id": 29,
+            "bank": "BANK OF CHINA LIMITED LUANDA BRANCH",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "BKCHAOLU"
+        },
+        {
+            "id": 30,
             "bank": "BCI - BANCO DE COMERCIO E INDUSTRIA",
             "city": "LUANDA",
             "branch": null,
             "swift_code": "BCIDAOLU"
         },
         {
-            "id": 29,
-            "bank": "BCI-MOBILIARIA, CONSTRUCAO E GESTAO IMOBILIARIA, S.A.R.L.",
-            "city": "LUANDA",
-            "branch": null,
-            "swift_code": "IMOBAOL1"
-        },
-        {
-            "id": 30,
+            "id": 31,
             "bank": "BMF-BANCO BAI MICROFINANCAS, SARL",
             "city": "LUANDA",
             "branch": null,
             "swift_code": "NOSAAOLU"
         },
         {
-            "id": 31,
+            "id": 32,
+            "bank": "BOLSA DE DIVIDA E VALORES DE ANGOLA BODIVA SOCIEDADE GESTORA DE MERCADOS REGULAMENTADOS SA",
+            "city": "LUANDA",
+            "branch": null,
+            "swift_code": "BDVAAOLU"
+        },
+        {
+            "id": 33,
             "bank": "BPC-BANCO DE POUPANCA E CREDITO",
             "city": "LUANDA",
             "branch": null,
             "swift_code": "BPCLAOLU"
         },
         {
-            "id": 32,
+            "id": 34,
             "bank": "BRITISH AMERICAN TOBACCO ANGOLA LTD",
             "city": "LUANDA",
             "branch": null,
             "swift_code": "BATSAOL1"
         },
         {
-            "id": 33,
+            "id": 35,
             "bank": "CREDISUL - BANCO DE CREDITO DO SUL SA",
             "city": "LUANDA",
             "branch": null,
             "swift_code": "CDTSAOLU"
         },
         {
-            "id": 34,
-            "bank": "ECOBANK ANGOLA S.A",
-            "city": "LUANDA",
-            "branch": null,
-            "swift_code": "ECOCAOLU"
-        },
-        {
-            "id": 35,
+            "id": 36,
             "bank": "FINIBANCO ANGOLA S.A",
             "city": "LUANDA",
             "branch": null,
             "swift_code": "FBCOAOLU"
         },
         {
-            "id": 36,
+            "id": 37,
             "bank": "MINISTERIO DAS FINANCAS",
             "city": "LUANDA",
             "branch": null,
             "swift_code": "MDFNAOLU"
         },
         {
-            "id": 37,
+            "id": 38,
             "bank": "SOCIEDADA INDUSTRIAL TABACOS ANGOLA LDA",
             "city": "BENGUELA",
             "branch": null,
             "swift_code": "BATSAO41"
         },
         {
-            "id": 38,
+            "id": 39,
             "bank": "SOCIEDADE UNIFICANDA TABACOS ANGOLA LDA",
             "city": "LUANDA",
             "branch": null,
             "swift_code": "BATSAO31"
         },
         {
-            "id": 39,
+            "id": 40,
             "bank": "STANDARD BANK DE ANGOLA S.A.",
             "city": "LUANDA",
             "branch": null,
             "swift_code": "SBICAOLU"
         },
         {
-            "id": 40,
+            "id": 41,
             "bank": "STANDARD CHARTERED BANK ANGOLA SA",
             "city": "LUANDA",
             "branch": null,

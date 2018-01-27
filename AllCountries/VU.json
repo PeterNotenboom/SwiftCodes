@@ -25,94 +25,108 @@
         },
         {
             "id": 4,
+            "bank": "BANK SOUTH PACIFIC (VANUATU) LIMITED",
+            "city": "VILA",
+            "branch": null,
+            "swift_code": "BOSPVUVX"
+        },
+        {
+            "id": 5,
             "bank": "BRED (VANUATU) LTD",
             "city": "PORT VILA",
             "branch": null,
             "swift_code": "BREDVUVU"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "FINANCIAL PARTNERS BANK LIMITED",
             "city": "PORT VILA",
             "branch": null,
             "swift_code": "FPBLVUV1"
         },
         {
-            "id": 6,
+            "id": 7,
+            "bank": "GREENROCK SECURITIES LIMITED",
+            "city": "PORT VILA",
+            "branch": null,
+            "swift_code": "GRCRVUV1"
+        },
+        {
+            "id": 8,
+            "bank": "INTEGRATED MARKETS LTD",
+            "city": "PORT VILA",
+            "branch": null,
+            "swift_code": "INKRVUV1"
+        },
+        {
+            "id": 9,
             "bank": "INVESTORS' TRUST LIMITED",
             "city": "VILA",
             "branch": null,
             "swift_code": "ITLIVUV1"
         },
         {
-            "id": 7,
+            "id": 10,
             "bank": "MG COMMERCIAL BANK LIMITED",
             "city": "PORT VILA",
             "branch": null,
             "swift_code": "MGCBVUVV"
         },
         {
-            "id": 8,
+            "id": 11,
             "bank": "NATIONAL BANK OF VANUATU LIMITED",
             "city": "PORT VILA",
             "branch": null,
             "swift_code": "NBOVVUVU"
         },
         {
-            "id": 9,
+            "id": 12,
             "bank": "NAUTILUS INTERNATIONAL BANK LTD",
             "city": "PORT VILA",
             "branch": null,
             "swift_code": "NAIOVUV1"
         },
         {
-            "id": 10,
+            "id": 13,
             "bank": "PACIFIC INTERNATIONAL TRUST CO. LTD",
             "city": "PORT VILA",
             "branch": null,
             "swift_code": "PITCVUV1"
         },
         {
-            "id": 11,
+            "id": 14,
             "bank": "PACIFIC PRIVATE BANK LIMITED",
             "city": "PORT VILA",
             "branch": null,
             "swift_code": "PPBLVUVU"
         },
         {
-            "id": 12,
+            "id": 15,
             "bank": "PROSPERITY BANKING CORPORATION LIMITED",
             "city": "PORT VILA",
             "branch": null,
             "swift_code": "PBCLVUVV"
         },
         {
-            "id": 13,
+            "id": 16,
             "bank": "RESERVE BANK OF VANUATU",
             "city": "PORT VILA",
             "branch": null,
             "swift_code": "RBVAVUVU"
         },
         {
-            "id": 14,
-            "bank": "UNITED DEVELOPMENT BANK OF PACIFIC LIMITED",
+            "id": 17,
+            "bank": "VANTU BANK LIMITED",
             "city": "PORT VILA",
             "branch": null,
-            "swift_code": "UDBPVUVV"
+            "swift_code": "VANTVUVU"
         },
         {
-            "id": 15,
+            "id": 18,
             "bank": "VANUATU INTERNATIONAL TRUST COMPANY LIMITED",
             "city": "PORT VILA",
             "branch": null,
             "swift_code": "VITRVUV1"
-        },
-        {
-            "id": 16,
-            "bank": "WESTPAC BANKING CORPORATION",
-            "city": "VILA",
-            "branch": null,
-            "swift_code": "WPACVUVX"
         }
     ]
 }

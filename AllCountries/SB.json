@@ -18,20 +18,27 @@
         },
         {
             "id": 3,
+            "bank": "BRED BANK SOLOMON",
+            "city": "HONIARA",
+            "branch": null,
+            "swift_code": "BREDSBSB"
+        },
+        {
+            "id": 4,
             "bank": "CENTRAL BANK OF SOLOMON ISLANDS",
             "city": "HONIARA",
             "branch": null,
             "swift_code": "CBSISBSB"
         },
         {
-            "id": 4,
+            "id": 5,
             "bank": "PAN OCEANIC BANK LIMITED",
             "city": "HONIARA",
             "branch": null,
             "swift_code": "POBBSBSB"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "SOLOMON ISLANDS TOBACCO COMPANY LIMITED",
             "city": "HONIARA",
             "branch": null,

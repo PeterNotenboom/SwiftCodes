@@ -21,14 +21,14 @@
             "bank": "BANQUE CENTRALE DE LA REPUBLIQUE DE GUINEE",
             "city": "CONAKRY",
             "branch": null,
-            "swift_code": "REPCGNGN"
+            "swift_code": "REPCGNGA"
         },
         {
             "id": 4,
             "bank": "BANQUE CENTRALE DE LA REPUBLIQUE DE GUINEE",
             "city": "CONAKRY",
             "branch": null,
-            "swift_code": "REPCGNGA"
+            "swift_code": "REPCGNGN"
         },
         {
             "id": 5,
@@ -109,20 +109,27 @@
         },
         {
             "id": 16,
+            "bank": "ORABANK GUINEE",
+            "city": "CONAKRY",
+            "branch": null,
+            "swift_code": "ORBKGNGN"
+        },
+        {
+            "id": 17,
             "bank": "SKYE BANK GUINEA LIMITED S.A.",
             "city": "CONAKRY",
             "branch": null,
             "swift_code": "SKYEGNGN"
         },
         {
-            "id": 17,
+            "id": 18,
             "bank": "SOCIETE GENERALE DE BANQUES EN GUINEE",
             "city": "CONAKRY",
             "branch": null,
             "swift_code": "SGGNGNGN"
         },
         {
-            "id": 18,
+            "id": 19,
             "bank": "UNITED BANK FOR AFRICA GUINEA",
             "city": "CONAKRY",
             "branch": null,

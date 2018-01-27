@@ -18,20 +18,27 @@
         },
         {
             "id": 3,
+            "bank": "BANQUE ATLANTIQUE DA GUINE-BISSAU,SA",
+            "city": "BISSAU",
+            "branch": null,
+            "swift_code": "ATGWGWGW"
+        },
+        {
+            "id": 4,
             "bank": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
             "city": "BISSAU",
             "branch": null,
             "swift_code": "BCAOGWG1"
         },
         {
-            "id": 4,
+            "id": 5,
             "bank": "ECOBANK GUINEE BISSAU",
             "city": "BISSAU",
             "branch": null,
             "swift_code": "ECOCGWGW"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "ORABANK GUINEE BISSAU",
             "city": "BISSAU",
             "branch": null,

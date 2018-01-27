@@ -39,59 +39,59 @@
         },
         {
             "id": 6,
-            "bank": "AZANIA BANCORP",
+            "bank": "AZANIA BANK LIMITED",
             "city": "DAR ES SALAAM",
             "branch": null,
             "swift_code": "AZANTZTZ"
         },
         {
             "id": 7,
-            "bank": "AZANIA BANK LIMITED",
-            "city": "DAR ES SALAAM",
-            "branch": null,
-            "swift_code": "ADBCTZT1"
-        },
-        {
-            "id": 8,
             "bank": "BANK M TANZANIA PLC",
             "city": "DAR ES SALAAM",
             "branch": null,
             "swift_code": "BNKMTZTZ"
         },
         {
-            "id": 9,
+            "id": 8,
             "bank": "BANK OF BARODA (TANZANIA) LTD",
             "city": "DAR ES SALAAM",
             "branch": null,
             "swift_code": "BARBTZTZ"
         },
         {
-            "id": 10,
+            "id": 9,
             "bank": "BANK OF INDIA (TANZANIA) LIMITED",
             "city": "DAR ES SALAAM",
             "branch": null,
             "swift_code": "BKIDTZTZ"
         },
         {
-            "id": 11,
+            "id": 10,
             "bank": "BANK OF TANZANIA",
             "city": "DAR ES SALAAM",
             "branch": null,
             "swift_code": "TANZTZTX"
         },
         {
-            "id": 12,
+            "id": 11,
             "bank": "BARCLAYS BANK TANZANIA LTD",
             "city": "DAR ES SALAAM",
             "branch": null,
             "swift_code": "BARCTZTZ"
         },
         {
-            "id": 13,
+            "id": 12,
             "bank": "BOA BANK TANZANIA",
             "city": "DAR ES SALAAM",
             "branch": null,
             "swift_code": "EUAFTZTZ"
+        },
+        {
+            "id": 13,
+            "bank": "CANARA BANK  (TANZANIA) LTD",
+            "city": "DAR ES SALAAM",
+            "branch": null,
+            "swift_code": "CNRBTZTZ"
         },
         {
             "id": 14,
@@ -235,10 +235,10 @@
         },
         {
             "id": 34,
-            "bank": "FBME BANK LTD",
+            "bank": "FINCA MICROFINANCE BANK LIMITED",
             "city": "DAR ES SALAAM",
             "branch": null,
-            "swift_code": "FBMETZTZ"
+            "swift_code": "FNMITZTZ"
         },
         {
             "id": 35,
@@ -319,129 +319,129 @@
         },
         {
             "id": 46,
+            "bank": "MWALIMU COMMERCIAL BANK PLC",
+            "city": "DAR ES SALAAM",
+            "branch": null,
+            "swift_code": "MWCOTZTZ"
+        },
+        {
+            "id": 47,
             "bank": "MWANGA COMMUNITY BANK LTD",
             "city": "MOSHI",
             "branch": null,
             "swift_code": "MWCBTZTZ"
         },
         {
-            "id": 47,
+            "id": 48,
             "bank": "NATIONAL BANK OF COMMERCE, THE",
             "city": "ARUSHA",
             "branch": "(ARUSHA BRANCH)",
             "swift_code": "NLCBTZTX0T4"
         },
         {
-            "id": 48,
+            "id": 49,
             "bank": "NATIONAL BANK OF COMMERCE, THE",
             "city": "DAR ES SALAAM",
             "branch": "(BANK HOUSE BRANCH)",
             "swift_code": "NLCBTZT10T6"
         },
         {
-            "id": 49,
+            "id": 50,
             "bank": "NATIONAL BANK OF COMMERCE, THE",
             "city": "DAR ES SALAAM",
             "branch": "(CORPORATE BRANCH)",
             "swift_code": "NLCBTZTX0T3"
         },
         {
-            "id": 50,
+            "id": 51,
             "bank": "NATIONAL BANK OF COMMERCE, THE",
             "city": "DAR ES SALAAM",
             "branch": "(FINANCIAL DEPARTMENT-NBC HOUSE)",
             "swift_code": "NLCBTZTXFIN"
         },
         {
-            "id": 51,
+            "id": 52,
             "bank": "NATIONAL BANK OF COMMERCE, THE",
             "city": "DAR ES SALAAM",
             "branch": "(HEADOFFICE)",
             "swift_code": "NLCBTZTX"
         },
         {
-            "id": 52,
+            "id": 53,
             "bank": "NATIONAL BANK OF COMMERCE, THE",
             "city": "DAR ES SALAAM",
             "branch": "(INDUSTRIAL BRANCH)",
             "swift_code": "NLCBTZTXIND"
         },
         {
-            "id": 53,
+            "id": 54,
             "bank": "NATIONAL BANK OF COMMERCE, THE",
             "city": "DAR ES SALAAM",
             "branch": "(KICHWELE BRANCH)",
             "swift_code": "NLCBTZTXKIC"
         },
         {
-            "id": 54,
+            "id": 55,
             "bank": "NATIONAL BANK OF COMMERCE, THE",
             "city": "DAR ES SALAAM",
             "branch": "(MASDO HOUSE BRANCH)",
             "swift_code": "NLCBTZT10T7"
         },
         {
-            "id": 55,
+            "id": 56,
             "bank": "NATIONAL BANK OF COMMERCE, THE",
             "city": "DAR ES SALAAM",
             "branch": "(MNAZI MMOJA BRANCH)",
             "swift_code": "NLCBTZTXMNA"
         },
         {
-            "id": 56,
+            "id": 57,
             "bank": "NATIONAL BANK OF COMMERCE, THE",
             "city": "DAR ES SALAAM",
             "branch": "(SAMORA BRANCH)",
             "swift_code": "NLCBTZTX0T8"
         },
         {
-            "id": 57,
+            "id": 58,
             "bank": "NATIONAL BANK OF COMMERCE, THE",
             "city": "MBEYA",
             "branch": "(MBEYA BRANCH)",
             "swift_code": "NLCBTZTXMBE"
         },
         {
-            "id": 58,
+            "id": 59,
             "bank": "NATIONAL BANK OF COMMERCE, THE",
             "city": "MOROGORO",
             "branch": "(MOROGORO BRANCH)",
             "swift_code": "NLCBTZTXMOR"
         },
         {
-            "id": 59,
+            "id": 60,
             "bank": "NATIONAL BANK OF COMMERCE, THE",
             "city": "MOSHI",
             "branch": "(MOSHI BRANCH)",
             "swift_code": "NLCBTZTX0TM"
         },
         {
-            "id": 60,
+            "id": 61,
             "bank": "NATIONAL BANK OF COMMERCE, THE",
             "city": "MWANZA",
             "branch": "(MWANZA BRANCH)",
             "swift_code": "NLCBTZTX0T5"
         },
         {
-            "id": 61,
+            "id": 62,
             "bank": "NATIONAL BANK OF COMMERCE, THE",
             "city": "TANGA",
             "branch": "(TANGA BRANCH)",
             "swift_code": "NLCBTZTXTAN"
         },
         {
-            "id": 62,
+            "id": 63,
             "bank": "NATIONAL BANK OF COMMERCE, THE",
             "city": "ZANZIBAR",
             "branch": "(ZANZIBAR BRANCH-UNGUJA)",
             "swift_code": "NLCBTZTXZAN"
-        },
-        {
-            "id": 63,
-            "bank": "NATIONAL MICROFINANCE BANK LIMITED",
-            "city": "DAR ES SALAAM",
-            "branch": null,
-            "swift_code": "NMIBTZTZ"
         },
         {
             "id": 64,
@@ -452,216 +452,230 @@
         },
         {
             "id": 65,
+            "bank": "NMB BANK PLC",
+            "city": "DAR ES SALAAM",
+            "branch": null,
+            "swift_code": "NMIBTZTZ"
+        },
+        {
+            "id": 66,
             "bank": "ORBIT SECURITES CO LTD",
             "city": "DAR ES SALAAM",
             "branch": null,
             "swift_code": "ORSUTZT1"
         },
         {
-            "id": 66,
+            "id": 67,
             "bank": "PEOPLE'S BANK OF ZANZIBAR, THE",
             "city": "ZANZIBAR",
             "branch": "(CHAKE CHAKE BRANCH)",
             "swift_code": "PBZATZTZCHK"
         },
         {
-            "id": 67,
+            "id": 68,
             "bank": "PEOPLE'S BANK OF ZANZIBAR, THE",
             "city": "ZANZIBAR",
             "branch": "(MWANAKWEREKWE BRANCH)",
             "swift_code": "PBZATZTZNWK"
         },
         {
-            "id": 68,
+            "id": 69,
             "bank": "PEOPLE'S BANK OF ZANZIBAR, THE",
             "city": "ZANZIBAR",
             "branch": null,
             "swift_code": "PBZATZTZ"
         },
         {
-            "id": 69,
+            "id": 70,
             "bank": "SABMILLER TANZANIA",
             "city": "DAR ES SALAAM",
             "branch": null,
             "swift_code": "SABMTZT1"
         },
         {
-            "id": 70,
+            "id": 71,
             "bank": "SABMILLER TANZANIA",
             "city": "DAR ES SALAAM",
             "branch": null,
             "swift_code": "SABMTZT1TBL"
         },
         {
-            "id": 71,
+            "id": 72,
             "bank": "SABMILLER TANZANIA",
             "city": "DAR ES SALAAM",
             "branch": null,
             "swift_code": "SABMTZT1TDL"
         },
         {
-            "id": 72,
-            "bank": "STANBIC BANK TANZANIA LTD.",
+            "id": 73,
+            "bank": "STANBIC BANK TANZANIA LIMITED",
             "city": "DAR ES SALAAM",
             "branch": null,
             "swift_code": "SBICTZTX"
         },
         {
-            "id": 73,
+            "id": 74,
             "bank": "STANDARD CHARTERED BANK TANZANIA LTD",
             "city": "DAR ES SALAAM",
             "branch": "(SECURITIES SERVICES UNIT)",
             "swift_code": "SCBLTZTXSSU"
         },
         {
-            "id": 74,
+            "id": 75,
             "bank": "STANDARD CHARTERED BANK TANZANIA LTD",
             "city": "DAR ES SALAAM",
             "branch": null,
             "swift_code": "SCBLTZTX"
         },
         {
-            "id": 75,
+            "id": 76,
             "bank": "STATE BANK OF INDIA",
             "city": "DAR ES SALAAM",
             "branch": null,
             "swift_code": "SBINTZT1"
         },
         {
-            "id": 76,
+            "id": 77,
+            "bank": "TANZANIA AGRICULTURAL DEVELOPMENT BANK",
+            "city": "DAR ES SALAAM",
+            "branch": null,
+            "swift_code": "TZADTZTZ"
+        },
+        {
+            "id": 78,
             "bank": "TANZANIA HOUSING BANK",
             "city": "DAR ES SALAAM",
             "branch": "(CITY BRANCH)",
             "swift_code": "TAHOTZT1"
         },
         {
-            "id": 77,
+            "id": 79,
             "bank": "TANZANIA HOUSING BANK",
             "city": "DAR ES SALAAM",
             "branch": "(HIFADHI BRANCH)",
             "swift_code": "TAHOTZT10T2"
         },
         {
-            "id": 78,
+            "id": 80,
             "bank": "TANZANIA HOUSING BANK",
             "city": "DODOMA",
             "branch": "(DODOMA BRANCH)",
             "swift_code": "TAHOTZT10T4"
         },
         {
-            "id": 79,
+            "id": 81,
             "bank": "TANZANIA HOUSING BANK",
             "city": "MBEYA",
             "branch": "(MBEYA BRANCH)",
             "swift_code": "TAHOTZT10T6"
         },
         {
-            "id": 80,
+            "id": 82,
             "bank": "TANZANIA HOUSING BANK",
             "city": "MOROGORO",
             "branch": "(MOROGORO BRANCH)",
             "swift_code": "TAHOTZT10T7"
         },
         {
-            "id": 81,
+            "id": 83,
             "bank": "TANZANIA HOUSING BANK",
             "city": "MOSHI",
             "branch": "(MOSHI BRANCH)",
             "swift_code": "TAHOTZT10T8"
         },
         {
-            "id": 82,
+            "id": 84,
             "bank": "TANZANIA HOUSING BANK",
             "city": "MWANZA",
             "branch": "(MWANZA BRANCH)",
             "swift_code": "TAHOTZT10T5"
         },
         {
-            "id": 83,
+            "id": 85,
             "bank": "TANZANIA HOUSING BANK",
             "city": "TANGA",
             "branch": "(TANGA BRANCH)",
             "swift_code": "TAHOTZT10T3"
         },
         {
-            "id": 84,
+            "id": 86,
             "bank": "TANZANIA HOUSING BANK",
             "city": "ZANZIBAR",
             "branch": "(ZANZIBAR BRANCH)",
             "swift_code": "TAHOTZT10TA"
         },
         {
-            "id": 85,
-            "bank": "TANZANIA POSTAL BANK",
-            "city": "DAR ES SALAAM",
-            "branch": null,
-            "swift_code": "TAPBTZTZ"
-        },
-        {
-            "id": 86,
+            "id": 87,
             "bank": "TANZANIA REVENUE AUTHORITY",
             "city": "DAR ES SALAAM",
             "branch": null,
             "swift_code": "TARATZTZ"
         },
         {
-            "id": 87,
+            "id": 88,
             "bank": "TANZANIA WOMEN'S BANK LTD",
             "city": "DAR ES SALAAM",
             "branch": null,
             "swift_code": "TWBLTZTZ"
         },
         {
-            "id": 88,
+            "id": 89,
             "bank": "TIB CORPORATE BANK LIMITED",
             "city": "DAR ES SALAAM",
             "branch": null,
             "swift_code": "TAINTZTZ"
         },
         {
-            "id": 89,
+            "id": 90,
+            "bank": "TPB BANK PLC",
+            "city": "DAR ES SALAAM",
+            "branch": null,
+            "swift_code": "TAPBTZTZ"
+        },
+        {
+            "id": 91,
             "bank": "TRUST BANK (TANZANIA) LIMITED",
             "city": "DAR ES SALAAM",
             "branch": null,
             "swift_code": "TRBATZT1"
         },
         {
-            "id": 90,
+            "id": 92,
             "bank": "TWIGA BANCORP LIMITED",
             "city": "DAR ES SALAAM",
             "branch": null,
             "swift_code": "NABHTZT1"
         },
         {
-            "id": 91,
+            "id": 93,
             "bank": "TWIGA BANCORP LIMITED",
             "city": "DAR ES SALAAM",
             "branch": null,
             "swift_code": "TWIGTZTZ"
         },
         {
-            "id": 92,
+            "id": 94,
             "bank": "UBL BANK (TANZANIA) LIMITED",
             "city": "DAR ES SALAAM",
             "branch": null,
             "swift_code": "UNILTZTZ"
         },
         {
-            "id": 93,
+            "id": 95,
             "bank": "UCHUMI COMMERCIAL BANK LTD",
             "city": "MOSHI",
             "branch": null,
             "swift_code": "UCCTTZTZ"
         },
         {
-            "id": 94,
+            "id": 96,
             "bank": "ULC (TANZANIA) LTD",
             "city": "DAR ES SALAAM",
             "branch": null,
             "swift_code": "ULCTTZT1"
         },
         {
-            "id": 95,
+            "id": 97,
             "bank": "UNITED BANK FOR AFRICA (TANZANIA) LIMITED",
             "city": "DAR ES SALAAM",
             "branch": null,

@@ -4,489 +4,363 @@
     "list": [
         {
             "id": 1,
-            "bank": "ASSET BANCA S.P.A.",
-            "city": "DOGANA",
-            "branch": "(SEDE CENTRALE)",
-            "swift_code": "ASTTSMS1001"
-        },
-        {
-            "id": 2,
-            "bank": "ASSET BANCA S.P.A.",
-            "city": "DOGANA",
-            "branch": "(SUCCURSALE DOGANA)",
-            "swift_code": "ASTTSMS1005"
-        },
-        {
-            "id": 3,
-            "bank": "ASSET BANCA S.P.A.",
-            "city": "DOGANA",
-            "branch": null,
-            "swift_code": "ASTTSMSM"
-        },
-        {
-            "id": 4,
-            "bank": "ASSET BANCA S.P.A.",
-            "city": "DOMAGNANO",
-            "branch": "(SUCCURSALE DI DOMAGNANO)",
-            "swift_code": "ASTTSMS1004"
-        },
-        {
-            "id": 5,
-            "bank": "ASSET BANCA S.P.A.",
-            "city": "GUALDICCIOLO",
-            "branch": "(SUCCURSALE DI GUALDICCIOLO)",
-            "swift_code": "ASTTSMS1003"
-        },
-        {
-            "id": 6,
-            "bank": "ASSET BANCA S.P.A.",
-            "city": "MONTEGIARDINO",
-            "branch": "(SUCCURSALE DI MONTEGIARDINO)",
-            "swift_code": "ASTTSMS1006"
-        },
-        {
-            "id": 7,
-            "bank": "ASSET BANCA S.P.A.",
-            "city": "MURATA",
-            "branch": "(SUCCURSALE DI MURATA)",
-            "swift_code": "ASTTSMS1002"
-        },
-        {
-            "id": 8,
             "bank": "BANCA AGRICOLA COMMERCIALE ISTITUTO BANCARIO SAMMARINESE S.P.A.",
             "city": "BORGO MAGGIORE",
             "branch": "(O. SCARITO)",
             "swift_code": "BASMSMS1004"
         },
         {
-            "id": 9,
-            "bank": "BANCA AGRICOLA COMMERCIALE ISTITUTO BANCARIO SAMMARINESE S.P.A.",
-            "city": "BORGO MAGGIORE",
-            "branch": "(TAVOLUCCI)",
-            "swift_code": "BASMSMS1009"
-        },
-        {
-            "id": 10,
-            "bank": "BANCA AGRICOLA COMMERCIALE ISTITUTO BANCARIO SAMMARINESE S.P.A.",
-            "city": "CAILUNGO",
-            "branch": null,
-            "swift_code": "BASMSMS1015"
-        },
-        {
-            "id": 11,
-            "bank": "BANCA AGRICOLA COMMERCIALE ISTITUTO BANCARIO SAMMARINESE S.P.A.",
-            "city": "DOGANA",
-            "branch": "(ADMIRAL)",
-            "swift_code": "BASMSMS1013"
-        },
-        {
-            "id": 12,
+            "id": 2,
             "bank": "BANCA AGRICOLA COMMERCIALE ISTITUTO BANCARIO SAMMARINESE S.P.A.",
             "city": "DOGANA",
             "branch": "(CORPORATE)",
             "swift_code": "BASMSMS1012"
         },
         {
-            "id": 13,
+            "id": 3,
             "bank": "BANCA AGRICOLA COMMERCIALE ISTITUTO BANCARIO SAMMARINESE S.P.A.",
             "city": "DOGANA",
             "branch": "(M. TINI)",
             "swift_code": "BASMSMS1006"
         },
         {
-            "id": 14,
+            "id": 4,
             "bank": "BANCA AGRICOLA COMMERCIALE ISTITUTO BANCARIO SAMMARINESE S.P.A.",
             "city": "DOGANA",
             "branch": "(PRIVATE)",
             "swift_code": "BASMSMS1011"
         },
         {
-            "id": 15,
-            "bank": "BANCA AGRICOLA COMMERCIALE ISTITUTO BANCARIO SAMMARINESE S.P.A.",
-            "city": "DOGANA",
-            "branch": "(WTC)",
-            "swift_code": "BASMSMS1014"
-        },
-        {
-            "id": 16,
+            "id": 5,
             "bank": "BANCA AGRICOLA COMMERCIALE ISTITUTO BANCARIO SAMMARINESE S.P.A.",
             "city": "DOGANA",
             "branch": null,
             "swift_code": "BASMSMSM"
         },
         {
-            "id": 17,
-            "bank": "BANCA AGRICOLA COMMERCIALE ISTITUTO BANCARIO SAMMARINESE S.P.A.",
-            "city": "FAETANO",
-            "branch": null,
-            "swift_code": "BASMSMS1016"
-        },
-        {
-            "id": 18,
-            "bank": "BANCA AGRICOLA COMMERCIALE ISTITUTO BANCARIO SAMMARINESE S.P.A.",
-            "city": "FIORENTINO",
-            "branch": null,
-            "swift_code": "BASMSMS1007"
-        },
-        {
-            "id": 19,
-            "bank": "BANCA AGRICOLA COMMERCIALE ISTITUTO BANCARIO SAMMARINESE S.P.A.",
-            "city": "GUALDICCIOLO",
-            "branch": null,
-            "swift_code": "BASMSMS1003"
-        },
-        {
-            "id": 20,
-            "bank": "BANCA AGRICOLA COMMERCIALE ISTITUTO BANCARIO SAMMARINESE S.P.A.",
-            "city": "MURATA",
-            "branch": null,
-            "swift_code": "BASMSMS1002"
-        },
-        {
-            "id": 21,
-            "bank": "BANCA AGRICOLA COMMERCIALE ISTITUTO BANCARIO SAMMARINESE S.P.A.",
-            "city": "ROVERETA",
-            "branch": null,
-            "swift_code": "BASMSMS1005"
-        },
-        {
-            "id": 22,
+            "id": 6,
             "bank": "BANCA AGRICOLA COMMERCIALE ISTITUTO BANCARIO SAMMARINESE S.P.A.",
             "city": "SAN MARINO",
             "branch": "(CITTA')",
             "swift_code": "BASMSMS1001"
         },
         {
-            "id": 23,
-            "bank": "BANCA AGRICOLA COMMERCIALE ISTITUTO BANCARIO SAMMARINESE S.P.A.",
-            "city": "SERRAVALLE",
-            "branch": "(LA CIARULLA)",
-            "swift_code": "BASMSMS1008"
-        },
-        {
-            "id": 24,
+            "id": 7,
             "bank": "BANCA CENTRALE DELLA REPUBBLICA DI SAN MARINO",
             "city": "SAN MARINO",
             "branch": "(SPORTELLO TESORERIA - ESATTORIA)",
             "swift_code": "ICSMSMS1001"
         },
         {
-            "id": 25,
+            "id": 8,
             "bank": "BANCA CENTRALE DELLA REPUBBLICA DI SAN MARINO",
             "city": "SAN MARINO",
             "branch": null,
             "swift_code": "ICSMSMSM"
         },
         {
-            "id": 26,
+            "id": 9,
             "bank": "BANCA CIS S.P.A.",
             "city": "BORGO MAGGIORE",
             "branch": null,
             "swift_code": "CRRNSMS1102"
         },
         {
-            "id": 27,
+            "id": 10,
             "bank": "BANCA CIS S.P.A.",
             "city": "DOGANA",
             "branch": "(CENTRO TONELLI)",
             "swift_code": "CRRNSMS1104"
         },
         {
-            "id": 28,
+            "id": 11,
             "bank": "BANCA CIS S.P.A.",
             "city": "DOGANA",
             "branch": "(VIA 3 SETTEMBRE, 119)",
             "swift_code": "CRRNSMS1106"
         },
         {
-            "id": 29,
+            "id": 12,
             "bank": "BANCA CIS S.P.A.",
             "city": "DOMAGNANO",
             "branch": null,
             "swift_code": "CRRNSMS1107"
         },
         {
-            "id": 30,
+            "id": 13,
             "bank": "BANCA CIS S.P.A.",
             "city": "ROVERETA",
             "branch": null,
             "swift_code": "CRRNSMS1105"
         },
         {
-            "id": 31,
-            "bank": "BANCA CIS S.P.A.",
-            "city": "SERRAVALLE",
-            "branch": null,
-            "swift_code": "CRRNSMSM"
-        },
-        {
-            "id": 32,
+            "id": 14,
             "bank": "BANCA CIS S.P.A.",
             "city": "SERRAVALLE",
             "branch": null,
             "swift_code": "CRRNSMS1100"
         },
         {
-            "id": 33,
+            "id": 15,
+            "bank": "BANCA CIS S.P.A.",
+            "city": "SERRAVALLE",
+            "branch": null,
+            "swift_code": "CRRNSMSM"
+        },
+        {
+            "id": 16,
             "bank": "BANCA DI SAN MARINO SPA",
             "city": "BORGO MAGGIORE",
             "branch": "(SUCCURSALE BORGO MAGGIORE)",
             "swift_code": "MAOISMSM005"
         },
         {
-            "id": 34,
+            "id": 17,
             "bank": "BANCA DI SAN MARINO SPA",
             "city": "CAILUNGO",
             "branch": "(SUCCURSALE CAILUNGO)",
             "swift_code": "MAOISMSM013"
         },
         {
-            "id": 35,
-            "bank": "BANCA DI SAN MARINO SPA",
-            "city": "DOGANA",
-            "branch": "(AGENZIA WTC)",
-            "swift_code": "MAOISMSM010"
-        },
-        {
-            "id": 36,
+            "id": 18,
             "bank": "BANCA DI SAN MARINO SPA",
             "city": "DOGANA",
             "branch": "(DIVISIONE PRIVATE)",
             "swift_code": "MAOISMSM022"
         },
         {
-            "id": 37,
+            "id": 19,
             "bank": "BANCA DI SAN MARINO SPA",
             "city": "DOGANA",
             "branch": "(SUCCURSALE DOGANA)",
             "swift_code": "MAOISMSM002"
         },
         {
-            "id": 38,
+            "id": 20,
             "bank": "BANCA DI SAN MARINO SPA",
-            "city": "DOMAGNANO",
-            "branch": "(AGENZIA FIORINA)",
-            "swift_code": "MAOISMSM012"
+            "city": "DOGANA",
+            "branch": "(SUCCURSALE WTC - CORPORATE)",
+            "swift_code": "MAOISMSM010"
         },
         {
-            "id": 39,
+            "id": 21,
             "bank": "BANCA DI SAN MARINO SPA",
             "city": "DOMAGNANO",
             "branch": "(SUCCURSALE DOMAGNANO)",
             "swift_code": "MAOISMSM003"
         },
         {
-            "id": 40,
+            "id": 22,
             "bank": "BANCA DI SAN MARINO SPA",
             "city": "FAETANO",
             "branch": "(SEDE FAETANO)",
             "swift_code": "MAOISMSM006"
         },
         {
-            "id": 41,
+            "id": 23,
             "bank": "BANCA DI SAN MARINO SPA",
             "city": "FAETANO",
             "branch": null,
             "swift_code": "MAOISMSM"
         },
         {
-            "id": 42,
+            "id": 24,
             "bank": "BANCA DI SAN MARINO SPA",
             "city": "GUALDICCIOLO",
             "branch": "(SUCCURSALE GUALDICCIOLO)",
             "swift_code": "MAOISMSM009"
         },
         {
-            "id": 43,
-            "bank": "BANCA DI SAN MARINO SPA",
-            "city": "MONTE GIARDINO",
-            "branch": "(SUCCURSALE MONTEGIARDINO)",
-            "swift_code": "MAOISMSM008"
-        },
-        {
-            "id": 44,
+            "id": 25,
             "bank": "BANCA DI SAN MARINO SPA",
             "city": "MURATA",
-            "branch": "(AGENZIA MURATA)",
+            "branch": "(SUCCURSALE MURATA)",
             "swift_code": "MAOISMSM011"
         },
         {
-            "id": 45,
-            "bank": "BANCA DI SAN MARINO SPA",
-            "city": "ROVERETA",
-            "branch": "(SUCCURSALE ROVERETA)",
-            "swift_code": "MAOISMSM007"
-        },
-        {
-            "id": 46,
+            "id": 26,
             "bank": "BANCA DI SAN MARINO SPA",
             "city": "SAN MARINO",
             "branch": "(SUCCURSALE CITTA' 1)",
             "swift_code": "MAOISMSM004"
         },
         {
-            "id": 47,
+            "id": 27,
             "bank": "BANCA DI SAN MARINO SPA",
             "city": "SAN MARINO",
             "branch": "(SUCCURSALE CITTA')",
             "swift_code": "MAOISMSM001"
         },
         {
-            "id": 48,
+            "id": 28,
+            "bank": "BANCA DI SAN MARINO SPA",
+            "city": "SERRAVALLE",
+            "branch": "(SUCCURSALE ROVERETA)",
+            "swift_code": "MAOISMSM007"
+        },
+        {
+            "id": 29,
             "bank": "BANCA IMPRESA DI SAN MARINO S.P.A.",
             "city": "DOGANA",
             "branch": null,
             "swift_code": "BTITSMS1"
         },
         {
-            "id": 49,
+            "id": 30,
             "bank": "BANCA SAMMARINESE DI INVESTIMENTO S.P.A.",
             "city": "BORGO MAGGIORE",
             "branch": "(FILIALE DI BORGO MAGGIORE)",
             "swift_code": "BSDISMD1003"
         },
         {
-            "id": 50,
+            "id": 31,
             "bank": "BANCA SAMMARINESE DI INVESTIMENTO S.P.A.",
             "city": "DOGANA",
             "branch": "(FILIALE DI DOGANA)",
             "swift_code": "BSDISMD1002"
         },
         {
-            "id": 51,
+            "id": 32,
+            "bank": "BANCA SAMMARINESE DI INVESTIMENTO S.P.A.",
+            "city": "GUALDICCIOLO",
+            "branch": "(FILIALE DI GUALDICCIOLO)",
+            "swift_code": "BSDISMD1005"
+        },
+        {
+            "id": 33,
             "bank": "BANCA SAMMARINESE DI INVESTIMENTO S.P.A.",
             "city": "ROVERETA",
             "branch": "(FILIALE DI ROVERETA)",
             "swift_code": "BSDISMD1001"
         },
         {
-            "id": 52,
+            "id": 34,
             "bank": "BANCA SAMMARINESE DI INVESTIMENTO S.P.A.",
             "city": "ROVERETA",
             "branch": null,
             "swift_code": "BSDISMSD"
         },
         {
-            "id": 53,
+            "id": 35,
             "bank": "BANCA SAMMARINESE DI INVESTIMENTO S.P.A.",
             "city": "SAN MARINO",
             "branch": "(FILIALE DI CITTA)",
             "swift_code": "BSDISMD1004"
         },
         {
-            "id": 54,
+            "id": 36,
             "bank": "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO",
             "city": "BORGO MAGGIORE",
             "branch": "(AG.BORGO MAGGIORE)",
             "swift_code": "CSSMSMS1001"
         },
         {
-            "id": 55,
+            "id": 37,
             "bank": "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO",
             "city": "CAILUNGO",
             "branch": "(AG.CAILUNGO)",
             "swift_code": "CSSMSMS1009"
         },
         {
-            "id": 56,
+            "id": 38,
             "bank": "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO",
             "city": "CHIESANUOVA",
             "branch": "(AG.CHIESANUOVA)",
             "swift_code": "CSSMSMS1006"
         },
         {
-            "id": 57,
+            "id": 39,
             "bank": "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO",
             "city": "DOGANA",
             "branch": "(AG.DOGANA)",
             "swift_code": "CSSMSMS1003"
         },
         {
-            "id": 58,
+            "id": 40,
             "bank": "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO",
             "city": "DOGANA",
             "branch": "(AG.PONTE MELLINI)",
             "swift_code": "CSSMSMS1016"
         },
         {
-            "id": 59,
+            "id": 41,
             "bank": "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO",
             "city": "DOMAGNANO",
             "branch": "(AG.DOMAGNANO)",
             "swift_code": "CSSMSMS1014"
         },
         {
-            "id": 60,
+            "id": 42,
             "bank": "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO",
             "city": "FAETANO",
             "branch": "(AG.FAETANO)",
             "swift_code": "CSSMSMS1015"
         },
         {
-            "id": 61,
+            "id": 43,
             "bank": "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO",
             "city": "FIORENTINO",
             "branch": "(AG.FIORENTINO)",
             "swift_code": "CSSMSMS1013"
         },
         {
-            "id": 62,
+            "id": 44,
             "bank": "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO",
             "city": "GUALDICCIOLO",
             "branch": "(AG.GUALDICCIOLO)",
             "swift_code": "CSSMSMS1004"
         },
         {
-            "id": 63,
+            "id": 45,
             "bank": "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO",
             "city": "MURATA",
             "branch": "(AG.MURATA)",
             "swift_code": "CSSMSMS1011"
         },
         {
-            "id": 64,
+            "id": 46,
             "bank": "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO",
             "city": "ROVERETA",
             "branch": "(AG.ROVERETA)",
             "swift_code": "CSSMSMS1010"
         },
         {
-            "id": 65,
+            "id": 47,
             "bank": "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO",
             "city": "SAN MARINO",
             "branch": "(AG.CENTRALE)",
             "swift_code": "CSSMSMS1012"
         },
         {
-            "id": 66,
+            "id": 48,
             "bank": "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO",
             "city": "SAN MARINO",
             "branch": "(AG.CITTA'1)",
             "swift_code": "CSSMSMS1005"
         },
         {
-            "id": 67,
+            "id": 49,
             "bank": "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO",
             "city": "SAN MARINO",
             "branch": "(AG.CITTA'2)",
             "swift_code": "CSSMSMS1008"
         },
         {
-            "id": 68,
+            "id": 50,
             "bank": "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO",
             "city": "SAN MARINO",
             "branch": null,
             "swift_code": "CSSMSMSM"
         },
         {
-            "id": 69,
+            "id": 51,
             "bank": "CASSA DI RISPARMIO DELLA REPUBLICA DI SAN MARINO",
             "city": "SERRAVALLE",
             "branch": "(AG.SERRAVALLE)",
             "swift_code": "CSSMSMS1002"
         },
         {
-            "id": 70,
+            "id": 52,
             "bank": "POSTE SAN MARINO",
             "city": "SAN MARINO",
             "branch": null,

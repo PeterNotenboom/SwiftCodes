@@ -39,52 +39,52 @@
         },
         {
             "id": 6,
-            "bank": "BANCO BILBAO VIZCAYA ARGENTARIA SA.",
+            "bank": "BANK MELLAT, SEOUL BRANCH",
             "city": "SEOUL",
             "branch": null,
-            "swift_code": "BBVAKRSE"
+            "swift_code": "BKMTKRSE"
         },
         {
             "id": 7,
+            "bank": "BANK NEGARA INDONESIA SEOUL BRANCH",
+            "city": "SEOUL",
+            "branch": null,
+            "swift_code": "BNINKRSE"
+        },
+        {
+            "id": 8,
             "bank": "BANK OF AMERICA, N.A. PUSAN",
             "city": "PUSAN",
             "branch": null,
             "swift_code": "BOFAKR2102P"
         },
         {
-            "id": 8,
+            "id": 9,
             "bank": "BANK OF AMERICA, N.A. SEOUL BRANCH",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "BOFAKR2X"
         },
         {
-            "id": 9,
+            "id": 10,
             "bank": "BANK OF CHINA SEOUL BRANCH",
             "city": "ANSAN",
             "branch": "(ANSAN BRANCH)",
             "swift_code": "BKCHKRSEANS"
         },
         {
-            "id": 10,
+            "id": 11,
             "bank": "BANK OF CHINA SEOUL BRANCH",
             "city": "DAEGU",
             "branch": "(DAEGU BRANCH)",
             "swift_code": "BKCHKRSEDAE"
         },
         {
-            "id": 11,
+            "id": 12,
             "bank": "BANK OF CHINA SEOUL BRANCH",
             "city": "INCHEON",
             "branch": "(INCHEON BRANCH)",
             "swift_code": "BKCHKRSEICN"
-        },
-        {
-            "id": 12,
-            "bank": "BANK OF CHINA SEOUL BRANCH",
-            "city": "SEOUL",
-            "branch": "(GURO BRANCH)",
-            "swift_code": "BKCHKRSEGUR"
         },
         {
             "id": 13,
@@ -97,57 +97,57 @@
             "id": 14,
             "bank": "BANK OF CHINA SEOUL BRANCH",
             "city": "SEOUL",
+            "branch": "(GURO BRANCH)",
+            "swift_code": "BKCHKRSEGUR"
+        },
+        {
+            "id": 15,
+            "bank": "BANK OF CHINA SEOUL BRANCH",
+            "city": "SEOUL",
             "branch": null,
             "swift_code": "BKCHKRSE"
         },
         {
-            "id": 15,
+            "id": 16,
             "bank": "BANK OF COMMUNICATIONS CO. LTD SEOUL BRANCH",
             "city": "SEOUL",
             "branch": "(SEOUL BRANCH (RMB CLEARING BANK))",
             "swift_code": "COMMKRSE888"
         },
         {
-            "id": 16,
+            "id": 17,
             "bank": "BANK OF COMMUNICATIONS CO. LTD SEOUL BRANCH",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "COMMKRSE"
         },
         {
-            "id": 17,
+            "id": 18,
             "bank": "BANK OF KOREA",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "BOKRKRST"
         },
         {
-            "id": 18,
+            "id": 19,
             "bank": "BANK OF KOREA, THE",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "BOKRKRSE"
         },
         {
-            "id": 19,
+            "id": 20,
             "bank": "BANK OF NOVA SCOTIA, THE, SEOUL BRANCH",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "NOSCKRSE"
         },
         {
-            "id": 20,
+            "id": 21,
             "bank": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE",
             "city": "SEOUL",
             "branch": "(SEOUL BRANCH)",
             "swift_code": "BOTKKRSX"
-        },
-        {
-            "id": 21,
-            "bank": "BANKERS TRUST INTERNATIONAL",
-            "city": "SEOUL",
-            "branch": null,
-            "swift_code": "BKTIKRS1"
         },
         {
             "id": 22,
@@ -158,136 +158,136 @@
         },
         {
             "id": 23,
-            "bank": "BARCLAYS BANK PLC, SEOUL BRANCH",
-            "city": "SEOUL",
-            "branch": null,
-            "swift_code": "BARCKRSE"
-        },
-        {
-            "id": 24,
-            "bank": "BARCLAYS CAPITAL SECURITIES LTD, SEOUL BRANCH",
-            "city": "SEOUL",
-            "branch": null,
-            "swift_code": "BCSCKRS1"
-        },
-        {
-            "id": 25,
             "bank": "BARCLAYS DE ZOETE WEDD SECURITIES LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "BZWSKRS1"
         },
         {
-            "id": 26,
+            "id": 24,
             "bank": "BARO INVESTMENT SECURITIES",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "BRIUKRS1"
         },
         {
-            "id": 27,
+            "id": 25,
             "bank": "BAT KOREA MANUFACTURING LTD",
             "city": "SACHEON-SI",
             "branch": null,
             "swift_code": "BATSKR21"
         },
         {
-            "id": 28,
+            "id": 26,
             "bank": "BNP PARIBAS SECURITIES KOREA CO., LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "BPPSKRS1"
         },
         {
-            "id": 29,
+            "id": 27,
             "bank": "BNP PARIBAS SEOUL BRANCH",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "BNPAKRSE"
         },
         {
-            "id": 30,
+            "id": 28,
             "bank": "BOOKOOK SECURITIES CO LTD",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "BOOSKRS1"
         },
         {
-            "id": 31,
+            "id": 29,
             "bank": "BRITISH AMERICAN TOBACCO KOREA",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "BATSKRS1"
         },
         {
-            "id": 32,
+            "id": 30,
             "bank": "BUSAN BANK",
             "city": "BUSAN",
             "branch": null,
             "swift_code": "PUSBKR2P"
         },
         {
-            "id": 33,
+            "id": 31,
             "bank": "BUSAN BANK",
             "city": "MASAN",
             "branch": "(MASAN BRANCH)",
             "swift_code": "PUSBKR2PMAS"
         },
         {
-            "id": 34,
+            "id": 32,
             "bank": "BUSAN BANK",
             "city": "SEOUL",
             "branch": "(INTERNATIONAL DEPARTMENT SEOUL)",
             "swift_code": "PUSBKR2PINT"
         },
         {
-            "id": 35,
+            "id": 33,
             "bank": "BUSAN BANK",
             "city": "SEOUL",
             "branch": "(SEOUL BRANCH)",
             "swift_code": "PUSBKR2PSEL"
         },
         {
-            "id": 36,
+            "id": 34,
             "bank": "BZW SECURITIES LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "BZSEKRS1"
         },
         {
-            "id": 37,
-            "bank": "CHEIL INDUSTRIES INC.",
-            "city": "UIWANG-SI",
-            "branch": null,
-            "swift_code": "CIISKR22"
-        },
-        {
-            "id": 38,
+            "id": 35,
             "bank": "CHEIL WORLDWIDE, INC",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "CIWWKRSE"
         },
         {
-            "id": 39,
+            "id": 36,
             "bank": "CHINA CONSTRUCTION BANK SEOUL BRANCH",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "PCBCKRSE"
         },
         {
-            "id": 40,
+            "id": 37,
+            "bank": "CHINA EVERBRIGHT BANK SEOUL BRANCH",
+            "city": "SEOUL",
+            "branch": null,
+            "swift_code": "EVERKRSE"
+        },
+        {
+            "id": 38,
             "bank": "CHO HUNG SECURITIES CORPORATION",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "CHHEKRS1"
         },
         {
-            "id": 41,
+            "id": 39,
             "bank": "CIMB SECURITIES LTD., KOREA BRANCH",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "CSKRKRS1"
+        },
+        {
+            "id": 40,
+            "bank": "CITIBANK KOREA INC",
+            "city": "SEOUL",
+            "branch": "(CITI KR KAKAO)",
+            "swift_code": "CITIKRSXKAK"
+        },
+        {
+            "id": 41,
+            "bank": "CITIBANK KOREA INC",
+            "city": "SEOUL",
+            "branch": "(CITIBANK KOREA INC  K BANK)",
+            "swift_code": "CITIKRSXKBA"
         },
         {
             "id": 42,
@@ -312,73 +312,73 @@
         },
         {
             "id": 45,
+            "bank": "CJ CHEILJEDANG CORPORATION",
+            "city": "SEOUL",
+            "branch": null,
+            "swift_code": "CJCCKRSS"
+        },
+        {
+            "id": 46,
             "bank": "CLSA SECURITIES KOREA LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "CLSAKRS1"
         },
         {
-            "id": 46,
+            "id": 47,
             "bank": "CONSTRUCTION GUARANTEE COOPERATIVE",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "KCGCKRSE"
         },
         {
-            "id": 47,
+            "id": 48,
             "bank": "CREDIT AGRICOLE CIB",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "CRLYKRSE"
         },
         {
-            "id": 48,
+            "id": 49,
             "bank": "CREDIT SUISSE AG, SEOUL BRANCH",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "CRESKRSE"
         },
         {
-            "id": 49,
+            "id": 50,
             "bank": "CREDIT SUISSE SECURITIES (EUROPE) LIMITED, SEOUL BRANCH",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "CSFBKRSE"
         },
         {
-            "id": 50,
+            "id": 51,
             "bank": "DAE HAN SECURITIES CO LTD",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "DAHUKRS1"
         },
         {
-            "id": 51,
+            "id": 52,
             "bank": "DAE YU SECURITIES CO. LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "DAECKRS1"
         },
         {
-            "id": 52,
+            "id": 53,
             "bank": "DAEGU BANK, LTD.,THE",
             "city": "DAEGU",
             "branch": null,
             "swift_code": "DAEBKR22"
         },
         {
-            "id": 53,
+            "id": 54,
             "bank": "DAEGU BANK, LTD.,THE",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "DAEBKR22SEL"
-        },
-        {
-            "id": 54,
-            "bank": "DAEWOO SECURITIES CO., LTD.",
-            "city": "SEOUL",
-            "branch": null,
-            "swift_code": "DWSEKRSE"
         },
         {
             "id": 55,
@@ -494,164 +494,164 @@
         },
         {
             "id": 71,
+            "bank": "E9PAY CO. LTD",
+            "city": "SEOUL",
+            "branch": null,
+            "swift_code": "NINPKRSE"
+        },
+        {
+            "id": 72,
             "bank": "ELAND WORLD LIMITED",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "ELGTKRSE"
         },
         {
-            "id": 72,
+            "id": 73,
+            "bank": "EPAYKOREA CO.,LTD.",
+            "city": "SEOUL",
+            "branch": null,
+            "swift_code": "EPACKRSE"
+        },
+        {
+            "id": 74,
             "bank": "EUGENE INVESTMENT AND SECURITIES CO.,LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "SEOSKRS1"
         },
         {
-            "id": 73,
+            "id": 75,
             "bank": "FIRST SECURITIES CO LTD",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "FIRSKRS1"
         },
         {
-            "id": 74,
+            "id": 76,
             "bank": "FITCH RATINGS LTD (KOREA BRANCH)",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "FRIPKRS1"
         },
         {
-            "id": 75,
+            "id": 77,
             "bank": "FPB ASIA LIMITED",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "FPASKRS1"
         },
         {
-            "id": 76,
+            "id": 78,
             "bank": "GOLDMAN SACHS (ASIA) L.L.C. SEOUL BRANCH",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "GSALKRSE"
         },
         {
-            "id": 77,
+            "id": 79,
             "bank": "GOLDMAN SACHS INTERNATIONAL BANK, SEOUL BRANCH",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "GSIBKRSE"
         },
         {
-            "id": 78,
+            "id": 80,
             "bank": "HAN YANG SECURITY CO. LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "HAYSKRS1"
         },
         {
-            "id": 79,
-            "bank": "HANA DAETOO SECURITIES",
+            "id": 81,
+            "bank": "HANA FINANCIAL INVESTMENT CO., LTD.",
             "city": "SEOUL",
             "branch": null,
-            "swift_code": "HNDTKRSE"
+            "swift_code": "HAFVKRS1"
         },
         {
-            "id": 80,
+            "id": 82,
+            "bank": "HANA FINANCIAL INVESTMENT CO., LTD.",
+            "city": "SEOUL",
+            "branch": null,
+            "swift_code": "HAFVKRS3"
+        },
+        {
+            "id": 83,
             "bank": "HANIL SECURITIES CO. LTD",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "HANEKRS1"
         },
         {
-            "id": 81,
+            "id": 84,
             "bank": "HANMAG SECURITIES CORPORATION",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "HASNKRS1"
         },
         {
-            "id": 82,
+            "id": 85,
             "bank": "HANSHIN SECURITIES CO. LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "HNSEKRS1"
         },
         {
-            "id": 83,
+            "id": 86,
             "bank": "HANWHA INVESTMENT TRUST MANAGEMENT",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "HAITKRS1"
         },
         {
-            "id": 84,
+            "id": 87,
             "bank": "HANWHA LIFE INSURANCE",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "HWLIKRSE"
         },
         {
-            "id": 85,
+            "id": 88,
             "bank": "HANWHA SECURITIES SEOUL",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "HNWSKRS1"
         },
         {
-            "id": 86,
+            "id": 89,
             "bank": "HANYANG SECURITIES CO. LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "HSECKRS1"
         },
         {
-            "id": 87,
+            "id": 90,
             "bank": "HEUNGKUK SECURITIES",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "HESTKRS1"
         },
         {
-            "id": 88,
+            "id": 91,
             "bank": "HEWLETT-PACKARD KOREA LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "HEKOKRS1"
         },
         {
-            "id": 89,
+            "id": 92,
             "bank": "HI ASSET MANAGEMENT",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "ASNMKRS1"
         },
         {
-            "id": 90,
+            "id": 93,
             "bank": "HMC INVESTMENT SECURITIES CO., LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "SHHEKRS1"
-        },
-        {
-            "id": 91,
-            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
-            "city": "BUSAN",
-            "branch": "(BUSAN BRANCH)",
-            "swift_code": "HSBCKRSEBSN"
-        },
-        {
-            "id": 92,
-            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
-            "city": "SEOUL",
-            "branch": null,
-            "swift_code": "HSBCKRSE"
-        },
-        {
-            "id": 93,
-            "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
-            "city": "SEOUL",
-            "branch": null,
-            "swift_code": "HSBCKRSECLS"
         },
         {
             "id": 94,
@@ -683,10 +683,10 @@
         },
         {
             "id": 98,
-            "bank": "HYUNDAI SECURITIES",
+            "bank": "IBK SECURITIES CO., LTD.",
             "city": "SEOUL",
             "branch": null,
-            "swift_code": "HYSEKRSE"
+            "swift_code": "IBKSKRS1"
         },
         {
             "id": 99,
@@ -697,7 +697,7 @@
         },
         {
             "id": 100,
-            "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA",
+            "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA SEOUL BRANCH",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "ICBKKRSE"
@@ -718,157 +718,157 @@
         },
         {
             "id": 103,
+            "bank": "ING BANK N.V., SEOUL SECURITIES",
+            "city": "SEOUL",
+            "branch": null,
+            "swift_code": "INGBKRSS"
+        },
+        {
+            "id": 104,
             "bank": "J. HENRY SCHRODER WAGG AND CO LTD",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "JHSWKRS1"
         },
         {
-            "id": 104,
+            "id": 105,
             "bank": "J.P. MORGAN SECURITIES (FAR EAST) LTD",
             "city": "SEOUL",
             "branch": "(TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES)",
             "swift_code": "CHASKRSEENQ"
         },
         {
-            "id": 105,
+            "id": 106,
             "bank": "J.P. MORGAN SECURITIES (FAR EAST) LTD",
             "city": "SEOUL",
             "branch": "(TEST KEY AND BKE ADMINISTRATION)",
             "swift_code": "CHASKRSEKEY"
         },
         {
-            "id": 106,
+            "id": 107,
             "bank": "J.P. MORGAN SECURITIES (FAR EAST) LTD",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "CHASKRSE"
         },
         {
-            "id": 107,
+            "id": 108,
             "bank": "J.P. MORGAN SECURITIES ASIA LTD",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "JMSAKRS1"
         },
         {
-            "id": 108,
+            "id": 109,
             "bank": "JEJU BANK",
             "city": "JEJU",
             "branch": null,
             "swift_code": "JJBKKR22"
         },
         {
-            "id": 109,
+            "id": 110,
             "bank": "JEONBUK BANK",
             "city": "JEONJU",
             "branch": null,
             "swift_code": "JEONKRS1022"
         },
         {
-            "id": 110,
+            "id": 111,
             "bank": "JEONBUK BANK",
             "city": "SEOUL",
             "branch": "(CLS DIVISION)",
             "swift_code": "JEONKRSECLS"
         },
         {
-            "id": 111,
+            "id": 112,
             "bank": "JEONBUK BANK",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "JEONKRSE"
         },
         {
-            "id": 112,
+            "id": 113,
             "bank": "JPMORGAN CHASE BANK, N.A., SEOUL BRANCH",
             "city": "SEOUL",
             "branch": "(TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES)",
             "swift_code": "CHASKRSXENQ"
         },
         {
-            "id": 113,
+            "id": 114,
             "bank": "JPMORGAN CHASE BANK, N.A., SEOUL BRANCH",
             "city": "SEOUL",
             "branch": "(TEST KEY AND BKE ADMINISTRATION)",
             "swift_code": "CHASKRSXKEY"
         },
         {
-            "id": 114,
+            "id": 115,
             "bank": "JPMORGAN CHASE BANK, N.A., SEOUL BRANCH",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "CHASKRSX"
         },
         {
-            "id": 115,
+            "id": 116,
             "bank": "KB ASSET MANAGEMENT",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "KBAMKRS1"
         },
         {
-            "id": 116,
+            "id": 117,
             "bank": "KB INVESTMENT AND SECURITIES CO., LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "HISOKRS1"
         },
         {
-            "id": 117,
+            "id": 118,
+            "bank": "KB SECURITIES CO., LTD.",
+            "city": "SEOUL",
+            "branch": null,
+            "swift_code": "HYSEKRSE"
+        },
+        {
+            "id": 119,
             "bank": "KDB ASSET MANAGEMENT",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "KDAMKRS1"
         },
         {
-            "id": 118,
+            "id": 120,
             "bank": "KDB SECURITIES CO. LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "KDBSKRS1"
         },
         {
-            "id": 119,
-            "bank": "KEB HANA BANK (FORMERLY KOREA EXCHANGE BANK)",
+            "id": 121,
+            "bank": "KEB HANA BANK",
             "city": "SEOUL",
             "branch": "(CLS CONTROL DESK)",
             "swift_code": "KOEXKRSECLS"
         },
         {
-            "id": 120,
-            "bank": "KEB HANA BANK (FORMERLY KOREA EXCHANGE BANK)",
+            "id": 122,
+            "bank": "KEB HANA BANK",
             "city": "SEOUL",
             "branch": "(KOREA EXCHANGE BANK FCL DIVISION)",
             "swift_code": "KOEXKRSEFCL"
         },
         {
-            "id": 121,
-            "bank": "KEB HANA BANK (FORMERLY KOREA EXCHANGE BANK)",
+            "id": 123,
+            "bank": "KEB HANA BANK",
             "city": "SEOUL",
             "branch": "(KOREA EXCHANGE BANK FCN DIVISION)",
             "swift_code": "KOEXKRSEFCN"
         },
         {
-            "id": 122,
-            "bank": "KEB HANA BANK (FORMERLY KOREA EXCHANGE BANK)",
+            "id": 124,
+            "bank": "KEB HANA BANK",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "KOEXKRSE"
-        },
-        {
-            "id": 123,
-            "bank": "KEB HANA BANK(FORMERLY HANA BANK)",
-            "city": "SEOUL",
-            "branch": null,
-            "swift_code": "HNBNKRSE"
-        },
-        {
-            "id": 124,
-            "bank": "KEB HANA BANK(FORMERLY HANA BANK)",
-            "city": "SEOUL",
-            "branch": null,
-            "swift_code": "HNBNKRSETCS"
         },
         {
             "id": 125,
@@ -956,874 +956,951 @@
         },
         {
             "id": 137,
+            "bank": "KOREA FINANCIAL TELECOMMUNICATIONS AND CLEARING INSTITUTE",
+            "city": "SEOUL",
+            "branch": null,
+            "swift_code": "KFTCKRS1"
+        },
+        {
+            "id": 138,
             "bank": "KOREA INVESTMENT AND SECURITIES CO., LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "KISEKRSE"
         },
         {
-            "id": 138,
+            "id": 139,
             "bank": "KOREA INVESTMENT TRUST MANAGEMENT CO",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "KITNKRS1"
         },
         {
-            "id": 139,
+            "id": 140,
             "bank": "KOREA LONG TERM BANK SECURITIES",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "KLTEKRS1"
         },
         {
-            "id": 140,
+            "id": 141,
             "bank": "KOREA SECURITIES DEPOSITORY",
             "city": "SEOUL",
             "branch": "(FUND SETTLEMENT TEAM)",
             "swift_code": "KSDCKRSEFUN"
         },
         {
-            "id": 141,
+            "id": 142,
             "bank": "KOREA SECURITIES DEPOSITORY",
             "city": "SEOUL",
             "branch": "(FUNDOPERATIOM TEAM)",
             "swift_code": "KSDCKRSEFOT"
         },
         {
-            "id": 142,
+            "id": 143,
             "bank": "KOREA SECURITIES DEPOSITORY",
             "city": "SEOUL",
             "branch": "(KDR TEAM)",
             "swift_code": "KSDCKRSEKDR"
         },
         {
-            "id": 143,
+            "id": 144,
             "bank": "KOREA SECURITIES DEPOSITORY",
             "city": "SEOUL",
             "branch": "(SECURITIES LENDING AND BORROWING)",
             "swift_code": "KSDCKRSESLB"
         },
         {
-            "id": 144,
+            "id": 145,
             "bank": "KOREA SECURITIES DEPOSITORY",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "KSDCKRSE"
         },
         {
-            "id": 145,
+            "id": 146,
             "bank": "KOREA SECURITIES FINANCE CORPORATION (KSFC)",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "KOSFKRS1"
         },
         {
-            "id": 146,
+            "id": 147,
             "bank": "KOREA TRADE INSURANCE CORPORATION",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "KEXIKRSE"
         },
         {
-            "id": 147,
+            "id": 148,
             "bank": "KTB ASSET MANAGEMENT",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "KTAMKRS1"
         },
         {
-            "id": 148,
+            "id": 149,
             "bank": "KTB INVESTMENT AND SECURITIES CO., LTD",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "BRNAKRS1"
         },
         {
-            "id": 149,
+            "id": 150,
             "bank": "KWANGJU BANK LTD, THE",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "KWABKRSE"
         },
         {
-            "id": 150,
+            "id": 151,
             "bank": "KYOBO AXA INVESTMENT MANAGERS CO., LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "KAIGKRS1"
         },
         {
-            "id": 151,
+            "id": 152,
             "bank": "KYOBO LIFE INSURANCE CO., LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "KYBOKRSE"
         },
         {
-            "id": 152,
+            "id": 153,
             "bank": "KYOBO SECURITIES CO., LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "KYOBKRS1"
         },
         {
-            "id": 153,
+            "id": 154,
             "bank": "KYONGNAM BANK",
-            "city": "MASAN",
+            "city": "CHANGWON",
             "branch": null,
             "swift_code": "KYNAKR22"
         },
         {
-            "id": 154,
+            "id": 155,
             "bank": "KYONGNAM BANK",
             "city": "SEOUL",
             "branch": "(INTERNATIONAL DEPARTMENT SEOUL)",
             "swift_code": "KYNAKR22ITL"
         },
         {
-            "id": 155,
+            "id": 156,
             "bank": "LANDESBANK BADEN-WUERTTEMBERG, SEOUL",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "SOLAKRSE"
         },
         {
-            "id": 156,
+            "id": 157,
             "bank": "LEADING INVESTMENT AND SECURITIES C O., LTD",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "LISCKRS1"
         },
         {
-            "id": 157,
-            "bank": "LG DISPLAY",
-            "city": "SEOUL",
-            "branch": null,
-            "swift_code": "LGDTKRSE"
-        },
-        {
             "id": 158,
-            "bank": "LG DISPLAY",
+            "bank": "LG CNS CO.,LTD",
             "city": "SEOUL",
             "branch": null,
-            "swift_code": "LGDTKRSE"
+            "swift_code": "LGCNKRS1"
         },
         {
             "id": 159,
+            "bank": "LG DISPLAY",
+            "city": "SEOUL",
+            "branch": null,
+            "swift_code": "LGDTKRSE"
+        },
+        {
+            "id": 160,
             "bank": "LG ELECTRONICS INC.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "LGETKRSE"
         },
         {
-            "id": 160,
+            "id": 161,
             "bank": "LLOYDS BANK PLC",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "LOYDKRS1"
         },
         {
-            "id": 161,
+            "id": 162,
+            "bank": "LOTTE ADVANCED MATERIALS CO. LTD.",
+            "city": "UIWANG-SI",
+            "branch": null,
+            "swift_code": "LADMKR22"
+        },
+        {
+            "id": 163,
             "bank": "LOTTE CHEMICAL CORPORATION",
             "city": "SEOUL",
             "branch": null,
-            "swift_code": "LTCHKRS1"
+            "swift_code": "LTCHKRSE"
         },
         {
-            "id": 162,
+            "id": 164,
             "bank": "LUCKY SECURITIES CO. LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "LUSEKRS1"
         },
         {
-            "id": 163,
+            "id": 165,
             "bank": "MACQUARIE BANK LIMITED, SEOUL BRANCH",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "MACQKRSE"
         },
         {
-            "id": 164,
+            "id": 166,
             "bank": "MACQUARIE SECURITIES KOREA LIMITED",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "BSKLKRS1"
         },
         {
-            "id": 165,
+            "id": 167,
             "bank": "MERCEDES-BENZ FINANCIAL SERVICES KOREA LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "MBFKKRSE"
         },
         {
-            "id": 166,
+            "id": 168,
             "bank": "MERCEDES-BENZ KOREA LIMITED",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "MBKRKRSE"
         },
         {
-            "id": 167,
+            "id": 169,
             "bank": "MERITZ ASSET MANAGEMENT",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "MEEMKRS1"
         },
         {
-            "id": 168,
-            "bank": "MERITZ SECURITIES CO., LTD.",
-            "city": "SEOUL",
-            "branch": null,
-            "swift_code": "HAISKRS1"
-        },
-        {
-            "id": 169,
+            "id": 170,
             "bank": "MERITZ SECURITIES CO.,LTD",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "KFBCKRSE"
         },
         {
-            "id": 170,
+            "id": 171,
             "bank": "MERRILL LYNCH AND COMPANY INC.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "MLCOKRS1"
         },
         {
-            "id": 171,
-            "bank": "MERRILL LYNCH INTERNATIONAL INCORPORATED INC, SEOUL BRANCH",
+            "id": 172,
+            "bank": "MERRILL LYNCH INTERNATIONAL LLC, SEOUL BRANCH",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "MLKRKRSE"
         },
         {
-            "id": 172,
+            "id": 173,
             "bank": "MERRILL LYNCH INTERNATIONAL, SEOUL OFFICE",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "MLKRKRS1"
         },
         {
-            "id": 173,
+            "id": 174,
+            "bank": "METROPOLITAN BANK AND TRUST COMPANY",
+            "city": "SEOUL",
+            "branch": null,
+            "swift_code": "MBTCKRSE"
+        },
+        {
+            "id": 175,
+            "bank": "MIRAE ASSET DAEWOO CO., LTD.",
+            "city": "SEOUL",
+            "branch": null,
+            "swift_code": "MIAEKRSE"
+        },
+        {
+            "id": 176,
             "bank": "MIRAE ASSET FUND SERVICES",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "MRFSKRSE"
         },
         {
-            "id": 174,
+            "id": 177,
             "bank": "MIRAE ASSET GLOBAL INVESTMENTS",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "MAONKRS1"
         },
         {
-            "id": 175,
+            "id": 178,
             "bank": "MIRAE ASSET INVESTMENT MANAGEMENT CO LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "MAVAKRS1"
         },
         {
-            "id": 176,
+            "id": 179,
             "bank": "MIRAE ASSET MAPS GLOBAL INVESTMENTS",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "MALSKRS1"
         },
         {
-            "id": 177,
-            "bank": "MIRAE ASSET SECURITIES",
-            "city": "SEOUL",
-            "branch": null,
-            "swift_code": "MIAEKRSE"
-        },
-        {
-            "id": 178,
+            "id": 180,
             "bank": "MIZUHO BANK, LTD., SEOUL BRANCH",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "MHCBKRSE"
         },
         {
-            "id": 179,
+            "id": 181,
             "bank": "MORGAN GRENFELL",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "MGCOKRS1"
         },
         {
-            "id": 180,
+            "id": 182,
             "bank": "MORGAN STANLEY AND CO INC.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "MSNYKRS1"
         },
         {
-            "id": 181,
+            "id": 183,
             "bank": "MORGAN STANLEY AND CO. INTERNATIONAL PLC, SEOUL BRANCH",
             "city": "SEOUL",
             "branch": "(GLOBAL PAYROLL)",
             "swift_code": "MSKRKRSXGPR"
         },
         {
-            "id": 182,
+            "id": 184,
             "bank": "MORGAN STANLEY AND CO. INTERNATIONAL PLC, SEOUL BRANCH",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "MSKRKRSX"
         },
         {
-            "id": 183,
+            "id": 185,
+            "bank": "MORGAN STANLEY AND CO. INTERNATIONAL PLC, SEOUL BRANCH",
+            "city": "SEOUL",
+            "branch": null,
+            "swift_code": "MSKRKRSXTSY"
+        },
+        {
+            "id": 186,
             "bank": "MORGAN STANLEY BANK INTERNATIONAL LIMITED, SEOUL BRANCH",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "MSBKKRSE"
         },
         {
-            "id": 184,
+            "id": 187,
             "bank": "NACFCA ITMC",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "NACIKRS1"
         },
         {
-            "id": 185,
+            "id": 188,
+            "bank": "NATIONAL AGRICUTURAL COOPERATIVE FEDERATION",
+            "city": "SEOUL",
+            "branch": null,
+            "swift_code": "NACEKRS1"
+        },
+        {
+            "id": 189,
             "bank": "NATIONAL BANK OF PAKISTAN, SEOUL BRANCH KOREA",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "NBPAKRSI"
         },
         {
-            "id": 186,
+            "id": 190,
             "bank": "NATIONAL PENSION SERVICE FUND MANAGEMENT CENTER MANAGEMENT CENTER",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "NPSFKRS1"
         },
         {
-            "id": 187,
+            "id": 191,
             "bank": "NEW JAPAN SECURITIES CO LTD",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "NJSCKRS1"
         },
         {
-            "id": 188,
-            "bank": "NEWEDGE FINANCIAL HONG KONG LIMITED, SEOUL BRANCH",
-            "city": "SEOUL",
-            "branch": null,
-            "swift_code": "NEWGKRS1"
-        },
-        {
-            "id": 189,
+            "id": 192,
             "bank": "NH INVESTMENT AND SECURITIES CO.,LTD",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "HNISKRS1"
         },
         {
-            "id": 190,
+            "id": 193,
             "bank": "NH INVESTMENT AND SECURITIES CO.,LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "WISHKRSE"
         },
         {
-            "id": 191,
+            "id": 194,
             "bank": "NH-CA ASSET MANAGEMENT",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "NHAMKRS1"
         },
         {
-            "id": 192,
+            "id": 195,
             "bank": "NIKE SPORTS KOREA CO., LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "NIKEKRS1"
         },
         {
-            "id": 193,
+            "id": 196,
             "bank": "NOMURA FINANCIAL INVESTMENT (KOREA) CO., LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "NFIKKRSE"
         },
         {
-            "id": 194,
+            "id": 197,
             "bank": "NONGHYUP BANK (FORMERLY KNOWN AS NATIONAL AGRICULTURAL COOPERATIVE FEDERATION)",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "NACFKRSE"
         },
         {
-            "id": 195,
+            "id": 198,
             "bank": "OVERSEA-CHINESE BANKING COPORATION LIMITED, SEOUL BRANCH",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "OCBCKRSE"
         },
         {
-            "id": 196,
+            "id": 199,
+            "bank": "PAN-PACIFIC CO., LTD.",
+            "city": "SEOUL",
+            "branch": null,
+            "swift_code": "PAPFKRSE"
+        },
+        {
+            "id": 200,
+            "bank": "PAYGATE CO., LTD.",
+            "city": "SEOUL",
+            "branch": null,
+            "swift_code": "PCORKRSS"
+        },
+        {
+            "id": 201,
             "bank": "PRUDENTIAL SECURITIES INC.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "PBSIKRS1"
         },
         {
-            "id": 197,
-            "bank": "RBS ASIA LIMITED (SEOUL) BRANCH",
-            "city": "SEOUL",
-            "branch": null,
-            "swift_code": "HGASKRS1"
-        },
-        {
-            "id": 198,
+            "id": 202,
             "bank": "ROTHMANS FAR EAST B.V. KOREA",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "BATSKR31"
         },
         {
-            "id": 199,
+            "id": 203,
             "bank": "SAMSUNG ASSET MANAGEMENT CO., LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "SITAKRS1"
         },
         {
-            "id": 200,
+            "id": 204,
+            "bank": "SAMSUNG ASSET MANAGEMENT CO.,LTD.",
+            "city": "SEOUL",
+            "branch": null,
+            "swift_code": "SITAKRS2"
+        },
+        {
+            "id": 205,
             "bank": "SAMSUNG C AND T CORPORATION",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "SCNTKRSE"
         },
         {
-            "id": 201,
+            "id": 206,
             "bank": "SAMSUNG C AND T CORPORATION TRADING AND INVESTMENT",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "SCNTKRST"
         },
         {
-            "id": 202,
+            "id": 207,
             "bank": "SAMSUNG ELECTRO-MECHANICS CO., LTD",
             "city": "SUWON-SI",
             "branch": null,
             "swift_code": "SEMTKR22"
         },
         {
-            "id": 203,
+            "id": 208,
             "bank": "SAMSUNG ELECTRONICS CO., LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "SECTKRSE"
         },
         {
-            "id": 204,
+            "id": 209,
             "bank": "SAMSUNG ENGINEERING CO., LTD",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "SMSGKRSE"
         },
         {
-            "id": 205,
-            "bank": "SAMSUNG EVERLAND INC.",
+            "id": 210,
+            "bank": "SAMSUNG FIRE AND MARINE INSURANCE CO., LTD",
             "city": "SEOUL",
             "branch": null,
-            "swift_code": "SEVFKRSE"
+            "swift_code": "SFMIKRSE"
         },
         {
-            "id": 206,
+            "id": 211,
             "bank": "SAMSUNG HEAVY INDUSTRIES",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "SSHIKRSE"
         },
         {
-            "id": 207,
+            "id": 212,
             "bank": "SAMSUNG LIFE INSURANCE CO., LTD",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "SSLIKRSE"
         },
         {
-            "id": 208,
+            "id": 213,
             "bank": "SAMSUNG SDI CO.,LTD.",
             "city": "YONGIN-SI",
             "branch": null,
             "swift_code": "SSDIKR22"
         },
         {
-            "id": 209,
+            "id": 214,
             "bank": "SAMSUNG SDS CO., LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "SSDSKRSE"
         },
         {
-            "id": 210,
+            "id": 215,
             "bank": "SAMSUNG SECURITIES CO.,LTD",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "SAMCKRSL"
         },
         {
-            "id": 211,
+            "id": 216,
             "bank": "SAMSUNG SECURITIES CO.,LTD.",
             "city": "SEOUL",
             "branch": "(DERIVATES SALES TEAM)",
             "swift_code": "SAMCKRS1DER"
         },
         {
-            "id": 212,
+            "id": 217,
             "bank": "SAMSUNG SECURITIES CO.,LTD.",
             "city": "SEOUL",
             "branch": "(PROPRIETARY TRADING)",
             "swift_code": "SAMCKRS1PRT"
         },
         {
-            "id": 213,
+            "id": 218,
             "bank": "SAMSUNG SECURITIES CO.,LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "SAMCKRS1"
         },
         {
-            "id": 214,
+            "id": 219,
             "bank": "SAMSUNG TECHWIN CO., LTD.",
             "city": "SEONGNAM",
             "branch": null,
             "swift_code": "SSTWKR22"
         },
         {
-            "id": 215,
+            "id": 220,
+            "bank": "SAMSUNG WELSTORY INCORPORATED",
+            "city": "SEOUL",
+            "branch": null,
+            "swift_code": "SWEIKRSE"
+        },
+        {
+            "id": 221,
             "bank": "SEOUL GUARANTEE INSURANCE COMPANY",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "KSGIKRSE"
         },
         {
-            "id": 216,
+            "id": 222,
             "bank": "SG SECURITIES KOREA CO LTD",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "SGSEKRS1"
         },
         {
-            "id": 217,
+            "id": 223,
             "bank": "SG SECURITIES KOREA CO., LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "SGSEKRSL"
         },
         {
-            "id": 218,
+            "id": 224,
             "bank": "SHEARSON LEHMAN BROTHERS",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "SHLBKRS1"
         },
         {
-            "id": 219,
+            "id": 225,
             "bank": "SHIN HAN SECURITIES CO. LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "SHHSKRS1"
         },
         {
-            "id": 220,
+            "id": 226,
             "bank": "SHINAN BNP PARIBAS ASSET MANAGEMENT CO., LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "SBPAKRS1"
         },
         {
-            "id": 221,
+            "id": 227,
             "bank": "SHINHAN AITAS CO., LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "SHFAKRSE"
         },
         {
-            "id": 222,
+            "id": 228,
             "bank": "SHINHAN BANK",
             "city": "SEOUL",
             "branch": "(KOREA POST OFFICE)",
             "swift_code": "SHBKKRSEKPO"
         },
         {
-            "id": 223,
+            "id": 229,
             "bank": "SHINHAN BANK",
             "city": "SEOUL",
             "branch": "(TST)",
             "swift_code": "SHBKKRSETST"
         },
         {
-            "id": 224,
+            "id": 230,
             "bank": "SHINHAN BANK",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "SHBKKRSE"
         },
         {
-            "id": 225,
+            "id": 231,
             "bank": "SHINHAN BANK",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "SHBKKRSECLS"
         },
         {
-            "id": 226,
+            "id": 232,
+            "bank": "SHINHAN BANK",
+            "city": "SEOUL",
+            "branch": null,
+            "swift_code": "SHBKKRSECUS"
+        },
+        {
+            "id": 233,
             "bank": "SHINHAN INVESTMENT CORP.",
             "city": "SEOUL",
             "branch": "(BACK OFFICE)",
             "swift_code": "SSISKRS1BKO"
         },
         {
-            "id": 227,
+            "id": 234,
             "bank": "SHINHAN INVESTMENT CORP.",
             "city": "SEOUL",
             "branch": "(GENERAL)",
             "swift_code": "SSISKRS1GEB"
         },
         {
-            "id": 228,
+            "id": 235,
             "bank": "SHINHAN INVESTMENT CORP.",
             "city": "SEOUL",
             "branch": "(MANAGEMENT)",
             "swift_code": "SSISKRS1MGT"
         },
         {
-            "id": 229,
+            "id": 236,
             "bank": "SHINHAN INVESTMENT CORP.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "SSISKRS1"
         },
         {
-            "id": 230,
+            "id": 237,
+            "bank": "SHINHAN INVESTMENT CORP.",
+            "city": "SEOUL",
+            "branch": null,
+            "swift_code": "SSISKRSS"
+        },
+        {
+            "id": 238,
             "bank": "SHINYOUNG SECURITIES CO. LTD.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "SHSEKRS1"
         },
         {
-            "id": 231,
+            "id": 239,
             "bank": "SK SECURITIES CO., LTD",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "SKSEKRS1"
         },
         {
-            "id": 232,
+            "id": 240,
             "bank": "SOCIETE GENERALE, SEOUL BRANCH",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "SOGEKRSE"
         },
         {
-            "id": 233,
+            "id": 241,
             "bank": "STANDARD CHARTERED BANK KOREA LIMITED",
             "city": "SEOUL",
             "branch": "(CUSTODIAL SERVICES DEPARTMENT)",
             "swift_code": "SCBLKRSEEQI"
         },
         {
-            "id": 234,
+            "id": 242,
             "bank": "STANDARD CHARTERED BANK KOREA LIMITED",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "SCBLKRSE"
         },
         {
-            "id": 235,
+            "id": 243,
             "bank": "STANDARD CHARTERED SECURITIES KOREA LIMITED",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "SCKRKRS1"
         },
         {
-            "id": 236,
+            "id": 244,
             "bank": "STATE BANK OF INDIA",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "SBINKRSE"
         },
         {
-            "id": 237,
-            "bank": "STATE STEET BANK AND TRUST COMPANY, KOREA BRANCH",
+            "id": 245,
+            "bank": "STATE STREET BANK AND TRUST COMPANY, KOREA BRANCH",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "SBOSKRSE"
         },
         {
-            "id": 238,
-            "bank": "SUHYUP BANK (ALSO KNOWN AS NATIONAL FEDERATION OF FISHERIES COOPERATIVES)",
+            "id": 246,
+            "bank": "SUHYUP BANK",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "NFFCKRSE"
         },
         {
-            "id": 239,
+            "id": 247,
             "bank": "SUMITOMO MITSUI BANKING CORPORATION",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "SMBCKRSE"
         },
         {
-            "id": 240,
+            "id": 248,
             "bank": "THE BANK OF NEW YORK MELLON, SEOUL BRANCH",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "IRVTKRSX"
         },
         {
-            "id": 241,
+            "id": 249,
             "bank": "THE EXPORT-IMPORT BANK OF KOREA",
             "city": "SEOUL",
             "branch": "(FOREIGH EXCHANGE EQUILIZATION FUND)",
             "swift_code": "EXIKKRSEFEF"
         },
         {
-            "id": 242,
+            "id": 250,
             "bank": "THE EXPORT-IMPORT BANK OF KOREA",
             "city": "SEOUL",
             "branch": "(KEXIM INTERANTIONAL FINANCE DEPARTMENT)",
             "swift_code": "EXIKKRSEIFD"
         },
         {
-            "id": 243,
+            "id": 251,
             "bank": "THE EXPORT-IMPORT BANK OF KOREA",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "EXIKKRSE"
         },
         {
-            "id": 244,
+            "id": 252,
             "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "HJCEKRS1"
         },
         {
-            "id": 245,
+            "id": 253,
+            "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, SEOUL BRANCH",
+            "city": "BUSAN",
+            "branch": "(BUSAN BRANCH)",
+            "swift_code": "HSBCKRSEBSN"
+        },
+        {
+            "id": 254,
+            "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, SEOUL BRANCH",
+            "city": "SEOUL",
+            "branch": null,
+            "swift_code": "HSBCKRSE"
+        },
+        {
+            "id": 255,
+            "bank": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, SEOUL BRANCH",
+            "city": "SEOUL",
+            "branch": null,
+            "swift_code": "HSBCKRSECLS"
+        },
+        {
+            "id": 256,
             "bank": "THE KOREA POST",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "KOPOKRS1"
         },
         {
-            "id": 246,
-            "bank": "THE ROYAL BANK OF SCOTLAND PLC (SEOUL), FORMERLY KNOWN AS THE ROYAL BANK OF SCOTLAND N.V. (SEOUL)",
+            "id": 257,
+            "bank": "THE NORTHERN TRUST COMPANY, SEOUL BRANCH",
             "city": "SEOUL",
             "branch": null,
-            "swift_code": "ABNAKRSE"
+            "swift_code": "CNORKRSE"
         },
         {
-            "id": 247,
+            "id": 258,
             "bank": "TONG YANG ASSET MANAGEMENT CORP.",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "TYAMKRS1"
         },
         {
-            "id": 248,
+            "id": 259,
             "bank": "TONG YANG INVESTMENT BANK",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "TYSEKRS1"
         },
         {
-            "id": 249,
+            "id": 260,
             "bank": "TONG YANG INVESTMENT TRUST MANAGEMENT",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "TOYIKRS1"
         },
         {
-            "id": 250,
+            "id": 261,
             "bank": "TONG YANG INVESTMENT TRUST MANAGEMENT COMPANY",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "TYITKRS1"
         },
         {
-            "id": 251,
+            "id": 262,
             "bank": "TRUSTON ASSET MANAGEMENT",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "TRTMKRS1"
         },
         {
-            "id": 252,
+            "id": 263,
             "bank": "U.B.A.F.-UNION DE BANQUES ARABES ET FRANCAISES",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "UBAFKRSX"
         },
         {
-            "id": 253,
+            "id": 264,
             "bank": "UBS AG SEOUL BRANCH",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "UBSWKRSE"
         },
         {
-            "id": 254,
+            "id": 265,
             "bank": "UBS SECURITIES PTE. LTD. SEOUL BRANCH",
             "city": "SEOUL",
             "branch": "(SEOUL BRANCH)",
             "swift_code": "WAREKRS1"
         },
         {
-            "id": 255,
+            "id": 266,
             "bank": "UNITED OVERSEAS BANK LIMITED, SEOUL BRANCH",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "UOVBKRSE"
         },
         {
-            "id": 256,
+            "id": 267,
             "bank": "W.I. CARR (FAR EAST) LIMITED",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "WICAKRS1"
         },
         {
-            "id": 257,
+            "id": 268,
             "bank": "WELLS FARGO BANK, N.A., SEOUL BRANCH",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "PNBPKRSX"
         },
         {
-            "id": 258,
+            "id": 269,
             "bank": "WOORI BANK, SEOUL",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "HVBKKRSE"
         },
         {
-            "id": 259,
+            "id": 270,
             "bank": "WOORI INVESTMENT BANK",
             "city": "SEOUL",
             "branch": null,
             "swift_code": "KHMBKRSE"
         },
         {
-            "id": 260,
+            "id": 271,
             "bank": "YAMAGUCHI BANK, LTD., THE, BUSAN BRANCH",
             "city": "PUSAN",
             "branch": null,
             "swift_code": "YMBKKR2P"
         },
         {
-            "id": 261,
+            "id": 272,
             "bank": "YUANTA SECURITIES KOREA CO.,LTD",
             "city": "SEOUL",
             "branch": null,

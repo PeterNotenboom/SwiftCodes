@@ -25,69 +25,83 @@
         },
         {
             "id": 4,
+            "bank": "BANK OF CHINA (HONG KONG) LIMITED, BRUNEI BRANCH",
+            "city": "BANDAR SERI BEGAWAN",
+            "branch": null,
+            "swift_code": "BKCHBNBB"
+        },
+        {
+            "id": 5,
             "bank": "BRUNEI INVESTMENT AGENCY",
             "city": "BANDAR SERI BEGAWAN",
             "branch": null,
             "swift_code": "BIAGBNB1"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "BRUNEI SHELL PETROLEUM",
             "city": "SERIA",
             "branch": null,
             "swift_code": "BRHPBNB1"
         },
         {
-            "id": 6,
+            "id": 7,
             "bank": "CREDIT CORPORATION (BRUNEI) BHD",
             "city": "BANDAR SERI BEGAWAN",
             "branch": null,
             "swift_code": "CCBRBNB1"
         },
         {
-            "id": 7,
+            "id": 8,
             "bank": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE",
             "city": "BANDAR SERI BEGAWAN",
             "branch": null,
             "swift_code": "HSBCBNBB"
         },
         {
-            "id": 8,
+            "id": 9,
             "bank": "MALAYAN BANKING BERHAD",
             "city": "BANDAR SERI BEGAWAN",
             "branch": null,
             "swift_code": "MBBEBNBB"
         },
         {
-            "id": 9,
+            "id": 10,
             "bank": "PERBADANAN TABUNG AMANAH ISLAM BRUNEI",
             "city": "BANDAR SERI BEGAWAN",
             "branch": null,
             "swift_code": "PTAIBNBB"
         },
         {
-            "id": 10,
+            "id": 11,
             "bank": "RHB BANK BERHAD, BRUNEI",
             "city": "BANDAR SERI BEGAWAN",
             "branch": null,
             "swift_code": "RHBBBNBB"
         },
         {
-            "id": 11,
+            "id": 12,
             "bank": "STANDARD CHARTERED BANK - BRUNEI",
             "city": "BANDAR SERI BEGAWAN",
             "branch": null,
             "swift_code": "SCBLBNBB"
         },
         {
-            "id": 12,
+            "id": 13,
             "bank": "UNITED OVERSEAS BANK LTD",
             "city": "BANDAR SERI BEGAWAN",
             "branch": "(BANDAR SERI BEGAWAN BRANCH)",
             "swift_code": "UOVBBNC1"
         },
         {
-            "id": 13,
+            "id": 14,
+            "bank": "UNITED OVERSEAS BANK LTD",
+            "city": "BANDAR SERI BEGAWAN",
+            "branch": "(TRANSACTION BANKING)",
+            "swift_code": "UOVBBNBBCMS"
+        },
+        {
+            "id": 15,
             "bank": "UNITED OVERSEAS BANK LTD",
             "city": "BANDAR SERI BEGAWAN",
             "branch": null,

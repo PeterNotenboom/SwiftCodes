@@ -39,510 +39,538 @@
         },
         {
             "id": 6,
+            "bank": "AL DAR FOR EXCHANGE WORKS",
+            "city": "DOHA",
+            "branch": null,
+            "swift_code": "AFEWQAQA"
+        },
+        {
+            "id": 7,
             "bank": "AL KHALIJ COMMERCIAL BANK",
             "city": "DOHA",
             "branch": null,
             "swift_code": "KLJIQAQA"
         },
         {
-            "id": 7,
+            "id": 8,
             "bank": "AL ZAMAN EXCHANGE W.L.L",
             "city": "DOHA",
             "branch": null,
             "swift_code": "ALZAQAQA"
         },
         {
-            "id": 8,
+            "id": 9,
             "bank": "ALFARDAN EXCHANGE LLC",
             "city": "DOHA",
             "branch": null,
             "swift_code": "AFXQQAQA"
         },
         {
-            "id": 9,
+            "id": 10,
             "bank": "ALJAZEERA EXCHANGE COMPANY",
             "city": "DOHA",
             "branch": null,
             "swift_code": "AEXCQAQA"
         },
         {
-            "id": 10,
+            "id": 11,
             "bank": "ARAB BANK PLC",
             "city": "DOHA",
             "branch": "(ALSADD BRANCH)",
             "swift_code": "ARABQAQASAD"
         },
         {
-            "id": 11,
+            "id": 12,
             "bank": "ARAB BANK PLC",
             "city": "DOHA",
             "branch": "(C RING BRANCH)",
             "swift_code": "ARABQAQARD3"
         },
         {
-            "id": 12,
+            "id": 13,
             "bank": "ARAB BANK PLC",
             "city": "DOHA",
             "branch": "(CENTRAL TRANSFER UNIT)",
             "swift_code": "ARABQAQACTU"
         },
         {
-            "id": 13,
+            "id": 14,
             "bank": "ARAB BANK PLC",
             "city": "DOHA",
             "branch": "(PAYMENTS INVESTIGATIONS)",
             "swift_code": "ARABQAQAINV"
         },
         {
-            "id": 14,
+            "id": 15,
             "bank": "ARAB BANK PLC",
             "city": "DOHA",
             "branch": "(TRADE SERVICES UNIT)",
             "swift_code": "ARABQAQATSU"
         },
         {
-            "id": 15,
+            "id": 16,
             "bank": "ARAB BANK PLC",
             "city": "DOHA",
             "branch": "(TREASURY OPERATIONS)",
             "swift_code": "ARABQAQATRO"
         },
         {
-            "id": 16,
+            "id": 17,
             "bank": "ARAB BANK PLC",
             "city": "DOHA",
             "branch": null,
             "swift_code": "ARABQAQA"
         },
         {
-            "id": 17,
+            "id": 18,
             "bank": "ARAB JORDAN INVESTMENT BANK (QATAR) LLC",
             "city": "DOHA",
             "branch": null,
             "swift_code": "AJIBQAQA"
         },
         {
-            "id": 18,
+            "id": 19,
+            "bank": "BANK AUDI LLC",
+            "city": "DOHA",
+            "branch": null,
+            "swift_code": "AUDBQAQA"
+        },
+        {
+            "id": 20,
             "bank": "BARWA BANK",
             "city": "DOHA",
             "branch": null,
             "swift_code": "BRWAQAQA"
         },
         {
-            "id": 19,
+            "id": 21,
             "bank": "BLOM BANK QATAR LLC",
             "city": "DOHA",
             "branch": null,
             "swift_code": "BLOMQAQA"
         },
         {
-            "id": 20,
+            "id": 22,
             "bank": "BNP PARIBAS",
             "city": "DOHA",
             "branch": null,
             "swift_code": "BNPAQA21"
         },
         {
-            "id": 21,
+            "id": 23,
             "bank": "BNP PARIBAS, DOHA",
             "city": "DOHA",
             "branch": null,
             "swift_code": "BNPAQAQA"
         },
         {
-            "id": 22,
+            "id": 24,
+            "bank": "BOC LTD QATAR FINANCIAL CENTRE BRANCH WEST BAY",
+            "city": "DOHA",
+            "branch": null,
+            "swift_code": "BKCHQAQA"
+        },
+        {
+            "id": 25,
             "bank": "CITIBANK N.A.",
             "city": "DOHA",
             "branch": null,
             "swift_code": "CITIQAQA"
         },
         {
-            "id": 23,
+            "id": 26,
             "bank": "CITY EXCHANGE CO. W.L.L",
             "city": "DOHA",
             "branch": null,
             "swift_code": "CECQQAQ1"
         },
         {
-            "id": 24,
-            "bank": "DEUTSCHE BANK AG",
-            "city": "DOHA",
-            "branch": null,
-            "swift_code": "DEUTQAQA"
-        },
-        {
-            "id": 25,
+            "id": 27,
             "bank": "DLALA BROKERAGE LLC",
             "city": "DOHA",
             "branch": null,
             "swift_code": "DLBOQAQA"
         },
         {
-            "id": 26,
-            "bank": "DOHA BANK",
-            "city": "DOHA",
-            "branch": "(DOHA ISLAMIC)",
-            "swift_code": "DOHBQAQADIS"
-        },
-        {
-            "id": 27,
-            "bank": "DOHA BANK",
-            "city": "DOHA",
-            "branch": "(DOHA ISLAMIC)",
-            "swift_code": "DOHBQAQADIS"
-        },
-        {
             "id": 28,
+            "bank": "DOHA BANK",
+            "city": "DOHA",
+            "branch": "(DOHA ISLAMIC)",
+            "swift_code": "DOHBQAQADIS"
+        },
+        {
+            "id": 29,
+            "bank": "DOHA BANK",
+            "city": "DOHA",
+            "branch": "(MUSHAIREB BRANCH - DOHA CITY)",
+            "swift_code": "DOHBQAQAMSB"
+        },
+        {
+            "id": 30,
             "bank": "DOHA BANK",
             "city": "DOHA",
             "branch": "(SALWA ROAD BRANCH - DOHA INDUSTRIAL AREA)",
             "swift_code": "DOHBQAQASRB"
         },
         {
-            "id": 29,
+            "id": 31,
             "bank": "DOHA BANK",
             "city": "DOHA",
             "branch": "(WEST BAY BRANCH)",
             "swift_code": "DOHBQAQAWBB"
         },
         {
-            "id": 30,
+            "id": 32,
             "bank": "DOHA BANK",
             "city": "DOHA",
             "branch": null,
             "swift_code": "DOHBQAQA"
         },
         {
-            "id": 31,
+            "id": 33,
             "bank": "DOHA BANK",
             "city": "DUKHAN",
             "branch": "(DUKHAN BRANCH)",
             "swift_code": "DOHBQAQADKB"
         },
         {
-            "id": 32,
+            "id": 34,
             "bank": "DOHA BANK",
             "city": "UMM SAID",
             "branch": "(UMM SAID BRANCH)",
             "swift_code": "DOHBQAQAUSB"
         },
         {
-            "id": 33,
+            "id": 35,
             "bank": "DOHA SECURITIES MARKET",
             "city": "DOHA",
             "branch": null,
             "swift_code": "DSMDQAQA"
         },
         {
-            "id": 34,
-            "bank": "FIRST GULF BANK QATAR FINANCIAL CENTRE",
+            "id": 36,
+            "bank": "FIRST ABU DHABI BANK PJSC (FORMERLY NATIONAL BANK OF ABU DHABI) - QFC BRANCH",
             "city": "DOHA",
             "branch": null,
             "swift_code": "FGBMQAQA"
         },
         {
-            "id": 35,
+            "id": 37,
             "bank": "GULF INVESTMENT GROUP",
             "city": "DOHA",
             "branch": null,
             "swift_code": "GUIRQAA1"
         },
         {
-            "id": 36,
+            "id": 38,
             "bank": "GULF INVESTMENTS GROUP",
             "city": "DOHA",
             "branch": null,
             "swift_code": "GUIRQAQ1"
         },
         {
-            "id": 37,
+            "id": 39,
             "bank": "HSBC BANK MIDDLE EAST LIMITED",
             "city": "DOHA",
             "branch": null,
             "swift_code": "BBMEQAQX"
         },
         {
-            "id": 38,
-            "bank": "ICICI BANK LIMITED (QFC BRANCH)",
-            "city": "DOHA",
-            "branch": null,
-            "swift_code": "ICICQAQACOP"
-        },
-        {
-            "id": 39,
-            "bank": "ICICI BANK LIMITED (QFC BRANCH)",
-            "city": "DOHA",
-            "branch": null,
-            "swift_code": "ICICQAQAGTS"
-        },
-        {
             "id": 40,
-            "bank": "ICICI BANK LIMITED (QFC BRANCH)",
-            "city": "DOHA",
-            "branch": null,
-            "swift_code": "ICICQAQATMO"
-        },
-        {
-            "id": 41,
             "bank": "ICICI BANK LIMITED (QFC BRANCH)",
             "city": "DOHA",
             "branch": null,
             "swift_code": "ICICQAQA"
         },
         {
+            "id": 41,
+            "bank": "ICICI BANK LIMITED (QFC BRANCH)",
+            "city": "DOHA",
+            "branch": null,
+            "swift_code": "ICICQAQACOP"
+        },
+        {
             "id": 42,
+            "bank": "ICICI BANK LIMITED (QFC BRANCH)",
+            "city": "DOHA",
+            "branch": null,
+            "swift_code": "ICICQAQAGTS"
+        },
+        {
+            "id": 43,
+            "bank": "ICICI BANK LIMITED (QFC BRANCH)",
+            "city": "DOHA",
+            "branch": null,
+            "swift_code": "ICICQAQATMO"
+        },
+        {
+            "id": 44,
             "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, LIMITED",
             "city": "DOHA",
             "branch": "(CLEAR CENTRE)",
             "swift_code": "ICBKQAQACLR"
         },
         {
-            "id": 43,
+            "id": 45,
             "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA, LIMITED",
             "city": "DOHA",
             "branch": null,
             "swift_code": "ICBKQAQA"
         },
         {
-            "id": 44,
+            "id": 46,
             "bank": "INTERNATIONAL BANK OF QATAR (Q.S.C.)",
             "city": "DOHA",
             "branch": null,
             "swift_code": "IBOQQAQA"
         },
         {
-            "id": 45,
+            "id": 47,
             "bank": "INTERNATIONAL FINANCIAL SECURITIES CO.",
             "city": "DOHA",
             "branch": null,
             "swift_code": "ITFSQAQ1"
         },
         {
-            "id": 46,
+            "id": 48,
             "bank": "ISLAMIC FINANCIAL SECURITIES COMPANY",
             "city": "DOHA",
             "branch": null,
             "swift_code": "IFSOQAQ1"
         },
         {
-            "id": 47,
-            "bank": "KUWAIT TURKISH PARTICIPATION BANK INC.",
-            "city": "DOHA",
-            "branch": null,
-            "swift_code": "KTEFQAQA"
-        },
-        {
-            "id": 48,
+            "id": 49,
             "bank": "LARI EXCHANGE COMPANY QATAR",
             "city": "DOHA",
             "branch": null,
             "swift_code": "LAEXQAQ1"
         },
         {
-            "id": 49,
+            "id": 50,
             "bank": "MASHREQ BANK",
             "city": "DOHA",
             "branch": null,
             "swift_code": "MSHQQAQA"
         },
         {
-            "id": 50,
+            "id": 51,
             "bank": "MASRAF AL RAYAN",
             "city": "DOHA",
             "branch": null,
             "swift_code": "MAFRQAQA"
         },
         {
-            "id": 51,
+            "id": 52,
+            "bank": "MINISTRY OF FINANCE",
+            "city": "DOHA",
+            "branch": null,
+            "swift_code": "MIIFQAQA"
+        },
+        {
+            "id": 53,
             "bank": "QATAR CENTRAL BANK",
             "city": "DOHA",
             "branch": null,
             "swift_code": "QMAGQAQA"
         },
         {
-            "id": 52,
+            "id": 54,
             "bank": "QATAR DEVELOPMENT BANK",
             "city": "DOHA",
             "branch": null,
             "swift_code": "QIDBQAQA"
         },
         {
-            "id": 53,
+            "id": 55,
             "bank": "QATAR FIRST INVESTMENT BANK",
             "city": "DOHA",
             "branch": null,
             "swift_code": "QFIBQAQA"
         },
         {
-            "id": 54,
+            "id": 56,
             "bank": "QATAR FOUNDATION",
             "city": "DOHA",
             "branch": null,
             "swift_code": "QFQFQAQA"
         },
         {
-            "id": 55,
+            "id": 57,
             "bank": "QATAR INTERNATIONAL ISLAMIC BANK",
             "city": "DOHA",
             "branch": null,
             "swift_code": "QIIBQAQA"
         },
         {
-            "id": 56,
+            "id": 58,
             "bank": "QATAR INVESTMENT AUTHORITY",
             "city": "DOHA",
             "branch": null,
             "swift_code": "GQICQAQA"
         },
         {
-            "id": 57,
+            "id": 59,
             "bank": "QATAR ISLAMIC BANK",
             "city": "DOHA",
             "branch": null,
             "swift_code": "QISBQAQA"
         },
         {
-            "id": 58,
+            "id": 60,
             "bank": "QATAR NATIONAL BANK",
             "city": "DOHA",
             "branch": "(CUSTODIAN)",
             "swift_code": "QNBAQAQACUS"
         },
         {
-            "id": 59,
+            "id": 61,
+            "bank": "QATAR NATIONAL BANK",
+            "city": "DOHA",
+            "branch": "(FORIGN TRADE DEPT)",
+            "swift_code": "QNBAQAQAFTD"
+        },
+        {
+            "id": 62,
+            "bank": "QATAR NATIONAL BANK",
+            "city": "DOHA",
+            "branch": "(OPERATION DEPT)",
+            "swift_code": "QNBAQAQACOD"
+        },
+        {
+            "id": 63,
             "bank": "QATAR NATIONAL BANK",
             "city": "DOHA",
             "branch": "(SECURITY LENDING)",
             "swift_code": "QNBAQAQASLB"
         },
         {
-            "id": 60,
+            "id": 64,
+            "bank": "QATAR NATIONAL BANK",
+            "city": "DOHA",
+            "branch": "(TREASURY DEPT)",
+            "swift_code": "QNBAQAQATRO"
+        },
+        {
+            "id": 65,
             "bank": "QATAR NATIONAL BANK",
             "city": "DOHA",
             "branch": null,
             "swift_code": "QNBAQAQA"
         },
         {
-            "id": 61,
+            "id": 66,
             "bank": "QATAR PETROLEUM",
             "city": "DOHA",
             "branch": null,
             "swift_code": "QPQPQAQA"
         },
         {
-            "id": 62,
+            "id": 67,
+            "bank": "QATAR PETROLEUM FOR THE SALE OF PETROLEUM PRODUCTS COMPANY LTD",
+            "city": "DOHA",
+            "branch": null,
+            "swift_code": "TSWQQAQA"
+        },
+        {
+            "id": 68,
             "bank": "QATAR SECURITIES COMPANY",
             "city": "DOHA",
             "branch": null,
             "swift_code": "QASCQAQ1"
         },
         {
-            "id": 63,
+            "id": 69,
             "bank": "QATARGAS OPERATING CO LTD",
             "city": "DOHA",
             "branch": null,
             "swift_code": "QAQGQAQA"
         },
         {
-            "id": 64,
+            "id": 70,
             "bank": "QINVEST LLC",
             "city": "DOHA",
             "branch": null,
             "swift_code": "QINVQAQA"
         },
         {
-            "id": 65,
+            "id": 71,
             "bank": "QNB FINANCIAL SERVICES",
             "city": "DOHA",
             "branch": null,
             "swift_code": "QNBFQAQ1"
         },
         {
-            "id": 66,
+            "id": 72,
             "bank": "RASGAS COMPANY LIMITED",
             "city": "DOHA",
             "branch": null,
             "swift_code": "RLNGQAQA"
         },
         {
-            "id": 67,
+            "id": 73,
             "bank": "RASGAS COMPANY LIMITED",
             "city": "DOHA",
             "branch": null,
             "swift_code": "RLNGQAT1"
         },
         {
-            "id": 68,
+            "id": 74,
             "bank": "SAMBA FINANCIAL GROUP",
             "city": "DOHA",
             "branch": null,
             "swift_code": "SAMBQAQA"
         },
         {
-            "id": 69,
+            "id": 75,
             "bank": "STANDARD CHARTERED BANK",
             "city": "DOHA",
             "branch": null,
             "swift_code": "SCBLQAQX"
         },
         {
-            "id": 70,
-            "bank": "STATE BANK OF INDIA, QATAR FINANCIAL CENTRE BRANCH",
-            "city": "DOHA",
-            "branch": null,
-            "swift_code": "SBINQAQA"
-        },
-        {
-            "id": 71,
+            "id": 76,
             "bank": "TASWEEQ",
             "city": "DOHA",
             "branch": null,
             "swift_code": "TSWQQAB1"
         },
         {
-            "id": 72,
-            "bank": "TASWEEQ",
-            "city": "DOHA",
-            "branch": null,
-            "swift_code": "TSWQQAQA"
-        },
-        {
-            "id": 73,
+            "id": 77,
             "bank": "THE COMMERCIAL BANK (Q.S.C)",
             "city": "DOHA",
             "branch": null,
             "swift_code": "CBQAQAQA"
         },
         {
-            "id": 74,
+            "id": 78,
             "bank": "THE GROUP SECURITIES",
             "city": "DOHA",
             "branch": null,
             "swift_code": "GRPSQAQA"
         },
         {
-            "id": 75,
+            "id": 79,
             "bank": "UNION NATIONAL BANK-QATAR",
             "city": "DOHA",
             "branch": null,
             "swift_code": "UNBEQAQH"
         },
         {
-            "id": 76,
+            "id": 80,
             "bank": "UNITED BANK LIMITED, DOHA",
             "city": "DOHA",
             "branch": null,
             "swift_code": "UNILQAQA"
         },
         {
-            "id": 77,
+            "id": 81,
             "bank": "UNITED BANK LIMITED, DOHA",
             "city": "DOHA",
             "branch": null,
             "swift_code": "UNILQAQATRY"
         },
         {
-            "id": 78,
+            "id": 82,
             "bank": "UNITED BANK LTD",
             "city": "DOHA",
             "branch": null,

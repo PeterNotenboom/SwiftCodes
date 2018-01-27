@@ -32,3961 +32,4262 @@
         },
         {
             "id": 5,
+            "bank": "AIR CANADA",
+            "city": "MONTREAL",
+            "branch": null,
+            "swift_code": "ACNACA2Q"
+        },
+        {
+            "id": 6,
             "bank": "AIR CANADA PENSION MASTER TRUST FUND",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "ACMTCAMM"
         },
         {
-            "id": 6,
+            "id": 7,
             "bank": "ALBERTA INVESTMENT MANAGEMENT CORPORATION",
             "city": "EDMONTON",
             "branch": null,
             "swift_code": "AIMCCA61"
         },
         {
-            "id": 7,
+            "id": 8,
+            "bank": "ALBERTA INVESTMENT MANAGEMENT CORPORATION",
+            "city": "EDMONTON",
+            "branch": null,
+            "swift_code": "AIMCCA66"
+        },
+        {
+            "id": 9,
             "bank": "ALBERTA STOCK EXCHANGE, THE",
             "city": "CALGARY",
             "branch": null,
             "swift_code": "XALBCA61"
         },
         {
-            "id": 8,
+            "id": 10,
             "bank": "ALBERTA TEACHERS RETIREMENT FUND BOARD",
             "city": "EDMONTON",
             "branch": null,
             "swift_code": "ATRFCA61"
         },
         {
-            "id": 9,
+            "id": 11,
             "bank": "ALBERTA TREASURY BRANCHES",
             "city": "EDMONTON",
             "branch": null,
             "swift_code": "ATBRCA6E"
         },
         {
-            "id": 10,
+            "id": 12,
             "bank": "ALPHA CAPITAL INC.",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "ALPHCAM1"
         },
         {
-            "id": 11,
+            "id": 13,
             "bank": "ALPHAFIXE CAPITAL",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "ALPICAM1"
         },
         {
-            "id": 12,
+            "id": 14,
             "bank": "ALTACORP CAPITAL INC.",
             "city": "CALGARY",
             "branch": null,
             "swift_code": "ALTTCA61"
         },
         {
-            "id": 13,
+            "id": 15,
             "bank": "AQUILON CAPITAL CORP.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "MMIGCAT1"
         },
         {
-            "id": 14,
+            "id": 16,
             "bank": "ASIA PACIFIC FINANCIAL SERVICES CANADA LIMITED",
             "city": "VICTORIA",
             "branch": null,
             "swift_code": "APFICA81"
         },
         {
-            "id": 15,
+            "id": 17,
             "bank": "AUREUS CAPITAL CORP.",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "AURCCAM1"
         },
         {
-            "id": 16,
+            "id": 18,
             "bank": "AVIVA INVESTORS NORTH AMERICA",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "AINMCAT1"
         },
         {
-            "id": 17,
+            "id": 19,
             "bank": "AZUR GROUP INC",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "AZGRCAMM"
         },
         {
-            "id": 18,
+            "id": 20,
             "bank": "BANK OF AMERICA, NATIONAL ASSOCIATION, CANADA BRANCH",
             "city": "TORONTO",
             "branch": "(FOREIGN CURRENCY SERVICES)",
             "swift_code": "BOFACATTFCS"
         },
         {
-            "id": 19,
+            "id": 21,
             "bank": "BANK OF AMERICA, NATIONAL ASSOCIATION, CANADA BRANCH",
             "city": "TORONTO",
             "branch": "(GLOBAL DERIVATIVES AND FOREIGN EXCHANGE)",
             "swift_code": "BOFACATTGRC"
         },
         {
-            "id": 20,
+            "id": 22,
             "bank": "BANK OF AMERICA, NATIONAL ASSOCIATION, CANADA BRANCH",
             "city": "TORONTO",
             "branch": "(TREASURY)",
             "swift_code": "BOFACATTTSY"
         },
         {
-            "id": 21,
+            "id": 23,
             "bank": "BANK OF AMERICA, NATIONAL ASSOCIATION, CANADA BRANCH",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "BOFACATT"
         },
         {
-            "id": 22,
+            "id": 24,
             "bank": "BANK OF AMERICA, NATIONAL ASSOCIATION, CANADA BRANCH",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "BOFACATTVAN"
         },
         {
-            "id": 23,
+            "id": 25,
             "bank": "BANK OF CANADA",
             "city": "OTTAWA",
             "branch": null,
             "swift_code": "BCANCAW2"
         },
         {
-            "id": 24,
+            "id": 26,
             "bank": "BANK OF CHINA (CANADA)",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "BKCHCATT"
         },
         {
-            "id": 25,
+            "id": 27,
             "bank": "BANK OF CHINA (CANADA)",
             "city": "VANCOUVER",
             "branch": "(VANCOUVER BRANCH)",
             "swift_code": "BKCHCATTVAN"
         },
         {
-            "id": 26,
+            "id": 28,
+            "bank": "BANK OF CHINA TORONTO BRANCH",
+            "city": "TORONTO",
+            "branch": null,
+            "swift_code": "BKCHCA21"
+        },
+        {
+            "id": 29,
+            "bank": "BANK OF CHINA TORONTO BRANCH",
+            "city": "TORONTO",
+            "branch": null,
+            "swift_code": "BKCHCAT2"
+        },
+        {
+            "id": 30,
             "bank": "BANK OF MONTREAL SHORCAN",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "BAMSCAT1"
         },
         {
-            "id": 27,
-            "bank": "BANK OF MONTREAL, THE",
-            "city": "MONTREAL",
-            "branch": "(INTERNATIONAL BRANCH)",
-            "swift_code": "BOFMCAM2"
-        },
-        {
-            "id": 28,
-            "bank": "BANK OF MONTREAL, THE",
-            "city": "MONTREAL",
-            "branch": "(INTERNATIONAL BRANCH)",
-            "swift_code": "BOFMCAM2"
-        },
-        {
-            "id": 29,
+            "id": 31,
             "bank": "BANK OF MONTREAL, THE",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "BOFMCAM3"
         },
         {
-            "id": 30,
+            "id": 32,
             "bank": "BANK OF MONTREAL, THE",
             "city": "TORONTO",
             "branch": "(BMO - BROKERS)",
             "swift_code": "BOFMCAT2BMO"
         },
         {
-            "id": 31,
+            "id": 33,
+            "bank": "BANK OF MONTREAL, THE",
+            "city": "TORONTO",
+            "branch": "(BMO NESBITT BURNS)",
+            "swift_code": "BOFMCAM2NBB"
+        },
+        {
+            "id": 34,
             "bank": "BANK OF MONTREAL, THE",
             "city": "TORONTO",
             "branch": "(CLS PAYMENTS ONLY)",
             "swift_code": "BOFMCAT2CLS"
         },
         {
-            "id": 32,
+            "id": 35,
             "bank": "BANK OF MONTREAL, THE",
             "city": "TORONTO",
             "branch": "(FOREIGN EXCHANGE AND MONEY MARKET)",
             "swift_code": "BOFMCAT2FXM"
         },
         {
-            "id": 33,
+            "id": 36,
             "bank": "BANK OF MONTREAL, THE",
             "city": "TORONTO",
             "branch": "(GLOBAL CASH MANAGEMENT OPERATIONS)",
             "swift_code": "BOFMCAT2GCT"
         },
         {
-            "id": 34,
+            "id": 37,
+            "bank": "BANK OF MONTREAL, THE",
+            "city": "TORONTO",
+            "branch": "(INTERNATIONAL BRANCH)",
+            "swift_code": "BOFMCAM2"
+        },
+        {
+            "id": 38,
             "bank": "BANK OF MONTREAL, THE",
             "city": "TORONTO",
             "branch": "(INTERNATIONAL BRANCH)",
             "swift_code": "BOFMCAT2"
         },
         {
-            "id": 35,
+            "id": 39,
             "bank": "BANK OF NOVA SCOTIA",
             "city": "CALGARY",
             "branch": null,
             "swift_code": "NOSCCATTCGY"
         },
         {
-            "id": 36,
+            "id": 40,
             "bank": "BANK OF NOVA SCOTIA",
             "city": "CALGARY",
             "branch": null,
             "swift_code": "NOSCCATTTPC"
         },
         {
-            "id": 37,
+            "id": 41,
             "bank": "BANK OF NOVA SCOTIA",
             "city": "HALIFAX",
             "branch": null,
             "swift_code": "NOSCCATTHFX"
         },
         {
-            "id": 38,
+            "id": 42,
             "bank": "BANK OF NOVA SCOTIA",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "NOSCCATTMTL"
         },
         {
-            "id": 39,
+            "id": 43,
             "bank": "BANK OF NOVA SCOTIA",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "NOSCCATTTPM"
         },
         {
-            "id": 40,
+            "id": 44,
             "bank": "BANK OF NOVA SCOTIA",
             "city": "OTTAWA",
             "branch": null,
             "swift_code": "NOSCCATTOTT"
         },
         {
-            "id": 41,
+            "id": 45,
             "bank": "BANK OF NOVA SCOTIA",
             "city": "SASKATOON",
             "branch": null,
             "swift_code": "NOSCCATTSKN"
         },
         {
-            "id": 42,
+            "id": 46,
             "bank": "BANK OF NOVA SCOTIA",
             "city": "TORONTO",
             "branch": "(ALL OFFICES IN CANADA)",
             "swift_code": "NOSCCATT"
         },
         {
-            "id": 43,
+            "id": 47,
             "bank": "BANK OF NOVA SCOTIA",
             "city": "TORONTO",
             "branch": "(BALANCE SHEET MANAGEMENT)",
             "swift_code": "NOSCCATTBSM"
         },
         {
-            "id": 44,
+            "id": 48,
             "bank": "BANK OF NOVA SCOTIA",
             "city": "TORONTO",
             "branch": "(CDN SHORT TERM FUNDING)",
             "swift_code": "NOSCCATTCST"
         },
         {
-            "id": 45,
+            "id": 49,
             "bank": "BANK OF NOVA SCOTIA",
             "city": "TORONTO",
             "branch": "(COLLECTION DEPARTMENT)",
             "swift_code": "NOSCCATTCOL"
         },
         {
-            "id": 46,
+            "id": 50,
             "bank": "BANK OF NOVA SCOTIA",
             "city": "TORONTO",
             "branch": "(CONTINUOUS LINK SETTLEMENT)",
             "swift_code": "NOSCCATTCLS"
         },
         {
-            "id": 47,
+            "id": 51,
             "bank": "BANK OF NOVA SCOTIA",
             "city": "TORONTO",
             "branch": "(SECURITIES)",
             "swift_code": "NOSCCATMSEC"
         },
         {
-            "id": 48,
+            "id": 52,
             "bank": "BANK OF NOVA SCOTIA",
             "city": "TORONTO",
             "branch": "(TERM FUNDING AND SECURITIZATION)",
             "swift_code": "NOSCCATTTFS"
         },
         {
-            "id": 49,
+            "id": 53,
             "bank": "BANK OF NOVA SCOTIA",
             "city": "TORONTO",
             "branch": "(TOR SHORTTERMFUNDING)",
             "swift_code": "NOSCCATTSTF"
         },
         {
-            "id": 50,
+            "id": 54,
             "bank": "BANK OF NOVA SCOTIA",
             "city": "TORONTO",
             "branch": "(WEALTH MGMT)",
             "swift_code": "NOSCCATMWM1"
         },
         {
-            "id": 51,
-            "bank": "BANK OF NOVA SCOTIA",
-            "city": "TORONTO",
-            "branch": null,
-            "swift_code": "NOSCCATTTOR"
-        },
-        {
-            "id": 52,
+            "id": 55,
             "bank": "BANK OF NOVA SCOTIA",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "NOSCCATMCMS"
         },
         {
-            "id": 53,
+            "id": 56,
             "bank": "BANK OF NOVA SCOTIA",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "NOSCCATMGTB"
         },
         {
-            "id": 54,
+            "id": 57,
             "bank": "BANK OF NOVA SCOTIA",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "NOSCCATTFXA"
         },
         {
-            "id": 55,
+            "id": 58,
+            "bank": "BANK OF NOVA SCOTIA",
+            "city": "TORONTO",
+            "branch": null,
+            "swift_code": "NOSCCATTTOR"
+        },
+        {
+            "id": 59,
             "bank": "BANK OF NOVA SCOTIA",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "NOSCCATTTPG"
         },
         {
-            "id": 56,
+            "id": 60,
             "bank": "BANK OF NOVA SCOTIA",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "NOSCCATTTPT"
         },
         {
-            "id": 57,
+            "id": 61,
             "bank": "BANK OF NOVA SCOTIA",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "NOSCCATTTPV"
         },
         {
-            "id": 58,
+            "id": 62,
             "bank": "BANK OF NOVA SCOTIA",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "NOSCCATTVCR"
         },
         {
-            "id": 59,
+            "id": 63,
             "bank": "BANK OF NOVA SCOTIA",
             "city": "WINNIPEG",
             "branch": null,
             "swift_code": "NOSCCATTTPW"
         },
         {
-            "id": 60,
+            "id": 64,
             "bank": "BANK OF NOVA SCOTIA",
             "city": "WINNIPEG",
             "branch": null,
             "swift_code": "NOSCCATTWPG"
         },
         {
-            "id": 61,
-            "bank": "BANK OF TOKYO-MITSUBISHI UFJ (CANADA)",
-            "city": "TORONTO",
-            "branch": "(TORONTO HEAD OFFICE)",
-            "swift_code": "BOTKCATX"
-        },
-        {
-            "id": 62,
-            "bank": "BANK OF TOKYO-MITSUBISHI UFJ (CANADA)",
-            "city": "VANCOUVER",
-            "branch": "(VANCOUVER OFFICE)",
-            "swift_code": "BOTKCATXVCR"
-        },
-        {
-            "id": 63,
+            "id": 65,
             "bank": "BANQUE DE DEVELOPPEMENT DU CANADA",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "BAFDCAM1"
         },
         {
-            "id": 64,
+            "id": 66,
             "bank": "BANQUE NATIONALE DU CANADA",
             "city": "MONTREAL",
             "branch": "(CALGARY BRANCH CODE)",
             "swift_code": "BNDCCAMMCGY"
         },
         {
-            "id": 65,
+            "id": 67,
+            "bank": "BANQUE NATIONALE DU CANADA",
+            "city": "MONTREAL",
+            "branch": "(CUSTODY)",
+            "swift_code": "BNDCCAMMCUS"
+        },
+        {
+            "id": 68,
             "bank": "BANQUE NATIONALE DU CANADA",
             "city": "MONTREAL",
             "branch": "(INTERNATIONAL DEPARTMENT)",
             "swift_code": "BNDCCAMMINT"
         },
         {
-            "id": 66,
+            "id": 69,
             "bank": "BANQUE NATIONALE DU CANADA",
             "city": "MONTREAL",
             "branch": "(SECURITIES)",
             "swift_code": "BNDCCAMMVAL"
         },
         {
-            "id": 67,
+            "id": 70,
             "bank": "BANQUE NATIONALE DU CANADA",
             "city": "MONTREAL",
             "branch": "(TREASURY DEPARTMENT)",
             "swift_code": "BNDCCAMMIMM"
         },
         {
-            "id": 68,
+            "id": 71,
             "bank": "BANQUE NATIONALE DU CANADA",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "BNDCCAMM"
         },
         {
-            "id": 69,
+            "id": 72,
             "bank": "BANQUE ROYALE DU CANADA",
             "city": "VICTORIAVILLE",
             "branch": null,
             "swift_code": "ROYACA21"
         },
         {
-            "id": 70,
+            "id": 73,
             "bank": "BARCLAYS MCCONNELL LTD",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "BMCCCAT1"
         },
         {
-            "id": 71,
+            "id": 74,
             "bank": "BBN JAMES CAPEL INC",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "BBNJCAT1"
         },
         {
-            "id": 72,
+            "id": 75,
             "bank": "BCPBANK",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "BCOMCAT1"
         },
         {
-            "id": 73,
+            "id": 76,
             "bank": "BEACON SECURITIES LIMITED",
             "city": "HALIFAX",
             "branch": null,
             "swift_code": "BEAOCA91"
         },
         {
-            "id": 74,
+            "id": 77,
             "bank": "BERNER AND COMPANY INC",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "BERCCAT1"
         },
         {
-            "id": 75,
+            "id": 78,
             "bank": "BLACK CREEK INVESTMENT MANAGEMENT INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "BCNGCAT1"
         },
         {
-            "id": 76,
+            "id": 79,
             "bank": "BLACKBERRY LIMITED",
             "city": "WATERLOO",
             "branch": null,
             "swift_code": "RIMMCA2W"
         },
         {
-            "id": 77,
+            "id": 80,
             "bank": "BLACKROCK ASSET MANAGEMENT CANADA LIMITED",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "BAGNCAT1"
         },
         {
-            "id": 78,
+            "id": 81,
             "bank": "BLOOMBERG TRADEBOOK CANADA COMPANY",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "BTRBCATT"
         },
         {
-            "id": 79,
+            "id": 82,
             "bank": "BLUECHIVE PROCESSING CORPORATION",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "BLPCCAT1"
         },
         {
-            "id": 80,
+            "id": 83,
             "bank": "BMO HARRIS INVESTMENT MANAGEMENT",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "BHIMCAT1"
         },
         {
-            "id": 81,
-            "bank": "BMO NESBITT BURNS INC",
-            "city": "TORONTO",
-            "branch": null,
-            "swift_code": "NESUCAM10TT"
-        },
-        {
-            "id": 82,
+            "id": 84,
             "bank": "BMO NESBITT BURNS INC",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "NESUCAM1"
         },
         {
-            "id": 83,
+            "id": 85,
+            "bank": "BMO NESBITT BURNS INC",
+            "city": "TORONTO",
+            "branch": null,
+            "swift_code": "NESUCAM10TT"
+        },
+        {
+            "id": 86,
             "bank": "BNP PARIBAS (CANADA) VALEURS MOBILIERES INC",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "BNPVCAM1"
         },
         {
-            "id": 84,
+            "id": 87,
             "bank": "BNP PARIBAS, CANADA BRANCH",
             "city": "MONTREAL",
             "branch": "(MONTREAL BRANCH)",
             "swift_code": "BNPACAMM"
         },
         {
-            "id": 85,
+            "id": 88,
             "bank": "BNP PARIBAS, CANADA BRANCH",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "BNPACAMMSUB"
         },
         {
-            "id": 86,
+            "id": 89,
             "bank": "BNP PARIBAS, CANADA BRANCH",
             "city": "TORONTO",
             "branch": "(TORONTO BRANCH)",
             "swift_code": "BNPACAMMTTT"
         },
         {
-            "id": 87,
+            "id": 90,
             "bank": "BNP PARIBAS, CANADA BRANCH",
             "city": "VANCOUVER",
             "branch": "(VANCOUVER BRANCH)",
             "swift_code": "BNPACAMMVVV"
         },
         {
-            "id": 88,
+            "id": 91,
             "bank": "BOMBARDIER INC.",
             "city": "MONTREAL",
             "branch": "(BOMBARDIER TRANSPORTATION)",
             "swift_code": "BIHOCAMMBTG"
         },
         {
-            "id": 89,
+            "id": 92,
             "bank": "BOMBARDIER INC.",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "BIHOCAMM"
         },
         {
-            "id": 90,
+            "id": 93,
             "bank": "BRAWLEY CATHERS LIMITED",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "BRWLCAT1"
         },
         {
-            "id": 91,
+            "id": 94,
             "bank": "BRIGHTWAY CAPITAL (CANADA) LTD.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "BRPDCAT1"
         },
         {
-            "id": 92,
+            "id": 95,
             "bank": "BRINK, HUDSON AND LEFEVER LTD.",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "BHLLCA81"
         },
         {
-            "id": 93,
+            "id": 96,
+            "bank": "BRITISH COLUMBIA INVESTMENT MANAGEMENT CORPORATION",
+            "city": "VICTORIA",
+            "branch": null,
+            "swift_code": "BCVMCA81"
+        },
+        {
+            "id": 97,
             "bank": "BROOKFIELD ASSET MANAGEMENT",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "BAMZCATT"
         },
         {
-            "id": 94,
+            "id": 98,
             "bank": "BROOKFIELD BRP CANADA CORP.",
             "city": "OTTAWA",
             "branch": null,
             "swift_code": "BBRPCAWA"
         },
         {
-            "id": 95,
+            "id": 99,
             "bank": "BURGUNDY ASSET MANAGEMENT LIMITED",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "BUAMCAT1"
         },
         {
-            "id": 96,
+            "id": 100,
             "bank": "BURNS FRY LIMITED",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "BFRLCAT1"
         },
         {
-            "id": 97,
+            "id": 101,
             "bank": "BUSINESS DEVELOPMENT BANK OF CANADA",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "FBDBCAM1"
         },
         {
-            "id": 98,
+            "id": 102,
             "bank": "C.M. OLIVER AND COMPANY LIMITED",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "CHOLCA81"
         },
         {
-            "id": 99,
+            "id": 103,
             "bank": "C.S. FIRST BOSTON (CANADA) INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "CSFBCAT1"
         },
         {
-            "id": 100,
-            "bank": "CAISSE CENTRALE DESJARDINS",
-            "city": "MONTREAL",
-            "branch": "(HEAD OFFICE)",
-            "swift_code": "CCDQCAMM"
-        },
-        {
-            "id": 101,
-            "bank": "CAISSE CENTRALE DESJARDINS",
-            "city": "MONTREAL",
-            "branch": "(TREASURY AND INTERNATIONAL MONEY MARKETS)",
-            "swift_code": "CCDQCAMMIMM"
-        },
-        {
-            "id": 102,
+            "id": 104,
             "bank": "CAISSE DE DEPOT ET PLACEMENT DU QUEBEC",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "CDPECAM1"
         },
         {
-            "id": 103,
+            "id": 105,
             "bank": "CAISSE DESJARDINS DES CHUTES MONTMORENCY",
             "city": "QUEBEC",
             "branch": null,
             "swift_code": "CDCNCA21"
         },
         {
-            "id": 104,
+            "id": 106,
             "bank": "CAISSE POPULAIRE",
             "city": "DIEPPE",
             "branch": null,
             "swift_code": "CAUOCA91"
         },
         {
-            "id": 105,
+            "id": 107,
             "bank": "CALDWELL SECURITIES LTD",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "CALWCAT1"
         },
         {
-            "id": 106,
+            "id": 108,
             "bank": "CALGARY FOREIGN EXCHANGE LTD.",
             "city": "CALGARY",
             "branch": null,
             "swift_code": "CLFXCA66"
         },
         {
-            "id": 107,
+            "id": 109,
+            "bank": "CALLIDUS CAPITAL CORPORATION",
+            "city": "TORONTO",
+            "branch": null,
+            "swift_code": "CDUSCATT"
+        },
+        {
+            "id": 110,
             "bank": "CAMBRIDGE MERCANTILE CORP.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "CMFXCATT"
         },
         {
-            "id": 108,
+            "id": 111,
+            "bank": "CAMECO CORPORATION",
+            "city": "SASKATOON",
+            "branch": null,
+            "swift_code": "CEMTCATT"
+        },
+        {
+            "id": 112,
             "bank": "CAMLIN ASSET MANAGEMENT",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "CMAMCA81"
         },
         {
-            "id": 109,
+            "id": 113,
             "bank": "CANACCORD CAPITAL CORPORATION",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "CANCCA81"
         },
         {
-            "id": 110,
+            "id": 114,
             "bank": "CANACCORD CAPITAL CORPORATION",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "CANCCA81DTC"
         },
         {
-            "id": 111,
+            "id": 115,
             "bank": "CANADA DEPOSIT INSURANCE CORPORATION",
             "city": "OTTAWA",
             "branch": null,
             "swift_code": "CDICCAW2"
         },
         {
-            "id": 112,
+            "id": 116,
             "bank": "CANADA MONEY TT LTD",
             "city": "BURNABY",
             "branch": null,
             "swift_code": "CMTTCA81"
         },
         {
-            "id": 113,
+            "id": 117,
             "bank": "CANADA PENSION PLAN INVESTMENT BOARD",
             "city": "TORONTO",
-            "branch": "(AIM\/POMS SERVICE)",
+            "branch": null,
             "swift_code": "CPPBCATA"
         },
         {
-            "id": 114,
+            "id": 118,
             "bank": "CANADA PENSION PLAN INVESTMENT BOARD",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "CPPBCATT"
         },
         {
-            "id": 115,
+            "id": 119,
             "bank": "CANADAS KYOTO PROTOCOL NATIONAL REGISTRY",
             "city": "GATINEAU",
             "branch": null,
             "swift_code": "CKPNCA21"
         },
         {
-            "id": 116,
+            "id": 120,
             "bank": "CANADIAN DERIVATIVES CLEARING CORP",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "CDCCCAMM"
         },
         {
-            "id": 117,
+            "id": 121,
             "bank": "CANADIAN FINANCIAL CORPORATION",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "CNFCCAM1"
         },
         {
-            "id": 118,
+            "id": 122,
             "bank": "CANADIAN IMPERIAL BANK OF COMMERCE",
             "city": "TORONTO",
             "branch": "(CIBC WORLD MARKETS SECURITIES OPERATIONS (OMGEO))",
             "swift_code": "CIBCCATTCWM"
         },
         {
-            "id": 119,
+            "id": 123,
             "bank": "CANADIAN IMPERIAL BANK OF COMMERCE",
             "city": "TORONTO",
             "branch": "(CLS SERVICES)",
             "swift_code": "CIBCCATTCLS"
         },
         {
-            "id": 120,
+            "id": 124,
             "bank": "CANADIAN IMPERIAL BANK OF COMMERCE",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "CIBCCATT"
         },
         {
-            "id": 121,
+            "id": 125,
             "bank": "CANADIAN NATIONAL RAILWAY COMPANY",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "CNRRCAMT"
         },
         {
-            "id": 122,
+            "id": 126,
             "bank": "CANADIAN WESTERN BANK",
             "city": "EDMONTON",
             "branch": null,
             "swift_code": "CWBKCA61"
         },
         {
-            "id": 123,
+            "id": 127,
             "bank": "CANADIAN WESTERN BANK",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "CWBKCA6108V"
         },
         {
-            "id": 124,
+            "id": 128,
             "bank": "CANOE FINANCIAL LP",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "CNFNCAT1"
         },
         {
-            "id": 125,
+            "id": 129,
             "bank": "CANSO INVESTMENT COUNSEL LTD",
             "city": "RICHMOND HILL",
             "branch": null,
             "swift_code": "CAVUCAT1"
         },
         {
-            "id": 126,
+            "id": 130,
             "bank": "CASGRAIN AND COMPANY LIMITED",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "CASCCAM1"
         },
         {
-            "id": 127,
+            "id": 131,
             "bank": "CDS CLEARING AND DEPOSITORY",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "CDSLCAT2"
         },
         {
-            "id": 128,
+            "id": 132,
             "bank": "CDS CLEARING AND DEPOSITORY SERVICES INC.",
             "city": "CALGARY",
             "branch": null,
             "swift_code": "CDSLCAT106C"
         },
         {
-            "id": 129,
+            "id": 133,
             "bank": "CDS CLEARING AND DEPOSITORY SERVICES INC.",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "CDSLCAT10MM"
         },
         {
-            "id": 130,
+            "id": 134,
             "bank": "CDS CLEARING AND DEPOSITORY SERVICES INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "CDSLCATT"
         },
         {
-            "id": 131,
+            "id": 135,
             "bank": "CDS CLEARING AND DEPOSITORY SERVICES INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "CDSLCATTSMD"
         },
         {
-            "id": 132,
+            "id": 136,
             "bank": "CDS CLEARING AND DEPOSITORY SERVICES INC.",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "CDSLCAT108V"
         },
         {
-            "id": 133,
+            "id": 137,
             "bank": "CENTRAL 1 CREDIT UNION",
             "city": "CALGARY",
             "branch": "(ALBERTA PAYMENTS SERVICES)",
             "swift_code": "CUCXCATTCAL"
         },
         {
-            "id": 134,
+            "id": 138,
             "bank": "CENTRAL 1 CREDIT UNION",
             "city": "MISSISSAUGA",
             "branch": null,
             "swift_code": "CUCXCATT"
         },
         {
-            "id": 135,
+            "id": 139,
             "bank": "CENTRAL 1 CREDIT UNION",
             "city": "REGINA",
             "branch": "(SASKATCHEWAN PAYMENT SERVICES)",
             "swift_code": "CUCXCATTREG"
         },
         {
-            "id": 136,
+            "id": 140,
             "bank": "CENTRAL 1 CREDIT UNION",
             "city": "TORONTO",
             "branch": "(CENTRAL 1 CREDIT UNION ONTARIO PAYMENT SERVICES)",
             "swift_code": "CUCXCATTONT"
         },
         {
-            "id": 137,
+            "id": 141,
             "bank": "CENTRAL 1 CREDIT UNION",
             "city": "TORONTO",
             "branch": "(INVESTMENT DEPARTMENT)",
             "swift_code": "CUCXCATTINV"
         },
         {
-            "id": 138,
+            "id": 142,
             "bank": "CENTRAL 1 CREDIT UNION",
             "city": "VANCOUVER",
             "branch": "(CENTRAL 1 CREDIT UNION BC PAYMENT SERVICES)",
             "swift_code": "CUCXCATTVAN"
         },
         {
-            "id": 139,
+            "id": 143,
             "bank": "CENTRAL 1 CREDIT UNION",
             "city": "WINNIPEG",
             "branch": "(MANITOBA PAYMENTS SERVICES)",
             "swift_code": "CUCXCATTWPG"
         },
         {
-            "id": 140,
+            "id": 144,
             "bank": "CENTURY BANCORP",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "CENPCAM1"
         },
         {
-            "id": 141,
+            "id": 145,
             "bank": "CHINA CONSTRUCTION BANK TORONTO BRANCH",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "PCBCCATT"
         },
         {
-            "id": 142,
+            "id": 146,
             "bank": "CIBC ASSET MANAGEMENT INC.",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "CIAECAM1"
         },
         {
-            "id": 143,
+            "id": 147,
             "bank": "CIBC ASSET MANAGEMENT INC.",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "CIEMCAM1"
         },
         {
-            "id": 144,
+            "id": 148,
             "bank": "CIBC GLOBAL ASSET MANAGEMENT INC.",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "CGAACAM1"
         },
         {
-            "id": 145,
+            "id": 149,
+            "bank": "CIDEL ASSET MANAGEMENT INC",
+            "city": "TORONTO",
+            "branch": null,
+            "swift_code": "CTBLCATT"
+        },
+        {
+            "id": 150,
+            "bank": "CIDEL BANK CANADA",
+            "city": "TORONTO",
+            "branch": null,
+            "swift_code": "CTBLCAT3"
+        },
+        {
+            "id": 151,
+            "bank": "CIDEL TRUST COMPANY",
+            "city": "CALGARY",
+            "branch": null,
+            "swift_code": "CTBLCA66"
+        },
+        {
+            "id": 152,
             "bank": "CITCO BANK CANADA",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "CITCCATT"
         },
         {
-            "id": 146,
+            "id": 153,
             "bank": "CITCO BANK CSV PROCESSING",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "CISGCAT1"
         },
         {
-            "id": 147,
+            "id": 154,
             "bank": "CITIBANK CANADA",
             "city": "TORONTO",
             "branch": "(CITIBANK NA CANADIAN BRANCH)",
             "swift_code": "CITICATTBCH"
         },
         {
-            "id": 148,
+            "id": 155,
             "bank": "CITIBANK CANADA",
             "city": "TORONTO",
             "branch": "(CITN)",
             "swift_code": "CITICATT617"
         },
         {
-            "id": 149,
+            "id": 156,
             "bank": "CITIBANK CANADA",
             "city": "TORONTO",
             "branch": "(CITT)",
             "swift_code": "CITICATT615"
         },
         {
-            "id": 150,
+            "id": 157,
             "bank": "CITIBANK CANADA",
             "city": "TORONTO",
             "branch": "(SECURITIES SERVICES DEPARTMENT)",
             "swift_code": "CITICATT623"
         },
         {
-            "id": 151,
+            "id": 158,
             "bank": "CITIBANK CANADA",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "CITICATT"
         },
         {
-            "id": 152,
+            "id": 159,
             "bank": "CITIBANK CANADA SECURITIES LTD.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "CICSCAT1"
         },
         {
-            "id": 153,
-            "bank": "CITIZENS BANK OF CANADA",
-            "city": "VANCOUVER",
-            "branch": "(VANCITY)",
-            "swift_code": "CTZNCA8V001"
-        },
-        {
-            "id": 154,
-            "bank": "CITIZENS BANK OF CANADA",
-            "city": "VANCOUVER",
-            "branch": null,
-            "swift_code": "CTZNCA8V"
-        },
-        {
-            "id": 155,
+            "id": 160,
             "bank": "CLARUS SECURITIES INC",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "CLSTCAT1"
         },
         {
-            "id": 156,
+            "id": 161,
             "bank": "CMA LEDUC VALEURS MOBILIERES INC.",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "VLMOCAM1"
         },
         {
-            "id": 157,
+            "id": 162,
+            "bank": "CMC MARKETS CANADA INC",
+            "city": "TORONTO",
+            "branch": null,
+            "swift_code": "CMCKCATT"
+        },
+        {
+            "id": 163,
+            "bank": "CN CANADIAN MASTER TRUST FUND",
+            "city": "MONTREAL",
+            "branch": null,
+            "swift_code": "CMTFCAM1"
+        },
+        {
+            "id": 164,
             "bank": "COERENTE CAPITAL MANAGEMENT INC.",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "CCTMCAM1"
         },
         {
-            "id": 158,
+            "id": 165,
             "bank": "COMMISSION DIRECT INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "CHDICAT1"
         },
         {
-            "id": 159,
+            "id": 166,
             "bank": "CONCENTRA FINANCIAL SERVICES ASSOCIATION",
             "city": "SASKATOON",
             "branch": null,
             "swift_code": "TCACCAT1"
         },
         {
-            "id": 160,
+            "id": 167,
             "bank": "CONNOR, CLARK AND COMPANY LTD",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "CONCCAT1"
         },
         {
-            "id": 161,
+            "id": 168,
             "bank": "CONNOR, CLARK AND LUNN FINANCIAL GROUP",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "CCLFCA81"
         },
         {
-            "id": 162,
+            "id": 169,
             "bank": "CONTINENTAL BANK OF CANADA",
             "city": "WHITBY",
             "branch": null,
             "swift_code": "CNTICA21"
         },
         {
-            "id": 163,
+            "id": 170,
+            "bank": "CONVERSE CANADA CORP",
+            "city": "HALIFAX",
+            "branch": null,
+            "swift_code": "CNADCA91"
+        },
+        {
+            "id": 171,
             "bank": "CORMARK SECURITIES INC",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "SPSLCAT1"
         },
         {
-            "id": 164,
+            "id": 172,
             "bank": "CREDENTIAL FINANCIAL INC.",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "CRNLCA81"
         },
         {
-            "id": 165,
+            "id": 173,
             "bank": "CREDIFINANCE SECURITIES LIMITED",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "CSECCAT1"
         },
         {
-            "id": 166,
+            "id": 174,
             "bank": "CREDIT AGRICOLE CIB",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "CRLYCAM1"
         },
         {
-            "id": 167,
+            "id": 175,
             "bank": "CREDIT SUISSE AG, TORONTO BRANCH",
             "city": "CALGARY",
             "branch": null,
             "swift_code": "CRESCAT106C"
         },
         {
-            "id": 168,
+            "id": 176,
             "bank": "CREDIT SUISSE AG, TORONTO BRANCH",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "CRESCAT10MM"
         },
         {
-            "id": 169,
+            "id": 177,
             "bank": "CREDIT SUISSE AG, TORONTO BRANCH",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "CRESCATT"
         },
         {
-            "id": 170,
+            "id": 178,
+            "bank": "CREDIT SUISSE AG, TORONTO BRANCH",
+            "city": "TORONTO",
+            "branch": null,
+            "swift_code": "CRESCATTVIS"
+        },
+        {
+            "id": 179,
             "bank": "CREDIT SUISSE AG, TORONTO BRANCH",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "CRESCAT108V"
         },
         {
-            "id": 171,
+            "id": 180,
             "bank": "CREDIT UNION CENTRAL OF CANADA",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "CCCSCAT1"
         },
         {
-            "id": 172,
+            "id": 181,
             "bank": "CREW HOLDINGS LIMITED",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "CRHLCA81"
         },
         {
-            "id": 173,
+            "id": 182,
             "bank": "CTBC BANK CORP. (CANADA)",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "CTCBCA8V"
         },
         {
-            "id": 174,
+            "id": 183,
             "bank": "CTI CAPITAL GROUP INC",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "CTICCAM1"
         },
         {
-            "id": 175,
+            "id": 184,
             "bank": "CUSTOM HOUSE LTD.",
             "city": "VICTORIA",
             "branch": null,
             "swift_code": "CHFXCA8V"
         },
         {
-            "id": 176,
+            "id": 185,
             "bank": "DAIMLER CANADA FINANCE INC.",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "DCAGCAMM"
         },
         {
-            "id": 177,
+            "id": 186,
             "bank": "DAIWA SECURITIES CANADA LTD.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "DSCACAT1"
         },
         {
-            "id": 178,
+            "id": 187,
             "bank": "DBRS LIMITED",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "DRRSCAT1"
         },
         {
-            "id": 179,
+            "id": 188,
             "bank": "DEACON CAPITAL CORPORATION",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "DCCOCAT1"
         },
         {
-            "id": 180,
+            "id": 189,
             "bank": "DEMERS CONSEIL INC.",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "DEMCCAM1"
         },
         {
-            "id": 181,
+            "id": 190,
             "bank": "DEUTSCHE BANK AG, CANADA BRANCH",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "DEUTCATT"
         },
         {
-            "id": 182,
+            "id": 191,
             "bank": "DEUTSCHE BANK SECURITIES LIMITED",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "MCMICAT1"
         },
         {
-            "id": 183,
+            "id": 192,
+            "bank": "DIRECTCASH BANK",
+            "city": "CALGARY",
+            "branch": null,
+            "swift_code": "DIEECA66"
+        },
+        {
+            "id": 193,
             "bank": "DOHERTY AND ASSOCIATES CO. LTD",
             "city": "OTTAWA",
             "branch": null,
             "swift_code": "DOASCAW1"
         },
         {
-            "id": 184,
+            "id": 194,
             "bank": "DOMINICK AND DOMINICK SECURITIES",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "DDMSCAT1"
         },
         {
-            "id": 185,
-            "bank": "DUCA FINANCIAL SERVICES CREDIT UNION LTD.",
-            "city": "TORONTO",
-            "branch": null,
-            "swift_code": "DFSCCATT"
-        },
-        {
-            "id": 186,
+            "id": 195,
             "bank": "DUNDEE SECURITIES CORPORATION",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "DUNSCAT1"
         },
         {
-            "id": 187,
+            "id": 196,
             "bank": "E(THREE)M INVESTMENTS INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "EMINCAT1"
         },
         {
-            "id": 188,
+            "id": 197,
             "bank": "EDGECREST CAPITAL CORPORATION",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "EDCCCAT1"
         },
         {
-            "id": 189,
+            "id": 198,
             "bank": "EDGEPOINT WEALTH",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "EDWECAT1"
         },
         {
-            "id": 190,
+            "id": 199,
             "bank": "EDWARD D. JONES AND CO",
             "city": "MISSISSAUGA",
             "branch": null,
             "swift_code": "EDDJCAM1"
         },
         {
-            "id": 191,
+            "id": 200,
             "bank": "ENDEAVOUR MINING CORPORATION",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "ENDVCA8V"
         },
         {
-            "id": 192,
-            "bank": "ENDEAVOUR MINING CORPORATION",
-            "city": "VANCOUVER",
-            "branch": null,
-            "swift_code": "ENDVCA8V"
-        },
-        {
-            "id": 193,
+            "id": 201,
             "bank": "ENTERMONEY EXCHANGE ( ENMONEX) CORPORATION",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "EEECCAT1"
         },
         {
-            "id": 194,
+            "id": 202,
             "bank": "EQUITY FINANCIAL FX INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "EQFXCAT1"
         },
         {
-            "id": 195,
+            "id": 203,
             "bank": "EURO PACIFIC CANADA INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "EUPCCAT1"
         },
         {
-            "id": 196,
+            "id": 204,
+            "bank": "EXCHANGE BANK OF CANADA",
+            "city": "TORONTO",
+            "branch": null,
+            "swift_code": "EXBCCATT"
+        },
+        {
+            "id": 205,
             "bank": "EXPERTUS TECHNOLOGIES INC.",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "EXTCCAM1"
         },
         {
-            "id": 197,
-            "bank": "EXPORT DEVELOPMENT CANADA",
-            "city": "OTTAWA",
-            "branch": null,
-            "swift_code": "EDCOCAW2"
-        },
-        {
-            "id": 198,
+            "id": 206,
             "bank": "EXPORT DEVELOPMENT CANADA",
             "city": "OTTAWA",
             "branch": null,
             "swift_code": "EDCOCA21"
         },
         {
-            "id": 199,
+            "id": 207,
+            "bank": "EXPORT DEVELOPMENT CANADA",
+            "city": "OTTAWA",
+            "branch": null,
+            "swift_code": "EDCOCAW2"
+        },
+        {
+            "id": 208,
             "bank": "FAMILY TRUST CORPORATION",
             "city": "MARKHAM",
             "branch": null,
             "swift_code": "FACTCA21"
         },
         {
-            "id": 200,
+            "id": 209,
             "bank": "FCT INSURANCE COMPANY LTD",
             "city": "OAKVILLE",
             "branch": null,
             "swift_code": "FCTICATT"
         },
         {
-            "id": 201,
+            "id": 210,
             "bank": "FEDERATION DE CAISSES POPULAIRES DESJARDINS DE MONTREAL",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "FCPOCAM1"
         },
         {
-            "id": 202,
+            "id": 211,
+            "bank": "FEDERATION DES CAISSES DESJARDINS DU QUEBEC",
+            "city": "LEVIS",
+            "branch": "(HEAD OFFICE)",
+            "swift_code": "CCDQCAMM"
+        },
+        {
+            "id": 212,
+            "bank": "FEDERATION DES CAISSES DESJARDINS DU QUEBEC",
+            "city": "MONTREAL",
+            "branch": "(TREASURY AND INTERNATIONAL MONEY MARKETS)",
+            "swift_code": "CCDQCAMMIMM"
+        },
+        {
+            "id": 213,
             "bank": "FEDERATION DES CAISSES POPULAIRES DU MANITOBA",
             "city": "WINNIPEG",
             "branch": null,
             "swift_code": "FCPMCA41"
         },
         {
-            "id": 203,
+            "id": 214,
             "bank": "FIDELITY CLEARING CANADA, ULC",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "FCCLCAT1"
         },
         {
-            "id": 204,
+            "id": 215,
             "bank": "FIDUCIE DESJARDINS",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "FIDDCAM1"
         },
         {
-            "id": 205,
+            "id": 216,
             "bank": "FINNING INTERNATIONAL INC",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "FNNGCA8V"
         },
         {
-            "id": 206,
+            "id": 217,
             "bank": "FIRMA FOREIGN EXCHANGE CORPORATION",
             "city": "EDMONTON",
             "branch": null,
             "swift_code": "FFFXCA66"
         },
         {
-            "id": 207,
+            "id": 218,
             "bank": "FIRST ASSOCIATES INVESTMENTS INC",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "FAIICAT1"
         },
         {
-            "id": 208,
+            "id": 219,
             "bank": "FIRST CANADA SECURITIES CORPORATION",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "FCSCCAT1"
         },
         {
-            "id": 209,
+            "id": 220,
             "bank": "FIRST CITY CAPITAL INC.",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "CCAFCAM1"
         },
         {
-            "id": 210,
+            "id": 221,
             "bank": "FIRST COMMERCIAL BANK",
             "city": "RICHMOND",
             "branch": "(VANCOUVER BRANCH)",
             "swift_code": "FCBKCA8V"
         },
         {
-            "id": 211,
+            "id": 222,
             "bank": "FIRST COMMERCIAL BANK",
             "city": "TORONTO",
             "branch": "(TORONTO BRANCH)",
             "swift_code": "FCBKCA8V909"
         },
         {
-            "id": 212,
+            "id": 223,
             "bank": "FIRSTENERGY CAPITAL CORP.",
             "city": "CALGARY",
             "branch": null,
             "swift_code": "FENGCA61"
         },
         {
-            "id": 213,
+            "id": 224,
+            "bank": "FORESTERS ASSET MANAGEMENT INC.",
+            "city": "TORONTO",
+            "branch": null,
+            "swift_code": "FSTACATT"
+        },
+        {
+            "id": 225,
             "bank": "FORMULA GROWTH LIMITED",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "FOGOCAM1"
         },
         {
-            "id": 214,
+            "id": 226,
             "bank": "FOYSTON, GORDON AND PAYNE INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "FOGYCAT1"
         },
         {
-            "id": 215,
+            "id": 227,
             "bank": "FRASER MACKENZIE LIMITED",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "FRMCCAT1"
         },
         {
-            "id": 216,
+            "id": 228,
             "bank": "FREEDOM INTERNATIONAL BROKERAGE COMPANY",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "FRDMCAT1"
         },
         {
-            "id": 217,
+            "id": 229,
             "bank": "FUNDSSERV INC",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "FSRVCAT1"
         },
         {
-            "id": 218,
+            "id": 230,
             "bank": "GENUITY CAPITAL MARKETS",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "GECRCAT1"
         },
         {
-            "id": 219,
+            "id": 231,
             "bank": "GENUS CAPITAL MANAGEMENT INC.",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "GCMICA81"
         },
         {
-            "id": 220,
+            "id": 232,
             "bank": "GEORGIA PACIFIC SECURITIES CORPORATION",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "GEPSCA81"
         },
         {
-            "id": 221,
+            "id": 233,
             "bank": "GESTION DE PLACEMENTS HELENE DION INC.",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "GPHDCAM1"
         },
         {
-            "id": 222,
+            "id": 234,
             "bank": "GHS SECURITIES CANADA LTD",
             "city": "CALGARY",
             "branch": null,
             "swift_code": "GHSCCA61"
         },
         {
-            "id": 223,
+            "id": 235,
             "bank": "GLOBAL SECURITIES CORPORATION",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "GSECCA81"
         },
         {
-            "id": 224,
+            "id": 236,
             "bank": "GLOBALTRADE CORPORATION",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "GLCRCATT"
         },
         {
-            "id": 225,
+            "id": 237,
             "bank": "GLUSKIN SHEFF AND ASSOCIATES INC",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "GLSACAT1"
         },
         {
-            "id": 226,
+            "id": 238,
             "bank": "GOLDEN CAPITAL SECURITIES LTD",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "GLCSCA81"
         },
         {
-            "id": 227,
+            "id": 239,
             "bank": "GOLDMAN SACHS CANADA INC.",
             "city": "TORONTO",
             "branch": "(GS AND CO\/GS INTERNATIONAL CLEARANCE DEPARTMENT)",
             "swift_code": "GSLTCAT10GS"
         },
         {
-            "id": 228,
+            "id": 240,
             "bank": "GOLDMAN SACHS CANADA INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "GSLTCAT1"
         },
         {
-            "id": 229,
+            "id": 241,
             "bank": "GORDON CAPITAL CORPORATION",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "GOCCCAM1"
         },
         {
-            "id": 230,
+            "id": 242,
             "bank": "GORDON CAPITAL CORPORATION",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "GOCCCAM10TT"
         },
         {
-            "id": 231,
+            "id": 243,
             "bank": "GREAT PACIFIC MANAGEMENT CO. LTD.",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "GPMACA81"
         },
         {
-            "id": 232,
+            "id": 244,
             "bank": "GREENLINE INVESTOR SERVICES",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "GRISCAT1"
         },
         {
-            "id": 233,
+            "id": 245,
             "bank": "GREY HORSE CORPORATION",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "GHCACAT1"
         },
         {
-            "id": 234,
+            "id": 246,
+            "bank": "GREYS FINANCIAL LIMITED",
+            "city": "MONCTON",
+            "branch": null,
+            "swift_code": "GRFACA91"
+        },
+        {
+            "id": 247,
             "bank": "GREYSTONE MANAGED INVESTMENTS INC",
             "city": "REGINA",
             "branch": null,
             "swift_code": "GRMNCA51"
         },
         {
-            "id": 235,
+            "id": 248,
             "bank": "GRIFFITHS MCBURNEY AND PARTNERS",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "GRMPCAT1"
         },
         {
-            "id": 236,
+            "id": 249,
             "bank": "HABIB CANADIAN BANK",
             "city": "MISSISSAUGA",
             "branch": null,
             "swift_code": "HBZUCATT"
         },
         {
-            "id": 237,
+            "id": 250,
             "bank": "HAMBLIN, WATSA INVESTMENT COUNSEL LTD.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "HWICCAT1"
         },
         {
-            "id": 238,
+            "id": 251,
             "bank": "HAYWOOD SECURITIES INC",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "HASRCA81"
         },
         {
-            "id": 239,
+            "id": 252,
             "bank": "HEWARD INVESTMENT MANAGEMENT INC",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "HIMTCAM1"
         },
         {
-            "id": 240,
+            "id": 253,
             "bank": "HEWLETT-PACKARD (CANADA) CO",
             "city": "MISSISSAUGA",
             "branch": null,
             "swift_code": "HECDCAT1"
         },
         {
-            "id": 241,
+            "id": 254,
+            "bank": "HIFX CANADA INC",
+            "city": "TORONTO",
+            "branch": null,
+            "swift_code": "HIFXCATT"
+        },
+        {
+            "id": 255,
             "bank": "HOWSON TATTERSALL INVESTMENT COUNSEL",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "HTICCAT1"
         },
         {
-            "id": 242,
+            "id": 256,
             "bank": "HSBC BANK CANADA",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "HKBCCATTMON"
         },
         {
-            "id": 243,
+            "id": 257,
             "bank": "HSBC BANK CANADA",
             "city": "TORONTO",
             "branch": "(CLS DEPARTMENT)",
             "swift_code": "HKBCCATTCLS"
         },
         {
-            "id": 244,
+            "id": 258,
             "bank": "HSBC BANK CANADA",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "HKBCCATT"
         },
         {
-            "id": 245,
+            "id": 259,
             "bank": "HSBC BANK CANADA",
             "city": "VANCOUVER",
             "branch": "(VANCOUVER)",
             "swift_code": "HKBCCATTVAN"
         },
         {
-            "id": 246,
+            "id": 260,
             "bank": "HSBC BANK CANADA",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "HKBCCA81"
         },
         {
-            "id": 247,
+            "id": 261,
             "bank": "HSBC BANK USA (TORONTO BRANCH)",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "HSBCCAT1"
         },
         {
-            "id": 248,
+            "id": 262,
             "bank": "HSBC CAPITAL (CANADA) INC",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "WRCICA81"
         },
         {
-            "id": 249,
+            "id": 263,
             "bank": "HSBC SECURITIES (CANADA) INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "HJCCCAT1"
         },
         {
-            "id": 250,
+            "id": 264,
             "bank": "HSBC SECURITIES CANADA (INC)",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "HSCICATT"
         },
         {
-            "id": 251,
+            "id": 265,
             "bank": "HSBC TRUST COMPANY (CANADA)",
             "city": "EDMONTON",
             "branch": null,
             "swift_code": "METCCAT106E"
         },
         {
-            "id": 252,
+            "id": 266,
             "bank": "HSBC TRUST COMPANY (CANADA)",
             "city": "HALIFAX",
             "branch": null,
             "swift_code": "METCCAT102H"
         },
         {
-            "id": 253,
+            "id": 267,
             "bank": "HSBC TRUST COMPANY (CANADA)",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "METCCAT10MM"
         },
         {
-            "id": 254,
+            "id": 268,
             "bank": "HSBC TRUST COMPANY (CANADA)",
             "city": "OTTAWA",
             "branch": null,
             "swift_code": "METCCAT1022"
         },
         {
-            "id": 255,
+            "id": 269,
             "bank": "HSBC TRUST COMPANY (CANADA)",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "METCCAT1"
         },
         {
-            "id": 256,
+            "id": 270,
             "bank": "HSBC TRUST COMPANY (CANADA)",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "METCCAT1GWM"
         },
         {
-            "id": 257,
+            "id": 271,
             "bank": "HSBC TRUST COMPANY (CANADA)",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "METCCAT108V"
         },
         {
-            "id": 258,
+            "id": 272,
             "bank": "HURONIA TRUST COMPANY",
             "city": "ORILLIA",
             "branch": null,
             "swift_code": "HUCTCA21"
         },
         {
-            "id": 259,
+            "id": 273,
             "bank": "HYDRO-QUEBEC",
             "city": "MONTREAL",
             "branch": null,
-            "swift_code": "HQQCCAM1"
+            "swift_code": "HQQCCAMM"
         },
         {
-            "id": 260,
+            "id": 274,
             "bank": "HYDRO-QUEBEC PENSION FUND",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "HQPFCAM1"
         },
         {
-            "id": 261,
+            "id": 275,
+            "bank": "HYPERWALLET SYSTEMS INC.",
+            "city": "VANCOUVER",
+            "branch": null,
+            "swift_code": "HYSYCA81"
+        },
+        {
+            "id": 276,
             "bank": "IA CLARINGTON INVESTMENTS INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "CLNVCAT1"
         },
         {
-            "id": 262,
+            "id": 277,
             "bank": "IBM CANADA",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "IBCNCAT1"
         },
         {
-            "id": 263,
+            "id": 278,
             "bank": "ICE CLEAR CANADA",
             "city": "WINNIPEG",
             "branch": null,
             "swift_code": "XWCECA4W"
         },
         {
-            "id": 264,
+            "id": 279,
             "bank": "ICICI BANK CANADA",
             "city": "TORONTO",
             "branch": "(CENTRAL OPERATIONS - CANADA)",
             "swift_code": "ICICCATTCOP"
         },
         {
-            "id": 265,
+            "id": 280,
             "bank": "ICICI BANK CANADA",
             "city": "TORONTO",
             "branch": "(GLOBAL TRADE SERVICE UNIT-CANADA)",
             "swift_code": "ICICCATTGTS"
         },
         {
-            "id": 266,
+            "id": 281,
             "bank": "ICICI BANK CANADA",
             "city": "TORONTO",
             "branch": "(TREASURY)",
             "swift_code": "ICICCATTRTL"
         },
         {
-            "id": 267,
+            "id": 282,
             "bank": "ICICI BANK CANADA",
             "city": "TORONTO",
             "branch": "(TREASURY)",
             "swift_code": "ICICCATTTSY"
         },
         {
-            "id": 268,
+            "id": 283,
             "bank": "ICICI BANK CANADA",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "ICICCATT"
         },
         {
-            "id": 269,
+            "id": 284,
             "bank": "INDUSTRIAL ALLIANCE SECURITIES INC.",
             "city": "QUEBEC",
             "branch": null,
             "swift_code": "LAHPCAM1"
         },
         {
-            "id": 270,
+            "id": 285,
             "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (CANADA)",
             "city": "TORONTO",
             "branch": "(RMB CLEARING BANK)",
             "swift_code": "ICBKCAT2CLR"
         },
         {
-            "id": 271,
+            "id": 286,
             "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (CANADA)",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "ICBKCAT2"
         },
         {
-            "id": 272,
+            "id": 287,
             "bank": "INSTANTLINK",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "INLKCAT1"
         },
         {
-            "id": 273,
+            "id": 288,
             "bank": "INSTINET CANADA LIMITED",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "INCDCAT1"
         },
         {
-            "id": 274,
+            "id": 289,
             "bank": "INTERACTIVE BROKERS CANADA INC.",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "IBKRCAMM"
         },
         {
-            "id": 275,
+            "id": 290,
             "bank": "INTERNATIONAL AIR TRANSPORT ASSOCIATION",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "IATACAMM"
         },
         {
-            "id": 276,
+            "id": 291,
             "bank": "INTERNATIONAL DISCOVERY LTD",
             "city": "EDMONTON",
             "branch": null,
             "swift_code": "INDYCA61"
         },
         {
-            "id": 277,
+            "id": 292,
             "bank": "INVESCO TRIMARK",
             "city": "TORONTO",
-            "branch": "(AIM\/POMS SERVICE)",
+            "branch": null,
             "swift_code": "AFMICATA"
         },
         {
-            "id": 278,
+            "id": 293,
             "bank": "INVESCO TRIMARK",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "AFMICATT"
         },
         {
-            "id": 279,
+            "id": 294,
             "bank": "INVESTORS GROUP FINANCIAL SERVICES",
             "city": "WINNIPEG",
             "branch": null,
             "swift_code": "IGMFCA44"
         },
         {
-            "id": 280,
-            "bank": "INVESTORS GROUP FINANCIAL SERVICES",
-            "city": "WINNIPEG",
-            "branch": null,
-            "swift_code": "IGMFCA44004"
-        },
-        {
-            "id": 281,
+            "id": 295,
             "bank": "INVESTORS GROUP FINANCIAL SERVICES",
             "city": "WINNIPEG",
             "branch": null,
             "swift_code": "IGMFCA44001"
         },
         {
-            "id": 282,
+            "id": 296,
             "bank": "INVESTORS GROUP FINANCIAL SERVICES",
             "city": "WINNIPEG",
             "branch": null,
             "swift_code": "IGMFCA44002"
         },
         {
-            "id": 283,
+            "id": 297,
             "bank": "INVESTORS GROUP FINANCIAL SERVICES",
             "city": "WINNIPEG",
             "branch": null,
             "swift_code": "IGMFCA44003"
         },
         {
-            "id": 284,
+            "id": 298,
+            "bank": "INVESTORS GROUP FINANCIAL SERVICES",
+            "city": "WINNIPEG",
+            "branch": null,
+            "swift_code": "IGMFCA44004"
+        },
+        {
+            "id": 299,
             "bank": "INVESTPRO SECURITIES INC.",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "INVTCAM1"
         },
         {
-            "id": 285,
+            "id": 300,
             "bank": "IPO CAPITAL CORP",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "IPCCCAT1"
         },
         {
-            "id": 286,
+            "id": 301,
             "bank": "ITG CANADA CORP.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "ITGCCAT1"
         },
         {
-            "id": 287,
+            "id": 302,
             "bank": "J. PASZTOR AND ASSOCIATES INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "JPSACAT1"
         },
         {
-            "id": 288,
+            "id": 303,
             "bank": "J.D. MACK LIMITED",
             "city": "HALIFAX",
             "branch": null,
             "swift_code": "JDMACA91"
         },
         {
-            "id": 289,
+            "id": 304,
             "bank": "J.P. MORGAN SECURITIES CANADA INC.",
             "city": "TORONTO",
             "branch": "(TEST KEY AND BKE ADMINISTRATION)",
             "swift_code": "JPMSCATTKEY"
         },
         {
-            "id": 290,
+            "id": 305,
             "bank": "J.P. MORGAN SECURITIES CANADA INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "JPMSCATT"
         },
         {
-            "id": 291,
+            "id": 306,
             "bank": "JENNINGS CAPITAL INC",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "JECACAT1"
         },
         {
-            "id": 292,
+            "id": 307,
             "bank": "JIM PATTISON LTD.",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "JPGCCA8V"
         },
         {
-            "id": 293,
+            "id": 308,
             "bank": "JONES, GABLE AND COMPANY LIMITED",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "JGCLCAT1"
         },
         {
-            "id": 294,
-            "bank": "JPMORGAN CHASE BANK, N.A.",
+            "id": 309,
+            "bank": "JPMORGAN CHASE BANK, TORONTO BRANCH",
+            "city": "TORONTO",
+            "branch": "(CANADA TREASURY)",
+            "swift_code": "CHASCATTNVS"
+        },
+        {
+            "id": 310,
+            "bank": "JPMORGAN CHASE BANK, TORONTO BRANCH",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "CHASCATT"
         },
         {
-            "id": 295,
-            "bank": "JPMORGAN CHASE BANK, N.A.",
+            "id": 311,
+            "bank": "JPMORGAN CHASE BANK, TORONTO BRANCH",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "CHASCATTCTS"
         },
         {
-            "id": 296,
-            "bank": "JPMORGAN CHASE BANK, N.A.",
+            "id": 312,
+            "bank": "JPMORGAN CHASE BANK, TORONTO BRANCH",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "CHASCATTENQ"
         },
         {
-            "id": 297,
-            "bank": "JPMORGAN CHASE BANK, N.A.",
+            "id": 313,
+            "bank": "JPMORGAN CHASE BANK, TORONTO BRANCH",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "CHASCATTKEY"
         },
         {
-            "id": 298,
+            "id": 314,
             "bank": "KASH MART FINANCIAL LTD",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "KAMFCAM1"
         },
         {
-            "id": 299,
-            "bank": "KEB HANA BANK CANADA (FORMERLY KEB HANA BANK OF CANADA)",
+            "id": 315,
+            "bank": "KEB HANA BANK CANADA",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "KOEXCATT"
         },
         {
-            "id": 300,
+            "id": 316,
             "bank": "LALLEMAND INC",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "LALLCAMM"
         },
         {
-            "id": 301,
+            "id": 317,
             "bank": "LAURENTIAN BANK OF CANADA",
             "city": "MONTREAL",
             "branch": "(ALL OFFICES IN CANADA)",
             "swift_code": "BLCMCAMM"
         },
         {
-            "id": 302,
+            "id": 318,
             "bank": "LAURENTIAN BANK SECURITIES INC",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "BLCSCAM1"
         },
         {
-            "id": 303,
+            "id": 319,
             "bank": "LEEDE FINANCIAL MARKETS INC",
             "city": "CALGARY",
             "branch": null,
             "swift_code": "RPSICA61"
         },
         {
-            "id": 304,
+            "id": 320,
             "bank": "LEITH WHEELER INVESTMENT COUNSEL INC",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "LWICCA81"
         },
         {
-            "id": 305,
+            "id": 321,
             "bank": "LEVESQUE BEAUBIEN GEOFFRION INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "LBGECAM10TT"
         },
         {
-            "id": 306,
+            "id": 322,
             "bank": "LIQUIDNET CANADA INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "LICDCAT1"
         },
         {
-            "id": 307,
+            "id": 323,
             "bank": "LOEWEN, ONDAATJE, MCCUTCHEON",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "LWOHCAT1"
         },
         {
-            "id": 308,
-            "bank": "LOMBARD ODIER DARIER HENTSCH",
+            "id": 324,
+            "bank": "LOMBARD ODIER SECURITIES (CANADA) INC.",
             "city": "MONTREAL",
             "branch": "(NDP DEPT)",
             "swift_code": "LOCYCAMMNDP"
         },
         {
-            "id": 309,
-            "bank": "LOMBARD ODIER DARIER HENTSCH",
+            "id": 325,
+            "bank": "LOMBARD ODIER SECURITIES (CANADA) INC.",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "LOCYCAMM"
         },
         {
-            "id": 310,
+            "id": 326,
+            "bank": "LOMBARD ODIER TRANSATLANTIC LIMITED",
+            "city": "MONTREAL",
+            "branch": "(NDP DEPT)",
+            "swift_code": "TRACCAMMNDP"
+        },
+        {
+            "id": 327,
+            "bank": "LOMBARD ODIER TRANSATLANTIC LIMITED",
+            "city": "MONTREAL",
+            "branch": null,
+            "swift_code": "TRACCAMM"
+        },
+        {
+            "id": 328,
             "bank": "LOUISBURG INVESTMENTS INC.",
             "city": "MONCTON",
             "branch": null,
             "swift_code": "LOIVCA91"
         },
         {
-            "id": 311,
+            "id": 329,
             "bank": "M. COUSINEAU AND ASSOCIES INC.",
             "city": "LAVAL",
             "branch": null,
             "swift_code": "MCOACAM1"
         },
         {
-            "id": 312,
+            "id": 330,
             "bank": "MACDOUGALL, MACDOUGALL AND MACTIER INC.",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "MCMCCAM1"
         },
         {
-            "id": 313,
+            "id": 331,
             "bank": "MACDOUGALL, MEYER INC.",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "MCMYCAM1"
         },
         {
-            "id": 314,
+            "id": 332,
             "bank": "MACKENZIE FINANCIAL CORPORATION",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "MAFCCAT1"
         },
         {
-            "id": 315,
+            "id": 333,
             "bank": "MAGNA INTERNATIONAL INC.",
             "city": "AURORA",
             "branch": null,
             "swift_code": "MAINCA2A"
         },
         {
-            "id": 316,
+            "id": 334,
+            "bank": "MAGNA INTERNATIONAL INC.",
+            "city": "AURORA",
+            "branch": null,
+            "swift_code": "MAINCA2B"
+        },
+        {
+            "id": 335,
             "bank": "MAISON PLACEMENTS CA INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "MAPCCAT1"
         },
         {
-            "id": 317,
+            "id": 336,
             "bank": "MAISON PLACEMENTS CANADA INC.",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "MAIPCAM1"
         },
         {
-            "id": 318,
+            "id": 337,
             "bank": "MANUFACTURERS LIFE INSURANCE COMPANY",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "MFCTCATA"
         },
         {
-            "id": 319,
+            "id": 338,
+            "bank": "MANUFACTURERS LIFE INSURANCE COMPANY",
+            "city": "TORONTO",
+            "branch": null,
+            "swift_code": "MFCTCATB"
+        },
+        {
+            "id": 339,
             "bank": "MANULIFE ASSET MANAGEMENT LIMITED",
             "city": "TORONTO",
-            "branch": "(AIM\/POMS SERVICE)",
+            "branch": null,
             "swift_code": "MAMGCATT"
         },
         {
-            "id": 320,
+            "id": 340,
             "bank": "MANULIFE BANK OF CANADA",
             "city": "WATERLOO",
             "branch": null,
             "swift_code": "MCBTCA2W"
         },
         {
-            "id": 321,
+            "id": 341,
             "bank": "MANULIFE FINANCIAL CORPORATION",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "MFCTCATT"
         },
         {
-            "id": 322,
+            "id": 342,
             "bank": "MAPLE BANK GMBH",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "MPBKCAT1"
         },
         {
-            "id": 323,
-            "bank": "MAPLE SECURITIES CDA LTD",
-            "city": "TORONTO",
-            "branch": null,
-            "swift_code": "MAPLCATT"
-        },
-        {
-            "id": 324,
+            "id": 343,
             "bank": "MARLEAU LEMIRE INC.",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "MALECAM1"
         },
         {
-            "id": 325,
+            "id": 344,
+            "bank": "MAWER INVESTMENT MANAGEMENT LTD.",
+            "city": "CALGARY",
+            "branch": null,
+            "swift_code": "MWIMCA61"
+        },
+        {
+            "id": 345,
             "bank": "MCDERMID ST. LAWRENCE CHISHOLM LTD.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "MALHCAT1"
         },
         {
-            "id": 326,
+            "id": 346,
             "bank": "MEGA INTERNATIONAL COMMERCIAL BANK (CANADA)",
             "city": "RICHMOND",
             "branch": "(RICHMOND BRANCH)",
             "swift_code": "ICBCCATTRMD"
         },
         {
-            "id": 327,
+            "id": 347,
             "bank": "MEGA INTERNATIONAL COMMERCIAL BANK (CANADA)",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "ICBCCATT"
         },
         {
-            "id": 328,
+            "id": 348,
             "bank": "MEGA INTERNATIONAL COMMERCIAL BANK (CANADA)",
             "city": "VANCOUVER",
             "branch": "(VANCOUVER BRANCH)",
             "swift_code": "ICBCCATTVAN"
         },
         {
-            "id": 329,
+            "id": 349,
             "bank": "MERIDIAN CREDIT UNION LIMITED",
             "city": "ST CATHARINES",
             "branch": null,
             "swift_code": "MRCUCA21"
         },
         {
-            "id": 330,
+            "id": 350,
             "bank": "MERIDIAN SECURITIES INTERNATIONAL INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "MESICAT1"
         },
         {
-            "id": 331,
+            "id": 351,
             "bank": "MERIT INVESTMENT CORPORATION",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "MINCCAT1"
         },
         {
-            "id": 332,
+            "id": 352,
             "bank": "MERRILL LYNCH CANADA SECURITIES",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "MLYCCAT1"
         },
         {
-            "id": 333,
+            "id": 353,
             "bank": "MERRILL LYNCH CANADA, INC",
             "city": "TORONTO",
             "branch": "(CANADIAN FX)",
             "swift_code": "MLCICATTTOR"
         },
         {
-            "id": 334,
+            "id": 354,
+            "bank": "MERRILL LYNCH CANADA, INC",
+            "city": "TORONTO",
+            "branch": "(TREASURY)",
+            "swift_code": "MLCICATTTSY"
+        },
+        {
+            "id": 355,
             "bank": "MERRILL LYNCH CANADA, INC",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "MLCICATT"
         },
         {
-            "id": 335,
+            "id": 356,
             "bank": "MF GLOBAL CANADA CO.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "RFFUCAT1"
         },
         {
-            "id": 336,
+            "id": 357,
             "bank": "MFC GLOBAL INVESTMENT MANAGEMENT (U.S.A) LIMITED",
             "city": "TORONTO",
-            "branch": "(AIM\/POMS SERVICE)",
+            "branch": null,
             "swift_code": "MFCGCATT"
         },
         {
-            "id": 337,
+            "id": 358,
             "bank": "MIRABAUD CANADA INC.",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "MIRICAMM"
         },
         {
-            "id": 338,
+            "id": 359,
             "bank": "MIZUHO BANK, LTD., CANADA BRANCH",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "MHCBCATT"
         },
         {
-            "id": 339,
+            "id": 360,
             "bank": "MOBIS PARTS CANADA CORPORATION",
             "city": "MARKHAM",
             "branch": null,
             "swift_code": "HYMOCA21"
         },
         {
-            "id": 340,
+            "id": 361,
             "bank": "MONTREAL EXCHANGE THE \/ BOURSE DE MONTREAL",
             "city": "MONTREAL",
             "branch": "(OPTIONS AND OTHER DERIVATIVE PRODUCTS)",
             "swift_code": "XMOOCAM1ODP"
         },
         {
-            "id": 341,
+            "id": 362,
             "bank": "MONTREAL EXCHANGE THE \/ BOURSE DE MONTREAL",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "XMOOCAM1"
         },
         {
-            "id": 342,
+            "id": 363,
             "bank": "MOODY'S CANADA INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "MODDCAT1"
         },
         {
-            "id": 343,
+            "id": 364,
             "bank": "MORGAN STANLEY CANADA LIMITED",
             "city": "MONTREAL",
             "branch": "(MONTREAL BRANCH)",
             "swift_code": "MSCACATXMON"
         },
         {
-            "id": 344,
+            "id": 365,
             "bank": "MORGAN STANLEY CANADA LIMITED",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "MSCACATX"
         },
         {
-            "id": 345,
+            "id": 366,
+            "bank": "MUFG SECURITIES (CANADA), LTD",
+            "city": "TORONTO",
+            "branch": null,
+            "swift_code": "MSCDCA8V"
+        },
+        {
+            "id": 367,
             "bank": "MULVIHILL CAPITAL MANAGEMENT",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "MUCGCAT1"
         },
         {
-            "id": 346,
+            "id": 368,
             "bank": "MUTUAL TRUST COMPANY, THE",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "MCOTCAT1"
         },
         {
-            "id": 347,
+            "id": 369,
+            "bank": "NATIXIS CANADA BRANCH",
+            "city": "MONTREAL",
+            "branch": null,
+            "swift_code": "NATXCAMM"
+        },
+        {
+            "id": 370,
             "bank": "NBC CLEARING SERVICES INCORPORATED",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "LBGECAM1"
         },
         {
-            "id": 348,
+            "id": 371,
             "bank": "NEWFOUNDLAND CAPITAL CORPORATION LTD.",
             "city": "DARTMOUTH",
             "branch": null,
             "swift_code": "NECCCA91"
         },
         {
-            "id": 349,
+            "id": 372,
             "bank": "NIKE CANADA LTD.",
             "city": "THORNHILL",
             "branch": null,
             "swift_code": "NIKECA21"
         },
         {
-            "id": 350,
+            "id": 373,
             "bank": "NIKKO SECURITIES CO. CDA, LTD",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "NKSCCAT1"
         },
         {
-            "id": 351,
+            "id": 374,
             "bank": "NOMURA CANADA INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "NMUCCAT1"
         },
         {
-            "id": 352,
+            "id": 375,
             "bank": "NORSTAR SECURITIES INTERNATIONAL INC",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "NOSICAT1"
         },
         {
-            "id": 353,
-            "bank": "NORTHERN TRUST (CANADA)",
-            "city": "TORONTO",
-            "branch": null,
-            "swift_code": "CNORCATT"
-        },
-        {
-            "id": 354,
+            "id": 376,
             "bank": "NORTHLAND CAPITAL PARTNERS INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "NOAPCAT1"
         },
         {
-            "id": 355,
+            "id": 377,
             "bank": "OCTAGON CAPITAL CORPORATION",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "OCCCCAT1"
         },
         {
-            "id": 356,
+            "id": 378,
             "bank": "ODLUM BROWN LIMITED",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "ODLUCA810TT"
         },
         {
-            "id": 357,
+            "id": 379,
             "bank": "ODLUM BROWN LIMITED",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "ODLUCA81"
         },
         {
-            "id": 358,
+            "id": 380,
+            "bank": "OMERS ADMINISTRATION CORPORATION",
+            "city": "TORONTO",
+            "branch": null,
+            "swift_code": "OMACCAT1"
+        },
+        {
+            "id": 381,
             "bank": "OMNI CAPITAL INC.",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "OMNICAM1"
         },
         {
-            "id": 359,
+            "id": 382,
+            "bank": "ONTARIO PENSION BOARD",
+            "city": "TORONTO",
+            "branch": null,
+            "swift_code": "ONPBCAT1"
+        },
+        {
+            "id": 383,
             "bank": "ONTARIO TEACHERS' PENSION PLAN BOARD",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "OTPBCA21"
         },
         {
-            "id": 360,
+            "id": 384,
+            "bank": "ONTARIO TEACHERS' PENSION PLAN BOARD",
+            "city": "TORONTO",
+            "branch": null,
+            "swift_code": "OTPBCA2T"
+        },
+        {
+            "id": 385,
             "bank": "PARADIGM CAPITAL INC",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "PARDCAT1"
         },
         {
-            "id": 361,
+            "id": 386,
             "bank": "PAVILION GLOBAL MARKETS LTD",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "BRCOCAMM"
         },
         {
-            "id": 362,
+            "id": 387,
             "bank": "PAYSYSTEMS CORPORATION",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "PAYSCAM1"
         },
         {
-            "id": 363,
+            "id": 388,
             "bank": "PENSON FINANCIAL SERVICES CANADA",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "PFSICAT1"
         },
         {
-            "id": 364,
+            "id": 389,
             "bank": "PENSON FINANCIAL SERVICES CANADA INC.",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "PFSICAM1"
         },
         {
-            "id": 365,
+            "id": 390,
             "bank": "PERSHING SECURITIES CANADA LIMITED",
             "city": "SAINT JOHN",
             "branch": null,
             "swift_code": "PRSHCA91"
         },
         {
-            "id": 366,
+            "id": 391,
             "bank": "PETERS AND CO. LIMITED",
             "city": "CALGARY",
             "branch": null,
             "swift_code": "PTCOCA61"
         },
         {
-            "id": 367,
+            "id": 392,
             "bank": "PI FINANCIAL CORP",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "PISICA81"
         },
         {
-            "id": 368,
+            "id": 393,
             "bank": "PICTET CANADA L.P.",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "PICTCAMM"
         },
         {
-            "id": 369,
+            "id": 394,
             "bank": "PICTET OVERSEAS INC.",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "PICTCAM2"
         },
         {
-            "id": 370,
+            "id": 395,
             "bank": "PICTON MAHONEY ASSET MANAGEMENT",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "PIMHCA21"
         },
         {
-            "id": 371,
+            "id": 396,
             "bank": "PLACEMENTS LA LAURENTIENNE INC",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "PLALCAM1"
         },
         {
-            "id": 372,
+            "id": 397,
+            "bank": "PNC BANK CANADA BRANCH",
+            "city": "TORONTO",
+            "branch": null,
+            "swift_code": "PNCCCA22"
+        },
+        {
+            "id": 398,
             "bank": "POLAR SECURITIES INC",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "POSUCAT1"
         },
         {
-            "id": 373,
+            "id": 399,
             "bank": "POLLITT AND CO. INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "POLLCAT1"
         },
         {
-            "id": 374,
+            "id": 400,
             "bank": "POPE AND COMPANY",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "PPECCAT1"
         },
         {
-            "id": 375,
+            "id": 401,
             "bank": "PREBON YAMANE (CANADA) LIMITED",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "PYCLCAT1"
         },
         {
-            "id": 376,
+            "id": 402,
             "bank": "PRESIMA INC.",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "PESMCAM1"
         },
         {
-            "id": 377,
+            "id": 403,
             "bank": "PRO-GENESIS SECURITIES INC.",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "PGNSCAM1"
         },
         {
-            "id": 378,
-            "bank": "PUBLIC SECTOR PENSION INVESTMENT BOARD",
-            "city": "MONTREAL",
-            "branch": null,
-            "swift_code": "PSPBCAMM"
-        },
-        {
-            "id": 379,
+            "id": 404,
             "bank": "PUBLIC SECTOR PENSION INVESTMENT BOARD",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "PSPBCA21"
         },
         {
-            "id": 380,
+            "id": 405,
+            "bank": "PUBLIC SECTOR PENSION INVESTMENT BOARD",
+            "city": "MONTREAL",
+            "branch": null,
+            "swift_code": "PSPBCAMA"
+        },
+        {
+            "id": 406,
+            "bank": "PUBLIC SECTOR PENSION INVESTMENT BOARD",
+            "city": "MONTREAL",
+            "branch": null,
+            "swift_code": "PSPBCAMM"
+        },
+        {
+            "id": 407,
             "bank": "QUESTRADE INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "QUERCA21"
         },
         {
-            "id": 381,
+            "id": 408,
             "bank": "QUESTRADE INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "QUERCAT1"
         },
         {
-            "id": 382,
+            "id": 409,
             "bank": "R.J. BEATTY FINANCIAL CORP.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "RJBFCAT1"
         },
         {
-            "id": 383,
-            "bank": "RABOBANK NEDERLAND, CANADIAN BRANCH",
+            "id": 410,
+            "bank": "RABOBANK CANADA",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "RABOCATT"
         },
         {
-            "id": 384,
+            "id": 411,
+            "bank": "RADIN CAPITAL PARTNERS INC.",
+            "city": "TORONTO",
+            "branch": null,
+            "swift_code": "RACRCAT1"
+        },
+        {
+            "id": 412,
             "bank": "RAYMOND JAMES LTD.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "RJAMCA81TOR"
         },
         {
-            "id": 385,
+            "id": 413,
             "bank": "RAYMOND JAMES LTD.",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "RJAMCA81"
         },
         {
-            "id": 386,
+            "id": 414,
             "bank": "RBC ASSET MANAGEMENT",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "RBAACAT1"
         },
         {
-            "id": 387,
+            "id": 415,
             "bank": "RBC DOMINION SECURITIES CAPITAL MARKETS",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "RBDSCAW1"
         },
         {
-            "id": 388,
+            "id": 416,
             "bank": "RBC DOMINION SECURITIES INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "RBDSCAT1"
         },
         {
-            "id": 389,
+            "id": 417,
             "bank": "RBC GLOBAL ASSET MANAGEMENT",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "RGAMCAT1"
         },
         {
-            "id": 390,
+            "id": 418,
             "bank": "RBC INVESTOR SERVICES TRUST",
             "city": "MONTREAL",
             "branch": "(QUEBEC)",
             "swift_code": "ROTRCATTMPC"
         },
         {
-            "id": 391,
+            "id": 419,
             "bank": "RBC INVESTOR SERVICES TRUST",
             "city": "TORONTO",
             "branch": "(CROSS BORDER SETTLEMENT)",
             "swift_code": "ROTRCAT1CRB"
         },
         {
-            "id": 392,
+            "id": 420,
             "bank": "RBC INVESTOR SERVICES TRUST",
             "city": "TORONTO",
             "branch": "(DERIVATIVES)",
             "swift_code": "ROTRCATTDER"
         },
         {
-            "id": 393,
+            "id": 421,
             "bank": "RBC INVESTOR SERVICES TRUST",
             "city": "TORONTO",
             "branch": "(GLOBAL SERVICES)",
             "swift_code": "ROTRCATTTIC"
         },
         {
-            "id": 394,
+            "id": 422,
             "bank": "RBC INVESTOR SERVICES TRUST",
             "city": "TORONTO",
             "branch": "(INSURANCE SERVICES)",
             "swift_code": "ROTRCATTTSC"
         },
         {
-            "id": 395,
+            "id": 423,
             "bank": "RBC INVESTOR SERVICES TRUST",
             "city": "TORONTO",
             "branch": "(PHYSICAL SETTLEMENT)",
             "swift_code": "ROTRCAT1PYS"
         },
         {
-            "id": 396,
+            "id": 424,
             "bank": "RBC INVESTOR SERVICES TRUST",
             "city": "TORONTO",
             "branch": "(SECURITIES LENDING DEPARTMENT)",
             "swift_code": "ROTRCATTLEN"
         },
         {
-            "id": 397,
+            "id": 425,
             "bank": "RBC INVESTOR SERVICES TRUST",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "ROTRCATT"
         },
         {
-            "id": 398,
+            "id": 426,
             "bank": "RBCROYAL-BANK",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "RBCRCAT1"
         },
         {
-            "id": 399,
+            "id": 427,
             "bank": "RESEARCH CAPITAL CORPORATION",
             "city": "TORONTO",
             "branch": "(FOREIGN SETTLEMENTS DEPARTMENT)",
             "swift_code": "RECCCAT1SET"
         },
         {
-            "id": 400,
+            "id": 428,
             "bank": "RESEARCH CAPITAL CORPORATION",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "RECCCAT1"
         },
         {
-            "id": 401,
+            "id": 429,
             "bank": "RESOLUTION CAPITAL INC",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "MNTBCAM1"
         },
         {
-            "id": 402,
+            "id": 430,
             "bank": "RICHARDSON GREENSHIELDS OF CANADA",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "RIGRCAM1"
         },
         {
-            "id": 403,
+            "id": 431,
             "bank": "RICHARDSON GREENSHIELDS OF CANADA",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "RIGRCAM10TT"
         },
         {
-            "id": 404,
+            "id": 432,
             "bank": "RIDGEWOOD CAPITAL ASSET MANAGEMENT INC",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "RCAACAT1"
         },
         {
-            "id": 405,
+            "id": 433,
             "bank": "ROBERT CALDWELL CAPITAL CORP.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "RCCCCAK1"
         },
         {
-            "id": 406,
+            "id": 434,
             "bank": "ROYAL BANK ACTION DIRECT INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "RBITCAR1"
         },
         {
-            "id": 407,
+            "id": 435,
             "bank": "ROYAL BANK OF CANADA",
             "city": "CALGARY",
             "branch": null,
             "swift_code": "ROYCCAT2CIC"
         },
         {
-            "id": 408,
+            "id": 436,
             "bank": "ROYAL BANK OF CANADA",
             "city": "HALIFAX",
             "branch": null,
             "swift_code": "ROYCCAT2HIC"
         },
         {
-            "id": 409,
+            "id": 437,
             "bank": "ROYAL BANK OF CANADA",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "ROYCCAT2MIC"
         },
         {
-            "id": 410,
+            "id": 438,
             "bank": "ROYAL BANK OF CANADA",
             "city": "TORONTO",
             "branch": "(CAPITAL MARKETS DEPT)",
             "swift_code": "ROYCCAT3IMM"
         },
         {
-            "id": 411,
+            "id": 439,
             "bank": "ROYAL BANK OF CANADA",
             "city": "TORONTO",
             "branch": "(CLS NOSTRO SERVICES)",
             "swift_code": "ROYCCAT2CLS"
         },
         {
-            "id": 412,
+            "id": 440,
             "bank": "ROYAL BANK OF CANADA",
             "city": "TORONTO",
             "branch": "(GUARANTEES)",
             "swift_code": "ROYCCAT2GLA"
         },
         {
-            "id": 413,
+            "id": 441,
             "bank": "ROYAL BANK OF CANADA",
             "city": "TORONTO",
             "branch": "(HEAD OFFICE)",
             "swift_code": "ROYCCAT2"
         },
         {
-            "id": 414,
+            "id": 442,
             "bank": "ROYAL BANK OF CANADA",
             "city": "TORONTO",
             "branch": "(RBC GLOBAL SERVICES, ISS)",
             "swift_code": "ROYCCAT2VFS"
         },
         {
-            "id": 415,
+            "id": 443,
+            "bank": "ROYAL BANK OF CANADA",
+            "city": "TORONTO",
+            "branch": null,
+            "swift_code": "ROYCCAT2ECL"
+        },
+        {
+            "id": 444,
             "bank": "ROYAL BANK OF CANADA",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "ROYCCAT2IBO"
         },
         {
-            "id": 416,
+            "id": 445,
             "bank": "ROYAL BANK OF CANADA",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "ROYCCAT2VIC"
         },
         {
-            "id": 417,
+            "id": 446,
             "bank": "ROYAL BANK OF CANADA",
             "city": "WINNIPEG",
             "branch": null,
             "swift_code": "ROYCCAT2WIC"
         },
         {
-            "id": 418,
+            "id": 447,
             "bank": "SAKURA BANK (CANADA)",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "MITKCA810TT"
         },
         {
-            "id": 419,
+            "id": 448,
             "bank": "SAKURA BANK (CANADA)",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "MITKCA81"
         },
         {
-            "id": 420,
+            "id": 449,
             "bank": "SALMAN PARTNERS INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "SAPRCA81TOR"
         },
         {
-            "id": 421,
+            "id": 450,
             "bank": "SALMAN PARTNERS INC.",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "SAPRCA81"
         },
         {
-            "id": 422,
+            "id": 451,
             "bank": "SALOMON BROTHERS INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "SBNYCAT1"
         },
         {
-            "id": 423,
+            "id": 452,
             "bank": "SAMSUNG ELECTRONICS CANADA, INC.",
             "city": "MISSISSAUGA",
             "branch": "(SECA)",
             "swift_code": "SECTCAT1330"
         },
         {
-            "id": 424,
+            "id": 453,
             "bank": "SAMSUNG ELECTRONICS CANADA, INC.",
             "city": "MISSISSAUGA",
             "branch": null,
             "swift_code": "SECTCAT1"
         },
         {
-            "id": 425,
+            "id": 454,
             "bank": "SANDERS WEALTH MANAGEMENT GROUP LTD.",
             "city": "EDMONTON",
             "branch": null,
             "swift_code": "SBESCA61"
         },
         {
-            "id": 426,
+            "id": 455,
             "bank": "SANWA BANK CANADA",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "SANCCAT1"
         },
         {
-            "id": 427,
+            "id": 456,
             "bank": "SANWA BANK CANADA",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "SANCCAT108V"
         },
         {
-            "id": 428,
+            "id": 457,
             "bank": "SANWA MCCARTHY SECURITIES LTD.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "SWNLCAT1"
         },
         {
-            "id": 429,
+            "id": 458,
             "bank": "SAVINGS AND INVESTMENT TRUST",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "SAVICAM1"
         },
         {
-            "id": 430,
+            "id": 459,
+            "bank": "SBI CANADA BANK",
+            "city": "MISSISSAUGA",
+            "branch": null,
+            "swift_code": "SBINCATX"
+        },
+        {
+            "id": 460,
+            "bank": "SBI CANADA BANK",
+            "city": "VANCOUVER",
+            "branch": null,
+            "swift_code": "SBINCATXVAN"
+        },
+        {
+            "id": 461,
             "bank": "SCEPTRE INVESTMENT COUNSEL LIMITED",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "SCPTCAT1"
         },
         {
-            "id": 431,
+            "id": 462,
             "bank": "SCOTIA CAPITAL INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "SCAMCAT1"
         },
         {
-            "id": 432,
+            "id": 463,
             "bank": "SCOTIA MCLEOD INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "SCMCCATT"
         },
         {
-            "id": 433,
+            "id": 464,
             "bank": "SECTORAL ASSET MANAGEMENT",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "SATMCAM1"
         },
         {
-            "id": 434,
+            "id": 465,
             "bank": "SHINHAN BANK CANADA",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "SHBKCATT"
         },
         {
-            "id": 435,
+            "id": 466,
             "bank": "SIERRA WIRELESS INC.",
             "city": "RICHMOND",
             "branch": null,
             "swift_code": "SWIRCA8V"
         },
         {
-            "id": 436,
+            "id": 467,
             "bank": "SIONNA INVESTMENT MANAGERS INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "SIIMCAT1"
         },
         {
-            "id": 437,
+            "id": 468,
             "bank": "SNC-LAVALIN GROUP INC.",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "SNCLCAMM"
         },
         {
-            "id": 438,
+            "id": 469,
             "bank": "SOCIETE GENERALE (CANADA BRANCH)",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "SOGECAMB"
         },
         {
-            "id": 439,
+            "id": 470,
             "bank": "SOCIETE GENERALE (CANADA BRANCH)",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "SOGECAMBTOR"
         },
         {
-            "id": 440,
+            "id": 471,
             "bank": "SOCIETE GENERALE (CANADA)",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "SOGECAMM"
         },
         {
-            "id": 441,
+            "id": 472,
             "bank": "SOCIETE GENERALE (CANADA)",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "SOGECAMMTOR"
         },
         {
-            "id": 442,
+            "id": 473,
             "bank": "SOCIETE GENERALE CAPITAL CANADA INC.",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "NEWGCAMM"
         },
         {
-            "id": 443,
+            "id": 474,
             "bank": "SOLIUM CAPITAL INC",
             "city": "CALGARY",
             "branch": null,
             "swift_code": "SOALCA61"
         },
         {
-            "id": 444,
+            "id": 475,
             "bank": "SPROTT ASSET MANAGEMENT LP",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "SRAMCAT1"
         },
         {
-            "id": 445,
+            "id": 476,
             "bank": "SPRUNG AND CO. INVESTMENT COUNSEL INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "SPIUCAT1"
         },
         {
-            "id": 446,
+            "id": 477,
             "bank": "SS AND C",
             "city": "MISSISSAUGA",
             "branch": null,
             "swift_code": "SANECAT1"
         },
         {
-            "id": 447,
+            "id": 478,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(PLATINUM)",
             "swift_code": "FMCCCATMPLA"
         },
         {
-            "id": 448,
+            "id": 479,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SS AND C ETC)",
             "swift_code": "FMCCCATMFIN"
         },
         {
-            "id": 449,
+            "id": 480,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SS AND C TRILOGY)",
             "swift_code": "FMCCCATMTRI"
         },
         {
-            "id": 450,
+            "id": 481,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSC ETC)",
             "swift_code": "FMCCCATMFII"
         },
         {
-            "id": 451,
+            "id": 482,
+            "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+            "city": "MISSISSAUGA",
+            "branch": "(SSCNET ETC ACU)",
+            "swift_code": "FMCCCATMACU"
+        },
+        {
+            "id": 483,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC AEG)",
             "swift_code": "FMCCCATMAEG"
         },
         {
-            "id": 452,
+            "id": 484,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC ANZ)",
             "swift_code": "FMCCCATMANZ"
         },
         {
-            "id": 453,
+            "id": 485,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC BUR)",
             "swift_code": "FMCCCATMBUR"
         },
         {
-            "id": 454,
+            "id": 486,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC CAM)",
             "swift_code": "FMCCCATMCAM"
         },
         {
-            "id": 455,
+            "id": 487,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC CBA)",
             "swift_code": "FMCCCATMCBA"
         },
         {
-            "id": 456,
-            "bank": "SS AND C TECHNOLOGIES CANADA CORP",
-            "city": "MISSISSAUGA",
-            "branch": "(SSCNET ETC CDP)",
-            "swift_code": "FMCCCATMCDP"
-        },
-        {
-            "id": 457,
+            "id": 488,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC DDJ)",
             "swift_code": "FMCCCATMDDJ"
         },
         {
-            "id": 458,
-            "bank": "SS AND C TECHNOLOGIES CANADA CORP",
-            "city": "MISSISSAUGA",
-            "branch": "(SSCNET ETC DPW)",
-            "swift_code": "FMCCCATMDPW"
-        },
-        {
-            "id": 459,
+            "id": 489,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC GMA)",
             "swift_code": "FMCCCATMGMA"
         },
         {
-            "id": 460,
+            "id": 490,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC GOOD)",
             "swift_code": "FMCCCATMGOO"
         },
         {
-            "id": 461,
+            "id": 491,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC GUA)",
             "swift_code": "FMCCCATMGUA"
         },
         {
-            "id": 462,
+            "id": 492,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC HIS)",
             "swift_code": "FMCCCATMHIS"
         },
         {
-            "id": 463,
+            "id": 493,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC IAS)",
             "swift_code": "FMCCCATMIAS"
         },
         {
-            "id": 464,
+            "id": 494,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC IGA)",
             "swift_code": "FMCCCATMIGA"
         },
         {
-            "id": 465,
+            "id": 495,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC ING)",
             "swift_code": "FMCCCATMING"
         },
         {
-            "id": 466,
+            "id": 496,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC KAP)",
             "swift_code": "FMCCCATMKAP"
         },
         {
-            "id": 467,
+            "id": 497,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC MON)",
             "swift_code": "FMCCCATMMON"
         },
         {
-            "id": 468,
+            "id": 498,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC PHN)",
             "swift_code": "FMCCCATMPHN"
         },
         {
-            "id": 469,
+            "id": 499,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC PSP)",
             "swift_code": "FMCCCATMPSP"
         },
         {
-            "id": 470,
+            "id": 500,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC SAM)",
             "swift_code": "FMCCCATMSAM"
         },
         {
-            "id": 471,
+            "id": 501,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC SPG)",
             "swift_code": "FMCCCATMSPG"
         },
         {
-            "id": 472,
+            "id": 502,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC WAR)",
             "swift_code": "FMCCCATMWAR"
         },
         {
-            "id": 473,
+            "id": 503,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC)",
             "swift_code": "FMCCCATMAGF"
         },
         {
-            "id": 474,
+            "id": 504,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC)",
             "swift_code": "FMCCCATMAUR"
         },
         {
-            "id": 475,
+            "id": 505,
+            "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+            "city": "MISSISSAUGA",
+            "branch": "(SSCNET ETC)",
+            "swift_code": "FMCCCATMBMO"
+        },
+        {
+            "id": 506,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC)",
             "swift_code": "FMCCCATMBUD"
         },
         {
-            "id": 476,
+            "id": 507,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC)",
             "swift_code": "FMCCCATMCAL"
         },
         {
-            "id": 477,
+            "id": 508,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC)",
             "swift_code": "FMCCCATMFCC"
         },
         {
-            "id": 478,
+            "id": 509,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC)",
             "swift_code": "FMCCCATMGLS"
         },
         {
-            "id": 479,
+            "id": 510,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC)",
             "swift_code": "FMCCCATMGRY"
         },
         {
-            "id": 480,
+            "id": 511,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC)",
             "swift_code": "FMCCCATMHEX"
         },
         {
-            "id": 481,
+            "id": 512,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC)",
             "swift_code": "FMCCCATMHOP"
         },
         {
-            "id": 482,
+            "id": 513,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC)",
             "swift_code": "FMCCCATMOST"
         },
         {
-            "id": 483,
+            "id": 514,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC)",
             "swift_code": "FMCCCATMOTP"
         },
         {
-            "id": 484,
+            "id": 515,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC)",
             "swift_code": "FMCCCATMPYR"
         },
         {
-            "id": 485,
+            "id": 516,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETC)",
             "swift_code": "FMCCCATMSTD"
         },
         {
-            "id": 486,
+            "id": 517,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": "(SSCNET ETS)",
             "swift_code": "FMCCCATMPRE"
         },
         {
-            "id": 487,
+            "id": 518,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": null,
             "swift_code": "FMCCCATM"
         },
         {
-            "id": 488,
+            "id": 519,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": null,
-            "swift_code": "FMCCCATM"
+            "swift_code": "FMCCCATMADD"
         },
         {
-            "id": 489,
+            "id": 520,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": null,
             "swift_code": "FMCCCATMDEA"
         },
         {
-            "id": 490,
+            "id": 521,
+            "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+            "city": "MISSISSAUGA",
+            "branch": null,
+            "swift_code": "FMCCCATMEDG"
+        },
+        {
+            "id": 522,
+            "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+            "city": "MISSISSAUGA",
+            "branch": null,
+            "swift_code": "FMCCCATMEIS"
+        },
+        {
+            "id": 523,
+            "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+            "city": "MISSISSAUGA",
+            "branch": null,
+            "swift_code": "FMCCCATMGPW"
+        },
+        {
+            "id": 524,
+            "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+            "city": "MISSISSAUGA",
+            "branch": null,
+            "swift_code": "FMCCCATMIBC"
+        },
+        {
+            "id": 525,
+            "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+            "city": "MISSISSAUGA",
+            "branch": null,
+            "swift_code": "FMCCCATMIPF"
+        },
+        {
+            "id": 526,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": null,
             "swift_code": "FMCCCATMLAC"
         },
         {
-            "id": 491,
+            "id": 527,
+            "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+            "city": "MISSISSAUGA",
+            "branch": null,
+            "swift_code": "FMCCCATMMFC"
+        },
+        {
+            "id": 528,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": null,
             "swift_code": "FMCCCATMOME"
         },
         {
-            "id": 492,
+            "id": 529,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": null,
             "swift_code": "FMCCCATMPEM"
         },
         {
-            "id": 493,
+            "id": 530,
+            "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+            "city": "MISSISSAUGA",
+            "branch": null,
+            "swift_code": "FMCCCATMPHI"
+        },
+        {
+            "id": 531,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": null,
             "swift_code": "FMCCCATMPNB"
         },
         {
-            "id": 494,
+            "id": 532,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": null,
             "swift_code": "FMCCCATMSIO"
         },
         {
-            "id": 495,
+            "id": 533,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MISSISSAUGA",
             "branch": null,
             "swift_code": "FMCCCATMSPR"
         },
         {
-            "id": 496,
+            "id": 534,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "FMCCCATMSEC"
         },
         {
-            "id": 497,
+            "id": 535,
             "bank": "SS AND C TECHNOLOGIES CANADA CORP",
             "city": "TORONTO",
             "branch": "(KARARA)",
             "swift_code": "FMCCCAT1BAM"
         },
         {
-            "id": 498,
+            "id": 536,
+            "bank": "SS AND C TECHNOLOGIES CANADA CORP",
+            "city": "WINDSOR",
+            "branch": null,
+            "swift_code": "FMCCCATMSTA"
+        },
+        {
+            "id": 537,
             "bank": "SSQ, SOCIETE D'ASSURANCE-VIE INC.",
             "city": "QUEBEC",
             "branch": null,
             "swift_code": "SSQSCA21"
         },
         {
-            "id": 499,
+            "id": 538,
             "bank": "ST. STANISLAUS - ST. CASIMIR'S POLISH PARISHES CREDIT UNION LIMITED",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "SCPCCAT1"
         },
         {
-            "id": 500,
-            "bank": "STANTON ASSET MANAGEMENT INC",
-            "city": "MONTREAL",
-            "branch": "(AIM\/POMS SERVICE)",
-            "swift_code": "STTNCAM2"
-        },
-        {
-            "id": 501,
+            "id": 539,
             "bank": "STANTON ASSET MANAGEMENT INC",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "STTNCAM1"
         },
         {
-            "id": 502,
-            "bank": "STATE BANK OF INDIA (CANADA)",
-            "city": "TORONTO",
-            "branch": null,
-            "swift_code": "SBINCATX"
-        },
-        {
-            "id": 503,
-            "bank": "STATE BANK OF INDIA (CANADA)",
-            "city": "VANCOUVER",
-            "branch": null,
-            "swift_code": "SBINCATXVAN"
-        },
-        {
-            "id": 504,
+            "id": 540,
             "bank": "STATE STREET BANK AND TRUST CO., CANADA BRANCH",
             "city": "TORONTO",
             "branch": "(CANADA SETTLEMENTS)",
             "swift_code": "SBOSCAA1STB"
         },
         {
-            "id": 505,
+            "id": 541,
             "bank": "STATE STREET BANK AND TRUST CO., CANADA BRANCH",
             "city": "TORONTO",
             "branch": "(CANADA SETTLEMENTS)",
             "swift_code": "SBOSCAA1STE"
         },
         {
-            "id": 506,
+            "id": 542,
             "bank": "STATE STREET BANK AND TRUST CO., CANADA BRANCH",
             "city": "TORONTO",
             "branch": "(CANADA SETTLEMENTS)",
             "swift_code": "SBOSCAA1STI"
         },
         {
-            "id": 507,
+            "id": 543,
             "bank": "STATE STREET BANK AND TRUST CO., CANADA BRANCH",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "SBOSCAA1"
         },
         {
-            "id": 508,
+            "id": 544,
             "bank": "STATE STREET BANK AND TRUST COMPANY, CANADA BRANCH",
             "city": "TORONTO",
             "branch": "(INTEGRATED FINANCIAL SYSTEMS)",
             "swift_code": "SBOSCATXIFS"
         },
         {
-            "id": 509,
+            "id": 545,
             "bank": "STATE STREET BANK AND TRUST COMPANY, CANADA BRANCH",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "SBOSCATX"
         },
         {
-            "id": 510,
+            "id": 546,
             "bank": "STIFEL NICOLAUS CANADA INC",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "WBASCAM1"
         },
         {
-            "id": 511,
+            "id": 547,
             "bank": "STUART INVESTMENT MANAGEMENT LIMITED",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "STUICAT1"
         },
         {
-            "id": 512,
-            "bank": "SUMITOMO MITSUI BANKING CORPORATION OF CANADA",
+            "id": 548,
+            "bank": "SUMITOMO MITSUI BANKING CORPORATION, CANADA BRANCH",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "SMTOCATT"
         },
         {
-            "id": 513,
+            "id": 549,
             "bank": "SUN LIFE ASSURANCE CO OF CANADA",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "SLADCA21"
         },
         {
-            "id": 514,
+            "id": 550,
+            "bank": "SUN LIFE ASSURANCE COMPANY OF CANADA",
+            "city": "TORONTO",
+            "branch": null,
+            "swift_code": "SLOCCATT"
+        },
+        {
+            "id": 551,
             "bank": "SUN LIFE FINANCIAL INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "SULFCAT1"
         },
         {
-            "id": 515,
+            "id": 552,
             "bank": "SUNCOR ENERGY SERVICES INC.",
             "city": "CALGARY",
             "branch": null,
             "swift_code": "SUEECA66"
         },
         {
-            "id": 516,
+            "id": 553,
             "bank": "TAURUS CAPITAL MARKETS, LTD.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "TCAPCAT1"
         },
         {
-            "id": 517,
+            "id": 554,
+            "bank": "TD ASSET MANAGEMENT INC.",
+            "city": "TORONTO",
+            "branch": null,
+            "swift_code": "ASGGCAT1"
+        },
+        {
+            "id": 555,
             "bank": "TD CUSTODY, C AND IS",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "CUSOCAT1"
         },
         {
-            "id": 518,
+            "id": 556,
             "bank": "TD EVERGREEN INVESTMENT SERVICES INC",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "TDEICAT1"
         },
         {
-            "id": 519,
+            "id": 557,
             "bank": "TD MS CLEARING",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "CLERCAT1"
         },
         {
-            "id": 520,
+            "id": 558,
             "bank": "TD PD CLEARING",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "CLENCAT1"
         },
         {
-            "id": 521,
+            "id": 559,
             "bank": "THE BANK OF NEW YORK MELLON, TORONTO BRANCH",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "MELNCATT"
         },
         {
-            "id": 522,
+            "id": 560,
+            "bank": "THE BANK OF TOKYO-MITSUBISHI UFJ, LTD., CANADA BRANCH",
+            "city": "TORONTO",
+            "branch": null,
+            "swift_code": "BOTKCATX"
+        },
+        {
+            "id": 561,
+            "bank": "THE BANK OF TOKYO-MITSUBISHI UFJ, LTD., CANADA BRANCH",
+            "city": "VANCOUVER",
+            "branch": "(CANADA BRANCH, VANCOUVER)",
+            "swift_code": "BOTKCATXVCR"
+        },
+        {
+            "id": 562,
             "bank": "THE CANADIAN DEPOSITORY FOR SECURITIES LIMITED",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "CADSCA81"
         },
         {
-            "id": 523,
+            "id": 563,
+            "bank": "THE NORTHERN TRUST COMPANY, CANADA",
+            "city": "TORONTO",
+            "branch": null,
+            "swift_code": "CNORCATT"
+        },
+        {
+            "id": 564,
+            "bank": "THE NORTHERN TRUST COMPANY, CANADA BRANCH",
+            "city": "TORONTO",
+            "branch": null,
+            "swift_code": "NTCCCAT1"
+        },
+        {
+            "id": 565,
             "bank": "THE ROYAL BANK OF SCOTLAND PLC CANADA",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "RBOSCATT"
         },
         {
-            "id": 524,
-            "bank": "THE ROYAL BANK OF SCOTLAND PLC CANADA (FORMERLY KNOWN AS RBS NV)",
-            "city": "MONTREAL",
-            "branch": "(MONTREAL BRANCH)",
-            "swift_code": "ABNACATTMTL"
-        },
-        {
-            "id": 525,
-            "bank": "THE ROYAL BANK OF SCOTLAND PLC CANADA (FORMERLY KNOWN AS RBS NV)",
-            "city": "MONTREAL",
-            "branch": null,
-            "swift_code": "ABNACAT10MM"
-        },
-        {
-            "id": 526,
-            "bank": "THE ROYAL BANK OF SCOTLAND PLC CANADA (FORMERLY KNOWN AS RBS NV)",
-            "city": "TORONTO",
-            "branch": null,
-            "swift_code": "ABNACATT"
-        },
-        {
-            "id": 527,
+            "id": 566,
             "bank": "THOMSON KERNAGHAN AND CO. LTD.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "THOKCAT1"
         },
         {
-            "id": 528,
+            "id": 567,
             "bank": "TIMBERCREEK ASST MANAGEMENT LTD",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "TIAGCAT1"
         },
         {
-            "id": 529,
+            "id": 568,
             "bank": "TORON CAPITAL MARKETS INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "TOCRCAT1"
         },
         {
-            "id": 530,
+            "id": 569,
             "bank": "TORONTO DOMINION SECURITIES INC",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "TDSECAT1"
         },
         {
-            "id": 531,
+            "id": 570,
             "bank": "TORONTO FUTURES EXCHANGE",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "XTFECAT1"
         },
         {
-            "id": 532,
+            "id": 571,
             "bank": "TORONTO OPTIONS EXCHANGE",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "XTOECAT1"
         },
         {
-            "id": 533,
+            "id": 572,
             "bank": "TORONTO-DOMINION BANK, THE",
             "city": "CALGARY",
             "branch": null,
             "swift_code": "TDOMCATTCAL"
         },
         {
-            "id": 534,
+            "id": 573,
             "bank": "TORONTO-DOMINION BANK, THE",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "TDOMCATTMTL"
         },
         {
-            "id": 535,
+            "id": 574,
             "bank": "TORONTO-DOMINION BANK, THE",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "TDOMCATT"
         },
         {
-            "id": 536,
+            "id": 575,
             "bank": "TORONTO-DOMINION BANK, THE",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "TDOMCATTTOR"
         },
         {
-            "id": 537,
+            "id": 576,
             "bank": "TORONTO-DOMINION BANK, THE",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "TDOMCATTVAN"
         },
         {
-            "id": 538,
-            "bank": "TRANSATLANTIC SECURITIES COMPANY LIMITED PARTNERSHIP",
-            "city": "MONTREAL",
-            "branch": "(NDP DEPT)",
-            "swift_code": "TRACCAMMNDP"
-        },
-        {
-            "id": 539,
-            "bank": "TRANSATLANTIC SECURITIES COMPANY LIMITED PARTNERSHIP",
-            "city": "MONTREAL",
-            "branch": null,
-            "swift_code": "TRACCAMM"
-        },
-        {
-            "id": 540,
+            "id": 577,
             "bank": "TRAVELEX CANADA LIMITED",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "TRAVCATT"
         },
         {
-            "id": 541,
+            "id": 578,
             "bank": "TRAVELEX CANADA LIMITED",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "TRAVCATTCUR"
         },
         {
-            "id": 542,
+            "id": 579,
             "bank": "TRAVELEX CANADA LIMITED",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "TRAVCATTRTL"
         },
         {
-            "id": 543,
+            "id": 580,
             "bank": "TRAVELEX CANADA LTD.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "COOKCATT"
         },
         {
-            "id": 544,
+            "id": 581,
             "bank": "TRILON SECURITIES CORPORATION",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "TRLSCAT1"
         },
         {
-            "id": 545,
+            "id": 582,
             "bank": "TRISTONE CAPITAL INC",
             "city": "CALGARY",
             "branch": null,
             "swift_code": "TRPLCA61"
         },
         {
-            "id": 546,
+            "id": 583,
             "bank": "TRUST GENERAL DU CANADA",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "TGCACAM1"
         },
         {
-            "id": 547,
+            "id": 584,
             "bank": "TSX INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "XTSECAT1"
         },
         {
-            "id": 548,
+            "id": 585,
             "bank": "TULLETT PREBON AMERICAS CORP TORONTO BRANCH",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "TPATCAT1"
         },
         {
-            "id": 549,
+            "id": 586,
             "bank": "TULLETT PREBON CANADA LIMITED",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "TPCACAT1"
         },
         {
-            "id": 550,
+            "id": 587,
             "bank": "UBS BANK (CANADA)",
             "city": "MONTREAL",
             "branch": "(MONTREAL BRANCH)",
             "swift_code": "UBSWCATTMTL"
         },
         {
-            "id": 551,
+            "id": 588,
             "bank": "UBS BANK (CANADA)",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "UBSWCATT"
         },
         {
-            "id": 552,
+            "id": 589,
             "bank": "UBS BANK (CANADA)",
             "city": "VANCOUVER",
             "branch": "(VANCOUVER BRANCH)",
             "swift_code": "UBSWCATTVAN"
         },
         {
-            "id": 553,
+            "id": 590,
+            "bank": "UBS SECURITIES CANADA INC",
+            "city": "TORONTO",
+            "branch": null,
+            "swift_code": "UBSWCATS"
+        },
+        {
+            "id": 591,
             "bank": "UBS SECURITIES CANADA INC.",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "BUNWCAT1"
         },
         {
-            "id": 554,
+            "id": 592,
             "bank": "UNION SECURITIES LTD.",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "UNSRCA81"
         },
         {
-            "id": 555,
+            "id": 593,
             "bank": "UNITED OVERSEAS BANK LIMITED VANCOUVER BRANCH",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "UOVBCA8V"
         },
         {
-            "id": 556,
+            "id": 594,
             "bank": "VALEURS MOBILIERES DESJARDINS INC",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "VAMDCAM1"
         },
         {
-            "id": 557,
+            "id": 595,
             "bank": "VALEURS MOBILIERES DUBEAU LTEE.",
             "city": "QUEBEC",
             "branch": null,
             "swift_code": "VMDUCAQ1"
         },
         {
-            "id": 558,
+            "id": 596,
+            "bank": "VANCITY COMMUNITY INVESTMENT BANK",
+            "city": "VANCOUVER",
+            "branch": "(VANCITY)",
+            "swift_code": "CTZNCA8V001"
+        },
+        {
+            "id": 597,
+            "bank": "VANCITY COMMUNITY INVESTMENT BANK",
+            "city": "VANCOUVER",
+            "branch": null,
+            "swift_code": "CTZNCA8V"
+        },
+        {
+            "id": 598,
             "bank": "VANCOUVER STOCK EXCHANGE",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "XVSECA81"
         },
         {
-            "id": 559,
+            "id": 599,
             "bank": "VERSUS BROKERAGE SERVICES",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "VERBCAT1"
         },
         {
-            "id": 560,
+            "id": 600,
             "bank": "VW CREDIT CANADA",
             "city": "SAINT-LAURENT, QUEBEC",
             "branch": null,
             "swift_code": "CRNDCA21"
         },
         {
-            "id": 561,
+            "id": 601,
             "bank": "VW GROUP CANADA",
             "city": "AJAX,ONTARIO",
             "branch": null,
             "swift_code": "GRCDCA21"
         },
         {
-            "id": 562,
+            "id": 602,
             "bank": "W.D. LATIMER CO. LIMITED",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "LATLCAT1"
         },
         {
-            "id": 563,
+            "id": 603,
+            "bank": "WADIAH VENTURES INC",
+            "city": "TORONTO",
+            "branch": null,
+            "swift_code": "WAVNCAT1"
+        },
+        {
+            "id": 604,
+            "bank": "WALL STREET FINANCE (CANADA) LTD.",
+            "city": "TORONTO",
+            "branch": null,
+            "swift_code": "WSFACAT1"
+        },
+        {
+            "id": 605,
             "bank": "WEALHOUSE CAPITAL MANAGEMENT",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "WECTCAT1"
         },
         {
-            "id": 564,
+            "id": 606,
             "bank": "WELLINGTON WEST CAPITAL INC.",
             "city": "WINNIPEG",
             "branch": null,
             "swift_code": "WLWECA41"
         },
         {
-            "id": 565,
+            "id": 607,
             "bank": "WELLS FARGO BANK, N. A. CANADIAN BRANCH",
             "city": "TORONTO",
             "branch": null,
             "swift_code": "PNBPCATT"
         },
         {
-            "id": 566,
+            "id": 608,
+            "bank": "WELLS FARGO SECURITIES CANADA, LTD.",
+            "city": "CALGARY",
+            "branch": null,
+            "swift_code": "WFSACA61"
+        },
+        {
+            "id": 609,
             "bank": "WOLVERTON SECURITIES LTD",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "WLVSCA81"
         },
         {
-            "id": 567,
+            "id": 610,
             "bank": "WORLD WIDE PAYMENTS ON DEMAND",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "WWPDCA81"
         },
         {
-            "id": 568,
+            "id": 611,
             "bank": "YAMAICHI INTERNATIONAL (CAN)",
             "city": "MONTREAL",
             "branch": null,
             "swift_code": "YINCCAM1"
         },
         {
-            "id": 569,
+            "id": 612,
             "bank": "YORKTON SECURITIES INC.",
             "city": "VANCOUVER",
             "branch": null,
             "swift_code": "YKSECA81"
         },
         {
-            "id": 570,
+            "id": 613,
             "bank": "YORKTON SECURITIES, INC",
             "city": "TORONTO",
             "branch": null,

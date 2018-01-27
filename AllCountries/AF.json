@@ -25,87 +25,87 @@
         },
         {
             "id": 4,
+            "bank": "ARIAN BANK",
+            "city": "KABUL",
+            "branch": null,
+            "swift_code": "AFABAFKA"
+        },
+        {
+            "id": 5,
             "bank": "AZIZI BANK",
             "city": "KABUL",
             "branch": null,
             "swift_code": "AZBAAFKA"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "BAKHTAR BANK",
             "city": "KABUL",
             "branch": null,
-            "swift_code": "BKRBAFKA"
+            "swift_code": "IBAFAFKA"
         },
         {
-            "id": 6,
+            "id": 7,
             "bank": "BANK ALFALAH LIMITED (AFGHANISTAN - KABUL BRANCH)",
             "city": "HERAT",
             "branch": "(AFGHANISTAN - HERAT BRANCH)",
             "swift_code": "ALFHAFKA803"
         },
         {
-            "id": 7,
+            "id": 8,
             "bank": "BANK ALFALAH LIMITED (AFGHANISTAN - KABUL BRANCH)",
             "city": "KABUL",
             "branch": null,
             "swift_code": "ALFHAFKA"
         },
         {
-            "id": 8,
+            "id": 9,
             "bank": "BANKE MILLIE AFGHAN",
             "city": "KABUL",
             "branch": null,
             "swift_code": "BMAFAFKA"
         },
         {
-            "id": 9,
+            "id": 10,
             "bank": "DA AFGHANISTAN BANK",
             "city": "KABUL",
             "branch": null,
             "swift_code": "AFGBAFKA"
         },
         {
-            "id": 10,
+            "id": 11,
             "bank": "FIRST MICROFINANCE BANK LTD., THE",
             "city": "KABUL",
             "branch": "(SHASH DARAK KABUL BRANCH)",
             "swift_code": "FMFBAFKA"
         },
         {
-            "id": 11,
+            "id": 12,
             "bank": "GHAZANFAR BANK",
             "city": "KABUL",
             "branch": null,
             "swift_code": "GHBKAFKA"
         },
         {
-            "id": 12,
+            "id": 13,
             "bank": "GHAZANFAR BANK",
             "city": "KABUL",
             "branch": null,
             "swift_code": "GHBKAFKAISW"
         },
         {
-            "id": 13,
+            "id": 14,
             "bank": "HABIB BANK LIMITED",
             "city": "KABUL",
             "branch": null,
             "swift_code": "HABBAFKA"
         },
         {
-            "id": 14,
+            "id": 15,
             "bank": "INDUSTRIAL DEVELOPMENT BANK OF AFGHANISTAN",
             "city": "KABUL",
             "branch": null,
             "swift_code": "IDTBAFK1"
-        },
-        {
-            "id": 15,
-            "bank": "KABUL BANK",
-            "city": "KABUL",
-            "branch": null,
-            "swift_code": "KABUAFKA"
         },
         {
             "id": 16,
@@ -130,6 +130,13 @@
         },
         {
             "id": 19,
+            "bank": "NEW KABUL BANK",
+            "city": "KABUL",
+            "branch": null,
+            "swift_code": "KABUAFKA"
+        },
+        {
+            "id": 20,
             "bank": "PASHTANY BANK",
             "city": "KABUL",
             "branch": null,

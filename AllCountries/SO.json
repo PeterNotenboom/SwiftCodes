@@ -4,41 +4,48 @@
     "list": [
         {
             "id": 1,
+            "bank": "AMAL BANK LTD",
+            "city": "GAROWE",
+            "branch": null,
+            "swift_code": "AALLSOSG"
+        },
+        {
+            "id": 2,
             "bank": "CENTRAL BANK OF SOMALIA",
             "city": "MOGADISCIO",
             "branch": null,
             "swift_code": "CBSOSOSM"
         },
         {
-            "id": 2,
+            "id": 3,
+            "bank": "DAHABSHIL BANK INTERNATIONAL",
+            "city": "MOGADISCIO",
+            "branch": null,
+            "swift_code": "DAHISOSM"
+        },
+        {
+            "id": 4,
             "bank": "INTERNATIONAL BANK OF SOMALIA (IBS)",
             "city": "MOGADISCIO",
             "branch": null,
             "swift_code": "IBOSSOSM"
         },
         {
-            "id": 3,
-            "bank": "NATIONAL BANK OF SOMALIA LIMITED",
-            "city": "MOGADISCIO",
-            "branch": null,
-            "swift_code": "NASISOS1"
-        },
-        {
-            "id": 4,
+            "id": 5,
             "bank": "PREMIER BANK LIMITED",
             "city": "MOGADISCIO",
             "branch": null,
             "swift_code": "PBSMSOSM"
         },
         {
-            "id": 5,
+            "id": 6,
             "bank": "SALAAM SOMALI BANK",
             "city": "MOGADISCIO",
             "branch": null,
             "swift_code": "SSBMSOSM"
         },
         {
-            "id": 6,
+            "id": 7,
             "bank": "TRUST AFRICAN BANK",
             "city": "MOGADISCIO",
             "branch": null,

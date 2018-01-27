@@ -34,36 +34,36 @@
             "id": 5,
             "bank": "BANCO CENTRAL DEL PARAGUAY",
             "city": "ASUNCION",
-            "branch": "(AIM\/POMS SERVICE)",
-            "swift_code": "BCPAPYPB"
+            "branch": "(OPERACIONES NACIONALES - DPTO. DE CREDITO Y CTAS. CTES.)",
+            "swift_code": "BCPAPYPXGON"
         },
         {
             "id": 6,
             "bank": "BANCO CENTRAL DEL PARAGUAY",
             "city": "ASUNCION",
-            "branch": "(OPERACIONES NACIONALES - DPTO. DE CREDITO Y CTAS. CTES.)",
-            "swift_code": "BCPAPYPXGON"
+            "branch": null,
+            "swift_code": "BCPAPYPB"
         },
         {
             "id": 7,
             "bank": "BANCO CENTRAL DEL PARAGUAY",
             "city": "ASUNCION",
             "branch": null,
-            "swift_code": "BCPAPYPX"
+            "swift_code": "BCPAPYPD"
         },
         {
             "id": 8,
             "bank": "BANCO CENTRAL DEL PARAGUAY",
             "city": "ASUNCION",
             "branch": null,
-            "swift_code": "BCPAPYPD"
+            "swift_code": "BCPAPYPR"
         },
         {
             "id": 9,
             "bank": "BANCO CENTRAL DEL PARAGUAY",
             "city": "ASUNCION",
             "branch": null,
-            "swift_code": "BCPAPYPR"
+            "swift_code": "BCPAPYPX"
         },
         {
             "id": 10,
@@ -270,48 +270,41 @@
         },
         {
             "id": 39,
-            "bank": "FINANCIERA EXPORTADORA PARAGUAYA S.A.",
-            "city": "ASUNCION",
-            "branch": null,
-            "swift_code": "FNXAPYPA"
-        },
-        {
-            "id": 40,
             "bank": "FINANCIERA PARAGUAYO JAPONESA SAECA",
             "city": "ASUNCION",
             "branch": null,
             "swift_code": "FIPJPYPA"
         },
         {
-            "id": 41,
+            "id": 40,
             "bank": "FONPLATA - FONDO FINANCIERO PARA EL DESAROLLO DE LA CUENCA DEL PLATA",
             "city": "ASUNCION",
             "branch": null,
             "swift_code": "FOPLPYPA"
         },
         {
-            "id": 42,
-            "bank": "GRUPO INTERNACIONAL DE FINANZAS S.A .C.A. (INTERFISA FINANCIERA)",
+            "id": 41,
+            "bank": "GRUPO INTERNACIONAL DE FINANZAS S.A.E.C.A. (INTERFISA BANCO)",
             "city": "ASUNCION",
             "branch": null,
             "swift_code": "IIFAPYPA"
         },
         {
-            "id": 43,
+            "id": 42,
             "bank": "SUDAMERIS BANK S.A.E.C.A.",
             "city": "ASUNCION",
             "branch": null,
             "swift_code": "BSUDPYPX"
         },
         {
-            "id": 44,
+            "id": 43,
             "bank": "SUMMA ASESORIES",
             "city": "ASUNCION",
             "branch": null,
             "swift_code": "SUMSPYP1"
         },
         {
-            "id": 45,
+            "id": 44,
             "bank": "VISION BANCO S.A.E.C.A.",
             "city": "ASUNCION",
             "branch": null,

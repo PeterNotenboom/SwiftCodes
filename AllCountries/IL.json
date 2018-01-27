@@ -4,24 +4,24 @@
     "list": [
         {
             "id": 1,
-            "bank": "ARAB ISRAEL BANK LTD",
-            "city": "NESHER",
-            "branch": null,
-            "swift_code": "ARISILI1"
-        },
-        {
-            "id": 2,
             "bank": "BANK HAPOALIM B.M.",
             "city": "TEL-AVIV",
             "branch": "(CLS)",
             "swift_code": "POALILITCLS"
         },
         {
-            "id": 3,
+            "id": 2,
             "bank": "BANK HAPOALIM B.M.",
             "city": "TEL-AVIV",
             "branch": "(CUSTODIAN FOR PENSION)",
             "swift_code": "POALILITGML"
+        },
+        {
+            "id": 3,
+            "bank": "BANK HAPOALIM B.M.",
+            "city": "TEL-AVIV",
+            "branch": "(CUSTOMERS CASH MANAGEMENT)",
+            "swift_code": "POALILITCMN"
         },
         {
             "id": 4,
@@ -34,218 +34,218 @@
             "id": 5,
             "bank": "BANK HAPOALIM B.M.",
             "city": "TEL-AVIV",
+            "branch": "(FOREIGN SECURITIES)",
+            "swift_code": "POALILITSEC"
+        },
+        {
+            "id": 6,
+            "bank": "BANK HAPOALIM B.M.",
+            "city": "TEL-AVIV",
             "branch": "(FOREIGN TRADE FOR ALL BRANCHES IN ISRAEL)",
             "swift_code": "POALILITFTD"
         },
         {
-            "id": 6,
+            "id": 7,
             "bank": "BANK HAPOALIM B.M.",
             "city": "TEL-AVIV",
             "branch": "(FOREX AND MONEY MARKET CONFIRMATIONS)",
             "swift_code": "POALILITBKR"
         },
         {
-            "id": 7,
+            "id": 8,
             "bank": "BANK HAPOALIM B.M.",
             "city": "TEL-AVIV",
             "branch": "(FOREX AND MONEY MARKET PAYMENTS)",
             "swift_code": "POALILITDLR"
         },
         {
-            "id": 8,
+            "id": 9,
             "bank": "BANK HAPOALIM B.M.",
             "city": "TEL-AVIV",
             "branch": "(SECURITIES)",
             "swift_code": "POALILITCBS"
         },
         {
-            "id": 9,
+            "id": 10,
             "bank": "BANK HAPOALIM B.M.",
             "city": "TEL-AVIV",
             "branch": null,
             "swift_code": "POALILIT"
         },
         {
-            "id": 10,
+            "id": 11,
             "bank": "BANK LEUMI LE ISRAEL B.M.",
             "city": "HAIFA",
             "branch": "(HAIFA BRANCH)",
             "swift_code": "LUMIILITHAI"
         },
         {
-            "id": 11,
+            "id": 12,
             "bank": "BANK LEUMI LE ISRAEL B.M.",
             "city": "JERUSALEM",
             "branch": "(JERUSALEM BRANCH)",
             "swift_code": "LUMIILITJLM"
         },
         {
-            "id": 12,
+            "id": 13,
             "bank": "BANK LEUMI LE ISRAEL B.M.",
             "city": "TEL-AVIV",
             "branch": "(BANKING SERVICES CENTER)",
             "swift_code": "LUMIILITBSC"
         },
         {
-            "id": 13,
+            "id": 14,
             "bank": "BANK LEUMI LE ISRAEL B.M.",
             "city": "TEL-AVIV",
             "branch": "(CLS OPERATIONS)",
             "swift_code": "LUMIILITCLS"
         },
         {
-            "id": 14,
+            "id": 15,
+            "bank": "BANK LEUMI LE ISRAEL B.M.",
+            "city": "TEL-AVIV",
+            "branch": "(DIGITAL SERVICES)",
+            "swift_code": "LUMIILITLDB"
+        },
+        {
+            "id": 16,
             "bank": "BANK LEUMI LE ISRAEL B.M.",
             "city": "TEL-AVIV",
             "branch": "(TEL-AVIV MAIN BRANCH)",
             "swift_code": "LUMIILIT"
         },
         {
-            "id": 15,
+            "id": 17,
             "bank": "BANK LEUMI LE ISRAEL B.M.",
             "city": "TEL-AVIV",
             "branch": "(TEL-AVIV MAIN BRANCH)",
             "swift_code": "LUMIILITTLV"
         },
         {
-            "id": 16,
+            "id": 18,
+            "bank": "BANK LEUMI LE-ISRAEL B.M.(FORMERLY ARAB ISRAEL BANK LTD)",
+            "city": "TEL-AVIV",
+            "branch": null,
+            "swift_code": "ARISILI1"
+        },
+        {
+            "id": 19,
             "bank": "BANK MASSAD LTD.",
             "city": "TEL-AVIV",
             "branch": null,
             "swift_code": "MASBILIT"
         },
         {
-            "id": 17,
-            "bank": "BANK OF ISRAEL",
-            "city": "JERUSALEM",
-            "branch": null,
-            "swift_code": "BOICILIJ"
-        },
-        {
-            "id": 18,
+            "id": 20,
             "bank": "BANK OF ISRAEL",
             "city": "JERUSALEM",
             "branch": null,
             "swift_code": "ISRAILIJ"
         },
         {
-            "id": 19,
+            "id": 21,
             "bank": "BANK OF ISRAEL",
             "city": "JERUSALEM",
             "branch": null,
             "swift_code": "ISRAILIR"
         },
         {
-            "id": 20,
+            "id": 22,
             "bank": "BANK OF JERUSALEM - BROKERAGE",
             "city": "TEL-AVIV",
             "branch": null,
             "swift_code": "BASVILI1"
         },
         {
-            "id": 21,
+            "id": 23,
             "bank": "BANK OF JERUSALEM LTD. TEL-AVIV",
             "city": "AIRPORT CITY - LOD",
             "branch": null,
             "swift_code": "JERSILIT"
         },
         {
-            "id": 22,
+            "id": 24,
             "bank": "BANK OTSAR HA-HAYAL LTD.",
             "city": "RAMAT-GAN",
             "branch": null,
             "swift_code": "OTSHILIT"
         },
         {
-            "id": 23,
-            "bank": "BANK POALEY AGUDAT ISRAEL LTD.",
-            "city": "TEL-AVIV",
-            "branch": null,
-            "swift_code": "PAGIILIT"
-        },
-        {
-            "id": 24,
+            "id": 25,
             "bank": "BANK YAHAV FOR GOVERMENT EMPLOYEES LTD",
             "city": "JERUSALEM",
             "branch": null,
             "swift_code": "BYAHILI1"
         },
         {
-            "id": 25,
+            "id": 26,
             "bank": "BARAK CAPITAL G.T LIMITED",
             "city": "TEL-AVIV",
             "branch": null,
             "swift_code": "BRTPILI1"
         },
         {
-            "id": 26,
+            "id": 27,
             "bank": "BNP PARIBAS ISRAEL",
             "city": "TEL-AVIV",
             "branch": null,
             "swift_code": "BNPAILI1"
         },
         {
-            "id": 27,
+            "id": 28,
             "bank": "BREVAN HOWARD (ISRAEL) LIMITED",
             "city": "RAMAT-GAN",
             "branch": null,
             "swift_code": "BRHRILI1"
         },
         {
-            "id": 28,
+            "id": 29,
             "bank": "CITIBANK N.A.",
             "city": "TEL-AVIV",
             "branch": "(TRADE SERVICES DEPT)",
             "swift_code": "CITIILITTRD"
         },
         {
-            "id": 29,
+            "id": 30,
             "bank": "CITIBANK N.A.",
             "city": "TEL-AVIV",
             "branch": null,
             "swift_code": "CITIILIT"
         },
         {
-            "id": 30,
+            "id": 31,
             "bank": "CITIGROUP FINANCIAL PRODUCTS ISRAEL LIMITED",
             "city": "TEL-AVIV",
             "branch": null,
             "swift_code": "CFPSILI1"
         },
         {
-            "id": 31,
+            "id": 32,
             "bank": "CONTECH LP",
             "city": "HERZELIYA",
             "branch": null,
             "swift_code": "CONHILI1"
         },
         {
-            "id": 32,
+            "id": 33,
             "bank": "DEXIA ISRAEL BANK LTD",
             "city": "TEL-AVIV",
             "branch": null,
             "swift_code": "OTHHILI1"
         },
         {
-            "id": 33,
+            "id": 34,
             "bank": "DEXIA ISRAEL BANK LTD",
             "city": "TEL-AVIV",
             "branch": null,
             "swift_code": "OTHHILIT"
         },
         {
-            "id": 34,
+            "id": 35,
             "bank": "DS STOCK EXCHANGE SERVICES LTD.",
             "city": "TEL-AVIV",
             "branch": null,
             "swift_code": "STXSILI1"
-        },
-        {
-            "id": 35,
-            "bank": "EXCELLENCE NESSUAH BROKERAGE SERVICES LIMITED",
-            "city": "RAMAT-GAN",
-            "branch": null,
-            "swift_code": "ZNNXILI1"
         },
         {
             "id": 36,
@@ -291,8 +291,8 @@
         },
         {
             "id": 42,
-            "bank": "HSBC BANK PLC, TEL AVIV",
-            "city": "TEL-AVIV",
+            "bank": "HSBC BANK PLC",
+            "city": "RAMAT-GAN",
             "branch": null,
             "swift_code": "HSBCILIT"
         },
@@ -368,143 +368,143 @@
         },
         {
             "id": 53,
+            "bank": "MERCANTILE DISCOUNT BANK LTD.",
+            "city": "TEL-AVIV",
+            "branch": "(HEAD OFFICE)",
+            "swift_code": "BARDILIT"
+        },
+        {
+            "id": 54,
             "bank": "MIZRAHI TEFAHOT BANK LTD.",
             "city": "BEER-SHEVA",
             "branch": "(BEER-SHEVA MAIN BRANCH)",
             "swift_code": "MIZBILITBSV"
         },
         {
-            "id": 54,
+            "id": 55,
             "bank": "MIZRAHI TEFAHOT BANK LTD.",
             "city": "HAIFA",
             "branch": "(HAIFA MAIN BRANCH)",
             "swift_code": "MIZBILITHAI"
         },
         {
-            "id": 55,
+            "id": 56,
             "bank": "MIZRAHI TEFAHOT BANK LTD.",
             "city": "JERUSALEM",
             "branch": "(JERUSALEM MAIN BRANCH)",
             "swift_code": "MIZBILITJLM"
         },
         {
-            "id": 56,
+            "id": 57,
             "bank": "MIZRAHI TEFAHOT BANK LTD.",
             "city": "LOD",
             "branch": null,
             "swift_code": "MIZBILITTLV"
         },
         {
-            "id": 57,
+            "id": 58,
             "bank": "MIZRAHI TEFAHOT BANK LTD.",
             "city": "RAMAT-GAN",
             "branch": "(DIAMOND EXCHANGE BRANCH)",
             "swift_code": "MIZBILITDMD"
         },
         {
-            "id": 58,
+            "id": 59,
             "bank": "MIZRAHI TEFAHOT BANK LTD.",
             "city": "TEL-AVIV",
             "branch": null,
             "swift_code": "MIZBILIT"
         },
         {
-            "id": 59,
+            "id": 60,
             "bank": "OFEK SECURITIES AND INVESTMENTS LIMITED",
             "city": "TEL-AVIV",
             "branch": null,
             "swift_code": "OFSIILI1"
         },
         {
-            "id": 60,
+            "id": 61,
             "bank": "PACIFIC MEDITERRANEAN INVESTMENT LIMITED",
             "city": "HERZELIA PITUACH",
             "branch": null,
             "swift_code": "PAMIILI1"
         },
         {
-            "id": 61,
+            "id": 62,
             "bank": "POALIM SAHAR LTD",
             "city": "TEL-AVIV",
             "branch": null,
             "swift_code": "POSHILI1"
         },
         {
-            "id": 62,
+            "id": 63,
             "bank": "SAMSUNG TELECOMMUNICATION R AND D-ISRAEL",
             "city": "YAKUM",
             "branch": null,
             "swift_code": "SECTILI1"
         },
         {
-            "id": 63,
+            "id": 64,
             "bank": "SAMSUNG TELECOMMUNICATION R AND D-ISRAEL",
             "city": "YAKUM",
             "branch": null,
             "swift_code": "SECTILI1432"
         },
         {
-            "id": 64,
+            "id": 65,
             "bank": "STATE BANK OF INDIA",
             "city": "RAMAT-GAN",
             "branch": null,
             "swift_code": "SBINILIT"
         },
         {
-            "id": 65,
+            "id": 66,
             "bank": "TEL AVIV STOCK EXCHANGE",
             "city": "TEL-AVIV",
             "branch": null,
             "swift_code": "XTAEILIB"
         },
         {
-            "id": 66,
+            "id": 67,
             "bank": "TEL AVIV STOCK EXCHANGE",
             "city": "TEL-AVIV",
             "branch": null,
             "swift_code": "XTAEILIC"
         },
         {
-            "id": 67,
+            "id": 68,
             "bank": "TEL AVIV STOCK EXCHANGE",
             "city": "TEL-AVIV",
             "branch": null,
             "swift_code": "XTAEILIM"
         },
         {
-            "id": 68,
+            "id": 69,
             "bank": "TEL-AVIV STOCK EXCHANGE CLEARING HOUSE",
             "city": "TEL-AVIV",
             "branch": null,
             "swift_code": "XTAEILIT"
         },
         {
-            "id": 69,
+            "id": 70,
             "bank": "TEVA PHARMACEUTICAL INDUSTRIES LTD",
             "city": "PETACH TIKVA",
             "branch": null,
             "swift_code": "TEVPILIT"
         },
         {
-            "id": 70,
+            "id": 71,
             "bank": "THE FIRST INTERNATIONAL BANK OF ISRAEL LTD",
             "city": "TEL-AVIV",
             "branch": null,
             "swift_code": "FIRBIL21"
         },
         {
-            "id": 71,
+            "id": 72,
             "bank": "THE FIRST INTERNATIONAL BANK OF ISRAEL LTD",
             "city": "TEL-AVIV",
             "branch": null,
             "swift_code": "FIRBIL51"
-        },
-        {
-            "id": 72,
-            "bank": "THE FIRST INTERNATIONAL BANK OF ISRAEL LTD (FORMERLY UBANK LTD)",
-            "city": "TEL-AVIV",
-            "branch": null,
-            "swift_code": "IGBTILIT"
         },
         {
             "id": 73,

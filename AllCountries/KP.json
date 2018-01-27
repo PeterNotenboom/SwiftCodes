@@ -7,7 +7,7 @@
             "bank": "BANK OF EAST LAND, PYONGYANG",
             "city": "PYONGYANG",
             "branch": null,
-            "swift_code": "BOELKPPY"
+            "swift_code": "BOELKPP1"
         },
         {
             "id": 2,
@@ -25,94 +25,66 @@
         },
         {
             "id": 4,
-            "bank": "FIRST CREDIT BANK",
+            "bank": "FOREIGN TRADE BANK OF THE D.P.R. OF KOREA",
             "city": "PYONGYANG",
             "branch": null,
-            "swift_code": "KYCBKPPY"
+            "swift_code": "FTBDKPP1"
         },
         {
             "id": 5,
             "bank": "FOREIGN TRADE BANK OF THE D.P.R. OF KOREA",
             "city": "PYONGYANG",
             "branch": null,
-            "swift_code": "FTBDKPPY"
+            "swift_code": "FTBDKPP1KBC"
         },
         {
             "id": 6,
-            "bank": "FOREIGN TRADE BANK OF THE D.P.R. OF KOREA",
-            "city": "PYONGYANG",
-            "branch": null,
-            "swift_code": "FTBDKPPYKBC"
-        },
-        {
-            "id": 7,
             "bank": "GOLDEN TRIANGLE BANK",
             "city": "NAMSAN",
             "branch": null,
             "swift_code": "KGTBKPP1"
         },
         {
-            "id": 8,
-            "bank": "ILSIM INTERNATIONAL BANK",
-            "city": "PYONGYANG",
-            "branch": null,
-            "swift_code": "ILSIKPPY"
-        },
-        {
-            "id": 9,
+            "id": 7,
             "bank": "KOREA DAESONG BANK",
             "city": "PYONGYANG",
             "branch": null,
-            "swift_code": "KDBKKPPY"
+            "swift_code": "KDBKKPP1"
         },
         {
-            "id": 10,
+            "id": 8,
             "bank": "KOREA KWANGSON BANKING CORP.",
             "city": "PYONGYANG",
             "branch": null,
-            "swift_code": "KKBCKPPY"
+            "swift_code": "KKBCKPP1"
         },
         {
-            "id": 11,
-            "bank": "KOREA UNITED DEVELOPMENT BANK, D.P.R. OF KOREA",
-            "city": "PYONGYANG",
-            "branch": null,
-            "swift_code": "KUDBKPPY"
-        },
-        {
-            "id": 12,
-            "bank": "KORYO BANK, D.P.R. OF KOREA",
-            "city": "PYONGYANG",
-            "branch": null,
-            "swift_code": "KORBKPPY"
-        },
-        {
-            "id": 13,
+            "id": 9,
             "bank": "KORYO COMMERCIAL BANK LTD.",
             "city": "PYONGYANG",
             "branch": null,
             "swift_code": "KCBKKPP1"
         },
         {
-            "id": 14,
+            "id": 10,
             "bank": "KORYO CREDIT DEVELOPMENT BANK",
             "city": "PYONGYANG",
             "branch": null,
-            "swift_code": "KGCBKPPY"
+            "swift_code": "KGCBKPP1"
         },
         {
-            "id": 15,
+            "id": 11,
             "bank": "KUMGANG BANK",
             "city": "PYONGYANG",
             "branch": null,
-            "swift_code": "KMBKKPPY"
+            "swift_code": "KMBKKPP1"
         },
         {
-            "id": 16,
+            "id": 12,
             "bank": "NORTH EAST ASIA BANK",
             "city": "PYONGYANG",
             "branch": null,
-            "swift_code": "NEABKPPY"
+            "swift_code": "NEABKPP1"
         }
     ]
 }

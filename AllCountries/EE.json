@@ -4,237 +4,307 @@
     "list": [
         {
             "id": 1,
+            "bank": "ADMIRAL MARKETS AS",
+            "city": "TALLINN",
+            "branch": null,
+            "swift_code": "ADMREE21"
+        },
+        {
+            "id": 2,
             "bank": "ALLIED IRISH BANKS P.L.C ESTONIAN BRANCH",
             "city": "TALLINN",
             "branch": null,
             "swift_code": "AIEBEE21"
         },
         {
-            "id": 2,
+            "id": 3,
+            "bank": "AS CITADELE BANKA EESTI FILIAAL",
+            "city": "TALLINN",
+            "branch": null,
+            "swift_code": "PARXEE22"
+        },
+        {
+            "id": 4,
+            "bank": "AS EUREX CAPITAL",
+            "city": "TALLINN",
+            "branch": null,
+            "swift_code": "EURCEE21"
+        },
+        {
+            "id": 5,
             "bank": "AS GILD FINANCIAL ADVISORY SERVICES",
             "city": "TALLINN",
             "branch": null,
             "swift_code": "GFASEE21"
         },
         {
-            "id": 3,
+            "id": 6,
+            "bank": "AS INBANK",
+            "city": "TALLINN",
+            "branch": null,
+            "swift_code": "IBBNEE21"
+        },
+        {
+            "id": 7,
             "bank": "AS LHV PANK",
             "city": "TALLINN",
             "branch": null,
             "swift_code": "LHVBEE22"
         },
         {
-            "id": 4,
+            "id": 8,
             "bank": "AS LOHMUS, HAAVEL AND VIISEMANN",
             "city": "TALLINN",
             "branch": null,
             "swift_code": "LHVBEE21"
         },
         {
-            "id": 5,
+            "id": 9,
             "bank": "AS POCOPAY",
             "city": "TALLINN",
             "branch": null,
             "swift_code": "AKELEE21"
         },
         {
-            "id": 6,
+            "id": 10,
             "bank": "AS SEB PANK",
             "city": "TALLINN",
             "branch": null,
             "swift_code": "EEUHEE2X"
         },
         {
-            "id": 7,
+            "id": 11,
             "bank": "BIGBANK AS",
             "city": "TALLINN",
             "branch": null,
             "swift_code": "BIGKEE2B"
         },
         {
-            "id": 8,
+            "id": 12,
+            "bank": "COOP PANK",
+            "city": "TALLINN",
+            "branch": null,
+            "swift_code": "EKRDEE22"
+        },
+        {
+            "id": 13,
             "bank": "CRESCO VAARTPABERITE AS",
             "city": "TALLINN",
             "branch": null,
             "swift_code": "CRVTEE21"
         },
         {
-            "id": 9,
+            "id": 14,
             "bank": "DANSKE BANK A\/S ESTONIA BRANCH",
             "city": "TALLINN",
             "branch": null,
             "swift_code": "FOREEE2X"
         },
         {
-            "id": 10,
-            "bank": "DNB PANK",
+            "id": 15,
+            "bank": "EESTI ARENGU HOIU-LAENUUHISTU",
             "city": "TALLINN",
             "branch": null,
-            "swift_code": "RIKOEE22"
+            "swift_code": "EEAHEE21"
         },
         {
-            "id": 11,
+            "id": 16,
             "bank": "EESTI PANK (BANK OF ESTONIA)",
             "city": "TALLINN",
             "branch": "(CLEARING DEPARTMENT)",
             "swift_code": "EPBEEE2XERT"
         },
         {
-            "id": 12,
+            "id": 17,
             "bank": "EESTI PANK (BANK OF ESTONIA)",
             "city": "TALLINN",
             "branch": "(MIRROR TECHNICAL ACCOUNT)",
             "swift_code": "EPBEEE2XCSD"
         },
         {
-            "id": 13,
+            "id": 18,
             "bank": "EESTI PANK (BANK OF ESTONIA)",
             "city": "TALLINN",
             "branch": "(TARGET 2)",
             "swift_code": "EPBEEE2XTGT"
         },
         {
-            "id": 14,
+            "id": 19,
             "bank": "EESTI PANK (BANK OF ESTONIA)",
             "city": "TALLINN",
             "branch": null,
             "swift_code": "EPBEEE2X"
         },
         {
-            "id": 15,
+            "id": 20,
             "bank": "EESTI PANK (BANK OF ESTONIA)",
             "city": "TALLINN",
             "branch": null,
             "swift_code": "EPBEEE2XCCB"
         },
         {
-            "id": 16,
-            "bank": "ES CITADELE BANKA EESTI FILIAAL",
-            "city": "TALLINN",
-            "branch": null,
-            "swift_code": "PARXEE22"
-        },
-        {
-            "id": 17,
-            "bank": "ESTONIAN CREDIT BANK",
-            "city": "TALLINN",
-            "branch": null,
-            "swift_code": "EKRDEE22"
-        },
-        {
-            "id": 18,
+            "id": 21,
             "bank": "ESTONIAN CSD",
             "city": "TALLINN",
             "branch": null,
             "swift_code": "ECSDEE2X"
         },
         {
-            "id": 19,
+            "id": 22,
             "bank": "EVLI BANK LTD",
             "city": "TALLINN",
             "branch": null,
             "swift_code": "EVSEEE21"
         },
         {
-            "id": 20,
+            "id": 23,
             "bank": "EVLI SECURITIES AS",
             "city": "TALLINN",
             "branch": null,
             "swift_code": "SUSCEE21"
         },
         {
-            "id": 21,
+            "id": 24,
+            "bank": "FALCON AND PARTNERS OU",
+            "city": "TALLINN",
+            "branch": null,
+            "swift_code": "FAPNEE21"
+        },
+        {
+            "id": 25,
             "bank": "FOLKIA AS EESTI FILIAAL",
             "city": "TALLINN",
             "branch": null,
             "swift_code": "FOEFEE21"
         },
         {
-            "id": 22,
+            "id": 26,
             "bank": "GFC GOOD FINANCE COMPANY AS",
             "city": "TALLINN",
             "branch": null,
             "swift_code": "GFCBEE22"
         },
         {
-            "id": 23,
+            "id": 27,
+            "bank": "JBC FINANCIAL ADVISOR OU",
+            "city": "TALLINN",
+            "branch": null,
+            "swift_code": "JBFAEE21"
+        },
+        {
+            "id": 28,
             "bank": "KIT FINANCE EUROPE AS",
             "city": "TALLINN",
             "branch": null,
             "swift_code": "AUASEE21"
         },
         {
-            "id": 24,
+            "id": 29,
+            "bank": "LUMINOR BANK AS, ESTONIA (FORMER AS DNB PANK)",
+            "city": "TALLINN",
+            "branch": null,
+            "swift_code": "RIKOEE22"
+        },
+        {
+            "id": 30,
+            "bank": "LUMINOR BANK AS, ESTONIA (FORMER NORDEA BANK AB ESTONIA BRANCH)",
+            "city": "TALLINN",
+            "branch": null,
+            "swift_code": "NDEAEE2X"
+        },
+        {
+            "id": 31,
             "bank": "MONEYEXPRESS",
             "city": "TALLINN",
             "branch": null,
             "swift_code": "MOEXEE21"
         },
         {
-            "id": 25,
-            "bank": "NORDEA BANK AB ESTONIA BRANCH (FORMERLY NORDEA BANK FINLAND ESTONIA BRANCH)",
-            "city": "TALLINN",
-            "branch": null,
-            "swift_code": "NDEAEE2X"
-        },
-        {
-            "id": 26,
-            "bank": "POHJOLA BANK PLC ESTONIAN BRANCH",
+            "id": 32,
+            "bank": "OP CORPORATE BANK PLC ESTONIAN BRANCH",
             "city": "TALLINN",
             "branch": null,
             "swift_code": "OKOYEE2X"
         },
         {
-            "id": 27,
+            "id": 33,
             "bank": "SCANIA FINANS AB EESTI FILIAL",
             "city": "TALLINN",
             "branch": null,
             "swift_code": "SFEFEE21"
         },
         {
-            "id": 28,
+            "id": 34,
             "bank": "SVENSKA HANDELSBANKEN AB ESTONIAN BRANCH",
             "city": "TALLINN",
             "branch": null,
             "swift_code": "HANDEE22"
         },
         {
-            "id": 29,
+            "id": 35,
             "bank": "SWEDBANK AS",
             "city": "TALLINN",
             "branch": "(HANSA ASSET MANAGMENT)",
             "swift_code": "HABAEE2XHAM"
         },
         {
-            "id": 30,
+            "id": 36,
             "bank": "SWEDBANK AS",
             "city": "TALLINN",
             "branch": null,
             "swift_code": "HABAEE2X"
         },
         {
-            "id": 31,
+            "id": 37,
             "bank": "TALLINN BUSINESS BANK LTD",
             "city": "TALLINN",
             "branch": null,
             "swift_code": "TABUEE22"
         },
         {
-            "id": 32,
+            "id": 38,
             "bank": "TALLINN STOCK EXCHANGE",
             "city": "TALLINN",
             "branch": null,
             "swift_code": "XTALEE21"
         },
         {
-            "id": 33,
+            "id": 39,
+            "bank": "TALLINNA HOIU-LAENUUHISTU",
+            "city": "TALLINN",
+            "branch": null,
+            "swift_code": "TAHLEE21"
+        },
+        {
+            "id": 40,
+            "bank": "TALVEAED AS",
+            "city": "TALLINN",
+            "branch": null,
+            "swift_code": "TALVEE21"
+        },
+        {
+            "id": 41,
+            "bank": "TARTU HOIU-LAENUUHISTU",
+            "city": "TARTU",
+            "branch": null,
+            "swift_code": "TAHUEE21"
+        },
+        {
+            "id": 42,
             "bank": "TOP CREDIT OU",
             "city": "TALLINN",
             "branch": null,
             "swift_code": "TOPCEE21"
         },
         {
-            "id": 34,
+            "id": 43,
+            "bank": "TRANSFERWISE LTD. EESTI FILIAAL",
+            "city": "TALLINN",
+            "branch": null,
+            "swift_code": "TRAWEE21"
+        },
+        {
+            "id": 44,
             "bank": "VERSOBANK AS",
             "city": "TALLINN",
             "branch": null,
